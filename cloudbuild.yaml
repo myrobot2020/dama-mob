@@ -41,6 +41,14 @@ steps:
       - ${_REGION}-docker.pkg.dev/$PROJECT_ID/${_AR_REPO}/${_SERVICE_NAME}:latest
       - .
 
+  # Cloud Build's `images:` push runs *after* all steps; deploy must pull from AR first.
+  - id: push-images
+    name: gcr.io/cloud-builders/docker
+    args:
+      - push
+      - --all-tags
+      - ${_REGION}-docker.pkg.dev/$PROJECT_ID/${_AR_REPO}/${_SERVICE_NAME}
+
   - id: deploy
     name: gcr.io/google.com/cloudsdktool/cloud-sdk:slim
     entrypoint: gcloud
@@ -53,10 +61,6 @@ steps:
       - --platform=managed
       - --allow-unauthenticated
       - --quiet
-
-images:
-  - ${_REGION}-docker.pkg.dev/$PROJECT_ID/${_AR_REPO}/${_SERVICE_NAME}:$SHORT_SHA
-  - ${_REGION}-docker.pkg.dev/$PROJECT_ID/${_AR_REPO}/${_SERVICE_NAME}:latest
 
 options:
   logging: CLOUD_LOGGING_ONLY
