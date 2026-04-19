@@ -5,19 +5,17 @@ import { CorpusHeaderNav } from "@/components/CorpusHeaderNav";
 import { BottomNav } from "@/components/BottomNav";
 import { CanonQuote } from "@/components/CanonQuote";
 import { AudioPlayer } from "@/components/AudioPlayer";
-import an1116Data from "@/data/an11.16.json";
 import mettaInfographic from "@/assets/an1116-metta-infographic.png";
 import {
   canonIndexSubtitle,
   getCorpusAudSrc,
   getItem,
-  getPublicAudUrl,
   isAn1116Sutta,
   itemDisplayHeading,
   ItemDetail,
   stripTranscriptNoise,
 } from "@/lib/damaApi";
-import { Hexagon } from "lucide-react";
+import { ExternalLink, Hexagon } from "lucide-react";
 
 function normalizeParam(raw: string | undefined): string {
   if (raw == null || raw === "") return "";
@@ -88,9 +86,7 @@ function SuttaByIdScreen() {
   const audioSrcForItem = (it: ItemDetail): string | null => {
     const f = (it.aud_file || "").trim();
     if (!f) return null;
-    if (isAn1116Sutta(it.suttaid) && f === an1116Data.aud_file) {
-      return getPublicAudUrl(f);
-    }
+    /** Same path as other suttas: `/dama-aud/*` → `aud/` (dev/preview/Nitro). Avoid `/aud/*` from `public/` — not served on Cloud Run. */
     return getCorpusAudSrc(f);
   };
 
@@ -150,7 +146,7 @@ function SuttaByIdScreen() {
               <div className="mt-5 rounded-2xl overflow-hidden ring-1 ring-primary/20 bg-background/40">
                 <img
                   src={mettaInfographic}
-                  alt="Eleven advantages of radiation by mind of loving-kindness (mettā)"
+                  alt="Eleven advantages of radiating loving-kindness (mettā) by mind"
                   className="w-full h-auto object-contain object-top block"
                   loading="lazy"
                 />
@@ -161,6 +157,21 @@ function SuttaByIdScreen() {
               <div className="label-mono text-muted-foreground mb-2">Sutta</div>
               <CanonQuote text={stripTranscriptNoise(item.sutta)} />
             </section>
+
+            {!!item.youtube_url?.trim() && (
+              <section className="mt-6">
+                <div className="label-mono text-muted-foreground mb-2">Video</div>
+                <a
+                  href={item.youtube_url.trim()}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="glass rounded-2xl px-4 py-3 inline-flex items-center gap-2 text-primary font-medium hover:bg-primary/10 transition-colors ring-1 ring-primary/25"
+                >
+                  <ExternalLink size={18} className="shrink-0 opacity-90" aria-hidden />
+                  Watch on YouTube
+                </a>
+              </section>
+            )}
 
             {(() => {
               const src = audioSrcForItem(item);

@@ -99,16 +99,7 @@ export function AudioPlayer({
 
   return (
     <div className="glass rounded-2xl p-4 flex flex-col gap-3">
-      <audio
-        ref={audioRef}
-        src={src || undefined}
-        preload="metadata"
-        onError={() =>
-          setLoadError(
-            "MP3 missing: add it under public/aud/ with the exact filename from an11.16.json (see public/aud/README.txt).",
-          )
-        }
-      />
+      <audio ref={audioRef} src={src || undefined} preload="metadata" />
 
       <div className="flex items-center gap-3">
         <button
@@ -131,7 +122,9 @@ export function AudioPlayer({
         </button>
         <div className="flex-1 min-w-0">
           <div className="text-sm font-medium truncate">{label}</div>
-          {loadError && <p className="mt-1 text-xs text-destructive">{loadError}</p>}
+          {loadError && (
+            <p className="mt-1 text-xs text-muted-foreground">{loadError}</p>
+          )}
         </div>
       </div>
 
