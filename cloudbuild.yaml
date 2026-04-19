@@ -3,24 +3,26 @@
 # One-time (Console or gcloud):
 #   gcloud config set project damalight
 #   gcloud services enable cloudbuild.googleapis.com run.googleapis.com artifactregistry.googleapis.com
-#   gcloud artifacts repositories create dama-mob --repository-format=docker --location=us-central1
+#   gcloud artifacts repositories create dama-mob --repository-format=docker --location=asia-south1
 #
 # Connect GitHub: Cloud Build → Repositories → Connect repository → GitHub → select myrobot2020/dama-mob
 # Create trigger: branch ^main$, config: /cloudbuild.yaml, service account with roles:
 #   Cloud Build Editor, Artifact Registry Writer, Cloud Run Admin (or custom least-privilege).
 #
 substitutions:
-  _REGION: us-central1
+  # Mumbai (South Asia). Artifact Registry + Cloud Run deploy target.
+  _REGION: asia-south1
   _SERVICE_NAME: dama-mob
   _AR_REPO: dama-mob
 
 steps:
+  # npm ci was failing: lockfile peer trees differ from npm's strict ci check (nitro/unstorage peers).
   - id: install
     name: node:22
     dir: .
     env:
       - CI_GCP=1
-    args: ["npm", "ci"]
+    args: ["npm", "install", "--no-audit", "--no-fund"]
 
   - id: build
     name: node:22

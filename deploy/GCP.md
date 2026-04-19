@@ -6,7 +6,7 @@ Repo files: root `Dockerfile`, `cloudbuild.yaml`. Builds use **`CI_GCP=1`** so V
 
 
 
-Project: **`damalight`**. Cloud Build repository connection: **`dama-github`** (region **`us-central1`**). Artifact Registry Docker repo **`dama-mob`** in **`us-central1`** — already created.
+Project: **`damalight`**. GitHub connection **`dama-github`** stays in **`us-central1`** (where triggers run). Artifact Registry **`dama-mob`** and **Cloud Run** **`dama-mob`** use **`asia-south1`** (Mumbai, South Asia).
 
 
 
