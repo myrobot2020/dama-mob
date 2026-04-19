@@ -6,5 +6,10 @@ ENV NODE_ENV=production
 ENV PORT=8080
 ENV HOST=0.0.0.0
 COPY .output/ ./
+# Sutta JSON for `GET /__dama_corpus__/…` (matches local `valid json/` layout → /srv/corpus/anN/suttas/…).
+COPY ["valid json", "corpus"]
+RUN mkdir -p aud
+ENV CORPUS_ROOT=/srv/corpus
+ENV AUD_ROOT=/srv/aud
 EXPOSE 8080
 CMD ["node", "server/index.mjs"]

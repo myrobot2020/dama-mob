@@ -15,10 +15,13 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const projectRoot = path.resolve(__dirname);
 /** When set (e.g. Cloud Build), skip Cloudflare adapter and emit a Node server via Nitro for Cloud Run. */
 const ciGcp = process.env.CI_GCP === "1";
-/** AN corpus JSON (`an1`…`an11`) lives here by default. Override with `VITE_DAMA5_ROOT` (e.g. `valid json`). */
+const validJsonDir = path.join(projectRoot, "valid json");
+/** Corpus JSON root: env override, else `valid json/` when present (an*, sn, dn, mn, kn), else repo root. */
 const corpusRoot = process.env.VITE_DAMA5_ROOT
   ? path.resolve(process.env.VITE_DAMA5_ROOT)
-  : projectRoot;
+  : fs.existsSync(validJsonDir) && fs.statSync(validJsonDir).isDirectory()
+    ? validJsonDir
+    : projectRoot;
 /**
  * Teacher MP3 directory for `/dama-aud/*`. Override with `VITE_DAMA_AUD_ROOT`.
  * If `<corpusRoot>/aud` exists it wins; otherwise defaults to `<project>/aud` so JSON-only corpus folders still find audio.
@@ -61,7 +64,14 @@ export default defineConfig({
   cloudflare: ciGcp ? false : undefined,
   vite: {
     plugins: [
-      ...(ciGcp ? [nitro({ preset: "node-server" })] : []),
+      ...(ciGcp
+        ? [
+            nitro({
+              preset: "node-server",
+              serverDir: path.resolve(__dirname, "server"),
+            }),
+          ]
+        : []),
       ...(damaFs ? [damaFs] : []),
     ],
     server: {
