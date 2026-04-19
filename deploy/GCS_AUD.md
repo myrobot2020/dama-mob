@@ -17,6 +17,14 @@ Cloud Build sets this via substitution **`_VITE_DAMA_AUD_PUBLIC_BASE`** in `clou
 
 No Cloud Build needed to verify object names, `NoSuchKey`, or playback against public GCS.
 
+From repo root:
+
+```bash
+npm run verify:gcs-audio
+```
+
+Reads **`VITE_DAMA_AUD_PUBLIC_BASE`** from **`.env.local`** and **`HEAD`**-checks two sample MP3s (`097_…`, `005_…`).
+
 ## One-time: bucket + public read
 
 Project **`damalight`**, location **`asia-south1`** (same region family as Cloud Run):
