@@ -1,12 +1,21 @@
 # Teacher audio on Google Cloud Storage
 
-Corpus JSON references MP3s by filename (`aud_file`). The web app reads **`VITE_DAMA_AUD_PUBLIC_BASE`** at **build time** and requests:
+Corpus JSON references MP3s by filename (`aud_file`). Vite exposes **`VITE_DAMA_AUD_PUBLIC_BASE`** to the client at **dev and build** time. When set, the app requests:
 
 `{VITE_DAMA_AUD_PUBLIC_BASE}/{encodeURIComponent(filename)}`
 
 Example: `https://storage.googleapis.com/damalight-dama-aud/097_Anguttara%20Nikaya%20Book%2011%20116%20-%201116%20by%20Bhante%20Hye%20Dhammavuddho%20Mahathera.mp3`
 
 Cloud Build sets this via substitution **`_VITE_DAMA_AUD_PUBLIC_BASE`** in `cloudbuild.yaml` (default: `https://storage.googleapis.com/damalight-dama-aud`).
+
+## Test GCS from the local app (fewer deploy iterations)
+
+1. Copy **`.env.example`** → **`.env.local`** (gitignored).
+2. Add **`VITE_DAMA_AUD_PUBLIC_BASE=https://storage.googleapis.com/damalight-dama-aud`** (uncomment / paste).
+3. Restart **`npm run dev`** — teacher audio loads from the bucket in the browser, same URLs as production after upload (`gcloud storage rsync` / `cp`).
+4. Comment out that line and restart dev to switch back to **`/dama-aud/`** + local **`aud/`**.
+
+No Cloud Build needed to verify object names, `NoSuchKey`, or playback against public GCS.
 
 ## One-time: bucket + public read
 
