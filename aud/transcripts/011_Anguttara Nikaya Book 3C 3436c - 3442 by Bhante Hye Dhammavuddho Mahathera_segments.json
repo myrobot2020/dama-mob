@@ -1,0 +1,3340 @@
+{
+  "source": "faster-whisper",
+  "model": "tiny",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "en",
+  "duration": 1785.2894375,
+  "segments": [
+    {
+      "start": 1.87,
+      "end": 12.87,
+      "text": "And last week, we came up to Sutra number 3.4.36, just like to add a few more comments about this Sutra."
+    },
+    {
+      "start": 12.87,
+      "end": 24.87,
+      "text": "In this last Sutra, we heard about how the debuts from the four-grade Heavenly Kings Heaven,"
+    },
+    {
+      "start": 24.87,
+      "end": 30.87,
+      "text": "the circuit member laid the world on the 8th of the lunar mantra."
+    },
+    {
+      "start": 30.87,
+      "end": 36.87,
+      "text": "That means on the 8th day, the 15th day, the 23rd and the 30th day,"
+    },
+    {
+      "start": 36.87,
+      "end": 43.87,
+      "text": "or sometimes 29th day after the lunar month, they come and observe human beings in the world."
+    },
+    {
+      "start": 43.87,
+      "end": 53.87,
+      "text": "And then they report to Saka Devaraja and the other debuts of the Tabatim Saha Heaven, the Heaven of the 33th."
+    },
+    {
+      "start": 53.87,
+      "end": 59.87,
+      "text": "And they are interested to know whether human beings keep the precepts,"
+    },
+    {
+      "start": 59.87,
+      "end": 66.87,
+      "text": "and they respect to mother and father to recluse and brahmanas,"
+    },
+    {
+      "start": 66.87,
+      "end": 76.87,
+      "text": "to elders and keep the 8th precepts on the Sabbath days on those days."
+    },
+    {
+      "start": 76.87,
+      "end": 86.87,
+      "text": "Now, we are like to say that it is taught by the Buddha that we should,"
+    },
+    {
+      "start": 86.87,
+      "end": 94.87,
+      "text": "on the 8th days of the month of the lunar month, as we just mentioned at the 8th, the 15th, 23rd,"
+    },
+    {
+      "start": 94.87,
+      "end": 103.87,
+      "text": "and the 30th, we should keep the 8th precepts, because as lay people, you don't have time to practice every day,"
+    },
+    {
+      "start": 103.87,
+      "end": 109.87,
+      "text": "but at least once a week on the average, the Buddha said, if you keep the 8th precepts,"
+    },
+    {
+      "start": 109.87,
+      "end": 119.87,
+      "text": "and the merit from that will bring you very likely to rebirth in the heavenly realms."
+    },
+    {
+      "start": 119.87,
+      "end": 123.87,
+      "text": "That is why it is very important to keep the 8th precepts."
+    },
+    {
+      "start": 123.87,
+      "end": 132.87,
+      "text": "Now nowadays, it is not so convenient as before to keep the 8th precepts on the 8th day, 15th,"
+    },
+    {
+      "start": 132.87,
+      "end": 138.87,
+      "text": "and 30th day of the lunar month, might be more convenient to keep it, say, on a Sunday,"
+    },
+    {
+      "start": 138.87,
+      "end": 141.87,
+      "text": "when people are not working."
+    },
+    {
+      "start": 141.87,
+      "end": 150.87,
+      "text": "And if you can go to the temple or Vihara or Buddhist association to keep the precepts,"
+    },
+    {
+      "start": 150.87,
+      "end": 156.87,
+      "text": "it is very good, but if you can, then you can practice it at home, also keep the 8th precepts."
+    },
+    {
+      "start": 156.87,
+      "end": 163.87,
+      "text": "By coming together on the, say once a week on the Sunday and to a temple,"
+    },
+    {
+      "start": 163.87,
+      "end": 168.87,
+      "text": "it is a very good way for all Buddhists to come together to unite."
+    },
+    {
+      "start": 168.87,
+      "end": 177.87,
+      "text": "And it is quite important that Buddhists come together frequently, come together in harmony,"
+    },
+    {
+      "start": 177.87,
+      "end": 184.87,
+      "text": "and we can be more closely in it and support each other."
+    },
+    {
+      "start": 184.87,
+      "end": 190.87,
+      "text": "The other thing about this uta is, why are the divas of heaven of the 33?"
+    },
+    {
+      "start": 190.87,
+      "end": 198.87,
+      "text": "So concern about whether human beings keep the precepts and review, mother and father,"
+    },
+    {
+      "start": 198.87,
+      "end": 205.87,
+      "text": "and elders, because they mentioned here that if human beings keep the precepts and"
+    },
+    {
+      "start": 205.87,
+      "end": 209.87,
+      "text": "pay respect to the elders, etc, and do good works."
+    },
+    {
+      "start": 209.87,
+      "end": 217.87,
+      "text": "That the divas were increased, but if they don't do that, then the asuras were increased."
+    },
+    {
+      "start": 217.87,
+      "end": 225.87,
+      "text": "And from here you can see here, that heaven, the divas of the 33 heaven,"
+    },
+    {
+      "start": 225.87,
+      "end": 228.87,
+      "text": "they are not on good terms with the asuras."
+    },
+    {
+      "start": 228.87,
+      "end": 232.87,
+      "text": "The asuras were originally in the Tabatimsa heaven,"
+    },
+    {
+      "start": 232.87,
+      "end": 241.87,
+      "text": "heaven of the 33, but they were displaced by Sakadevaraja and the other divas."
+    },
+    {
+      "start": 241.87,
+      "end": 244.87,
+      "text": "So it seems in some other uta."
+    },
+    {
+      "start": 244.87,
+      "end": 254.87,
+      "text": "Once a year is asuras, there is a time of the year when there is a huge victory in the heaven of the 33,"
+    },
+    {
+      "start": 254.87,
+      "end": 261.87,
+      "text": "it blooms, it blooms and the flowers are very fragrant and it goes along with."
+    },
+    {
+      "start": 261.87,
+      "end": 272.87,
+      "text": "And so when that tree blooms and those divas in the 33, they enjoy themselves under the tree and for a few months."
+    },
+    {
+      "start": 272.87,
+      "end": 276.87,
+      "text": "So the asuras they remember that they used to enjoy them,"
+    },
+    {
+      "start": 276.87,
+      "end": 279.87,
+      "text": "they now they don't have the chance."
+    },
+    {
+      "start": 279.87,
+      "end": 285.87,
+      "text": "They go up and try to fight with the divas of the heaven of the 33."
+    },
+    {
+      "start": 285.87,
+      "end": 289.87,
+      "text": "And this is found in Buddhism, this also found in Hinduism,"
+    },
+    {
+      "start": 289.87,
+      "end": 295.87,
+      "text": "and also in the Bible, this mentioned that Michael, the outangel,"
+    },
+    {
+      "start": 295.87,
+      "end": 301.87,
+      "text": "draw the Satan and his horse out of the heaven,"
+    },
+    {
+      "start": 301.87,
+      "end": 309.87,
+      "text": "and that might be actually referring to this Sakadevaraja fighting asuras."
+    },
+    {
+      "start": 309.87,
+      "end": 312.87,
+      "text": "So that's all I have to say about the asuras."
+    },
+    {
+      "start": 312.87,
+      "end": 318.63,
+      "text": "Now we come to another sutra 3.4.38."
+    },
+    {
+      "start": 318.63,
+      "end": 320.63,
+      "text": "The Buddha said now,"
+    },
+    {
+      "start": 320.63,
+      "end": 325.63,
+      "text": "monks, house delicately nature exceeding delicately nature,"
+    },
+    {
+      "start": 325.63,
+      "end": 328.63,
+      "text": "delicately nature beyond measure."
+    },
+    {
+      "start": 328.63,
+      "end": 331.63,
+      "text": "For instance, in my father's house,"
+    },
+    {
+      "start": 331.63,
+      "end": 333.63,
+      "text": "lotus pools were made thus,"
+    },
+    {
+      "start": 333.63,
+      "end": 337.63,
+      "text": "one of blue lotus's, one of red,"
+    },
+    {
+      "start": 337.63,
+      "end": 341.63,
+      "text": "another white lotus's, just for my benefit."
+    },
+    {
+      "start": 342.63,
+      "end": 346.63,
+      "text": "No sandalwood powder did I use that was not from Kasi."
+    },
+    {
+      "start": 346.63,
+      "end": 349.63,
+      "text": "Of Kasi cloth was my turban made,"
+    },
+    {
+      "start": 349.63,
+      "end": 352.63,
+      "text": "of Kasi cloth was my jacket,"
+    },
+    {
+      "start": 352.63,
+      "end": 354.63,
+      "text": "my tunic and my cloak."
+    },
+    {
+      "start": 354.63,
+      "end": 357.63,
+      "text": "By day and night, a white canopy"
+    },
+    {
+      "start": 357.63,
+      "end": 359.63,
+      "text": "was held over me,"
+    },
+    {
+      "start": 359.63,
+      "end": 361.63,
+      "text": "let's call the heat,"
+    },
+    {
+      "start": 361.63,
+      "end": 365.63,
+      "text": "that's our chaff of dew should touch me."
+    },
+    {
+      "start": 365.63,
+      "end": 368.63,
+      "text": "Moreover, monks, I had three mansions,"
+    },
+    {
+      "start": 369.63,
+      "end": 371.63,
+      "text": "one for winter, one for summer,"
+    },
+    {
+      "start": 371.63,
+      "end": 373.63,
+      "text": "and one for the rainy season."
+    },
+    {
+      "start": 373.63,
+      "end": 375.63,
+      "text": "In the four months of the rains,"
+    },
+    {
+      "start": 375.63,
+      "end": 377.63,
+      "text": "I was waited on by minstrels,"
+    },
+    {
+      "start": 377.63,
+      "end": 379.63,
+      "text": "women, all of them."
+    },
+    {
+      "start": 379.63,
+      "end": 384.63,
+      "text": "I came not down from my mansion in those months."
+    },
+    {
+      "start": 384.63,
+      "end": 385.63,
+      "text": "Again,"
+    },
+    {
+      "start": 385.63,
+      "end": 387.63,
+      "text": "Paris in other men's homes,"
+    },
+    {
+      "start": 387.63,
+      "end": 390.63,
+      "text": "broken rice together with Sahagrul,"
+    },
+    {
+      "start": 390.63,
+      "end": 393.63,
+      "text": "is given as food to slave servants."
+    },
+    {
+      "start": 393.63,
+      "end": 395.63,
+      "text": "In my father's home,"
+    },
+    {
+      "start": 395.63,
+      "end": 397.63,
+      "text": "they were given rice, meat,"
+    },
+    {
+      "start": 397.63,
+      "end": 400.63,
+      "text": "and milk rice for their food."
+    },
+    {
+      "start": 400.63,
+      "end": 401.63,
+      "text": "To me, monks,"
+    },
+    {
+      "start": 401.63,
+      "end": 404.63,
+      "text": "thus blessed with much prosperity,"
+    },
+    {
+      "start": 404.63,
+      "end": 407.63,
+      "text": "thus matured with exceeding delicacy,"
+    },
+    {
+      "start": 407.63,
+      "end": 409.63,
+      "text": "this thought occurred."
+    },
+    {
+      "start": 409.63,
+      "end": 412.63,
+      "text": "Surely one of the uneducated many hope,"
+    },
+    {
+      "start": 412.63,
+      "end": 416.63,
+      "text": "though himself subject to all age and decay,"
+    },
+    {
+      "start": 416.63,
+      "end": 420.63,
+      "text": "not having passed beyond all age and decay,"
+    },
+    {
+      "start": 420.63,
+      "end": 423.63,
+      "text": "but he sees another broken down with age,"
+    },
+    {
+      "start": 423.63,
+      "end": 424.63,
+      "text": "and might be troubled,"
+    },
+    {
+      "start": 424.63,
+      "end": 426.63,
+      "text": "a shame, disgusted,"
+    },
+    {
+      "start": 426.63,
+      "end": 429.63,
+      "text": "forgetful that he himself is such a one."
+    },
+    {
+      "start": 429.63,
+      "end": 432.63,
+      "text": "Now I too am subject to all age and decay,"
+    },
+    {
+      "start": 432.63,
+      "end": 436.63,
+      "text": "not having passed beyond all age and decay,"
+    },
+    {
+      "start": 436.63,
+      "end": 440.63,
+      "text": "were I to see another broken down with all age,"
+    },
+    {
+      "start": 440.63,
+      "end": 442.63,
+      "text": "I might be troubled,"
+    },
+    {
+      "start": 442.63,
+      "end": 443.63,
+      "text": "ashamed and disgusted."
+    },
+    {
+      "start": 443.63,
+      "end": 446.63,
+      "text": "There would not be seemingly in me,"
+    },
+    {
+      "start": 446.63,
+      "end": 447.63,
+      "text": "thus monks,"
+    },
+    {
+      "start": 447.63,
+      "end": 449.63,
+      "text": "as I considered the matter,"
+    },
+    {
+      "start": 449.63,
+      "end": 452.63,
+      "text": "all pride in my youth deserted me."
+    },
+    {
+      "start": 453.63,
+      "end": 454.63,
+      "text": "Again, monks,"
+    },
+    {
+      "start": 454.63,
+      "end": 455.63,
+      "text": "I thought,"
+    },
+    {
+      "start": 455.63,
+      "end": 457.63,
+      "text": "one of the uneducated many hope,"
+    },
+    {
+      "start": 457.63,
+      "end": 460.63,
+      "text": "though himself subject to disease,"
+    },
+    {
+      "start": 460.63,
+      "end": 462.63,
+      "text": "not having passed beyond disease,"
+    },
+    {
+      "start": 462.63,
+      "end": 464.63,
+      "text": "and he sees another person"
+    },
+    {
+      "start": 464.63,
+      "end": 465.63,
+      "text": "diseased,"
+    },
+    {
+      "start": 465.63,
+      "end": 466.63,
+      "text": "is troubled,"
+    },
+    {
+      "start": 466.63,
+      "end": 468.63,
+      "text": "ashamed and disgusted,"
+    },
+    {
+      "start": 468.63,
+      "end": 471.63,
+      "text": "forgetful that he himself is such a one."
+    },
+    {
+      "start": 471.63,
+      "end": 473.63,
+      "text": "Now I too am subject to disease,"
+    },
+    {
+      "start": 473.63,
+      "end": 476.63,
+      "text": "I have not passed beyond disease,"
+    },
+    {
+      "start": 476.63,
+      "end": 478.63,
+      "text": "who I to see another disease,"
+    },
+    {
+      "start": 479.63,
+      "end": 482.63,
+      "text": "I might be troubled, ashamed, disgusted,"
+    },
+    {
+      "start": 482.63,
+      "end": 484.63,
+      "text": "that would not be seemingly in me,"
+    },
+    {
+      "start": 484.63,
+      "end": 485.63,
+      "text": "thus monks,"
+    },
+    {
+      "start": 485.63,
+      "end": 487.63,
+      "text": "as I considered the matter,"
+    },
+    {
+      "start": 487.63,
+      "end": 490.63,
+      "text": "all pride in my health deserted me."
+    },
+    {
+      "start": 490.63,
+      "end": 492.63,
+      "text": "Again, monks,"
+    },
+    {
+      "start": 492.63,
+      "end": 493.63,
+      "text": "I thought,"
+    },
+    {
+      "start": 493.63,
+      "end": 495.63,
+      "text": "one of the uneducated many hope,"
+    },
+    {
+      "start": 495.63,
+      "end": 496.63,
+      "text": "etc."
+    },
+    {
+      "start": 496.63,
+      "end": 499.63,
+      "text": "and he sees another person subject to death,"
+    },
+    {
+      "start": 499.63,
+      "end": 501.63,
+      "text": "is disgusted and ashamed,"
+    },
+    {
+      "start": 501.63,
+      "end": 504.63,
+      "text": "forgetful that he himself is such a one."
+    },
+    {
+      "start": 504.63,
+      "end": 506.63,
+      "text": "Now I too am subject to death,"
+    },
+    {
+      "start": 507.63,
+      "end": 509.63,
+      "text": "I have not passed beyond death,"
+    },
+    {
+      "start": 509.63,
+      "end": 512.63,
+      "text": "who I to see another subject to death,"
+    },
+    {
+      "start": 512.63,
+      "end": 515.63,
+      "text": "I might be troubled, disgusted, etc."
+    },
+    {
+      "start": 515.63,
+      "end": 517.63,
+      "text": "That would not be seemingly in me,"
+    },
+    {
+      "start": 517.63,
+      "end": 518.63,
+      "text": "thus monks,"
+    },
+    {
+      "start": 518.63,
+      "end": 520.63,
+      "text": "as I considered the matter,"
+    },
+    {
+      "start": 520.63,
+      "end": 522.63,
+      "text": "all pride in my life and deserted me,"
+    },
+    {
+      "start": 522.63,
+      "end": 524.63,
+      "text": "as the end of the sutta."
+    },
+    {
+      "start": 524.63,
+      "end": 526.63,
+      "text": "So in this sutta,"
+    },
+    {
+      "start": 526.63,
+      "end": 530.63,
+      "text": "the first Buddha said that he had an extremely good life"
+    },
+    {
+      "start": 530.63,
+      "end": 532.63,
+      "text": "in his father's house."
+    },
+    {
+      "start": 532.63,
+      "end": 534.63,
+      "text": "At that time,"
+    },
+    {
+      "start": 534.63,
+      "end": 537.63,
+      "text": "Kasi was a very famous city,"
+    },
+    {
+      "start": 537.63,
+      "end": 541.63,
+      "text": "and all kinds of good materials got from Kasi,"
+    },
+    {
+      "start": 541.63,
+      "end": 545.63,
+      "text": "so that he used his clothes and all that turban"
+    },
+    {
+      "start": 545.63,
+      "end": 548.63,
+      "text": "and all that was from Kasi."
+    },
+    {
+      "start": 548.63,
+      "end": 552.63,
+      "text": "And he had three mansions built for him"
+    },
+    {
+      "start": 552.63,
+      "end": 553.63,
+      "text": "for the three seasons,"
+    },
+    {
+      "start": 553.63,
+      "end": 555.63,
+      "text": "in India they had three seasons,"
+    },
+    {
+      "start": 555.63,
+      "end": 557.63,
+      "text": "winter, summer, and rainy season."
+    },
+    {
+      "start": 557.63,
+      "end": 558.63,
+      "text": "And during the rainy season,"
+    },
+    {
+      "start": 558.63,
+      "end": 559.63,
+      "text": "when it rained a lot,"
+    },
+    {
+      "start": 559.63,
+      "end": 561.63,
+      "text": "he didn't go out from that mansion,"
+    },
+    {
+      "start": 561.63,
+      "end": 563.63,
+      "text": "he was waited on by,"
+    },
+    {
+      "start": 563.63,
+      "end": 565.63,
+      "text": "I think female slaves,"
+    },
+    {
+      "start": 565.63,
+      "end": 567.63,
+      "text": "and they took care of him,"
+    },
+    {
+      "start": 567.63,
+      "end": 570.63,
+      "text": "and he had a very pleasurable,"
+    },
+    {
+      "start": 570.63,
+      "end": 571.63,
+      "text": "sensual life,"
+    },
+    {
+      "start": 571.63,
+      "end": 574.63,
+      "text": "and when he was young."
+    },
+    {
+      "start": 574.63,
+      "end": 579.63,
+      "text": "And even though he had such a good life"
+    },
+    {
+      "start": 579.63,
+      "end": 581.63,
+      "text": "when he was young,"
+    },
+    {
+      "start": 581.63,
+      "end": 584.63,
+      "text": "you see this kind of pot that he used to think,"
+    },
+    {
+      "start": 584.63,
+      "end": 586.63,
+      "text": "when even when he was young,"
+    },
+    {
+      "start": 586.63,
+      "end": 587.63,
+      "text": "when he was healthy,"
+    },
+    {
+      "start": 587.63,
+      "end": 589.63,
+      "text": "he was thinking that,"
+    },
+    {
+      "start": 589.63,
+      "end": 591.63,
+      "text": "if he saw an old person"
+    },
+    {
+      "start": 592.63,
+      "end": 593.63,
+      "text": "normally,"
+    },
+    {
+      "start": 593.63,
+      "end": 594.63,
+      "text": "a lot of young people,"
+    },
+    {
+      "start": 594.63,
+      "end": 596.63,
+      "text": "when they see an old person,"
+    },
+    {
+      "start": 596.63,
+      "end": 598.63,
+      "text": "they had disgusted."
+    },
+    {
+      "start": 598.63,
+      "end": 600.63,
+      "text": "They don't like to see old people,"
+    },
+    {
+      "start": 600.63,
+      "end": 602.63,
+      "text": "but he himself,"
+    },
+    {
+      "start": 602.63,
+      "end": 603.63,
+      "text": "he thought,"
+    },
+    {
+      "start": 603.63,
+      "end": 606.63,
+      "text": "even though he's not old at that time,"
+    },
+    {
+      "start": 606.63,
+      "end": 608.63,
+      "text": "but one day he will become old."
+    },
+    {
+      "start": 608.63,
+      "end": 611.63,
+      "text": "So there's nothing to be disgusted"
+    },
+    {
+      "start": 611.63,
+      "end": 613.63,
+      "text": "or seeing somebody old,"
+    },
+    {
+      "start": 613.63,
+      "end": 617.63,
+      "text": "because that is the state that we are going to be very soon."
+    },
+    {
+      "start": 617.63,
+      "end": 619.63,
+      "text": "So in the same way,"
+    },
+    {
+      "start": 619.63,
+      "end": 621.63,
+      "text": "somebody diseased or sick,"
+    },
+    {
+      "start": 621.63,
+      "end": 622.63,
+      "text": "he also thought,"
+    },
+    {
+      "start": 622.63,
+      "end": 624.63,
+      "text": "one day when he becomes old,"
+    },
+    {
+      "start": 624.63,
+      "end": 625.63,
+      "text": "he also would be like that."
+    },
+    {
+      "start": 625.63,
+      "end": 629.63,
+      "text": "And also when somebody saw somebody,"
+    },
+    {
+      "start": 629.63,
+      "end": 632.63,
+      "text": "he also had that kind of feeling."
+    },
+    {
+      "start": 632.63,
+      "end": 634.63,
+      "text": "Now,"
+    },
+    {
+      "start": 634.63,
+      "end": 636.63,
+      "text": "so you can see,"
+    },
+    {
+      "start": 636.63,
+      "end": 639.63,
+      "text": "the Buddha,"
+    },
+    {
+      "start": 639.63,
+      "end": 641.63,
+      "text": "two things such thoughts,"
+    },
+    {
+      "start": 641.63,
+      "end": 642.63,
+      "text": "well,"
+    },
+    {
+      "start": 642.63,
+      "end": 643.63,
+      "text": "it's quite unusual."
+    },
+    {
+      "start": 643.63,
+      "end": 645.63,
+      "text": "It's not everybody who is like that,"
+    },
+    {
+      "start": 645.63,
+      "end": 646.63,
+      "text": "having such a good life,"
+    },
+    {
+      "start": 646.63,
+      "end": 648.63,
+      "text": "and then thinking about old age,"
+    },
+    {
+      "start": 648.63,
+      "end": 650.63,
+      "text": "and sickness and death,"
+    },
+    {
+      "start": 650.63,
+      "end": 653.63,
+      "text": "and then only shows that it is previous life,"
+    },
+    {
+      "start": 653.63,
+      "end": 656.63,
+      "text": "he had already encountered the Dhamma,"
+    },
+    {
+      "start": 656.63,
+      "end": 659.63,
+      "text": "and this can be seen in the Kathikara Sutta,"
+    },
+    {
+      "start": 659.63,
+      "end": 662.63,
+      "text": "in the Majima Nikaya."
+    },
+    {
+      "start": 662.63,
+      "end": 664.63,
+      "text": "This mentioned that the Buddha,"
+    },
+    {
+      "start": 664.63,
+      "end": 666.63,
+      "text": "in a previous life,"
+    },
+    {
+      "start": 666.63,
+      "end": 668.63,
+      "text": "met the last Buddha,"
+    },
+    {
+      "start": 668.63,
+      "end": 670.63,
+      "text": "which was Kasapa Buddha."
+    },
+    {
+      "start": 670.63,
+      "end": 672.63,
+      "text": "And at first,"
+    },
+    {
+      "start": 672.63,
+      "end": 676.63,
+      "text": "our Bodhisattva at that time,"
+    },
+    {
+      "start": 676.63,
+      "end": 678.63,
+      "text": "his name was Jotipala,"
+    },
+    {
+      "start": 678.63,
+      "end": 680.63,
+      "text": "and he saw a Buddha in the previous life."
+    },
+    {
+      "start": 680.63,
+      "end": 682.63,
+      "text": "Because he was a Brahmin,"
+    },
+    {
+      "start": 682.63,
+      "end": 687.63,
+      "text": "he did not want to even go and see the Buddha Kasapa."
+    },
+    {
+      "start": 687.63,
+      "end": 688.63,
+      "text": "And later,"
+    },
+    {
+      "start": 688.63,
+      "end": 689.63,
+      "text": "when he was persuaded by his friend,"
+    },
+    {
+      "start": 689.63,
+      "end": 691.63,
+      "text": "to go and see the Buddha Kasapa,"
+    },
+    {
+      "start": 691.63,
+      "end": 695.63,
+      "text": "he even refused to pay respect to the Buddha Kasapa,"
+    },
+    {
+      "start": 695.63,
+      "end": 696.63,
+      "text": "he just said,"
+    },
+    {
+      "start": 696.63,
+      "end": 697.63,
+      "text": "hello, hello,"
+    },
+    {
+      "start": 697.63,
+      "end": 699.63,
+      "text": "and sat down to one side."
+    },
+    {
+      "start": 699.63,
+      "end": 702.63,
+      "text": "But the Buddha out of compassion,"
+    },
+    {
+      "start": 702.63,
+      "end": 705.63,
+      "text": "and also because our Jotipala's good friend,"
+    },
+    {
+      "start": 705.63,
+      "end": 708.63,
+      "text": "Kathikara asked the Buddha to teach him some Dhamma,"
+    },
+    {
+      "start": 708.63,
+      "end": 710.63,
+      "text": "so Buddha Kasapa taught him some Dhamma,"
+    },
+    {
+      "start": 710.63,
+      "end": 712.63,
+      "text": "and after listening to the Dhamma,"
+    },
+    {
+      "start": 712.63,
+      "end": 714.63,
+      "text": "he made 180 degrees turn."
+    },
+    {
+      "start": 714.63,
+      "end": 715.63,
+      "text": "In other words,"
+    },
+    {
+      "start": 715.63,
+      "end": 717.63,
+      "text": "he gave up his religion,"
+    },
+    {
+      "start": 717.63,
+      "end": 718.63,
+      "text": "the Brahmin religion,"
+    },
+    {
+      "start": 718.63,
+      "end": 721.63,
+      "text": "and eventually renounce and became a monk."
+    },
+    {
+      "start": 721.63,
+      "end": 722.63,
+      "text": "So,"
+    },
+    {
+      "start": 722.63,
+      "end": 724.63,
+      "text": "in the previous life,"
+    },
+    {
+      "start": 724.63,
+      "end": 727.63,
+      "text": "the Buddha had already become a monk and cultivated."
+    },
+    {
+      "start": 727.63,
+      "end": 731.63,
+      "text": "And it is possible that he had already become a raya,"
+    },
+    {
+      "start": 731.63,
+      "end": 733.63,
+      "text": "or so to pana or something."
+    },
+    {
+      "start": 733.63,
+      "end": 736.63,
+      "text": "That's why when he came back in this last life,"
+    },
+    {
+      "start": 736.63,
+      "end": 741.63,
+      "text": "something kept reminding him of all his sickness and death,"
+    },
+    {
+      "start": 741.63,
+      "end": 744.63,
+      "text": "even though he had such a good life."
+    },
+    {
+      "start": 744.63,
+      "end": 748.63,
+      "text": "The other thing I just like to mention about the Buddha"
+    },
+    {
+      "start": 748.63,
+      "end": 752.63,
+      "text": "is that many people have the wrong idea"
+    },
+    {
+      "start": 752.63,
+      "end": 757.63,
+      "text": "from reading the books that the Buddha was the prince"
+    },
+    {
+      "start": 757.63,
+      "end": 760.63,
+      "text": "and that his father was a king."
+    },
+    {
+      "start": 760.63,
+      "end": 761.63,
+      "text": "It is not true."
+    },
+    {
+      "start": 761.63,
+      "end": 764.63,
+      "text": "We can see from the sutras and the vignaya"
+    },
+    {
+      "start": 764.63,
+      "end": 768.63,
+      "text": "that the Buddha belonged to the sakin clan,"
+    },
+    {
+      "start": 768.63,
+      "end": 771.63,
+      "text": "and his clan was a warrior clan,"
+    },
+    {
+      "start": 771.63,
+      "end": 774.63,
+      "text": "a tia clan, a sattriya clan,"
+    },
+    {
+      "start": 774.63,
+      "end": 776.63,
+      "text": "that is the warrior clan,"
+    },
+    {
+      "start": 776.63,
+      "end": 779.63,
+      "text": "like a raja or tungku in this country."
+    },
+    {
+      "start": 779.63,
+      "end": 783.63,
+      "text": "But his father was not the king"
+    },
+    {
+      "start": 783.63,
+      "end": 787.63,
+      "text": "because they lived in a country called Gosala,"
+    },
+    {
+      "start": 787.63,
+      "end": 790.63,
+      "text": "and the king of Gosala is mentioned in the sutras,"
+    },
+    {
+      "start": 790.63,
+      "end": 793.63,
+      "text": "the king of Gosala was pasanadhi,"
+    },
+    {
+      "start": 793.63,
+      "end": 795.63,
+      "text": "pasanadhi was a king."
+    },
+    {
+      "start": 795.63,
+      "end": 800.63,
+      "text": "And the Buddha's father was not even the chief of the sakin clan,"
+    },
+    {
+      "start": 800.63,
+      "end": 802.63,
+      "text": "the chief of the sakin clan was a man,"
+    },
+    {
+      "start": 802.63,
+      "end": 804.63,
+      "text": "but the name of baddya."
+    },
+    {
+      "start": 804.63,
+      "end": 808.63,
+      "text": "And this man, baddya later, was persuaded to renounce"
+    },
+    {
+      "start": 808.63,
+      "end": 811.63,
+      "text": "and became a man under the Buddha."
+    },
+    {
+      "start": 811.63,
+      "end": 814.63,
+      "text": "So we just see that from the sutras,"
+    },
+    {
+      "start": 814.63,
+      "end": 819.63,
+      "text": "that the Buddha came from this warrior clan family,"
+    },
+    {
+      "start": 819.63,
+      "end": 822.63,
+      "text": "and the father was very rich."
+    },
+    {
+      "start": 822.63,
+      "end": 826.63,
+      "text": "And just now we read about how the Buddha had such a"
+    },
+    {
+      "start": 826.63,
+      "end": 829.63,
+      "text": "sensual life of pleasure."
+    },
+    {
+      "start": 829.63,
+      "end": 831.63,
+      "text": "And there is one sutra,"
+    },
+    {
+      "start": 831.63,
+      "end": 834.63,
+      "text": "somewhere mentioned that later when the Buddha renounced"
+    },
+    {
+      "start": 834.63,
+      "end": 837.63,
+      "text": "and tried to practice the spiritual path,"
+    },
+    {
+      "start": 837.63,
+      "end": 840.63,
+      "text": "his thoughts, sensual thoughts came to disturb him,"
+    },
+    {
+      "start": 840.63,
+      "end": 846.63,
+      "text": "and that is something because he had such a sensual life"
+    },
+    {
+      "start": 846.63,
+      "end": 848.63,
+      "text": "and he was young."
+    },
+    {
+      "start": 848.63,
+      "end": 851.63,
+      "text": "That this sensual thoughts came to disturb him,"
+    },
+    {
+      "start": 851.63,
+      "end": 855.63,
+      "text": "and obstructed him when he renounced and became a man."
+    },
+    {
+      "start": 855.63,
+      "end": 859.63,
+      "text": "And eventually out of the donation he overcame."
+    },
+    {
+      "start": 859.63,
+      "end": 863.63,
+      "text": "The next sutra is 3.4.39."
+    },
+    {
+      "start": 863.63,
+      "end": 864.63,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 864.63,
+      "end": 867.63,
+      "text": "monks, there are these three forms of pride."
+    },
+    {
+      "start": 867.63,
+      "end": 870.63,
+      "text": "One, three, the pride of youth,"
+    },
+    {
+      "start": 870.63,
+      "end": 873.63,
+      "text": "the pride of health, the pride of life."
+    },
+    {
+      "start": 873.63,
+      "end": 875.63,
+      "text": "The uneducated, many four,"
+    },
+    {
+      "start": 875.63,
+      "end": 877.63,
+      "text": "drunk with the pride of youth,"
+    },
+    {
+      "start": 877.63,
+      "end": 879.63,
+      "text": "practices immorality indeed,"
+    },
+    {
+      "start": 879.63,
+      "end": 881.63,
+      "text": "word and thought."
+    },
+    {
+      "start": 881.63,
+      "end": 884.63,
+      "text": "So doing when body breaks up after death,"
+    },
+    {
+      "start": 884.63,
+      "end": 886.63,
+      "text": "such a one is reborn in the waste,"
+    },
+    {
+      "start": 886.63,
+      "end": 890.63,
+      "text": "the wolf who plays the downfall in hell."
+    },
+    {
+      "start": 890.63,
+      "end": 892.63,
+      "text": "Likewise, the uneducated,"
+    },
+    {
+      "start": 892.63,
+      "end": 894.63,
+      "text": "many four, drunk with the pride of health,"
+    },
+    {
+      "start": 894.63,
+      "end": 898.63,
+      "text": "practices immorality indeed, word and thought."
+    },
+    {
+      "start": 898.63,
+      "end": 900.63,
+      "text": "So doing when body breaks up after death,"
+    },
+    {
+      "start": 900.63,
+      "end": 902.63,
+      "text": "such a one is reborn in the waste,"
+    },
+    {
+      "start": 902.63,
+      "end": 905.63,
+      "text": "the wolf who plays the downfall in hell."
+    },
+    {
+      "start": 905.63,
+      "end": 907.63,
+      "text": "And similarly, the uneducated,"
+    },
+    {
+      "start": 907.63,
+      "end": 909.63,
+      "text": "many four, drunk with the pride of life,"
+    },
+    {
+      "start": 909.63,
+      "end": 912.63,
+      "text": "practices immorality indeed,"
+    },
+    {
+      "start": 912.63,
+      "end": 913.63,
+      "text": "word and thought."
+    },
+    {
+      "start": 913.63,
+      "end": 915.63,
+      "text": "And so also goes down the wolf who plays."
+    },
+    {
+      "start": 915.63,
+      "end": 917.63,
+      "text": "And then the Buddha continues."
+    },
+    {
+      "start": 917.63,
+      "end": 920.63,
+      "text": "A monk was intoxicated with the pride of youth."
+    },
+    {
+      "start": 920.63,
+      "end": 922.63,
+      "text": "A monk gives up the training"
+    },
+    {
+      "start": 922.63,
+      "end": 924.63,
+      "text": "and falls back to the low life."
+    },
+    {
+      "start": 924.63,
+      "end": 926.63,
+      "text": "So likewise,"
+    },
+    {
+      "start": 926.63,
+      "end": 929.63,
+      "text": "one who is intoxicated with the pride of health,"
+    },
+    {
+      "start": 930.63,
+      "end": 933.63,
+      "text": "gives up the training and falls back to the low life."
+    },
+    {
+      "start": 933.63,
+      "end": 935.63,
+      "text": "Similarly,"
+    },
+    {
+      "start": 935.63,
+      "end": 940.63,
+      "text": "a monk intoxicated with the pride of life,"
+    },
+    {
+      "start": 940.63,
+      "end": 944.63,
+      "text": "gives up the training and falls back to the low life."
+    },
+    {
+      "start": 944.63,
+      "end": 947.63,
+      "text": "And that's the end of the suta."
+    },
+    {
+      "start": 947.63,
+      "end": 949.63,
+      "text": "So in this suta, the Buddha says,"
+    },
+    {
+      "start": 949.63,
+      "end": 951.63,
+      "text": "these three things,"
+    },
+    {
+      "start": 951.63,
+      "end": 954.63,
+      "text": "most people are proud,"
+    },
+    {
+      "start": 954.63,
+      "end": 956.63,
+      "text": "especially when they are young,"
+    },
+    {
+      "start": 956.63,
+      "end": 958.63,
+      "text": "and the pride of youth,"
+    },
+    {
+      "start": 958.63,
+      "end": 960.63,
+      "text": "the pride of health,"
+    },
+    {
+      "start": 960.63,
+      "end": 961.63,
+      "text": "when you are youthful,"
+    },
+    {
+      "start": 961.63,
+      "end": 963.63,
+      "text": "you have very good health."
+    },
+    {
+      "start": 963.63,
+      "end": 965.63,
+      "text": "So you are very proud of your health or so,"
+    },
+    {
+      "start": 965.63,
+      "end": 967.63,
+      "text": "and maybe you think you are very strong,"
+    },
+    {
+      "start": 967.63,
+      "end": 969.63,
+      "text": "you see this very good looking,"
+    },
+    {
+      "start": 969.63,
+      "end": 970.63,
+      "text": "etc."
+    },
+    {
+      "start": 970.63,
+      "end": 972.63,
+      "text": "And the pride of life,"
+    },
+    {
+      "start": 972.63,
+      "end": 974.63,
+      "text": "also especially when we are young,"
+    },
+    {
+      "start": 974.63,
+      "end": 977.63,
+      "text": "we think we never even think of death."
+    },
+    {
+      "start": 977.63,
+      "end": 980.63,
+      "text": "And the thought of death doesn't even occur to us."
+    },
+    {
+      "start": 980.63,
+      "end": 982.63,
+      "text": "So because of that,"
+    },
+    {
+      "start": 982.63,
+      "end": 985.63,
+      "text": "lay persons and drunk with these three things,"
+    },
+    {
+      "start": 985.63,
+      "end": 987.63,
+      "text": "and youth, health and life,"
+    },
+    {
+      "start": 987.63,
+      "end": 993.63,
+      "text": "they are not willing to practice the spiritual path."
+    },
+    {
+      "start": 993.63,
+      "end": 995.63,
+      "text": "And sometimes,"
+    },
+    {
+      "start": 995.63,
+      "end": 997.63,
+      "text": "if you remind them of the spiritual path,"
+    },
+    {
+      "start": 997.63,
+      "end": 998.63,
+      "text": "they say,"
+    },
+    {
+      "start": 998.63,
+      "end": 999.63,
+      "text": "how will we,"
+    },
+    {
+      "start": 999.63,
+      "end": 1000.63,
+      "text": "until they are old,"
+    },
+    {
+      "start": 1000.63,
+      "end": 1003.63,
+      "text": "but they don't realize that old age,"
+    },
+    {
+      "start": 1003.63,
+      "end": 1006.63,
+      "text": "might be something that some of them would not even see,"
+    },
+    {
+      "start": 1006.63,
+      "end": 1009.63,
+      "text": "because there are some people who pass away in the,"
+    },
+    {
+      "start": 1009.63,
+      "end": 1010.63,
+      "text": "and they are young,"
+    },
+    {
+      "start": 1010.63,
+      "end": 1012.63,
+      "text": "some people pass away in the middle age,"
+    },
+    {
+      "start": 1012.63,
+      "end": 1014.63,
+      "text": "some people pass away in the old age,"
+    },
+    {
+      "start": 1014.63,
+      "end": 1015.63,
+      "text": "or the,"
+    },
+    {
+      "start": 1015.63,
+      "end": 1019.63,
+      "text": "and because of the being drunk with these three things,"
+    },
+    {
+      "start": 1019.63,
+      "end": 1021.63,
+      "text": "pride of youth, health and life,"
+    },
+    {
+      "start": 1021.63,
+      "end": 1023.63,
+      "text": "they like to enjoy life,"
+    },
+    {
+      "start": 1023.63,
+      "end": 1026.63,
+      "text": "and they enjoy life to the extent,"
+    },
+    {
+      "start": 1026.63,
+      "end": 1027.63,
+      "text": "sometimes you see,"
+    },
+    {
+      "start": 1027.63,
+      "end": 1030.63,
+      "text": "some people live as if life is forever,"
+    },
+    {
+      "start": 1030.63,
+      "end": 1035.63,
+      "text": "they just forget that death is not so far away."
+    },
+    {
+      "start": 1035.63,
+      "end": 1039.63,
+      "text": "If we consider that on the average,"
+    },
+    {
+      "start": 1039.63,
+      "end": 1042.63,
+      "text": "we live up to about 70,"
+    },
+    {
+      "start": 1042.63,
+      "end": 1045.63,
+      "text": "and we calculate how many years we have left,"
+    },
+    {
+      "start": 1045.63,
+      "end": 1047.63,
+      "text": "it's not that many years, you know,"
+    },
+    {
+      "start": 1047.63,
+      "end": 1048.63,
+      "text": "we have left."
+    },
+    {
+      "start": 1048.63,
+      "end": 1050.63,
+      "text": "So similarly, the Buddha says,"
+    },
+    {
+      "start": 1050.63,
+      "end": 1052.63,
+      "text": "among also,"
+    },
+    {
+      "start": 1052.63,
+      "end": 1054.63,
+      "text": "strong with these three things,"
+    },
+    {
+      "start": 1054.63,
+      "end": 1056.63,
+      "text": "it gives up the training,"
+    },
+    {
+      "start": 1056.63,
+      "end": 1058.63,
+      "text": "that means the training is the,"
+    },
+    {
+      "start": 1058.63,
+      "end": 1060.63,
+      "text": "the life of a monk,"
+    },
+    {
+      "start": 1060.63,
+      "end": 1062.63,
+      "text": "and falls back to the low life,"
+    },
+    {
+      "start": 1062.63,
+      "end": 1065.63,
+      "text": "the low life is the lay person's life,"
+    },
+    {
+      "start": 1065.63,
+      "end": 1067.63,
+      "text": "so you see,"
+    },
+    {
+      "start": 1067.63,
+      "end": 1071.63,
+      "text": "sometimes some people become a monk with the intention to renounce"
+    },
+    {
+      "start": 1072.63,
+      "end": 1073.63,
+      "text": "and practice,"
+    },
+    {
+      "start": 1073.63,
+      "end": 1075.63,
+      "text": "but after a while they forget about it"
+    },
+    {
+      "start": 1075.63,
+      "end": 1077.63,
+      "text": "and they become very relaxed,"
+    },
+    {
+      "start": 1077.63,
+      "end": 1081.63,
+      "text": "they are not interested in meditation, etc."
+    },
+    {
+      "start": 1081.63,
+      "end": 1083.63,
+      "text": "And also,"
+    },
+    {
+      "start": 1083.63,
+      "end": 1087.63,
+      "text": "because of the pride in these three things,"
+    },
+    {
+      "start": 1087.63,
+      "end": 1093.63,
+      "text": "they sometimes even entertain thoughts of this robbing,"
+    },
+    {
+      "start": 1093.63,
+      "end": 1096.63,
+      "text": "they become satisfied and dissatisfied with the ropes,"
+    },
+    {
+      "start": 1096.63,
+      "end": 1100.63,
+      "text": "and they compare themselves with other people and enjoying life,"
+    },
+    {
+      "start": 1100.63,
+      "end": 1103.63,
+      "text": "and they also think of enjoying life."
+    },
+    {
+      "start": 1103.63,
+      "end": 1105.63,
+      "text": "So the Buddha says,"
+    },
+    {
+      "start": 1105.63,
+      "end": 1106.63,
+      "text": "not to be,"
+    },
+    {
+      "start": 1106.63,
+      "end": 1108.63,
+      "text": "strong with these three things,"
+    },
+    {
+      "start": 1108.63,
+      "end": 1110.63,
+      "text": "these three forms of pride,"
+    },
+    {
+      "start": 1110.63,
+      "end": 1113.63,
+      "text": "you have to be very careful with just to know,"
+    },
+    {
+      "start": 1113.63,
+      "end": 1116.63,
+      "text": "when death will touch us,"
+    },
+    {
+      "start": 1116.63,
+      "end": 1118.63,
+      "text": "as the Buddha says,"
+    },
+    {
+      "start": 1118.63,
+      "end": 1119.63,
+      "text": "life is uncertain,"
+    },
+    {
+      "start": 1119.63,
+      "end": 1121.63,
+      "text": "but death is uncertain."
+    },
+    {
+      "start": 1121.63,
+      "end": 1123.63,
+      "text": "Now, it comes to the next two,"
+    },
+    {
+      "start": 1123.63,
+      "end": 1125.63,
+      "text": "three point four point forty,"
+    },
+    {
+      "start": 1125.63,
+      "end": 1126.63,
+      "text": "Buddha says,"
+    },
+    {
+      "start": 1126.63,
+      "end": 1129.63,
+      "text": "monks, there are these three forms of dominance,"
+    },
+    {
+      "start": 1129.63,
+      "end": 1130.63,
+      "text": "what three,"
+    },
+    {
+      "start": 1130.63,
+      "end": 1131.63,
+      "text": "dominance of self,"
+    },
+    {
+      "start": 1131.63,
+      "end": 1133.63,
+      "text": "of the world and of damma,"
+    },
+    {
+      "start": 1133.63,
+      "end": 1136.63,
+      "text": "and of what sort is dominance of self?"
+    },
+    {
+      "start": 1136.63,
+      "end": 1137.63,
+      "text": "In this case,"
+    },
+    {
+      "start": 1137.63,
+      "end": 1139.63,
+      "text": "a monk who is gone to the forest,"
+    },
+    {
+      "start": 1139.63,
+      "end": 1140.63,
+      "text": "the root of a tree,"
+    },
+    {
+      "start": 1140.63,
+      "end": 1141.63,
+      "text": "or a lonely spot,"
+    },
+    {
+      "start": 1141.63,
+      "end": 1143.63,
+      "text": "that's reflex."
+    },
+    {
+      "start": 1143.63,
+      "end": 1145.63,
+      "text": "It was not for the sake of ropes"
+    },
+    {
+      "start": 1145.63,
+      "end": 1148.63,
+      "text": "that I went forth from the home to the homeless life."
+    },
+    {
+      "start": 1148.63,
+      "end": 1150.63,
+      "text": "Not for arms or lodging,"
+    },
+    {
+      "start": 1150.63,
+      "end": 1154.63,
+      "text": "not for the sake of becoming such and such."
+    },
+    {
+      "start": 1154.63,
+      "end": 1156.63,
+      "text": "No, it was with this idea,"
+    },
+    {
+      "start": 1156.63,
+      "end": 1159.63,
+      "text": "my fallen on birth or age and death,"
+    },
+    {
+      "start": 1159.63,
+      "end": 1161.63,
+      "text": "on sorrows, lamentation,"
+    },
+    {
+      "start": 1161.63,
+      "end": 1164.63,
+      "text": "and wars on despair and tribulations,"
+    },
+    {
+      "start": 1164.63,
+      "end": 1166.63,
+      "text": "and fallen on ear of Dukha,"
+    },
+    {
+      "start": 1166.63,
+      "end": 1168.63,
+      "text": "for done with ear,"
+    },
+    {
+      "start": 1168.63,
+      "end": 1171.63,
+      "text": "perhaps so doing some ending of all this mass of ear"
+    },
+    {
+      "start": 1171.63,
+      "end": 1173.63,
+      "text": "may be reviewed to me."
+    },
+    {
+      "start": 1173.63,
+      "end": 1176.63,
+      "text": "Yet if I, who have forsaken the passions,"
+    },
+    {
+      "start": 1176.63,
+      "end": 1179.63,
+      "text": "by going forth from home to the homeless life,"
+    },
+    {
+      "start": 1179.63,
+      "end": 1183.63,
+      "text": "should pursue passions still worse than before,"
+    },
+    {
+      "start": 1183.63,
+      "end": 1185.63,
+      "text": "that would be unseemly in me."
+    },
+    {
+      "start": 1185.63,
+      "end": 1187.63,
+      "text": "Then he does reflex,"
+    },
+    {
+      "start": 1187.63,
+      "end": 1189.63,
+      "text": "energetic shall be my striving,"
+    },
+    {
+      "start": 1189.63,
+      "end": 1191.63,
+      "text": "and my mindfulness shall be established,"
+    },
+    {
+      "start": 1191.63,
+      "end": 1193.63,
+      "text": "unshaken,"
+    },
+    {
+      "start": 1193.63,
+      "end": 1195.63,
+      "text": "calm shall be my body,"
+    },
+    {
+      "start": 1195.63,
+      "end": 1197.63,
+      "text": "be not turbulent,"
+    },
+    {
+      "start": 1197.63,
+      "end": 1200.63,
+      "text": "my mind shall be controlled and one-pointed."
+    },
+    {
+      "start": 1200.63,
+      "end": 1202.63,
+      "text": "Thus making self-predominant,"
+    },
+    {
+      "start": 1202.63,
+      "end": 1204.63,
+      "text": "he abandoned evil,"
+    },
+    {
+      "start": 1204.63,
+      "end": 1205.63,
+      "text": "cultivates goodness,"
+    },
+    {
+      "start": 1205.63,
+      "end": 1207.63,
+      "text": "abandoned things blameworthy,"
+    },
+    {
+      "start": 1207.63,
+      "end": 1209.63,
+      "text": "cultivates things blameless,"
+    },
+    {
+      "start": 1209.63,
+      "end": 1211.63,
+      "text": "and keeps himself in perfect purity."
+    },
+    {
+      "start": 1211.63,
+      "end": 1214.63,
+      "text": "This monks is called dominance of self."
+    },
+    {
+      "start": 1215.63,
+      "end": 1218.63,
+      "text": "And of what sort monks is dominance of the world?"
+    },
+    {
+      "start": 1218.63,
+      "end": 1220.63,
+      "text": "In this case, a monk who has gone,"
+    },
+    {
+      "start": 1220.63,
+      "end": 1222.63,
+      "text": "to the forest, to the root of a tree,"
+    },
+    {
+      "start": 1222.63,
+      "end": 1223.63,
+      "text": "a lonely spot,"
+    },
+    {
+      "start": 1223.63,
+      "end": 1224.63,
+      "text": "thus reflex,"
+    },
+    {
+      "start": 1224.63,
+      "end": 1227.63,
+      "text": "it was not for the sake of ropes that I went forth from,"
+    },
+    {
+      "start": 1227.63,
+      "end": 1230.63,
+      "text": "from home to the homeless life,"
+    },
+    {
+      "start": 1230.63,
+      "end": 1231.63,
+      "text": "not for arms or lodging,"
+    },
+    {
+      "start": 1231.63,
+      "end": 1233.63,
+      "text": "not for the sake of becoming such and such."
+    },
+    {
+      "start": 1233.63,
+      "end": 1234.63,
+      "text": "No,"
+    },
+    {
+      "start": 1234.63,
+      "end": 1235.63,
+      "text": "it was with this idea,"
+    },
+    {
+      "start": 1235.63,
+      "end": 1238.63,
+      "text": "he and my fallen on birth or age and death,"
+    },
+    {
+      "start": 1238.63,
+      "end": 1239.63,
+      "text": "on sorrows, lamentation,"
+    },
+    {
+      "start": 1239.63,
+      "end": 1241.63,
+      "text": "and wars on despair and tribulations,"
+    },
+    {
+      "start": 1242.63,
+      "end": 1244.63,
+      "text": "and fallen on evil for done with you."
+    },
+    {
+      "start": 1244.63,
+      "end": 1248.63,
+      "text": "Perhaps some ending of all this mass of you may be reviewed to me,"
+    },
+    {
+      "start": 1248.63,
+      "end": 1250.63,
+      "text": "yet if I who went forth from,"
+    },
+    {
+      "start": 1250.63,
+      "end": 1252.63,
+      "text": "thus from home to the homeless life,"
+    },
+    {
+      "start": 1252.63,
+      "end": 1254.63,
+      "text": "should indulge in sensual thoughts,"
+    },
+    {
+      "start": 1254.63,
+      "end": 1256.63,
+      "text": "indulge in malicious thoughts,"
+    },
+    {
+      "start": 1256.63,
+      "end": 1258.63,
+      "text": "in harmful thoughts."
+    },
+    {
+      "start": 1258.63,
+      "end": 1261.63,
+      "text": "Great is this company of men in the world."
+    },
+    {
+      "start": 1261.63,
+      "end": 1263.63,
+      "text": "Surely in this great company,"
+    },
+    {
+      "start": 1263.63,
+      "end": 1265.63,
+      "text": "there are reclusors and brahmanas,"
+    },
+    {
+      "start": 1265.63,
+      "end": 1267.63,
+      "text": "possessed of supernatural powers,"
+    },
+    {
+      "start": 1267.63,
+      "end": 1268.63,
+      "text": "clairvoyant,"
+    },
+    {
+      "start": 1268.63,
+      "end": 1270.63,
+      "text": "able to read the thoughts of others,"
+    },
+    {
+      "start": 1271.63,
+      "end": 1274.63,
+      "text": "even from afar they can see me,"
+    },
+    {
+      "start": 1274.63,
+      "end": 1277.63,
+      "text": "though close at hand they may be invisible"
+    },
+    {
+      "start": 1277.63,
+      "end": 1279.63,
+      "text": "and they can read my mind with theirs,"
+    },
+    {
+      "start": 1279.63,
+      "end": 1281.63,
+      "text": "they would know me thus,"
+    },
+    {
+      "start": 1281.63,
+      "end": 1283.63,
+      "text": "behold this glanceman here,"
+    },
+    {
+      "start": 1283.63,
+      "end": 1284.63,
+      "text": "my friends,"
+    },
+    {
+      "start": 1284.63,
+      "end": 1285.63,
+      "text": "who, though in faith,"
+    },
+    {
+      "start": 1285.63,
+      "end": 1288.63,
+      "text": "he went forth from the home to the homeless life,"
+    },
+    {
+      "start": 1288.63,
+      "end": 1289.63,
+      "text": "it lives his life,"
+    },
+    {
+      "start": 1289.63,
+      "end": 1292.63,
+      "text": "mixed up with things evil and unprofitable."
+    },
+    {
+      "start": 1292.63,
+      "end": 1296.63,
+      "text": "There must be devours too of supernatural powers,"
+    },
+    {
+      "start": 1296.63,
+      "end": 1297.63,
+      "text": "clairvoyant,"
+    },
+    {
+      "start": 1297.63,
+      "end": 1299.63,
+      "text": "able to read the thoughts of others,"
+    },
+    {
+      "start": 1299.63,
+      "end": 1302.63,
+      "text": "even from afar they can see me,"
+    },
+    {
+      "start": 1302.63,
+      "end": 1304.63,
+      "text": "they would know me thus,"
+    },
+    {
+      "start": 1304.63,
+      "end": 1306.63,
+      "text": "behold this glanceman here,"
+    },
+    {
+      "start": 1306.63,
+      "end": 1307.63,
+      "text": "my friends,"
+    },
+    {
+      "start": 1307.63,
+      "end": 1308.63,
+      "text": "who, though in faith,"
+    },
+    {
+      "start": 1308.63,
+      "end": 1310.63,
+      "text": "he went forth from the home to the homeless life,"
+    },
+    {
+      "start": 1310.63,
+      "end": 1311.63,
+      "text": "yet lives his life,"
+    },
+    {
+      "start": 1311.63,
+      "end": 1315.63,
+      "text": "mixed up with things evil and unprofitable."
+    },
+    {
+      "start": 1315.63,
+      "end": 1317.63,
+      "text": "Then he thus reflects,"
+    },
+    {
+      "start": 1317.63,
+      "end": 1319.63,
+      "text": "energetic shall be my striving,"
+    },
+    {
+      "start": 1319.63,
+      "end": 1322.63,
+      "text": "and my mindfulness shall be established and shaken,"
+    },
+    {
+      "start": 1322.63,
+      "end": 1324.63,
+      "text": "calm shall be body-be,"
+    },
+    {
+      "start": 1324.63,
+      "end": 1325.63,
+      "text": "not turbulent,"
+    },
+    {
+      "start": 1325.63,
+      "end": 1328.63,
+      "text": "and mind shall be controlled and one-pointed."
+    },
+    {
+      "start": 1328.63,
+      "end": 1330.63,
+      "text": "Thus making the world predominant,"
+    },
+    {
+      "start": 1330.63,
+      "end": 1331.63,
+      "text": "he abandons evil,"
+    },
+    {
+      "start": 1331.63,
+      "end": 1332.63,
+      "text": "cultivates goodness,"
+    },
+    {
+      "start": 1332.63,
+      "end": 1334.63,
+      "text": "abandons things blame worthy,"
+    },
+    {
+      "start": 1334.63,
+      "end": 1336.63,
+      "text": "cultivates things blameless,"
+    },
+    {
+      "start": 1336.63,
+      "end": 1339.63,
+      "text": "and keeps himself in utter purity."
+    },
+    {
+      "start": 1339.63,
+      "end": 1342.63,
+      "text": "This monks is called dominance of the world,"
+    },
+    {
+      "start": 1342.63,
+      "end": 1344.63,
+      "text": "and of what sort is dominance of Dhamma,"
+    },
+    {
+      "start": 1344.63,
+      "end": 1345.63,
+      "text": "in this case,"
+    },
+    {
+      "start": 1345.63,
+      "end": 1347.63,
+      "text": "among who has gone to the forest,"
+    },
+    {
+      "start": 1347.63,
+      "end": 1348.63,
+      "text": "etc."
+    },
+    {
+      "start": 1348.63,
+      "end": 1349.63,
+      "text": "Thus reflects,"
+    },
+    {
+      "start": 1349.63,
+      "end": 1352.63,
+      "text": "well proclaimed by the exalted one is Dhamma,"
+    },
+    {
+      "start": 1352.63,
+      "end": 1354.63,
+      "text": "seen in this very life,"
+    },
+    {
+      "start": 1354.63,
+      "end": 1356.63,
+      "text": "a thing not involving time,"
+    },
+    {
+      "start": 1356.63,
+      "end": 1358.63,
+      "text": "inviting one to come and see,"
+    },
+    {
+      "start": 1358.63,
+      "end": 1359.63,
+      "text": "beating onward,"
+    },
+    {
+      "start": 1359.63,
+      "end": 1362.63,
+      "text": "to be known for themselves by the wise."
+    },
+    {
+      "start": 1362.63,
+      "end": 1363.63,
+      "text": "Now,"
+    },
+    {
+      "start": 1363.63,
+      "end": 1365.63,
+      "text": "I have fellows in the righteous life,"
+    },
+    {
+      "start": 1365.63,
+      "end": 1367.63,
+      "text": "who abide in knowledge and insight."
+    },
+    {
+      "start": 1367.63,
+      "end": 1368.63,
+      "text": "If I,"
+    },
+    {
+      "start": 1368.63,
+      "end": 1372.63,
+      "text": "who am one that went forth under this well-proclaimed Dhamma and I,"
+    },
+    {
+      "start": 1372.63,
+      "end": 1375.63,
+      "text": "should dwell in sloth and negligence,"
+    },
+    {
+      "start": 1375.63,
+      "end": 1377.63,
+      "text": "it would be unseemly for me,"
+    },
+    {
+      "start": 1377.63,
+      "end": 1378.63,
+      "text": "then he thus reflects,"
+    },
+    {
+      "start": 1378.63,
+      "end": 1381.63,
+      "text": "energetic shall be my striving, etc."
+    },
+    {
+      "start": 1381.63,
+      "end": 1383.63,
+      "text": "Thus likewise,"
+    },
+    {
+      "start": 1383.63,
+      "end": 1385.63,
+      "text": "making Dhamma a predominant,"
+    },
+    {
+      "start": 1385.63,
+      "end": 1387.63,
+      "text": "he abandons evil,"
+    },
+    {
+      "start": 1387.63,
+      "end": 1389.63,
+      "text": "cultivates goodness,"
+    },
+    {
+      "start": 1389.63,
+      "end": 1391.63,
+      "text": "abandons things blame worthy,"
+    },
+    {
+      "start": 1391.63,
+      "end": 1393.63,
+      "text": "cultivates things blameless,"
+    },
+    {
+      "start": 1393.63,
+      "end": 1395.63,
+      "text": "and keeps himself in utter purity."
+    },
+    {
+      "start": 1395.63,
+      "end": 1397.63,
+      "text": "This monks is called dominance of Dhamma,"
+    },
+    {
+      "start": 1397.63,
+      "end": 1400.63,
+      "text": "he is then other three forms of dominance."
+    },
+    {
+      "start": 1400.63,
+      "end": 1402.63,
+      "text": "This,"
+    },
+    {
+      "start": 1402.63,
+      "end": 1404.63,
+      "text": "this suta is more for monks,"
+    },
+    {
+      "start": 1404.63,
+      "end": 1407.63,
+      "text": "and these are the three ways and the Buddha says"
+    },
+    {
+      "start": 1407.63,
+      "end": 1411.63,
+      "text": "that a monk can remind himself to strive,"
+    },
+    {
+      "start": 1411.63,
+      "end": 1413.63,
+      "text": "one is peace on the cell,"
+    },
+    {
+      "start": 1413.63,
+      "end": 1415.63,
+      "text": "the other one is peace on the world,"
+    },
+    {
+      "start": 1415.63,
+      "end": 1419.63,
+      "text": "and that somebody might know to psyche power,"
+    },
+    {
+      "start": 1419.63,
+      "end": 1421.63,
+      "text": "that he is lazy,"
+    },
+    {
+      "start": 1421.63,
+      "end": 1422.63,
+      "text": "etc."
+    },
+    {
+      "start": 1422.63,
+      "end": 1426.63,
+      "text": "and the third one is using Dhamma to remind him to strive."
+    },
+    {
+      "start": 1426.63,
+      "end": 1429.63,
+      "text": "The other thing I like to explain here is,"
+    },
+    {
+      "start": 1429.63,
+      "end": 1431.63,
+      "text": "now and then we come across the word,"
+    },
+    {
+      "start": 1431.63,
+      "end": 1433.63,
+      "text": "recluses and brahmanas,"
+    },
+    {
+      "start": 1433.63,
+      "end": 1435.63,
+      "text": "recluses and brahmanas."
+    },
+    {
+      "start": 1435.63,
+      "end": 1438.63,
+      "text": "This is a translation for the Pali word,"
+    },
+    {
+      "start": 1438.63,
+      "end": 1440.63,
+      "text": "samana, brahmana."
+    },
+    {
+      "start": 1440.63,
+      "end": 1444.63,
+      "text": "This brahmana is a cast in India."
+    },
+    {
+      "start": 1444.63,
+      "end": 1446.63,
+      "text": "In the days of the Buddha,"
+    },
+    {
+      "start": 1446.63,
+      "end": 1450.63,
+      "text": "there were four castles in India."
+    },
+    {
+      "start": 1450.63,
+      "end": 1454.63,
+      "text": "The pre-scars, or school, brahmana."
+    },
+    {
+      "start": 1454.63,
+      "end": 1456.63,
+      "text": "And now these, they are called brahmanas."
+    },
+    {
+      "start": 1456.63,
+      "end": 1460.63,
+      "text": "And so during the Buddha's time,"
+    },
+    {
+      "start": 1460.63,
+      "end": 1463.63,
+      "text": "the brahmanas were the pre-scars."
+    },
+    {
+      "start": 1463.63,
+      "end": 1465.63,
+      "text": "Then you have the warrior cast,"
+    },
+    {
+      "start": 1465.63,
+      "end": 1466.63,
+      "text": "the katya,"
+    },
+    {
+      "start": 1466.63,
+      "end": 1468.63,
+      "text": "and you have the merchant class,"
+    },
+    {
+      "start": 1468.63,
+      "end": 1470.63,
+      "text": "you have the worker's class,"
+    },
+    {
+      "start": 1470.63,
+      "end": 1472.63,
+      "text": "the low class,"
+    },
+    {
+      "start": 1472.63,
+      "end": 1474.63,
+      "text": "these are the poor classes."
+    },
+    {
+      "start": 1474.63,
+      "end": 1476.63,
+      "text": "So, the brahmana class,"
+    },
+    {
+      "start": 1476.63,
+      "end": 1478.63,
+      "text": "they are the cast."
+    },
+    {
+      "start": 1478.63,
+      "end": 1480.63,
+      "text": "So if somebody from another cast"
+    },
+    {
+      "start": 1480.63,
+      "end": 1482.63,
+      "text": "be announced and becomes a monk,"
+    },
+    {
+      "start": 1482.63,
+      "end": 1484.63,
+      "text": "he cannot call himself brahmana"
+    },
+    {
+      "start": 1484.63,
+      "end": 1488.63,
+      "text": "because there is only reserve for the brahmana cast."
+    },
+    {
+      "start": 1488.63,
+      "end": 1492.63,
+      "text": "And so, any other monk who renounces"
+    },
+    {
+      "start": 1492.63,
+      "end": 1495.63,
+      "text": "is called a samana,"
+    },
+    {
+      "start": 1495.63,
+      "end": 1498.63,
+      "text": "there is why our Buddha is very open in the suta,"
+    },
+    {
+      "start": 1498.63,
+      "end": 1499.63,
+      "text": "is called,"
+    },
+    {
+      "start": 1499.63,
+      "end": 1500.63,
+      "text": "and go tamada,"
+    },
+    {
+      "start": 1500.63,
+      "end": 1504.63,
+      "text": "recluse, there is a translation for samana, go tamada."
+    },
+    {
+      "start": 1504.63,
+      "end": 1509.63,
+      "text": "So, that's what I have to say about recluses and brahmanas."
+    },
+    {
+      "start": 1509.63,
+      "end": 1513.63,
+      "text": "Now, 3.4.42."
+    },
+    {
+      "start": 1513.63,
+      "end": 1515.63,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 1515.63,
+      "end": 1516.63,
+      "text": "monks,"
+    },
+    {
+      "start": 1516.63,
+      "end": 1519.63,
+      "text": "a believer is to be recognized by three characteristics."
+    },
+    {
+      "start": 1519.63,
+      "end": 1520.63,
+      "text": "What three?"
+    },
+    {
+      "start": 1520.63,
+      "end": 1522.63,
+      "text": "He desires to see the virtuous."
+    },
+    {
+      "start": 1522.63,
+      "end": 1525.63,
+      "text": "He desires to hear Saddam,"
+    },
+    {
+      "start": 1525.63,
+      "end": 1528.63,
+      "text": "with heart free from the pain of stinginess."
+    },
+    {
+      "start": 1528.63,
+      "end": 1530.63,
+      "text": "He dwells at home,"
+    },
+    {
+      "start": 1530.63,
+      "end": 1531.63,
+      "text": "a generous giver,"
+    },
+    {
+      "start": 1531.63,
+      "end": 1532.63,
+      "text": "clean,"
+    },
+    {
+      "start": 1532.63,
+      "end": 1534.63,
+      "text": "and the delighting in giving up."
+    },
+    {
+      "start": 1534.63,
+      "end": 1536.63,
+      "text": "One to ask a favor of"
+    },
+    {
+      "start": 1536.63,
+      "end": 1538.63,
+      "text": "one who delights to share"
+    },
+    {
+      "start": 1538.63,
+      "end": 1539.63,
+      "text": "gives with others."
+    },
+    {
+      "start": 1539.63,
+      "end": 1541.63,
+      "text": "By these three characteristics,"
+    },
+    {
+      "start": 1541.63,
+      "end": 1545.63,
+      "text": "a believer is to be recognized as such."
+    },
+    {
+      "start": 1545.63,
+      "end": 1548.63,
+      "text": "And this Buddha says,"
+    },
+    {
+      "start": 1548.63,
+      "end": 1549.63,
+      "text": "a Buddhist,"
+    },
+    {
+      "start": 1549.63,
+      "end": 1551.63,
+      "text": "a believer is a Buddhist."
+    },
+    {
+      "start": 1551.63,
+      "end": 1553.63,
+      "text": "He should have three characteristics."
+    },
+    {
+      "start": 1553.63,
+      "end": 1554.63,
+      "text": "First one,"
+    },
+    {
+      "start": 1554.63,
+      "end": 1556.63,
+      "text": "he desires to see the virtuous."
+    },
+    {
+      "start": 1556.63,
+      "end": 1557.63,
+      "text": "Actually,"
+    },
+    {
+      "start": 1557.63,
+      "end": 1560.63,
+      "text": "meaning he desires to see monks."
+    },
+    {
+      "start": 1560.63,
+      "end": 1563.63,
+      "text": "And the second one is,"
+    },
+    {
+      "start": 1563.63,
+      "end": 1565.63,
+      "text": "he desires to hear Saddam,"
+    },
+    {
+      "start": 1565.63,
+      "end": 1567.63,
+      "text": "Saddam is the true Dhamma."
+    },
+    {
+      "start": 1567.63,
+      "end": 1569.63,
+      "text": "That means he desires to hear suta,"
+    },
+    {
+      "start": 1569.63,
+      "end": 1571.63,
+      "text": "this causes of the Buddha."
+    },
+    {
+      "start": 1571.63,
+      "end": 1572.63,
+      "text": "The third one,"
+    },
+    {
+      "start": 1572.63,
+      "end": 1573.63,
+      "text": "he is generous."
+    },
+    {
+      "start": 1573.63,
+      "end": 1578.63,
+      "text": "He likes to practice generosity instead of stinginess."
+    },
+    {
+      "start": 1579.63,
+      "end": 1582.63,
+      "text": "These three qualities are of these three things."
+    },
+    {
+      "start": 1582.63,
+      "end": 1584.63,
+      "text": "I mentioned in the Mangala Suta,"
+    },
+    {
+      "start": 1584.63,
+      "end": 1587.63,
+      "text": "as ways of getting a lot of blessings."
+    },
+    {
+      "start": 1587.63,
+      "end": 1588.63,
+      "text": "The first one,"
+    },
+    {
+      "start": 1588.63,
+      "end": 1590.63,
+      "text": "to see monks is called,"
+    },
+    {
+      "start": 1590.63,
+      "end": 1592.63,
+      "text": "Samana Dassana."
+    },
+    {
+      "start": 1592.63,
+      "end": 1594.63,
+      "text": "If you are familiar with the Mangala Suta,"
+    },
+    {
+      "start": 1594.63,
+      "end": 1596.63,
+      "text": "you remember this chant,"
+    },
+    {
+      "start": 1596.63,
+      "end": 1599.63,
+      "text": "Samana Dassana."
+    },
+    {
+      "start": 1599.63,
+      "end": 1603.63,
+      "text": "The second one is to hear suta's is,"
+    },
+    {
+      "start": 1603.63,
+      "end": 1605.63,
+      "text": "Samana,"
+    },
+    {
+      "start": 1605.63,
+      "end": 1607.63,
+      "text": "Samana,"
+    },
+    {
+      "start": 1607.63,
+      "end": 1609.63,
+      "text": "to hear the Dhamma."
+    },
+    {
+      "start": 1609.63,
+      "end": 1611.63,
+      "text": "The third one is Dana,"
+    },
+    {
+      "start": 1611.63,
+      "end": 1613.63,
+      "text": "generosity giving."
+    },
+    {
+      "start": 1613.63,
+      "end": 1615.63,
+      "text": "Now there are some people nowadays."
+    },
+    {
+      "start": 1615.63,
+      "end": 1618.63,
+      "text": "They are not familiar with the Suta's."
+    },
+    {
+      "start": 1618.63,
+      "end": 1621.63,
+      "text": "And they think that,"
+    },
+    {
+      "start": 1621.63,
+      "end": 1623.63,
+      "text": "to meditate is enough."
+    },
+    {
+      "start": 1623.63,
+      "end": 1627.63,
+      "text": "They don't know that the Buddha's teaching is a gradual process."
+    },
+    {
+      "start": 1627.63,
+      "end": 1628.63,
+      "text": "A gradual,"
+    },
+    {
+      "start": 1628.63,
+      "end": 1629.63,
+      "text": "the Buddha said,"
+    },
+    {
+      "start": 1629.63,
+      "end": 1633.63,
+      "text": "as the ocean does not become deep suddenly."
+    },
+    {
+      "start": 1633.63,
+      "end": 1635.63,
+      "text": "It slopes gently."
+    },
+    {
+      "start": 1635.63,
+      "end": 1637.63,
+      "text": "As you walk out to the sea,"
+    },
+    {
+      "start": 1637.63,
+      "end": 1639.63,
+      "text": "the slope,"
+    },
+    {
+      "start": 1639.63,
+      "end": 1642.63,
+      "text": "gently gets deeper and deeper and deeper."
+    },
+    {
+      "start": 1642.63,
+      "end": 1643.63,
+      "text": "Not suddenly."
+    },
+    {
+      "start": 1643.63,
+      "end": 1645.63,
+      "text": "So the Buddha said in the same way,"
+    },
+    {
+      "start": 1645.63,
+      "end": 1650.63,
+      "text": "the training in the holy life is a gradual practice."
+    },
+    {
+      "start": 1650.63,
+      "end": 1652.63,
+      "text": "It's a gradual practice."
+    },
+    {
+      "start": 1652.63,
+      "end": 1653.63,
+      "text": "It's not a sudden practice."
+    },
+    {
+      "start": 1653.63,
+      "end": 1655.63,
+      "text": "So these basic things,"
+    },
+    {
+      "start": 1655.63,
+      "end": 1656.63,
+      "text": "like keeping,"
+    },
+    {
+      "start": 1657.63,
+      "end": 1659.63,
+      "text": "keeping the moral conduct,"
+    },
+    {
+      "start": 1659.63,
+      "end": 1660.63,
+      "text": "dana,"
+    },
+    {
+      "start": 1660.63,
+      "end": 1662.63,
+      "text": "practicing charity,"
+    },
+    {
+      "start": 1662.63,
+      "end": 1664.63,
+      "text": "going to see monks,"
+    },
+    {
+      "start": 1664.63,
+      "end": 1668.63,
+      "text": "and talking to monks and getting advice from monks."
+    },
+    {
+      "start": 1668.63,
+      "end": 1669.63,
+      "text": "Hearing, Dhamma,"
+    },
+    {
+      "start": 1669.63,
+      "end": 1670.63,
+      "text": "etc,"
+    },
+    {
+      "start": 1670.63,
+      "end": 1673.63,
+      "text": "all these foundations in the Dhamma."
+    },
+    {
+      "start": 1673.63,
+      "end": 1674.63,
+      "text": "When you practice all these,"
+    },
+    {
+      "start": 1674.63,
+      "end": 1676.63,
+      "text": "then when you meditate,"
+    },
+    {
+      "start": 1676.63,
+      "end": 1677.63,
+      "text": "it helps you."
+    },
+    {
+      "start": 1677.63,
+      "end": 1679.63,
+      "text": "Just like in the Aryan,"
+    },
+    {
+      "start": 1679.63,
+      "end": 1682.63,
+      "text": "in the Aryan,"
+    },
+    {
+      "start": 1682.63,
+      "end": 1685.63,
+      "text": "there are eight factors,"
+    },
+    {
+      "start": 1685.63,
+      "end": 1689.63,
+      "text": "and all these eight factors are to be practiced together."
+    },
+    {
+      "start": 1689.63,
+      "end": 1690.63,
+      "text": "Not just one."
+    },
+    {
+      "start": 1690.63,
+      "end": 1691.63,
+      "text": "It's not like in the practice,"
+    },
+    {
+      "start": 1691.63,
+      "end": 1692.63,
+      "text": "right concentration."
+    },
+    {
+      "start": 1692.63,
+      "end": 1693.63,
+      "text": "Just right concentration."
+    },
+    {
+      "start": 1693.63,
+      "end": 1695.63,
+      "text": "No, all eight together."
+    },
+    {
+      "start": 1695.63,
+      "end": 1699.63,
+      "text": "So we were saying that all these foundations,"
+    },
+    {
+      "start": 1699.63,
+      "end": 1703.63,
+      "text": "the foundation in the holy life,"
+    },
+    {
+      "start": 1703.63,
+      "end": 1705.63,
+      "text": "in the spiritual path,"
+    },
+    {
+      "start": 1705.63,
+      "end": 1708.63,
+      "text": "all these things are helping,"
+    },
+    {
+      "start": 1708.63,
+      "end": 1710.63,
+      "text": "going to visit monks,"
+    },
+    {
+      "start": 1710.63,
+      "end": 1714.63,
+      "text": "hearing sutras, practicing dana,"
+    },
+    {
+      "start": 1714.63,
+      "end": 1715.63,
+      "text": "etc."
+    },
+    {
+      "start": 1715.63,
+      "end": 1718.63,
+      "text": "All these unnecessary,"
+    },
+    {
+      "start": 1718.63,
+      "end": 1720.63,
+      "text": "you can just jump,"
+    },
+    {
+      "start": 1720.63,
+      "end": 1722.63,
+      "text": "before learning to crawl"
+    },
+    {
+      "start": 1722.63,
+      "end": 1725.63,
+      "text": "and learning to walk."
+    },
+    {
+      "start": 1725.63,
+      "end": 1727.63,
+      "text": "You think of running,"
+    },
+    {
+      "start": 1727.63,
+      "end": 1729.63,
+      "text": "it's not possible."
+    },
+    {
+      "start": 1729.63,
+      "end": 1733.63,
+      "text": "So you have to remember that foundation is very important."
+    },
+    {
+      "start": 1733.63,
+      "end": 1735.63,
+      "text": "Otherwise you find there some people,"
+    },
+    {
+      "start": 1735.63,
+      "end": 1737.63,
+      "text": "they start meditating,"
+    },
+    {
+      "start": 1737.63,
+      "end": 1739.63,
+      "text": "and instead of becoming more humble,"
+    },
+    {
+      "start": 1739.63,
+      "end": 1743.63,
+      "text": "some people becoming more arrogant,"
+    },
+    {
+      "start": 1743.63,
+      "end": 1746.63,
+      "text": "that's definitely there on the wrong path,"
+    },
+    {
+      "start": 1746.63,
+      "end": 1749.63,
+      "text": "because as we practice the holy life,"
+    },
+    {
+      "start": 1749.63,
+      "end": 1751.63,
+      "text": "it is meant to cut out ego."
+    },
+    {
+      "start": 1751.63,
+      "end": 1753.63,
+      "text": "That's the main purpose of the holy life,"
+    },
+    {
+      "start": 1753.63,
+      "end": 1756.63,
+      "text": "because the source of our sorrow,"
+    },
+    {
+      "start": 1756.63,
+      "end": 1759.63,
+      "text": "the source of our suffering is the ego."
+    },
+    {
+      "start": 1759.63,
+      "end": 1763.63,
+      "text": "So if you practice the right path,"
+    },
+    {
+      "start": 1763.63,
+      "end": 1764.63,
+      "text": "you will see,"
+    },
+    {
+      "start": 1764.63,
+      "end": 1765.63,
+      "text": "after year,"
+    },
+    {
+      "start": 1765.63,
+      "end": 1766.63,
+      "text": "you change,"
+    },
+    {
+      "start": 1766.63,
+      "end": 1768.63,
+      "text": "you become more humble."
+    },
+    {
+      "start": 1768.63,
+      "end": 1770.63,
+      "text": "You let go of your attachments."
+    },
+    {
+      "start": 1770.63,
+      "end": 1772.63,
+      "text": "But if the opposite happens,"
+    },
+    {
+      "start": 1772.63,
+      "end": 1774.63,
+      "text": "your temper becomes bigger,"
+    },
+    {
+      "start": 1774.63,
+      "end": 1776.63,
+      "text": "and you become more arrogant,"
+    },
+    {
+      "start": 1776.63,
+      "end": 1778.63,
+      "text": "and a lot of things,"
+    },
+    {
+      "start": 1778.63,
+      "end": 1779.63,
+      "text": "you cannot stand,"
+    },
+    {
+      "start": 1779.63,
+      "end": 1782.63,
+      "text": "and all these things are definitely going on the wrong path."
+    },
+    {
+      "start": 1782.63,
+      "end": 1784.63,
+      "text": "So we have to be careful."
+    }
+  ]
+}

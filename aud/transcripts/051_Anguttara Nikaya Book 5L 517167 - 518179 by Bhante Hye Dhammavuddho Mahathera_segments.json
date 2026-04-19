@@ -1,0 +1,2580 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1848.308375,
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 7.98,
+      "text": "Now the next citta, 5.17.167. The Venerable Sarikuta said to the monks,"
+    },
+    {
+      "start": 7.98,
+      "end": 12.98,
+      "text": "Revincers, when he that teaches wishes to teach another,"
+    },
+    {
+      "start": 12.98,
+      "end": 17.98,
+      "text": "let him make five things stand up within him, then let him teach another."
+    },
+    {
+      "start": 17.98,
+      "end": 21.98,
+      "text": "What five? I will speak timely, not untimely."
+    },
+    {
+      "start": 21.98,
+      "end": 25.98,
+      "text": "I will speak about what has happened, not what has not."
+    },
+    {
+      "start": 25.98,
+      "end": 28.98,
+      "text": "I will speak with gentleness, not harshness."
+    },
+    {
+      "start": 28.98,
+      "end": 33.98,
+      "text": "I will speak about what is beneficial, not about what is not beneficial."
+    },
+    {
+      "start": 33.98,
+      "end": 38.98,
+      "text": "I will speak with mine of good will, not with ill will."
+    },
+    {
+      "start": 38.98,
+      "end": 43.98,
+      "text": "Revincers, when he that teaches wishes to teach another,"
+    },
+    {
+      "start": 43.98,
+      "end": 51.98,
+      "text": "let him make himself, let him make these five things stand up in himself,"
+    },
+    {
+      "start": 51.98,
+      "end": 53.98,
+      "text": "then let him teach another."
+    },
+    {
+      "start": 53.98,
+      "end": 56.98,
+      "text": "I will just stop here for a while now, just to commend."
+    },
+    {
+      "start": 56.98,
+      "end": 60.98,
+      "text": "These five things are the five characteristics of good speech."
+    },
+    {
+      "start": 60.98,
+      "end": 64.98,
+      "text": "First one, you speak timely, not untimely."
+    },
+    {
+      "start": 64.98,
+      "end": 67.98,
+      "text": "Second one, you speak the truth, not what is false."
+    },
+    {
+      "start": 67.98,
+      "end": 74.98,
+      "text": "Third one, speak with gentleness, speak gently, not harshly, not loudly."
+    },
+    {
+      "start": 74.98,
+      "end": 78.98,
+      "text": "Fourth one, speak on what is beneficial to that person."
+    },
+    {
+      "start": 78.98,
+      "end": 84.98,
+      "text": "Second one, speak with the mind of good will, with a lot of good will."
+    },
+    {
+      "start": 84.98,
+      "end": 89.98,
+      "text": "Then to continue the sutta, available, sorry, putta, said,"
+    },
+    {
+      "start": 89.98,
+      "end": 96.98,
+      "text": "Baby sirs, I see some monk being taught untimely, moved not timely,"
+    },
+    {
+      "start": 96.98,
+      "end": 100.98,
+      "text": "taught about what has not happened, moved not about what has happened,"
+    },
+    {
+      "start": 100.98,
+      "end": 104.98,
+      "text": "taught in a harsh way, moved not with gentleness,"
+    },
+    {
+      "start": 104.98,
+      "end": 108.98,
+      "text": "taught about what is not beneficial, not about the beneficial,"
+    },
+    {
+      "start": 108.98,
+      "end": 112.98,
+      "text": "taught with ill will, moved not by good will."
+    },
+    {
+      "start": 112.98,
+      "end": 118.98,
+      "text": "In him not taught according to dhamma, on five scores, no remorse ought to be set up."
+    },
+    {
+      "start": 118.98,
+      "end": 123.98,
+      "text": "Let him think, this venerable sir has taught untimely, not timely,"
+    },
+    {
+      "start": 123.98,
+      "end": 126.98,
+      "text": "has no need for remorse in me."
+    },
+    {
+      "start": 126.98,
+      "end": 129.98,
+      "text": "He has taught about what has not happened, not what has."
+    },
+    {
+      "start": 129.98,
+      "end": 132.98,
+      "text": "Has taught harshly, not with gentleness."
+    },
+    {
+      "start": 132.98,
+      "end": 136.98,
+      "text": "Has taught on what is not beneficial, not on what is beneficial."
+    },
+    {
+      "start": 136.98,
+      "end": 140.98,
+      "text": "He has taught with ill will, not with good will."
+    },
+    {
+      "start": 140.98,
+      "end": 143.98,
+      "text": "There is no need for remorse in me."
+    },
+    {
+      "start": 143.98,
+      "end": 146.98,
+      "text": "Revences, in him that taught according to dhamma,"
+    },
+    {
+      "start": 146.98,
+      "end": 149.98,
+      "text": "in him not taught according to dhamma,"
+    },
+    {
+      "start": 149.98,
+      "end": 152.98,
+      "text": "on these five scores, no remorse ought to be set up."
+    },
+    {
+      "start": 152.98,
+      "end": 156.98,
+      "text": "Revences, in him that taught not according to dhamma,"
+    },
+    {
+      "start": 156.98,
+      "end": 159.98,
+      "text": "on five scores, ought remorse to be set up."
+    },
+    {
+      "start": 159.98,
+      "end": 163.98,
+      "text": "Let him think, untimely is the good man taught by me."
+    },
+    {
+      "start": 163.98,
+      "end": 165.98,
+      "text": "There is need for remorse in me."
+    },
+    {
+      "start": 165.98,
+      "end": 169.98,
+      "text": "He has taught by me about what has not happened, not what has."
+    },
+    {
+      "start": 169.98,
+      "end": 172.98,
+      "text": "Is harshly taught by me, not gently."
+    },
+    {
+      "start": 172.98,
+      "end": 177.98,
+      "text": "Is taught by me on what is not beneficial, not what is beneficial."
+    },
+    {
+      "start": 177.98,
+      "end": 181.98,
+      "text": "Is taught by me with ill will, not with good will."
+    },
+    {
+      "start": 181.98,
+      "end": 183.98,
+      "text": "There is need for remorse in me."
+    },
+    {
+      "start": 183.98,
+      "end": 187.98,
+      "text": "Revences, in him that taught not according to dhamma,"
+    },
+    {
+      "start": 187.98,
+      "end": 191.98,
+      "text": "on him, on these five scores, ought remorse to be set up."
+    },
+    {
+      "start": 191.98,
+      "end": 192.98,
+      "text": "Why?"
+    },
+    {
+      "start": 192.98,
+      "end": 195.98,
+      "text": "So that no man should think one ought to be taught"
+    },
+    {
+      "start": 195.98,
+      "end": 199.98,
+      "text": "about what has not happened, not beneficial, etc."
+    },
+    {
+      "start": 199.98,
+      "end": 202.98,
+      "text": "There ought to be support, sirs, in two things"
+    },
+    {
+      "start": 202.98,
+      "end": 207.98,
+      "text": "for a person taught, namely in truth and in the immovable."
+    },
+    {
+      "start": 207.98,
+      "end": 210.98,
+      "text": "If others teach me whether timely or not"
+    },
+    {
+      "start": 210.98,
+      "end": 214.98,
+      "text": "about what has happened or not, gently or harshly"
+    },
+    {
+      "start": 214.98,
+      "end": 218.98,
+      "text": "about the beneficial or not, with good will"
+    },
+    {
+      "start": 218.98,
+      "end": 221.98,
+      "text": "or with ill will,"
+    },
+    {
+      "start": 221.98,
+      "end": 226.98,
+      "text": "I should find support in two things, in truth and in the immovable."
+    },
+    {
+      "start": 226.98,
+      "end": 232.98,
+      "text": "And so the R. Sariputta said,"
+    },
+    {
+      "start": 232.98,
+      "end": 237.98,
+      "text": "I should find support in two things, in truth and in the immovable."
+    },
+    {
+      "start": 237.98,
+      "end": 242.98,
+      "text": "If I know it is in me, this dhamma, thinking it is,"
+    },
+    {
+      "start": 242.98,
+      "end": 246.98,
+      "text": "I should declare it saying, holy found in me is this dhamma."
+    },
+    {
+      "start": 246.98,
+      "end": 249.98,
+      "text": "But if I know it is not in me, this dhamma,"
+    },
+    {
+      "start": 249.98,
+      "end": 252.98,
+      "text": "thinking it is not, I should declare that saying,"
+    },
+    {
+      "start": 252.98,
+      "end": 255.98,
+      "text": "holy not found in me is this dhamma."
+    },
+    {
+      "start": 255.98,
+      "end": 256.98,
+      "text": "Stop here for a while."
+    },
+    {
+      "start": 256.98,
+      "end": 259.98,
+      "text": "Just now, R. Sariputta said now,"
+    },
+    {
+      "start": 259.98,
+      "end": 263.98,
+      "text": "we should find support in two things, in truth and in the immovable."
+    },
+    {
+      "start": 263.98,
+      "end": 268.98,
+      "text": "Immmovable, I suppose, is like a state of equanimity."
+    },
+    {
+      "start": 268.98,
+      "end": 271.98,
+      "text": "Equanimity, in truth meaning, we should be honest."
+    },
+    {
+      "start": 271.98,
+      "end": 274.98,
+      "text": "And the other one, whether we are taught rightly"
+    },
+    {
+      "start": 274.98,
+      "end": 279.98,
+      "text": "or we are taught wrongly, we should be equanimous."
+    },
+    {
+      "start": 279.98,
+      "end": 282.98,
+      "text": "Then the exalted one said,"
+    },
+    {
+      "start": 282.98,
+      "end": 285.98,
+      "text": "and while you are thus speaking Sariputta,"
+    },
+    {
+      "start": 285.98,
+      "end": 290.98,
+      "text": "I suppose some foolish men have not the talent to grasp the matter."
+    },
+    {
+      "start": 290.98,
+      "end": 292.98,
+      "text": "And R. Sariputta replied,"
+    },
+    {
+      "start": 292.98,
+      "end": 297.98,
+      "text": "Lord, those persons, unbelievers, who as a means of living,"
+    },
+    {
+      "start": 297.98,
+      "end": 301.98,
+      "text": "not of faith, go forth from the home to the homeless life,"
+    },
+    {
+      "start": 301.98,
+      "end": 306.98,
+      "text": "imposters, frauds, deceivers, who are vainly puffed up,"
+    },
+    {
+      "start": 306.98,
+      "end": 309.98,
+      "text": "shifty gossipers of idle talk,"
+    },
+    {
+      "start": 309.98,
+      "end": 312.98,
+      "text": "unguarded as to their sense-doors,"
+    },
+    {
+      "start": 312.98,
+      "end": 315.98,
+      "text": "eating without moderation, un-wakeful,"
+    },
+    {
+      "start": 315.98,
+      "end": 317.98,
+      "text": "who seek not true recluse-ship,"
+    },
+    {
+      "start": 317.98,
+      "end": 321.98,
+      "text": "are without diligence in training, luxurious lacks,"
+    },
+    {
+      "start": 321.98,
+      "end": 323.98,
+      "text": "taking the lead in back-sliding,"
+    },
+    {
+      "start": 323.98,
+      "end": 326.98,
+      "text": "who cast aside the burden of the secluded life,"
+    },
+    {
+      "start": 326.98,
+      "end": 330.98,
+      "text": "lazy, low in energy, not mindful,"
+    },
+    {
+      "start": 330.98,
+      "end": 335.98,
+      "text": "not self-possessed, with uncomposed and wandering minds,"
+    },
+    {
+      "start": 335.98,
+      "end": 339.98,
+      "text": "dull like wits, they, while I speak in this way,"
+    },
+    {
+      "start": 339.98,
+      "end": 341.98,
+      "text": "have not the talent to grasp the matter."
+    },
+    {
+      "start": 341.98,
+      "end": 343.98,
+      "text": "But those cleansed men, Lord,"
+    },
+    {
+      "start": 343.98,
+      "end": 347.98,
+      "text": "who of faith go forth from the home to the homeless life,"
+    },
+    {
+      "start": 347.98,
+      "end": 351.98,
+      "text": "no imposters, frauds, deceivers, not vainly puffed up,"
+    },
+    {
+      "start": 351.98,
+      "end": 354.98,
+      "text": "not shifty gossipers of idle talk,"
+    },
+    {
+      "start": 354.98,
+      "end": 357.98,
+      "text": "who are guarded as to their sense-doors,"
+    },
+    {
+      "start": 357.98,
+      "end": 359.98,
+      "text": "moderate in eating, un-wakeful,"
+    },
+    {
+      "start": 359.98,
+      "end": 363.98,
+      "text": "who seek true recluse-ship, are diligent in training,"
+    },
+    {
+      "start": 363.98,
+      "end": 365.98,
+      "text": "neither the luxurious nor lacks,"
+    },
+    {
+      "start": 365.98,
+      "end": 368.98,
+      "text": "who do not take the lead in back-sliding,"
+    },
+    {
+      "start": 368.98,
+      "end": 372.98,
+      "text": "eager for seclusion, with energy disturbed themselves,"
+    },
+    {
+      "start": 372.98,
+      "end": 376.98,
+      "text": "are resolved, mindful, self-possessed,"
+    },
+    {
+      "start": 376.98,
+      "end": 380.98,
+      "text": "composed, one-pointed, wise, no lack-wits,"
+    },
+    {
+      "start": 380.98,
+      "end": 382.98,
+      "text": "they, while I speak in this way,"
+    },
+    {
+      "start": 382.98,
+      "end": 384.98,
+      "text": "have the talent to grasp the matter."
+    },
+    {
+      "start": 384.98,
+      "end": 386.98,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 386.98,
+      "end": 389.98,
+      "text": "let be those unbelieving, et cetera, et cetera,"
+    },
+    {
+      "start": 389.98,
+      "end": 392.98,
+      "text": "foolish lack-wits, Sariputta,"
+    },
+    {
+      "start": 392.98,
+      "end": 395.98,
+      "text": "speak you to those who of faith go forth,"
+    },
+    {
+      "start": 395.98,
+      "end": 399.98,
+      "text": "admonish thy companions in the holy life, Sariputta,"
+    },
+    {
+      "start": 399.98,
+      "end": 401.98,
+      "text": "instruct them, and think them,"
+    },
+    {
+      "start": 401.98,
+      "end": 404.98,
+      "text": "when I have stirred them up from what is not"
+    },
+    {
+      "start": 404.98,
+      "end": 406.98,
+      "text": "saddhamma, true dhamma,"
+    },
+    {
+      "start": 406.98,
+      "end": 410.98,
+      "text": "I will make them stand fast in saddhamma, true dhamma."
+    },
+    {
+      "start": 410.98,
+      "end": 414.98,
+      "text": "Apparently, Sariputta, train thyself in this way."
+    },
+    {
+      "start": 414.98,
+      "end": 416.98,
+      "text": "So this last part,"
+    },
+    {
+      "start": 416.98,
+      "end": 419.98,
+      "text": "Sariputta is talking about the fraud monks"
+    },
+    {
+      "start": 419.98,
+      "end": 421.98,
+      "text": "and true monks,"
+    },
+    {
+      "start": 421.98,
+      "end": 424.98,
+      "text": "this long description of the fraud monks,"
+    },
+    {
+      "start": 424.98,
+      "end": 426.98,
+      "text": "those who go forth,"
+    },
+    {
+      "start": 426.98,
+      "end": 430.98,
+      "text": "not out of a sincere wish to cultivate the holy path."
+    },
+    {
+      "start": 430.98,
+      "end": 434.98,
+      "text": "Here he calls them imposter, frauds, deceivers,"
+    },
+    {
+      "start": 434.98,
+      "end": 438.98,
+      "text": "gossipers, unguarded as to their sense-doors,"
+    },
+    {
+      "start": 438.98,
+      "end": 441.98,
+      "text": "eating without moderation, un-wakeful,"
+    },
+    {
+      "start": 441.98,
+      "end": 447.98,
+      "text": "not diligent in training, lacks, luxurious,"
+    },
+    {
+      "start": 447.98,
+      "end": 450.98,
+      "text": "who casts aside the burden of the secluded life,"
+    },
+    {
+      "start": 450.98,
+      "end": 452.98,
+      "text": "lazy, not mindful,"
+    },
+    {
+      "start": 452.98,
+      "end": 455.98,
+      "text": "uncomposed with wandering minds."
+    },
+    {
+      "start": 455.98,
+      "end": 458.98,
+      "text": "It's a long description."
+    },
+    {
+      "start": 458.98,
+      "end": 464.98,
+      "text": "So from here, you can see whether"
+    },
+    {
+      "start": 464.98,
+      "end": 468.98,
+      "text": "that's the way to judge a true monk from a false monk."
+    },
+    {
+      "start": 468.98,
+      "end": 475.58,
+      "text": "The next letter is 5.17.169."
+    },
+    {
+      "start": 475.58,
+      "end": 479.58,
+      "text": "Now the venerable Ananda went up to the venerable Sariputta"
+    },
+    {
+      "start": 479.58,
+      "end": 481.58,
+      "text": "and greeted him,"
+    },
+    {
+      "start": 481.58,
+      "end": 483.58,
+      "text": "and after exchanging the words of customary greetings,"
+    },
+    {
+      "start": 483.58,
+      "end": 485.58,
+      "text": "sat down at one side."
+    },
+    {
+      "start": 485.58,
+      "end": 489.58,
+      "text": "So seated, the venerable Ananda said to the venerable Sariputta,"
+    },
+    {
+      "start": 489.58,
+      "end": 491.58,
+      "text": "How far, Reverend Sariputta,"
+    },
+    {
+      "start": 491.58,
+      "end": 495.58,
+      "text": "does the monk come speedily to know happiness in things"
+    },
+    {
+      "start": 495.58,
+      "end": 498.58,
+      "text": "so that his grasp is a good grasp,"
+    },
+    {
+      "start": 498.58,
+      "end": 500.58,
+      "text": "so that he grasps much"
+    },
+    {
+      "start": 500.58,
+      "end": 503.58,
+      "text": "and forgets not what he has grasped?"
+    },
+    {
+      "start": 503.58,
+      "end": 505.58,
+      "text": "And the venerable Sariputta said,"
+    },
+    {
+      "start": 505.58,
+      "end": 508.58,
+      "text": "I know the venerable Ananda has heard much."
+    },
+    {
+      "start": 508.58,
+      "end": 512.58,
+      "text": "Let the venerable Ananda throw light upon the matter"
+    },
+    {
+      "start": 512.58,
+      "end": 514.58,
+      "text": "and the venerable Ananda said,"
+    },
+    {
+      "start": 514.58,
+      "end": 516.58,
+      "text": "Well then, Reverend Sariputta,"
+    },
+    {
+      "start": 516.58,
+      "end": 519.58,
+      "text": "harken and give heed, and I will speak."
+    },
+    {
+      "start": 519.58,
+      "end": 523.86,
+      "text": "Very well, the reverend sir replied the venerable Sariputta"
+    },
+    {
+      "start": 523.86,
+      "end": 525.86,
+      "text": "and the venerable Ananda said,"
+    },
+    {
+      "start": 525.86,
+      "end": 527.86,
+      "text": "Take the case, Reverend Sariputta,"
+    },
+    {
+      "start": 527.86,
+      "end": 531.86,
+      "text": "of a monk who is apt at meanings, apt at dhamma,"
+    },
+    {
+      "start": 531.86,
+      "end": 536.86,
+      "text": "apt at letters, apt at language, apt at orderly sequence."
+    },
+    {
+      "start": 536.86,
+      "end": 538.86,
+      "text": "Thus far, Reverend Sariputta,"
+    },
+    {
+      "start": 538.86,
+      "end": 541.86,
+      "text": "a monk comes speedily to know happiness in things"
+    },
+    {
+      "start": 541.86,
+      "end": 544.86,
+      "text": "and his grasp is a good grasp."
+    },
+    {
+      "start": 544.86,
+      "end": 548.86,
+      "text": "He grasps much and forgets not what he has grasped."
+    },
+    {
+      "start": 548.86,
+      "end": 550.86,
+      "text": "It is marvelous, Reverend sir."
+    },
+    {
+      "start": 550.86,
+      "end": 554.86,
+      "text": "It is wonderful how well this has been put by the venerable Ananda."
+    },
+    {
+      "start": 554.86,
+      "end": 558.86,
+      "text": "Behold, the venerable Ananda is possessed of these five things."
+    },
+    {
+      "start": 558.86,
+      "end": 561.86,
+      "text": "The venerable Ananda is apt at meanings,"
+    },
+    {
+      "start": 561.86,
+      "end": 565.86,
+      "text": "apt at dhamma, apt at letters, apt at language,"
+    },
+    {
+      "start": 565.86,
+      "end": 567.86,
+      "text": "and apt at orderly sequence."
+    },
+    {
+      "start": 567.86,
+      "end": 570.86,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 570.86,
+      "end": 573.86,
+      "text": "This is one of the suttas."
+    },
+    {
+      "start": 573.86,
+      "end": 578.86,
+      "text": "You find when two monks or more monks come together,"
+    },
+    {
+      "start": 578.86,
+      "end": 580.86,
+      "text": "they like to discuss dhamma."
+    },
+    {
+      "start": 580.86,
+      "end": 583.86,
+      "text": "Dhamma is very important and dhamma-sakacca,"
+    },
+    {
+      "start": 583.86,
+      "end": 586.86,
+      "text": "discussion of dhamma is one of the important things."
+    },
+    {
+      "start": 586.86,
+      "end": 588.86,
+      "text": "Two things are important."
+    },
+    {
+      "start": 588.86,
+      "end": 590.86,
+      "text": "One is listening to dhamma,"
+    },
+    {
+      "start": 590.86,
+      "end": 592.86,
+      "text": "the other one discussing dhamma."
+    },
+    {
+      "start": 592.86,
+      "end": 594.86,
+      "text": "So here you find,"
+    },
+    {
+      "start": 594.86,
+      "end": 596.86,
+      "text": "actually at that time,"
+    },
+    {
+      "start": 596.86,
+      "end": 599.86,
+      "text": "the venerable Ananda was only a sutta-panna,"
+    },
+    {
+      "start": 599.86,
+      "end": 602.86,
+      "text": "the stage of Arya-hood,"
+    },
+    {
+      "start": 602.86,
+      "end": 605.86,
+      "text": "and the venerable Sariputta was already an arahan."
+    },
+    {
+      "start": 605.86,
+      "end": 609.86,
+      "text": "But here you find the case where the venerable Ananda"
+    },
+    {
+      "start": 609.86,
+      "end": 614.86,
+      "text": "is teaching venerable Sariputta in a way."
+    },
+    {
+      "start": 614.86,
+      "end": 617.86,
+      "text": "In one of the suttas,"
+    },
+    {
+      "start": 617.86,
+      "end": 622.86,
+      "text": "the Buddha said that it is hard to find"
+    },
+    {
+      "start": 622.86,
+      "end": 627.86,
+      "text": "a person with wisdom like Ananda."
+    },
+    {
+      "start": 627.86,
+      "end": 632.86,
+      "text": "So you see in this one of the few suttas,"
+    },
+    {
+      "start": 632.86,
+      "end": 639.86,
+      "text": "you find sutta-panna teaching some dhamma to an arahan."
+    },
+    {
+      "start": 639.86,
+      "end": 643.86,
+      "text": "And here they call each other avuso-revencer."
+    },
+    {
+      "start": 643.86,
+      "end": 645.86,
+      "text": "During the time of the Buddha,"
+    },
+    {
+      "start": 645.86,
+      "end": 649.86,
+      "text": "the monks call each other avuso-revencer or friend."
+    },
+    {
+      "start": 649.86,
+      "end": 652.86,
+      "text": "But when the Buddha was about to pass away,"
+    },
+    {
+      "start": 652.86,
+      "end": 655.86,
+      "text": "he foresaw that in the future,"
+    },
+    {
+      "start": 655.86,
+      "end": 658.86,
+      "text": "younger monks would have no respect for elder monks."
+    },
+    {
+      "start": 658.86,
+      "end": 661.86,
+      "text": "So he said in the Mahaparinibbana Sutta,"
+    },
+    {
+      "start": 661.86,
+      "end": 663.86,
+      "text": "then after his passing away,"
+    },
+    {
+      "start": 663.86,
+      "end": 667.86,
+      "text": "junior monks should address senior monks as bhante."
+    },
+    {
+      "start": 667.86,
+      "end": 671.86,
+      "text": "And senior monks can address junior monks"
+    },
+    {
+      "start": 671.86,
+      "end": 676.86,
+      "text": "either by their name or avuso-revencer."
+    },
+    {
+      "start": 676.86,
+      "end": 684.18,
+      "text": "Sutta 5.18.175"
+    },
+    {
+      "start": 684.18,
+      "end": 685.18,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 685.18,
+      "end": 688.18,
+      "text": "monks, pursuing five things."
+    },
+    {
+      "start": 688.18,
+      "end": 691.18,
+      "text": "A layman is the outcast of laymen."
+    },
+    {
+      "start": 691.18,
+      "end": 695.18,
+      "text": "The dirt of laymen, the off-scouring or rubbish of laymen."
+    },
+    {
+      "start": 695.18,
+      "end": 696.18,
+      "text": "What five?"
+    },
+    {
+      "start": 696.18,
+      "end": 699.18,
+      "text": "He is without faith, without morals."
+    },
+    {
+      "start": 699.18,
+      "end": 702.18,
+      "text": "He is a fortune teller by curious ceremonies."
+    },
+    {
+      "start": 702.18,
+      "end": 705.18,
+      "text": "He believes in luck, not deeds."
+    },
+    {
+      "start": 705.18,
+      "end": 709.18,
+      "text": "He seeks outside the sangha for a gift-worthy person."
+    },
+    {
+      "start": 709.18,
+      "end": 712.18,
+      "text": "And there first offers service."
+    },
+    {
+      "start": 712.18,
+      "end": 714.18,
+      "text": "Monks, pursuing these five things."
+    },
+    {
+      "start": 714.18,
+      "end": 716.18,
+      "text": "A layman is the outcast of laymen."
+    },
+    {
+      "start": 716.18,
+      "end": 720.18,
+      "text": "The dirt of off-scouring of laymen."
+    },
+    {
+      "start": 720.18,
+      "end": 722.18,
+      "text": "Monks, pursuing five things."
+    },
+    {
+      "start": 722.18,
+      "end": 725.18,
+      "text": "A layman is a jewel of laymen."
+    },
+    {
+      "start": 725.18,
+      "end": 728.18,
+      "text": "The lily of laymen, the lotus of laymen."
+    },
+    {
+      "start": 728.18,
+      "end": 730.18,
+      "text": "What five?"
+    },
+    {
+      "start": 730.18,
+      "end": 732.18,
+      "text": "He is with faith."
+    },
+    {
+      "start": 732.18,
+      "end": 734.18,
+      "text": "He has morals."
+    },
+    {
+      "start": 734.18,
+      "end": 737.18,
+      "text": "He is not a fortune teller by curious ceremonies."
+    },
+    {
+      "start": 737.18,
+      "end": 741.18,
+      "text": "He believes in deeds, not in luck."
+    },
+    {
+      "start": 741.18,
+      "end": 745.18,
+      "text": "He seeks the sangha first to offer service."
+    },
+    {
+      "start": 745.18,
+      "end": 748.18,
+      "text": "Pushing these five things."
+    },
+    {
+      "start": 748.18,
+      "end": 750.18,
+      "text": "A layman is the jewel of laymen."
+    },
+    {
+      "start": 750.18,
+      "end": 752.18,
+      "text": "The lily of laymen."
+    },
+    {
+      "start": 752.18,
+      "end": 754.18,
+      "text": "The lotus of laymen."
+    },
+    {
+      "start": 754.18,
+      "end": 756.18,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 756.18,
+      "end": 759.18,
+      "text": "This sutta, although it mentions laymen,"
+    },
+    {
+      "start": 759.18,
+      "end": 763.18,
+      "text": "is also applicable to lay women."
+    },
+    {
+      "start": 763.18,
+      "end": 765.18,
+      "text": "Perhaps the translation should have been"
+    },
+    {
+      "start": 765.18,
+      "end": 767.18,
+      "text": "a lay person."
+    },
+    {
+      "start": 767.18,
+      "end": 771.18,
+      "text": "So a person, a good lay person,"
+    },
+    {
+      "start": 771.18,
+      "end": 774.18,
+      "text": "is one with faith in the triple gems."
+    },
+    {
+      "start": 774.18,
+      "end": 777.18,
+      "text": "Secondly, he has precepts."
+    },
+    {
+      "start": 777.18,
+      "end": 779.18,
+      "text": "He has silla."
+    },
+    {
+      "start": 779.18,
+      "end": 780.18,
+      "text": "He has precepts."
+    },
+    {
+      "start": 780.18,
+      "end": 782.18,
+      "text": "Third one, he is not a fortune teller,"
+    },
+    {
+      "start": 782.18,
+      "end": 785.18,
+      "text": "nor does he go to a fortune teller"
+    },
+    {
+      "start": 785.18,
+      "end": 788.18,
+      "text": "to see his fortune."
+    },
+    {
+      "start": 788.18,
+      "end": 790.18,
+      "text": "And the fourth, he believes in deeds,"
+    },
+    {
+      "start": 790.18,
+      "end": 793.18,
+      "text": "in karma, not in luck."
+    },
+    {
+      "start": 793.18,
+      "end": 797.18,
+      "text": "And the fifth one, he offers service"
+    },
+    {
+      "start": 797.18,
+      "end": 799.18,
+      "text": "to the sangha of monks,"
+    },
+    {
+      "start": 799.18,
+      "end": 803.18,
+      "text": "not to external ascetics."
+    },
+    {
+      "start": 803.18,
+      "end": 810.07,
+      "text": "And the next sutta, 5.18.176."
+    },
+    {
+      "start": 810.07,
+      "end": 812.07,
+      "text": "Then the householder, Anathapindika,"
+    },
+    {
+      "start": 812.07,
+      "end": 815.07,
+      "text": "with about 500 lay disciples around him,"
+    },
+    {
+      "start": 815.07,
+      "end": 817.07,
+      "text": "came to the exalted one,"
+    },
+    {
+      "start": 817.07,
+      "end": 820.07,
+      "text": "saluted or paid homage,"
+    },
+    {
+      "start": 820.07,
+      "end": 822.07,
+      "text": "and sat down at one side."
+    },
+    {
+      "start": 822.07,
+      "end": 824.07,
+      "text": "And the exalted one spoke to him,"
+    },
+    {
+      "start": 824.07,
+      "end": 826.07,
+      "text": "seated and said,"
+    },
+    {
+      "start": 826.07,
+      "end": 828.07,
+      "text": "Fairly householder, you have served"
+    },
+    {
+      "start": 828.07,
+      "end": 831.07,
+      "text": "the sangha of monks with gifts of the requisites,"
+    },
+    {
+      "start": 831.07,
+      "end": 835.07,
+      "text": "the robe, arms, lodging, and medicine for sickness."
+    },
+    {
+      "start": 835.07,
+      "end": 837.07,
+      "text": "But you must not be satisfied"
+    },
+    {
+      "start": 837.07,
+      "end": 839.07,
+      "text": "just with by the thought."
+    },
+    {
+      "start": 839.07,
+      "end": 841.07,
+      "text": "We have served the sangha"
+    },
+    {
+      "start": 841.07,
+      "end": 843.07,
+      "text": "with gifts of the requisites."
+    },
+    {
+      "start": 843.07,
+      "end": 845.07,
+      "text": "Why householder?"
+    },
+    {
+      "start": 845.07,
+      "end": 847.07,
+      "text": "Or therefore householder,"
+    },
+    {
+      "start": 847.07,
+      "end": 849.07,
+      "text": "train yourself thus."
+    },
+    {
+      "start": 849.07,
+      "end": 851.07,
+      "text": "Come now, let us from time to time,"
+    },
+    {
+      "start": 851.07,
+      "end": 854.07,
+      "text": "enter and abide in the delight,"
+    },
+    {
+      "start": 854.07,
+      "end": 857.07,
+      "text": "piti, that comes of seclusion."
+    },
+    {
+      "start": 857.07,
+      "end": 860.07,
+      "text": "Fairly train yourself thus, householder."
+    },
+    {
+      "start": 860.07,
+      "end": 862.07,
+      "text": "And when he had thus spoken,"
+    },
+    {
+      "start": 862.07,
+      "end": 864.07,
+      "text": "the verbal Sariputta said to the exalted one,"
+    },
+    {
+      "start": 864.07,
+      "end": 866.07,
+      "text": "it is marvellous Lord,"
+    },
+    {
+      "start": 866.07,
+      "end": 869.07,
+      "text": "it is wonderful how well the exalted one has spoken."
+    },
+    {
+      "start": 869.07,
+      "end": 872.07,
+      "text": "Lord, when the aren't disciple enters"
+    },
+    {
+      "start": 872.07,
+      "end": 875.07,
+      "text": "and abides in the delight that comes of seclusion,"
+    },
+    {
+      "start": 875.07,
+      "end": 878.07,
+      "text": "for him five things become not."
+    },
+    {
+      "start": 878.07,
+      "end": 880.07,
+      "text": "For him at that time,"
+    },
+    {
+      "start": 880.07,
+      "end": 883.07,
+      "text": "the grief that follow thus become not."
+    },
+    {
+      "start": 883.07,
+      "end": 885.07,
+      "text": "The pleasure and gratification"
+    },
+    {
+      "start": 885.07,
+      "end": 887.07,
+      "text": "that follow thus become not."
+    },
+    {
+      "start": 887.07,
+      "end": 891.07,
+      "text": "The pain and grief that follow evil become not."
+    },
+    {
+      "start": 891.07,
+      "end": 893.07,
+      "text": "The pleasure and gratification"
+    },
+    {
+      "start": 893.07,
+      "end": 895.07,
+      "text": "that follow evil become not."
+    },
+    {
+      "start": 895.07,
+      "end": 897.07,
+      "text": "For him at that time,"
+    },
+    {
+      "start": 897.07,
+      "end": 901.07,
+      "text": "the pain and grief that follow doing good become not."
+    },
+    {
+      "start": 901.07,
+      "end": 903.07,
+      "text": "Lord, when the aren't disciple enters"
+    },
+    {
+      "start": 903.07,
+      "end": 905.07,
+      "text": "and abides in the delight, piti,"
+    },
+    {
+      "start": 905.07,
+      "end": 907.07,
+      "text": "that comes of seclusion,"
+    },
+    {
+      "start": 907.07,
+      "end": 910.07,
+      "text": "for him these five things become not."
+    },
+    {
+      "start": 910.07,
+      "end": 913.07,
+      "text": "Sadhu, sadhu, Sariputta,"
+    },
+    {
+      "start": 913.07,
+      "end": 915.07,
+      "text": "it is even as you say,"
+    },
+    {
+      "start": 915.07,
+      "end": 917.07,
+      "text": "when Sariputta, the aren't disciple,"
+    },
+    {
+      "start": 917.07,
+      "end": 919.07,
+      "text": "enters and abides in the delight"
+    },
+    {
+      "start": 919.07,
+      "end": 921.07,
+      "text": "that comes of seclusion,"
+    },
+    {
+      "start": 921.07,
+      "end": 924.07,
+      "text": "for him at that time these five things become not."
+    },
+    {
+      "start": 924.07,
+      "end": 927.07,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 927.07,
+      "end": 931.07,
+      "text": "Here, the Buddha is giving very good advice"
+    },
+    {
+      "start": 931.07,
+      "end": 934.07,
+      "text": "to the Anathapindika."
+    },
+    {
+      "start": 934.07,
+      "end": 939.07,
+      "text": "Anathapindika is his greatest layman supporter"
+    },
+    {
+      "start": 939.07,
+      "end": 944.07,
+      "text": "who built the large Jetavana monastery"
+    },
+    {
+      "start": 944.07,
+      "end": 948.07,
+      "text": "at Savati for the Buddha."
+    },
+    {
+      "start": 948.07,
+      "end": 950.07,
+      "text": "When you go to India,"
+    },
+    {
+      "start": 950.07,
+      "end": 952.07,
+      "text": "you can find that monastery,"
+    },
+    {
+      "start": 952.07,
+      "end": 954.07,
+      "text": "the ruins are still there."
+    },
+    {
+      "start": 954.07,
+      "end": 957.07,
+      "text": "It's supposed to be about 25 acres."
+    },
+    {
+      "start": 957.07,
+      "end": 961.07,
+      "text": "And this Anathapindika was a very rich man,"
+    },
+    {
+      "start": 961.07,
+      "end": 964.07,
+      "text": "but it seems he spent all his fortune"
+    },
+    {
+      "start": 964.07,
+      "end": 966.07,
+      "text": "supporting the monks."
+    },
+    {
+      "start": 966.07,
+      "end": 972.07,
+      "text": "He was reported to give food to 2,000 monks every day."
+    },
+    {
+      "start": 972.07,
+      "end": 975.07,
+      "text": "And here, the Buddha is telling him"
+    },
+    {
+      "start": 975.07,
+      "end": 978.07,
+      "text": "this is not enough to do dhana."
+    },
+    {
+      "start": 978.07,
+      "end": 981.07,
+      "text": "He should from time to time meditate"
+    },
+    {
+      "start": 981.07,
+      "end": 987.07,
+      "text": "and then attain the delight of seclusion."
+    },
+    {
+      "start": 987.07,
+      "end": 990.07,
+      "text": "And the reason for this is"
+    },
+    {
+      "start": 990.07,
+      "end": 993.07,
+      "text": "because there are two kinds of merit."
+    },
+    {
+      "start": 993.07,
+      "end": 998.07,
+      "text": "Doing charity or offerings is worldly merit."
+    },
+    {
+      "start": 998.07,
+      "end": 1003.07,
+      "text": "And although it supports the spiritual life by itself,"
+    },
+    {
+      "start": 1003.07,
+      "end": 1006.07,
+      "text": "it doesn't get us out of suffering,"
+    },
+    {
+      "start": 1006.07,
+      "end": 1009.07,
+      "text": "doesn't get us out of the wheel of existence,"
+    },
+    {
+      "start": 1009.07,
+      "end": 1012.07,
+      "text": "wheel of rebirth."
+    },
+    {
+      "start": 1012.07,
+      "end": 1016.07,
+      "text": "And to get out of the wheel of rebirth,"
+    },
+    {
+      "start": 1016.07,
+      "end": 1019.07,
+      "text": "we need spiritual merit."
+    },
+    {
+      "start": 1019.07,
+      "end": 1024.77,
+      "text": "Spiritual merit is, of course,"
+    },
+    {
+      "start": 1024.77,
+      "end": 1027.77,
+      "text": "all the things in the Aryan Eightfold Path,"
+    },
+    {
+      "start": 1027.77,
+      "end": 1032.77,
+      "text": "but the most important would be meditation."
+    },
+    {
+      "start": 1032.77,
+      "end": 1035.77,
+      "text": "In meditation, we train our mind,"
+    },
+    {
+      "start": 1035.77,
+      "end": 1039.77,
+      "text": "we develop our mind to see things more clearly,"
+    },
+    {
+      "start": 1039.77,
+      "end": 1042.77,
+      "text": "and that helps us not only this life,"
+    },
+    {
+      "start": 1042.77,
+      "end": 1045.77,
+      "text": "but also it helps us in the next life."
+    },
+    {
+      "start": 1045.77,
+      "end": 1047.77,
+      "text": "If we develop our mind,"
+    },
+    {
+      "start": 1047.77,
+      "end": 1051.77,
+      "text": "we go to a place where the mind of those beings"
+    },
+    {
+      "start": 1051.77,
+      "end": 1053.77,
+      "text": "are more developed."
+    },
+    {
+      "start": 1053.77,
+      "end": 1057.77,
+      "text": "That's why there is an episode in the Mahayana tradition"
+    },
+    {
+      "start": 1057.77,
+      "end": 1061.77,
+      "text": "about the Indian monk Bodhidharma,"
+    },
+    {
+      "start": 1061.77,
+      "end": 1064.77,
+      "text": "one of the earliest monks who went to China."
+    },
+    {
+      "start": 1064.77,
+      "end": 1067.77,
+      "text": "He was supposed to have been invited"
+    },
+    {
+      "start": 1067.77,
+      "end": 1070.77,
+      "text": "by the emperor to the palace,"
+    },
+    {
+      "start": 1070.77,
+      "end": 1073.77,
+      "text": "and the emperor told the variable Bodhidharma"
+    },
+    {
+      "start": 1073.77,
+      "end": 1076.77,
+      "text": "that he had done a lot of charity,"
+    },
+    {
+      "start": 1076.77,
+      "end": 1079.77,
+      "text": "a lot of monasteries and nunneries,"
+    },
+    {
+      "start": 1079.77,
+      "end": 1082.77,
+      "text": "and did a lot of charity,"
+    },
+    {
+      "start": 1082.77,
+      "end": 1085.77,
+      "text": "and he said to the variable Bodhidharma"
+    },
+    {
+      "start": 1085.77,
+      "end": 1089.77,
+      "text": "that he should have obtained a lot of merit,"
+    },
+    {
+      "start": 1089.77,
+      "end": 1092.77,
+      "text": "and the variable Bodhidharma said,"
+    },
+    {
+      "start": 1092.77,
+      "end": 1095.77,
+      "text": "you have obtained no merit, something like that."
+    },
+    {
+      "start": 1095.77,
+      "end": 1097.77,
+      "text": "And the king was very annoyed"
+    },
+    {
+      "start": 1097.77,
+      "end": 1100.77,
+      "text": "and refused to speak to the variable Bodhidharma after that,"
+    },
+    {
+      "start": 1100.77,
+      "end": 1103.77,
+      "text": "so Bodhidharma left the palace,"
+    },
+    {
+      "start": 1103.77,
+      "end": 1106.77,
+      "text": "and later he learned from his advisor"
+    },
+    {
+      "start": 1106.77,
+      "end": 1109.77,
+      "text": "that Bodhidharma was a very holy person,"
+    },
+    {
+      "start": 1109.77,
+      "end": 1112.77,
+      "text": "and whatever Bodhidharma said must be true."
+    },
+    {
+      "start": 1112.77,
+      "end": 1116.77,
+      "text": "And then he tried to get the advisor to call Bodhidharma"
+    },
+    {
+      "start": 1116.77,
+      "end": 1118.77,
+      "text": "to come back to the palace,"
+    },
+    {
+      "start": 1118.77,
+      "end": 1122.77,
+      "text": "but the advisor said once he decided to go,"
+    },
+    {
+      "start": 1122.77,
+      "end": 1124.77,
+      "text": "nobody can call him back."
+    },
+    {
+      "start": 1124.77,
+      "end": 1128.77,
+      "text": "So what the Bodhidharma meant was"
+    },
+    {
+      "start": 1128.77,
+      "end": 1131.77,
+      "text": "because the king asked whether he had this kongta."
+    },
+    {
+      "start": 1131.77,
+      "end": 1134.77,
+      "text": "Kongta refers more to spiritual merit"
+    },
+    {
+      "start": 1134.77,
+      "end": 1136.77,
+      "text": "than Bodhidharma said."
+    },
+    {
+      "start": 1136.77,
+      "end": 1138.77,
+      "text": "By doing all that charity,"
+    },
+    {
+      "start": 1138.77,
+      "end": 1142.77,
+      "text": "he had zero kongta, zero spiritual merit."
+    },
+    {
+      "start": 1142.77,
+      "end": 1144.77,
+      "text": "What he meant was that the emperor"
+    },
+    {
+      "start": 1144.77,
+      "end": 1148.77,
+      "text": "had a lot of futa, futa is worldly merit,"
+    },
+    {
+      "start": 1148.77,
+      "end": 1153.77,
+      "text": "not spiritual merit."
+    },
+    {
+      "start": 1153.77,
+      "end": 1160.49,
+      "text": "The next sutra is 5.18.177."
+    },
+    {
+      "start": 1160.49,
+      "end": 1161.49,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 1161.49,
+      "end": 1165.49,
+      "text": "monks, these five traits ought not to be applied"
+    },
+    {
+      "start": 1165.49,
+      "end": 1167.49,
+      "text": "by a lay disciple."
+    },
+    {
+      "start": 1167.49,
+      "end": 1168.49,
+      "text": "What five?"
+    },
+    {
+      "start": 1168.49,
+      "end": 1171.49,
+      "text": "Trade in weapons, trade in human beings,"
+    },
+    {
+      "start": 1171.49,
+      "end": 1174.49,
+      "text": "trade in flesh, trade in liquor,"
+    },
+    {
+      "start": 1174.49,
+      "end": 1176.49,
+      "text": "and trade in poison."
+    },
+    {
+      "start": 1176.49,
+      "end": 1179.49,
+      "text": "Barely monks, these five traits ought not to be applied"
+    },
+    {
+      "start": 1179.49,
+      "end": 1182.49,
+      "text": "by a lay disciple."
+    },
+    {
+      "start": 1182.49,
+      "end": 1185.49,
+      "text": "This sutra is about wrong livelihood."
+    },
+    {
+      "start": 1185.49,
+      "end": 1188.49,
+      "text": "There are five kinds of trading or business"
+    },
+    {
+      "start": 1188.49,
+      "end": 1190.49,
+      "text": "that a lay person should not engage in."
+    },
+    {
+      "start": 1190.49,
+      "end": 1194.49,
+      "text": "First one is in weapons like guns and all that that kill."
+    },
+    {
+      "start": 1194.49,
+      "end": 1197.49,
+      "text": "The second is trading in human beings."
+    },
+    {
+      "start": 1197.49,
+      "end": 1199.49,
+      "text": "Nowadays it's more rare."
+    },
+    {
+      "start": 1199.49,
+      "end": 1201.49,
+      "text": "This refers to slavery,"
+    },
+    {
+      "start": 1201.49,
+      "end": 1203.49,
+      "text": "selling people off into slavery."
+    },
+    {
+      "start": 1203.49,
+      "end": 1205.49,
+      "text": "The third one, trade in flesh,"
+    },
+    {
+      "start": 1205.49,
+      "end": 1210.49,
+      "text": "refers to breeding animals for savers"
+    },
+    {
+      "start": 1210.49,
+      "end": 1211.49,
+      "text": "to be slaughtered,"
+    },
+    {
+      "start": 1211.49,
+      "end": 1217.49,
+      "text": "breeding chickens and breeding ducks, etc."
+    },
+    {
+      "start": 1217.49,
+      "end": 1220.49,
+      "text": "The fourth one, trade in liquor."
+    },
+    {
+      "start": 1220.49,
+      "end": 1227.49,
+      "text": "Because liquor is something that's not good for people."
+    },
+    {
+      "start": 1227.49,
+      "end": 1230.49,
+      "text": "The fifth one, trade in poison."
+    },
+    {
+      "start": 1230.49,
+      "end": 1233.49,
+      "text": "We prefer to trade in insecticides"
+    },
+    {
+      "start": 1233.49,
+      "end": 1237.49,
+      "text": "and all kinds of poison that are used to kill animals"
+    },
+    {
+      "start": 1237.49,
+      "end": 1239.49,
+      "text": "and other creatures."
+    },
+    {
+      "start": 1239.49,
+      "end": 1244.49,
+      "text": "So these five traits should not be carried out"
+    },
+    {
+      "start": 1244.49,
+      "end": 1246.49,
+      "text": "by lay persons."
+    },
+    {
+      "start": 1246.49,
+      "end": 1252.44,
+      "text": "The next sutra, 5.18.179."
+    },
+    {
+      "start": 1252.44,
+      "end": 1254.44,
+      "text": "Now the householder, Anathapindika,"
+    },
+    {
+      "start": 1254.44,
+      "end": 1257.44,
+      "text": "surrounded by about 500 lay disciples"
+    },
+    {
+      "start": 1257.44,
+      "end": 1259.44,
+      "text": "visited the exalted one"
+    },
+    {
+      "start": 1259.44,
+      "end": 1262.44,
+      "text": "and after saluting sat down at one side."
+    },
+    {
+      "start": 1262.44,
+      "end": 1265.44,
+      "text": "Then the exalted one addressed the venerable Sariputta"
+    },
+    {
+      "start": 1265.44,
+      "end": 1267.44,
+      "text": "and said,"
+    },
+    {
+      "start": 1267.44,
+      "end": 1272.44,
+      "text": "Sariputta, any white-frogged lay person you know"
+    },
+    {
+      "start": 1272.44,
+      "end": 1275.44,
+      "text": "who acts controlled in the five steps of the training"
+    },
+    {
+      "start": 1275.44,
+      "end": 1279.44,
+      "text": "and obtains at will easily and without difficulty"
+    },
+    {
+      "start": 1279.44,
+      "end": 1285.44,
+      "text": "the four very purposive mental abodes of ease."
+    },
+    {
+      "start": 1285.44,
+      "end": 1287.44,
+      "text": "Here amid things seen,"
+    },
+    {
+      "start": 1287.44,
+      "end": 1289.44,
+      "text": "may should he desire,"
+    },
+    {
+      "start": 1289.44,
+      "end": 1294.44,
+      "text": "declare just the state of self by the self saying,"
+    },
+    {
+      "start": 1294.44,
+      "end": 1296.44,
+      "text": "destroyed is hell for me,"
+    },
+    {
+      "start": 1296.44,
+      "end": 1298.44,
+      "text": "destroyed is animal rebirth,"
+    },
+    {
+      "start": 1298.44,
+      "end": 1300.44,
+      "text": "destroyed is the realm of ghosts,"
+    },
+    {
+      "start": 1300.44,
+      "end": 1304.44,
+      "text": "destroyed for me is the wayward way, the ill way, the abyss."
+    },
+    {
+      "start": 1304.44,
+      "end": 1307.44,
+      "text": "I am he who has won to the stream,"
+    },
+    {
+      "start": 1307.44,
+      "end": 1309.44,
+      "text": "not subject to any falling away,"
+    },
+    {
+      "start": 1309.44,
+      "end": 1312.44,
+      "text": "sure and bound for enlightenment."
+    },
+    {
+      "start": 1312.44,
+      "end": 1316.44,
+      "text": "He acts controlled in what five steps of training?"
+    },
+    {
+      "start": 1316.44,
+      "end": 1318.44,
+      "text": "Here in Sariputta,"
+    },
+    {
+      "start": 1318.44,
+      "end": 1321.44,
+      "text": "the Aryan disciple abstains from taking life,"
+    },
+    {
+      "start": 1321.44,
+      "end": 1323.44,
+      "text": "from taking what is not given,"
+    },
+    {
+      "start": 1323.44,
+      "end": 1326.44,
+      "text": "from fleshly lusts, from lying"
+    },
+    {
+      "start": 1326.44,
+      "end": 1329.44,
+      "text": "and from drinking liquor that cause indolence."
+    },
+    {
+      "start": 1329.44,
+      "end": 1333.44,
+      "text": "He acts controlled in these five steps of the training."
+    },
+    {
+      "start": 1333.44,
+      "end": 1335.44,
+      "text": "What are the four abodes of ease"
+    },
+    {
+      "start": 1335.44,
+      "end": 1338.44,
+      "text": "very purposive he obtains at will?"
+    },
+    {
+      "start": 1338.44,
+      "end": 1340.44,
+      "text": "Here amid things seen."
+    },
+    {
+      "start": 1340.44,
+      "end": 1341.44,
+      "text": "Here in Sariputta,"
+    },
+    {
+      "start": 1341.44,
+      "end": 1345.44,
+      "text": "the Aryan disciple has unwavering faith in the Buddha."
+    },
+    {
+      "start": 1345.44,
+      "end": 1348.44,
+      "text": "Of a truth he is the exalted one,"
+    },
+    {
+      "start": 1348.44,
+      "end": 1350.44,
+      "text": "Arhan, Samasambuddha,"
+    },
+    {
+      "start": 1350.44,
+      "end": 1352.44,
+      "text": "replete with practice and knowledge."
+    },
+    {
+      "start": 1352.44,
+      "end": 1354.44,
+      "text": "Well-gone one,"
+    },
+    {
+      "start": 1354.44,
+      "end": 1355.44,
+      "text": "world-nour,"
+    },
+    {
+      "start": 1355.44,
+      "end": 1356.44,
+      "text": "unsurpassed,"
+    },
+    {
+      "start": 1356.44,
+      "end": 1358.44,
+      "text": "tamer of tamable men,"
+    },
+    {
+      "start": 1358.44,
+      "end": 1360.44,
+      "text": "teacher of devas and men,"
+    },
+    {
+      "start": 1360.44,
+      "end": 1361.44,
+      "text": "Buddha, Bhagawa."
+    },
+    {
+      "start": 1361.44,
+      "end": 1364.44,
+      "text": "This is the first very purposive abode of ease,"
+    },
+    {
+      "start": 1364.44,
+      "end": 1366.44,
+      "text": "one here amid things seen,"
+    },
+    {
+      "start": 1366.44,
+      "end": 1368.44,
+      "text": "by purifying impure thought,"
+    },
+    {
+      "start": 1368.44,
+      "end": 1371.44,
+      "text": "by cleansing unclean thought."
+    },
+    {
+      "start": 1371.44,
+      "end": 1372.44,
+      "text": "Again Sariputta,"
+    },
+    {
+      "start": 1372.44,
+      "end": 1376.44,
+      "text": "the Aryan disciple has unwavering faith in Dhamma."
+    },
+    {
+      "start": 1376.44,
+      "end": 1379.44,
+      "text": "Well-declared by the exalted one is Dhamma,"
+    },
+    {
+      "start": 1379.44,
+      "end": 1382.44,
+      "text": "one to be seen here and now,"
+    },
+    {
+      "start": 1382.44,
+      "end": 1384.44,
+      "text": "timeless bidding,"
+    },
+    {
+      "start": 1384.44,
+      "end": 1386.44,
+      "text": "one come and see,"
+    },
+    {
+      "start": 1386.44,
+      "end": 1388.44,
+      "text": "to be understood by wise men,"
+    },
+    {
+      "start": 1388.44,
+      "end": 1390.44,
+      "text": "each for himself."
+    },
+    {
+      "start": 1390.44,
+      "end": 1392.44,
+      "text": "This is the second abode of ease."
+    },
+    {
+      "start": 1392.44,
+      "end": 1396.44,
+      "text": "He has unwavering faith in the Sangha."
+    },
+    {
+      "start": 1396.44,
+      "end": 1399.44,
+      "text": "Well-trained is the exalted one, Sangha of disciples."
+    },
+    {
+      "start": 1399.44,
+      "end": 1402.44,
+      "text": "Trained in uprightness is the exalted one,"
+    },
+    {
+      "start": 1402.44,
+      "end": 1404.44,
+      "text": "Sangha of disciples."
+    },
+    {
+      "start": 1404.44,
+      "end": 1406.44,
+      "text": "Trained in method is the exalted one,"
+    },
+    {
+      "start": 1406.44,
+      "end": 1407.44,
+      "text": "Sangha of disciples."
+    },
+    {
+      "start": 1407.44,
+      "end": 1410.44,
+      "text": "Trained in the right way is the exalted one,"
+    },
+    {
+      "start": 1410.44,
+      "end": 1411.44,
+      "text": "Sangha of disciples."
+    },
+    {
+      "start": 1411.44,
+      "end": 1413.44,
+      "text": "The four pairs of men,"
+    },
+    {
+      "start": 1413.44,
+      "end": 1414.44,
+      "text": "the eight persons,"
+    },
+    {
+      "start": 1414.44,
+      "end": 1416.44,
+      "text": "this is the exalted one,"
+    },
+    {
+      "start": 1416.44,
+      "end": 1417.44,
+      "text": "Sangha of disciples."
+    },
+    {
+      "start": 1417.44,
+      "end": 1419.44,
+      "text": "Worthy of offerings,"
+    },
+    {
+      "start": 1419.44,
+      "end": 1426.16,
+      "text": "worthy of hospitality, worthy of gifts, fit to be reverently saluted, a field of merit,"
+    },
+    {
+      "start": 1426.16,
+      "end": 1431.92,
+      "text": "none greater in the world. This is the third abode of ease. Moreover, Sariputta, the Aryan"
+    },
+    {
+      "start": 1431.92,
+      "end": 1438.68,
+      "text": "disciple, is possessed of virtues, beloved by Aryans, whole, unbroken, untarnished, without"
+    },
+    {
+      "start": 1438.68,
+      "end": 1445.24,
+      "text": "blemish, bringing freedom, praised by wise men, incorrupt, conducive to concentration."
+    },
+    {
+      "start": 1445.24,
+      "end": 1451.24,
+      "text": "This is the fourth very purposive abode of ease, one here amid things seen, by purifying"
+    },
+    {
+      "start": 1451.24,
+      "end": 1458.56,
+      "text": "in pure thought, by cleansing unclean thought. These are the four abodes of ease. Sariputta,"
+    },
+    {
+      "start": 1458.56,
+      "end": 1463.0,
+      "text": "any white-frogged layperson you know, who acts controlled in these five steps of the"
+    },
+    {
+      "start": 1463.0,
+      "end": 1469.72,
+      "text": "training and obtains at will easily and without difficulty, these four very purposive abodes"
+    },
+    {
+      "start": 1469.72,
+      "end": 1475.64,
+      "text": "of ease, here amid things seen, may, should he desire, declare just the state of self"
+    },
+    {
+      "start": 1475.64,
+      "end": 1480.72,
+      "text": "by the self and say, destroyed is hell for me, destroyed is animal rebirth, destroyed"
+    },
+    {
+      "start": 1480.72,
+      "end": 1485.96,
+      "text": "is the realm of ghosts, destroyed for me is the wavered way, the ill way, the abyss."
+    },
+    {
+      "start": 1485.96,
+      "end": 1492.96,
+      "text": "I am he who has won to the stream, not subject to any falling away, sure and bound for enlightenment."
+    },
+    {
+      "start": 1493.96,
+      "end": 1504.96,
+      "text": "Here the Buddha is saying, if a lay person knows that his, the five precepts, he keeps"
+    },
+    {
+      "start": 1504.96,
+      "end": 1514.46,
+      "text": "purely the five precepts, and then he has confidence that he has unwavering faith in"
+    },
+    {
+      "start": 1514.46,
+      "end": 1525.46,
+      "text": "the Buddha, the Dhamma, and the Sangha, and also his precepts are pure, then he can confidently"
+    },
+    {
+      "start": 1525.46,
+      "end": 1533.66,
+      "text": "say that he has attained the Sotapanna, the first stage of Aryahood, and he will never"
+    },
+    {
+      "start": 1533.66,
+      "end": 1542.42,
+      "text": "be reborn into the three woeful planes again, the realm of animals, ghosts, and hell realm,"
+    },
+    {
+      "start": 1542.42,
+      "end": 1548.78,
+      "text": "and he is bound for enlightenment, that means at the most, seven more lifetimes as a human"
+    },
+    {
+      "start": 1548.78,
+      "end": 1554.5,
+      "text": "being before he attain Salahan Hood."
+    },
+    {
+      "start": 1554.5,
+      "end": 1565.5,
+      "text": "So you see the five precepts, it's not difficult to see whether we keep it purely or not, but"
+    },
+    {
+      "start": 1565.5,
+      "end": 1571.18,
+      "text": "to have unwavering faith in the Buddha, Dhamma, and Sangha, how do you have unwavering faith"
+    },
+    {
+      "start": 1571.18,
+      "end": 1581.34,
+      "text": "in the Buddha, Dhamma, and Sangha, to have unwavering faith means have right view, that"
+    },
+    {
+      "start": 1581.34,
+      "end": 1587.34,
+      "text": "means you have the basic understanding, and how do you get right view?"
+    },
+    {
+      "start": 1587.34,
+      "end": 1596.5,
+      "text": "It is mentioned in the Majima Nikaya, I think it's perhaps Sutra 43, where it is mentioned"
+    },
+    {
+      "start": 1596.5,
+      "end": 1604.82,
+      "text": "that there are two conditions for obtaining right view, only two conditions, one is listening"
+    },
+    {
+      "start": 1604.82,
+      "end": 1610.34,
+      "text": "to Dhamma, that means listening to the discourses of the Buddha, the second one is to have proper"
+    },
+    {
+      "start": 1610.34,
+      "end": 1617.42,
+      "text": "attention, uniso manasikara, or thorough consideration when you are listening to the discourses of"
+    },
+    {
+      "start": 1617.42,
+      "end": 1625.62,
+      "text": "the Buddha, only with these two conditions you can obtain right view, that means you"
+    },
+    {
+      "start": 1625.62,
+      "end": 1634.18,
+      "text": "already become a Swatapanna, that way that is why listening to the Dhamma, the Suttas"
+    },
+    {
+      "start": 1634.18,
+      "end": 1640.94,
+      "text": "is the first step that brings us into the Aryan Eightfold Path."
+    },
+    {
+      "start": 1640.94,
+      "end": 1646.46,
+      "text": "If you don't have that right view, you have not come into the Aryan Eightfold Path yet,"
+    },
+    {
+      "start": 1646.46,
+      "end": 1651.58,
+      "text": "because it's mentioned in the Majima Nikaya, I think Sutra 117, that the Aryan Eightfold"
+    },
+    {
+      "start": 1651.58,
+      "end": 1658.98,
+      "text": "Path starts with the first factor which is right view, and after you have right view,"
+    },
+    {
+      "start": 1658.98,
+      "end": 1662.78,
+      "text": "that will lead you to have right thoughts, and right thoughts will lead you to have right"
+    },
+    {
+      "start": 1662.78,
+      "end": 1668.34,
+      "text": "speech, that will lead you to have right action, that will lead you to have right livelihood,"
+    },
+    {
+      "start": 1668.34,
+      "end": 1673.34,
+      "text": "and then right effort, and then right mindfulness, and right concentration, that completes all"
+    },
+    {
+      "start": 1673.34,
+      "end": 1675.9,
+      "text": "the eight factors."
+    },
+    {
+      "start": 1675.9,
+      "end": 1684.26,
+      "text": "So the first one, to obtain right view, it is very important that we study the Suttas"
+    },
+    {
+      "start": 1684.26,
+      "end": 1691.1,
+      "text": "in detail, pay a lot of attention to the Suttas, then that is the way to get right view, otherwise"
+    },
+    {
+      "start": 1691.1,
+      "end": 1699.1,
+      "text": "you find some people, we had a case some time ago of somebody who meditated for twenty"
+    },
+    {
+      "start": 1699.1,
+      "end": 1705.02,
+      "text": "over years it seems, and then changed her religion, that shows that she did not even"
+    },
+    {
+      "start": 1705.1,
+      "end": 1708.46,
+      "text": "obtain the first factor of the Aryan Eightfold Path."
+    },
+    {
+      "start": 1708.46,
+      "end": 1718.12,
+      "text": "Now the other thing mentioned here is about perfect virtue, perfect virtue does not mean"
+    },
+    {
+      "start": 1718.12,
+      "end": 1725.52,
+      "text": "that an Arya does not have any minor transgressions of the precepts, it is mentioned in Anguta"
+    },
+    {
+      "start": 1725.52,
+      "end": 1733.4,
+      "text": "Nikaya 3.85 that even Aryans can have minor transgressions of the precepts, and we find"
+    },
+    {
+      "start": 1733.48,
+      "end": 1739.68,
+      "text": "in one Sutta in the Sanguta Nikaya, this mentioned that a Sakin by the name of Sarakani"
+    },
+    {
+      "start": 1739.68,
+      "end": 1744.84,
+      "text": "he passed away, and after he passed away they came to ask the Buddha where he had taken"
+    },
+    {
+      "start": 1744.84,
+      "end": 1750.76,
+      "text": "rebirth, and the Buddha said to the effect that not to worry about him is already a Sotapanna,"
+    },
+    {
+      "start": 1750.76,
+      "end": 1756.88,
+      "text": "and the people, some people were a bit doubtful, and some of them were quite annoyed because"
+    },
+    {
+      "start": 1756.88,
+      "end": 1762.36,
+      "text": "they said that Sarakani failed in the training and took the drink, failed in the training"
+    },
+    {
+      "start": 1762.36,
+      "end": 1767.48,
+      "text": "means he disrobed as a monk, took to drink means probably that he didn't take a very"
+    },
+    {
+      "start": 1767.48,
+      "end": 1771.8,
+      "text": "little drink, he probably took quite a lot of drink, that's why the people were annoyed,"
+    },
+    {
+      "start": 1771.8,
+      "end": 1782.36,
+      "text": "so even a Sotapanna can break the precepts against drinking, so you can see perfect"
+    },
+    {
+      "start": 1782.36,
+      "end": 1791.88,
+      "text": "virtue does not mean, does not include minor transgressions, because the precept against"
+    },
+    {
+      "start": 1791.88,
+      "end": 1799.0,
+      "text": "liquor was not originally in the precepts, the original precepts did not include drinking,"
+    },
+    {
+      "start": 1799.0,
+      "end": 1806.28,
+      "text": "it was added later by the Buddha, and perfect sila in the Aryan Eightfold Path consists of the"
+    },
+    {
+      "start": 1806.28,
+      "end": 1812.52,
+      "text": "three factors of perfect right speech, right action, and right livelihood, these three,"
+    },
+    {
+      "start": 1813.32,
+      "end": 1819.96,
+      "text": "we have these three factors of the Aryan Eightfold Path, and that is perfect sila."
+    },
+    {
+      "start": 1820.2,
+      "end": 1830.24,
+      "text": "So from there you find actually the first stage Sotapanna is not that difficult to achieve,"
+    },
+    {
+      "start": 1831.12,
+      "end": 1837.76,
+      "text": "the main thing is we keep the precepts fairly purely, and we listen to the suttas with proper"
+    },
+    {
+      "start": 1837.76,
+      "end": 1844.32,
+      "text": "attention, that can bring us the first stage of Aryahut Sotapanna, and this can be confirmed"
+    },
+    {
+      "start": 1844.32,
+      "end": 1846.56,
+      "text": "in some other suttas, I'll deal with it later."
+    }
+  ]
+}

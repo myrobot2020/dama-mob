@@ -1,0 +1,1410 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1748.2768125,
+  "segments": [
+    {
+      "start": 0.37,
+      "end": 4.37,
+      "text": "Now we come to the next Sutta, 4.20.194."
+    },
+    {
+      "start": 4.37,
+      "end": 9.37,
+      "text": "On a certain occasion, the venerable Ananda was staying among the Kohlians."
+    },
+    {
+      "start": 9.37,
+      "end": 13.37,
+      "text": "There is a place called Sapuga in the township of the Kohlians."
+    },
+    {
+      "start": 13.37,
+      "end": 19.37,
+      "text": "Then a great number of the Sapugians of the Kohlian clan came to visit the venerable Ananda,"
+    },
+    {
+      "start": 19.37,
+      "end": 23.37,
+      "text": "and on coming to him, saluted him and sat down at one side."
+    },
+    {
+      "start": 23.37,
+      "end": 28.37,
+      "text": "As they sat thus, the venerable Ananda said this to the Kohlians of Sapuga."
+    },
+    {
+      "start": 28.37,
+      "end": 33.37,
+      "text": "Men of the Leopard's path, Vyaga Pajah,"
+    },
+    {
+      "start": 33.37,
+      "end": 39.37,
+      "text": "these four factors of exertion for utter purification have been fully proclaimed"
+    },
+    {
+      "start": 39.37,
+      "end": 45.37,
+      "text": "by that exalted One who knows, who sees, that Arahant, the fully enlightened One,"
+    },
+    {
+      "start": 45.37,
+      "end": 50.37,
+      "text": "for the purification of beings, for the overcoming of grief and distress,"
+    },
+    {
+      "start": 50.37,
+      "end": 55.37,
+      "text": "for the making and end of sorrow and lamentation, for the winning of the method,"
+    },
+    {
+      "start": 55.37,
+      "end": 59.37,
+      "text": "for the realization of Nibbana, what are the four?"
+    },
+    {
+      "start": 59.37,
+      "end": 64.37,
+      "text": "The factor of exertion for the utter purification of moral conduct."
+    },
+    {
+      "start": 64.37,
+      "end": 68.37,
+      "text": "The utter purification of mind, utter purification of view,"
+    },
+    {
+      "start": 68.37,
+      "end": 72.37,
+      "text": "and the factor of exertion for the utter purity of release."
+    },
+    {
+      "start": 72.37,
+      "end": 76.37,
+      "text": "And what men of the Leopard's path is the factor of exertion"
+    },
+    {
+      "start": 76.37,
+      "end": 79.37,
+      "text": "for the utter purification of moral conduct."
+    },
+    {
+      "start": 79.37,
+      "end": 84.37,
+      "text": "In this case, among His virtuous, He undertakes and practices the precepts."
+    },
+    {
+      "start": 84.37,
+      "end": 87.37,
+      "text": "This is called utter purification of morals."
+    },
+    {
+      "start": 87.37,
+      "end": 93.37,
+      "text": "He resolves, I will bring to perfection such a purification of moral conduct,"
+    },
+    {
+      "start": 93.37,
+      "end": 99.37,
+      "text": "if it be incomplete, and if complete, I will supplement it here and there by wisdom."
+    },
+    {
+      "start": 99.37,
+      "end": 104.37,
+      "text": "The desire to do the effort, exertion, endeavor, persistence, mindfulness,"
+    },
+    {
+      "start": 104.37,
+      "end": 108.37,
+      "text": "and attention applied there too is called a factor of exertion"
+    },
+    {
+      "start": 108.37,
+      "end": 111.37,
+      "text": "for the utter purification of morals."
+    },
+    {
+      "start": 111.37,
+      "end": 115.37,
+      "text": "And what men of the Leopard's path is the factor of exertion"
+    },
+    {
+      "start": 115.37,
+      "end": 117.37,
+      "text": "for the utter purification of mind."
+    },
+    {
+      "start": 117.37,
+      "end": 124.37,
+      "text": "In this case, among aloof from sense desires, aloof from unwholesome conditions,"
+    },
+    {
+      "start": 124.37,
+      "end": 130.37,
+      "text": "enters upon the first jana, which is accompanied by thought directed and sustained,"
+    },
+    {
+      "start": 130.37,
+      "end": 136.37,
+      "text": "born of seclusion, delightful and pleasurable, and abides therein."
+    },
+    {
+      "start": 136.37,
+      "end": 139.37,
+      "text": "Then by the calming down of thought directed and sustained,"
+    },
+    {
+      "start": 139.37,
+      "end": 144.37,
+      "text": "he enters upon the second jana, the inward calming of the self,"
+    },
+    {
+      "start": 144.37,
+      "end": 148.37,
+      "text": "that one pointedness of mind, apart from thought directed and sustained,"
+    },
+    {
+      "start": 148.37,
+      "end": 152.37,
+      "text": "that is born of concentration, delightful and pleasurable,"
+    },
+    {
+      "start": 152.37,
+      "end": 155.37,
+      "text": "and having attained it, abides therein."
+    },
+    {
+      "start": 155.37,
+      "end": 160.37,
+      "text": "Then by the fading out of delight, equanimous, mindful and composed,"
+    },
+    {
+      "start": 160.37,
+      "end": 166.37,
+      "text": "he experiences in his own body that happiness of which the Aryans declare,"
+    },
+    {
+      "start": 166.37,
+      "end": 169.37,
+      "text": "he is equanimous and mindful."
+    },
+    {
+      "start": 169.37,
+      "end": 173.37,
+      "text": "He who is equanimous and mindful dwells happily."
+    },
+    {
+      "start": 173.37,
+      "end": 177.37,
+      "text": "So he attains and abides in the third jana."
+    },
+    {
+      "start": 177.37,
+      "end": 181.37,
+      "text": "Then by the abandoning both of pleasure and discomfort,"
+    },
+    {
+      "start": 181.37,
+      "end": 186.37,
+      "text": "by the ending of both happiness and unhappiness felt before,"
+    },
+    {
+      "start": 186.37,
+      "end": 191.37,
+      "text": "he attains the fourth jana, a state of neither pleasure nor discomfort,"
+    },
+    {
+      "start": 191.37,
+      "end": 195.37,
+      "text": "an utter purity of mindfulness and equanimity,"
+    },
+    {
+      "start": 195.37,
+      "end": 198.37,
+      "text": "having attained it, abides therein."
+    },
+    {
+      "start": 198.37,
+      "end": 201.37,
+      "text": "This is called the utter purification of mind."
+    },
+    {
+      "start": 201.37,
+      "end": 206.37,
+      "text": "He resolves, I will bring to perfection such a purification of mind,"
+    },
+    {
+      "start": 206.37,
+      "end": 211.37,
+      "text": "if it be incomplete, and if complete, I will supplement it here and there by wisdom."
+    },
+    {
+      "start": 211.37,
+      "end": 217.37,
+      "text": "The desire to do the effort, etc., and attention applied there too,"
+    },
+    {
+      "start": 217.37,
+      "end": 221.37,
+      "text": "is called a factor of exertion for the purification of mind."
+    },
+    {
+      "start": 221.37,
+      "end": 226.37,
+      "text": "What men of the leopard's path is the factor of exertion for the utter purification of view."
+    },
+    {
+      "start": 226.37,
+      "end": 231.37,
+      "text": "In this case, a monk comes to understand as it really is, this is dukkha,"
+    },
+    {
+      "start": 231.37,
+      "end": 235.37,
+      "text": "this is the arising of dukkha, this is the ending of dukkha,"
+    },
+    {
+      "start": 235.37,
+      "end": 238.37,
+      "text": "this is the practice going to the ending of dukkha."
+    },
+    {
+      "start": 238.37,
+      "end": 241.37,
+      "text": "This is called utter purification of view."
+    },
+    {
+      "start": 241.37,
+      "end": 245.37,
+      "text": "He resolves, I will bring to perfection such a purification of view,"
+    },
+    {
+      "start": 245.37,
+      "end": 248.37,
+      "text": "if it be incomplete, etc., etc."
+    },
+    {
+      "start": 248.37,
+      "end": 252.37,
+      "text": "The desire to do the effort and attention applied there too,"
+    },
+    {
+      "start": 252.37,
+      "end": 256.37,
+      "text": "is called a factor of exertion for the utter purification of view."
+    },
+    {
+      "start": 256.37,
+      "end": 262.37,
+      "text": "And what men of the leopard's path is the factor of exertion for the utter purification of release."
+    },
+    {
+      "start": 262.37,
+      "end": 266.37,
+      "text": "In this case, the Aryan disciple who is possessed of this factor of exertion"
+    },
+    {
+      "start": 266.37,
+      "end": 270.37,
+      "text": "for the utter purification of moral conduct, of mind, of view,"
+    },
+    {
+      "start": 270.37,
+      "end": 273.37,
+      "text": "cleanses his heart of conditions that defile."
+    },
+    {
+      "start": 273.37,
+      "end": 277.37,
+      "text": "He releases his heart by means of conditions that release."
+    },
+    {
+      "start": 277.37,
+      "end": 280.37,
+      "text": "So doing, he attains the perfection of release."
+    },
+    {
+      "start": 280.37,
+      "end": 283.37,
+      "text": "This is called the utter purification of release."
+    },
+    {
+      "start": 283.37,
+      "end": 287.37,
+      "text": "He resolves, I will bring to perfection such a purification of release,"
+    },
+    {
+      "start": 287.37,
+      "end": 292.37,
+      "text": "if it be incomplete, and if complete, I will supplement here, here, and there by wisdom."
+    },
+    {
+      "start": 292.37,
+      "end": 297.37,
+      "text": "The desire, the effort, the exertion, endeavor, persistence, mindfulness,"
+    },
+    {
+      "start": 297.37,
+      "end": 303.37,
+      "text": "and attention applied there too, is called a factor of exertion for the utter purification of release."
+    },
+    {
+      "start": 303.37,
+      "end": 308.37,
+      "text": "So men of the leopard's path, these are the four factors of exertion for utter purification,"
+    },
+    {
+      "start": 308.37,
+      "end": 311.37,
+      "text": "which were fully proclaimed by the exalted one who knows,"
+    },
+    {
+      "start": 311.37,
+      "end": 316.37,
+      "text": "who sees the Aryan, the fully enlightened one for the purification of beings,"
+    },
+    {
+      "start": 316.37,
+      "end": 322.37,
+      "text": "for the passing over of grief and distress, for the making and end of sorrow and lamentation,"
+    },
+    {
+      "start": 322.37,
+      "end": 326.37,
+      "text": "for the winning of the method for the realization of nibbana."
+    },
+    {
+      "start": 326.37,
+      "end": 331.37,
+      "text": "So in this sutta, the Buddha is talking about the four purifications,"
+    },
+    {
+      "start": 331.37,
+      "end": 339.37,
+      "text": "the first one of moral conduct, that means the person keeps the precepts."
+    },
+    {
+      "start": 339.37,
+      "end": 347.37,
+      "text": "The second one, the utter purification of mind, citta visudi, is the attainment of the four janas."
+    },
+    {
+      "start": 347.37,
+      "end": 353.37,
+      "text": "And the third one is the utter purification of view,"
+    },
+    {
+      "start": 353.37,
+      "end": 358.37,
+      "text": "that means he understands the four noble truths, the four Aryan truths,"
+    },
+    {
+      "start": 358.37,
+      "end": 367.37,
+      "text": "and then the utter purification of release, that means he attains the release, the emancipation, the enlightenment."
+    },
+    {
+      "start": 367.37,
+      "end": 375.37,
+      "text": "In this sutta, the most important thing that I'd like to point out is the utter purification of mind, citta visudi."
+    },
+    {
+      "start": 375.37,
+      "end": 383.37,
+      "text": "Because this sutta makes it very clear what is citta visudi, purification of mind."
+    },
+    {
+      "start": 383.37,
+      "end": 388.37,
+      "text": "There is one sutta in the Majima Nikaya called the Ratha Vinita Sutta,"
+    },
+    {
+      "start": 388.37,
+      "end": 394.37,
+      "text": "where it was explained that there are I think seven stages to enlightenment."
+    },
+    {
+      "start": 394.37,
+      "end": 397.37,
+      "text": "And one of the stages is citta visudi."
+    },
+    {
+      "start": 397.37,
+      "end": 403.37,
+      "text": "But in that sutta, it is not explained exactly what is the purification of mind."
+    },
+    {
+      "start": 403.37,
+      "end": 413.37,
+      "text": "And in the visudi maga, they state that the purification of mind is upacara samadhi, threshold concentration,"
+    },
+    {
+      "start": 413.37,
+      "end": 417.37,
+      "text": "and also apana samadhi, which is the janas."
+    },
+    {
+      "start": 417.37,
+      "end": 427.37,
+      "text": "But that contradicts the sutta here because in this sutta, it's very clear that purification of mind is the four janas."
+    },
+    {
+      "start": 427.37,
+      "end": 435.37,
+      "text": "And the right concentration or perfect concentration in the suttas, there's two ways of defining."
+    },
+    {
+      "start": 435.37,
+      "end": 440.37,
+      "text": "One is the four janas, the other one is one pointiness of mind."
+    },
+    {
+      "start": 440.37,
+      "end": 447.37,
+      "text": "So this sutta makes it very clear that utter purification of mind is the janas."
+    },
+    {
+      "start": 447.37,
+      "end": 456.37,
+      "text": "Now because the janas are mentioned, the four janas are mentioned in detail,"
+    },
+    {
+      "start": 456.37,
+      "end": 465.37,
+      "text": "I'd like to take this opportunity to go through the explanation of the four janas that we just read just now."
+    },
+    {
+      "start": 465.37,
+      "end": 477.62,
+      "text": "And it was stated that among aloo from sense desires, aloo from unwholesome conditions enters upon the first jana."
+    },
+    {
+      "start": 477.62,
+      "end": 486.62,
+      "text": "So you see to be able to enter into the first jana, you have to leave behind the sense desires."
+    },
+    {
+      "start": 486.62,
+      "end": 498.96,
+      "text": "That means the realm of the six senses, you have to cut them offline in the sense of not paying attention to them."
+    },
+    {
+      "start": 498.96,
+      "end": 502.96,
+      "text": "And aloo from unwholesome conditions."
+    },
+    {
+      "start": 502.96,
+      "end": 509.96,
+      "text": "That means to be able to enter the first jana, you got to leave behind unwholesome conditions,"
+    },
+    {
+      "start": 509.96,
+      "end": 519.96,
+      "text": "that means the jana is a very wholesome condition because you leave behind unwholesome conditions then only you can enter into jana."
+    },
+    {
+      "start": 519.96,
+      "end": 526.96,
+      "text": "So this is the first thing we have to be quite clear that jana is a very wholesome condition."
+    },
+    {
+      "start": 526.96,
+      "end": 531.96,
+      "text": "It is not an unwholesome condition as some people try to make it out."
+    },
+    {
+      "start": 531.96,
+      "end": 536.96,
+      "text": "And then it is accompanied by thought directed and sustained."
+    },
+    {
+      "start": 536.96,
+      "end": 546.96,
+      "text": "In the first jana, there is still some thought but then there is sutta and the magima and nikaya."
+    },
+    {
+      "start": 546.96,
+      "end": 551.96,
+      "text": "We see that this kind of thought is only skilled thoughts."
+    },
+    {
+      "start": 551.96,
+      "end": 559.96,
+      "text": "It is not unskilled thoughts because unskilled thoughts have ceased in the first jana."
+    },
+    {
+      "start": 559.96,
+      "end": 569.96,
+      "text": "So you are not just thinking of unwholesome things but only thinking of what is concerned with that state of jana."
+    },
+    {
+      "start": 569.96,
+      "end": 583.96,
+      "text": "Putting your attention there, being diligent and trying to tell yourself probably that you have to remember the steps you took to attain to that state."
+    },
+    {
+      "start": 583.96,
+      "end": 589.96,
+      "text": "And then it is born of seclusion."
+    },
+    {
+      "start": 589.96,
+      "end": 594.96,
+      "text": "That means seclusion normally in the sutta, there are two types of seclusion."
+    },
+    {
+      "start": 594.96,
+      "end": 599.96,
+      "text": "Viveka, one is body seclusion, the other one is seclusion of the mind."
+    },
+    {
+      "start": 599.96,
+      "end": 606.96,
+      "text": "Body seclusion, that means to get away from people, go to a quiet place."
+    },
+    {
+      "start": 606.96,
+      "end": 615.96,
+      "text": "Seclusion of the mind means to get rid of unwholesome defilements, unwholesome conditions."
+    },
+    {
+      "start": 615.96,
+      "end": 620.96,
+      "text": "So it is born of seclusion and then it is delightful and pleasurable."
+    },
+    {
+      "start": 620.96,
+      "end": 622.96,
+      "text": "These two words, piti and sukha."
+    },
+    {
+      "start": 622.96,
+      "end": 625.96,
+      "text": "This piti and sukha is a very subtle perception."
+    },
+    {
+      "start": 625.96,
+      "end": 635.96,
+      "text": "It is not a strong perception in the janas because the mind is so concentrated, so strong that this piti and sukha,"
+    },
+    {
+      "start": 635.96,
+      "end": 638.96,
+      "text": "it is not strong."
+    },
+    {
+      "start": 638.96,
+      "end": 655.62,
+      "text": "It is just a very subtle feeling and this is confirmed in the diga nikaya and so a person abides in the first jana."
+    },
+    {
+      "start": 655.62,
+      "end": 659.62,
+      "text": "Then the second jana, by the calming down of thought directed and sustained,"
+    },
+    {
+      "start": 659.62,
+      "end": 666.62,
+      "text": "that means when you enter the second jana, you leave behind the thoughts, there is no more thoughts in the second jana."
+    },
+    {
+      "start": 666.62,
+      "end": 673.62,
+      "text": "He enters upon the second jana, the inward calming of the self, that one-pointedness of mind,"
+    },
+    {
+      "start": 673.62,
+      "end": 678.62,
+      "text": "apart from thought directed and sustained, that is born of concentration."
+    },
+    {
+      "start": 678.62,
+      "end": 686.62,
+      "text": "This state, it is a very concentrated state where all the thoughts have ceased and cannot arise."
+    },
+    {
+      "start": 686.62,
+      "end": 689.62,
+      "text": "The mind is so mindful."
+    },
+    {
+      "start": 689.62,
+      "end": 695.62,
+      "text": "One thing about these states of concentration, they are not mindless states, they are very mindful states."
+    },
+    {
+      "start": 696.62,
+      "end": 705.62,
+      "text": "The more concentrated your mind is, the more intense the mindfulness, very intense concentration."
+    },
+    {
+      "start": 705.62,
+      "end": 712.62,
+      "text": "It is like a point of light, the mind is focused to one point."
+    },
+    {
+      "start": 712.62,
+      "end": 716.62,
+      "text": "It is delightful and pleasurable again."
+    },
+    {
+      "start": 716.62,
+      "end": 723.62,
+      "text": "Then by the fading out of delight, mindful and composed, he experiences in his own,"
+    },
+    {
+      "start": 723.62,
+      "end": 730.62,
+      "text": "the happiness of which the Aryans declare, he who is equanimous and mindful dwells happily."
+    },
+    {
+      "start": 730.62,
+      "end": 734.62,
+      "text": "So he attains and abides in the third jana."
+    },
+    {
+      "start": 734.62,
+      "end": 741.62,
+      "text": "So you see, in this third jana, the mind is very tranquil, equanimous and mindful."
+    },
+    {
+      "start": 741.62,
+      "end": 744.62,
+      "text": "This word mindful is always the same."
+    },
+    {
+      "start": 744.62,
+      "end": 748.62,
+      "text": "He can't say that when a person enters the jana, he doesn't know."
+    },
+    {
+      "start": 748.62,
+      "end": 750.62,
+      "text": "It is very mindful."
+    },
+    {
+      "start": 750.62,
+      "end": 752.62,
+      "text": "He's very, very mindful."
+    },
+    {
+      "start": 752.62,
+      "end": 760.62,
+      "text": "And then by the abandoning both of pleasure and discomfort, by the ending of both happiness and unhappiness felt before,"
+    },
+    {
+      "start": 760.62,
+      "end": 762.62,
+      "text": "he attains the fourth jana."
+    },
+    {
+      "start": 762.62,
+      "end": 766.62,
+      "text": "He can't say that when a person enters the jana, he doesn't know."
+    },
+    {
+      "start": 766.62,
+      "end": 772.62,
+      "text": "By the abandoning both of pleasure and discomfort, by the ending of both happiness and unhappiness felt before,"
+    },
+    {
+      "start": 772.62,
+      "end": 774.62,
+      "text": "he attains the fourth jana."
+    },
+    {
+      "start": 774.62,
+      "end": 782.62,
+      "text": "A state of neither pleasure nor discomfort, an utter purity of mindfulness and equanimity,"
+    },
+    {
+      "start": 782.62,
+      "end": 785.62,
+      "text": "and having attained it, abides therein."
+    },
+    {
+      "start": 785.62,
+      "end": 796.62,
+      "text": "In this fourth jana, you leave behind the feelings, pleasurable and unpleasurable feelings,"
+    },
+    {
+      "start": 796.62,
+      "end": 804.62,
+      "text": "bodily as well as pleasurable and unpleasurable mental feelings, leaves behind."
+    },
+    {
+      "start": 804.62,
+      "end": 810.62,
+      "text": "And then only you can enter the fourth jana, a state of neither pleasure nor discomfort,"
+    },
+    {
+      "start": 810.62,
+      "end": 814.62,
+      "text": "an utter purification of mindfulness and equanimity."
+    },
+    {
+      "start": 814.62,
+      "end": 819.62,
+      "text": "So in this fourth jana, the mindfulness is utterly pure."
+    },
+    {
+      "start": 819.62,
+      "end": 825.62,
+      "text": "That's why because the mindfulness is utterly pure, such a high degree of mindfulness,"
+    },
+    {
+      "start": 825.62,
+      "end": 831.62,
+      "text": "that's why the Buddha said that perfect mindfulness is the fourth jana."
+    },
+    {
+      "start": 831.62,
+      "end": 841.62,
+      "text": "So the jana states not to belittle the states of very high attainment concentration."
+    },
+    {
+      "start": 841.62,
+      "end": 850.32,
+      "text": "Now we come to another sutra, 4.20.195."
+    },
+    {
+      "start": 850.32,
+      "end": 860.18,
+      "text": "On a certain occasion, the exalted one was staying among the Sakyans at Kapilavatu in Banyan Park."
+    },
+    {
+      "start": 860.18,
+      "end": 866.18,
+      "text": "At that time, Vapa, the Sakyan, a disciple of the unclothed, went to visit Mogulana the Great,"
+    },
+    {
+      "start": 866.18,
+      "end": 872.18,
+      "text": "and on coming to him, saluted the venerable Mogulana the Great and sat down at one side."
+    },
+    {
+      "start": 872.18,
+      "end": 879.18,
+      "text": "As he said thus, the venerable Mogulana the Great was saying this to Vapa, the Sakyan, disciple of the unclothed."
+    },
+    {
+      "start": 879.18,
+      "end": 885.18,
+      "text": "There may be someone here, Vapa, restrained in body, speech and mind,"
+    },
+    {
+      "start": 885.18,
+      "end": 889.18,
+      "text": "owing to the waning of ignorance and the arising of knowledge."
+    },
+    {
+      "start": 889.18,
+      "end": 900.18,
+      "text": "Now Vapa, do you see any cause owing to which the asavas causing pain would flow in upon the man at some future time?"
+    },
+    {
+      "start": 900.18,
+      "end": 903.18,
+      "text": "Sir, I do see such a reason."
+    },
+    {
+      "start": 903.18,
+      "end": 910.18,
+      "text": "There may be in this case a certain previously done evil deed whose fruit has not yet ripened,"
+    },
+    {
+      "start": 910.18,
+      "end": 917.18,
+      "text": "owing to that the asavas causing pain might flow in upon that man at some future time."
+    },
+    {
+      "start": 917.18,
+      "end": 922.18,
+      "text": "At this juncture, the conversation which the two were holding was broken off."
+    },
+    {
+      "start": 922.18,
+      "end": 927.18,
+      "text": "Then the exalted one in the evening, rising from his solitary meditation,"
+    },
+    {
+      "start": 927.18,
+      "end": 933.18,
+      "text": "went towards the service hall and on reaching it sat down on a seat made ready."
+    },
+    {
+      "start": 933.18,
+      "end": 939.18,
+      "text": "Having taken his seat, the exalted one said this to the venerable Mogulana the Great."
+    },
+    {
+      "start": 939.18,
+      "end": 946.18,
+      "text": "So the Buddha said, pray Mogulana, on what subject are you talking as you sit here now"
+    },
+    {
+      "start": 946.18,
+      "end": 951.18,
+      "text": "and what was the talk just interrupted?"
+    },
+    {
+      "start": 951.18,
+      "end": 956.18,
+      "text": "Lord, I was just saying to Vapa, the Sakyan, disciple of the unclothed."
+    },
+    {
+      "start": 956.18,
+      "end": 964.18,
+      "text": "There may be someone here, Vapa, restrained in body, speech and mind, owing to the waning of ignorance and the rising of knowledge."
+    },
+    {
+      "start": 964.18,
+      "end": 972.18,
+      "text": "Now Vapa, do you see any cause owing to which the asavas causing pain would flow in upon the man at some future time?"
+    },
+    {
+      "start": 972.18,
+      "end": 978.18,
+      "text": "At these words, Lord, Vapa was saying to me, Sir, I do see such a reason."
+    },
+    {
+      "start": 978.18,
+      "end": 984.18,
+      "text": "There may be in this case a certain previously done evil deed whose fruit has not yet ripened,"
+    },
+    {
+      "start": 984.18,
+      "end": 990.18,
+      "text": "owing to that the asavas causing pain might flow in upon that man at some future time."
+    },
+    {
+      "start": 990.18,
+      "end": 993.18,
+      "text": "This was the subject we were engaged upon."
+    },
+    {
+      "start": 993.18,
+      "end": 997.18,
+      "text": "Then the talk was interrupted by the arrival of the exalted one."
+    },
+    {
+      "start": 997.18,
+      "end": 1002.18,
+      "text": "Then said the exalted one to Vapa, the Sakyan, disciple of the unclothed."
+    },
+    {
+      "start": 1002.18,
+      "end": 1009.18,
+      "text": "If you, Vapa, would allow what you deem allowable and reject what you deem should be rejected."
+    },
+    {
+      "start": 1009.18,
+      "end": 1017.18,
+      "text": "And in this case, you should not, and in case you should not understand the meaning of my words,"
+    },
+    {
+      "start": 1017.18,
+      "end": 1021.18,
+      "text": "if you would question me still further thus, how is this, Sir?"
+    },
+    {
+      "start": 1021.18,
+      "end": 1023.18,
+      "text": "What is the meaning of that?"
+    },
+    {
+      "start": 1023.18,
+      "end": 1025.18,
+      "text": "We might have a talk here."
+    },
+    {
+      "start": 1025.18,
+      "end": 1033.18,
+      "text": "I will indeed, Lord, allow the exalted one what I deem allowable and I will reject what I deem should be rejected."
+    },
+    {
+      "start": 1033.18,
+      "end": 1040.18,
+      "text": "And in case I do not understand the exalted one's words, I will question the exalted one still further thus."
+    },
+    {
+      "start": 1040.18,
+      "end": 1041.18,
+      "text": "What is this, Lord?"
+    },
+    {
+      "start": 1041.18,
+      "end": 1043.18,
+      "text": "What is the meaning of that?"
+    },
+    {
+      "start": 1043.18,
+      "end": 1045.68,
+      "text": "So be it."
+    },
+    {
+      "start": 1045.68,
+      "end": 1047.68,
+      "text": "Let us have a talk here."
+    },
+    {
+      "start": 1047.68,
+      "end": 1054.68,
+      "text": "I'll stop here for a while to just comment."
+    },
+    {
+      "start": 1054.68,
+      "end": 1060.22,
+      "text": "This Mughalana asked this question."
+    },
+    {
+      "start": 1060.22,
+      "end": 1065.22,
+      "text": "There may be someone here restrained in body, speech and mind,"
+    },
+    {
+      "start": 1065.22,
+      "end": 1069.22,
+      "text": "owing to the waning of ignorance and the arising of knowledge."
+    },
+    {
+      "start": 1069.22,
+      "end": 1077.22,
+      "text": "Do you see any cause owing to which the Asavas causing pain would flow in upon that man at some future time?"
+    },
+    {
+      "start": 1077.22,
+      "end": 1085.22,
+      "text": "This Asavas, this word Asavas, I would translate as uncontrolled mental outflows."
+    },
+    {
+      "start": 1085.22,
+      "end": 1090.22,
+      "text": "Mental outflows that we have no control over."
+    },
+    {
+      "start": 1090.22,
+      "end": 1099.22,
+      "text": "For example, emotions, worries, painful, distressing thoughts, etc."
+    },
+    {
+      "start": 1099.22,
+      "end": 1103.22,
+      "text": "And these are the Asavas."
+    },
+    {
+      "start": 1103.22,
+      "end": 1113.22,
+      "text": "So here, Mughalana is saying because of the waning of ignorance and the arising of knowledge,"
+    },
+    {
+      "start": 1113.22,
+      "end": 1118.22,
+      "text": "someone is restrained in the kamas, he does not create new kamas."
+    },
+    {
+      "start": 1118.22,
+      "end": 1123.22,
+      "text": "And on top of not creating new kamas, he has attained knowledge."
+    },
+    {
+      "start": 1123.22,
+      "end": 1129.22,
+      "text": "So is it possible for the painful Asavas to arise in the future?"
+    },
+    {
+      "start": 1129.22,
+      "end": 1135.22,
+      "text": "And this man, this disciple of the unclawed, said that it is possible."
+    },
+    {
+      "start": 1135.22,
+      "end": 1149.22,
+      "text": "Now this, although it's not mentioned here, I presume that this naked ascetic is a disciple of the Jain, Niganta."
+    },
+    {
+      "start": 1149.22,
+      "end": 1157.22,
+      "text": "Because the Jains, they have a belief that they have to punish themselves continuously,"
+    },
+    {
+      "start": 1157.22,
+      "end": 1166.22,
+      "text": "and inflict pain on themselves to wear away the karma of the previous lives."
+    },
+    {
+      "start": 1166.22,
+      "end": 1174.22,
+      "text": "Whereas the Buddha said that what is necessary is to attain enlightenment, attain knowledge."
+    },
+    {
+      "start": 1174.22,
+      "end": 1180.22,
+      "text": "So you see here, the Buddha is challenging this naked ascetic to a debate."
+    },
+    {
+      "start": 1180.22,
+      "end": 1188.22,
+      "text": "That's why he said, if you, Vapa, would allow what you deem allowable and reject what you deem, should be rejected."
+    },
+    {
+      "start": 1188.22,
+      "end": 1192.22,
+      "text": "Then, etc., then we might have a talk here."
+    },
+    {
+      "start": 1192.22,
+      "end": 1200.22,
+      "text": "And so he's stating the conditions for a debate, and this naked ascetic accepted his conditions."
+    },
+    {
+      "start": 1200.22,
+      "end": 1208.22,
+      "text": "Then the Buddha said, now what do you think, Vapa, as to these Asavas which come about as a result of bodily activities?"
+    },
+    {
+      "start": 1208.22,
+      "end": 1220.22,
+      "text": "In the case of one who abstains from bodily activities that cause vexation and distress, it follows that those Asavas causing pain do not exist in him."
+    },
+    {
+      "start": 1220.22,
+      "end": 1222.22,
+      "text": "He does no fresh deed."
+    },
+    {
+      "start": 1222.22,
+      "end": 1234.22,
+      "text": "As to his former deed or karma, he wears it out by constant contact with it, by a wearing out that is plain to see, not just for a time."
+    },
+    {
+      "start": 1234.22,
+      "end": 1243.22,
+      "text": "One that asks for inspection that leads onward, a wearing out that can be understood by the intelligent, each for himself."
+    },
+    {
+      "start": 1243.22,
+      "end": 1251.22,
+      "text": "Now, Vapa, do you see any reason why Asavas causing pain should flow in upon him at some future time?"
+    },
+    {
+      "start": 1251.22,
+      "end": 1254.22,
+      "text": "No, Lord, that cannot be."
+    },
+    {
+      "start": 1254.22,
+      "end": 1256.22,
+      "text": "I'll just stop here for a moment."
+    },
+    {
+      "start": 1256.22,
+      "end": 1274.22,
+      "text": "As the Buddha is saying, those kamas that result in painful Asavas, if that person stops doing it, is it possible that those new painful Asavas would arise?"
+    },
+    {
+      "start": 1274.22,
+      "end": 1282.22,
+      "text": "So this naked ascetic has to say no, then the Buddha continued."
+    },
+    {
+      "start": 1282.22,
+      "end": 1293.22,
+      "text": "Now again, Vapa, what think you as to those Asavas that come about as the result of the activities of speech, as a result of activities of mind?"
+    },
+    {
+      "start": 1293.22,
+      "end": 1304.22,
+      "text": "In the case of one who abstains from activities of speech and mind that cause vexation and distress, it follows that those Asavas causing pain do not exist in him."
+    },
+    {
+      "start": 1304.22,
+      "end": 1315.22,
+      "text": "There is no fresh deed, as to his former deed, he wears it out by constant contact, by a wearing out that can be understood by the intelligent, each for himself."
+    },
+    {
+      "start": 1315.22,
+      "end": 1323.22,
+      "text": "Now Vapa, do you see any reason why Asavas causing pain should flow in upon him at some future time?"
+    },
+    {
+      "start": 1323.22,
+      "end": 1326.22,
+      "text": "No, Lord, that cannot be."
+    },
+    {
+      "start": 1326.22,
+      "end": 1336.22,
+      "text": "And what think you, Vapa, as to those Asavas causing vexation and distress which result from ignorance, owing to the waning of ignorance and the arising of knowledge?"
+    },
+    {
+      "start": 1336.22,
+      "end": 1341.22,
+      "text": "It follows that those Asavas of vexation and distress do not exist in him."
+    },
+    {
+      "start": 1341.22,
+      "end": 1352.22,
+      "text": "He does no fresh deed, as to his former deed, he wears it out by constant contact with it, by a wearing out that is plain to see, not just for a time."
+    },
+    {
+      "start": 1352.22,
+      "end": 1360.22,
+      "text": "One that asks for inspection, that leads onward, a wearing out that can be understood by the intelligent, each for himself."
+    },
+    {
+      "start": 1360.22,
+      "end": 1368.22,
+      "text": "Now Vapa, do you see any reason why Asavas causing pain should flow in upon him at some future time?"
+    },
+    {
+      "start": 1368.22,
+      "end": 1370.22,
+      "text": "No, Lord, that cannot be."
+    },
+    {
+      "start": 1370.22,
+      "end": 1378.22,
+      "text": "So then Vapa, by the monk whose mind is perfectly released, six constant abiding states are attained."
+    },
+    {
+      "start": 1378.22,
+      "end": 1387.22,
+      "text": "He seeing an object with the eye is neither elated nor depressed, but rests indifferent, mindful and comprehending."
+    },
+    {
+      "start": 1387.22,
+      "end": 1404.22,
+      "text": "Hearing a sound with the ear, smelling a scent with the nose, tasting a sever with the tongue, with body contacting tangibles, with mind cognising mental states, he is neither elated nor depressed, but rests equanimous, mindful and aware."
+    },
+    {
+      "start": 1404.22,
+      "end": 1410.22,
+      "text": "When he feels a feeling limited by body, he knows that he so feels."
+    },
+    {
+      "start": 1410.22,
+      "end": 1415.22,
+      "text": "When he feels a feeling limited by life, he knows that he so feels."
+    },
+    {
+      "start": 1415.22,
+      "end": 1424.22,
+      "text": "He knows when body breaks up after life is used up, all my experiences in this world will lose their lure and grow cold."
+    },
+    {
+      "start": 1424.22,
+      "end": 1433.22,
+      "text": "Suppose Vapa that a shadow is cast by a stump, then comes a man with axe and basket and cuts down that stump by the root."
+    },
+    {
+      "start": 1433.22,
+      "end": 1436.22,
+      "text": "So doing, he digs all around it."
+    },
+    {
+      "start": 1436.22,
+      "end": 1441.22,
+      "text": "Having done so, he pulls up the roots, even the rootlets and root fibers."
+    },
+    {
+      "start": 1441.22,
+      "end": 1447.22,
+      "text": "He chops that stump into logs, and having done so, chops the log into chips."
+    },
+    {
+      "start": 1447.22,
+      "end": 1453.22,
+      "text": "The chips he dries in wind and sun, then burns them with fire, then makes an ash heap."
+    },
+    {
+      "start": 1453.22,
+      "end": 1461.22,
+      "text": "The ash heap he winnows in a strong wind, or lets the ash be carried away by a swiftly flowing river."
+    },
+    {
+      "start": 1461.22,
+      "end": 1475.22,
+      "text": "Verily Vapa that shadow cast because of the stump is cut off at the root, made like a palm tree stump, made not to become again, of a nature not to arise again in future time."
+    },
+    {
+      "start": 1475.22,
+      "end": 1483.22,
+      "text": "Just in the same way Vapa, by a monk whose heart is thus released, six constant abiding places are one."
+    },
+    {
+      "start": 1483.22,
+      "end": 1494.22,
+      "text": "He seeing an object with the eye, etc., etc., with mind cognizing mental states, is neither elated nor depressed, but abides, equanimous, mindful and aware."
+    },
+    {
+      "start": 1494.22,
+      "end": 1501.22,
+      "text": "When he feels a feeling limited by body, limited by life, he knows that he so feels."
+    },
+    {
+      "start": 1501.22,
+      "end": 1510.22,
+      "text": "He knows, when body breaks up, after life is used up, all my experiences in this world will lose their lure and grow cold."
+    },
+    {
+      "start": 1510.22,
+      "end": 1516.22,
+      "text": "At these words, Vapa the Sakyan, disciple of the uncloth, said this to the exalted one,"
+    },
+    {
+      "start": 1516.22,
+      "end": 1527.22,
+      "text": "Lord, just like a man, desirous of wealth, who tends his property, but gets no increase therefrom, but instead gets tall and trouble for his pains."
+    },
+    {
+      "start": 1527.22,
+      "end": 1538.22,
+      "text": "Even so, Lord, did I, desirous of profit, do service unto the unclothed, but I got no profit thereby, but instead got tall and trouble for my pains."
+    },
+    {
+      "start": 1538.22,
+      "end": 1551.22,
+      "text": "I myself, Lord, from this day forth, whatever faith I had in those fools, the unclothed, I winnow it away in a strong wind, or I let it be carried away by a swiftly flowing river."
+    },
+    {
+      "start": 1551.22,
+      "end": 1565.22,
+      "text": "It is wonderful, Lord, it is marvelous. May the exalted one accept me as his follower from this time forth, so long as life shall last, as one who has gone to him for refuge, as the end of the sutta."
+    },
+    {
+      "start": 1566.22,
+      "end": 1582.22,
+      "text": "So you see here, the Buddha is saying that abstention from unskillful karma through body, speech and mind will cause no new painful result, vipakka, to ripen."
+    },
+    {
+      "start": 1582.22,
+      "end": 1597.22,
+      "text": "And then the painful vipakka, the painful result of karma, due to all karma, is worn out by constant contact with it, tolerating this karma as they arise."
+    },
+    {
+      "start": 1597.22,
+      "end": 1613.22,
+      "text": "And then that person, by practicing the holy path, meditation, etc., becomes liberated, and one whose mind is liberated, buys equanimous, mindful and aware."
+    },
+    {
+      "start": 1613.22,
+      "end": 1626.22,
+      "text": "Even when dying, that's why when the Buddha said, when he's dying, he knows, when body breaks up, after life is used up, all my experiences in this world will lose their lure and grow cold."
+    },
+    {
+      "start": 1626.22,
+      "end": 1637.22,
+      "text": "You can imagine, like for example, when we wake up after a dream, suppose we had a nightmare, and then suddenly we wake up, then we realize it's only a dream."
+    },
+    {
+      "start": 1637.22,
+      "end": 1643.22,
+      "text": "All that was so important in that nightmare is no more important."
+    },
+    {
+      "start": 1643.22,
+      "end": 1655.22,
+      "text": "So in the same way, when we are dying, all the things in the world that were so important to us, that were so attractive, etc., as we are going to die, we find it's no more important."
+    },
+    {
+      "start": 1655.22,
+      "end": 1658.22,
+      "text": "Absolutely not important anymore."
+    },
+    {
+      "start": 1658.22,
+      "end": 1663.22,
+      "text": "That's why only karma is very important."
+    },
+    {
+      "start": 1663.22,
+      "end": 1668.22,
+      "text": "If we do wrong karma, then we know we have to pay for it."
+    },
+    {
+      "start": 1668.22,
+      "end": 1672.22,
+      "text": "If we do a lot of good karma, we know we are going to be very happy after this."
+    },
+    {
+      "start": 1672.22,
+      "end": 1676.22,
+      "text": "That's why we have to be very, very careful with karma."
+    },
+    {
+      "start": 1676.22,
+      "end": 1678.22,
+      "text": "And we practice the spiritual path."
+    },
+    {
+      "start": 1678.22,
+      "end": 1681.22,
+      "text": "It's not only the meditation that's important."
+    },
+    {
+      "start": 1681.22,
+      "end": 1686.22,
+      "text": "A lot of people think meditation is the most important thing, and we forget about the basics."
+    },
+    {
+      "start": 1686.22,
+      "end": 1687.22,
+      "text": "What is the basic?"
+    },
+    {
+      "start": 1687.22,
+      "end": 1690.22,
+      "text": "The basic is silla."
+    },
+    {
+      "start": 1690.22,
+      "end": 1693.22,
+      "text": "Silla is keeping the precepts."
+    },
+    {
+      "start": 1693.22,
+      "end": 1695.22,
+      "text": "It is also moral conduct."
+    },
+    {
+      "start": 1695.22,
+      "end": 1711.22,
+      "text": "And in the suttas, the Buddha defines the moral conduct silla basically as having purity of the three kamas through the body, speech, and mind."
+    },
+    {
+      "start": 1711.22,
+      "end": 1713.22,
+      "text": "Body, speech, and mind."
+    },
+    {
+      "start": 1713.22,
+      "end": 1716.22,
+      "text": "So sometimes people only think of the five precepts."
+    },
+    {
+      "start": 1716.22,
+      "end": 1723.22,
+      "text": "They forget about this basic teaching that the kamas of body, speech, and mind, we have to be very, very careful."
+    },
+    {
+      "start": 1723.22,
+      "end": 1732.22,
+      "text": "Don't talk about bad about somebody who doesn't deserve to be talked bad about."
+    },
+    {
+      "start": 1732.22,
+      "end": 1744.22,
+      "text": "And don't have evil intentions or evil thoughts against somebody who the Buddha says cultivates the holy path, etc."
+    },
+    {
+      "start": 1744.22,
+      "end": 1747.22,
+      "text": "So we have to be very, very careful."
+    }
+  ]
+}

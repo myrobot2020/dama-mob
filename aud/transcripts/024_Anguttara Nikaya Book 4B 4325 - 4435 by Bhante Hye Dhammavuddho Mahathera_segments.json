@@ -1,0 +1,1510 @@
+{
+  "source": "faster-whisper",
+  "model": "tiny",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2119.796125,
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 5.74,
+      "text": "The next two times four point three point twenty-five, monks."
+    },
+    {
+      "start": 5.74,
+      "end": 10.14,
+      "text": "This holy life is not lived to cheat after Joel people."
+    },
+    {
+      "start": 10.14,
+      "end": 13.62,
+      "text": "It is not concerned with getting gain, profit or notoriety."
+    },
+    {
+      "start": 13.62,
+      "end": 19.38,
+      "text": "It is not concerned with the flood of gossip, nor with the idea of that folks know me"
+    },
+    {
+      "start": 19.38,
+      "end": 21.1,
+      "text": "as so and so."
+    },
+    {
+      "start": 21.1,
+      "end": 27.54,
+      "text": "No monks, this holy life is lived for the sake of self-restrain, for the sake of abandoning,"
+    },
+    {
+      "start": 27.54,
+      "end": 33.62,
+      "text": "for the sake of detachment from the passions, for the sake of making to seize."
+    },
+    {
+      "start": 33.62,
+      "end": 43.3,
+      "text": "This is one of those who task that concern more, there are concerned with monks more."
+    },
+    {
+      "start": 43.3,
+      "end": 49.5,
+      "text": "And here the Buddha is trying to say that the main purpose of the holy life is to end"
+    },
+    {
+      "start": 49.5,
+      "end": 54.86,
+      "text": "this round of rebirth and now suffering to cut off the evil."
+    },
+    {
+      "start": 54.86,
+      "end": 62.78,
+      "text": "And then once a person becomes a monk, there are many distractions if he is not careful."
+    },
+    {
+      "start": 62.78,
+      "end": 72.38,
+      "text": "Either he can become corrupt and also a Kusala and skillful actions, like not keeping"
+    },
+    {
+      "start": 72.38,
+      "end": 74.66,
+      "text": "the percepts, etc."
+    },
+    {
+      "start": 74.74,
+      "end": 79.22,
+      "text": "Getting caught up with him, name and fame."
+    },
+    {
+      "start": 79.22,
+      "end": 89.38,
+      "text": "Or sometimes he might get involved with work, which is concerned with a monk."
+    },
+    {
+      "start": 89.38,
+      "end": 101.3,
+      "text": "For example, trying to propagate the Dharma, trying to teach meditation and writing books"
+    },
+    {
+      "start": 101.38,
+      "end": 107.46,
+      "text": "and get caught up with funerals, chanting, etc."
+    },
+    {
+      "start": 107.46,
+      "end": 113.22,
+      "text": "But if he does too much of these things, he can become distracted from the main tasks or the"
+    },
+    {
+      "start": 113.22,
+      "end": 123.7,
+      "text": "main aim of the holy life, which is to cultivate ourselves and to let go and to end"
+    },
+    {
+      "start": 123.86,
+      "end": 125.86,
+      "text": "out of suffering."
+    },
+    {
+      "start": 125.86,
+      "end": 132.8,
+      "text": "So this took us more for the monks."
+    },
+    {
+      "start": 132.8,
+      "end": 142.56,
+      "text": "Now the next 2 times 4.3.28, the Buddha said, monks, these 4 are in lineage's reckoned as ancient"
+    },
+    {
+      "start": 142.56,
+      "end": 151.28,
+      "text": "as of long-standing, astraditional, permeable, pure and un-undilated now as then are not confounded."
+    },
+    {
+      "start": 151.28,
+      "end": 156.88,
+      "text": "Now shall they be, are not despised by discerning recluses and brahmanas, but are the 4."
+    },
+    {
+      "start": 157.68,
+      "end": 163.6,
+      "text": "Herein monks, a monk is content with any sort of ropes and speaks in praise of such content."
+    },
+    {
+      "start": 164.16,
+      "end": 168.96,
+      "text": "For the sake of getting ropes, he resorts not to unseemly and unbecoming conduct."
+    },
+    {
+      "start": 169.68,
+      "end": 175.12,
+      "text": "Here he gets not ropes, he is not dismayed therein, and if he does get them his free from the"
+    },
+    {
+      "start": 175.12,
+      "end": 178.88,
+      "text": "born of selfishness, of greed, of craving for them."
+    },
+    {
+      "start": 178.88,
+      "end": 184.4,
+      "text": "Seeing the danger therein and skilled in the escape therefrom, he makes use of them."
+    },
+    {
+      "start": 184.4,
+      "end": 190.4,
+      "text": "Here does he not exalt himself because of his content with any sort of ropes, nor does he"
+    },
+    {
+      "start": 190.4,
+      "end": 193.68,
+      "text": "disparage others who are not content."
+    },
+    {
+      "start": 193.68,
+      "end": 200.32,
+      "text": "Who so, who so monks, is skilled herein, not slothful, but mindful and heedful."
+    },
+    {
+      "start": 200.4,
+      "end": 205.2,
+      "text": "This monk is one who stands firm in the primeval ancient Aryan lineage."
+    },
+    {
+      "start": 206.0,
+      "end": 212.16,
+      "text": "Then again, a monk is content with any sort of arms food and speaks in praise of such content."
+    },
+    {
+      "start": 212.56,
+      "end": 217.76,
+      "text": "For the sake of getting arms food, he resorts not to what is unseemly and unbecoming."
+    },
+    {
+      "start": 219.04,
+      "end": 224.96,
+      "text": "If he gets not arms food, he is not dismayed therein, and if he does get his free from the"
+    },
+    {
+      "start": 224.96,
+      "end": 228.56,
+      "text": "born of selfishness, of greed, of craving for it."
+    },
+    {
+      "start": 228.56,
+      "end": 233.92,
+      "text": "Seeing the danger therein and skilled in the escape therefrom, he makes use of it."
+    },
+    {
+      "start": 233.92,
+      "end": 239.28,
+      "text": "Here does he not exalt himself because of his content with any sort of arms food."
+    },
+    {
+      "start": 239.28,
+      "end": 242.4,
+      "text": "Nor does he disparage others who are not content."
+    },
+    {
+      "start": 242.4,
+      "end": 244.8,
+      "text": "Who so monks is skilled herein."
+    },
+    {
+      "start": 244.8,
+      "end": 249.76,
+      "text": "This monk is one who stands firm in the primeval ancient Aryan lineage."
+    },
+    {
+      "start": 250.0,
+      "end": 255.92,
+      "text": "Then again, a monk is content with any sort of lodging and speaks in praise of such content."
+    },
+    {
+      "start": 255.92,
+      "end": 259.36,
+      "text": "For the sake of getting lodging, he resorts not, etc."
+    },
+    {
+      "start": 260.08,
+      "end": 263.76,
+      "text": "etc. If he gets not lodging, he is not dismayed therein."
+    },
+    {
+      "start": 264.32,
+      "end": 268.8,
+      "text": "Who so monks is skilled herein, stands firm in the Aryan lineage, etc."
+    },
+    {
+      "start": 269.36,
+      "end": 273.28,
+      "text": "Once more monks, a monk delights in letting go abandoning."
+    },
+    {
+      "start": 273.84,
+      "end": 276.48,
+      "text": "So delighting, he delights in developing."
+    },
+    {
+      "start": 277.12,
+      "end": 282.72,
+      "text": "Yet because of his delighting in the one abandoning and the other developing,"
+    },
+    {
+      "start": 282.72,
+      "end": 286.96,
+      "text": "he exhausts not himself because of that delighting."
+    },
+    {
+      "start": 286.96,
+      "end": 290.8,
+      "text": "Nor does he disparage others who delights not therein."
+    },
+    {
+      "start": 290.8,
+      "end": 295.92,
+      "text": "Who so monks is skilled herein, not thoughtful, but mindful and heedful."
+    },
+    {
+      "start": 295.92,
+      "end": 300.4,
+      "text": "This monk is one who stands firm in the primeval ancient Aryan lineage."
+    },
+    {
+      "start": 300.4,
+      "end": 307.36,
+      "text": "These monks are the four Aryan lineage's reckon as ancient, as of longstanding,"
+    },
+    {
+      "start": 307.36,
+      "end": 311.68,
+      "text": "as traditional primeval pure and unadulterated now, and stand,"
+    },
+    {
+      "start": 311.68,
+      "end": 316.08,
+      "text": "which are not confounded nor shall be, are not despised by discerning"
+    },
+    {
+      "start": 316.08,
+      "end": 321.52,
+      "text": "recluses and prominence. For over monks possess of these four Aryan lineage,"
+    },
+    {
+      "start": 321.52,
+      "end": 326.72,
+      "text": "whether a monk dwell in the east or the west, north or south, wherever he may dwell,"
+    },
+    {
+      "start": 326.72,
+      "end": 331.04,
+      "text": "he masters this content and content monks, he is a sage."
+    },
+    {
+      "start": 332.16,
+      "end": 335.28,
+      "text": "I listen to the sutra which is concerned more with monks."
+    },
+    {
+      "start": 336.16,
+      "end": 340.48,
+      "text": "I'm telling the monks not to be too concerned with ropes,"
+    },
+    {
+      "start": 340.48,
+      "end": 346.24,
+      "text": "the recluses and the ropes, the food and the lodgings to be content with whatever"
+    },
+    {
+      "start": 346.24,
+      "end": 350.64,
+      "text": "among its. The last one is letting go abandoning."
+    },
+    {
+      "start": 350.64,
+      "end": 359.84,
+      "text": "We shall cause among practices and stages, eventually suppose to let go of the self,"
+    },
+    {
+      "start": 359.84,
+      "end": 374.54,
+      "text": "there you go. These four factors, the Buddha talks about contentment,"
+    },
+    {
+      "start": 374.54,
+      "end": 378.54,
+      "text": "the contentment is one of the factors of the holy life."
+    },
+    {
+      "start": 378.62,
+      "end": 383.82,
+      "text": "There's the Buddha is supposed to be called vijacharana,"
+    },
+    {
+      "start": 383.82,
+      "end": 391.82,
+      "text": "some panno replete with sarana is sometimes translated as conduct"
+    },
+    {
+      "start": 391.82,
+      "end": 398.06,
+      "text": "or practice, and the other one is knowledge."
+    },
+    {
+      "start": 398.86,
+      "end": 403.5,
+      "text": "So in the practice, contentment is one of the factors,"
+    },
+    {
+      "start": 404.38,
+      "end": 415.34,
+      "text": "and this contentment leads to reclessness and is one of the causes for a monk to disrobe."
+    },
+    {
+      "start": 416.46,
+      "end": 424.7,
+      "text": "The other thing that is important, the Buddha mentioned here is that if a monk is developed,"
+    },
+    {
+      "start": 424.7,
+      "end": 431.26,
+      "text": "then he does not exalt himself and he does not disparage others. Even others are not up to"
+    },
+    {
+      "start": 431.42,
+      "end": 437.58,
+      "text": "standard, not up to whatever standard he has in mind, he does not put down"
+    },
+    {
+      "start": 437.58,
+      "end": 446.94,
+      "text": "yet a monk, I mean not on a personal level, but then the Buddha is also quite reasonable person."
+    },
+    {
+      "start": 446.94,
+      "end": 454.14,
+      "text": "For example, in the vijaya, the monk is disciplinary court, the Buddha said that if a monk does not get enough,"
+    },
+    {
+      "start": 455.42,
+      "end": 459.74,
+      "text": "enough quantity of arm's food, wherever he stays, he should leave that place."
+    },
+    {
+      "start": 460.46,
+      "end": 463.42,
+      "text": "Because you can't practice the holy life and you don't get enough food."
+    },
+    {
+      "start": 464.14,
+      "end": 469.18,
+      "text": "The other thing is, in the vijaya, the Buddha also mentioned that if a monk does not"
+    },
+    {
+      "start": 469.18,
+      "end": 475.5,
+      "text": "the food, he gets it's not of quality food, because if he doesn't get quality food,"
+    },
+    {
+      "start": 475.5,
+      "end": 482.22,
+      "text": "then we don't have the strength to practice the holy life as well, especially if you want to stay"
+    },
+    {
+      "start": 482.22,
+      "end": 487.74,
+      "text": "up at night and get up early etc. So the Buddha also said that if we don't get enough quality food,"
+    },
+    {
+      "start": 487.82,
+      "end": 497.33,
+      "text": "we should leave the place also, stay there. I come to another Buddha 4.3.29."
+    },
+    {
+      "start": 498.77,
+      "end": 503.49,
+      "text": "Buddha said, monks, these four are factors of Dharma,"
+    },
+    {
+      "start": 504.69,
+      "end": 512.45,
+      "text": "recognize ancient of long-standing, as traditional, primeval, pure and unadulated. Now is then"
+    },
+    {
+      "start": 512.77,
+      "end": 522.77,
+      "text": "unadulated, nor shall they be unadulated by discerning, refuses and brahmanas, but"
+    },
+    {
+      "start": 522.77,
+      "end": 533.73,
+      "text": "therefore non-covered thing, monks is a factor of Dharma. Non-malice, right mindfulness and right"
+    },
+    {
+      "start": 533.73,
+      "end": 540.69,
+      "text": "concentration are not despised, are factors of Dharma, recklessness, ancient of long-standing,"
+    },
+    {
+      "start": 540.69,
+      "end": 549.33,
+      "text": "as traditional, primeval, pure and unadulated. Now is then unadulated, nor shall they be unadulated by"
+    },
+    {
+      "start": 549.33,
+      "end": 556.53,
+      "text": "discerning, refuses and brahmanas. These are the four factors of Dharma. These four things,"
+    },
+    {
+      "start": 556.53,
+      "end": 564.45,
+      "text": "the first one is non-covered thing, unadulated. I mean non-greed is something that's"
+    },
+    {
+      "start": 564.45,
+      "end": 574.85,
+      "text": "important for a monk. Another one is non-malice, avaya-pada. That means not to have a big temple,"
+    },
+    {
+      "start": 574.85,
+      "end": 581.81,
+      "text": "not to have a lot of anger. There's another factor. This important, the third one is right mindfulness,"
+    },
+    {
+      "start": 582.45,
+      "end": 588.21,
+      "text": "all right, recollection and samasakti. The fourth one is right concentration, samasamada."
+    },
+    {
+      "start": 588.29,
+      "end": 596.93,
+      "text": "You notice here as elsewhere in the sutras, that some right mindfulness and right concentration,"
+    },
+    {
+      "start": 596.93,
+      "end": 603.49,
+      "text": "they are not the same thing. They are two different factors. Nowadays there's a tendency for some"
+    },
+    {
+      "start": 603.49,
+      "end": 609.65,
+      "text": "people to teach that right mindfulness is enough. That right mindfulness is right concentration."
+    },
+    {
+      "start": 609.65,
+      "end": 616.29,
+      "text": "It is not. It's always two separate things in the sutras. Another sutras is four,"
+    },
+    {
+      "start": 616.29,
+      "end": 623.73,
+      "text": "nine, four, point, thirty, one. monks. There are these four views possessed of which on"
+    },
+    {
+      "start": 623.73,
+      "end": 630.53,
+      "text": "Davis and mankind, there are roles of four-wheeled prosperity, possessed of which both Davis and"
+    },
+    {
+      "start": 630.53,
+      "end": 636.85,
+      "text": "mankind in no long time attain greatness and increase in prosperity. But are the four views?"
+    },
+    {
+      "start": 637.81,
+      "end": 645.97,
+      "text": "They are dwelling in a fitting place, association with true men, perfect application of the"
+    },
+    {
+      "start": 645.97,
+      "end": 654.29,
+      "text": "self and merit done in the past. These are the four views possessed of which on Davis and mankind,"
+    },
+    {
+      "start": 654.29,
+      "end": 662.53,
+      "text": "there are roles of four-wheeled prosperity, possessed of which both Davis and mankind in no long time"
+    },
+    {
+      "start": 662.69,
+      "end": 672.69,
+      "text": "attain greatness and increase in prosperity. This sutras which is both for monks and for lay people."
+    },
+    {
+      "start": 674.53,
+      "end": 683.09,
+      "text": "These four factors, actually they also found in the mangala sutra, the discourse on the high"
+    },
+    {
+      "start": 683.17,
+      "end": 690.85,
+      "text": "blessings. The first one is in the mangala sutra is the parli, spati, rupa, de savaso, cha,"
+    },
+    {
+      "start": 691.49,
+      "end": 695.49,
+      "text": "dwelling in a fitting place. What do you mean by dwelling in a fitting place?"
+    },
+    {
+      "start": 695.49,
+      "end": 701.41,
+      "text": "Dwelling in a fitting place for lay people would be dwelling in a place where you can listen to the"
+    },
+    {
+      "start": 701.41,
+      "end": 709.49,
+      "text": "dama. You have a chance to learn the dama from monks and a chance to serve the Sangha,"
+    },
+    {
+      "start": 710.05,
+      "end": 720.53,
+      "text": "like making offerings to the Sangha, etc. For monks, it will be a place where it is conducive"
+    },
+    {
+      "start": 720.53,
+      "end": 727.17,
+      "text": "for meditation, conducive for progress in the spiritual path where he can progress from"
+    },
+    {
+      "start": 727.17,
+      "end": 736.05,
+      "text": "the day to day in his meditation. The second factor is in the mangala sutra is called Pandita Nanjaseva"
+    },
+    {
+      "start": 736.69,
+      "end": 746.21,
+      "text": "association with truman. He actually the parli word for the truman is sapurisa,"
+    },
+    {
+      "start": 747.81,
+      "end": 757.41,
+      "text": "sapurisa, truman meaning, ariasla, men who have advanced along the spiritual path."
+    },
+    {
+      "start": 760.91,
+      "end": 765.31,
+      "text": "Because if you associate with truman, then you get to listen to the true dama"
+    },
+    {
+      "start": 766.19,
+      "end": 770.51,
+      "text": "and then when you get to listen to the true dama, you know how to practice"
+    },
+    {
+      "start": 771.47,
+      "end": 778.59,
+      "text": "and walk the skillful path where you can minimize your suffering and"
+    },
+    {
+      "start": 780.35,
+      "end": 788.1,
+      "text": "cultivate a lot of blessings that will help you to along the spiritual path and you will"
+    },
+    {
+      "start": 788.1,
+      "end": 793.78,
+      "text": "help you not only this lifetime but lead you towards a good rebirth in the future life."
+    },
+    {
+      "start": 794.74,
+      "end": 800.82,
+      "text": "Third one is atasama, paneedicya, that means perfect guidance of the self or"
+    },
+    {
+      "start": 800.82,
+      "end": 806.9,
+      "text": "perfect application of the self that means guiding oneself along the right path, perfect path."
+    },
+    {
+      "start": 809.86,
+      "end": 816.1,
+      "text": "And there are of course, uh, uh, and he is understanding the dama, listening to the dama."
+    },
+    {
+      "start": 816.82,
+      "end": 822.34,
+      "text": "And then the fourth one is merit done in the past, pubhiya, katapunyata."
+    },
+    {
+      "start": 822.42,
+      "end": 826.58,
+      "text": "If we have done merit in the past, then it will help us in this lifetime."
+    },
+    {
+      "start": 826.58,
+      "end": 831.54,
+      "text": "Or if we do a lot of good deeds now, it will help us in our future lifetime."
+    },
+    {
+      "start": 831.54,
+      "end": 838.26,
+      "text": "So these are the four things, if we practice them, we will get a lot of benefit this life and future"
+    },
+    {
+      "start": 838.26,
+      "end": 845.06,
+      "text": "life. Dwelling in the fitting place, association with truman, perfect application of the self"
+    },
+    {
+      "start": 845.06,
+      "end": 851.22,
+      "text": "and merit done in the past. The next two times four point, four point 32,"
+    },
+    {
+      "start": 851.94,
+      "end": 860.1,
+      "text": "monks, there are these four bases of sympathy, but for generosity or charity, kind speech,"
+    },
+    {
+      "start": 860.5,
+      "end": 867.94,
+      "text": "doing a good turn and treating all the life. These are the four, these four bases of sympathy."
+    },
+    {
+      "start": 867.94,
+      "end": 874.82,
+      "text": "If we practice them, then we can get a lot of friends. There are, there's a mentioned"
+    },
+    {
+      "start": 874.82,
+      "end": 879.3,
+      "text": "some other suta where some of the Buddha's lady's idols and they had a great following"
+    },
+    {
+      "start": 879.62,
+      "end": 886.66,
+      "text": "of friends. And because they practiced these four things, the first one is generosity,"
+    },
+    {
+      "start": 887.14,
+      "end": 892.66,
+      "text": "nobody likes a selfish person, nobody likes to go near a selfish person. But if you are generous,"
+    },
+    {
+      "start": 892.66,
+      "end": 901.22,
+      "text": "everybody will want to come around you. Second one is kind speech to be careful that we speak"
+    },
+    {
+      "start": 901.22,
+      "end": 912.42,
+      "text": "kind words, but we are too hurting. Sometimes you can't help it, sometimes we have to speak"
+    },
+    {
+      "start": 912.42,
+      "end": 918.9,
+      "text": "a harsh words, sometimes if you want to wake up some people, just like sometimes parents have to"
+    },
+    {
+      "start": 918.9,
+      "end": 925.22,
+      "text": "spank their kids in a little while, once in a while, to get them to go along the right road."
+    },
+    {
+      "start": 925.22,
+      "end": 934.34,
+      "text": "Third one is doing a good turn, doing a good turn to others. And there's a suta elsewhere,"
+    },
+    {
+      "start": 934.34,
+      "end": 940.34,
+      "text": "I think I might have gone to it. The Buddha said that it's very hard to find somebody who"
+    },
+    {
+      "start": 941.22,
+      "end": 947.06,
+      "text": "do a good turn to somebody first. Normally, we only return something that's good than to us."
+    },
+    {
+      "start": 947.06,
+      "end": 952.26,
+      "text": "And it's to be the first to do a good to somebody else. It's quite rare. It's just like a"
+    },
+    {
+      "start": 952.34,
+      "end": 958.1,
+      "text": "grateful person, very difficult to find in the world. And then the fourth one is treating all the"
+    },
+    {
+      "start": 958.1,
+      "end": 970.02,
+      "text": "life. It won't discriminate too much, especially in terms of a race, in terms of wealth,"
+    },
+    {
+      "start": 970.02,
+      "end": 979.46,
+      "text": "or etc. So these are the four basis of sympathy, generosity, kind speech, doing a good turn,"
+    },
+    {
+      "start": 979.46,
+      "end": 989.34,
+      "text": "treating all the life. Now the next two times four point four point 33, the Buddha said that"
+    },
+    {
+      "start": 989.34,
+      "end": 996.3,
+      "text": "months, the lion, king of beast, in the evening comes fourth from his lair, having come forth"
+    },
+    {
+      "start": 996.3,
+      "end": 1002.7,
+      "text": "from his lair, he stretches himself, having done so, he surveys the four quarters in all directions,"
+    },
+    {
+      "start": 1003.42,
+      "end": 1009.9,
+      "text": "having done that, he attests, tries his lines raw, tries having uttered his lines raw,"
+    },
+    {
+      "start": 1009.9,
+      "end": 1016.54,
+      "text": "he sells forth in search of prey. Now months whatsoever, brute creatures hear the sound of the"
+    },
+    {
+      "start": 1016.54,
+      "end": 1022.62,
+      "text": "roaring of the lion, king of beast. For the most part, they are afraid, before to craking and"
+    },
+    {
+      "start": 1022.62,
+      "end": 1029.9,
+      "text": "trembling, those that dwell in holes seek them, water dwellers make for the water, forest dwellers enter"
+    },
+    {
+      "start": 1029.9,
+      "end": 1037.82,
+      "text": "the forest, birds mown into the air. Then months whatsoever, Rajas elephants, in village town,"
+    },
+    {
+      "start": 1037.9,
+      "end": 1044.62,
+      "text": "or Rajas residents, are tethered with stout leather bonds, such birds and rain those bonds are"
+    },
+    {
+      "start": 1044.62,
+      "end": 1051.98,
+      "text": "sunder, void their experiments and impenet run to and fro, thus potent months is the line,"
+    },
+    {
+      "start": 1051.98,
+      "end": 1057.58,
+      "text": "king of beast, over brute creatures of such mighty power and majesty is he."
+    },
+    {
+      "start": 1059.02,
+      "end": 1066.14,
+      "text": "Just so months, when a tatagata arises in the world, and at a hunt, a perfectly enlightened one,"
+    },
+    {
+      "start": 1066.22,
+      "end": 1073.5,
+      "text": "perfect in knowledge and conduct, welfareer, a world-knower, the answer past trainer of men who can"
+    },
+    {
+      "start": 1073.5,
+      "end": 1081.18,
+      "text": "be trained, teacher of devars and mankind, a Buddha and exalted one. He teaches Dharma, such is the"
+    },
+    {
+      "start": 1081.18,
+      "end": 1087.58,
+      "text": "being in the body, such the origin of the being in the body, such is the ending of the being in"
+    },
+    {
+      "start": 1087.58,
+      "end": 1095.34,
+      "text": "the body, such is the practice going to end of the being in the body. Then months whatsoever,"
+    },
+    {
+      "start": 1095.34,
+      "end": 1102.94,
+      "text": "devars there be, long lived, lovely, and become happy for a long time established in lofty palaces."
+    },
+    {
+      "start": 1103.58,
+      "end": 1108.62,
+      "text": "They too, on hearing the Dharma teaching of the tatagata, for the most part are afraid."
+    },
+    {
+      "start": 1110.46,
+      "end": 1117.34,
+      "text": "They fall to creating and trembling, saying, it seems as that we who taught ourselves"
+    },
+    {
+      "start": 1117.34,
+      "end": 1124.3,
+      "text": "permanent are after all impermanent, that we who taught ourselves stable are after all unstable."
+    },
+    {
+      "start": 1125.02,
+      "end": 1130.7,
+      "text": "Not to last, it seems, are we, and lasting we taught ourselves. So it seems,"
+    },
+    {
+      "start": 1130.7,
+      "end": 1136.62,
+      "text": "serves that we are impermanent and stable, not to last, composed with a being in the body."
+    },
+    {
+      "start": 1137.34,
+      "end": 1143.58,
+      "text": "Thus potent months is a tatagata over the world of devars and mankind, of such mighty power and"
+    },
+    {
+      "start": 1143.58,
+      "end": 1151.42,
+      "text": "majesty is he. And this uta is comparing the lion and the king of the beast with the Buddha."
+    },
+    {
+      "start": 1152.14,
+      "end": 1158.7,
+      "text": "Among all the animals, the lion is the chief, so that even when he roars, even such a huge creature,"
+    },
+    {
+      "start": 1158.7,
+      "end": 1167.34,
+      "text": "like Elephant will panic, avoid his experiments and burst their bones, try to run away."
+    },
+    {
+      "start": 1167.98,
+      "end": 1175.1,
+      "text": "So in the same way, when the Buddha teaches the Dharma, there are these devars, heavenly beings,"
+    },
+    {
+      "start": 1175.1,
+      "end": 1181.9,
+      "text": "who have long, very long lives in a millions of years, and even though they live for millions of years,"
+    },
+    {
+      "start": 1181.9,
+      "end": 1191.58,
+      "text": "they never each, they look like a 16 year old man or a 16 year old boy or a 16 year old girl."
+    },
+    {
+      "start": 1191.9,
+      "end": 1197.9,
+      "text": "And after millions of years, they still look 16 years old. So they never imagine that they're going to die."
+    },
+    {
+      "start": 1198.78,
+      "end": 1205.98,
+      "text": "And because the life is so blissful and happy, and they just assume that they are not going to die."
+    },
+    {
+      "start": 1207.42,
+      "end": 1213.1,
+      "text": "But after hearing the Dharma and after observing the Buddha, then they realize that the Buddha is"
+    },
+    {
+      "start": 1213.1,
+      "end": 1219.58,
+      "text": "one who speaks the truth, never speaks a lie. So then they realize that they are going to die one day,"
+    },
+    {
+      "start": 1219.58,
+      "end": 1227.34,
+      "text": "and then they get scared. Some of the sutras we've explained when Deva heavily being is about to die."
+    },
+    {
+      "start": 1227.34,
+      "end": 1234.38,
+      "text": "And he realizes he's about to die, he gets very worried, thoughts run very fast, very panicky,"
+    },
+    {
+      "start": 1234.38,
+      "end": 1239.5,
+      "text": "he starts to sweat. Formerly he didn't have any body odor, he starts to have body odor."
+    },
+    {
+      "start": 1239.5,
+      "end": 1244.78,
+      "text": "For me, like he used to have flowers on the head, naturally the flowers were built and all that."
+    },
+    {
+      "start": 1245.5,
+      "end": 1251.58,
+      "text": "So when he passes away and the body just disappears, just like when he's born in the heaven,"
+    },
+    {
+      "start": 1251.58,
+      "end": 1257.42,
+      "text": "the bodies suddenly appears. Doesn't have to go to a nine-month period like human beings in the womb."
+    },
+    {
+      "start": 1260.74,
+      "end": 1264.9,
+      "text": "The other thing that's mentioned here, the being in the body, Sakaya,"
+    },
+    {
+      "start": 1266.74,
+      "end": 1270.42,
+      "text": "normally all beings, we have a view that there is a self in the body."
+    },
+    {
+      "start": 1270.58,
+      "end": 1278.26,
+      "text": "We attach the body, we have attachment to this body and we take it to be the self."
+    },
+    {
+      "start": 1279.22,
+      "end": 1285.3,
+      "text": "Then as we progress along the spiritual path and then we come to the state when you realize that the body is not the self."
+    },
+    {
+      "start": 1285.3,
+      "end": 1290.1,
+      "text": "But then we still cling to the mind as the self. Eventually we still have to let go of the mind."
+    },
+    {
+      "start": 1290.1,
+      "end": 1302.37,
+      "text": "That's who times 4.4.35. On a certain occasion the exalted one was staying near Rajagaha in the bamboo"
+    },
+    {
+      "start": 1302.37,
+      "end": 1308.21,
+      "text": "grove at the squirrels feeding ground. On that occasion Vasakara the Brahmin, a great official of"
+    },
+    {
+      "start": 1308.21,
+      "end": 1314.21,
+      "text": "Magda came to visit the exalted one and on coming to him greeted him continuously and after the"
+    },
+    {
+      "start": 1314.21,
+      "end": 1320.77,
+      "text": "exchange of greetings and courtesy sat down at one side. As he sat that Vasakara the Brahmin said this to"
+    },
+    {
+      "start": 1320.85,
+      "end": 1328.69,
+      "text": "the exalted one. Master Gautama, we Brahmins proclaim a man if he possesses four qualities as one of"
+    },
+    {
+      "start": 1328.69,
+      "end": 1334.85,
+      "text": "great wisdom as a great man. What are the four qualities? Here in Master Gautama he is learning."
+    },
+    {
+      "start": 1336.13,
+      "end": 1342.53,
+      "text": "Of whatsoever he hears he understands the meaning as soon as it is uttered, saying this is the meaning"
+    },
+    {
+      "start": 1342.53,
+      "end": 1348.77,
+      "text": "of that saying, this is the meaning of that saying. For over he has a good memory, he can remember"
+    },
+    {
+      "start": 1348.77,
+      "end": 1356.05,
+      "text": "and recall a thing done long ago, said long ago. Again in all the business of a householder he"
+    },
+    {
+      "start": 1356.05,
+      "end": 1361.89,
+      "text": "is killed and diligent and therein he is resourceful and capable of investigating what is proper"
+    },
+    {
+      "start": 1361.89,
+      "end": 1367.97,
+      "text": "to be done, what should be arranged. Now Master Gautama, if a man possesses these qualities,"
+    },
+    {
+      "start": 1367.97,
+      "end": 1374.05,
+      "text": "we proclaim him as one of great wisdom as a great man. If the worthy Gautama thinks me worthy"
+    },
+    {
+      "start": 1374.13,
+      "end": 1381.33,
+      "text": "or commendation herein, let him command me on the contrary, if he thinks me blame worthy, let him blame"
+    },
+    {
+      "start": 1381.33,
+      "end": 1392.77,
+      "text": "me therefore, I just stop here for a while. This Brahmin is a great official of Magda and he addresses"
+    },
+    {
+      "start": 1392.77,
+      "end": 1403.17,
+      "text": "our Buddha as Master Gautama because a Gautama is the surname of our Buddha and sometimes our"
+    },
+    {
+      "start": 1403.25,
+      "end": 1414.64,
+      "text": "Buddha is a dress as Samana Gautama. Samana is a reclusive renunciation. So these four qualities which"
+    },
+    {
+      "start": 1414.64,
+      "end": 1421.04,
+      "text": "the Brahmin sees is all marks of a great man, great man and the great wisdom. The first one he"
+    },
+    {
+      "start": 1421.04,
+      "end": 1428.16,
+      "text": "is learning, presumably he is learning in the Brahmin scriptures and will need knowledge etc."
+    },
+    {
+      "start": 1428.24,
+      "end": 1439.2,
+      "text": "The second one he understands, whatever he hears he understands. The third thing he has a"
+    },
+    {
+      "start": 1439.2,
+      "end": 1446.8,
+      "text": "very good memory. The fourth one in the business of a householder he is killed in the business"
+    },
+    {
+      "start": 1446.8,
+      "end": 1456.05,
+      "text": "of a householder and these things he thinks would make a great man. Then the Buddha said,"
+    },
+    {
+      "start": 1456.05,
+      "end": 1462.13,
+      "text": "well Brahmin, and neither command you nor blame you herein. I myself proclaim a man possessed"
+    },
+    {
+      "start": 1462.13,
+      "end": 1469.33,
+      "text": "of four qualities to be one of great wisdom, to be a great man. What are the four? Herein Brahmin,"
+    },
+    {
+      "start": 1469.33,
+      "end": 1475.25,
+      "text": "we have a man given up to the welfare of many four, to the happiness of many four. By him"
+    },
+    {
+      "start": 1475.25,
+      "end": 1481.81,
+      "text": "are many four established in the Aryan knowledge to wit, in what is of a lovely nature, in"
+    },
+    {
+      "start": 1481.81,
+      "end": 1488.45,
+      "text": "one is of a profitable nature. Then the second one, to whatsoever train of thought he wishes to"
+    },
+    {
+      "start": 1488.45,
+      "end": 1494.85,
+      "text": "apply himself, to that train of thought he applies himself, to whatever train of thought he desires"
+    },
+    {
+      "start": 1494.85,
+      "end": 1501.57,
+      "text": "not to apply himself, to that train of thought he applies not himself. Whatever intention he wishes"
+    },
+    {
+      "start": 1501.57,
+      "end": 1507.89,
+      "text": "to intend he does so or not if he so wishes does he is master of the mind in the ways of thought."
+    },
+    {
+      "start": 1508.29,
+      "end": 1514.93,
+      "text": "And the third one also he is one who attains that will without difficulty and without trouble."
+    },
+    {
+      "start": 1514.93,
+      "end": 1520.53,
+      "text": "The four genres which belong to the higher mind which even in this very life are blissful to"
+    },
+    {
+      "start": 1520.53,
+      "end": 1527.65,
+      "text": "abide in. And the fourth also by destruction of the Asavas in this very life, thoroughly comprehending"
+    },
+    {
+      "start": 1527.65,
+      "end": 1534.53,
+      "text": "it of himself. He realizes the liberation by mind, the liberation by wisdom and attaining it"
+    },
+    {
+      "start": 1534.61,
+      "end": 1541.25,
+      "text": "a bite therein. No brahmin, neither command or blame you herein, but I myself proclaim a man"
+    },
+    {
+      "start": 1541.25,
+      "end": 1548.19,
+      "text": "possessed of these four qualities to be one or great wisdom to be a great man. And these four"
+    },
+    {
+      "start": 1548.19,
+      "end": 1560.03,
+      "text": "qualities that I put I mentioned, the first one is he is always looking after the welfare of many"
+    },
+    {
+      "start": 1560.11,
+      "end": 1573.31,
+      "text": "fortmen to the many many people. He cares for the welfare of others. The second one is he is a master"
+    },
+    {
+      "start": 1573.31,
+      "end": 1580.03,
+      "text": "of his mind to whatever train of thought he wishes to imply himself. He can do so. Whatever train"
+    },
+    {
+      "start": 1580.03,
+      "end": 1587.15,
+      "text": "of thought he does not wish to apply himself. Also he can do so. And then the third one he attains"
+    },
+    {
+      "start": 1587.15,
+      "end": 1594.19,
+      "text": "the four genres, the fourth one he has destroyed the Asavas. I like to mention again the first one"
+    },
+    {
+      "start": 1594.19,
+      "end": 1605.63,
+      "text": "is this person he is always concerned with the welfare of others. But then in the sense that he"
+    },
+    {
+      "start": 1605.63,
+      "end": 1613.15,
+      "text": "establishes people in the Aryan knowledge. That means he teaches the Aryan dharma to others."
+    },
+    {
+      "start": 1613.31,
+      "end": 1621.63,
+      "text": "This is what is meant by helping others. Now in the Buddha's teaching, the Buddha's"
+    },
+    {
+      "start": 1621.63,
+      "end": 1628.19,
+      "text": "said, of all the gifts that we can make to others, the highest gift is the gift of the dharma,"
+    },
+    {
+      "start": 1628.91,
+      "end": 1637.23,
+      "text": "the teaching of the truth. That is real compassion. Two only people like doing charity"
+    },
+    {
+      "start": 1638.19,
+      "end": 1646.11,
+      "text": "and doing good deeds are becoming a vegetarian and all that now. That is good and it is good."
+    },
+    {
+      "start": 1646.11,
+      "end": 1655.79,
+      "text": "But then all these actions and the highest is the gift of knowledge. Because he we think about it carefully."
+    },
+    {
+      "start": 1655.79,
+      "end": 1664.26,
+      "text": "Suppose somebody is in difficulty and comes to us needs help. For example the person is hungry."
+    },
+    {
+      "start": 1664.58,
+      "end": 1670.42,
+      "text": "So if you are concerned with that person's welfare, you will give him food to eat and you"
+    },
+    {
+      "start": 1670.42,
+      "end": 1675.7,
+      "text": "feed him. But after a few hours he is hungry again. Then you have to feed him again."
+    },
+    {
+      "start": 1676.9,
+      "end": 1682.9,
+      "text": "So tomorrow he is hungry again. So are you going to feed him the whole life? If you can do it, it is"
+    },
+    {
+      "start": 1682.9,
+      "end": 1691.46,
+      "text": "very good. But then it will be more skillful of you. If you can teach him, for example, the trade"
+    },
+    {
+      "start": 1691.54,
+      "end": 1701.86,
+      "text": "has given a work. So if he teaches, if he is taught now, a work where he can do to earn a living,"
+    },
+    {
+      "start": 1702.58,
+      "end": 1710.26,
+      "text": "then you have no need to look after him day after day, then he will be able to take care of himself"
+    },
+    {
+      "start": 1710.26,
+      "end": 1717.38,
+      "text": "and succeed in the world. But then that is just this lifetime he can earn a living. But then the next"
+    },
+    {
+      "start": 1717.46,
+      "end": 1724.58,
+      "text": "lifetime he comes, he might suffer. Because he doesn't know how to walk the good path."
+    },
+    {
+      "start": 1725.54,
+      "end": 1737.62,
+      "text": "The path that we cultivate a lot of blessings to help us. And then because he has still continues"
+    },
+    {
+      "start": 1737.62,
+      "end": 1743.22,
+      "text": "to be selfish, etc. Next life and he comes back, he will suffer again. But not be able to get food"
+    },
+    {
+      "start": 1744.02,
+      "end": 1750.9,
+      "text": "again. But if we teach him the Dharma and then we teach him, make him understand that all these"
+    },
+    {
+      "start": 1750.9,
+      "end": 1758.74,
+      "text": "coming obstructions that he is experiencing now is due to karma, past, deeds, for example, he has"
+    },
+    {
+      "start": 1758.74,
+      "end": 1764.58,
+      "text": "been in selfish in this life or in the past life. And then because of that, not many people want to"
+    },
+    {
+      "start": 1764.58,
+      "end": 1773.14,
+      "text": "help him. And then if he understands that he has to cultivate blessings so that people"
+    },
+    {
+      "start": 1773.3,
+      "end": 1786.18,
+      "text": "can like him, to speak, kind words, his bitter, harsh words, etc. And then slowly, and he is also"
+    },
+    {
+      "start": 1786.18,
+      "end": 1792.34,
+      "text": "got to understand that karma is not only past life, karma, but this life karma is got to exert"
+    },
+    {
+      "start": 1792.34,
+      "end": 1801.7,
+      "text": "himself to look after himself in this life also. So he not only gets a job to"
+    },
+    {
+      "start": 1801.7,
+      "end": 1810.34,
+      "text": "succeed in the world, we also cultivate some of the good qualities in life, which will help him"
+    },
+    {
+      "start": 1810.34,
+      "end": 1816.74,
+      "text": "not only this life, even the next life. So we teach him this kind of Dharma, then we are benefiting"
+    },
+    {
+      "start": 1816.74,
+      "end": 1824.74,
+      "text": "him not only this life, we are also benefiting him in the next life or the next few lives to come."
+    },
+    {
+      "start": 1824.74,
+      "end": 1830.9,
+      "text": "That's why the gift of Dharma is the highest gift. And because when we teach Dharma to people,"
+    },
+    {
+      "start": 1830.98,
+      "end": 1837.94,
+      "text": "we are teaching them to lead a skillful life instead of an unskillful life."
+    },
+    {
+      "start": 1837.94,
+      "end": 1844.82,
+      "text": "The kusala and akusala, this word kusala is can be translated as skillful or wholesome,"
+    },
+    {
+      "start": 1844.82,
+      "end": 1854.5,
+      "text": "wholesome life as skillful life. Because in life, we find suffering. There are two types of suffering."
+    },
+    {
+      "start": 1854.5,
+      "end": 1858.02,
+      "text": "There's a type of suffering which nobody can avoid. For example,"
+    },
+    {
+      "start": 1858.98,
+      "end": 1865.38,
+      "text": "getting old, growing old, becoming sick and dying. Nobody can run away from that. All beings"
+    },
+    {
+      "start": 1865.38,
+      "end": 1870.58,
+      "text": "would experience that. But there are certain kinds of suffering which are unnecessary, which we"
+    },
+    {
+      "start": 1870.58,
+      "end": 1877.14,
+      "text": "kind of avoid. For example, if a person drinks and drives, you drink and drive again to accident,"
+    },
+    {
+      "start": 1877.14,
+      "end": 1882.74,
+      "text": "there was not necessary. It could have been avoided. So in the same way, there are also other"
+    },
+    {
+      "start": 1883.7,
+      "end": 1892.02,
+      "text": "things that we can cultivate. Now to avoid suffering, for example, if you speak skillful words,"
+    },
+    {
+      "start": 1892.02,
+      "end": 1899.3,
+      "text": "to people instead of harsh words, then we can avoid unnecessary suffering in one way."
+    },
+    {
+      "start": 1899.3,
+      "end": 1905.62,
+      "text": "Another one is we know how to keep our precepts. That one, if you know how to listen to the Dharma,"
+    },
+    {
+      "start": 1905.86,
+      "end": 1912.42,
+      "text": "if you know how to do charity, etc. So these are all the teachings that the Dharma teaches us"
+    },
+    {
+      "start": 1912.42,
+      "end": 1920.34,
+      "text": "to lead a very skillful life so that we go to life with the minimum suffering. And not only that,"
+    },
+    {
+      "start": 1921.14,
+      "end": 1930.82,
+      "text": "even the minimum suffering, eventually we should make it dry out by getting out of the"
+    },
+    {
+      "start": 1930.82,
+      "end": 1941.54,
+      "text": "round of people. Then the second quality is that person is a master of his mind. He is so,"
+    },
+    {
+      "start": 1941.54,
+      "end": 1950.1,
+      "text": "his mind is so well developed that he does not control by the mind. He controls the mind. A lot of"
+    },
+    {
+      "start": 1950.1,
+      "end": 1956.9,
+      "text": "people, the melody. And then after many years of meditation, they think they are very skillful."
+    },
+    {
+      "start": 1957.06,
+      "end": 1963.94,
+      "text": "They think they have attained great stages. But then you can see their likes and dislikes. If they"
+    },
+    {
+      "start": 1963.94,
+      "end": 1971.06,
+      "text": "have very strong likes and dislikes, that means they have not developed mind. If we have a"
+    },
+    {
+      "start": 1971.06,
+      "end": 1978.26,
+      "text": "developed mind, we would not be controlled by our likes and dislikes. And then the third one is the"
+    },
+    {
+      "start": 1978.34,
+      "end": 1988.26,
+      "text": "Janas, the condition for wisdom is the concentration. And the fourth one is destruction of the"
+    },
+    {
+      "start": 1988.26,
+      "end": 1997.3,
+      "text": "Asavas, a technique at a hand-boot. Then the Brahmin said, it is wonderful master Gautama."
+    },
+    {
+      "start": 1997.3,
+      "end": 2003.14,
+      "text": "It is marvelous master Gautama. How well this has been said by the worthy Gautama? I myself do"
+    },
+    {
+      "start": 2003.14,
+      "end": 2009.86,
+      "text": "hold the worthy Gautama to be possessed of these same qualities. Indeed, the worthy Gautama is given"
+    },
+    {
+      "start": 2009.86,
+      "end": 2015.38,
+      "text": "up to the welfare of many folk, to the happiness of many folk. By him, I am many folk established"
+    },
+    {
+      "start": 2015.38,
+      "end": 2021.46,
+      "text": "in the Aryan knowledge. To it, in what is of a lovely nature, in what is of a profitable nature."
+    },
+    {
+      "start": 2021.46,
+      "end": 2027.86,
+      "text": "Indeed, the worthy Gautama. To whatever, three in of thought he wishes to apply himself. To that"
+    },
+    {
+      "start": 2027.94,
+      "end": 2033.14,
+      "text": "train of thought, he applies himself. Surely the worthy Gautama is master of the mind in the"
+    },
+    {
+      "start": 2033.14,
+      "end": 2040.18,
+      "text": "ways of thought. Surely the worthy Gautama is one who attains that will the four Janas. Surely the"
+    },
+    {
+      "start": 2040.18,
+      "end": 2046.74,
+      "text": "worthy Gautama by destruction of the Asavas, realizes the liberation by mind, the liberation by wisdom"
+    },
+    {
+      "start": 2046.74,
+      "end": 2053.46,
+      "text": "and attaining it about staring. And the Buddha said, indeed Brahmin, your words come close and"
+    },
+    {
+      "start": 2053.46,
+      "end": 2060.42,
+      "text": "challenge me to a statement. Nevertheless, I will satisfy you by replying. I am indeed given up"
+    },
+    {
+      "start": 2060.42,
+      "end": 2066.18,
+      "text": "to the welfare of many folk, to the happiness of many folk. By me, I am many folk established in the"
+    },
+    {
+      "start": 2066.18,
+      "end": 2073.46,
+      "text": "Aryan knowledge. To it, in what is of a lovely nature, in what is of a profitable nature. To"
+    },
+    {
+      "start": 2073.46,
+      "end": 2080.26,
+      "text": "whatsoever train of thought, I desire to apply myself to that, I apply myself on not as I please."
+    },
+    {
+      "start": 2080.34,
+      "end": 2087.14,
+      "text": "Whatever intention I wish to intend, I do so on not as I please. Indeed, Brahmin, I master"
+    },
+    {
+      "start": 2087.14,
+      "end": 2092.5,
+      "text": "I am master of the mind in the ways of thought. Indeed, I am one who attains that will"
+    },
+    {
+      "start": 2092.5,
+      "end": 2100.1,
+      "text": "before Janas. Indeed, Brahmin by the destruction of the Asavas, I realize the liberation by mind"
+    },
+    {
+      "start": 2100.1,
+      "end": 2106.74,
+      "text": "and liberation by wisdom and attaining it about there. And that's the end of the Suttaa here."
+    },
+    {
+      "start": 2106.74,
+      "end": 2116.02,
+      "text": "So, this is another case where somebody is challenging the Buddha. And he acknowledges that he has"
+    },
+    {
+      "start": 2116.02,
+      "end": 2118.02,
+      "text": "attained all these vocalities."
+    }
+  ]
+}

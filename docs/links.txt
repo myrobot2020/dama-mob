@@ -1,0 +1,7 @@
+playlist transcipts:https://www.youtube.com/playlist?list=PLD8I9vPmsYXxR_Qt36EbquMkYTOZbXWpM
+
+github:https://github.com/myrobot2020/Dama
+
+https://console.cloud.google.com/welcome?project=dama-492316
+
+translation: https://suttacentral.net/api/docs/

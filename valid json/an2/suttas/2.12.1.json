@@ -1,0 +1,39 @@
+{
+  "sutta_id": "2.12.1",
+  "sutta_name_en": "The Two Persons",
+  "sutta_name_pali": "Puggala Sutta",
+  "sc_id": "an2.111",
+  "sc_url": "https://suttacentral.net/an2.111/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin",
+  "aud_file": "008_Anguttara Nikaya Book 2C 246 - 2121 by Bhante Hye Dhammavuddho Mahathera.mp3",
+  "aud_start_s": 1243.5,
+  "aud_end_s": 1320.14,
+  "chain": {
+    "items": [
+      "Sariputta",
+      "Moggallana"
+    ],
+    "count": 2,
+    "is_ordered": false,
+    "category": "models for monks"
+  },
+  "alignment": {
+    "rubric_version": "align_v4",
+    "scores_0_to_5": {
+      "source_ids_url": 5,
+      "text_to_source": 1,
+      "audio_segment": 5,
+      "commentary": 1,
+      "chain": 4,
+      "boundaries": 5
+    },
+    "total": 21,
+    "max_total": 30,
+    "needs_review": true,
+    "notes": "Auto-scored v4: sim_text_to_source=0.130, sim_commentary_chain=0.020, sim_commentary_kw=0.145, chain_supported=1/2"
+  },
+  "commentary_id": "cAN 2.12.1",
+  "sc_sutta": "111 “For these two, defilements don’t grow. What two? One who perceives what is unallowable as unallowable, and one who perceives what is allowable as allowable. These are the two whose defilements don’t grow.”",
+  "sutta": "2.12.1 the buddha said the believing monk if he would aspire perfectly should thus aspire may i be like unto sariputta and mawlana these are a sort of scale these are the sort of measure for my disciple who before my disciples who are monks namely sariputta and moghalana",
+  "commentary": "now the reason i'm reading this is again that uh there's a contradiction with the mahayana and the buddha here is saying that all his monk disciples should be like sariputta and moghalana is supposed to have the highest wisdom and moghalana is the psychic power is the is the this is the best so um it is not like in the mahayana with sutras we say that sariputta did not understand the buddha's teachings that he had inferior wisdom and all that",
+  "valid": true
+}

@@ -1,0 +1,1500 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1972.3029375,
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 6.88,
+      "text": "Now the next sutta, number 51."
+    },
+    {
+      "start": 6.88,
+      "end": 11.88,
+      "text": "Once the exalted one was staying near Savati and Jaita Grove in Anathapindika Spark,"
+    },
+    {
+      "start": 11.88,
+      "end": 14.88,
+      "text": "on that occasion the exalted one addressed the monk saying,"
+    },
+    {
+      "start": 14.88,
+      "end": 21.88,
+      "text": "''Monks, though a monk be not skilled in the habit of other thoughts, at least he can resolve."
+    },
+    {
+      "start": 21.88,
+      "end": 27.88,
+      "text": "I will be skilled in the habit of my own thought. Thus monks, should you train yourselves?"
+    },
+    {
+      "start": 28.88,
+      "end": 30.88,
+      "text": "Stop here for a moment."
+    },
+    {
+      "start": 30.88,
+      "end": 38.88,
+      "text": "Here the Buddha is saying that even though a monk is not able to read other people's minds,"
+    },
+    {
+      "start": 38.88,
+      "end": 48.88,
+      "text": "at least he should be able to read his habitual thoughts, his own mind."
+    },
+    {
+      "start": 48.88,
+      "end": 54.88,
+      "text": "So he should train himself to always read his own mind."
+    },
+    {
+      "start": 54.88,
+      "end": 56.88,
+      "text": "Then the Buddha continued."
+    },
+    {
+      "start": 56.88,
+      "end": 61.88,
+      "text": "And how is a monk skilled in the habit of his own thought?"
+    },
+    {
+      "start": 61.88,
+      "end": 66.88,
+      "text": "Just as if monks, a man or woman or a young lad,"
+    },
+    {
+      "start": 66.88,
+      "end": 71.88,
+      "text": "fond of self-adornment, examining the reflection of his own face"
+    },
+    {
+      "start": 71.88,
+      "end": 76.88,
+      "text": "in a bright, clean mirror or bowl of clear water,"
+    },
+    {
+      "start": 76.88,
+      "end": 84.88,
+      "text": "should see therein a stain or speck and strive for the removal of that stain or speck."
+    },
+    {
+      "start": 84.88,
+      "end": 90.88,
+      "text": "And when he no longer sees it there, is pleased and satisfied there at thinking,"
+    },
+    {
+      "start": 90.88,
+      "end": 94.88,
+      "text": "again it is to me that I am clean."
+    },
+    {
+      "start": 94.88,
+      "end": 102.88,
+      "text": "Even so, a monk's introspection is most fruitful in good conditions thus,"
+    },
+    {
+      "start": 102.88,
+      "end": 108.88,
+      "text": "''Do I or do I not generally live covetous?''"
+    },
+    {
+      "start": 108.88,
+      "end": 110.88,
+      "text": "That means greedy for other things."
+    },
+    {
+      "start": 110.88,
+      "end": 118.88,
+      "text": "''Do I or do I not generally live malevolent in heart or with ill will?''"
+    },
+    {
+      "start": 118.88,
+      "end": 124.88,
+      "text": "''Do I or do I not generally live possessed by sloth and torpor?''"
+    },
+    {
+      "start": 124.88,
+      "end": 130.88,
+      "text": "''Do I or do I not generally live restless in mind?''"
+    },
+    {
+      "start": 130.88,
+      "end": 135.88,
+      "text": "''Do I or do I not generally live in doubt and wavering?''"
+    },
+    {
+      "start": 135.88,
+      "end": 147.12,
+      "text": "''Do I or do I not generally live wrathful or with soiled thoughts or with body-passionate?''"
+    },
+    {
+      "start": 147.12,
+      "end": 152.12,
+      "text": "''Or sluggish without energy?''"
+    },
+    {
+      "start": 152.12,
+      "end": 158.07,
+      "text": "''Or do I live uncontrolled or not?''"
+    },
+    {
+      "start": 158.07,
+      "end": 166.07,
+      "text": "''Munks, if on self-examination a monk finds thus, I generally live covetous malevolent in heart,"
+    },
+    {
+      "start": 166.07,
+      "end": 173.07,
+      "text": "possessed by sloth and torpor, excited in mind, doubtful and wavering, wrathful,"
+    },
+    {
+      "start": 173.07,
+      "end": 178.07,
+      "text": "with soiled thoughts, with body-passionate, sluggish and uncontrolled."
+    },
+    {
+      "start": 178.07,
+      "end": 185.07,
+      "text": "Then that monk must put forth extra desire, effort, endeavor, exertion, impulse,"
+    },
+    {
+      "start": 185.07,
+      "end": 192.07,
+      "text": "mindfulness and attention for the abandoning of those wicked, unprofitable states."
+    },
+    {
+      "start": 192.07,
+      "end": 199.07,
+      "text": "Just as monks, in one's turban or head, is a blaze, for the extinguishing thereof,"
+    },
+    {
+      "start": 199.07,
+      "end": 207.07,
+      "text": "one must put forth extra desire, effort, endeavor, exertion, unflagging mindfulness and attention."
+    },
+    {
+      "start": 207.07,
+      "end": 214.07,
+      "text": "Even so, for the abandoning of those wicked, unprofitable states, one must do the same."
+    },
+    {
+      "start": 214.07,
+      "end": 221.07,
+      "text": "But if on self-examination a monk finds thus, I do not generally live covetous etc.,"
+    },
+    {
+      "start": 221.07,
+      "end": 226.07,
+      "text": "then that monk should make an effort to establish just those profitable states"
+    },
+    {
+      "start": 226.07,
+      "end": 232.07,
+      "text": "and further to destroy the asavas. That's the end of the suttas."
+    },
+    {
+      "start": 232.07,
+      "end": 237.07,
+      "text": "Asavas here means uncontrolled mental outflows."
+    },
+    {
+      "start": 237.07,
+      "end": 242.07,
+      "text": "If a person destroys the asavas, he becomes an arahan."
+    },
+    {
+      "start": 242.07,
+      "end": 249.32,
+      "text": "So here this sutta is talking about the practice of right effort."
+    },
+    {
+      "start": 250.32,
+      "end": 255.32,
+      "text": "The practice of right effort, we are supposed to examine these qualities,"
+    },
+    {
+      "start": 255.32,
+      "end": 262.32,
+      "text": "those bad, unwholesome qualities inside us."
+    },
+    {
+      "start": 262.32,
+      "end": 265.32,
+      "text": "We should get rid of and cultivate good qualities."
+    },
+    {
+      "start": 265.32,
+      "end": 270.32,
+      "text": "So this is, you know, in the Noble Eightfold Path,"
+    },
+    {
+      "start": 270.32,
+      "end": 276.32,
+      "text": "right effort is one of the factors pertaining to meditation."
+    },
+    {
+      "start": 276.32,
+      "end": 282.32,
+      "text": "Sometimes people practice meditation, they forget to examine their own mind."
+    },
+    {
+      "start": 282.32,
+      "end": 288.32,
+      "text": "Sometimes some people observe outside, a lot of things outside."
+    },
+    {
+      "start": 288.32,
+      "end": 291.32,
+      "text": "They are very mindful, a lot of things outside."
+    },
+    {
+      "start": 291.32,
+      "end": 294.32,
+      "text": "But meditation must begin from inside."
+    },
+    {
+      "start": 294.32,
+      "end": 298.32,
+      "text": "We must see all these things that pass through our mind."
+    },
+    {
+      "start": 298.32,
+      "end": 302.32,
+      "text": "So what is unwholesome, we should get rid of."
+    },
+    {
+      "start": 302.32,
+      "end": 313.6,
+      "text": "Here is mentioned five things, covetousness, malevolence, sloth and topper, restlessness, doubt."
+    },
+    {
+      "start": 313.6,
+      "end": 317.6,
+      "text": "These five things are called the five hindrances."
+    },
+    {
+      "start": 317.6,
+      "end": 322.6,
+      "text": "The five hindrances that prevent us from seeing things as they really are."
+    },
+    {
+      "start": 322.6,
+      "end": 329.6,
+      "text": "So these we have to get rid of and other unwholesome qualities"
+    },
+    {
+      "start": 329.6,
+      "end": 340.6,
+      "text": "like soil thoughts, passionate thoughts, sluggish mind, no energy, uncontrolled mind, etc."
+    },
+    {
+      "start": 340.6,
+      "end": 349.6,
+      "text": "So this is another very practical sutta in teaching us how to practice the dhamma."
+    },
+    {
+      "start": 349.6,
+      "end": 354.23,
+      "text": "The next sutta is number sixty."
+    },
+    {
+      "start": 354.23,
+      "end": 360.23,
+      "text": "Once the exalted one was staying near Savati in Jeta Grove, another Pindika spark."
+    },
+    {
+      "start": 360.23,
+      "end": 368.23,
+      "text": "Now on that occasion, the venerable Giri Mananda was sick, suffering, stricken with a sore disease."
+    },
+    {
+      "start": 368.23,
+      "end": 377.23,
+      "text": "And the venerable Ananda came to see the exalted one and said this to him after paying respect, etc."
+    },
+    {
+      "start": 377.23,
+      "end": 384.23,
+      "text": "Sir, the venerable Giri Mananda is sick, suffering, stricken with a sore disease."
+    },
+    {
+      "start": 384.23,
+      "end": 390.23,
+      "text": "It would be well, sir, if the exalted one were to visit him out of compassion for him."
+    },
+    {
+      "start": 390.23,
+      "end": 399.23,
+      "text": "And the Buddha said, if you Ananda were to visit the monk Giri Mananda and recite to him the ten perceptions,"
+    },
+    {
+      "start": 399.23,
+      "end": 407.23,
+      "text": "there are grounds for supposing that when he hears them, that sickness will be allayed there and then."
+    },
+    {
+      "start": 407.23,
+      "end": 410.23,
+      "text": "In other words, cured there and then."
+    },
+    {
+      "start": 410.23,
+      "end": 412.23,
+      "text": "What are the ten perceptions?"
+    },
+    {
+      "start": 412.23,
+      "end": 422.23,
+      "text": "Ananda, the perception of impermanence, of not self, of the foul or unattractiveness, of wretchedness,"
+    },
+    {
+      "start": 422.23,
+      "end": 430.23,
+      "text": "of abandoning, of dispassion, of cessation, of distaste for the world,"
+    },
+    {
+      "start": 430.23,
+      "end": 439.08,
+      "text": "of impermanence in all conditioners, of recollection of breathing."
+    },
+    {
+      "start": 439.08,
+      "end": 443.08,
+      "text": "And what Ananda is the perception of impermanence."
+    },
+    {
+      "start": 443.08,
+      "end": 450.08,
+      "text": "Hearing a monk who has gone to the forest or to the root of a tree or a lonely place, thus contemplates."
+    },
+    {
+      "start": 450.08,
+      "end": 465.08,
+      "text": "Impermanence is objective form, impermanence are feelings, impermanence are perceptions, impermanence are volitions and impermanence is consciousness."
+    },
+    {
+      "start": 465.08,
+      "end": 471.08,
+      "text": "Thus he abides seeing impermanence in these five grasped aggregates."
+    },
+    {
+      "start": 471.08,
+      "end": 474.08,
+      "text": "This is called the perception of impermanence."
+    },
+    {
+      "start": 474.08,
+      "end": 477.08,
+      "text": "I stop here for a moment."
+    },
+    {
+      "start": 477.08,
+      "end": 488.08,
+      "text": "This first perception the Buddha says to contemplate is the perception of impermanence, anicca or anicca sannyā."
+    },
+    {
+      "start": 488.08,
+      "end": 495.08,
+      "text": "Here the Buddha says we should contemplate that these five things are impermanent."
+    },
+    {
+      "start": 495.08,
+      "end": 500.08,
+      "text": "Form, feeling, perception, volition, consciousness."
+    },
+    {
+      "start": 500.08,
+      "end": 508.08,
+      "text": "Form means the body and the others refer to the mind, feeling, perception, volition and consciousness."
+    },
+    {
+      "start": 508.08,
+      "end": 517.08,
+      "text": "Now these five things all beings generally take to be the self because we associate these five things with ourselves."
+    },
+    {
+      "start": 517.08,
+      "end": 528.08,
+      "text": "Either we think that they are the self or they belong to the self or they are inside the self or the self is inside these five aggregates."
+    },
+    {
+      "start": 528.08,
+      "end": 535.08,
+      "text": "So these are called the five grasped aggregates, plung aggregates."
+    },
+    {
+      "start": 535.08,
+      "end": 539.08,
+      "text": "So we should see them as impermanent."
+    },
+    {
+      "start": 539.08,
+      "end": 548.08,
+      "text": "So if we see that these five aggregates we perceive that they are impermanent then we won't cling to them so much."
+    },
+    {
+      "start": 548.08,
+      "end": 556.08,
+      "text": "If we cling to these five aggregates, we cling to this body and mind then because they are impermanent they will change."
+    },
+    {
+      "start": 556.08,
+      "end": 564.08,
+      "text": "They will grow old, it will become sick and it will die and if we cling to it we will suffer when it changes."
+    },
+    {
+      "start": 564.08,
+      "end": 570.08,
+      "text": "That is why we have to see the impermanence in this body and mind."
+    },
+    {
+      "start": 570.08,
+      "end": 572.08,
+      "text": "Then the Buddha continued,"
+    },
+    {
+      "start": 572.08,
+      "end": 577.08,
+      "text": "And what Ananda is the perception of not self, anatta sannyah."
+    },
+    {
+      "start": 577.08,
+      "end": 584.08,
+      "text": "Hearing a monk who has gone to the forest etc. thus contemplates, the eye is not the self."
+    },
+    {
+      "start": 584.08,
+      "end": 587.08,
+      "text": "Objective form is not the self."
+    },
+    {
+      "start": 587.08,
+      "end": 589.08,
+      "text": "The ear is not the self."
+    },
+    {
+      "start": 589.08,
+      "end": 590.08,
+      "text": "Sounds are not the self."
+    },
+    {
+      "start": 590.08,
+      "end": 593.08,
+      "text": "Nose and sense are not the self."
+    },
+    {
+      "start": 593.08,
+      "end": 595.08,
+      "text": "Tongue and taste are not the self."
+    },
+    {
+      "start": 595.08,
+      "end": 597.08,
+      "text": "Body and tangibles are not the self."
+    },
+    {
+      "start": 597.08,
+      "end": 600.08,
+      "text": "Mind and thoughts are not the self."
+    },
+    {
+      "start": 600.08,
+      "end": 607.08,
+      "text": "Thus he abides seeing not self in those six outer and inner bases."
+    },
+    {
+      "start": 607.08,
+      "end": 611.08,
+      "text": "This Ananda is called the perception of not self."
+    },
+    {
+      "start": 611.08,
+      "end": 613.08,
+      "text": "Stop here for a moment to explain."
+    },
+    {
+      "start": 613.08,
+      "end": 619.08,
+      "text": "Here the Buddha talks about six outer and six inner bases."
+    },
+    {
+      "start": 619.08,
+      "end": 623.08,
+      "text": "The six inner bases are the six sense organs."
+    },
+    {
+      "start": 623.08,
+      "end": 632.08,
+      "text": "The eye, ear, nose, tongue, body and the mind."
+    },
+    {
+      "start": 632.08,
+      "end": 644.08,
+      "text": "And then the six outer sense bases form that the eye sees, sound that the ear hears."
+    },
+    {
+      "start": 644.08,
+      "end": 649.08,
+      "text": "Smells, tastes, touch and thoughts."
+    },
+    {
+      "start": 649.08,
+      "end": 660.08,
+      "text": "So we should perceive that the six inner sense bases and the six outer bases, sense bases,"
+    },
+    {
+      "start": 660.08,
+      "end": 665.08,
+      "text": "is not self because they are impermanent."
+    },
+    {
+      "start": 665.08,
+      "end": 676.08,
+      "text": "This Anatta means something, not self."
+    },
+    {
+      "start": 676.08,
+      "end": 686.08,
+      "text": "And not self means self means that which is permanent, never changing."
+    },
+    {
+      "start": 686.08,
+      "end": 691.08,
+      "text": "Everything in the world is changing, everything in the world is impermanent."
+    },
+    {
+      "start": 691.08,
+      "end": 697.08,
+      "text": "So there is nothing in the world that is self."
+    },
+    {
+      "start": 697.08,
+      "end": 698.08,
+      "text": "Then the third one."
+    },
+    {
+      "start": 698.08,
+      "end": 705.08,
+      "text": "And what Ananda is the perception of the foul or unattractiveness, asubah sannyah."
+    },
+    {
+      "start": 705.08,
+      "end": 710.08,
+      "text": "Hearing among examines the body, upwards from the soles of the feet,"
+    },
+    {
+      "start": 710.08,
+      "end": 714.08,
+      "text": "downwards from the top of the head and closed by skin,"
+    },
+    {
+      "start": 714.08,
+      "end": 717.08,
+      "text": "full of manifold impurities."
+    },
+    {
+      "start": 717.08,
+      "end": 724.08,
+      "text": "There are in this body, there are head hair, body hair, nail,"
+    },
+    {
+      "start": 724.08,
+      "end": 733.08,
+      "text": "nail, steed, skin, flesh, sinews, bones, bone, marrow, kidney, heart, liver, midriff, spleen, lung,"
+    },
+    {
+      "start": 733.08,
+      "end": 740.08,
+      "text": "bowel and trail, gorge, dung, brain, bile, phlegm, past, blood, sweat, fat, tear, grease,"
+    },
+    {
+      "start": 740.08,
+      "end": 743.08,
+      "text": "and all of the joint urine."
+    },
+    {
+      "start": 743.08,
+      "end": 748.08,
+      "text": "Thus he abides observant of the foul or unattractiveness of the body."
+    },
+    {
+      "start": 748.08,
+      "end": 755.08,
+      "text": "This Ananda is called the perception of the foul or unattractiveness of the body."
+    },
+    {
+      "start": 755.08,
+      "end": 760.08,
+      "text": "So this stop here for a moment to comment."
+    },
+    {
+      "start": 760.08,
+      "end": 767.08,
+      "text": "This is called the meditation on the unattractiveness of the body."
+    },
+    {
+      "start": 767.08,
+      "end": 778.08,
+      "text": "Normally we are attracted to the body of the opposite sex because we see it as very attractive"
+    },
+    {
+      "start": 778.08,
+      "end": 784.08,
+      "text": "because we only see the outer part of the body."
+    },
+    {
+      "start": 784.08,
+      "end": 788.08,
+      "text": "As they say, beauty is only skin deep."
+    },
+    {
+      "start": 788.08,
+      "end": 795.08,
+      "text": "When you go deeper than the skin, then you find all these things which are inside the body."
+    },
+    {
+      "start": 795.08,
+      "end": 806.08,
+      "text": "And if we contemplate these 32 things of the body, then we will find the body is not attractive as we thought."
+    },
+    {
+      "start": 806.08,
+      "end": 816.08,
+      "text": "So if we practice this contemplation long, then when we look at the person, we are able to perceive"
+    },
+    {
+      "start": 816.08,
+      "end": 819.08,
+      "text": "not only the outside but also the inside of the body."
+    },
+    {
+      "start": 819.08,
+      "end": 828.08,
+      "text": "And that helps us to cut last, cut sensual desire for the body."
+    },
+    {
+      "start": 828.08,
+      "end": 830.08,
+      "text": "And then the next one."
+    },
+    {
+      "start": 830.08,
+      "end": 835.08,
+      "text": "And what Ananda is the perception of wretchedness, Adinava Sannyah."
+    },
+    {
+      "start": 835.08,
+      "end": 840.08,
+      "text": "Irinamang who has gone to the forest etc. thus contemplates."
+    },
+    {
+      "start": 840.08,
+      "end": 845.08,
+      "text": "This body has many ills, many wretchednesses."
+    },
+    {
+      "start": 845.08,
+      "end": 856.08,
+      "text": "In this body arise diverse diseases such as disease of eyesight and hearing of nose, tongue, trunk, head, ear, mouth, teeth."
+    },
+    {
+      "start": 856.08,
+      "end": 865.08,
+      "text": "There is cough, asthma, running nose, fever, feebleness, decrepitude."
+    },
+    {
+      "start": 865.08,
+      "end": 883.08,
+      "text": "Belly ache, fainting, diarrhea in griping or intestinal pain, cholera, leprosy, eczema, TB, tuberculosis, epilepsy, skin disease."
+    },
+    {
+      "start": 883.08,
+      "end": 895.08,
+      "text": "Each scape, scabies, jaundice, diabetes, piles, boils, ulcers, diseases arising from bile, from phlegm, from wind, from bodily humours,"
+    },
+    {
+      "start": 895.08,
+      "end": 903.08,
+      "text": "from changes of the seasons, from stress of circumstances, from the ripeness of one's karma and also cold and heat, hunger and thirst,"
+    },
+    {
+      "start": 903.08,
+      "end": 906.08,
+      "text": "bowel movement and urination."
+    },
+    {
+      "start": 906.08,
+      "end": 914.08,
+      "text": "Thus he abides observant of the wretchedness of this body. This Ananda is called the perception of wretchedness."
+    },
+    {
+      "start": 914.08,
+      "end": 922.08,
+      "text": "Stop here for a moment. So here you can see that this body can give us all kinds of wretchedness, all kinds of suffering,"
+    },
+    {
+      "start": 922.08,
+      "end": 930.08,
+      "text": "many types of sickness that we can get. So we should constantly contemplate this."
+    },
+    {
+      "start": 930.08,
+      "end": 932.08,
+      "text": "And then the Buddha continued,"
+    },
+    {
+      "start": 932.08,
+      "end": 936.08,
+      "text": "And what Ananda is the perception of abandoning?"
+    },
+    {
+      "start": 936.08,
+      "end": 938.08,
+      "text": "Pahana Sannyah."
+    },
+    {
+      "start": 938.08,
+      "end": 947.08,
+      "text": "Hearing a monk admits not sensual thinking that has arisen, but abandons restraints, makes an end of it, forces it not to recur."
+    },
+    {
+      "start": 947.08,
+      "end": 955.08,
+      "text": "He admits not malicious thinking, harmful thinking, evil, unprofitable states that arise from time to time,"
+    },
+    {
+      "start": 955.08,
+      "end": 965.08,
+      "text": "but abandons restraints, makes an end of them, forces them not to recur. This Ananda is called the perception of abandoning."
+    },
+    {
+      "start": 965.08,
+      "end": 967.08,
+      "text": "Stop here for a moment."
+    },
+    {
+      "start": 967.08,
+      "end": 980.08,
+      "text": "So here abandoning means examining all the wrong thoughts we have, abandoning all the wrong thoughts of sensual thoughts, malicious thoughts."
+    },
+    {
+      "start": 980.08,
+      "end": 988.08,
+      "text": "Malicious means ill-will, having ill-will, and harmful thoughts."
+    },
+    {
+      "start": 988.08,
+      "end": 989.08,
+      "text": "And the Buddha continued,"
+    },
+    {
+      "start": 989.08,
+      "end": 992.08,
+      "text": "And what Ananda is the perception of dispassion?"
+    },
+    {
+      "start": 992.08,
+      "end": 994.08,
+      "text": "Viraga Sannyah."
+    },
+    {
+      "start": 994.08,
+      "end": 1000.08,
+      "text": "Hearing a monk who has gone to the forest, etc., thus contemplates, this is the real, this is the excellent,"
+    },
+    {
+      "start": 1000.08,
+      "end": 1009.08,
+      "text": "namely the calming of all conditioners, the casting off of every basis, the destruction of craving, dispassion, nibbana."
+    },
+    {
+      "start": 1009.08,
+      "end": 1014.08,
+      "text": "This Ananda is called the perception of dispassion."
+    },
+    {
+      "start": 1014.08,
+      "end": 1018.08,
+      "text": "Let's stop here for a moment."
+    },
+    {
+      "start": 1018.08,
+      "end": 1035.08,
+      "text": "Raga is passion, so Viraga is dispassion, dispassion for all the things of the world, and then the calming down of all the conditioners."
+    },
+    {
+      "start": 1035.08,
+      "end": 1042.08,
+      "text": "Conditioners are, this Pali word is sankara, sometimes it's translated as condition things."
+    },
+    {
+      "start": 1042.08,
+      "end": 1047.08,
+      "text": "Probably conditioners is a better translation."
+    },
+    {
+      "start": 1047.08,
+      "end": 1054.08,
+      "text": "It means everything in the world, because everything in the world is conditioned as well as conditioning other things."
+    },
+    {
+      "start": 1054.08,
+      "end": 1057.08,
+      "text": "So it is also known as conditioners."
+    },
+    {
+      "start": 1057.08,
+      "end": 1070.08,
+      "text": "So if all the things in the world are calmed down, and then you have this destruction of craving, dispassion, then you arrive at nibbana."
+    },
+    {
+      "start": 1070.08,
+      "end": 1071.08,
+      "text": "And the Buddha continued,"
+    },
+    {
+      "start": 1071.08,
+      "end": 1075.08,
+      "text": "And what is the perception of cessation, niroda?"
+    },
+    {
+      "start": 1075.08,
+      "end": 1083.08,
+      "text": "Hearing a monk who has gone to the forest, etc., thus contemplates, this is the real, this is the excellent, and the same way."
+    },
+    {
+      "start": 1083.08,
+      "end": 1094.46,
+      "text": "Namely, the calming of all conditioners, the casting off of every basis, the destruction of craving, cessation, nibbana."
+    },
+    {
+      "start": 1094.46,
+      "end": 1098.46,
+      "text": "This Ananda is called the perception of cessation."
+    },
+    {
+      "start": 1098.46,
+      "end": 1099.46,
+      "text": "Stop here for a moment."
+    },
+    {
+      "start": 1099.46,
+      "end": 1105.46,
+      "text": "This is almost the same as the previous one, but instead of dispassion, here we have cessation."
+    },
+    {
+      "start": 1105.46,
+      "end": 1107.46,
+      "text": "And then to continue."
+    },
+    {
+      "start": 1107.46,
+      "end": 1112.46,
+      "text": "And what Ananda is the perception of distaste for the whole world."
+    },
+    {
+      "start": 1112.46,
+      "end": 1116.46,
+      "text": "Saba loke anabirata sannyah."
+    },
+    {
+      "start": 1116.46,
+      "end": 1125.46,
+      "text": "Hearing a monk by abandoning, by not clinging to those grasping of systems, those mental standpoints and dogmatic bias that are in the world."
+    },
+    {
+      "start": 1125.46,
+      "end": 1127.46,
+      "text": "Delight is not therein."
+    },
+    {
+      "start": 1127.46,
+      "end": 1132.46,
+      "text": "This is called the perception of distaste for the whole world."
+    },
+    {
+      "start": 1132.46,
+      "end": 1133.46,
+      "text": "Stop here for a moment."
+    },
+    {
+      "start": 1133.46,
+      "end": 1138.46,
+      "text": "And that means this monk is no more concerned with all the views in the world."
+    },
+    {
+      "start": 1138.46,
+      "end": 1141.46,
+      "text": "He's put down all the views."
+    },
+    {
+      "start": 1141.46,
+      "end": 1148.46,
+      "text": "And he develops distaste for the whole world."
+    },
+    {
+      "start": 1148.46,
+      "end": 1154.46,
+      "text": "And what Ananda is the perception of impermanence of all conditioners."
+    },
+    {
+      "start": 1154.46,
+      "end": 1158.46,
+      "text": "Saba sankaresu anicca sannyah."
+    },
+    {
+      "start": 1158.46,
+      "end": 1167.46,
+      "text": "Hearing a monk is troubled by ashamed of and disgusted with all the condition things or conditioners."
+    },
+    {
+      "start": 1167.46,
+      "end": 1174.46,
+      "text": "This is called the perception of impermanence of all conditioners."
+    },
+    {
+      "start": 1174.46,
+      "end": 1176.46,
+      "text": "Let's stop here for a moment."
+    },
+    {
+      "start": 1176.46,
+      "end": 1187.46,
+      "text": "This is also similar to the perception of impermanence that everything in the world is impermanent."
+    },
+    {
+      "start": 1187.46,
+      "end": 1192.46,
+      "text": "So he's disgusted with it and to continue."
+    },
+    {
+      "start": 1192.46,
+      "end": 1197.46,
+      "text": "And what Ananda is the recollection of the breath, anapanasati."
+    },
+    {
+      "start": 1197.46,
+      "end": 1207.46,
+      "text": "Hearing a monk has gone to the forest or to the root of a tree or a lonely place, sits down cross-legged, holding the body upright and setting mindfulness in front of him."
+    },
+    {
+      "start": 1207.46,
+      "end": 1210.46,
+      "text": "He breathes in mindfully and mindfully, breathes out."
+    },
+    {
+      "start": 1210.46,
+      "end": 1213.46,
+      "text": "As he draws in a long breath, he knows."
+    },
+    {
+      "start": 1213.46,
+      "end": 1215.46,
+      "text": "A long breath, I draw in."
+    },
+    {
+      "start": 1215.46,
+      "end": 1217.46,
+      "text": "As he breathes out a long breath, he knows."
+    },
+    {
+      "start": 1217.46,
+      "end": 1219.46,
+      "text": "A long breath, I breathe out."
+    },
+    {
+      "start": 1219.46,
+      "end": 1221.46,
+      "text": "As he draws in a short breath, he knows."
+    },
+    {
+      "start": 1221.46,
+      "end": 1223.46,
+      "text": "A short breath, I breathe in."
+    },
+    {
+      "start": 1223.46,
+      "end": 1226.46,
+      "text": "As he breathes out a short breath, he knows."
+    },
+    {
+      "start": 1226.46,
+      "end": 1228.46,
+      "text": "A short breath, I breathe out."
+    },
+    {
+      "start": 1228.46,
+      "end": 1230.46,
+      "text": "He puts into practice the intention."
+    },
+    {
+      "start": 1230.46,
+      "end": 1233.46,
+      "text": "I shall breathe in, feeling it go through the whole body."
+    },
+    {
+      "start": 1233.46,
+      "end": 1236.46,
+      "text": "Feeling it go through the whole body, I shall breathe out."
+    },
+    {
+      "start": 1236.46,
+      "end": 1240.46,
+      "text": "Coming down the body aggregate, I shall breathe in."
+    },
+    {
+      "start": 1240.46,
+      "end": 1243.46,
+      "text": "Coming down the body aggregate, I shall breathe out."
+    },
+    {
+      "start": 1243.46,
+      "end": 1249.64,
+      "text": "feeling the thrill of zest the thrill of электronique, delight I shall breath in"
+    },
+    {
+      "start": 1249.64,
+      "end": 1255.54,
+      "text": "and out feeling the sense of ease I shall breathe in and out. where all"
+    },
+    {
+      "start": 1255.54,
+      "end": 1260.04,
+      "text": "mental factors I shall breathe in and out coming down the mental factors I"
+    },
+    {
+      "start": 1260.04,
+      "end": 1264.8,
+      "text": "shall breathe in and out blaming my mind I shall breathing in my eyes"
+    },
+    {
+      "start": 1264.8,
+      "end": 1270.4,
+      "text": "breathing in and out composing my mind I shall breathing and out attaching my"
+    },
+    {
+      "start": 1270.4,
+      "end": 1275.36,
+      "text": "mind, I shall breathe in and out. Contemplating impermanence, I shall breathe in and out."
+    },
+    {
+      "start": 1275.36,
+      "end": 1281.12,
+      "text": "Contemplating dispassion, contemplating ending, contemplating renunciation, I shall breathe in"
+    },
+    {
+      "start": 1281.12,
+      "end": 1288.96,
+      "text": "and out. This Ananda is called the recollection of breathing. Now Ananda, if you were to visit"
+    },
+    {
+      "start": 1288.96,
+      "end": 1295.36,
+      "text": "the monk, Giri Mananda, and recite to him these ten perceptions, that is ground for supposing"
+    },
+    {
+      "start": 1295.36,
+      "end": 1301.12,
+      "text": "that on his hearing them, that sickness of his will straight away be cured."
+    },
+    {
+      "start": 1301.12,
+      "end": 1306.72,
+      "text": "Therefore on the venerable Ananda, having learned by heart these ten perceptions in the presence"
+    },
+    {
+      "start": 1306.72,
+      "end": 1313.2,
+      "text": "of the exalted one, visited the venerable Giri Mananda and recited them. On his hearing them,"
+    },
+    {
+      "start": 1313.2,
+      "end": 1318.48,
+      "text": "that sickness of the venerable Giri Mananda was straight away cured, and he rose up from that"
+    },
+    {
+      "start": 1318.48,
+      "end": 1324.24,
+      "text": "sickness, and in this way that sickness was vanished from the venerable Giri Mananda."
+    },
+    {
+      "start": 1325.84,
+      "end": 1334.32,
+      "text": "So you see here, that's the end of the Sutta, that for a monk such as this venerable Giri Mananda"
+    },
+    {
+      "start": 1334.32,
+      "end": 1341.92,
+      "text": "who has great love of the Dhamma, when he hears this type of Dhamma recited, he's so happy that"
+    },
+    {
+      "start": 1341.92,
+      "end": 1353.68,
+      "text": "the sickness was cured. So venerable Mogulana also at one time was sick, and the venerable,"
+    },
+    {
+      "start": 1353.68,
+      "end": 1361.68,
+      "text": "then the Buddha went to see him, and also chanted to him the bojangas, the"
+    },
+    {
+      "start": 1363.36,
+      "end": 1369.52,
+      "text": "factors of enlightenment, and he was so happy to hear that he also got cured of the sickness."
+    },
+    {
+      "start": 1370.32,
+      "end": 1380.64,
+      "text": "So these ten perceptions here are quite useful things to contemplate, the perception"
+    },
+    {
+      "start": 1382.48,
+      "end": 1389.92,
+      "text": "of impermanence, of not-self, of unattractiveness of the body, the wretchedness of the body,"
+    },
+    {
+      "start": 1389.92,
+      "end": 1396.4,
+      "text": "of abandoning, of dispassion, of cessation. This stays for the whole world, impermanence"
+    },
+    {
+      "start": 1396.4,
+      "end": 1405.52,
+      "text": "of all conditioners, and recollection of breathing. The next Sutta, I think I have time to talk on,"
+    },
+    {
+      "start": 1405.52,
+      "end": 1413.44,
+      "text": "Sutta number 61, the Buddha said, monks, the extreme point of ignorance is not apparent,"
+    },
+    {
+      "start": 1413.44,
+      "end": 1420.64,
+      "text": "so that one may say, ignorance was not before, it has since come to be, and this statement monks"
+    },
+    {
+      "start": 1421.36,
+      "end": 1427.52,
+      "text": "is made. Nevertheless, one thing is apparent, ignorance is conditioned by this or that."
+    },
+    {
+      "start": 1428.48,
+      "end": 1434.48,
+      "text": "Ignorance, I declare, monks has its nutriments, it is not without nutriments, and what is the"
+    },
+    {
+      "start": 1434.48,
+      "end": 1442.64,
+      "text": "nutriments of ignorance? The five hindrances should be the reply. I declare monks that the five hindrances"
+    },
+    {
+      "start": 1442.64,
+      "end": 1448.4,
+      "text": "have their nutriments, are not without nutriments, and what is the nutriments of the five hindrances?"
+    },
+    {
+      "start": 1450.68,
+      "end": 1458.76,
+      "text": "The three wrong ways of conduct should be the reply. Dutcarita, they too have their nutriments,"
+    },
+    {
+      "start": 1458.76,
+      "end": 1465.0,
+      "text": "what? Non-restrained of the sense faculty should be the reply. They too have their nutriments."
+    },
+    {
+      "start": 1465.88,
+      "end": 1472.52,
+      "text": "What is that? Lack of mindfulness and self-composure should be the reply. That too has its nutriments,"
+    },
+    {
+      "start": 1472.52,
+      "end": 1481.32,
+      "text": "I declare. What is that? Antara consideration, ayoniso manasikara should be the reply."
+    },
+    {
+      "start": 1481.96,
+      "end": 1488.2,
+      "text": "And what is the nutriments of that? Lack of faith should be the reply. What is the nutriments of"
+    },
+    {
+      "start": 1488.2,
+      "end": 1494.84,
+      "text": "that? Not listening to true dhamma. I declare monks that not listening to true dhamma has its"
+    },
+    {
+      "start": 1494.84,
+      "end": 1500.52,
+      "text": "nutriments, it is not without nutriments, and what is the nutriments of not listening to true dhamma?"
+    },
+    {
+      "start": 1501.08,
+      "end": 1504.2,
+      "text": "Not following after the true man should be the reply."
+    },
+    {
+      "start": 1505.64,
+      "end": 1513.32,
+      "text": "Thus monks, the act of not following after the true man completes not listening to the"
+    },
+    {
+      "start": 1513.32,
+      "end": 1521.72,
+      "text": "true dhamma, not listening to the true dhamma completes lack of faith or leads to lack of faith."
+    },
+    {
+      "start": 1521.72,
+      "end": 1529.96,
+      "text": "Lack of faith leads to antara consideration which leads to lack of mindfulness and self-composure."
+    },
+    {
+      "start": 1530.68,
+      "end": 1536.92,
+      "text": "It leads to non-restraint of the sense faculties and which leads to the three wrong"
+    },
+    {
+      "start": 1539.4,
+      "end": 1547.88,
+      "text": "ways of conduct and that leads to the five hindrances and the five hindrances leads to ignorance"
+    },
+    {
+      "start": 1549.4,
+      "end": 1553.0,
+      "text": "such as the nutriments of this ignorance, such as its fulfillment."
+    },
+    {
+      "start": 1558.35,
+      "end": 1562.51,
+      "text": "This is when monks on a mountain, the rain falls in heavy drops,"
+    },
+    {
+      "start": 1562.51,
+      "end": 1567.79,
+      "text": "then water flowing downwards according to the slope fills up the mountain cliffs and rifts"
+    },
+    {
+      "start": 1567.79,
+      "end": 1574.03,
+      "text": "and gullies and they when filled up fill up the little pools and the little pools in turn fill"
+    },
+    {
+      "start": 1574.03,
+      "end": 1579.47,
+      "text": "up the big pools and they in turn fill up the small rivers, they fill the large rivers and the"
+    },
+    {
+      "start": 1579.47,
+      "end": 1585.63,
+      "text": "large rivers in turn fill up the sea, the mighty ocean. Thus is the nutriments of the mighty ocean"
+    },
+    {
+      "start": 1585.63,
+      "end": 1592.75,
+      "text": "and thus its fulfillment in the same way monks not following after the true man leads to not"
+    },
+    {
+      "start": 1592.75,
+      "end": 1598.51,
+      "text": "listening to the true dhamma which leads eventually to the five hindrances and to ignorance."
+    },
+    {
+      "start": 1600.81,
+      "end": 1605.93,
+      "text": "Conversely, released by knowledge, monks are declared as its nutriments. It is not without"
+    },
+    {
+      "start": 1605.93,
+      "end": 1611.93,
+      "text": "nutriments and what is the nutriments of released by knowledge? The seven factors of enlightenment,"
+    },
+    {
+      "start": 1611.93,
+      "end": 1618.17,
+      "text": "bojanga, should be the reply. The seven factors of enlightenment I declare have the nutriments."
+    },
+    {
+      "start": 1618.73,
+      "end": 1625.37,
+      "text": "What? The four intense states of recollection, satipatana, should be the reply. They too have"
+    },
+    {
+      "start": 1625.37,
+      "end": 1633.37,
+      "text": "the nutriments. The three right ways of conduct and they too have the nutriments. Control of the"
+    },
+    {
+      "start": 1634.09,
+      "end": 1641.29,
+      "text": "sense faculties and the nutriments of these is mindfulness and self-possession and the nutriments"
+    },
+    {
+      "start": 1641.29,
+      "end": 1649.21,
+      "text": "is thorough consideration and the nutriments is faith and the nutriments of that is listening"
+    },
+    {
+      "start": 1649.21,
+      "end": 1656.57,
+      "text": "to the true dhamma and the nutriments of that is following after the true man. Thus monks,"
+    },
+    {
+      "start": 1657.21,
+      "end": 1662.25,
+      "text": "following after the true man when complete, completes listening to the true dhamma, listening"
+    },
+    {
+      "start": 1662.25,
+      "end": 1671.77,
+      "text": "to true dhamma, completes faith, completes or leads to thorough consideration and that leads to"
+    },
+    {
+      "start": 1671.77,
+      "end": 1679.85,
+      "text": "mindfulness and self-control and that to control of the sense faculties and that to the three"
+    },
+    {
+      "start": 1680.97,
+      "end": 1688.33,
+      "text": "right ways of conduct and that leads to the four intense states of recollection and that leads"
+    },
+    {
+      "start": 1688.33,
+      "end": 1697.21,
+      "text": "to the seven factors of enlightenment and that leads to liberation or release by knowledge."
+    },
+    {
+      "start": 1699.37,
+      "end": 1711.37,
+      "text": "So this sutta is telling us that if we want to practice and get out of some sara, we have to"
+    },
+    {
+      "start": 1711.37,
+      "end": 1719.45,
+      "text": "start by associating with a true man. A true man is one who understands the dhamma,"
+    },
+    {
+      "start": 1719.45,
+      "end": 1727.29,
+      "text": "who understands the discourses of the dhamma of this Buddha and if you listen to the teachings"
+    },
+    {
+      "start": 1727.29,
+      "end": 1735.77,
+      "text": "of a true man, you are listening to the teachings of the Buddha and that if you listen to the teachings"
+    },
+    {
+      "start": 1735.77,
+      "end": 1746.97,
+      "text": "of the Buddha, then you will have faith and when you have faith, then you will cultivate"
+    },
+    {
+      "start": 1749.37,
+      "end": 1758.57,
+      "text": "this thorough consideration, uniso manasikara. So when you cultivate uniso manasikara,"
+    },
+    {
+      "start": 1758.57,
+      "end": 1769.93,
+      "text": "then you have mindfulness and self-possession or mindfulness and recollection and that leads to"
+    },
+    {
+      "start": 1769.93,
+      "end": 1776.81,
+      "text": "control of the sense faculties and that leads to the three right ways of conduct and that leads to"
+    },
+    {
+      "start": 1776.81,
+      "end": 1782.57,
+      "text": "the four intense states of recollection and that leads to the seven factors of enlightenment,"
+    },
+    {
+      "start": 1782.57,
+      "end": 1794.09,
+      "text": "which leads to liberation. So associating with a true man and listening to the true dhamma and"
+    },
+    {
+      "start": 1794.09,
+      "end": 1800.09,
+      "text": "being able to listen to the true dhamma is very very important because it leads us to have faith"
+    },
+    {
+      "start": 1801.05,
+      "end": 1809.61,
+      "text": "and also it teaches us the way to practice the true dhamma that will eventually lead us to liberation"
+    },
+    {
+      "start": 1812.73,
+      "end": 1820.73,
+      "text": "so I think I'll stop here for tonight and if you have any comments or"
+    },
+    {
+      "start": 1824.25,
+      "end": 1845.52,
+      "text": "questions we can discuss. Anybody has any questions? The Buddha said whatever among"
+    },
+    {
+      "start": 1845.52,
+      "end": 1856.8,
+      "text": "teachers you have to compare it with the suttas and the vinaya so if you compare what among teachers"
+    },
+    {
+      "start": 1857.76,
+      "end": 1868.08,
+      "text": "is consistent with the suttas then you can accept his teachings but if it's not consistent with the"
+    },
+    {
+      "start": 1868.08,
+      "end": 1881.85,
+      "text": "suttas then you should not learn from him. So the criterion is always the dhamma. It is not"
+    },
+    {
+      "start": 1881.85,
+      "end": 1888.57,
+      "text": "the man himself, it is the dhamma. Whether the dhamma conforms to the suttas or not."
+    },
+    {
+      "start": 1890.41,
+      "end": 1901.95,
+      "text": "So if you are not familiar with the suttas you can't judge. You have no basis to judge if you"
+    },
+    {
+      "start": 1901.95,
+      "end": 1908.67,
+      "text": "are not familiar with the suttas. You must always have a foundation. If you want to build something"
+    },
+    {
+      "start": 1908.67,
+      "end": 1914.67,
+      "text": "you must have always a foundation. So in the same way you want to be able to judge a teacher you must"
+    },
+    {
+      "start": 1914.67,
+      "end": 1928.7,
+      "text": "have that foundation of the suttas to compare with. So if you don't have that foundation then it's"
+    },
+    {
+      "start": 1928.7,
+      "end": 1950.24,
+      "text": "you just have to trust your luck. Because a lot of people don't have that foundation to judge so"
+    },
+    {
+      "start": 1950.24,
+      "end": 1958.0,
+      "text": "they follow a teacher for many years. If they are lucky they follow a teacher for many years"
+    },
+    {
+      "start": 1958.0,
+      "end": 1963.76,
+      "text": "and they are not disappointed in the end but there are some people unfortunately they can spend many"
+    },
+    {
+      "start": 1963.76,
+      "end": 1972.08,
+      "text": "years following a teacher at the end of it then they become very disappointed."
+    }
+  ]
+}

@@ -1,0 +1,1190 @@
+{
+  "source": "faster-whisper",
+  "model": "tiny",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "en",
+  "duration": 1666.124625,
+  "segments": [
+    {
+      "start": 0.43,
+      "end": 8.99,
+      "text": "Then another Suta, three point, three point, five point, 44, the Buddha said, in three respects"
+    },
+    {
+      "start": 8.99,
+      "end": 17.87,
+      "text": "monks, a Tal is profitable, what three, when he who teaches Dhamma and he who listens and both"
+    },
+    {
+      "start": 17.87,
+      "end": 24.03,
+      "text": "alike are able to penetrate both the spirit and the letter thereof, that's the end of the"
+    },
+    {
+      "start": 24.03,
+      "end": 25.03,
+      "text": "Suta."
+    },
+    {
+      "start": 25.03,
+      "end": 32.03,
+      "text": "So, here the Buddha is saying a Tal, that means a Dhamma Tal would be very profitable."
+    },
+    {
+      "start": 32.03,
+      "end": 38.51,
+      "text": "If the teacher, the one who speaks the Dhamma understands the Dhamma and the one who listens"
+    },
+    {
+      "start": 38.51,
+      "end": 46.27,
+      "text": "is also able to understand and both are able to penetrate the spirit and the letter of"
+    },
+    {
+      "start": 46.27,
+      "end": 51.31,
+      "text": "the Dhamma and there would be very, very good."
+    },
+    {
+      "start": 51.31,
+      "end": 58.27,
+      "text": "Next Suta, a three point, five point, 45, the Buddha said, monks, these three things"
+    },
+    {
+      "start": 58.27,
+      "end": 67.07,
+      "text": "have been instructed by the wise and good, what three, first one is charity, second one, support"
+    },
+    {
+      "start": 67.07,
+      "end": 72.31,
+      "text": "of mother and father, third one, going forth, that means renouncing."
+    },
+    {
+      "start": 72.31,
+      "end": 77.82,
+      "text": "These are the three duties, that's the end of the Suta."
+    },
+    {
+      "start": 77.82,
+      "end": 86.82,
+      "text": "So, the Buddha is saying, why is people always at wise people to do these three things?"
+    },
+    {
+      "start": 86.82,
+      "end": 95.02,
+      "text": "The first one is to practice giving, giving means giving to those who need, who need, who"
+    },
+    {
+      "start": 95.02,
+      "end": 96.02,
+      "text": "are in need."
+    },
+    {
+      "start": 96.02,
+      "end": 103.22,
+      "text": "One thing I like to mention is that the Buddha says that if we do charity, when we give,"
+    },
+    {
+      "start": 103.22,
+      "end": 112.66,
+      "text": "we should not look for the merit, if we look for the merit, then there is a selfish attitude,"
+    },
+    {
+      "start": 112.66,
+      "end": 119.86,
+      "text": "then your merit will become much less and it is observed sometimes, you know, for example,"
+    },
+    {
+      "start": 119.86,
+      "end": 125.7,
+      "text": "people, they think, some lay people, they think, giving to a virtuous monk is very good."
+    },
+    {
+      "start": 125.7,
+      "end": 133.3,
+      "text": "So they like to go, I look for famous monks to give to, and sometimes famous monks don't"
+    },
+    {
+      "start": 133.3,
+      "end": 139.94,
+      "text": "need the data, the offerings because they have so much, they are overflowing with offerings."
+    },
+    {
+      "start": 139.94,
+      "end": 145.78,
+      "text": "Whereas sometimes I might be a young monk, a newly renounce monk, and I know in monk who"
+    },
+    {
+      "start": 145.78,
+      "end": 154.02,
+      "text": "needs support, and if you have the wisdom to go and offer where it is needed, and that"
+    },
+    {
+      "start": 154.1,
+      "end": 160.74,
+      "text": "would be even more meritorious because you don't have a selfish intention, you do data because it's"
+    },
+    {
+      "start": 160.74,
+      "end": 167.06,
+      "text": "good to do, you think that it is necessary to do, for example, to support the Sarsana, to support"
+    },
+    {
+      "start": 167.06,
+      "end": 178.34,
+      "text": "the Sangha, whoever, whichever monk is need, and you do. Sometimes we find that there are sometimes"
+    },
+    {
+      "start": 178.34,
+      "end": 186.66,
+      "text": "some temples, can be have too much offerings, you know, sometimes like in certain Buddhist countries"
+    },
+    {
+      "start": 186.66,
+      "end": 193.3,
+      "text": "like Thailand, and there are people who come in, it's even written some books, that perhaps in"
+    },
+    {
+      "start": 193.3,
+      "end": 199.46,
+      "text": "a certain area, there's a need for hospital, but people are not interested to build a hospital,"
+    },
+    {
+      "start": 199.46,
+      "end": 207.22,
+      "text": "it won't give the offerings to the temple, which sometimes shows, it's the degree for"
+    },
+    {
+      "start": 207.7,
+      "end": 214.02,
+      "text": "getting merit. The second one, support of mother and father, support of mother and father,"
+    },
+    {
+      "start": 214.02,
+      "end": 220.18,
+      "text": "it's not sending mother and father to all homes. Nowadays, we find a lot of people sending"
+    },
+    {
+      "start": 220.18,
+      "end": 230.42,
+      "text": "their old parents to all books home, support of mother and father means to look after them at home,"
+    },
+    {
+      "start": 230.42,
+      "end": 235.86,
+      "text": "because I'm sure, every one of us, when we are old, we don't like our children to send us to the"
+    },
+    {
+      "start": 235.94,
+      "end": 243.46,
+      "text": "old books home. We like to at least be around the children and the grandchildren and die at home."
+    },
+    {
+      "start": 243.46,
+      "end": 249.54,
+      "text": "So, whatever you like for yourself, I'm sure other people have the same idea, so it is"
+    },
+    {
+      "start": 250.74,
+      "end": 261.78,
+      "text": "have to remember the love and the care that we owe to our parents. The third one is about"
+    },
+    {
+      "start": 261.86,
+      "end": 270.5,
+      "text": "going forth, going forth is also advised by wise people, if you have done your family duties,"
+    },
+    {
+      "start": 272.1,
+      "end": 279.14,
+      "text": "it is good to go forth, it is a kind of Indian tradition, you know, of Indians, even if they"
+    },
+    {
+      "start": 279.14,
+      "end": 284.26,
+      "text": "don't go forth, the other certain age, they practice at home, they have a keep a room to themselves,"
+    },
+    {
+      "start": 284.26,
+      "end": 297.06,
+      "text": "where they meditate, where they see their prayers, and so these are the three things, which are quite good."
+    },
+    {
+      "start": 298.26,
+      "end": 303.06,
+      "text": "Now, the next two types, three point five point forty seven, the Buddha said, monks,"
+    },
+    {
+      "start": 303.06,
+      "end": 309.46,
+      "text": "there are these three marks of that which is conditioned, some kata, the parivati, some kata,"
+    },
+    {
+      "start": 309.54,
+      "end": 317.06,
+      "text": "conditioned. What? 3. It's birth is a parent, it's passing away is a parent. It's changed ability"
+    },
+    {
+      "start": 317.06,
+      "end": 323.3,
+      "text": "while it persises its a parent. These are the three marks of the conditioned, monks, there are these"
+    },
+    {
+      "start": 323.3,
+      "end": 330.02,
+      "text": "three marks of the uncondition. What? 3? Its birth is not a parent, it's passing away,"
+    },
+    {
+      "start": 330.02,
+      "end": 335.46,
+      "text": "is not a parent, it's changed ability while it persises, it's not a parent. These are the three"
+    },
+    {
+      "start": 335.46,
+      "end": 341.7,
+      "text": "mouse of the uncondition. So in this uta, we are taller than anything that is"
+    },
+    {
+      "start": 341.7,
+      "end": 347.46,
+      "text": "conditioned has these three characteristics. It has a bird, it has a passing"
+    },
+    {
+      "start": 347.46,
+      "end": 362.06,
+      "text": "away or death, and it changes while it is still the next uta is 3.6.56. A certain"
+    },
+    {
+      "start": 362.06,
+      "end": 368.58,
+      "text": "Brahmin upgrade, well, came to see the exalted one, then paid respect, etc. As he"
+    },
+    {
+      "start": 368.58,
+      "end": 374.42,
+      "text": "said, to one side, he said this to the exalted one. Must go tamar. I have heard the"
+    },
+    {
+      "start": 374.42,
+      "end": 381.62,
+      "text": "saying of Brahmins of all, ordained days, men aged far gone in years, themselves the"
+    },
+    {
+      "start": 381.62,
+      "end": 389.14,
+      "text": "teachers of teachers. That once upon a time, this world was intruded with people. One might"
+    },
+    {
+      "start": 389.14,
+      "end": 395.46,
+      "text": "think it to be the waveless deep. That religious suburb and royal cities were close enough"
+    },
+    {
+      "start": 395.46,
+      "end": 401.7,
+      "text": "for a cockerel to walk from one to another. Pray, must go tamar. What is the reason? What is the"
+    },
+    {
+      "start": 401.7,
+      "end": 407.78,
+      "text": "cause of the apparent loss and decrease of human beings? How is it that religious are no longer"
+    },
+    {
+      "start": 407.78,
+      "end": 415.14,
+      "text": "villages, suburbs, no longer suburbs, towns, no longer towns, and districts are depopulated"
+    },
+    {
+      "start": 415.14,
+      "end": 422.9,
+      "text": "then the putary plight? Just now Brahmin, people are blaze with unlawful lusts, overwhelmed by"
+    },
+    {
+      "start": 422.98,
+      "end": 430.82,
+      "text": "depraved longings, obsessed by wrong doctrines, thus ablaze overwhelmed and obsessed. They see"
+    },
+    {
+      "start": 430.82,
+      "end": 438.26,
+      "text": "sharp knives and take each other's lives, thus many men come by the end. That Brahmin is the reason"
+    },
+    {
+      "start": 438.26,
+      "end": 445.14,
+      "text": "why these things are so. Again, Brahmin, since folk are ablaze with unlawful lusts, overwhelmed"
+    },
+    {
+      "start": 445.14,
+      "end": 452.74,
+      "text": "by depraved longings, obsessed by wrong doctrines, on such as these the sky raised not down steadily."
+    },
+    {
+      "start": 453.14,
+      "end": 458.82,
+      "text": "It is hard to get a meal. The crops are abad, afflicted with new dew and grown to mere"
+    },
+    {
+      "start": 458.82,
+      "end": 467.38,
+      "text": "stubs. Accordingly, many come to the end. That Brahmin is the reason. Again, Brahmin, since folk are"
+    },
+    {
+      "start": 467.38,
+      "end": 474.1,
+      "text": "ablaze with unlawful lusts, etc., obsessed by wrong doctrines, on such misfrians, the yarkas,"
+    },
+    {
+      "start": 474.1,
+      "end": 481.94,
+      "text": "blues, non-human monsters, thereby many come by the end. This Brahmin is the reason. This is the cause"
+    },
+    {
+      "start": 482.02,
+      "end": 487.78,
+      "text": "of the apparent loss and decrease of human beings. That is why villages are no longer villages,"
+    },
+    {
+      "start": 487.78,
+      "end": 492.82,
+      "text": "suburbs, no longer suburbs, down no longer towns and districts are depopulated."
+    },
+    {
+      "start": 493.38,
+      "end": 497.54,
+      "text": "And the Brahmin said, excellent master-goatama, excellent master-goatama,"
+    },
+    {
+      "start": 497.54,
+      "end": 503.78,
+      "text": "made the worthy-goatama accept me as a lay-follower from this day for as long as life lasts,"
+    },
+    {
+      "start": 503.78,
+      "end": 510.82,
+      "text": "as one who has gone to him for refuge. And this is an interesting suitah. It tells us now that"
+    },
+    {
+      "start": 511.46,
+      "end": 520.98,
+      "text": "long time ago the world was populated with so many people that cities are near, so near each other,"
+    },
+    {
+      "start": 520.98,
+      "end": 528.02,
+      "text": "that a cockroach could walk from one to another city. And the place is overflowing with people,"
+    },
+    {
+      "start": 528.02,
+      "end": 535.06,
+      "text": "you know? But nowadays this must less. And the reason for this, according to the Buddha,"
+    },
+    {
+      "start": 535.06,
+      "end": 540.66,
+      "text": "as a few reason, the first one is because of greed, hatred and delusion, people go to war."
+    },
+    {
+      "start": 540.66,
+      "end": 547.14,
+      "text": "And Qilis are there. And then the second reason is because of greed, hatred and delusion,"
+    },
+    {
+      "start": 547.14,
+      "end": 555.46,
+      "text": "and falling wrong doctrines, the devas, the notice, you may remember, there's now the sutah,"
+    },
+    {
+      "start": 555.46,
+      "end": 563.14,
+      "text": "that about four times a month, this devas come and observe us. And because they see that"
+    },
+    {
+      "start": 563.14,
+      "end": 570.02,
+      "text": "the greed, hatred and delusion of human beings are too great. At this top, the range from coming down,"
+    },
+    {
+      "start": 571.62,
+      "end": 579.06,
+      "text": "it seems that reins are also controlled by them. So because the reins don't come at the right time,"
+    },
+    {
+      "start": 579.86,
+      "end": 587.78,
+      "text": "the crops don't grow well, so people starve to death. And the third one is when greed hatred"
+    },
+    {
+      "start": 587.78,
+      "end": 595.06,
+      "text": "and delusion is too great among human beings. Then these higher devas, they let loose very fears,"
+    },
+    {
+      "start": 595.14,
+      "end": 603.46,
+      "text": "the occurs, and these fears, the occurs can come and kill human beings. And you know sometimes"
+    },
+    {
+      "start": 603.46,
+      "end": 608.58,
+      "text": "that some people are possessed by spirits, and that these are some of the spirits probably."
+    },
+    {
+      "start": 610.7,
+      "end": 621.02,
+      "text": "So why people can have too much greed, hatred and delusion, partly because they follow wrong doctrines,"
+    },
+    {
+      "start": 621.9,
+      "end": 634.54,
+      "text": "and also the leaders have a lot to do with it. It's leaders of whether they are"
+    },
+    {
+      "start": 634.54,
+      "end": 644.14,
+      "text": "male persons or monks also have a part to play. If leaders are corrupt, then it is very easy for"
+    },
+    {
+      "start": 645.42,
+      "end": 651.5,
+      "text": "followers also to be corrupt, but if they have good leaders, then people will also imitate."
+    },
+    {
+      "start": 654.39,
+      "end": 657.99,
+      "text": "And the next two ties, three points, six points, fifty-seven."
+    },
+    {
+      "start": 659.19,
+      "end": 665.83,
+      "text": "Vachagota, the wonderer, came to see the exalted one and paid respect, etc. Then as he said to"
+    },
+    {
+      "start": 665.83,
+      "end": 671.99,
+      "text": "one side, Vachagota, the wonderer said this to the exalted one. Have heard it said, Master Gautama,"
+    },
+    {
+      "start": 671.99,
+      "end": 677.67,
+      "text": "that Gautama, the recluse, speaks to us. Arms should be given to me, not to others."
+    },
+    {
+      "start": 678.23,
+      "end": 684.31,
+      "text": "Two my followers, not to another's followers. Arms given to me are of great fruit,"
+    },
+    {
+      "start": 684.31,
+      "end": 689.91,
+      "text": "not so on those given to others. Arms given to my followers are of great profit,"
+    },
+    {
+      "start": 689.91,
+      "end": 697.27,
+      "text": "not arms given to another's followers. Now Master Gautama, do they who say these things correctly"
+    },
+    {
+      "start": 697.27,
+      "end": 703.59,
+      "text": "repeat the views of the worthy Gautama without misrepresenting him by uttering and untruth?"
+    },
+    {
+      "start": 704.15,
+      "end": 710.23,
+      "text": "Do they expound their views in accordance with his teaching so that one who is of his doctrine"
+    },
+    {
+      "start": 710.23,
+      "end": 716.87,
+      "text": "of his way of thinking may not give grounds for reproach in stating it? Indeed, we are anxious not"
+    },
+    {
+      "start": 716.87,
+      "end": 724.55,
+      "text": "to misrepresent the worthy Gautama, and the putary plight. Those who say so, Vachag, are not of my way"
+    },
+    {
+      "start": 724.55,
+      "end": 732.47,
+      "text": "of thinking. Moreover, such misrepresent me by stating what is not true, but a falsehood. Indeed,"
+    },
+    {
+      "start": 732.55,
+      "end": 738.55,
+      "text": "Vachag, who so prevents another from giving arms, obstructs him in three ways,"
+    },
+    {
+      "start": 738.55,
+      "end": 745.03,
+      "text": "robs him of three things? What three? First, he obstructs the giver in acquiring merit."
+    },
+    {
+      "start": 745.59,
+      "end": 752.23,
+      "text": "Second, he prevents the receivers from getting a given. The, his own self is already ruined,"
+    },
+    {
+      "start": 752.23,
+      "end": 759.19,
+      "text": "utterly ruined. Who so prevents another from giving arms, Vachag, obstructs him in three ways,"
+    },
+    {
+      "start": 759.19,
+      "end": 767.83,
+      "text": "robs him of three things? But this is what I really do declare, Vachag, if one should throw away"
+    },
+    {
+      "start": 767.83,
+      "end": 775.51,
+      "text": "spot, spot scarring, or the rinsings of cups into a pool, or says pit, that means a pit of"
+    },
+    {
+      "start": 775.51,
+      "end": 781.91,
+      "text": "experiment. Even with the idea of feeding the creatures that live there in, I declare it would be"
+    },
+    {
+      "start": 781.91,
+      "end": 789.11,
+      "text": "a source of merit to him to say nothing of his feeding beings that are human. Nevertheless, I say"
+    },
+    {
+      "start": 789.19,
+      "end": 795.99,
+      "text": "Vachag, that a given in the case of the virtuous is of great truth, not those given in the"
+    },
+    {
+      "start": 795.99,
+      "end": 802.79,
+      "text": "case of the wicked. By virtuous, I mean one who has abandoned five qualities and possesses five"
+    },
+    {
+      "start": 802.79,
+      "end": 808.79,
+      "text": "qualities. What are the five qualities he has abandoned, sensual desire is abandoned,"
+    },
+    {
+      "start": 808.79,
+      "end": 816.23,
+      "text": "malevolent, sloth and topper, excitement and glory, doubt and wavering are abandoned. These are"
+    },
+    {
+      "start": 816.23,
+      "end": 822.55,
+      "text": "the five and of what five qualities is he possessed. He possesses the constituents of morality,"
+    },
+    {
+      "start": 823.27,
+      "end": 830.87,
+      "text": "possessed by the adept, the constituents of concentration, wisdom, liberation, knowledge and vision"
+    },
+    {
+      "start": 830.87,
+      "end": 838.15,
+      "text": "of liberation. He has these five qualities thus, where five qualities are abandoned and five possessed,"
+    },
+    {
+      "start": 838.15,
+      "end": 846.63,
+      "text": "a gift is of great truth, I declare. This is interesting subtah, because here, somebody is asking"
+    },
+    {
+      "start": 846.63,
+      "end": 854.39,
+      "text": "the Buddha whether he actually said that offerings should be made to him and his followers, not to"
+    },
+    {
+      "start": 855.19,
+      "end": 862.07,
+      "text": "at the other external sac followers, and the Buddha denied it. The Buddha said, he never said that"
+    },
+    {
+      "start": 862.87,
+      "end": 873.27,
+      "text": "and I said, anybody says such a thing, then in three ways he has done great wrong and the Buddha also"
+    },
+    {
+      "start": 873.27,
+      "end": 881.83,
+      "text": "says that even the crumbs on the left over of food, even you throw into a pool, or a bit of"
+    },
+    {
+      "start": 881.83,
+      "end": 887.75,
+      "text": "excitement with the idea of feeding the creatures there, even then also you get some merit not to"
+    },
+    {
+      "start": 887.75,
+      "end": 895.11,
+      "text": "talk about feeding human beings, and then lastly the Buddha says that if you give to an harahan,"
+    },
+    {
+      "start": 895.75,
+      "end": 901.83,
+      "text": "one who has abandoned the five hindrances and possessed of five other qualities of the harahan,"
+    },
+    {
+      "start": 902.87,
+      "end": 916.36,
+      "text": "then you would have great merit. Now one thing I like to remark here is that one of the wrong"
+    },
+    {
+      "start": 916.44,
+      "end": 923.4,
+      "text": "livelihoods for one of the wrong ways of livelihoods for a monk is to be little another monk personally"
+    },
+    {
+      "start": 924.2,
+      "end": 932.04,
+      "text": "to talk bad and about another monk and discourage lay people from making offerings to another monk."
+    },
+    {
+      "start": 932.04,
+      "end": 938.84,
+      "text": "That is very bad, because here you can see that the Buddha is saying even those external sac people,"
+    },
+    {
+      "start": 938.84,
+      "end": 947.32,
+      "text": "even then also he does not see that you should not make offerings to them. Even external"
+    },
+    {
+      "start": 947.32,
+      "end": 954.44,
+      "text": "sac people even with wrong views and the Buddha, in fact, it is one sutra where the followers"
+    },
+    {
+      "start": 954.44,
+      "end": 961.88,
+      "text": "of a gene sac had it. We can't ask after the left and the cantas and came to follow the Buddha,"
+    },
+    {
+      "start": 961.96,
+      "end": 970.92,
+      "text": "the Buddha still advised them to continue giving to those negantas, those are genes, monks and so"
+    },
+    {
+      "start": 972.52,
+      "end": 980.36,
+      "text": "so you can see that anyone practicing the spiritual path, we should not be little others,"
+    },
+    {
+      "start": 981.24,
+      "end": 987.72,
+      "text": "even though they are, I mean not to the extent of asking people not to make offerings to these"
+    },
+    {
+      "start": 987.72,
+      "end": 997.32,
+      "text": "other people. The 3.6.58, now the cantas, the Brahmin came to visit the exalted one,"
+    },
+    {
+      "start": 997.32,
+      "end": 1006.04,
+      "text": "on coming to him he greeted him, Peter's back, etc. Then he said to one side and the Brahmin sang"
+    },
+    {
+      "start": 1006.04,
+      "end": 1013.32,
+      "text": "the praises of those Brahmin's who possess the threefold knowledge which is in Pali's TV ja."
+    },
+    {
+      "start": 1013.32,
+      "end": 1020.36,
+      "text": "Then the exalted one said the Buddha said, yes Brahmin, they have the threefold knowledge,"
+    },
+    {
+      "start": 1020.36,
+      "end": 1026.44,
+      "text": "those Brahmin's, they have it as you say. But tell me how Brahmin's described Brahmin's who have"
+    },
+    {
+      "start": 1026.44,
+      "end": 1033.08,
+      "text": "the threefold knowledge. And he can't ask it, in this case Master Gautama, a Brahmin is well-born"
+    },
+    {
+      "start": 1033.08,
+      "end": 1038.52,
+      "text": "on both sides of pure descent from mother and father as far back as seven generations,"
+    },
+    {
+      "start": 1039.16,
+      "end": 1047.4,
+      "text": "unsmurched without reproach in respect of birth. Number two, one given to study one who knows"
+    },
+    {
+      "start": 1047.4,
+      "end": 1053.08,
+      "text": "the mantra by heart, a master in the three Vedas that indexes together with the ritual,"
+    },
+    {
+      "start": 1053.08,
+      "end": 1058.76,
+      "text": "the treatise on chronology and the legendary saints, he is a man learned in the idioms and the"
+    },
+    {
+      "start": 1058.76,
+      "end": 1065.16,
+      "text": "grammar and the third, one perfect in the science of world speculation and the science of the great"
+    },
+    {
+      "start": 1065.24,
+      "end": 1070.76,
+      "text": "being. That Master Gautama is how the Brahmin's described a Brahmin who has the threefold knowledge."
+    },
+    {
+      "start": 1071.64,
+      "end": 1082.44,
+      "text": "I'll stop here just to recapitulate the Buddha. The Brahmin said that three qualities which a Brahmin"
+    },
+    {
+      "start": 1082.44,
+      "end": 1092.52,
+      "text": "would be respected for. One first one is a pure Brahmin for seven generations and for seven generations"
+    },
+    {
+      "start": 1092.52,
+      "end": 1099.32,
+      "text": "at least, at least, he is born on the mother side and father side now from pure Brahmin's."
+    },
+    {
+      "start": 1099.32,
+      "end": 1110.28,
+      "text": "Second one, he is very learned in the mantra in the Vedas, etc. Third one, he is knowledgeable on"
+    },
+    {
+      "start": 1110.28,
+      "end": 1114.84,
+      "text": "world speculation, the science of world speculations and the science of the great being."
+    },
+    {
+      "start": 1116.12,
+      "end": 1121.48,
+      "text": "Then the Buddha said, well Brahmin, this description of a Brahmin who has the threefold knowledge"
+    },
+    {
+      "start": 1121.48,
+      "end": 1126.04,
+      "text": "is one thing. The description of him who has the threefold knowledge in the discipline of the"
+    },
+    {
+      "start": 1126.04,
+      "end": 1133.08,
+      "text": "Aryan is quite another thing. Then he can ask, but how Master Gautama is one the possessor of the threefold"
+    },
+    {
+      "start": 1133.08,
+      "end": 1138.52,
+      "text": "knowledge in the discipline of the Aryan? Well for me, if the word he gotama would teach me according to"
+    },
+    {
+      "start": 1138.52,
+      "end": 1144.52,
+      "text": "one method, he is so possessed and Buddha said, then Brahmin do you listen, apply your mind"
+    },
+    {
+      "start": 1144.52,
+      "end": 1150.44,
+      "text": "attentively, I will speak. Very well Master replied to Kana the Brahmin to the exalted one and the"
+    },
+    {
+      "start": 1150.52,
+      "end": 1156.84,
+      "text": "exalted one said, during among a lieu from sensuality, a lieu from evil states enters on the"
+    },
+    {
+      "start": 1156.84,
+      "end": 1162.6,
+      "text": "first genre, which is accompanied by thought, directed and sustained born of solitude, delightful"
+    },
+    {
+      "start": 1162.6,
+      "end": 1168.68,
+      "text": "and pleasurable, abides therein. Then by the calming down of thought, directed and sustained,"
+    },
+    {
+      "start": 1168.68,
+      "end": 1174.04,
+      "text": "he enters on that inward calm that one pointlessness of mind, apart from thought, directed and"
+    },
+    {
+      "start": 1174.04,
+      "end": 1180.12,
+      "text": "sustained, that is born of concentration, delightful and pleasurable, which is the second genre"
+    },
+    {
+      "start": 1180.12,
+      "end": 1184.52,
+      "text": "and abides therein. Then by the fading out of delight, he abides,"
+    },
+    {
+      "start": 1185.88,
+      "end": 1191.72,
+      "text": "equanimous, mindful and composed, and experiences pleasures through the body. Having entered"
+    },
+    {
+      "start": 1191.72,
+      "end": 1198.04,
+      "text": "on the third genre, which the Aryans described in these terms, he is equanimous and mindful,"
+    },
+    {
+      "start": 1198.04,
+      "end": 1203.88,
+      "text": "he who is equanimous and mindful, dwells happily, he abides therein. Then by the abandoning of"
+    },
+    {
+      "start": 1203.96,
+      "end": 1209.08,
+      "text": "pleasure, by the abandoning of this comfort, by the ending of the happiness and unhappiness that"
+    },
+    {
+      "start": 1209.08,
+      "end": 1214.52,
+      "text": "he had before entering on that state, which is neither pleasant nor painful, that utter purity"
+    },
+    {
+      "start": 1214.52,
+      "end": 1225.48,
+      "text": "of mindfulness reached by equanimity, which is the both genre, he abides therein. Just stop here"
+    },
+    {
+      "start": 1225.56,
+      "end": 1233.16,
+      "text": "for a while to comment on these genres, these genres are states of deep tranquility, where the"
+    },
+    {
+      "start": 1233.16,
+      "end": 1240.04,
+      "text": "mind is very peaceful, becomes one-pointed, and some people, they don't understand the genres,"
+    },
+    {
+      "start": 1240.04,
+      "end": 1245.56,
+      "text": "they belong to the genres, and they say that when you are in genre, you don't have any mindfulness,"
+    },
+    {
+      "start": 1245.56,
+      "end": 1252.28,
+      "text": "but we notice here, in the fourth genre, the Buddha says that there is the utter purity of mindfulness,"
+    },
+    {
+      "start": 1252.84,
+      "end": 1262.44,
+      "text": "the utter purity, I suppose, is to the complete purity of mindfulness, so you definitely cannot"
+    },
+    {
+      "start": 1262.44,
+      "end": 1271.96,
+      "text": "say that a person in genre is not mindful, he is definitely mindful. In fact, the more concentrated"
+    },
+    {
+      "start": 1272.04,
+      "end": 1281.64,
+      "text": "that person is, the stronger, his mindfulness is, but he is directed on one thing,"
+    },
+    {
+      "start": 1284.12,
+      "end": 1292.28,
+      "text": "so there's this something I like to mention, then the Buddha continued, he then with mind,"
+    },
+    {
+      "start": 1292.28,
+      "end": 1298.12,
+      "text": "thus composed, made pure and translucent, stainless, and with his gains vanished away, made"
+    },
+    {
+      "start": 1298.12,
+      "end": 1304.6,
+      "text": "flying and workable, fixed and unperturbed, applies and bends down his mind, acquiring knowledge of"
+    },
+    {
+      "start": 1304.6,
+      "end": 1311.32,
+      "text": "his former birds. In our births, ways he recalls his former birds, one bird, two birds, three, four,"
+    },
+    {
+      "start": 1311.32,
+      "end": 1316.44,
+      "text": "five, ten, twenty, thirty, four, two, fifteen, hundred, a thousand, a hundred, a thousand birds,"
+    },
+    {
+      "start": 1316.44,
+      "end": 1324.04,
+      "text": "the various destructions of aions, full cycles, the various renewal of aions, both the destruction"
+    },
+    {
+      "start": 1324.04,
+      "end": 1330.2,
+      "text": "and renewal of aions, thus, I lived there, was named thus, was of such a plan of such a"
+    },
+    {
+      "start": 1330.2,
+      "end": 1335.48,
+      "text": "cause, was thus supported, had such and such pleasant and painful experiences, had such"
+    },
+    {
+      "start": 1335.48,
+      "end": 1342.12,
+      "text": "length of days, disappeared dense and arose elsewhere, there too I lived, was named, so and so,"
+    },
+    {
+      "start": 1342.12,
+      "end": 1347.48,
+      "text": "of such a plan of such a cause, et cetera, thus he calls to mind in all that specific details,"
+    },
+    {
+      "start": 1347.48,
+      "end": 1353.48,
+      "text": "in all their characteristics, in many various ways, his previous states of existence, this is the"
+    },
+    {
+      "start": 1353.48,
+      "end": 1359.24,
+      "text": "first knowledge he attained, ignorance has vanished, knowledge arises, gone is the darkness,"
+    },
+    {
+      "start": 1359.24,
+      "end": 1363.96,
+      "text": "a reason is the light, as it does for one who abides earnest, ardent and composed."
+    },
+    {
+      "start": 1365.56,
+      "end": 1371.48,
+      "text": "He then, with mind thus composed, made pure and translucent, bends down his mind to acquire knowledge"
+    },
+    {
+      "start": 1371.48,
+      "end": 1377.32,
+      "text": "of the rise of the fall and rise of beings from one existence to another, the deva sight,"
+    },
+    {
+      "start": 1377.32,
+      "end": 1383.8,
+      "text": "purified, and surpassing that of men, he behold beings, diseaseing and rising up again,"
+    },
+    {
+      "start": 1383.8,
+      "end": 1389.72,
+      "text": "beings both mean and excellent, fair and far, gone to a happy state, gone to a warful state,"
+    },
+    {
+      "start": 1389.72,
+      "end": 1396.52,
+      "text": "according to their deeds, so to say, Alas, these were these given to the practice of evil deeds,"
+    },
+    {
+      "start": 1396.52,
+      "end": 1404.2,
+      "text": "of evil words, of evil thoughts, scoffing at the audience, of purverted views and reaping the"
+    },
+    {
+      "start": 1404.2,
+      "end": 1408.84,
+      "text": "fruits of their purverted views, these beings on the disillusion of body, after death,"
+    },
+    {
+      "start": 1408.84,
+      "end": 1417.08,
+      "text": "arose in the ways the warful planes, the downfall in hell, for he might think, ah,"
+    },
+    {
+      "start": 1417.08,
+      "end": 1420.92,
+      "text": "these were these given to the practice of good deeds, of good words, of good thoughts,"
+    },
+    {
+      "start": 1420.92,
+      "end": 1426.2,
+      "text": "not scoffing at the audience, but of sound views and reaping the fruits of their sound views,"
+    },
+    {
+      "start": 1426.2,
+      "end": 1430.84,
+      "text": "these beings on the disillusion of the body, after death, arose again in the happy lot in the"
+    },
+    {
+      "start": 1430.84,
+      "end": 1437.16,
+      "text": "heaven world. Thus with deva sight, purified and surpassing that of men, he behold beings,"
+    },
+    {
+      "start": 1437.16,
+      "end": 1442.36,
+      "text": "diseaseing and rising up again, this is the second knowledge he attained, ignorance has vanished,"
+    },
+    {
+      "start": 1442.36,
+      "end": 1447.56,
+      "text": "knowledge arises, gone is the darkness, the reason is the light as it does for one who abides"
+    },
+    {
+      "start": 1447.56,
+      "end": 1453.8,
+      "text": "earnest, ardent and composed. He then with mind thus composed made pure and translucent, etc,"
+    },
+    {
+      "start": 1453.8,
+      "end": 1459.56,
+      "text": "bends down his mind to acquire knowledge of the destruction of the Arsavas, he recognizes as it"
+    },
+    {
+      "start": 1459.56,
+      "end": 1465.32,
+      "text": "really is the truth and this is Dukha, this is the arising of Dukha, this is the ending of Dukha,"
+    },
+    {
+      "start": 1465.32,
+      "end": 1473.88,
+      "text": "this is the practice of that leads to the ending of Dukha. Here he recognizes the practice"
+    },
+    {
+      "start": 1473.88,
+      "end": 1479.24,
+      "text": "that leads to the destruction of the Arsavas. In him thus knowing thus seeing, this mind is released"
+    },
+    {
+      "start": 1479.24,
+      "end": 1483.88,
+      "text": "from the Arsava of sensuality, this mind is released from the Arsava of becoming from the"
+    },
+    {
+      "start": 1483.88,
+      "end": 1489.48,
+      "text": "Arsava of ignorance, by release comes the knowledge that he is released so that he understands,"
+    },
+    {
+      "start": 1489.48,
+      "end": 1494.68,
+      "text": "destroyed as rebirth, lived as the holy light, done as what I had to do, there is no more"
+    },
+    {
+      "start": 1495.56,
+      "end": 1501.0,
+      "text": "coming to any state of being, this is the third knowledge he attained, ignorance has vanished,"
+    },
+    {
+      "start": 1501.0,
+      "end": 1506.28,
+      "text": "knowledge arises, gone is the darkness, a reason is the light, as it does for one who abides earnest,"
+    },
+    {
+      "start": 1506.28,
+      "end": 1512.84,
+      "text": "ardent and composed. That Brahmin is how one possesses the three full knowledge in the discipline"
+    },
+    {
+      "start": 1512.92,
+      "end": 1519.4,
+      "text": "of the Arin and the Brahmin said, indeed master Gautama, this one is quite different from the other,"
+    },
+    {
+      "start": 1519.4,
+      "end": 1524.76,
+      "text": "why master Gautama, he who has the three full knowledge of the Brahmin's is not worth"
+    },
+    {
+      "start": 1524.76,
+      "end": 1531.24,
+      "text": "one sixteen part of him who has it in the discipline of the Arin, excellent it is master Gautama,"
+    },
+    {
+      "start": 1531.24,
+      "end": 1537.32,
+      "text": "excellent, made a worthy Gautama, except me as a lay follower from this time for so long as life"
+    },
+    {
+      "start": 1537.4,
+      "end": 1545.0,
+      "text": "lasts as one who has taken refuge in him. So in this Sutta, the Buddha is talking about the"
+    },
+    {
+      "start": 1545.0,
+      "end": 1554.36,
+      "text": "three full knowledge that he himself attained, when he became a Buddha, we find in the Sutta,"
+    },
+    {
+      "start": 1554.36,
+      "end": 1561.56,
+      "text": "then when the Buddha was enlightened, he attained this three full knowledge, but it is mentioned in the"
+    },
+    {
+      "start": 1561.64,
+      "end": 1567.88,
+      "text": "Sutta that some of his disciples attained the six full knowledge, so it appears like at first the"
+    },
+    {
+      "start": 1567.88,
+      "end": 1572.28,
+      "text": "Buddha attained the three full knowledge and later perhaps he developed another three,"
+    },
+    {
+      "start": 1572.28,
+      "end": 1577.64,
+      "text": "that's why later also he had the six full knowledge, but he described himself as a person"
+    },
+    {
+      "start": 1577.64,
+      "end": 1585.32,
+      "text": "having three full knowledge, which refers to the time when he was enlightened. And just now the last"
+    },
+    {
+      "start": 1585.4,
+      "end": 1590.76,
+      "text": "part is talking about the destruction of the Arsabas. So this three full knowledge, the first one"
+    },
+    {
+      "start": 1590.76,
+      "end": 1600.2,
+      "text": "is that he recalls the past lives. At the second one, he can see living beings being born and"
+    },
+    {
+      "start": 1600.2,
+      "end": 1605.8,
+      "text": "reborn according to karma, so understands the working of karma. And the third one, he"
+    },
+    {
+      "start": 1608.2,
+      "end": 1614.12,
+      "text": "contemplates the poor Arin fruits, the full noble fruits, and from there, it is destruction of the"
+    },
+    {
+      "start": 1614.2,
+      "end": 1619.56,
+      "text": "Arsabas and became an Arahan, some are some Buddha. What is this Arsabas? Arsabas is this"
+    },
+    {
+      "start": 1621.16,
+      "end": 1627.08,
+      "text": "probably translated as uncontrolled mental outflows. That means the running of the normal"
+    },
+    {
+      "start": 1627.08,
+      "end": 1635.08,
+      "text": "six consciousness, when the six consciousness flows, then the world arises, because the Buddha said"
+    },
+    {
+      "start": 1635.08,
+      "end": 1640.84,
+      "text": "that the whole world arises dependent on consciousness. That means the normal six full consciousness."
+    },
+    {
+      "start": 1640.92,
+      "end": 1648.44,
+      "text": "When the six full consciousness arises, the world arises and with it all the Dukka. So to get"
+    },
+    {
+      "start": 1648.44,
+      "end": 1657.88,
+      "text": "out of Samsara, we have to destroy the Arsabas, so that these six consciousness stops working"
+    },
+    {
+      "start": 1659.24,
+      "end": 1662.6,
+      "text": "and when the consciousness stops working, then Samsara will end."
+    }
+  ]
+}

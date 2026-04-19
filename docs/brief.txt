@@ -1,0 +1,611 @@
+Here’s a full professional project brief for the **DAMA app**.
+
+---
+
+# DAMA App — Project Brief
+
+## Project Name
+
+**DAMA**
+**Expanded form:** *Dhamma Alignment & Verification Architecture*
+
+## One-line Summary
+
+DAMA is an evidence-grounded AI system for Buddhist learning and guidance that answers only from verified canonical sources and trusted commentary, with full traceability, chain visibility, and minimal distortion.
+
+## Core Idea
+
+Most AI spiritual assistants are fluent but unreliable. They paraphrase too freely, mix traditions, flatten nuance, and often generate “wisdom-like” text that sounds right without being textually grounded.
+
+DAMA is designed to solve that.
+
+Instead of treating Dhamma as just content inside a chatbot, DAMA treats Dhamma as the **governing architecture** of the system itself. The canon is not decoration, not extra context, and not optional reference material. It is the fixed source of truth. The system retrieves, verifies, and responds from that source first, while commentary is used only in a controlled and auditable way.
+
+---
+
+# 1. Problem Statement
+
+## Current problem in AI spiritual tools
+
+Existing AI tools in this space usually have these weaknesses:
+
+* They hallucinate or over-generalize.
+* They merge canonical teaching with modern self-help language.
+* They give answers without showing where the answer came from.
+* They cannot distinguish between scripture, commentary, and generated explanation.
+* They are optimized for smoothness, not fidelity.
+* They do not teach progressively or structurally.
+
+For a domain like Dhamma, this is a serious issue. Distortion is not a minor bug. It breaks the point of the teaching.
+
+## Why this matters
+
+Dhamma is a preservation-sensitive domain. A system that speaks about it casually can mislead users while sounding confident. That creates spiritual, educational, and ethical risk.
+
+DAMA exists to build an AI system where:
+
+* truth is grounded in source,
+* answers are inspectable,
+* commentary is clearly separated,
+* and preservation is not sacrificed for convenience.
+
+---
+
+# 2. Vision
+
+## Long-term vision
+
+Build an AI architecture where **Dhamma becomes the structure of intelligence itself**, not merely the content being queried.
+
+That means:
+
+* no distortion,
+* no freelancing beyond source,
+* no hidden mixing of layers,
+* and no answer without evidence.
+
+The long-term goal is a model/system design where canonical truth acts as the dominant internal reference frame.
+
+## Practical vision
+
+Create the most trustworthy Dhamma AI assistant for:
+
+* learners,
+* serious practitioners,
+* scholars,
+* monasteries,
+* preservation projects,
+* and future educational institutions.
+
+---
+
+# 3. Product Goal
+
+DAMA should help a user ask a question like:
+
+* “What does the canon say about sloth and torpor?”
+* “What are the seven powers?”
+* “Show me related chains across the Anguttara Nikaya.”
+* “What is the difference between the sutta and the teacher’s explanation?”
+
+And instead of generating a loose answer, the system should return:
+
+1. the relevant canonical passage,
+2. the matched transcript segment,
+3. the teacher commentary,
+4. the chain or doctrinal structure involved,
+5. and a final grounded answer assembled from those sources.
+
+---
+
+# 4. Core Product Principles
+
+## 1. Canon is fixed
+
+The canon is non-negotiable. It is the highest reference layer.
+
+## 2. Evidence before generation
+
+Every answer should be supported by source text, not model confidence.
+
+## 3. Separation of layers
+
+The system must clearly distinguish:
+
+* canonical text,
+* commentary,
+* metadata,
+* and generated explanation.
+
+## 4. Traceability
+
+Every answer should be auditable. The user should be able to inspect how the answer was formed.
+
+## 5. Minimal distortion
+
+Modern explanation is allowed only if it converges back to the source and does not alter meaning.
+
+## 6. Structured teaching
+
+The system should not only answer questions but also help users move through Dhamma in a gradual and structured way.
+
+---
+
+# 5. Target Users
+
+## Primary users
+
+* Serious Buddhist learners
+* Practitioners seeking reliable reference
+* Students of the Nikayas
+* People wanting source-grounded explanations
+
+## Secondary users
+
+* Monasteries and Dhamma teachers
+* Buddhist study groups
+* Scholars and researchers
+* Preservation and translation efforts
+* Ethical AI / truth-sensitive education platforms
+
+## Future institutional users
+
+* Educational platforms
+* Wellness and contemplative learning products
+* Museums / preservation interfaces
+* Temple and monastic digital systems
+
+---
+
+# 6. Current Corpus Focus
+
+The current core focus is the **Anguttara Nikaya**, especially transcript-based teaching material associated with Bhante Hye Dhammavuddho Mahathera.
+
+This includes:
+
+* canonical references like **AN x.y**
+* teacher transcript material
+* commentary aligned to suttas
+* cross-links to canonical sources such as SuttaCentral
+* chain extraction from enumerated teachings
+
+A major emphasis is on preserving mapping between:
+
+* transcript numbering,
+* teacher-specific splits,
+* and canonical numbering systems.
+
+This is important because the transcript structure does not always map cleanly onto standard canonical IDs.
+
+---
+
+# 7. What Makes DAMA Different
+
+## Not just a chatbot
+
+DAMA is not a normal RAG bot with religious documents stuffed into a vector DB.
+
+## It is a verification architecture
+
+Its core innovation is architectural:
+
+* source-aware ingestion,
+* sutta/commentary separation,
+* canonical ID mapping,
+* chain extraction,
+* evidence-first retrieval,
+* traceable response building.
+
+## It answers with structure
+
+DAMA is designed to understand doctrinal lists, causal chains, grouped teachings, and numbered structures rather than relying only on keyword similarity.
+
+Example:
+A normal system retrieves by phrase match.
+DAMA should retrieve by **doctrinal structure** too.
+
+---
+
+# 8. Core Features
+
+## A. Verified Q&A
+
+User asks a question and receives:
+
+* relevant sutta evidence,
+* commentary evidence,
+* canonical links,
+* grounded final answer.
+
+## B. Multi-pane evidence view
+
+Proposed interface has 3 evidence panes plus final response:
+
+1. **Transcript pane**
+2. **Commentary pane**
+3. **Canonical pane**
+4. **Answer pane**
+
+This lets the user see source layers separately.
+
+## C. Chain extraction
+
+DAMA identifies enumerated teachings such as:
+
+* sets of 2,
+* 5,
+* 7,
+* 11,
+  and represents them explicitly.
+
+This is especially useful in the Anguttara Nikaya, where numbered structures are fundamental.
+
+## D. Chain graph / doctrinal graph
+
+The system should show how items relate, including:
+
+* chain length,
+* ordering,
+* doctrinal grouping,
+* upstream/downstream connections.
+
+## E. Canonical mapping
+
+Transcript material is matched to canonical sutta identifiers and external canonical repositories.
+
+## F. Commentary containment
+
+Commentary can enrich the answer, but only when linked to a specific canonical basis.
+
+## G. Transparent provenance
+
+The user can inspect:
+
+* which chunks were retrieved,
+* why they were selected,
+* which layer they came from,
+* and how the final answer was assembled.
+
+---
+
+# 9. Technical Architecture
+
+## High-level architecture
+
+DAMA consists of several layers:
+
+### 1. Ingestion Layer
+
+Processes source material such as:
+
+* transcripts,
+* canonical text,
+* commentary,
+* metadata.
+
+### 2. Structure Extraction Layer
+
+Detects:
+
+* sutta boundaries,
+* commentary boundaries,
+* numbered teachings,
+* chain types,
+* reference IDs.
+
+### 3. Mapping Layer
+
+Maps transcript segments to:
+
+* canonical IDs,
+* SuttaCentral IDs,
+* cross-reference structures.
+
+### 4. Retrieval Layer
+
+Searches by:
+
+* semantic similarity,
+* doctrinal structure,
+* canonical references,
+* chain membership,
+* metadata filters.
+
+### 5. Verification Layer
+
+Checks whether the answer is sufficiently grounded and whether commentary is properly aligned.
+
+### 6. Response Assembly Layer
+
+Builds a final answer using:
+
+* canonical quotes,
+* commentary support,
+* traceable reasoning structure,
+* explicit source references.
+
+### 7. UI Layer
+
+Displays:
+
+* evidence panes,
+* chain views,
+* retrieval graph,
+* final answer,
+* system status.
+
+---
+
+# 10. Data Model
+
+A typical DAMA record is richer than a normal text chunk.
+
+It may include fields like:
+
+* `sutta_id`
+* `sc_uid`
+* `sc_url`
+* `transcript_id`
+* `layer` = sutta / commentary
+* `chain.items`
+* `chain.count`
+* `chain_type`
+* `usable`
+* `mapping_quality`
+* `sim_sutta`
+* `an_book`
+* `chunk_part`
+* `source_document`
+
+This lets the system retrieve not just text, but structured doctrinal units.
+
+---
+
+# 11. Retrieval Philosophy
+
+## Normal RAG problem
+
+Normal RAG often chunks arbitrarily, mixes commentary with source, and retrieves based on shallow similarity.
+
+## DAMA retrieval design
+
+DAMA retrieval should be:
+
+* page-aware,
+* sutta-aware,
+* commentary-aware,
+* chain-aware,
+* canon-aware.
+
+It should avoid mixed chunks where sutta and commentary are blended.
+Instead, it should split by structure first and then embed intelligently.
+
+That is a major product advantage.
+
+---
+
+# 12. AI/Agent Design
+
+## Runtime agent
+
+Handles live user queries:
+
+* retrieve,
+* score,
+* verify,
+* answer.
+
+## Ingestion/enrichment agent
+
+Handles offline expansion:
+
+* fetch more transcripts,
+* normalize structure,
+* map to canon,
+* enrich metadata,
+* index to database.
+
+This allows DAMA to grow without turning every user request into uncontrolled research.
+
+---
+
+# 13. Product Experience
+
+## User journey
+
+A user opens DAMA and asks a question.
+
+The app:
+
+1. interprets the query,
+2. finds relevant doctrinal structures,
+3. retrieves canonical text and commentary separately,
+4. shows evidence in panes,
+5. explains the teaching in grounded language.
+
+The user can then:
+
+* inspect the sources,
+* follow related chains,
+* move to adjacent teachings,
+* or dive deeper into the canon.
+
+## UX character
+
+The app should feel:
+
+* calm,
+* rigorous,
+* uncluttered,
+* trustworthy,
+* contemplative,
+* and intellectually serious.
+
+Not flashy. Not gamified in a trivial way.
+Its beauty should come from clarity and truthfulness.
+
+---
+
+# 14. MVP Scope
+
+A strong MVP for DAMA would include:
+
+## Corpus
+
+* One bounded corpus, likely Anguttara Nikaya transcript set plus canonical mappings.
+
+## Core capabilities
+
+* Question answering
+* Source pane display
+* Canonical mapping
+* Chain extraction for enumerated lists
+* Commentary separation
+* Basic verification/reranking
+
+## UI
+
+* Simple web app
+* Multi-pane answer display
+* Chain or list view
+* Search by question or AN reference
+
+## Backend
+
+* Python/FastAPI
+* Vector store
+* structured metadata
+* canonical mapping service
+* optional local or cloud LLM
+
+---
+
+# 15. Strategic Value / Moat
+
+## 1. Trust moat
+
+Most AI systems are optimized for fluency. DAMA is optimized for fidelity. That difference matters.
+
+## 2. Data moat
+
+A well-structured, canon-mapped, commentary-separated corpus is difficult to build and highly valuable.
+
+## 3. Architectural moat
+
+The real IP is not just the documents. It is the verification architecture:
+
+* structure extraction,
+* doctrinal chain modeling,
+* source layering,
+* and grounded answer assembly.
+
+## 4. Domain moat
+
+This approach can later generalize to other truth-sensitive knowledge systems:
+
+* scripture,
+* law,
+* medicine,
+* regulated education,
+* and preservation domains.
+
+---
+
+# 16. Potential Use Cases Beyond Dhamma
+
+Though DAMA is grounded in Buddhist preservation, the architecture has broader implications for any domain where distortion is costly.
+
+Possible future domains:
+
+* legal assistants
+* medical reference systems
+* educational canon systems
+* archival AI
+* heritage preservation
+* institutional knowledge with fixed source hierarchies
+
+So DAMA is both:
+
+* a Dhamma product,
+* and a proof of a larger class of truth-sensitive AI systems.
+
+---
+
+# 17. Business / Positioning Options
+
+## Option 1: Direct learning app
+
+Subscription-based Dhamma learning and study tool.
+
+## Option 2: Institutional platform
+
+Offer to monasteries, Buddhist centers, or preservation projects.
+
+## Option 3: Ethical AI platform
+
+Position DAMA as a reference architecture for high-integrity AI in fixed-canon domains.
+
+## Option 4: Education / wellness angle
+
+Use contemplative education and verified wisdom systems as the entry market.
+
+---
+
+# 18. Risks
+
+## 1. Mapping complexity
+
+Canonical numbering and transcript numbering mismatches are hard.
+
+## 2. Over-generation risk
+
+If not controlled, the model may still generate beyond source.
+
+## 3. Commentary contamination
+
+Mixed chunks can corrupt retrieval quality.
+
+## 4. UX overload
+
+Too much evidence can overwhelm users if not presented cleanly.
+
+## 5. Scope drift
+
+Trying to cover too many texts too early could weaken rigor.
+
+---
+
+# 19. Success Criteria
+
+DAMA is successful if:
+
+* answers are visibly source-grounded,
+* users trust the system more than generic AI,
+* the system can separate canon from commentary cleanly,
+* doctrinal chains are represented accurately,
+* and the app becomes useful for both learning and preservation.
+
+In stronger form, success means:
+DAMA is recognized not as “an AI that talks about Dhamma,” but as **an architecture that protects Dhamma while making it accessible**.
+
+---
+
+# 20. Pitch Version
+
+## Short investor/product pitch
+
+DAMA is a verification-first AI platform for Buddhist knowledge. Unlike generic chatbots, it does not generate spiritual advice loosely from patterns. It answers from canonical sources and trusted commentary with full traceability, structured retrieval, and minimal distortion. It begins as a Dhamma learning and preservation system, but its deeper value is as a new architecture for high-trust AI in any truth-sensitive domain.
+
+## Short spiritual pitch
+
+DAMA is an AI system built not to imitate wisdom, but to preserve and transmit it faithfully.
+
+---
+
+# 21. Final Positioning Statement
+
+**DAMA is a source-grounded Dhamma intelligence system that uses canonical truth as its architectural center, enabling trustworthy learning, transparent retrieval, and distortion-resistant AI guidance.**
+
+---
+
+If you want, I can turn this into a cleaner **1-page investor brief**, **PRD**, or **website copy** next.

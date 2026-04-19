@@ -1,0 +1,116 @@
+🔴 Circle 1: Core Answer Loop (Nucleus)
+
+👉 “Can it answer correctly?”
+
+Steps:
+
+1–2: Request + API normalization
+3–4: Orchestrator + routing
+5: Internal retrieval
+6: Judge retrieval
+7: Optional SC
+9: Context assembly
+10: Generation
+11: Validation
+12: Response
+
+👉 This is the entire online intelligence loop
+
+🟠 Circle 2: Reliability & Traceability
+
+👉 “Can I trust and inspect it?”
+
+Steps:
+
+13: Traceability logging
+14: Cost accounting
+23: Transactional DB
+25: Object storage
+32: Observability
+
+👉 This is memory + visibility of the system
+
+🟡 Circle 3: Ingestion & Growth
+
+👉 “Can the system learn and expand?”
+
+Steps:
+
+8: Expansion trigger
+15–22: Full A0 ingestion pipeline
+queue
+fetch
+parse
+chunk
+embed
+index
+validate
+finalize
+
+👉 This is your factory
+
+🟢 Circle 4: Multi-Tenant Safety
+
+👉 “Can multiple users safely coexist?”
+
+Steps:
+
+1 (tenant resolution part)
+5 (tenant filters in retrieval)
+27: Tenant isolation
+33: Security (auth, IAM, admin roles)
+38 (tenant quotas part)
+
+👉 This is your isolation + protection layer
+
+🔵 Circle 5: Backup & Recovery
+
+👉 “Can the system survive failure?”
+
+Steps:
+
+26: Backup & recovery
+31: Failure handling
+34: CI/CD (rollback)
+37: Reindex / delete flow
+
+👉 This is your survival layer
+
+🟣 Circle 6: Quality & Cost Control
+
+👉 “Can it stay good and cheap?”
+
+Steps:
+
+6 (retrieval quality judgment)
+9 (context packing)
+14 (cost tracking)
+35: Evaluation
+38: Cost governance
+40: Continuous improvement
+
+👉 This is your optimization brain
+
+⚫ Circle 7: Scale & Sharding
+
+👉 “Can it grow without breaking?”
+
+Steps:
+
+24: Vector storage partitioning
+28: Read/write separation
+29: Sharding evolution
+30: Queue + worker reliability
+39: Retention / cleanup
+
+👉 This is your infrastructure evolution layer
+
+🔁 CROSS-CUTTING (span ALL circles)
+
+These are not one circle — they run through everything:
+
+Orchestrator (3)
+Validation (11)
+Tenant ID enforcement
+Cost tracking (14, 38)
+Observability (32)

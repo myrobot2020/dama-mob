@@ -1,0 +1,1760 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1818.958375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Now we come to 4.17.170. This is another important Sutta."
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "On a certain occasion, the Venerable Ananda was staying at Gosambi in Gosita Park."
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "Then the Venerable Ananda addressed the monk saying,"
+    },
+    {
+      "start": 17.0,
+      "end": 23.0,
+      "text": "Rev. Sirs, your reverence replied those monks to the Venerable Ananda."
+    },
+    {
+      "start": 23.0,
+      "end": 28.0,
+      "text": "The Venerable Ananda said, Rev. Sirs, when anyone, be it monk or nun,"
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "proclaims in my presence that he has attained Arahantship."
+    },
+    {
+      "start": 32.0,
+      "end": 38.0,
+      "text": "All such do so by virtue of four factors or one of these four."
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "What are they?"
+    },
+    {
+      "start": 40.0,
+      "end": 50.0,
+      "text": "Here in your reverence, a monk develops Vipassana contemplation preceded by Samatha tranquilization."
+    },
+    {
+      "start": 50.0,
+      "end": 57.0,
+      "text": "In him thus developing contemplation preceded by tranquilization is born the way."
+    },
+    {
+      "start": 57.0,
+      "end": 61.0,
+      "text": "He follows along that way, makes it grow, makes much of it."
+    },
+    {
+      "start": 61.0,
+      "end": 67.0,
+      "text": "In him following developing, making much of that way, the factors are abandoned."
+    },
+    {
+      "start": 67.0,
+      "end": 70.0,
+      "text": "The lurking tendencies come to an end."
+    },
+    {
+      "start": 70.0,
+      "end": 72.0,
+      "text": "Or again your reverences."
+    },
+    {
+      "start": 72.0,
+      "end": 76.0,
+      "text": "A monk develops tranquilization preceded by contemplation."
+    },
+    {
+      "start": 76.0,
+      "end": 82.0,
+      "text": "In him developing tranquilization preceded by contemplation is born the way."
+    },
+    {
+      "start": 82.0,
+      "end": 86.0,
+      "text": "He follows along that way, makes it grow, makes much of it."
+    },
+    {
+      "start": 86.0,
+      "end": 91.0,
+      "text": "In him following developing, making much of that way, the factors are abandoned."
+    },
+    {
+      "start": 91.0,
+      "end": 94.0,
+      "text": "The lurking tendencies come to an end."
+    },
+    {
+      "start": 94.0,
+      "end": 96.0,
+      "text": "Yet again your reverences."
+    },
+    {
+      "start": 96.0,
+      "end": 102.0,
+      "text": "A monk develops tranquilization and contemplation together or simultaneously."
+    },
+    {
+      "start": 102.0,
+      "end": 108.0,
+      "text": "In him thus developing tranquilization and contemplation together, the way is born."
+    },
+    {
+      "start": 108.0,
+      "end": 111.0,
+      "text": "He follows along that way, etc."
+    },
+    {
+      "start": 111.0,
+      "end": 114.0,
+      "text": "As he does so, the factors are abandoned."
+    },
+    {
+      "start": 114.0,
+      "end": 117.0,
+      "text": "The lurking tendencies come to an end."
+    },
+    {
+      "start": 117.0,
+      "end": 119.0,
+      "text": "Once more your reverences."
+    },
+    {
+      "start": 119.0,
+      "end": 123.0,
+      "text": "A monk's mind is utterly moved and taken up by dhamma."
+    },
+    {
+      "start": 123.0,
+      "end": 125.0,
+      "text": "That is the time your reverences."
+    },
+    {
+      "start": 125.0,
+      "end": 130.0,
+      "text": "But his mind stands fixed in the very self or internally."
+    },
+    {
+      "start": 130.0,
+      "end": 134.0,
+      "text": "Settles down, becomes one-pointed, is composed."
+    },
+    {
+      "start": 134.0,
+      "end": 136.0,
+      "text": "In him the way is born."
+    },
+    {
+      "start": 136.0,
+      "end": 141.0,
+      "text": "He follows along that way, makes it grow, makes much of it."
+    },
+    {
+      "start": 141.0,
+      "end": 146.0,
+      "text": "In him following developing, making much of that way, the factors are abandoned."
+    },
+    {
+      "start": 146.0,
+      "end": 149.0,
+      "text": "The lurking tendencies come to an end."
+    },
+    {
+      "start": 149.0,
+      "end": 151.0,
+      "text": "Indeed your reverences."
+    },
+    {
+      "start": 151.0,
+      "end": 157.0,
+      "text": "When anyone, be it a monk or none, proclaims in my presence that he has attained arahan chip."
+    },
+    {
+      "start": 157.0,
+      "end": 163.0,
+      "text": "All such do so by virtue of four factors or one of these four."
+    },
+    {
+      "start": 164.0,
+      "end": 166.0,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 166.0,
+      "end": 173.0,
+      "text": "This sutta was spoken by the venerable Ananda after the Buddha's passing away."
+    },
+    {
+      "start": 173.0,
+      "end": 180.0,
+      "text": "Because when the Buddha was still alive, whenever the monks or nuns attained arahan hood,"
+    },
+    {
+      "start": 180.0,
+      "end": 186.0,
+      "text": "they would come and inform the Buddha that they had attained arahan hood."
+    },
+    {
+      "start": 186.0,
+      "end": 189.0,
+      "text": "So because the Buddha had passed into Parinibbana,"
+    },
+    {
+      "start": 189.0,
+      "end": 195.0,
+      "text": "and the venerable Ananda was considered like a leader of the Sangha."
+    },
+    {
+      "start": 195.0,
+      "end": 199.0,
+      "text": "And so they would come to the venerable Ananda."
+    },
+    {
+      "start": 199.0,
+      "end": 205.0,
+      "text": "The venerable Ananda was supposed to have lived up to about 120, the age of 120."
+    },
+    {
+      "start": 205.0,
+      "end": 211.0,
+      "text": "So monks and nuns, they would come and inform venerable Ananda that they had attained arahan hood."
+    },
+    {
+      "start": 211.0,
+      "end": 216.0,
+      "text": "And in this sutta, venerable Ananda says that all of them, all the arahants,"
+    },
+    {
+      "start": 216.0,
+      "end": 221.0,
+      "text": "attain arahan hood by one of these four ways."
+    },
+    {
+      "start": 221.0,
+      "end": 225.0,
+      "text": "In other words, there are only these four ways to attain arahan hood."
+    },
+    {
+      "start": 225.0,
+      "end": 229.0,
+      "text": "There is no other way to attain arahan hood."
+    },
+    {
+      "start": 229.0,
+      "end": 235.0,
+      "text": "The first one is a person practices samatha first, followed by vipassana."
+    },
+    {
+      "start": 235.0,
+      "end": 240.0,
+      "text": "The second one, he practices vipassana first, followed by samatha."
+    },
+    {
+      "start": 240.0,
+      "end": 244.0,
+      "text": "The third one is samatha and vipassana together."
+    },
+    {
+      "start": 244.0,
+      "end": 253.0,
+      "text": "The fourth one is a method of meditation which nowadays is seldom taught in Theravada Buddhism,"
+    },
+    {
+      "start": 253.0,
+      "end": 262.0,
+      "text": "but which has gone into Mahayana Buddhism, Zen Buddhism, and also Hinduism, Niyana Yoga."
+    },
+    {
+      "start": 262.0,
+      "end": 270.0,
+      "text": "And that is contemplating on the self, contemplation on the self until the mind becomes one-pointed,"
+    },
+    {
+      "start": 270.0,
+      "end": 273.0,
+      "text": "which also means as a samatha practice."
+    },
+    {
+      "start": 273.0,
+      "end": 280.0,
+      "text": "And then after that, he follows along that way and the asavas are destroyed."
+    },
+    {
+      "start": 280.0,
+      "end": 284.0,
+      "text": "So these are the four ways to attain arahan hood."
+    },
+    {
+      "start": 284.0,
+      "end": 291.0,
+      "text": "And in all these four ways, we find actually both samatha and vipassana are necessary."
+    },
+    {
+      "start": 291.0,
+      "end": 302.0,
+      "text": "Samatha is tranquilization of the mind and vipassana is the contemplation of the body and the mind basically."
+    },
+    {
+      "start": 302.0,
+      "end": 310.0,
+      "text": "So if nowadays people say that samatha is not necessary, it is not the Buddha's teaching."
+    },
+    {
+      "start": 310.0,
+      "end": 314.0,
+      "text": "If people say vipassana is not necessary, it is also not the Buddha's teaching."
+    },
+    {
+      "start": 314.0,
+      "end": 319.0,
+      "text": "Both samatha and vipassana are clearly necessary in this sutta."
+    },
+    {
+      "start": 319.0,
+      "end": 326.05,
+      "text": "Now we come to another important sutta."
+    },
+    {
+      "start": 326.05,
+      "end": 330.05,
+      "text": "There's quite a lot of good important suttas here."
+    },
+    {
+      "start": 330.05,
+      "end": 335.05,
+      "text": "4.18.171"
+    },
+    {
+      "start": 335.05,
+      "end": 336.05,
+      "text": "Buddha said,"
+    },
+    {
+      "start": 336.05,
+      "end": 346.05,
+      "text": "monks, where there is bodily action, there arises to the self pleasure or pain caused by intention of bodily action."
+    },
+    {
+      "start": 346.05,
+      "end": 355.05,
+      "text": "Or monks, where there is verbal action, there arises pleasure or pain to the self caused by intentional action of speech."
+    },
+    {
+      "start": 355.05,
+      "end": 363.05,
+      "text": "Or monks, where there is mental action, there arises pleasure or pain to the self caused by intentional action of mind."
+    },
+    {
+      "start": 363.05,
+      "end": 366.05,
+      "text": "Or it is due to ignorance."
+    },
+    {
+      "start": 366.05,
+      "end": 378.05,
+      "text": "Monks, it is due to ignorance that either of himself one wills bodily intentions falling on which arises to the self that pleasure or pain."
+    },
+    {
+      "start": 378.05,
+      "end": 387.05,
+      "text": "Or others will bodily intentions against him falling on which arises to the self that pleasure or pain."
+    },
+    {
+      "start": 387.05,
+      "end": 396.05,
+      "text": "Either deliberately monks one wills bodily intentions falling on which arises to the self that pleasure or pain."
+    },
+    {
+      "start": 396.05,
+      "end": 400.05,
+      "text": "Or unwittingly does he will bodily intention."
+    },
+    {
+      "start": 400.05,
+      "end": 408.05,
+      "text": "Either of himself monks one wills verbal intentions falling on which arises to the self that pleasure or pain."
+    },
+    {
+      "start": 408.05,
+      "end": 414.05,
+      "text": "Or others will verbal intention against him falling on which arises pleasure or pain."
+    },
+    {
+      "start": 414.05,
+      "end": 422.05,
+      "text": "Either deliberately monks one wills verbal intentions or unwittingly does he will verbal intentions."
+    },
+    {
+      "start": 422.05,
+      "end": 431.05,
+      "text": "Again monks either of himself one wills mental intentions falling on which arises to the self that pleasure or pain."
+    },
+    {
+      "start": 431.05,
+      "end": 437.05,
+      "text": "Or others will mental intentions against him falling on which arises pleasure or pain."
+    },
+    {
+      "start": 437.05,
+      "end": 446.05,
+      "text": "Either deliberately monks one wills mental intentions or unwittingly does he will mental intention."
+    },
+    {
+      "start": 446.05,
+      "end": 449.05,
+      "text": "Monks in these instances ignorance is followed."
+    },
+    {
+      "start": 449.05,
+      "end": 459.05,
+      "text": "But by the utter seizing and ending of ignorance that bodily intention exists not falling on which that pleasure or pain arises to the self."
+    },
+    {
+      "start": 459.05,
+      "end": 467.05,
+      "text": "That verbal intention that mental intention exists not falling on which that pleasure or pain arises to the self."
+    },
+    {
+      "start": 467.05,
+      "end": 477.05,
+      "text": "There is no feel, no base, no sphere of action, no occasion falling on which that pleasure or pain arises to the self."
+    },
+    {
+      "start": 477.05,
+      "end": 482.05,
+      "text": "This is one of the sutras about karma."
+    },
+    {
+      "start": 482.05,
+      "end": 492.05,
+      "text": "And the Pali word here is kaya sankharang abhi sankharoti which means wills bodily intentions."
+    },
+    {
+      "start": 492.05,
+      "end": 499.05,
+      "text": "The second one is vachi sankharang abhi sankharoti which means wills verbal intentions."
+    },
+    {
+      "start": 499.05,
+      "end": 507.05,
+      "text": "The third one is mano sankharang abhi sankharoti which means wills mental intentions."
+    },
+    {
+      "start": 507.05,
+      "end": 518.05,
+      "text": "And we note here that in all these instances of karma the third one is mano sankharang and it is not citta sankharang."
+    },
+    {
+      "start": 518.05,
+      "end": 528.05,
+      "text": "In the paticha samupada dependent origination the sankharas are mentioned as kaya sankharang vachi sankharang and citta sankharang."
+    },
+    {
+      "start": 528.05,
+      "end": 533.05,
+      "text": "And there are two sets of sankharas we find in the sutras."
+    },
+    {
+      "start": 533.05,
+      "end": 537.05,
+      "text": "One is kaya sankharang vachi sankharang mano sankharang."
+    },
+    {
+      "start": 537.05,
+      "end": 541.05,
+      "text": "The other one is kaya sankharang vachi sankharang and citta sankharang."
+    },
+    {
+      "start": 542.05,
+      "end": 550.05,
+      "text": "And mano sankharang is always used when it concerns karma just like this sutra concerns karma."
+    },
+    {
+      "start": 550.05,
+      "end": 561.05,
+      "text": "And we use mano sankharang the third one whereas in the paticha samupada dependent origination it is citta sankharang and citta sankharang."
+    },
+    {
+      "start": 561.05,
+      "end": 569.05,
+      "text": "We find has to do not with karma but with cessation."
+    },
+    {
+      "start": 569.05,
+      "end": 579.05,
+      "text": "If you are interested you can look at my book dependent origination and it explains the difference between these two sets of sankharas."
+    },
+    {
+      "start": 579.05,
+      "end": 590.05,
+      "text": "And we find it was the end that when ignorance is ended with the seizing and ending of ignorance there is no more karma created."
+    },
+    {
+      "start": 591.05,
+      "end": 599.97,
+      "text": "Another sutra 4.18.172 monks there are these four ways of getting personality."
+    },
+    {
+      "start": 599.97,
+      "end": 601.97,
+      "text": "What for?"
+    },
+    {
+      "start": 601.97,
+      "end": 609.97,
+      "text": "There is monks the getting of personality in the getting of which one's own intention not that of another person has effect."
+    },
+    {
+      "start": 609.97,
+      "end": 615.97,
+      "text": "There is that in the getting of which another person's intention has effect not one's own."
+    },
+    {
+      "start": 615.97,
+      "end": 620.97,
+      "text": "There is that in which both one's own and another's intention have effect."
+    },
+    {
+      "start": 620.97,
+      "end": 625.97,
+      "text": "And there is that in which neither has effect these are made for."
+    },
+    {
+      "start": 625.97,
+      "end": 629.97,
+      "text": "When this was said the venerable Sariputta said this to the exalted one."
+    },
+    {
+      "start": 629.97,
+      "end": 636.97,
+      "text": "Of this Lord that has been uttered by the exalted one in brief I understand the meaning in detail."
+    },
+    {
+      "start": 636.97,
+      "end": 642.97,
+      "text": "In the case where there is getting of personality in which one's own intention not another's has effect."
+    },
+    {
+      "start": 642.97,
+      "end": 650.97,
+      "text": "There is disease for those beings from that group because of one's own intention."
+    },
+    {
+      "start": 650.97,
+      "end": 657.97,
+      "text": "In the case where there is getting of personality in which another's intention not one's own has effect."
+    },
+    {
+      "start": 657.97,
+      "end": 662.97,
+      "text": "There is disease for those beings from that group because of another's intention."
+    },
+    {
+      "start": 662.97,
+      "end": 667.97,
+      "text": "In the case where there is getting of personality in which both have effect."
+    },
+    {
+      "start": 667.97,
+      "end": 675.97,
+      "text": "There is disease for those beings from that group because of the intention both of oneself and of another."
+    },
+    {
+      "start": 675.97,
+      "end": 681.97,
+      "text": "But Lord in the case where there is getting of personality in which neither has effect."
+    },
+    {
+      "start": 681.97,
+      "end": 684.97,
+      "text": "What sort of devas are to be regarded therein?"
+    },
+    {
+      "start": 684.97,
+      "end": 687.97,
+      "text": "And the Buddha said in that case Sariputta."
+    },
+    {
+      "start": 687.97,
+      "end": 692.97,
+      "text": "It is the devas who have attained the realm in which is neither perception nor non-perception."
+    },
+    {
+      "start": 692.97,
+      "end": 697.97,
+      "text": "And Sariputta said pray Lord what is the reason what is the cause?"
+    },
+    {
+      "start": 697.97,
+      "end": 703.97,
+      "text": "Why certain beings deceasing from that group are returners who come back to this state of things?"
+    },
+    {
+      "start": 703.97,
+      "end": 707.97,
+      "text": "Again Lord what is the reason what is the cause?"
+    },
+    {
+      "start": 707.97,
+      "end": 714.97,
+      "text": "Why certain beings deceasing from that group are non-returners who come not back to this state of things?"
+    },
+    {
+      "start": 714.97,
+      "end": 721.97,
+      "text": "And the Buddha said in this first case Sariputta in a certain person the factors that bind to this world are not abandoned."
+    },
+    {
+      "start": 721.97,
+      "end": 729.97,
+      "text": "Such a one in this very life attains the realm where there is neither perception nor non-perception and abides therein."
+    },
+    {
+      "start": 729.97,
+      "end": 734.97,
+      "text": "He enjoys its sweetness, longs for it, finds happiness therein."
+    },
+    {
+      "start": 734.97,
+      "end": 737.97,
+      "text": "Establish therein given there too."
+    },
+    {
+      "start": 737.97,
+      "end": 741.97,
+      "text": "Generally spending his time therein not falling away therefrom."
+    },
+    {
+      "start": 741.97,
+      "end": 745.97,
+      "text": "When he makes an end he is reborn in that company."
+    },
+    {
+      "start": 745.97,
+      "end": 750.97,
+      "text": "When he diseases then he is a returner."
+    },
+    {
+      "start": 750.97,
+      "end": 753.97,
+      "text": "He comes back to this state of things."
+    },
+    {
+      "start": 753.97,
+      "end": 758.97,
+      "text": "In the other case Sariputta in a certain person those factors are abandoned."
+    },
+    {
+      "start": 758.97,
+      "end": 764.97,
+      "text": "Such a one in this very life attains the realm where there is neither perception nor non-perception."
+    },
+    {
+      "start": 764.97,
+      "end": 768.97,
+      "text": "He enjoys its sweetness, longs for it etc."
+    },
+    {
+      "start": 768.97,
+      "end": 771.97,
+      "text": "When he makes an end he is reborn in that company."
+    },
+    {
+      "start": 771.97,
+      "end": 774.97,
+      "text": "But deceasing then he is a non-returner."
+    },
+    {
+      "start": 774.97,
+      "end": 776.97,
+      "text": "He comes not back to this state of things."
+    },
+    {
+      "start": 776.97,
+      "end": 779.97,
+      "text": "This is the reason this is the cause Sariputta."
+    },
+    {
+      "start": 779.97,
+      "end": 784.97,
+      "text": "Why certain beings are non-returners who come not back to this state of things?"
+    },
+    {
+      "start": 784.97,
+      "end": 795.97,
+      "text": "The thing about this Sutta which I like to point out is that it is mentioned here that there are certain persons"
+    },
+    {
+      "start": 795.97,
+      "end": 803.97,
+      "text": "because of their cultivation of the Arupa Jhana, the base of neither perception nor non-perception."
+    },
+    {
+      "start": 803.97,
+      "end": 812.97,
+      "text": "They abide in it constantly and they enjoy that state and constantly spend their time in that state."
+    },
+    {
+      "start": 812.97,
+      "end": 817.97,
+      "text": "When they pass away they are reborn in that Arupa Jhana realm."
+    },
+    {
+      "start": 817.97,
+      "end": 819.97,
+      "text": "But there are two types of persons."
+    },
+    {
+      "start": 819.97,
+      "end": 827.97,
+      "text": "One is he has destroyed those factors and he does not come back to the human world."
+    },
+    {
+      "start": 827.97,
+      "end": 830.97,
+      "text": "Whereas there is another one who has not destroyed the factors."
+    },
+    {
+      "start": 830.97,
+      "end": 833.97,
+      "text": "He comes back to the human birth again."
+    },
+    {
+      "start": 833.97,
+      "end": 838.97,
+      "text": "So from here you find the one that does not come back to the human realm again."
+    },
+    {
+      "start": 838.97,
+      "end": 840.97,
+      "text": "He is a non-returner and anagami."
+    },
+    {
+      "start": 840.97,
+      "end": 851.97,
+      "text": "So this is one of the few Suttas which shows that an anagami can be reborn in the plane of neither perception nor non-perception."
+    },
+    {
+      "start": 851.97,
+      "end": 858.97,
+      "text": "Usually anagamis are reborn in the Sudha Vasa abode which is the fourth Jhana plane."
+    },
+    {
+      "start": 858.97,
+      "end": 865.97,
+      "text": "But in this Sutta it shows that they can also be reborn in the Arupa Jhana plane."
+    },
+    {
+      "start": 865.97,
+      "end": 873.97,
+      "text": "Now we come to another Sutta which is also quite a very important Sutta also."
+    },
+    {
+      "start": 874.97,
+      "end": 877.97,
+      "text": "4.18.174."
+    },
+    {
+      "start": 877.97,
+      "end": 883.97,
+      "text": "The Venerable Kothita, the great Mahakothita came to visit the Venerable Sariputta."
+    },
+    {
+      "start": 883.97,
+      "end": 889.97,
+      "text": "On coming to him he greeted him courteously etc. etc. and sat down at one side."
+    },
+    {
+      "start": 889.97,
+      "end": 895.97,
+      "text": "So seated the Venerable Mahakothita said this to the Venerable Sariputta."
+    },
+    {
+      "start": 895.97,
+      "end": 906.97,
+      "text": "Your reverence or abuso, does anything at all exist after the passionless ending without remainder of the six spheres of contact?"
+    },
+    {
+      "start": 906.97,
+      "end": 911.97,
+      "text": "And Venerable Sariputta said, say not that your reverence."
+    },
+    {
+      "start": 911.97,
+      "end": 920.97,
+      "text": "Then Mahakothita the Arahant said, then your reverence, not anything exists after the ending of the six spheres of contact?"
+    },
+    {
+      "start": 920.97,
+      "end": 924.97,
+      "text": "And Venerable Sariputta said, say not that your reverence."
+    },
+    {
+      "start": 924.97,
+      "end": 936.97,
+      "text": "And again Venerable Mahakothita said, then there is, then there both is and is not anything existing after the passionless ending without remainder of the six spheres of contact?"
+    },
+    {
+      "start": 936.97,
+      "end": 940.97,
+      "text": "And Venerable Sariputta said, say not that your reverence."
+    },
+    {
+      "start": 940.97,
+      "end": 948.97,
+      "text": "Then Venerable Mahakothita said, your reverence, when question does, is there anything remaining?"
+    },
+    {
+      "start": 948.97,
+      "end": 952.97,
+      "text": "Or is there not? Or is there and is there not?"
+    },
+    {
+      "start": 952.97,
+      "end": 959.97,
+      "text": "Or neither is there nor is there not anything existing after the ending of the six spheres of contact?"
+    },
+    {
+      "start": 959.97,
+      "end": 962.97,
+      "text": "You reply, say not that your reverence."
+    },
+    {
+      "start": 962.97,
+      "end": 966.97,
+      "text": "Pray then, how is the meaning of what I said to be regarded?"
+    },
+    {
+      "start": 966.97,
+      "end": 974.97,
+      "text": "And Venerable Sariputta said, your reverence, in saying that there is something left, one makes difficulty where there is none."
+    },
+    {
+      "start": 974.97,
+      "end": 982.97,
+      "text": "In saying that there is, there neither is nor is not anything left, one makes difficulty where there is none."
+    },
+    {
+      "start": 982.97,
+      "end": 989.97,
+      "text": "So long your reverence, as there is going to the six spheres of contact, for just so long is there a going to difficulty."
+    },
+    {
+      "start": 989.97,
+      "end": 998.97,
+      "text": "But your reverence, by the passionless ending without remainder of the six spheres of contact, there is calming down of difficulty."
+    },
+    {
+      "start": 998.97,
+      "end": 1002.97,
+      "text": "So I'll stop here on this particular sutta."
+    },
+    {
+      "start": 1002.97,
+      "end": 1013.97,
+      "text": "But I'd like to say about this sutta, which is that this sutta is talking about the state of Nibbana, you know."
+    },
+    {
+      "start": 1013.97,
+      "end": 1017.97,
+      "text": "After the ending of the six spheres of contact is the ending of the six consciousness."
+    },
+    {
+      "start": 1017.97,
+      "end": 1022.97,
+      "text": "The six consciousness makes up the whole world, the whole realm of existence."
+    },
+    {
+      "start": 1022.97,
+      "end": 1027.97,
+      "text": "And when the six consciousness stop, that is the state of Nibbana."
+    },
+    {
+      "start": 1027.97,
+      "end": 1030.97,
+      "text": "And here he's asking whether anything exists."
+    },
+    {
+      "start": 1030.97,
+      "end": 1032.97,
+      "text": "And Sariputta said, don't say that."
+    },
+    {
+      "start": 1032.97,
+      "end": 1034.97,
+      "text": "And then he said, that means nothing exists."
+    },
+    {
+      "start": 1034.97,
+      "end": 1037.97,
+      "text": "And Venerable Sariputta said, also don't say that."
+    },
+    {
+      "start": 1037.97,
+      "end": 1040.97,
+      "text": "And then he said, then both something exists and does not exist."
+    },
+    {
+      "start": 1040.97,
+      "end": 1043.97,
+      "text": "And then Venerable Sariputta said, don't say that again."
+    },
+    {
+      "start": 1043.97,
+      "end": 1045.97,
+      "text": "And neither also don't say that."
+    },
+    {
+      "start": 1045.97,
+      "end": 1055.97,
+      "text": "So you see in the sutta, the Buddha said there are two extremes, the ending annihilationist view and the eternalist view."
+    },
+    {
+      "start": 1055.97,
+      "end": 1062.97,
+      "text": "If you say nothing exists in the state of Parinibbana, then the Buddha said you are an annihilationist."
+    },
+    {
+      "start": 1062.97,
+      "end": 1064.97,
+      "text": "He said nothing exists."
+    },
+    {
+      "start": 1064.97,
+      "end": 1070.97,
+      "text": "If you say something exists, then in the state of Nibbana, the Buddha said you are an eternalist."
+    },
+    {
+      "start": 1070.97,
+      "end": 1076.97,
+      "text": "So it is very dangerous to say something exists and something does not exist."
+    },
+    {
+      "start": 1076.97,
+      "end": 1087.97,
+      "text": "But then in the Diganikaya, there is a sutta where the Buddha said the Tathagata is designated by the Dhamma body."
+    },
+    {
+      "start": 1087.97,
+      "end": 1089.97,
+      "text": "Dhamma kaya."
+    },
+    {
+      "start": 1089.97,
+      "end": 1090.97,
+      "text": "Brahma body."
+    },
+    {
+      "start": 1090.97,
+      "end": 1092.97,
+      "text": "Brahma kaya."
+    },
+    {
+      "start": 1092.97,
+      "end": 1093.97,
+      "text": "Dhamma become."
+    },
+    {
+      "start": 1093.97,
+      "end": 1095.97,
+      "text": "Dhamma Buddha."
+    },
+    {
+      "start": 1095.97,
+      "end": 1096.97,
+      "text": "Brahma become."
+    },
+    {
+      "start": 1096.97,
+      "end": 1098.97,
+      "text": "Brahma Buddha."
+    },
+    {
+      "start": 1098.97,
+      "end": 1105.97,
+      "text": "And so the ultimate state, the Buddha didn't say that nothing exists."
+    },
+    {
+      "start": 1105.97,
+      "end": 1109.97,
+      "text": "He also didn't say that something exists."
+    },
+    {
+      "start": 1109.97,
+      "end": 1117.97,
+      "text": "But he said that actually that the Tathagata is profound, immeasurable, unfathomable like the ocean."
+    },
+    {
+      "start": 1117.97,
+      "end": 1120.97,
+      "text": "This is mentioned in Majima Nikaya 72."
+    },
+    {
+      "start": 1120.97,
+      "end": 1132.97,
+      "text": "And this ultimate state which the Buddha calls the Brahma body or the Brahma become."
+    },
+    {
+      "start": 1132.97,
+      "end": 1138.97,
+      "text": "The Hindus call it Brahma and also call it Atman."
+    },
+    {
+      "start": 1138.97,
+      "end": 1147.97,
+      "text": "And I believe that those holy men who have reached a very high level, they understand that this ultimate state."
+    },
+    {
+      "start": 1147.97,
+      "end": 1153.97,
+      "text": "But they always say that it is something that cannot be actually described."
+    },
+    {
+      "start": 1153.97,
+      "end": 1162.97,
+      "text": "That's why the Buddha calls it the Uncondition, the Uncreate, using all negative terms."
+    },
+    {
+      "start": 1162.97,
+      "end": 1165.97,
+      "text": "Because it cannot be perceived by the mind."
+    },
+    {
+      "start": 1165.97,
+      "end": 1167.97,
+      "text": "It cannot be cognized by the mind."
+    },
+    {
+      "start": 1167.97,
+      "end": 1179.97,
+      "text": "It can only be attained because this is something that we cannot know unless our mind stops working."
+    },
+    {
+      "start": 1179.97,
+      "end": 1185.97,
+      "text": "Because as long as our mind is working, that means our active mind, the world exists."
+    },
+    {
+      "start": 1185.97,
+      "end": 1194.97,
+      "text": "But it's only when the active mind stops, there is a type of consciousness which the Buddha calls the unsupported consciousness in our suttas."
+    },
+    {
+      "start": 1194.97,
+      "end": 1201.97,
+      "text": "And which may be similar to what the Hindus call awareness, pure awareness."
+    },
+    {
+      "start": 1201.97,
+      "end": 1210.97,
+      "text": "But then as is mentioned in this sutta, this is a very delicate subject."
+    },
+    {
+      "start": 1210.97,
+      "end": 1222.97,
+      "text": "And sometimes people including monks can come to great differences and come to have very strong views."
+    },
+    {
+      "start": 1222.97,
+      "end": 1227.97,
+      "text": "And can even split the sangha when we have fixed views about this."
+    },
+    {
+      "start": 1227.97,
+      "end": 1229.97,
+      "text": "So it's very dangerous."
+    },
+    {
+      "start": 1229.97,
+      "end": 1243.97,
+      "text": "So it's best if we approach this subject very carefully and not to say that something exists or nothing exists."
+    },
+    {
+      "start": 1243.97,
+      "end": 1247.97,
+      "text": "4.18.175."
+    },
+    {
+      "start": 1247.97,
+      "end": 1253.97,
+      "text": "The variable Upavana came to visit the variable Sariputta, etc., and said this to him,"
+    },
+    {
+      "start": 1253.97,
+      "end": 1257.97,
+      "text": "Sariputta, your reverence, is there an end maker by knowledge?"
+    },
+    {
+      "start": 1257.97,
+      "end": 1264.97,
+      "text": "Stop here for a while. End maker is Antakaro, that means one who has made an end, which is basically an arahan."
+    },
+    {
+      "start": 1264.97,
+      "end": 1268.97,
+      "text": "And then the variable Sariputta said, not in this case, your reverence."
+    },
+    {
+      "start": 1268.97,
+      "end": 1274.97,
+      "text": "And then the variable Upavana said again, then your reverence is then an end maker by conduct."
+    },
+    {
+      "start": 1274.97,
+      "end": 1276.97,
+      "text": "Not in this case, your reverence."
+    },
+    {
+      "start": 1276.97,
+      "end": 1279.97,
+      "text": "Then is there an end maker by knowledge and conduct?"
+    },
+    {
+      "start": 1279.97,
+      "end": 1281.97,
+      "text": "Not in this case, your reverence."
+    },
+    {
+      "start": 1281.97,
+      "end": 1286.97,
+      "text": "Then your reverence is then an end maker by any other way than knowledge and conduct."
+    },
+    {
+      "start": 1286.97,
+      "end": 1288.97,
+      "text": "Not in this case, your reverence."
+    },
+    {
+      "start": 1288.97,
+      "end": 1294.97,
+      "text": "Sariputta, your reverence, when asked, is there any end maker by knowledge, by conduct, by knowledge and conduct?"
+    },
+    {
+      "start": 1294.97,
+      "end": 1298.97,
+      "text": "And is there any other way you reply, not in this case, your reverence?"
+    },
+    {
+      "start": 1298.97,
+      "end": 1301.97,
+      "text": "In what way then your reverence is then an end maker?"
+    },
+    {
+      "start": 1301.97,
+      "end": 1306.97,
+      "text": "And the variable Sariputta said, your reverence, if there were an end maker by knowledge,"
+    },
+    {
+      "start": 1306.97,
+      "end": 1315.97,
+      "text": "he would still be an end maker with grasping, or with basis, Savu Padano."
+    },
+    {
+      "start": 1315.97,
+      "end": 1321.97,
+      "text": "If there were one by conduct, by knowledge and conduct, he would still be an end maker with grasping."
+    },
+    {
+      "start": 1321.97,
+      "end": 1327.97,
+      "text": "If your reverence, there were an end maker by any other way, then by knowledge and conduct,"
+    },
+    {
+      "start": 1327.97,
+      "end": 1330.97,
+      "text": "then the ordinary man would be an end maker."
+    },
+    {
+      "start": 1330.97,
+      "end": 1336.97,
+      "text": "Now your reverence, the ordinary man, living apart from knowledge and conduct, being unversed in conduct,"
+    },
+    {
+      "start": 1336.97,
+      "end": 1339.97,
+      "text": "knows not, sees not things as they really are."
+    },
+    {
+      "start": 1339.97,
+      "end": 1345.97,
+      "text": "But if he be practised in conduct, he knows, he sees things as they really are."
+    },
+    {
+      "start": 1345.97,
+      "end": 1349.97,
+      "text": "So knowing, so seeing, he is an end maker."
+    },
+    {
+      "start": 1349.97,
+      "end": 1359.97,
+      "text": "In this Buddha, the variable Sariputta says that there is basically no end maker, no arahan."
+    },
+    {
+      "start": 1359.97,
+      "end": 1370.97,
+      "text": "Because if you say that there is an end maker or an arahan, then there would still be a basis for rebirth."
+    },
+    {
+      "start": 1370.97,
+      "end": 1380.97,
+      "text": "In other words, this teaching here is a bit similar to some teachings by some Hindu saints,"
+    },
+    {
+      "start": 1380.97,
+      "end": 1384.97,
+      "text": "namely that there is no person to be liberated."
+    },
+    {
+      "start": 1384.97,
+      "end": 1394.97,
+      "text": "If we think that there is a person to be liberated, then we don't understand."
+    },
+    {
+      "start": 1394.97,
+      "end": 1401.97,
+      "text": "That is why sometimes some people, they think that they are already an Arya,"
+    },
+    {
+      "start": 1401.97,
+      "end": 1407.97,
+      "text": "and they think I have become an Arya, but an Arya does not think that I have become an Arya."
+    },
+    {
+      "start": 1407.97,
+      "end": 1416.97,
+      "text": "He just knows that there is attainment, and he's not eager also for others to know."
+    },
+    {
+      "start": 1416.97,
+      "end": 1421.97,
+      "text": "Nowadays sometimes some people think that they are Arya, and they are very eager for other people to know."
+    },
+    {
+      "start": 1421.97,
+      "end": 1429.97,
+      "text": "And if other people don't accept, don't believe that they are Arya, then they get very annoyed."
+    },
+    {
+      "start": 1429.97,
+      "end": 1434.97,
+      "text": "And that just proves that they are not Arya."
+    },
+    {
+      "start": 1434.97,
+      "end": 1439.97,
+      "text": "So here we have to know, basically there is nothing to attain."
+    },
+    {
+      "start": 1439.97,
+      "end": 1448.97,
+      "text": "Just as long as our mind is working, we think there is a self, we think that we have to strive to get out of samsara."
+    },
+    {
+      "start": 1448.97,
+      "end": 1456.97,
+      "text": "All this striving to get out of samsara is still in that realm of delusion."
+    },
+    {
+      "start": 1456.97,
+      "end": 1460.97,
+      "text": "But then we still have to strive."
+    },
+    {
+      "start": 1460.97,
+      "end": 1463.97,
+      "text": "Only thing is sometimes we strive too hard."
+    },
+    {
+      "start": 1463.97,
+      "end": 1466.97,
+      "text": "We don't get to see things as they really are."
+    },
+    {
+      "start": 1466.97,
+      "end": 1471.97,
+      "text": "One of the important qualities on the holy path is upekha, equanimity."
+    },
+    {
+      "start": 1471.97,
+      "end": 1478.97,
+      "text": "It's only when the mind is calm and equanimous and not agitated that we see things as they really are."
+    },
+    {
+      "start": 1478.97,
+      "end": 1488.82,
+      "text": "Today we come to sutta number 4.18.179."
+    },
+    {
+      "start": 1488.82,
+      "end": 1496.82,
+      "text": "Now the Venerable Ananda went to visit the Venerable Sariputta, and on coming to him greeted him courteously."
+    },
+    {
+      "start": 1496.82,
+      "end": 1502.82,
+      "text": "As he sat at one side, the Venerable Ananda said this to the Venerable Sariputta,"
+    },
+    {
+      "start": 1502.82,
+      "end": 1504.82,
+      "text": "Pray Sariputta your reverence."
+    },
+    {
+      "start": 1504.82,
+      "end": 1507.82,
+      "text": "What is the reason? What is the cause?"
+    },
+    {
+      "start": 1507.82,
+      "end": 1513.82,
+      "text": "Why certain beings in this world are not fully set free in this very life?"
+    },
+    {
+      "start": 1513.82,
+      "end": 1520.82,
+      "text": "In this matter Ananda your reverence, beings do not understand as it really is."
+    },
+    {
+      "start": 1520.82,
+      "end": 1523.82,
+      "text": "This perception partakes of worsening."
+    },
+    {
+      "start": 1523.82,
+      "end": 1526.82,
+      "text": "They do not understand as it really is."
+    },
+    {
+      "start": 1526.82,
+      "end": 1529.82,
+      "text": "This perception partakes of stability."
+    },
+    {
+      "start": 1529.82,
+      "end": 1532.82,
+      "text": "They do not understand as it really is."
+    },
+    {
+      "start": 1532.82,
+      "end": 1535.82,
+      "text": "This perception partakes of distinction."
+    },
+    {
+      "start": 1535.82,
+      "end": 1538.82,
+      "text": "They do not understand as it really is."
+    },
+    {
+      "start": 1538.82,
+      "end": 1541.82,
+      "text": "This perception partakes of penetration."
+    },
+    {
+      "start": 1541.82,
+      "end": 1543.82,
+      "text": "This your reverence is the reason."
+    },
+    {
+      "start": 1543.82,
+      "end": 1544.82,
+      "text": "This is the cause."
+    },
+    {
+      "start": 1544.82,
+      "end": 1549.82,
+      "text": "Why some beings in this world are not fully set free in this very life?"
+    },
+    {
+      "start": 1549.82,
+      "end": 1552.82,
+      "text": "Venerable Ananda again asked,"
+    },
+    {
+      "start": 1552.82,
+      "end": 1554.82,
+      "text": "Pray Sariputta your reverence."
+    },
+    {
+      "start": 1554.82,
+      "end": 1555.82,
+      "text": "What is the reason?"
+    },
+    {
+      "start": 1555.82,
+      "end": 1556.82,
+      "text": "What is the cause?"
+    },
+    {
+      "start": 1556.82,
+      "end": 1561.82,
+      "text": "Why certain beings in this world are fully set free in this very life?"
+    },
+    {
+      "start": 1561.82,
+      "end": 1566.82,
+      "text": "In this matter your reverence, beings do understand as it really is."
+    },
+    {
+      "start": 1566.82,
+      "end": 1569.82,
+      "text": "This perception partakes of worsening."
+    },
+    {
+      "start": 1569.82,
+      "end": 1572.82,
+      "text": "This perception partakes of distinction."
+    },
+    {
+      "start": 1572.82,
+      "end": 1575.82,
+      "text": "This perception partakes of stability."
+    },
+    {
+      "start": 1575.82,
+      "end": 1578.82,
+      "text": "And this perception partakes of penetration."
+    },
+    {
+      "start": 1578.82,
+      "end": 1584.82,
+      "text": "This is the reason why certain beings are set free in this very life."
+    },
+    {
+      "start": 1584.82,
+      "end": 1586.82,
+      "text": "Now that's the end of this Sutta."
+    },
+    {
+      "start": 1586.82,
+      "end": 1593.82,
+      "text": "Now according to the Diga Nikhaya Sutta No. 34"
+    },
+    {
+      "start": 1593.82,
+      "end": 1600.82,
+      "text": "this Sutta refers to four kinds of concentration."
+    },
+    {
+      "start": 1600.82,
+      "end": 1604.82,
+      "text": "And this is also explained in the Visuddhi Maga."
+    },
+    {
+      "start": 1604.82,
+      "end": 1608.82,
+      "text": "In the Visuddhi Maga it says that"
+    },
+    {
+      "start": 1608.82,
+      "end": 1611.82,
+      "text": "of these forms of concentration"
+    },
+    {
+      "start": 1611.82,
+      "end": 1614.82,
+      "text": "partaking of worsening or decline"
+    },
+    {
+      "start": 1614.82,
+      "end": 1618.82,
+      "text": "is due to the frequent arising of opposing states"
+    },
+    {
+      "start": 1618.82,
+      "end": 1621.82,
+      "text": "which means the hindrances probably."
+    },
+    {
+      "start": 1621.82,
+      "end": 1627.82,
+      "text": "Then the partaking of stability is due to the persistence of that mindfulness"
+    },
+    {
+      "start": 1627.82,
+      "end": 1630.82,
+      "text": "which is in conformity with concentration."
+    },
+    {
+      "start": 1630.82,
+      "end": 1635.82,
+      "text": "The partaking of distinction is due to the attainment of a higher distinctive state"
+    },
+    {
+      "start": 1635.82,
+      "end": 1638.82,
+      "text": "which probably means the janas."
+    },
+    {
+      "start": 1638.82,
+      "end": 1642.82,
+      "text": "The partaking of penetration is due to the promptings of perception"
+    },
+    {
+      "start": 1642.82,
+      "end": 1646.82,
+      "text": "and attention associated with disgust."
+    },
+    {
+      "start": 1646.82,
+      "end": 1651.82,
+      "text": "That means there is more like getting insight."
+    },
+    {
+      "start": 1651.82,
+      "end": 1655.82,
+      "text": "So you have disgust and dispassionate listener."
+    },
+    {
+      "start": 1655.82,
+      "end": 1661.82,
+      "text": "So from here you can see that"
+    },
+    {
+      "start": 1661.82,
+      "end": 1665.82,
+      "text": "when we practice meditation"
+    },
+    {
+      "start": 1665.82,
+      "end": 1668.82,
+      "text": "we have to go through these four states"
+    },
+    {
+      "start": 1668.82,
+      "end": 1672.82,
+      "text": "the state of worsening which is the initial stage."
+    },
+    {
+      "start": 1672.82,
+      "end": 1677.82,
+      "text": "In our meditation our concentration is not stable."
+    },
+    {
+      "start": 1677.82,
+      "end": 1680.82,
+      "text": "So sometimes you progress, sometimes you regress,"
+    },
+    {
+      "start": 1680.82,
+      "end": 1682.82,
+      "text": "sometimes you progress."
+    },
+    {
+      "start": 1682.82,
+      "end": 1685.82,
+      "text": "You take one step forward and then later you take two steps back."
+    },
+    {
+      "start": 1685.82,
+      "end": 1687.82,
+      "text": "Sometimes you take three steps forward"
+    },
+    {
+      "start": 1687.82,
+      "end": 1689.82,
+      "text": "and then you take one step back like that."
+    },
+    {
+      "start": 1689.82,
+      "end": 1692.82,
+      "text": "So this is the worsening stage."
+    },
+    {
+      "start": 1692.82,
+      "end": 1696.82,
+      "text": "Then later you come to the second stage of stability"
+    },
+    {
+      "start": 1696.82,
+      "end": 1700.82,
+      "text": "where you can get into a tranquil state"
+    },
+    {
+      "start": 1700.82,
+      "end": 1702.82,
+      "text": "every time you meditate."
+    },
+    {
+      "start": 1702.82,
+      "end": 1707.82,
+      "text": "Every time you sit down because of experience"
+    },
+    {
+      "start": 1707.82,
+      "end": 1712.82,
+      "text": "you are able to bring your mind down into a tranquil state"
+    },
+    {
+      "start": 1712.82,
+      "end": 1714.82,
+      "text": "so that you can use it."
+    },
+    {
+      "start": 1714.82,
+      "end": 1716.82,
+      "text": "Then the third one is distinction."
+    },
+    {
+      "start": 1716.82,
+      "end": 1719.82,
+      "text": "That means you achieve a state of distinction."
+    },
+    {
+      "start": 1719.82,
+      "end": 1723.82,
+      "text": "And this I should refer to the Jhanas,"
+    },
+    {
+      "start": 1723.82,
+      "end": 1725.82,
+      "text": "the one-pointedness of mind."
+    },
+    {
+      "start": 1725.82,
+      "end": 1728.82,
+      "text": "In the monk's precepts"
+    },
+    {
+      "start": 1728.82,
+      "end": 1733.82,
+      "text": "there is one precept in the Parajikas"
+    },
+    {
+      "start": 1733.82,
+      "end": 1736.82,
+      "text": "the very heaviest offenses for a monk"
+    },
+    {
+      "start": 1736.82,
+      "end": 1741.82,
+      "text": "where if a monk does not have supernormal attainments"
+    },
+    {
+      "start": 1741.82,
+      "end": 1745.82,
+      "text": "and he claims to have supernormal attainments"
+    },
+    {
+      "start": 1745.82,
+      "end": 1748.82,
+      "text": "then he is Parajika, he is no more a monk."
+    },
+    {
+      "start": 1748.82,
+      "end": 1752.82,
+      "text": "And in this definition of supernormal attainments"
+    },
+    {
+      "start": 1752.82,
+      "end": 1755.82,
+      "text": "one is Arya stages."
+    },
+    {
+      "start": 1755.82,
+      "end": 1759.82,
+      "text": "That means he is not an Arya, he claims to be an Arya."
+    },
+    {
+      "start": 1759.82,
+      "end": 1763.82,
+      "text": "Second one, he does not have psychic power,"
+    },
+    {
+      "start": 1763.82,
+      "end": 1765.82,
+      "text": "he claims to have psychic power."
+    },
+    {
+      "start": 1765.82,
+      "end": 1768.82,
+      "text": "Another one is he does not have Jhana"
+    },
+    {
+      "start": 1768.82,
+      "end": 1770.82,
+      "text": "and he claims to have Jhana."
+    },
+    {
+      "start": 1770.82,
+      "end": 1774.82,
+      "text": "That means he purposely, willfully lies."
+    },
+    {
+      "start": 1774.82,
+      "end": 1780.82,
+      "text": "So because of that definition of supernormal states"
+    },
+    {
+      "start": 1780.82,
+      "end": 1786.82,
+      "text": "so Jhana is a state of supernormal attainment,"
+    },
+    {
+      "start": 1786.82,
+      "end": 1788.82,
+      "text": "a state of distinction."
+    },
+    {
+      "start": 1788.82,
+      "end": 1791.82,
+      "text": "That's why here I should refer to the Jhanas."
+    },
+    {
+      "start": 1791.82,
+      "end": 1797.82,
+      "text": "And then the last one is the perception of this penetration."
+    },
+    {
+      "start": 1797.82,
+      "end": 1801.82,
+      "text": "That means he gets insight as a result"
+    },
+    {
+      "start": 1801.82,
+      "end": 1804.82,
+      "text": "of the one-pointedness of mind."
+    },
+    {
+      "start": 1804.82,
+      "end": 1806.82,
+      "text": "So we have to go through these four states"
+    },
+    {
+      "start": 1806.82,
+      "end": 1809.82,
+      "text": "to get liberation in this very life."
+    },
+    {
+      "start": 1809.82,
+      "end": 1812.82,
+      "text": "So here you can see the importance of"
+    },
+    {
+      "start": 1812.82,
+      "end": 1815.82,
+      "text": "both Samatha and Vipassana"
+    },
+    {
+      "start": 1815.82,
+      "end": 1818.82,
+      "text": "in the liberation of a person."
+    }
+  ]
+}

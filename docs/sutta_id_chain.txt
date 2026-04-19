@@ -1,0 +1,178 @@
+Sutta ID,Conceptual Chain,Sutta Name (English),Sutta Name (Pali)
+AN 2.12,"2.1.2 | householder struggle, renunciant struggle",Struggles,Padhaana Sutta
+AN 2.13,"2.1.3 | doing immoral acts, omitting moral acts",Failure,Kamma-vipaka Sutta
+AN 2.15,"2.1.5 | discontent in good states, not shrinking back",Lack of Contentment,Atutta Sutta
+AN 2.16,2.1.6 | satisfaction/disgust on fetters,Fetters,Saññoga Sutta
+AN 2.19,"2.1.9 | conscience, remorse",Conscience and Prudence,Sukka Sutta
+AN 2.34,2.2.5 | offending monk/reproving monk examines himself,A Judge,Atthavasa Sutta
+AN 2.40,"2.3.9 | pleasant abiding, compassion for future generations",Benefit,Hita Sutta
+AN 2.31,"2.4.1 | ingratitude, gratitude and mindfulness",Gratitude,Katannu Sutta
+AN 2.33,"2.4.2 | mother, father",Parents,Matapitu Sutta
+AN 2.35,"2.4.4 | the learner, the adept",The Learner,Sekha Sutta
+AN 2.47,2.5.6 | company trained in bluster/enquiry,Assemblies,Parisa Sutta
+AN 2.144,"2.10.2 | takes up the burden, does not take up not his",The Burden,Bhara Sutta
+AN 2.119,"2.11.2 | first to do a favor, grateful for what is done",Favors,Upakara Sutta
+AN 2.126,"2.11.9 | another's utterance, proper attention",Conditions,Paccaya Sutta
+AN 2.131,"2.12.1 | Sariputta, Moggallana",The Two Persons,Puggala Sutta
+AN 3.12,"3.2.12 | hair shaved, realized as is, destruction of asavas",The King,Sarandada Sutta
+AN 3.16,"3.2.16 | Guarding sense doors, moderation, wakefulness",Very Helpful,Apaṇṇaka Sutta
+AN 3.19,"3.2.19 | early dawn, midday, evening",Shopkeeper,Paṇika Sutta
+AN 3.31,"3.3 | topsy-turvy, scatter brain, comprehensive mind",The Pot,Kumbha Sutta
+AN 3.26,"3.3.26 | one not to follow, followed, honored",To Be Followed,Sevitabba Sutta
+AN 3.32,"3.4 | mother, father, children",To Be Honored,Brahmā Sutta
+AN 3.34,"3.4.34 | passion, hatred, delusion",Foundations,Nidāna Sutta
+AN 3.35,"3.4.35 | old age, disease, death",Messengers,Devadūta Sutta
+AN 3.39,"3.4.39 | pride of youth, health, life",Refinement,Sukhumāla Sutta
+AN 3.40,"3.4.40 | dominance of self, world, dhamma",Sovereignty,Adhipateyya Sutta
+AN 3.44,"3.5.44 | the teacher, he who listens, both alike",Success,Pavatti Sutta
+AN 3.45,"3.5.45 | charity, support of parents, going forth",Virtuous People,Sappurisa Sutta
+AN 3.47,"3.5.47 | birth, passing, changeability",Conditioned,Saṅkhata Sutta
+AN 3.56,"3.6.56 | greed/hatred/delusion, wrong doctrines, corrupt leaders",Growth,Vuddhi Sutta
+AN 3.57,"3.6.57 | arms given to me, my followers, another's",Vacchagotta,Vacchagotta Sutta
+AN 4.3,"4.1.3 | without investigation, after investigation",Disrespect,Agārava Sutta
+AN 4.13,"4.2.13 | 4 right efforts (prevent, abandon, generate, nurture)",Striving,Padhāna Sutta
+AN 4.14,"4.2.14 | effort to restrain, abandon, generate, nurture",Restraint,Saṃvara Sutta
+AN 4.37,"4.4.37 | perfect in virtue, sense doors, eating, wakefulness",Unfailing,Aparihāniya Sutta
+AN 4.41,4.5.41 | attainment of the four jhanas,Development of Concentration,Samādhibhāvanā Sutta
+AN 4.50,"4.5.50 | liquor, sex, gold/silver, wrong livelihood",Corruptions,Upakkilesa Sutta
+AN 4.51,"4.6.51 | giver of food, lodging, medicines",Streams of Merit,Puṇṇābhisanda Sutta
+AN 4.61,"4.7.61 | faith, virtue, generosity, wisdom",Worthy Deeds,Pattakamma Sutta
+AN 4.62,"4.7.62 | bliss of ownership, wealth, debtlessness, blamelessness",Debtless,Anaṇa Sutta
+AN 4.67,"4.7.67 | snake families (Virupaka, Erapata, etc.)",Snake Charm,Ahinda Sutta
+AN 4.70,4.7.70 | unrighteous/righteous kings,Unrighteous,Adhammika Sutta
+AN 4.79,4.8.79 | failure/success in business,Trade,Vaṇijja Sutta
+AN 4.94,4.9.89 | tranquilization vs insight combinations,Tranquility,Samadhi Sutta
+AN 4.95,4.10.95 | benefit of self and others,The Torch,Chavalata Sutta
+AN 4.102,4.10.100 | thunderer/rainer (Cloud imagery),Clouds,Valahaka Sutta
+AN 4.161,4.17 | painful/pleasant vs sluggish/swift knowledge,Modes of Progress,Paṭipadā Sutta
+AN 4.163,4.17.100 | painful/pleasant vs sluggish/swift (Alternative),In Brief,Saṅkhitta Sutta
+AN 4.167,4.17.167 | Moggallana's progress description,Moggallāna,Moggallāna Sutta
+AN 4.174,4.18.174 | four positions on existence/non-existence,Kotthita,Kotthita Sutta
+AN 4.180,"4.18.180 | The 4 Great Authorities (Face-to-face, Sangha, etc.)",Great Authorities,Mahapadesa Sutta
+AN 4.185,"4.19.185 | non-harming, impermanence, non-attachment",Truths,Sacca Sutta
+AN 4.192,"4.20.192 | virtue, integrity, courage, wisdom",Traits,Thāna Sutta
+AN 4.197,4.20.197 | irritability of women (Mallika inquiry),Mallikā,Mallikā Sutta
+AN 4.201,4.21.201 | unworthy/worthy man,Unworthy Man,Sappurisa Sutta
+AN 4.244,"4.25.244 | postures (ghost, luxury, lion, tathagata)",Postures,Seyyā Sutta
+AN 4.245,"4.25.245 | Tattagata, Pacceka Buddha, Rajah, Arahant",Worthy of Stupa,Thūpāraha Sutta
+AN 4.246,"4.25.246 | association, hearing, consideration, behavior",Factors for Stream-entry,Sotāpattiyaṅga Sutta
+AN 5.5,5.1.5 | 5 hindrances + lack of conscientiousness,Weaknesses,Upakkilesa Sutta
+AN 5.14,"5.2.14 | powers of faith, energy, mindfulness, concentration, wisdom",Powers in Detail,Vitthara Sutta
+AN 5.22,"5.3.22 | respect, precepts, learner's dhammas, conduct, concentration",Respect,Gārava Sutta
+AN 5.26,"5.3.26 | hearing, teaching, repeating, pondering, contemplating",Bases of Liberation,Vimuttāyatana Sutta
+AN 5.27,5.3.27 | fivefold knowledge of concentration,Noble Concentration,Samādhi Sutta
+AN 5.33,"5.4.33 | husbandry, rising early, skilled in business",Uggaha,Uggaha Sutta
+AN 5.34,5.4.34 | Siha’s benefits of giving,General Sīha,Sīha Sutta
+AN 5.42,5.5.42 | good man born for the benefit of many,A Good Man,Sappurisa Sutta
+AN 5.43,"5.5.43 | long life, beauty, happiness, honor, rebirth",Likable,Iṭṭha Sutta
+AN 5.48,"5.5.48 | beyond aging, sickness, death, wasting, ending",Condition,Thāna Sutta
+AN 5.50,5.5.50 | the 5 hindrances,Narada,Nārada Sutta
+AN 5.51,5.6.52 | the 5 hindrances (Obstructions),Obstructions,Āvaraṇa Sutta
+AN 5.53,"5.6.53 | factors of striving (faith, health, honesty, effort, insight)",Striving,Padhāniyaṅga Sutta
+AN 5.54,"5.6.54 | famine, bandits, division",Times of Scarcity,Samaya Sutta
+AN 5.56,"5.6.56 | guarding doors, moderation, wakefulness, effort, enlightenment",To Be Cultivated,Upasampadā Sutta
+AN 5.57,"5.6.57 | aging, illness, death, separation, karma",Five Themes,Abhiṇhapaccavekkhitabba Sutta
+AN 5.58,5.6.58 | Licchavi youths' regard,Licchavi,Licchavi Sutta
+AN 5.59,5.6.59 | preacher's qualities,Preacher,Dhammakathika Sutta
+AN 5.159,5.6.100 | teaching with kindliness/no gain,Udayin,Udāyī Sutta
+AN 5.65,"5.7.65 | virtue, concentration, liberation, insight, experience",Non-returner,Anāgāmī Sutta
+AN 5.75,"5.8.75 | warriors (dust, standard, tumor, struck, victorious)",Warriors (First),Yodhājīva Sutta
+AN 5.77,"5.8.77 | fears: snake, fall, illness, creatures, thieves",Future Dangers (First),Anāgatabhaya Sutta
+AN 5.78,"5.8.78 | future dangers: impermanence, famine, etc.",Future Dangers (Second),Anāgatabhaya Sutta
+AN 5.79,5.8.79 | monks not making body/mind/wisdom become,Future Dangers (Third),Anāgatabhaya Sutta
+AN 5.89,"5.9.89 | too much work, gossip, sleep, company, no reflection",Potential,Sappaṭibhāṇa Sutta
+AN 5.96,"5.10.96 | few duties, learner, reflects on mind",Sutadhara,Sutadhara Sutta
+AN 5.99,"5.10.99 | Buddha, monks, nuns, laymen, laywomen",Lion,Sīha Sutta
+AN 5.111,"5.12.111 | too intimate, interfering, society of dissenters",Family,Kula Sutta
+AN 5.112,"5.12.112 | behind/near, bowl, speech, interrupting, dull-witted",Attendant,Pacchāsamana Sutta
+AN 5.113,"5.12.113 | sights, sounds, smell, taste, touches",Delights,Sammosa Sutta
+AN 5.114,"5.12.114 | patimoka, sense doors, beneficial talk, seclusion, right view",Forest-dweller,Āraññaka Sutta
+AN 5.123,5.13.123 | five traits of a difficult patient,Patient,Gilāna Sutta
+AN 5.124,5.13.124 | five traits of a bad nurse,Caregiver,Upakaṭṭhāka Sutta
+AN 5.127,"5.13.127 | not satisfied with robes, arms, lodging, medicine, lustful",Discontent,Itthadhamma Sutta
+AN 5.129,"5.13.129 | kills mother, father, arahant, Buddha's blood, Sangha division",Destinations,Parikuppa Sutta
+AN 5.130,"5.13.130 | loss of kin, wealth, health, virtue, view",Loss,Vipatti Sutta
+AN 5.141,"5.15.1 | giving in faith, deference, time, unconstrained, no hurt",Manner of Giving,Sappurisadāna Sutta
+AN 5.144,5.15.100 | one who gives and despises,Despising,Tikiccha Sutta
+AN 5.147,"5.15.147 | giving without thinking/deference, rejected gifts",Unworthy Giving,Asappurisadāna Sutta
+AN 5.149,"5.15.149 | work, gossip, sleep, company, no release",Potential,Samadhi Sutta
+AN 5.157,"5.16.157 | faithless, virtueless, little learner, mean, foolish",Unworthy,Asappurisa Sutta
+AN 5.162,5.17.162 | removal of resentment,Removing Resentment,Āghātapaṭivinaya Sutta
+AN 5.175,5.18.175 | lay follower’s success,Lay Follower,Upāsaka Sutta
+AN 5.176,5.18.176 | pain/pleasure following lust/evil/good,Delight,Pīti Sutta
+AN 5.177,"5.18.177 | five trades (weapons, humans, flesh, liquor, poison)",Trades,Vaṇijjā Sutta
+AN 5.179,"5.18.179 | five precepts (abstaining from life-taking, etc.)",Household,Gihī Sutta
+AN 5.191,5.20.191 | Brahmins of old,Dogs,Soṇa Sutta
+AN 5.199,5.20.199 | how to treat a family,Household,Kula Sutta
+AN 5.201,"5.21.201 | lack of reverence for teacher, dhamma, etc.",Falling Away,Parihāna Sutta
+AN 5.192,5.23.192 | Brahma/Deva/Bounded/Breaker/Outcast,Brahmins,Doṇa Sutta
+AN 5.223,"5.23.223 | belongings, medicine, duties, concern for life",Dwelling,Āvāsa Sutta
+AN 5.226,"5.23.226 | seeing women, companionship, intimacy, amorousness",Intimacy,Saṃsadda Sutta
+AN 5.250,"5.25.250 | suspension, sitting on outskirts, wandering mind, mad",Expulsion,Nissāraṇīya Sutta
+AN 5.254,"5.26.254 | five stinginesses (lodging, family, gains, fame, dhamma)",Stinginess,Macchariya Sutta
+AN 6.12,6.2.12 | six principles of cordiality,Memorable,Sāraṇīya Sutta
+AN 6.17,"6.2.17 | Sariputta, Moggallana, etc.",Elders,Sāraṇīya Sutta
+AN 6.30,"6.3.30 | six unsurpassed things (sight, sound, etc.)",Unsurpassed,Anuttariya Sutta
+AN 6.36,"6.4.36 | angry, hypocrite, mean, crafty, wrong view",Disputations,Vivādamūla Sutta
+AN 6.37,"6.4.37 | 3-fold giver, 3-fold receiver",Offering,Dāna Sutta
+AN 6.41,"6.4.41 | elements (earth, water, fire, wind, beauty, etc.)",Elements,Dhatu Sutta
+AN 6.44,"6.5.44 | restraint, wrath/pride conquered",Migasala,Migasālā Sutta
+AN 6.45,"6.5.45 | poverty, borrowing, interest, pressing, binding",Debt,Ina Sutta
+AN 6.50,"6.5.50 | masters, teaches, makes repeat, reflects, vasa",Potential,Indriya Sutta
+AN 6.53,6.5.53 | earnestness establishing two wheels,Earnestness,Appamāda Sutta
+AN 6.56,6.6.50 | seeing the Tathagata/disciple before death,Near Death,Phagguna Sutta
+AN 6.55,6.6.55 | Sona's lute (effort),Sona,Soṇa Sutta
+AN 6.63,"6.6.63 | sense desires, feelings, etc. (Penetrative)",Penetrative,Nibbedhika Sutta
+AN 6.69,"6.7.69 | reverence for teacher, dhamma, sangha, etc.",Respect,Gārava Sutta
+AN 6.78,"6.8.78 | delights in dhamma, development, renunciation",Happiness,Sukha Sutta
+AN 7.4,"7.1.4 | seven treasures (faith, etc.)",Treasures,Dhana Sutta
+AN 7.13,7.2.13 | signs of bad friendship,Families,Kula Sutta
+AN 7.23,"7.3.23 | conditions for growth (faith, etc.)",Growth,Vuddhi Sutta
+AN 7.27,"7.3.27 | fails to see/hear/trust, seeks gifts outside",Non-decline,Aparihāniya Sutta
+AN 7.38,"7.4.38 | skill in concentration (entering, emerging, etc.)",Concentration,Samādhi Sutta
+AN 7.39,"7.4.39 | zeal in training, discipline, energy, mindfulness",Zeal,Chanda Sutta
+AN 7.40,"7.5.40 | unattractive, death, distaste for food, world discontent",Seven Perceptions,Saññā Sutta
+AN 7.42,7.5.42 | seven factors of enlightenment (Alternative list),Factors,Dhamma Sutta
+AN 7.47,"7.5.47 | types of sexual bonds (massaging, joking, etc.)",Sexual Intercourse,Methuna Sutta
+AN 7.54,7.6.54 | miser vs master giver,Ugga,Ugga Sutta
+AN 7.56,"7.6.56 | lack of reverence for teacher, etc.",Non-decline,Aparihāniya Sutta
+AN 7.57,"7.6.57 | faith, virtue, learned, secluded, energy, mindfulness, wisdom",Worthy of Offerings,Āhuneyya Sutta
+AN 7.59,7.6.59 | seven gems of a wheel-turning monarch,Seven Gems,Sattaratana Sutta
+AN 7.60,7.6.60 | seven consequences of anger,Anger,Kodhana Sutta
+AN 7.63,7.7.63 | seven qualities of a monk,Fortress,Nagara Sutta
+AN 7.64,"7.7.64 | knower of Dhamma, meaning, self, measure, time, assembly, person",The Knower,Dhammaññū Sutta
+AN 7.65,7.7.65 | Parichattaka tree (stages of blooming),Coral Tree,Pāricchattaka Sutta
+AN 7.66,7.7.66 | seven suns (destruction of world),Seven Suns,Sattasuriya Sutta
+AN 7.69,7.7.69 | Sunito's verses,Sunīta,Sunīta Sutta
+AN 8.6,"8.1.6 | 8 worldly winds (gain, loss, etc.)",Worldly Conditions,Lokadhamma Sutta
+AN 8.8,8.1.8 | mastering worldly winds,Uttiya,Uttiya Sutta
+AN 8.15,"8.2.15 | stains (mantra, houses, etc.)",Stains,Mala Sutta
+AN 8.18,"8.2.18 | ways a woman/man binds (appearance, etc.)",Binding,Bandhana Sutta
+AN 8.21,8.3.21 | Ugga’s amazing things,Ugga of Vesali,Ugga Sutta
+AN 8.25,8.3.25 | refuge and precepts,Mahanama,Mahānāma Sutta
+AN 8.39,"8.4.39 | 8 rewards (refuge, 5 precepts, fearlessness)",Streams of Merit,Abhisanda Sutta
+AN 8.40,8.4.40 | results of misconduct,Misconduct,Vipāka Sutta
+AN 8.46,8.5.46 | qualities of a good wife,Anuruddha,Anuruddha Sutta
+AN 8.51,8.6.51 | eight heavy rules (Garudhammas),Gotami,Gotamī Sutta
+AN 8.52,8.6.52 | qualities of an instructor of nuns,Selection,Dutiya-ovāda Sutta
+AN 8.53,8.6.53 | Gotami’s brief dhamma (release vs bondage),In Brief,Saṅkhitta Sutta
+AN 8.58,8.6.58 | qualities for destroying asavas,Destructors,Asavakkhaya Sutta
+AN 8.59,"8.6.59 | worthy of offerings (Stream-winner, etc.)",Fields of Merit,Puṇṇakkhetta Sutta
+AN 8.69,"8.7.69 | assemblies (nobles, brahmins, etc.)",Assemblies,Parisā Sutta
+AN 8.81,"8.9.81 | conditions for liberation (mindfulness, etc.)",Causes,Hetu Sutta
+AN 8.82,"8.9.82 | believer visits, sits, questions, listens",Punnìya,Puṇṇiya Sutta
+AN 9.10,9.1.10 | the nine types of persons (Arahant to Clan),Worthy,Āhuneyya Sutta
+AN 9.12,9.2.12 | types of non-returners,Remaining,Saupādisesa Sutta
+AN 9.33,9.4.33 | nine successive abidings,Successive Cessations,Anupubbanirodha Sutta
+AN 9.34,9.4.34 | Nibbana is bliss (Sariputta),Nibbana is Bliss,Nibbānasukha Sutta
+AN 9.40,9.4.40 | the 9 cessations,Successive Abidings,Anupubbavihāra Sutta
+AN 9.42,9.4.42 | cessation by wisdom (Sariputta),Body as Witness,Kāyasakkhī Sutta
+AN 10.17,10.17 | qualities that provide protection,Protection,Nātha Sutta
+AN 10.20,"10.20 | ten factors of a monk (abandoning 5, etc.)",Dwelling,Vāsa Sutta
+AN 10.69,"10.69 | few wishes, contentment, etc.",Topics of Conversation,Kathāvatthu Sutta
+AN 10.70,10.70 | delights in seclusion vs society,Seclusion,Paṭisallāna Sutta
+AN 10.73,"10.73 | energy, finery, exercise, friendship, restraint",Desires,Iṭṭha Sutta
+AN 10.74,10.74 | property vs faith/virtue/wisdom,Growth,Vaḍḍhi Sutta
+AN 10.101,"10.101 | pause in action, no harm, conceit, eager",Striving,Padhaana Sutta
+AN 11.6,"11.6 | fails to attain, falls away, rebirth in hell",Destruction,Vinasana Sutta
+AN 11.16,"11.16 | 11 benefits of metta (sleeps happy, etc.)",Goodwill,Mettā Sutta

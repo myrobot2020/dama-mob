@@ -1,0 +1,2025 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1653.1214375,
+  "segments": [
+    {
+      "start": 0.62,
+      "end": 6.62,
+      "text": "I come to the Nexuta 4.20.196."
+    },
+    {
+      "start": 6.62,
+      "end": 13.62,
+      "text": "On a certain occasion, the exalted one was staying near Vaisali in great wood at peak-roofed house."
+    },
+    {
+      "start": 13.62,
+      "end": 19.62,
+      "text": "Now, Salha the Lichavi and Abhaya the Lichavi came to visit the exalted one,"
+    },
+    {
+      "start": 19.62,
+      "end": 23.62,
+      "text": "and on coming to him, saluted him and sat down at one side."
+    },
+    {
+      "start": 23.62,
+      "end": 27.62,
+      "text": "So seated, Salha the Lichavi said this to the exalted one,"
+    },
+    {
+      "start": 27.62,
+      "end": 32.62,
+      "text": "there are some recluses and Brahmins Lord who proclaim a twofold crossing of the flood,"
+    },
+    {
+      "start": 32.62,
+      "end": 38.62,
+      "text": "namely the way made by purity of morals and that made by self-modification."
+    },
+    {
+      "start": 38.62,
+      "end": 41.62,
+      "text": "What says the exalted one about this Lord?"
+    },
+    {
+      "start": 41.62,
+      "end": 47.62,
+      "text": "I do indeed say, Salha, that purity of morals is a factor of recluseship."
+    },
+    {
+      "start": 47.62,
+      "end": 52.62,
+      "text": "Those recluses and Brahmins who uphold self-modification,"
+    },
+    {
+      "start": 52.62,
+      "end": 57.62,
+      "text": "who make self-modification essential, who remain clinging to self-modification,"
+    },
+    {
+      "start": 57.62,
+      "end": 60.62,
+      "text": "they are incapable of crossing the flood."
+    },
+    {
+      "start": 60.62,
+      "end": 66.62,
+      "text": "Moreover, Salha, those recluses and Brahmins who practice impurity of body, speech and mind,"
+    },
+    {
+      "start": 66.62,
+      "end": 75.62,
+      "text": "who live in impurity, they are incapable of knowledge and insight of the enlightenment that is unsurpassed."
+    },
+    {
+      "start": 75.62,
+      "end": 77.62,
+      "text": "I'll just stop here for a moment."
+    },
+    {
+      "start": 77.62,
+      "end": 84.62,
+      "text": "Here you see just now what I was saying about purity of body, speech and mind."
+    },
+    {
+      "start": 84.62,
+      "end": 88.62,
+      "text": "The Buddha is saying here, if you have impurity of body, speech and mind,"
+    },
+    {
+      "start": 88.62,
+      "end": 94.62,
+      "text": "you are incapable of knowledge and insight of the enlightenment that is unsurpassed."
+    },
+    {
+      "start": 94.62,
+      "end": 99.62,
+      "text": "Then the Buddha said, suppose a man, Salha, desirous of crossing a river,"
+    },
+    {
+      "start": 99.62,
+      "end": 102.62,
+      "text": "takes a sharp axe and enters the jungle."
+    },
+    {
+      "start": 102.62,
+      "end": 109.62,
+      "text": "There he sees a mighty, salt tree straight up, young, not of crooked growth."
+    },
+    {
+      "start": 109.62,
+      "end": 111.62,
+      "text": "He cuts it down at the root."
+    },
+    {
+      "start": 111.62,
+      "end": 116.62,
+      "text": "Having done so, he lops it at the top and having lopped it at the top,"
+    },
+    {
+      "start": 116.62,
+      "end": 119.62,
+      "text": "clears off branches and twigs and makes it clean."
+    },
+    {
+      "start": 119.62,
+      "end": 123.62,
+      "text": "Having done so, he chips it roughly with axes."
+    },
+    {
+      "start": 123.62,
+      "end": 126.62,
+      "text": "Having chipped it with axes, he does so with knives."
+    },
+    {
+      "start": 126.62,
+      "end": 129.62,
+      "text": "Having done that, he smooths it with a scraper."
+    },
+    {
+      "start": 129.62,
+      "end": 134.62,
+      "text": "After that, he smooths it with a rock ball and then brings it down to the river."
+    },
+    {
+      "start": 134.62,
+      "end": 138.62,
+      "text": "What do you think, Salha, is that man capable of crossing the river?"
+    },
+    {
+      "start": 138.62,
+      "end": 141.62,
+      "text": "Not so, Lord. What is the cause of that?"
+    },
+    {
+      "start": 141.62,
+      "end": 148.62,
+      "text": "Why, Lord, that salt tree log, though well-worked outside, is not cleaned out inside?"
+    },
+    {
+      "start": 148.62,
+      "end": 150.62,
+      "text": "This is to be expected of it."
+    },
+    {
+      "start": 150.62,
+      "end": 154.62,
+      "text": "The log will sink. The man comes to misfortune and destruction."
+    },
+    {
+      "start": 154.62,
+      "end": 161.62,
+      "text": "Well, Salha, just in the same way, those recluses and Brahmins who uphold self-modification,"
+    },
+    {
+      "start": 161.62,
+      "end": 166.62,
+      "text": "who make self-modification essential, who cling to self-modification,"
+    },
+    {
+      "start": 166.62,
+      "end": 168.62,
+      "text": "are incapable of crossing the flood."
+    },
+    {
+      "start": 168.62,
+      "end": 175.62,
+      "text": "Moreover, Salha, those recluses and Brahmins who practice impurity of body, speech and mind,"
+    },
+    {
+      "start": 175.62,
+      "end": 179.62,
+      "text": "who live in impurity, they are incapable of knowledge and insight,"
+    },
+    {
+      "start": 179.62,
+      "end": 182.62,
+      "text": "of the enlightenment which is unsurpassed."
+    },
+    {
+      "start": 182.62,
+      "end": 187.62,
+      "text": "But on the other hand, those recluses and Brahmins who do not these things"
+    },
+    {
+      "start": 187.62,
+      "end": 193.62,
+      "text": "but live purely are capable of knowledge and insight, of the enlightenment which is unsurpassed."
+    },
+    {
+      "start": 193.62,
+      "end": 195.62,
+      "text": "I'll just stop here for a while."
+    },
+    {
+      "start": 195.62,
+      "end": 204.26,
+      "text": "The Buddha has given an example about a man trying to make a boat out of a log."
+    },
+    {
+      "start": 204.26,
+      "end": 209.26,
+      "text": "But he carves the outside of the tree."
+    },
+    {
+      "start": 209.26,
+      "end": 215.26,
+      "text": "He doesn't work on the inside of the tree."
+    },
+    {
+      "start": 215.26,
+      "end": 218.26,
+      "text": "He doesn't carve the inside of the tree, carves only outside."
+    },
+    {
+      "start": 218.26,
+      "end": 224.26,
+      "text": "So similarly, self-modification is working on the outside of the body, torturing the body."
+    },
+    {
+      "start": 224.26,
+      "end": 227.26,
+      "text": "And that is not the spiritual path, not the Aryan path."
+    },
+    {
+      "start": 227.26,
+      "end": 232.26,
+      "text": "But purity of body, speech and mind is purity of the three kamas."
+    },
+    {
+      "start": 232.26,
+      "end": 236.26,
+      "text": "And that is purity of intention because karma is intention."
+    },
+    {
+      "start": 236.26,
+      "end": 239.26,
+      "text": "So purity of intention is purity of mind."
+    },
+    {
+      "start": 239.26,
+      "end": 242.26,
+      "text": "So that is connected with the spiritual path."
+    },
+    {
+      "start": 242.26,
+      "end": 243.26,
+      "text": "Then the Buddha said,"
+    },
+    {
+      "start": 243.26,
+      "end": 249.26,
+      "text": "But suppose a man, Salha, desirous of crossing a river, takes a sharp axe and enters the jungle."
+    },
+    {
+      "start": 249.26,
+      "end": 253.26,
+      "text": "There he sees a mighty, salt tree trunks, etc."
+    },
+    {
+      "start": 253.26,
+      "end": 257.26,
+      "text": "And after chipping it with knives, he takes a chisel and cleans out the inside"
+    },
+    {
+      "start": 257.26,
+      "end": 260.26,
+      "text": "till it is thoroughly hollowed out."
+    },
+    {
+      "start": 260.26,
+      "end": 264.26,
+      "text": "He takes a scraper and scrapes it and smooths it with a rock ball."
+    },
+    {
+      "start": 264.26,
+      "end": 268.26,
+      "text": "When he has done this, he makes a boat of it, fastens on oars and rudder"
+    },
+    {
+      "start": 268.26,
+      "end": 271.26,
+      "text": "and finally brings down the boat to the river."
+    },
+    {
+      "start": 271.26,
+      "end": 272.26,
+      "text": "What do you think, Salha?"
+    },
+    {
+      "start": 272.26,
+      "end": 274.26,
+      "text": "Is that man capable of crossing the river?"
+    },
+    {
+      "start": 274.26,
+      "end": 276.26,
+      "text": "Yes, he is Lord."
+    },
+    {
+      "start": 276.26,
+      "end": 277.26,
+      "text": "What is the cause of that?"
+    },
+    {
+      "start": 277.26,
+      "end": 283.26,
+      "text": "Why Lord, that salt tree log is well worked outside and thoroughly cleaned out inside,"
+    },
+    {
+      "start": 283.26,
+      "end": 286.26,
+      "text": "made into a boat and fitted with oars and rudder?"
+    },
+    {
+      "start": 286.26,
+      "end": 288.26,
+      "text": "Rudder, this is to be expected of it."
+    },
+    {
+      "start": 288.26,
+      "end": 292.26,
+      "text": "The boat will not sink and the man will reach the shore in safety."
+    },
+    {
+      "start": 292.26,
+      "end": 294.26,
+      "text": "Well, Salha, just in the same way,"
+    },
+    {
+      "start": 294.26,
+      "end": 299.26,
+      "text": "those recluses and Brahmins who are not upholders of self-modification,"
+    },
+    {
+      "start": 299.26,
+      "end": 303.26,
+      "text": "who live not clinging to self-modification, are capable of crossing the flood."
+    },
+    {
+      "start": 303.26,
+      "end": 308.26,
+      "text": "And those recluses and Brahmins who practice uttered purity in body, speech and mind,"
+    },
+    {
+      "start": 308.26,
+      "end": 312.26,
+      "text": "who live in utter purity, are capable of knowledge and insight,"
+    },
+    {
+      "start": 312.26,
+      "end": 315.26,
+      "text": "of the enlightenment which is unsurpassed."
+    },
+    {
+      "start": 315.26,
+      "end": 317.26,
+      "text": "Stop here for a while."
+    },
+    {
+      "start": 317.26,
+      "end": 322.26,
+      "text": "So here the Buddha is giving the simile of the man who works on the log,"
+    },
+    {
+      "start": 322.26,
+      "end": 327.26,
+      "text": "carves the inside of the log out, cleans it and makes it into a boat,"
+    },
+    {
+      "start": 327.26,
+      "end": 329.26,
+      "text": "then he can cross to the other bank."
+    },
+    {
+      "start": 329.26,
+      "end": 335.26,
+      "text": "So in the same way, working on the purity of body, speech and mind,"
+    },
+    {
+      "start": 335.26,
+      "end": 340.26,
+      "text": "is working on the purity of our kamas,"
+    },
+    {
+      "start": 340.26,
+      "end": 344.26,
+      "text": "and that means purity of our intentions, purity of our mind,"
+    },
+    {
+      "start": 344.26,
+      "end": 346.26,
+      "text": "and spiritual path."
+    },
+    {
+      "start": 346.26,
+      "end": 347.26,
+      "text": "So the Buddha continued,"
+    },
+    {
+      "start": 347.26,
+      "end": 352.26,
+      "text": "Just as Salha, a fighting man, because he knows many cunning feats of archery,"
+    },
+    {
+      "start": 352.26,
+      "end": 356.26,
+      "text": "is worthy of a raja, is a possession of a raja,"
+    },
+    {
+      "start": 356.26,
+      "end": 359.26,
+      "text": "is reckoned an asset to a raja in three ways."
+    },
+    {
+      "start": 359.26,
+      "end": 360.26,
+      "text": "What are the three?"
+    },
+    {
+      "start": 360.26,
+      "end": 365.26,
+      "text": "He is a far shooter, a shooter like lightning, a piercer of a huge object."
+    },
+    {
+      "start": 365.26,
+      "end": 368.26,
+      "text": "Just as Salha, a fighting man is a far shooter,"
+    },
+    {
+      "start": 368.26,
+      "end": 372.26,
+      "text": "even so is the Aryan disciple possessed of right concentration."
+    },
+    {
+      "start": 372.26,
+      "end": 376.26,
+      "text": "The Aryan disciple, Salha, who possesses right concentration,"
+    },
+    {
+      "start": 376.26,
+      "end": 381.26,
+      "text": "whatsoever object be it past, future or present, personal or external to self,"
+    },
+    {
+      "start": 381.26,
+      "end": 385.26,
+      "text": "be it gross or subtle, being or exalted far or near,"
+    },
+    {
+      "start": 385.26,
+      "end": 387.26,
+      "text": "every object in short that he beholds,"
+    },
+    {
+      "start": 387.26,
+      "end": 391.26,
+      "text": "he looks upon it as he really is with right wisdom thus,"
+    },
+    {
+      "start": 391.26,
+      "end": 395.26,
+      "text": "This is not mine, this am I not, not is this myself."
+    },
+    {
+      "start": 395.26,
+      "end": 398.26,
+      "text": "Just as Salha, a fighting man is a shooter like lightning,"
+    },
+    {
+      "start": 398.26,
+      "end": 402.26,
+      "text": "even so is the Aryan disciple possessed of right view."
+    },
+    {
+      "start": 402.26,
+      "end": 405.26,
+      "text": "The Aryan disciple, Salha, who possesses right view,"
+    },
+    {
+      "start": 405.26,
+      "end": 408.26,
+      "text": "understands as it really is, this is dukkha,"
+    },
+    {
+      "start": 408.26,
+      "end": 411.26,
+      "text": "this is the arising of dukkha, and this is the ending of dukkha."
+    },
+    {
+      "start": 411.26,
+      "end": 414.26,
+      "text": "This is the practice going to the ending of dukkha."
+    },
+    {
+      "start": 414.26,
+      "end": 418.26,
+      "text": "Just as Salha, a fighting man is a piercer of a huge object,"
+    },
+    {
+      "start": 418.26,
+      "end": 422.26,
+      "text": "even so the Aryan disciple is possessed of right liberation."
+    },
+    {
+      "start": 422.26,
+      "end": 425.26,
+      "text": "The Aryan disciple, who possesses right liberation,"
+    },
+    {
+      "start": 425.26,
+      "end": 428.26,
+      "text": "pierces through the huge mass of ignorance,"
+    },
+    {
+      "start": 428.26,
+      "end": 431.26,
+      "text": "that's the end of the sutra."
+    },
+    {
+      "start": 431.26,
+      "end": 436.26,
+      "text": "This is one of the sutras where the Buddha uses the comparison"
+    },
+    {
+      "start": 436.26,
+      "end": 443.26,
+      "text": "of a fighting man to the Aryan disciple."
+    },
+    {
+      "start": 443.26,
+      "end": 449.26,
+      "text": "In the first comparison, the Buddha said that"
+    },
+    {
+      "start": 449.26,
+      "end": 452.26,
+      "text": "just as a fighting man is a far shooter,"
+    },
+    {
+      "start": 452.26,
+      "end": 456.26,
+      "text": "even so is the Aryan disciple possessed of right concentration."
+    },
+    {
+      "start": 456.26,
+      "end": 460.26,
+      "text": "Because the Aryan disciple, who possesses right concentration,"
+    },
+    {
+      "start": 460.26,
+      "end": 466.26,
+      "text": "sees the five khandhas, the five aggregates,"
+    },
+    {
+      "start": 466.26,
+      "end": 472.26,
+      "text": "five grass-fed aggregates, namely body,"
+    },
+    {
+      "start": 472.26,
+      "end": 476.26,
+      "text": "feeling, perception, volition and consciousness."
+    },
+    {
+      "start": 476.26,
+      "end": 480.26,
+      "text": "He sees these five aggregates as not mine, not I,"
+    },
+    {
+      "start": 480.26,
+      "end": 482.26,
+      "text": "not myself."
+    },
+    {
+      "start": 482.26,
+      "end": 486.26,
+      "text": "In other words, these five aggregates"
+    },
+    {
+      "start": 486.26,
+      "end": 492.26,
+      "text": "are five things that all beings associate with the self."
+    },
+    {
+      "start": 492.26,
+      "end": 495.26,
+      "text": "They take these five things to be the self,"
+    },
+    {
+      "start": 495.26,
+      "end": 504.63,
+      "text": "or to be a possession of the self."
+    },
+    {
+      "start": 505.63,
+      "end": 511.63,
+      "text": "The person who possesses right concentration"
+    },
+    {
+      "start": 511.63,
+      "end": 514.63,
+      "text": "is able to see things as they really are,"
+    },
+    {
+      "start": 514.63,
+      "end": 517.63,
+      "text": "that these five aggregates are not self,"
+    },
+    {
+      "start": 517.63,
+      "end": 521.63,
+      "text": "not mine, not I, not myself."
+    },
+    {
+      "start": 521.63,
+      "end": 525.63,
+      "text": "This shows the importance of right concentration,"
+    },
+    {
+      "start": 525.63,
+      "end": 530.63,
+      "text": "because only one with right concentration"
+    },
+    {
+      "start": 530.63,
+      "end": 532.63,
+      "text": "can see things as they really are."
+    },
+    {
+      "start": 532.63,
+      "end": 537.63,
+      "text": "Right concentration in the Buddha's teachings in the suttas"
+    },
+    {
+      "start": 537.63,
+      "end": 540.63,
+      "text": "is always defined as the four jhanas,"
+    },
+    {
+      "start": 540.63,
+      "end": 542.63,
+      "text": "or one-pointedness of mine."
+    },
+    {
+      "start": 542.63,
+      "end": 548.63,
+      "text": "One-pointedness of mine is explained very clearly in Sutta,"
+    },
+    {
+      "start": 548.63,
+      "end": 551.63,
+      "text": "in the Sanghuta Nikhaya,"
+    },
+    {
+      "start": 551.63,
+      "end": 554.63,
+      "text": "Sutta number 35.206,"
+    },
+    {
+      "start": 554.63,
+      "end": 557.63,
+      "text": "where the Buddha used the simile of six animals."
+    },
+    {
+      "start": 557.63,
+      "end": 560.63,
+      "text": "These six animals, when they are tied together,"
+    },
+    {
+      "start": 561.63,
+      "end": 565.63,
+      "text": "the six animals are trying to take off in six different directions"
+    },
+    {
+      "start": 565.63,
+      "end": 568.63,
+      "text": "so that at any one time, whichever one is strongest,"
+    },
+    {
+      "start": 568.63,
+      "end": 570.63,
+      "text": "will pull the others."
+    },
+    {
+      "start": 570.63,
+      "end": 572.63,
+      "text": "And when it becomes tired,"
+    },
+    {
+      "start": 572.63,
+      "end": 575.63,
+      "text": "another moment, whichever one is strongest,"
+    },
+    {
+      "start": 575.63,
+      "end": 578.63,
+      "text": "will pull and the other five will have to follow him."
+    },
+    {
+      "start": 578.63,
+      "end": 584.63,
+      "text": "So this is supposed to be the everyday mind,"
+    },
+    {
+      "start": 584.63,
+      "end": 588.63,
+      "text": "because our six senses,"
+    },
+    {
+      "start": 588.63,
+      "end": 592.63,
+      "text": "there are six objects which impinge on our six senses,"
+    },
+    {
+      "start": 592.63,
+      "end": 593.63,
+      "text": "on our six sense-doors,"
+    },
+    {
+      "start": 593.63,
+      "end": 598.63,
+      "text": "and whichever one is strongest, will pull our attention."
+    },
+    {
+      "start": 598.63,
+      "end": 600.63,
+      "text": "And then the Buddha said,"
+    },
+    {
+      "start": 600.63,
+      "end": 604.63,
+      "text": "that is not the way to tame the six animals."
+    },
+    {
+      "start": 604.63,
+      "end": 610.63,
+      "text": "The way to tame the six animals is to tie all the six animals"
+    },
+    {
+      "start": 610.63,
+      "end": 612.63,
+      "text": "around a huge stout pole,"
+    },
+    {
+      "start": 612.63,
+      "end": 615.63,
+      "text": "so that whichever direction they try to take off,"
+    },
+    {
+      "start": 615.63,
+      "end": 618.63,
+      "text": "they can only go round and round that pole"
+    },
+    {
+      "start": 618.63,
+      "end": 621.63,
+      "text": "so that eventually they become tired and weary,"
+    },
+    {
+      "start": 621.63,
+      "end": 625.63,
+      "text": "and they lie down, tamed, beside the pole."
+    },
+    {
+      "start": 625.63,
+      "end": 629.63,
+      "text": "So in the same way, to tame the mind,"
+    },
+    {
+      "start": 629.63,
+      "end": 632.63,
+      "text": "we have to tie to one stout pole,"
+    },
+    {
+      "start": 632.63,
+      "end": 634.63,
+      "text": "in other words, one object."
+    },
+    {
+      "start": 634.63,
+      "end": 638.63,
+      "text": "And whenever it is pulled away in a different direction,"
+    },
+    {
+      "start": 638.63,
+      "end": 643.63,
+      "text": "we have to pull it back to that one object of meditation"
+    },
+    {
+      "start": 643.63,
+      "end": 646.63,
+      "text": "so that eventually the mind becomes tamed"
+    },
+    {
+      "start": 646.63,
+      "end": 649.63,
+      "text": "and we attain one pointedness of mind."
+    },
+    {
+      "start": 649.63,
+      "end": 655.63,
+      "text": "Now, putting our attention on different objects"
+    },
+    {
+      "start": 655.63,
+      "end": 658.63,
+      "text": "from moment to moment is just mindfulness,"
+    },
+    {
+      "start": 658.63,
+      "end": 661.63,
+      "text": "being mindful of the six sense-doors."
+    },
+    {
+      "start": 661.63,
+      "end": 667.63,
+      "text": "And mindfulness is the seventh factor of the Aryan-Uyit-Vul path."
+    },
+    {
+      "start": 667.63,
+      "end": 669.63,
+      "text": "Mindfulness is sati,"
+    },
+    {
+      "start": 669.63,
+      "end": 671.63,
+      "text": "and that is contemplation,"
+    },
+    {
+      "start": 671.63,
+      "end": 674.63,
+      "text": "or putting our attention from object to object,"
+    },
+    {
+      "start": 674.63,
+      "end": 677.63,
+      "text": "from a different object to a different object."
+    },
+    {
+      "start": 677.63,
+      "end": 681.63,
+      "text": "Whereas a right concentration or perfect concentration"
+    },
+    {
+      "start": 681.63,
+      "end": 686.63,
+      "text": "is putting our attention on one object from moment to moment,"
+    },
+    {
+      "start": 686.63,
+      "end": 689.63,
+      "text": "to moment always on one object,"
+    },
+    {
+      "start": 689.63,
+      "end": 693.63,
+      "text": "and that is the way to get one pointedness of mind."
+    },
+    {
+      "start": 693.63,
+      "end": 700.63,
+      "text": "So mindfulness and perfect concentration"
+    },
+    {
+      "start": 700.63,
+      "end": 703.63,
+      "text": "are different factors of the Aryan-Uyit-Vul path,"
+    },
+    {
+      "start": 703.63,
+      "end": 705.63,
+      "text": "the seventh and the eighth factor,"
+    },
+    {
+      "start": 705.63,
+      "end": 707.63,
+      "text": "and they should not be confused."
+    },
+    {
+      "start": 707.63,
+      "end": 709.63,
+      "text": "They are not the same."
+    },
+    {
+      "start": 709.63,
+      "end": 715.63,
+      "text": "And this is very important that we bear this in mind"
+    },
+    {
+      "start": 715.63,
+      "end": 720.63,
+      "text": "because some people confuse right concentration with mindfulness."
+    },
+    {
+      "start": 720.63,
+      "end": 724.63,
+      "text": "They think that concentration is putting our attention"
+    },
+    {
+      "start": 724.63,
+      "end": 728.63,
+      "text": "from object to different object from moment to moment,"
+    },
+    {
+      "start": 728.63,
+      "end": 730.63,
+      "text": "but this is clearly not so,"
+    },
+    {
+      "start": 730.63,
+      "end": 736.63,
+      "text": "as explained in the Sanghutani Kaya 35.206."
+    },
+    {
+      "start": 736.63,
+      "end": 741.63,
+      "text": "Now the second comparison is just like the fighting man is a shooter like lightning,"
+    },
+    {
+      "start": 741.63,
+      "end": 744.63,
+      "text": "even so the Aryan disciple possesses the right view"
+    },
+    {
+      "start": 744.63,
+      "end": 749.63,
+      "text": "because the disciple who possesses the right view understands"
+    },
+    {
+      "start": 749.63,
+      "end": 756.63,
+      "text": "as it really is the four Aryan truths about dukkha or suffering."
+    },
+    {
+      "start": 756.63,
+      "end": 762.63,
+      "text": "And so you can see that the person with the right view"
+    },
+    {
+      "start": 762.63,
+      "end": 767.63,
+      "text": "who understands the four Aryan truths is an Arya."
+    },
+    {
+      "start": 767.63,
+      "end": 775.63,
+      "text": "So right view is equivalent to being an Arya."
+    },
+    {
+      "start": 775.63,
+      "end": 780.63,
+      "text": "And according to Angutani Kaya 2.11.9,"
+    },
+    {
+      "start": 780.63,
+      "end": 783.63,
+      "text": "there are only two conditions for attaining right view,"
+    },
+    {
+      "start": 783.63,
+      "end": 790.63,
+      "text": "namely listening to the teachings and having proper attention,"
+    },
+    {
+      "start": 790.63,
+      "end": 792.63,
+      "text": "uniso manasikara."
+    },
+    {
+      "start": 792.63,
+      "end": 798.63,
+      "text": "So from here you can see that the way to attain right view"
+    },
+    {
+      "start": 798.63,
+      "end": 804.63,
+      "text": "and hence stream entry is by listening to the suttas with proper attention."
+    },
+    {
+      "start": 804.63,
+      "end": 807.63,
+      "text": "And there's another sutta which confirms this,"
+    },
+    {
+      "start": 807.63,
+      "end": 810.63,
+      "text": "namely Sanghutani Kaya 46.4.8,"
+    },
+    {
+      "start": 810.63,
+      "end": 815.63,
+      "text": "where the Buddha said that when a person listens to the suttas or dhamma"
+    },
+    {
+      "start": 815.63,
+      "end": 820.63,
+      "text": "with proper attention, at that moment the five hindrances exist not."
+    },
+    {
+      "start": 820.63,
+      "end": 826.63,
+      "text": "And the seven bojanga factors of enlightenment go to completion."
+    },
+    {
+      "start": 826.63,
+      "end": 835.63,
+      "text": "Now these two things, the five hindrances not existing at that moment"
+    },
+    {
+      "start": 835.63,
+      "end": 839.63,
+      "text": "and the seven bojanga being completed"
+    },
+    {
+      "start": 839.63,
+      "end": 843.63,
+      "text": "are the conditions for attaining Aryahood."
+    },
+    {
+      "start": 843.63,
+      "end": 847.63,
+      "text": "So which means that listening to the suttas with proper attention"
+    },
+    {
+      "start": 847.63,
+      "end": 850.63,
+      "text": "is the way to attain stream entry."
+    },
+    {
+      "start": 850.63,
+      "end": 855.63,
+      "text": "Again in Angutani Kaya 3.85, the Buddha said the sutta panna"
+    },
+    {
+      "start": 855.63,
+      "end": 858.63,
+      "text": "and the saka dagami have perfect seal."
+    },
+    {
+      "start": 858.63,
+      "end": 860.63,
+      "text": "There is no mention of concentration,"
+    },
+    {
+      "start": 860.63,
+      "end": 865.63,
+      "text": "which is necessary for the anagami and the arahan."
+    },
+    {
+      "start": 865.63,
+      "end": 872.63,
+      "text": "So again you see that concentration is not necessary for a sutta panna."
+    },
+    {
+      "start": 872.63,
+      "end": 876.63,
+      "text": "And then in Sanghutani Kaya 55.1.2,"
+    },
+    {
+      "start": 876.63,
+      "end": 881.63,
+      "text": "the sutta panna has confidence in the Buddha dhamma and sangha"
+    },
+    {
+      "start": 881.63,
+      "end": 884.63,
+      "text": "and he possesses pure seal or pure moral conduct."
+    },
+    {
+      "start": 884.63,
+      "end": 889.63,
+      "text": "These are the characteristics of stream entry sutta panna."
+    },
+    {
+      "start": 889.63,
+      "end": 895.63,
+      "text": "Then finally we see that in the suttas in Vinaya,"
+    },
+    {
+      "start": 895.63,
+      "end": 902.63,
+      "text": "the persons who attain stream entry always seem to do so"
+    },
+    {
+      "start": 902.63,
+      "end": 909.63,
+      "text": "when they listen to the suttas just as we have them today,"
+    },
+    {
+      "start": 909.63,
+      "end": 911.63,
+      "text": "just as we listen to them today."
+    },
+    {
+      "start": 911.63,
+      "end": 915.63,
+      "text": "And whenever the Buddha spoke the suttas,"
+    },
+    {
+      "start": 915.63,
+      "end": 918.63,
+      "text": "some people seem to attain stream entry"
+    },
+    {
+      "start": 918.63,
+      "end": 921.63,
+      "text": "even though they had not meditated before,"
+    },
+    {
+      "start": 921.63,
+      "end": 926.63,
+      "text": "even though they had not listened to the dhamma even before."
+    },
+    {
+      "start": 926.63,
+      "end": 930.63,
+      "text": "The Buddha calls his disciples savakas."
+    },
+    {
+      "start": 930.63,
+      "end": 936.63,
+      "text": "Savakas is a Pali word which means hearers or listeners."
+    },
+    {
+      "start": 936.63,
+      "end": 942.63,
+      "text": "And all the disciples of the Buddha were listeners,"
+    },
+    {
+      "start": 942.63,
+      "end": 945.63,
+      "text": "hearers of his discourses."
+    },
+    {
+      "start": 945.63,
+      "end": 950.63,
+      "text": "And this shows again the importance of hearing the discourses"
+    },
+    {
+      "start": 950.63,
+      "end": 954.63,
+      "text": "because when his disciples listen to the discourses,"
+    },
+    {
+      "start": 954.63,
+      "end": 957.63,
+      "text": "they attain unshakable faith in the Buddha."
+    },
+    {
+      "start": 957.63,
+      "end": 961.63,
+      "text": "They understood the suttas because they paid proper attention"
+    },
+    {
+      "start": 961.63,
+      "end": 964.63,
+      "text": "and they had unshakable faith."
+    },
+    {
+      "start": 964.63,
+      "end": 969.63,
+      "text": "And from there they practice further the meditations etc."
+    },
+    {
+      "start": 969.63,
+      "end": 973.63,
+      "text": "and they attain higher levels of Arya-hood."
+    },
+    {
+      "start": 973.63,
+      "end": 979.63,
+      "text": "So this all shows the importance of listening to the suttas"
+    },
+    {
+      "start": 979.63,
+      "end": 982.63,
+      "text": "as a very foundation in the spiritual path."
+    },
+    {
+      "start": 982.63,
+      "end": 985.63,
+      "text": "And much learning is one of the factors,"
+    },
+    {
+      "start": 985.63,
+      "end": 991.63,
+      "text": "one of the important conditions in the spiritual path."
+    },
+    {
+      "start": 991.63,
+      "end": 1000.63,
+      "text": "So listening to the Buddha's discourses is very much to be encouraged."
+    },
+    {
+      "start": 1000.63,
+      "end": 1010.51,
+      "text": "Now we come to sutta number 4.20.197."
+    },
+    {
+      "start": 1010.51,
+      "end": 1015.51,
+      "text": "On a certain occasion, the exalted one was staying near Savati"
+    },
+    {
+      "start": 1015.51,
+      "end": 1019.51,
+      "text": "at Jeta Grove in Anathapindika Spa."
+    },
+    {
+      "start": 1019.51,
+      "end": 1023.51,
+      "text": "Al-Malika the Queen came to visit the exalted one"
+    },
+    {
+      "start": 1023.51,
+      "end": 1028.51,
+      "text": "and on coming to him saluted the exalted one and sat down at one side."
+    },
+    {
+      "start": 1028.51,
+      "end": 1034.51,
+      "text": "As she sat, thus Malika the Queen said this to the exalted one."
+    },
+    {
+      "start": 1034.51,
+      "end": 1038.51,
+      "text": "Pray Lord, what is the reason, what is the cause,"
+    },
+    {
+      "start": 1038.51,
+      "end": 1043.51,
+      "text": "why in this world some women folk are ill-favoured,"
+    },
+    {
+      "start": 1043.51,
+      "end": 1046.51,
+      "text": "deformed of a mean appearance"
+    },
+    {
+      "start": 1046.51,
+      "end": 1051.51,
+      "text": "and are poor, having little of their own, of small possessions"
+    },
+    {
+      "start": 1051.51,
+      "end": 1054.51,
+      "text": "and are of small account."
+    },
+    {
+      "start": 1054.51,
+      "end": 1058.51,
+      "text": "I'll stop here for a while just to comment."
+    },
+    {
+      "start": 1058.51,
+      "end": 1065.51,
+      "text": "Queen Malika is asking why some women are born with three characteristics."
+    },
+    {
+      "start": 1065.51,
+      "end": 1070.51,
+      "text": "The first one is they are ugly, ugly."
+    },
+    {
+      "start": 1070.51,
+      "end": 1073.51,
+      "text": "The second one, they are very poor."
+    },
+    {
+      "start": 1073.51,
+      "end": 1076.51,
+      "text": "The third one, they are insignificant."
+    },
+    {
+      "start": 1076.51,
+      "end": 1081.76,
+      "text": "That means they have no name, not well known."
+    },
+    {
+      "start": 1081.76,
+      "end": 1085.76,
+      "text": "And she asked again,"
+    },
+    {
+      "start": 1085.76,
+      "end": 1090.76,
+      "text": "again Lord, pray what is the reason, what is the cause,"
+    },
+    {
+      "start": 1090.76,
+      "end": 1094.76,
+      "text": "why in this world some women folk are ill-favoured,"
+    },
+    {
+      "start": 1094.76,
+      "end": 1097.76,
+      "text": "deformed of a mean appearance"
+    },
+    {
+      "start": 1097.76,
+      "end": 1101.76,
+      "text": "but yet wealthy of great riches, of great possessions"
+    },
+    {
+      "start": 1101.76,
+      "end": 1104.76,
+      "text": "and of great account."
+    },
+    {
+      "start": 1104.76,
+      "end": 1108.76,
+      "text": "Again Lord, pray what is the reason, what is the cause,"
+    },
+    {
+      "start": 1108.76,
+      "end": 1113.76,
+      "text": "why in this world some women folk are well-favoured, well-formed,"
+    },
+    {
+      "start": 1113.76,
+      "end": 1118.76,
+      "text": "lovely to look upon, amiable, possessed of the greatest beauty of complexion"
+    },
+    {
+      "start": 1118.76,
+      "end": 1123.76,
+      "text": "and yet are poor, having little of their own, of small possessions"
+    },
+    {
+      "start": 1123.76,
+      "end": 1126.76,
+      "text": "and are of small account."
+    },
+    {
+      "start": 1126.76,
+      "end": 1130.76,
+      "text": "And yet again Lord, pray what is the reason, what is the cause,"
+    },
+    {
+      "start": 1130.76,
+      "end": 1135.76,
+      "text": "why in this world some women folk are well-favoured, well-formed,"
+    },
+    {
+      "start": 1135.76,
+      "end": 1140.76,
+      "text": "lovely to look upon, amiable, possessed of the greatest beauty of complexion"
+    },
+    {
+      "start": 1140.76,
+      "end": 1145.76,
+      "text": "and are more over wealthy of great riches, of great possessions"
+    },
+    {
+      "start": 1145.76,
+      "end": 1148.76,
+      "text": "and of great account."
+    },
+    {
+      "start": 1148.76,
+      "end": 1151.76,
+      "text": "Let's stop here again just to comment."
+    },
+    {
+      "start": 1151.76,
+      "end": 1157.76,
+      "text": "Here she is asking the different conditions."
+    },
+    {
+      "start": 1157.76,
+      "end": 1164.76,
+      "text": "The first one she said was ugly, poor"
+    },
+    {
+      "start": 1164.76,
+      "end": 1166.76,
+      "text": "and insignificant."
+    },
+    {
+      "start": 1166.76,
+      "end": 1173.76,
+      "text": "Then the second case, ugly but wealthy and well-known."
+    },
+    {
+      "start": 1173.76,
+      "end": 1181.76,
+      "text": "Then the third case, beautiful but poor and insignificant."
+    },
+    {
+      "start": 1181.76,
+      "end": 1188.76,
+      "text": "Then the last one, women are beautiful, wealthy"
+    },
+    {
+      "start": 1188.76,
+      "end": 1192.76,
+      "text": "and of great account, well-known."
+    },
+    {
+      "start": 1192.76,
+      "end": 1194.76,
+      "text": "Then the Buddha answered."
+    },
+    {
+      "start": 1194.76,
+      "end": 1198.76,
+      "text": "In this case Malika, a certain woman is ill-tempered"
+    },
+    {
+      "start": 1198.76,
+      "end": 1201.76,
+      "text": "of a very irritable nature."
+    },
+    {
+      "start": 1201.76,
+      "end": 1205.76,
+      "text": "On very little provocation she becomes cross and agitated."
+    },
+    {
+      "start": 1205.76,
+      "end": 1207.76,
+      "text": "She is upset and becomes stubborn."
+    },
+    {
+      "start": 1207.76,
+      "end": 1211.76,
+      "text": "She shows temper and ill-will and displeasure."
+    },
+    {
+      "start": 1211.76,
+      "end": 1215.76,
+      "text": "She is no giver of charity to recluse or brahmin,"
+    },
+    {
+      "start": 1215.76,
+      "end": 1222.76,
+      "text": "nor gives food, drink, clothing, vehicle, flower, scent, ointment, bed, lodging or light."
+    },
+    {
+      "start": 1222.76,
+      "end": 1224.76,
+      "text": "Moreover, she is jealous-minded."
+    },
+    {
+      "start": 1224.76,
+      "end": 1229.76,
+      "text": "She is jealous of other folk's gain, of the honour, respect, reverence,"
+    },
+    {
+      "start": 1229.76,
+      "end": 1232.76,
+      "text": "homage and worship paid to them."
+    },
+    {
+      "start": 1232.76,
+      "end": 1235.76,
+      "text": "She is revengeful and harbours a grudge."
+    },
+    {
+      "start": 1235.76,
+      "end": 1241.76,
+      "text": "Such a one, if deceasing from that life, she comes back to this state of things."
+    },
+    {
+      "start": 1241.76,
+      "end": 1247.76,
+      "text": "Wherever she is reborn, is ill-favoured, ill-formed, of a mean appearance and poor,"
+    },
+    {
+      "start": 1247.76,
+      "end": 1253.76,
+      "text": "having little of her own, of small possessions and is of small account."
+    },
+    {
+      "start": 1253.76,
+      "end": 1256.76,
+      "text": "Stop here for a moment to explain."
+    },
+    {
+      "start": 1256.76,
+      "end": 1263.76,
+      "text": "Here the Buddha is giving the reason why a woman is treacherously ugly."
+    },
+    {
+      "start": 1263.76,
+      "end": 1268.76,
+      "text": "And the reason a woman is ugly, the Buddha says, is because she's got a bad temper,"
+    },
+    {
+      "start": 1268.76,
+      "end": 1274.76,
+      "text": "very irritable, very easily becomes upset and shows temper."
+    },
+    {
+      "start": 1274.76,
+      "end": 1277.76,
+      "text": "And that's why she's born ugly."
+    },
+    {
+      "start": 1277.76,
+      "end": 1284.76,
+      "text": "And then the reason, the second reason why she's poor is because she does not do charity,"
+    },
+    {
+      "start": 1284.76,
+      "end": 1287.76,
+      "text": "does not do charity, so she becomes poor."
+    },
+    {
+      "start": 1287.76,
+      "end": 1293.76,
+      "text": "And then the third thing is why the woman is born insignificant,"
+    },
+    {
+      "start": 1293.76,
+      "end": 1300.76,
+      "text": "not well-known is because she's jealous and revengeful and harbours a grudge."
+    },
+    {
+      "start": 1300.76,
+      "end": 1303.76,
+      "text": "So these are the causes."
+    },
+    {
+      "start": 1303.76,
+      "end": 1305.76,
+      "text": "And again the Buddha said,"
+    },
+    {
+      "start": 1305.76,
+      "end": 1312.76,
+      "text": "Herein again, Malika, a certain woman is ill-tempered, of a very irritable nature."
+    },
+    {
+      "start": 1312.76,
+      "end": 1317.76,
+      "text": "On very small provocation, she shows temper and ill-will and displeasure."
+    },
+    {
+      "start": 1317.76,
+      "end": 1321.76,
+      "text": "But she is a giver of charity to recluse in Brahmin."
+    },
+    {
+      "start": 1321.76,
+      "end": 1324.76,
+      "text": "She gives bed, lodging and light, etc."
+    },
+    {
+      "start": 1324.76,
+      "end": 1329.76,
+      "text": "However, she is not jealous-minded, she is not jealous of other folks' gain,"
+    },
+    {
+      "start": 1329.76,
+      "end": 1333.76,
+      "text": "of the honour, respect, reverence, homage and worship paid to them."
+    },
+    {
+      "start": 1333.76,
+      "end": 1336.76,
+      "text": "She is not revengeful, nor does she harbour a grudge."
+    },
+    {
+      "start": 1336.76,
+      "end": 1341.76,
+      "text": "Such a one, if on deceasing from that life, she comes back to this state of things."
+    },
+    {
+      "start": 1341.76,
+      "end": 1346.76,
+      "text": "Wherever she is reborn, is ill-favoured, ill-formed, of a mean appearance."
+    },
+    {
+      "start": 1346.76,
+      "end": 1351.76,
+      "text": "But she is wealthy, of great riches, of great possessions and is of great account."
+    },
+    {
+      "start": 1351.76,
+      "end": 1353.76,
+      "text": "Stop here again to comment."
+    },
+    {
+      "start": 1353.76,
+      "end": 1355.76,
+      "text": "Here the Buddha is saying,"
+    },
+    {
+      "start": 1355.76,
+      "end": 1360.76,
+      "text": "The reason why a woman is ugly is because she is bad tempered"
+    },
+    {
+      "start": 1360.76,
+      "end": 1366.76,
+      "text": "and she is rich because she is generous, charitable and well-known"
+    },
+    {
+      "start": 1366.76,
+      "end": 1369.76,
+      "text": "because she is not jealous, she is big-hearted."
+    },
+    {
+      "start": 1369.76,
+      "end": 1372.76,
+      "text": "So because of that, when she comes back to this state of things,"
+    },
+    {
+      "start": 1372.76,
+      "end": 1375.76,
+      "text": "that means when she comes back as a human being,"
+    },
+    {
+      "start": 1375.76,
+      "end": 1381.76,
+      "text": "so these are the conditions why she is ugly, rich but well-known."
+    },
+    {
+      "start": 1381.76,
+      "end": 1384.76,
+      "text": "Then again the Buddha said,"
+    },
+    {
+      "start": 1384.76,
+      "end": 1388.76,
+      "text": "Herein again, Malika, a certain woman is not ill-tempered,"
+    },
+    {
+      "start": 1388.76,
+      "end": 1390.76,
+      "text": "not of a very irritable nature."
+    },
+    {
+      "start": 1390.76,
+      "end": 1394.76,
+      "text": "Even on great provocation, she becomes not cross and agitated."
+    },
+    {
+      "start": 1394.76,
+      "end": 1400.76,
+      "text": "She is not upset, does not become stubborn, does not show temper, ill-will and displeasure."
+    },
+    {
+      "start": 1400.76,
+      "end": 1404.76,
+      "text": "Yet she is no giver of charity to recluse and brahmin,"
+    },
+    {
+      "start": 1404.76,
+      "end": 1408.76,
+      "text": "nor does she give bed, lodging and light etc."
+    },
+    {
+      "start": 1408.76,
+      "end": 1412.76,
+      "text": "But she is jealous-minded, she is jealous of other folks' gains,"
+    },
+    {
+      "start": 1412.76,
+      "end": 1415.76,
+      "text": "of the honour, respect, reverence, homage and worship paid to them."
+    },
+    {
+      "start": 1415.76,
+      "end": 1418.76,
+      "text": "She is revengeful and harbours a grudge."
+    },
+    {
+      "start": 1418.76,
+      "end": 1423.76,
+      "text": "Such a one, if deceasing from that life, she comes back to this state of things."
+    },
+    {
+      "start": 1423.76,
+      "end": 1426.76,
+      "text": "Wherever she is reborn, is well-favoured, well-formed,"
+    },
+    {
+      "start": 1426.76,
+      "end": 1428.76,
+      "text": "and lovely to look upon, amiable,"
+    },
+    {
+      "start": 1428.76,
+      "end": 1431.76,
+      "text": "possessed of the greatest beauty of complexion."
+    },
+    {
+      "start": 1431.76,
+      "end": 1435.76,
+      "text": "But she is poor, having little of her own, of small possessions,"
+    },
+    {
+      "start": 1435.76,
+      "end": 1438.76,
+      "text": "and is of little account."
+    },
+    {
+      "start": 1438.76,
+      "end": 1442.76,
+      "text": "Herein again, Malika, a certain woman is neither ill-tempered,"
+    },
+    {
+      "start": 1442.76,
+      "end": 1444.76,
+      "text": "nor of a very irritable nature."
+    },
+    {
+      "start": 1444.76,
+      "end": 1448.76,
+      "text": "Even on great provocation, she becomes not cross and agitated."
+    },
+    {
+      "start": 1448.76,
+      "end": 1451.76,
+      "text": "She is not upset, does not become stubborn,"
+    },
+    {
+      "start": 1451.76,
+      "end": 1453.76,
+      "text": "does not show ill-will and displeasure."
+    },
+    {
+      "start": 1453.76,
+      "end": 1457.76,
+      "text": "Moreover, she is a giver of charity to recluse and brahmin."
+    },
+    {
+      "start": 1457.76,
+      "end": 1462.76,
+      "text": "She gives food, drink, clothing, vehicle, flowers, scent, ointment,"
+    },
+    {
+      "start": 1462.76,
+      "end": 1464.76,
+      "text": "bed, lodging and light."
+    },
+    {
+      "start": 1464.76,
+      "end": 1467.76,
+      "text": "She is not jealous-minded, she is not jealous of other folks' gains,"
+    },
+    {
+      "start": 1467.76,
+      "end": 1472.76,
+      "text": "of the honour, respect, reverence, homage and worship paid to them."
+    },
+    {
+      "start": 1472.76,
+      "end": 1476.76,
+      "text": "She is not revengeful, nor does she harbour a grudge."
+    },
+    {
+      "start": 1476.76,
+      "end": 1478.76,
+      "text": "Such a one, deceasing from that life,"
+    },
+    {
+      "start": 1478.76,
+      "end": 1480.76,
+      "text": "and coming back to this state of things,"
+    },
+    {
+      "start": 1480.76,
+      "end": 1484.76,
+      "text": "wherever she is born, is well-favoured, well-formed,"
+    },
+    {
+      "start": 1484.76,
+      "end": 1489.76,
+      "text": "lovely to look upon, amiable, possessed of the greatest beauty of complexion."
+    },
+    {
+      "start": 1489.76,
+      "end": 1495.76,
+      "text": "She is wealthy, of great riches, of great possessions, and is of great account."
+    },
+    {
+      "start": 1495.76,
+      "end": 1498.76,
+      "text": "Now Malika, these are the reasons and causes"
+    },
+    {
+      "start": 1498.76,
+      "end": 1503.76,
+      "text": "why a certain woman is ill-favoured of mean appearance and poor,"
+    },
+    {
+      "start": 1503.76,
+      "end": 1505.76,
+      "text": "and of small account."
+    },
+    {
+      "start": 1505.76,
+      "end": 1509.76,
+      "text": "Then ill-favoured of mean appearance but wealthy,"
+    },
+    {
+      "start": 1509.76,
+      "end": 1511.76,
+      "text": "of great account."
+    },
+    {
+      "start": 1511.76,
+      "end": 1514.76,
+      "text": "Then well-favoured, beautiful but poor,"
+    },
+    {
+      "start": 1514.76,
+      "end": 1516.76,
+      "text": "and of small account."
+    },
+    {
+      "start": 1516.76,
+      "end": 1520.76,
+      "text": "Then well-favoured, beautiful, wealthy, and of great account."
+    },
+    {
+      "start": 1520.76,
+      "end": 1524.76,
+      "text": "At these words, Queen Malika said this to the exalted one,"
+    },
+    {
+      "start": 1524.76,
+      "end": 1528.76,
+      "text": "Suppose, Lord, that I in another birth was ill-tempered"
+    },
+    {
+      "start": 1528.76,
+      "end": 1532.76,
+      "text": "of a very irritable nature, becoming cross and agitated,"
+    },
+    {
+      "start": 1532.76,
+      "end": 1534.76,
+      "text": "even on slight provocation,"
+    },
+    {
+      "start": 1534.76,
+      "end": 1538.76,
+      "text": "that I became upset there and stubborn, short ill-will and displeasure."
+    },
+    {
+      "start": 1538.76,
+      "end": 1544.76,
+      "text": "That same I might now be ill-favoured, ill-formed, and of mean appearance."
+    },
+    {
+      "start": 1544.76,
+      "end": 1550.76,
+      "text": "Suppose, Lord, that in another birth I give gifts of charity to recluse and Brahmin,"
+    },
+    {
+      "start": 1550.76,
+      "end": 1552.76,
+      "text": "bed, lodging, and light."
+    },
+    {
+      "start": 1552.76,
+      "end": 1557.76,
+      "text": "That same I now might be wealthy of great riches, of great possessions."
+    },
+    {
+      "start": 1557.76,
+      "end": 1561.76,
+      "text": "Suppose, Lord, that in another birth I was not jealous-minded,"
+    },
+    {
+      "start": 1561.76,
+      "end": 1564.76,
+      "text": "I was not jealous of other folk's gains,"
+    },
+    {
+      "start": 1564.76,
+      "end": 1568.76,
+      "text": "nor of the honour, respect, reverence, homage, and worship paid to them."
+    },
+    {
+      "start": 1568.76,
+      "end": 1572.76,
+      "text": "I was not revengeful, nor did I harbour a grudge."
+    },
+    {
+      "start": 1572.76,
+      "end": 1575.76,
+      "text": "That same I am now of great account."
+    },
+    {
+      "start": 1575.76,
+      "end": 1578.76,
+      "text": "Now again, Lord, in this Rajah's family,"
+    },
+    {
+      "start": 1578.76,
+      "end": 1581.76,
+      "text": "there are maids of the nobles, maids of the Brahmins,"
+    },
+    {
+      "start": 1581.76,
+      "end": 1583.76,
+      "text": "and of the householders too."
+    },
+    {
+      "start": 1583.76,
+      "end": 1585.76,
+      "text": "Over them I hold supremacy."
+    },
+    {
+      "start": 1585.76,
+      "end": 1590.76,
+      "text": "Lord, from this day forth I will indeed become good-tempered, not irritable."
+    },
+    {
+      "start": 1590.76,
+      "end": 1594.76,
+      "text": "Even on great provocation, I will not become upset, nor stubborn."
+    },
+    {
+      "start": 1594.76,
+      "end": 1597.76,
+      "text": "I will not show ill-will, nor displeasure."
+    },
+    {
+      "start": 1597.76,
+      "end": 1602.76,
+      "text": "I will give to recluse and Brahmin food, and drink, bed, and lodging, and light."
+    },
+    {
+      "start": 1602.76,
+      "end": 1604.76,
+      "text": "I will not become jealous-minded."
+    },
+    {
+      "start": 1604.76,
+      "end": 1607.76,
+      "text": "I will not be jealous of other folk's gains,"
+    },
+    {
+      "start": 1607.76,
+      "end": 1611.76,
+      "text": "nor of the honour, respect, reverence, homage, and worship paid to them."
+    },
+    {
+      "start": 1611.76,
+      "end": 1615.76,
+      "text": "I will not be revengeful, nor will I harbour a grudge."
+    },
+    {
+      "start": 1615.76,
+      "end": 1618.76,
+      "text": "It is wonderful, Lord, it is marvellous, Lord."
+    },
+    {
+      "start": 1618.76,
+      "end": 1622.76,
+      "text": "Lord, may the exalted one accept me as a lay disciple from this day forth,"
+    },
+    {
+      "start": 1622.76,
+      "end": 1627.76,
+      "text": "so long as life may last, as one who has gone to him for refuge."
+    },
+    {
+      "start": 1627.76,
+      "end": 1630.76,
+      "text": "It is the end of the Sutta."
+    },
+    {
+      "start": 1630.76,
+      "end": 1633.76,
+      "text": "So you see, these are the conditions."
+    },
+    {
+      "start": 1633.76,
+      "end": 1636.76,
+      "text": "If you are a woman, and you want to be born beautiful,"
+    },
+    {
+      "start": 1636.76,
+      "end": 1638.76,
+      "text": "you must be good-tempered."
+    },
+    {
+      "start": 1638.76,
+      "end": 1643.76,
+      "text": "If you want to be born rich, you must be generous, do a lot of charity."
+    },
+    {
+      "start": 1643.76,
+      "end": 1646.76,
+      "text": "If you want to be well-known, like the Queen Malika,"
+    },
+    {
+      "start": 1646.76,
+      "end": 1651.76,
+      "text": "you must not be small-hearted, you must not be jealous of others."
+    }
+  ]
+}

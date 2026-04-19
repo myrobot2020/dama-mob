@@ -1,0 +1,1830 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2220.8029375,
+  "segments": [
+    {
+      "start": 0.91,
+      "end": 9.91,
+      "text": "Now we come to Sutta No. 7.7.68. It's quite an important Sutta."
+    },
+    {
+      "start": 9.91,
+      "end": 18.91,
+      "text": "Once the exalted one was on an arms round among the Khosalis with a great following of monks,"
+    },
+    {
+      "start": 18.91,
+      "end": 26.91,
+      "text": "and on reaching the high road, the exalted one saw in a certain spot a great fiery mess,"
+    },
+    {
+      "start": 26.91,
+      "end": 35.91,
+      "text": "burning, blazing, flaming. At the sight he stepped down off the road and sat down at the foot of a tree"
+    },
+    {
+      "start": 35.91,
+      "end": 41.91,
+      "text": "on a seed which was ready. So seated he addressed the monks thus,"
+    },
+    {
+      "start": 41.91,
+      "end": 47.91,
+      "text": "See you monks that great burning, blazing, flaming fiery mess."
+    },
+    {
+      "start": 47.91,
+      "end": 60.91,
+      "text": "Yes Lord, what thank you monks, which of the two were better, that one should sit or lie beside that great burning, blazing, flaming, firing mess,"
+    },
+    {
+      "start": 60.91,
+      "end": 69.91,
+      "text": "caressing it, or that one should sit or lie beside some maid whose hands and feet are soft and fair,"
+    },
+    {
+      "start": 69.91,
+      "end": 79.91,
+      "text": "of noble birth, or Brahmin birth, or Yoman birth, caressing her, and one of the monks said,"
+    },
+    {
+      "start": 79.91,
+      "end": 91.91,
+      "text": "Surely Lord, it were better to sit or lie and caress some maid of noble Brahmin or Yoman birth, whose hands and feet are soft and fair."
+    },
+    {
+      "start": 91.91,
+      "end": 100.91,
+      "text": "You indeed Lord, who are it to sit or lie and caress that great burning, blazing, flaming fiery mess."
+    },
+    {
+      "start": 100.91,
+      "end": 109.91,
+      "text": "Monks, I declare unto you, I protest unto you, it were better for a wicked man of evil nature,"
+    },
+    {
+      "start": 109.91,
+      "end": 117.91,
+      "text": "unclean and of suspicious conduct, full of secret actions, no recluse though vowed there to,"
+    },
+    {
+      "start": 117.91,
+      "end": 130.91,
+      "text": "unchaste, no vowed to chastity, rotten to the core, lustful and vile, to sit or lie and caress that great burning, blazing, flaming fiery mess."
+    },
+    {
+      "start": 130.91,
+      "end": 138.91,
+      "text": "And why? On account of these monks, he may suffer death or ill amounting to death,"
+    },
+    {
+      "start": 138.91,
+      "end": 143.91,
+      "text": "but not for that reason, on the breaking up of the body after death,"
+    },
+    {
+      "start": 143.91,
+      "end": 148.91,
+      "text": "would he arise in the untoward way, the ill way, the abyss hell."
+    },
+    {
+      "start": 148.91,
+      "end": 162.91,
+      "text": "But when a wicked man of evil nature, unclean and of suspicious nature, etc., lustful and vile, sits or lies caressing some maid of noble Brahmin or Yoman birth,"
+    },
+    {
+      "start": 162.91,
+      "end": 170.91,
+      "text": "whose feet and hands are soft and fair, he does so to his harm and ill for many a day,"
+    },
+    {
+      "start": 170.91,
+      "end": 179.91,
+      "text": "for on the breaking up of the body after death, he is reborn in the untoward way, the ill way, the abyss hell."
+    },
+    {
+      "start": 179.91,
+      "end": 183.91,
+      "text": "But thank you monks, which of the two were better?"
+    },
+    {
+      "start": 183.91,
+      "end": 194.91,
+      "text": "That a strong man with stout horse hair rope should bind and crush both one's legs so that the rope cut the skin,"
+    },
+    {
+      "start": 194.91,
+      "end": 202.91,
+      "text": "then the under skin, then the flesh, then the tendons, then the bones, and stay touching the marrow,"
+    },
+    {
+      "start": 202.91,
+      "end": 211.91,
+      "text": "or that one should enjoy the salutations of noble, of wealthy nobles, wealthy Brahmins, wealthy Yoman."
+    },
+    {
+      "start": 211.91,
+      "end": 216.91,
+      "text": "Surely Lord, it were better to enjoy the salutations of the wealthy,"
+    },
+    {
+      "start": 216.91,
+      "end": 224.91,
+      "text": "even indeed worried Lord, that a strong man should bind and crush one's legs to the marrow."
+    },
+    {
+      "start": 224.91,
+      "end": 233.91,
+      "text": "Monks, I declare unto you, I protest unto you, it were better for a wicked man of evil nature, unclean,"
+    },
+    {
+      "start": 233.91,
+      "end": 239.91,
+      "text": "and of suspicious conduct, full of secret actions, no recluse, though vowed thereto,"
+    },
+    {
+      "start": 240.91,
+      "end": 246.91,
+      "text": "unchaste, though vowed to chastity, rotten to the core, lustful and vile,"
+    },
+    {
+      "start": 246.91,
+      "end": 254.91,
+      "text": "that a strong man should bind and crush both his legs with rope so that it cut the skin, the under skin, the flesh,"
+    },
+    {
+      "start": 254.91,
+      "end": 258.91,
+      "text": "the tendons, the bones, and stay touching the marrow."
+    },
+    {
+      "start": 258.91,
+      "end": 265.91,
+      "text": "And why, on account of these monks, he may suffer death or ill amounting to death,"
+    },
+    {
+      "start": 265.91,
+      "end": 270.91,
+      "text": "but not for that reason, on the breaking up of the body, would he be reborn in hell."
+    },
+    {
+      "start": 270.91,
+      "end": 278.91,
+      "text": "But when a wicked man enjoys the salutations of wealthy nobles, wealthy Brahmins, wealthy Yoman,"
+    },
+    {
+      "start": 278.91,
+      "end": 287.91,
+      "text": "he does so to his harm and ill for many a day, for on the breaking up of the body after death, he is reborn in hell."
+    },
+    {
+      "start": 287.91,
+      "end": 295.91,
+      "text": "What thing you monks, which of the two were better, that a strong man with sharpened sword, clean in oil,"
+    },
+    {
+      "start": 295.91,
+      "end": 301.91,
+      "text": "should smite one on the rum, or that one should enjoy the obeisance of the wealthy?"
+    },
+    {
+      "start": 301.91,
+      "end": 309.91,
+      "text": "Surely Lord, it were better to enjoy the obeisance of the wealthy, ill indeed were it to be smitten on the rum."
+    },
+    {
+      "start": 309.91,
+      "end": 319.91,
+      "text": "Monks, I declare unto you, I protest unto you, it were better for a wicked man of evil nature, unclean,"
+    },
+    {
+      "start": 319.91,
+      "end": 328.91,
+      "text": "and of suspicious conduct, etc., that a strong man should with sharpened sword, clean in oil, smite him on the rum."
+    },
+    {
+      "start": 328.91,
+      "end": 337.91,
+      "text": "And why, on account of this, he may suffer death or ill amounting to death, but not for that reason, would he be reborn in hell."
+    },
+    {
+      "start": 337.91,
+      "end": 345.91,
+      "text": "But when a wicked man enjoys the obeisance of the wealthy, he does so to his harm and ill for many a day,"
+    },
+    {
+      "start": 345.91,
+      "end": 349.91,
+      "text": "for after death, he is reborn in hell."
+    },
+    {
+      "start": 349.91,
+      "end": 358.91,
+      "text": "What thing you monks, which of the two were better, that a strong man should wrap one's body around with red hot iron plates,"
+    },
+    {
+      "start": 358.91,
+      "end": 369.91,
+      "text": "luminous, glowing, and fiery, or that one should enjoy the rope, a gift of faith of the wealthy?"
+    },
+    {
+      "start": 369.91,
+      "end": 378.91,
+      "text": "Surely Lord, it were better to enjoy the rope, a gift of faith of the wealthy, ill indeed were it to be wrapped in red hot iron plates."
+    },
+    {
+      "start": 378.91,
+      "end": 387.91,
+      "text": "Monks, I declare unto you, I protest unto you, it were better for a wicked man of evil nature, unclean, etc.,"
+    },
+    {
+      "start": 387.91,
+      "end": 394.91,
+      "text": "that a strong man should wrap his body around with red hot iron plates, luminous, glowing, and fiery."
+    },
+    {
+      "start": 394.91,
+      "end": 403.91,
+      "text": "And why, on account of this, he may suffer death or ill amounting to death, but not for that reason, would he be reborn in hell."
+    },
+    {
+      "start": 403.91,
+      "end": 412.91,
+      "text": "But when a wicked man enjoys the rope, a gift of faith of the wealthy, he does so to his harm and ill for many a day,"
+    },
+    {
+      "start": 412.91,
+      "end": 415.91,
+      "text": "for after death, he is reborn in hell."
+    },
+    {
+      "start": 415.91,
+      "end": 424.91,
+      "text": "What thing you monks, which of the two were better, that a strong man with the red hot iron spike, luminous, glowing, and fiery,"
+    },
+    {
+      "start": 424.91,
+      "end": 432.91,
+      "text": "should open one's mouth and should thrust therein a red hot copper ball, luminous, glowing, and fiery,"
+    },
+    {
+      "start": 432.91,
+      "end": 441.91,
+      "text": "so that it burn the lips, burn the tongue, burn the throat, burn the belly, and take along with it the intestines and the bowels,"
+    },
+    {
+      "start": 441.91,
+      "end": 448.91,
+      "text": "and pass out through the anus, all that one should enjoy the arms, a gift of faith of the wealthy."
+    },
+    {
+      "start": 448.91,
+      "end": 453.91,
+      "text": "Surely, Lord, it were better to enjoy the arms, a gift of faith of the wealthy,"
+    },
+    {
+      "start": 453.91,
+      "end": 460.91,
+      "text": "even indeed were it to have a red hot copper ball thrust into one's mouth."
+    },
+    {
+      "start": 460.91,
+      "end": 469.91,
+      "text": "Now, I declare unto you, I protest unto you, it were better for a wicked man of evil nature, unclean, etc.,"
+    },
+    {
+      "start": 469.91,
+      "end": 477.91,
+      "text": "that a strong man should open his mouth with the red hot spike and should thrust therein a red hot copper ball,"
+    },
+    {
+      "start": 477.91,
+      "end": 482.91,
+      "text": "which would burn his lips, burn the tongue, burn the throat, burn the belly,"
+    },
+    {
+      "start": 482.91,
+      "end": 487.91,
+      "text": "and take along with it the intestines and the bowels, and pass out through the anus."
+    },
+    {
+      "start": 487.91,
+      "end": 493.91,
+      "text": "And why? On account of this, he may suffer death or ill amounting to death,"
+    },
+    {
+      "start": 493.91,
+      "end": 497.91,
+      "text": "but not for that reason would he be reborn in hell."
+    },
+    {
+      "start": 497.91,
+      "end": 502.91,
+      "text": "But when a wicked man enjoys the arms, a gift of faith of the wealthy,"
+    },
+    {
+      "start": 502.91,
+      "end": 509.91,
+      "text": "he does so to his harm and ill for many a day, for after death he is reborn in hell."
+    },
+    {
+      "start": 509.91,
+      "end": 512.91,
+      "text": "But thank you, mums, which of the two were better?"
+    },
+    {
+      "start": 512.91,
+      "end": 517.91,
+      "text": "That a strong man should seize one by the head or by the shoulders"
+    },
+    {
+      "start": 517.91,
+      "end": 526.91,
+      "text": "and should force one to sit or lie on the red hot iron couch or red hot iron bed, luminous, glowing, and fiery,"
+    },
+    {
+      "start": 526.91,
+      "end": 532.91,
+      "text": "or that one should enjoy the couch or bed, a gift of faith of the wealthy."
+    },
+    {
+      "start": 532.91,
+      "end": 541.91,
+      "text": "Surely, Lord, it was better to enjoy the couch or bed, a gift of the wealthy, a gift of faith of the wealthy."
+    },
+    {
+      "start": 541.91,
+      "end": 547.91,
+      "text": "Ill indeed were it to be forced to sit or lie on a red hot iron couch or bed."
+    },
+    {
+      "start": 547.91,
+      "end": 556.91,
+      "text": "Mums, I declare unto you, I protest unto you, it were better for a wicked man of evil nature unclean, etc.,"
+    },
+    {
+      "start": 556.91,
+      "end": 560.91,
+      "text": "that a strong man should seize him by the head or by the shoulders"
+    },
+    {
+      "start": 560.91,
+      "end": 565.91,
+      "text": "and should force him to sit or lie on a red hot iron couch or bed."
+    },
+    {
+      "start": 565.91,
+      "end": 571.91,
+      "text": "And why? On account of this, he may suffer death or ill amounting to death,"
+    },
+    {
+      "start": 571.91,
+      "end": 575.91,
+      "text": "but not for that reason would he be reborn in hell."
+    },
+    {
+      "start": 575.91,
+      "end": 581.91,
+      "text": "But when a wicked man enjoys a couch or bed, a gift of faith of the wealthy,"
+    },
+    {
+      "start": 581.91,
+      "end": 587.91,
+      "text": "he does so to his harm and ill for many a day, for after death he is reborn in hell."
+    },
+    {
+      "start": 587.91,
+      "end": 591.91,
+      "text": "But thank you, mums, which of the two were better?"
+    },
+    {
+      "start": 591.91,
+      "end": 596.91,
+      "text": "That a strong man should seize one, feet up most and head down"
+    },
+    {
+      "start": 596.91,
+      "end": 603.91,
+      "text": "and should hurl one into a red hot copper cauldron, luminous, glowing and fiery"
+    },
+    {
+      "start": 603.91,
+      "end": 611.91,
+      "text": "and there being boiled to be rolled now up, now down, now cross ways like bubbling scum"
+    },
+    {
+      "start": 611.91,
+      "end": 619.91,
+      "text": "or that one should enjoy the lodging, a gift of faith of wealthy nobles, wealthy Brahmins or wealthy yeoman."
+    },
+    {
+      "start": 619.91,
+      "end": 624.91,
+      "text": "Surely Lord, it were better to enjoy the lodging, a gift of faith of wealthy nobles,"
+    },
+    {
+      "start": 624.91,
+      "end": 627.91,
+      "text": "wealthy Brahmins or wealthy yeoman."
+    },
+    {
+      "start": 627.91,
+      "end": 633.91,
+      "text": "Even indeed Lord, that a strong man should seize one, feet up most and head down"
+    },
+    {
+      "start": 633.91,
+      "end": 639.91,
+      "text": "and should hurl one into a red hot copper cauldron, luminous, glowing and fiery"
+    },
+    {
+      "start": 639.91,
+      "end": 646.91,
+      "text": "where being boiled one would be rolled now up, now down, now cross ways like bubbling scum."
+    },
+    {
+      "start": 646.91,
+      "end": 653.91,
+      "text": "Mums, I declare unto you, I protest unto you, it were better for a wicked man of evil nature,"
+    },
+    {
+      "start": 653.91,
+      "end": 660.91,
+      "text": "unclean, enough suspicious conduct, full of secret actions, no recluse, though vowed thereto,"
+    },
+    {
+      "start": 660.91,
+      "end": 665.91,
+      "text": "unchaste, though vowed to chastity, rotten to the core, lustful and vile,"
+    },
+    {
+      "start": 665.91,
+      "end": 672.91,
+      "text": "to be seized, feet up most and head down by a strong man and hurl into a red hot copper cauldron,"
+    },
+    {
+      "start": 672.91,
+      "end": 679.91,
+      "text": "luminous, glowing and fiery where being boiled he would be rolled now up, now down,"
+    },
+    {
+      "start": 679.91,
+      "end": 682.91,
+      "text": "now cross ways like bubbling scum."
+    },
+    {
+      "start": 682.91,
+      "end": 687.91,
+      "text": "And why, on account of this he may suffer death or ill amounting to death,"
+    },
+    {
+      "start": 687.91,
+      "end": 691.91,
+      "text": "but not for that reason, on the breaking up of the body after death,"
+    },
+    {
+      "start": 691.91,
+      "end": 695.91,
+      "text": "would he arise in the untoward way, the ill way, the abyss hell."
+    },
+    {
+      "start": 695.91,
+      "end": 700.91,
+      "text": "But when a wicked man of evil nature, unclean and of suspicious conduct,"
+    },
+    {
+      "start": 700.91,
+      "end": 705.91,
+      "text": "lustful and vile, enjoys the lodging a gift of faith of wealthy nobles,"
+    },
+    {
+      "start": 705.91,
+      "end": 711.91,
+      "text": "wealthy Brahmins or wealthy yeoman, he does so to his harm and ill for many a day,"
+    },
+    {
+      "start": 711.91,
+      "end": 716.91,
+      "text": "for on the breaking up of the body after death, he is reborn in hell."
+    },
+    {
+      "start": 716.91,
+      "end": 722.91,
+      "text": "Wherefore, mums, train yourselves thus wise, of whomsoever we enjoy the requisites,"
+    },
+    {
+      "start": 722.91,
+      "end": 727.91,
+      "text": "that is to say, the robes, arms, lodging and medicines,"
+    },
+    {
+      "start": 727.91,
+      "end": 733.91,
+      "text": "unto them such services will become very fruitful, very profitable."
+    },
+    {
+      "start": 733.91,
+      "end": 740.91,
+      "text": "And unto us also this going forth will not become a barren thing, but fruitful with issue."
+    },
+    {
+      "start": 740.91,
+      "end": 742.91,
+      "text": "Train yourselves in this way, mums."
+    },
+    {
+      "start": 742.91,
+      "end": 749.91,
+      "text": "Mums, for one who can see his own wheel to strive earnestly is well worthwhile."
+    },
+    {
+      "start": 749.91,
+      "end": 754.91,
+      "text": "For one who can see another's wheel to strive earnestly is well worthwhile."
+    },
+    {
+      "start": 754.91,
+      "end": 761.91,
+      "text": "For one who can see the wheel both of self and others to strive earnestly is well worthwhile,"
+    },
+    {
+      "start": 761.91,
+      "end": 763.91,
+      "text": "thus spoke the exalted one."
+    },
+    {
+      "start": 763.91,
+      "end": 769.91,
+      "text": "Now, while this exposition was being delivered from the mouths of as many as 60 mounds,"
+    },
+    {
+      "start": 769.91,
+      "end": 775.91,
+      "text": "hot blood and gush forth, 60 more gave up the training and returned to the lower life,"
+    },
+    {
+      "start": 775.91,
+      "end": 781.91,
+      "text": "saying, hard is the task of the exalted one, very hard is the task of the exalted one."
+    },
+    {
+      "start": 781.91,
+      "end": 787.91,
+      "text": "But the hearts of 60 others became without attachment and freed from the asabhas"
+    },
+    {
+      "start": 787.91,
+      "end": 789.91,
+      "text": "as the end of the sutta."
+    },
+    {
+      "start": 789.91,
+      "end": 800.67,
+      "text": "This is quite an interesting and quite a strong sutta."
+    },
+    {
+      "start": 800.67,
+      "end": 811.67,
+      "text": "Here the Buddha is giving a warning that a fraud or evil monk will end up in hell."
+    },
+    {
+      "start": 812.67,
+      "end": 821.67,
+      "text": "And the descriptions of the different kinds of suffering that the Buddha described,"
+    },
+    {
+      "start": 821.67,
+      "end": 830.67,
+      "text": "actually in some other suttas we can see these are the types of suffering that a person undergoes"
+    },
+    {
+      "start": 830.67,
+      "end": 832.67,
+      "text": "when a person falls into hell."
+    },
+    {
+      "start": 832.67,
+      "end": 838.67,
+      "text": "And this kind of suffering in hell is for a long time."
+    },
+    {
+      "start": 839.67,
+      "end": 847.67,
+      "text": "And that's why the Buddha said it is better to suffer these various kinds of suffering now"
+    },
+    {
+      "start": 847.67,
+      "end": 857.67,
+      "text": "than to be a fraud or rotten monk and accept all the offerings of lay devotees"
+    },
+    {
+      "start": 857.67,
+      "end": 865.67,
+      "text": "because after that that person, if he were to be that kind of a evil monk,"
+    },
+    {
+      "start": 865.67,
+      "end": 870.67,
+      "text": "then he would have to suffer all these types of suffering many, many times"
+    },
+    {
+      "start": 870.67,
+      "end": 872.67,
+      "text": "and for a long time in hell."
+    },
+    {
+      "start": 872.67,
+      "end": 882.67,
+      "text": "So it is better for a monk to disrobe if he cannot live the holy life purely."
+    },
+    {
+      "start": 882.67,
+      "end": 893.67,
+      "text": "That is why in Thailand it seems there's a saying that there are many people with yellow robes in hell."
+    },
+    {
+      "start": 894.67,
+      "end": 904.67,
+      "text": "And also you will find towards the end many of the monks couldn't accept this teaching by the Buddha"
+    },
+    {
+      "start": 904.67,
+      "end": 912.67,
+      "text": "and some of them came forth from their mouth and some disrobed and returned to the lower life."
+    },
+    {
+      "start": 912.67,
+      "end": 924.67,
+      "text": "But those who realized the teaching, they were freed of the ask of us and became arahants."
+    },
+    {
+      "start": 924.67,
+      "end": 932.67,
+      "text": "Some monks who are not real monks, they don't like suttas like this"
+    },
+    {
+      "start": 932.67,
+      "end": 943.67,
+      "text": "because it is very, how do you say it, it's right on spot on as they say."
+    },
+    {
+      "start": 943.67,
+      "end": 948.67,
+      "text": "And the words used also are quite strong."
+    },
+    {
+      "start": 948.67,
+      "end": 957.59,
+      "text": "Now we come to the next sutta, 7.7.69. This is another very good sutta."
+    },
+    {
+      "start": 958.59,
+      "end": 966.59,
+      "text": "The Buddha said, in bygone days, monks, there arose a teacher named Soneto,"
+    },
+    {
+      "start": 966.59,
+      "end": 970.59,
+      "text": "a cause set free of all lustful passions."
+    },
+    {
+      "start": 970.59,
+      "end": 977.59,
+      "text": "Now he had many hundreds of disciples to whom he taught the doctrine of fellowship in Brahma's world"
+    },
+    {
+      "start": 977.59,
+      "end": 984.59,
+      "text": "and those who inclined not their hearts towards the teacher's doctrine on the breaking up of the body after death"
+    },
+    {
+      "start": 984.59,
+      "end": 988.59,
+      "text": "arose in the untoward way, the ill way, the abyss hell."
+    },
+    {
+      "start": 988.59,
+      "end": 993.59,
+      "text": "But those who inclined their hearts to his doctrine on the breaking up of the body after death"
+    },
+    {
+      "start": 993.59,
+      "end": 997.59,
+      "text": "arose in heaven, that happy place of airing on."
+    },
+    {
+      "start": 997.59,
+      "end": 1007.59,
+      "text": "In bygone days, monks, there were teachers named Mugapakko, Aranemi, Kudalo, Hattipalo, Jyothipalo, Araco"
+    },
+    {
+      "start": 1007.59,
+      "end": 1014.59,
+      "text": "and each of them taught similar doctrines and their disciples fared according to the inclination of their hearts."
+    },
+    {
+      "start": 1014.59,
+      "end": 1021.59,
+      "text": "Now what thank you, monks, were an evil-minded man to revile and defame these seven teachers of old,"
+    },
+    {
+      "start": 1021.59,
+      "end": 1027.59,
+      "text": "cause setters freed from all lustful passions surrounded by many hundreds of disciples?"
+    },
+    {
+      "start": 1027.59,
+      "end": 1030.59,
+      "text": "Would he be great demerit?"
+    },
+    {
+      "start": 1030.59,
+      "end": 1031.59,
+      "text": "Yes, Lord."
+    },
+    {
+      "start": 1031.59,
+      "end": 1034.59,
+      "text": "Indeed, monks, he would."
+    },
+    {
+      "start": 1034.59,
+      "end": 1039.59,
+      "text": "But the evil-minded man who reviles and defames a person of right view,"
+    },
+    {
+      "start": 1039.59,
+      "end": 1042.59,
+      "text": "he for that begets much more demerit."
+    },
+    {
+      "start": 1042.59,
+      "end": 1044.59,
+      "text": "And why is that?"
+    },
+    {
+      "start": 1044.59,
+      "end": 1050.59,
+      "text": "I declare, monks, he digs not so great a pit for himself in reviling outsiders"
+    },
+    {
+      "start": 1050.59,
+      "end": 1054.59,
+      "text": "as in reviling his fellows in the holy life."
+    },
+    {
+      "start": 1054.59,
+      "end": 1057.59,
+      "text": "Therefore, monks, train yourselves thus."
+    },
+    {
+      "start": 1057.59,
+      "end": 1063.59,
+      "text": "Not unto us shall there come evil thoughts about our fellows in the holy life."
+    },
+    {
+      "start": 1063.59,
+      "end": 1068.59,
+      "text": "Thus must you train yourselves, monks, as the end of the Sutta."
+    },
+    {
+      "start": 1068.59,
+      "end": 1077.59,
+      "text": "So in this Sutta, this Buddha is talking about various external aesthetics in the past."
+    },
+    {
+      "start": 1078.59,
+      "end": 1081.59,
+      "text": "And he calls them cause setters."
+    },
+    {
+      "start": 1081.59,
+      "end": 1087.59,
+      "text": "Cause setters is one who starts a new segment,"
+    },
+    {
+      "start": 1087.59,
+      "end": 1094.59,
+      "text": "who starts a course, a new teaching, starts a new segment, a new religion."
+    },
+    {
+      "start": 1094.59,
+      "end": 1101.59,
+      "text": "And the Buddha also calls them, describes them as being freed of all lustful passions."
+    },
+    {
+      "start": 1101.59,
+      "end": 1105.59,
+      "text": "The reason is because they have attained janas,"
+    },
+    {
+      "start": 1105.59,
+      "end": 1110.59,
+      "text": "because they teach doctrine of fellowship in Brahma's world."
+    },
+    {
+      "start": 1110.59,
+      "end": 1117.59,
+      "text": "That means they teach the Brahma-viharas, meditations on loving kindness, metta,"
+    },
+    {
+      "start": 1117.59,
+      "end": 1123.59,
+      "text": "on modita, joy, on karuna, compassion, and upekha, equanimity."
+    },
+    {
+      "start": 1123.59,
+      "end": 1127.59,
+      "text": "And when a person cultivates his Brahma-viharas,"
+    },
+    {
+      "start": 1127.59,
+      "end": 1131.59,
+      "text": "that person attains the janas."
+    },
+    {
+      "start": 1131.59,
+      "end": 1136.59,
+      "text": "And because of that, the Buddha describes them as being freed of all lustful passions."
+    },
+    {
+      "start": 1136.59,
+      "end": 1142.59,
+      "text": "Because when a person attains the janas, according to the Suttas,"
+    },
+    {
+      "start": 1142.59,
+      "end": 1145.59,
+      "text": "the five hindrances are abandoned."
+    },
+    {
+      "start": 1145.59,
+      "end": 1150.59,
+      "text": "Abandoned means they are cut down, just like tall grass."
+    },
+    {
+      "start": 1150.59,
+      "end": 1155.59,
+      "text": "It's cut down, it doesn't impede you anymore, it doesn't hinder you anymore."
+    },
+    {
+      "start": 1155.59,
+      "end": 1158.59,
+      "text": "But that doesn't mean the roots are uprooted."
+    },
+    {
+      "start": 1158.59,
+      "end": 1166.59,
+      "text": "The roots are still there, but because they are cut down, they no more hinder a person."
+    },
+    {
+      "start": 1166.59,
+      "end": 1170.59,
+      "text": "So that's why they are described as being freed of all lustful passions."
+    },
+    {
+      "start": 1170.59,
+      "end": 1178.59,
+      "text": "Now these seven core setters are supposed to be the previous rebirths of the bodhisattva,"
+    },
+    {
+      "start": 1178.59,
+      "end": 1181.59,
+      "text": "or Buddha, in the previous life."
+    },
+    {
+      "start": 1181.59,
+      "end": 1189.59,
+      "text": "And here the Buddha is saying that if you revile such teachers who attain jana,"
+    },
+    {
+      "start": 1189.59,
+      "end": 1196.59,
+      "text": "and who teach a doctrine of fellowship in Brahma's world,"
+    },
+    {
+      "start": 1196.59,
+      "end": 1200.59,
+      "text": "then you get much, very much demerit."
+    },
+    {
+      "start": 1200.59,
+      "end": 1208.59,
+      "text": "And so in reviling a person who attains jana, you get much demerit."
+    },
+    {
+      "start": 1208.59,
+      "end": 1214.59,
+      "text": "Because jana is described in the Vinaya as one of the, what they call,"
+    },
+    {
+      "start": 1214.59,
+      "end": 1221.59,
+      "text": "uttari manusa dhamma, which is higher than a human attainment."
+    },
+    {
+      "start": 1221.59,
+      "end": 1225.59,
+      "text": "Higher than a human attainment. It's not a normal human state."
+    },
+    {
+      "start": 1225.59,
+      "end": 1228.59,
+      "text": "That's why some people, they don't understand the janas."
+    },
+    {
+      "start": 1228.59,
+      "end": 1232.59,
+      "text": "They say in a state of jana, there is no mindfulness."
+    },
+    {
+      "start": 1232.59,
+      "end": 1234.59,
+      "text": "It's absolutely not true."
+    },
+    {
+      "start": 1234.59,
+      "end": 1238.59,
+      "text": "State of jana is a state of intense mindfulness."
+    },
+    {
+      "start": 1238.59,
+      "end": 1243.59,
+      "text": "And it's very difficult to attain state of jana,"
+    },
+    {
+      "start": 1243.59,
+      "end": 1245.59,
+      "text": "just like it's difficult to become an Arya."
+    },
+    {
+      "start": 1245.59,
+      "end": 1253.59,
+      "text": "It's not something that a normal person easily gets."
+    },
+    {
+      "start": 1253.59,
+      "end": 1256.59,
+      "text": "That's why it's called uttari manusa dhamma."
+    },
+    {
+      "start": 1256.59,
+      "end": 1261.59,
+      "text": "So just reviling a person who attains jana, you get much demerit."
+    },
+    {
+      "start": 1261.59,
+      "end": 1265.59,
+      "text": "But if you revile a person, defame a person with right view,"
+    },
+    {
+      "start": 1265.59,
+      "end": 1268.59,
+      "text": "that means a person who understands the dhamma,"
+    },
+    {
+      "start": 1268.59,
+      "end": 1272.59,
+      "text": "then you get very much more demerit."
+    },
+    {
+      "start": 1272.59,
+      "end": 1273.59,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 1273.59,
+      "end": 1277.59,
+      "text": "I declare monks, he digs not so great a pit for himself"
+    },
+    {
+      "start": 1277.59,
+      "end": 1282.59,
+      "text": "in reviling outsiders as in reviling his fellows and the holy life."
+    },
+    {
+      "start": 1282.59,
+      "end": 1287.59,
+      "text": "That means you revile, you abuse somebody and external satanic,"
+    },
+    {
+      "start": 1287.59,
+      "end": 1289.59,
+      "text": "you get much demerit."
+    },
+    {
+      "start": 1289.59,
+      "end": 1295.59,
+      "text": "But you abuse a monk in the Buddhist religion,"
+    },
+    {
+      "start": 1295.59,
+      "end": 1298.59,
+      "text": "then you get much, much more demerit"
+    },
+    {
+      "start": 1298.59,
+      "end": 1303.59,
+      "text": "if that person understands the dhamma and has right view."
+    },
+    {
+      "start": 1303.59,
+      "end": 1308.59,
+      "text": "So this is a warning that we should be careful"
+    },
+    {
+      "start": 1308.59,
+      "end": 1311.59,
+      "text": "not to have hatred for monks,"
+    },
+    {
+      "start": 1311.59,
+      "end": 1316.59,
+      "text": "especially if they keep the vinaya and they meditate,"
+    },
+    {
+      "start": 1316.59,
+      "end": 1318.59,
+      "text": "they cultivate themselves."
+    },
+    {
+      "start": 1318.59,
+      "end": 1322.59,
+      "text": "Even if you have any difference of opinion with them,"
+    },
+    {
+      "start": 1322.59,
+      "end": 1327.42,
+      "text": "not to have any hatred for them."
+    },
+    {
+      "start": 1327.42,
+      "end": 1332.42,
+      "text": "The next uttari is 7.7.70, the Buddha said."
+    },
+    {
+      "start": 1332.42,
+      "end": 1336.42,
+      "text": "Long ago, monks, there was a teacher named Araco,"
+    },
+    {
+      "start": 1336.42,
+      "end": 1339.42,
+      "text": "a core setter, freed of all lustful passions,"
+    },
+    {
+      "start": 1339.42,
+      "end": 1342.42,
+      "text": "and he had many hundreds of disciples."
+    },
+    {
+      "start": 1342.42,
+      "end": 1345.42,
+      "text": "Now this was the doctrine that he taught his disciples."
+    },
+    {
+      "start": 1345.42,
+      "end": 1348.42,
+      "text": "Short is the life of man, O Brahmin,"
+    },
+    {
+      "start": 1348.42,
+      "end": 1355.42,
+      "text": "in significant, trifling, fraught with much ill, with much trouble."
+    },
+    {
+      "start": 1355.42,
+      "end": 1360.42,
+      "text": "By mantras, awaken the people, do good, live the holy life."
+    },
+    {
+      "start": 1360.42,
+      "end": 1363.42,
+      "text": "For the born, there is no immortality."
+    },
+    {
+      "start": 1363.42,
+      "end": 1365.42,
+      "text": "Just stop here for a moment."
+    },
+    {
+      "start": 1365.42,
+      "end": 1370.42,
+      "text": "Here this core setter, Araco, he is talking to his disciples,"
+    },
+    {
+      "start": 1370.42,
+      "end": 1374.42,
+      "text": "so he called them Brahman or Brahmana."
+    },
+    {
+      "start": 1374.42,
+      "end": 1381.42,
+      "text": "In the olden days, the renunciants were called Brahmanas"
+    },
+    {
+      "start": 1381.42,
+      "end": 1388.42,
+      "text": "because initially the renunciants were of the,"
+    },
+    {
+      "start": 1388.42,
+      "end": 1391.42,
+      "text": "what we now call the Brahmin sect,"
+    },
+    {
+      "start": 1391.42,
+      "end": 1395.42,
+      "text": "but long ago they were called Brahmanas."
+    },
+    {
+      "start": 1395.42,
+      "end": 1399.42,
+      "text": "And then this external ascetic, Araco,"
+    },
+    {
+      "start": 1399.42,
+      "end": 1402.42,
+      "text": "he is one of those who teach mantras."
+    },
+    {
+      "start": 1402.42,
+      "end": 1405.42,
+      "text": "Mantras are different from suttas."
+    },
+    {
+      "start": 1405.42,
+      "end": 1409.42,
+      "text": "Suttas that we chant, they consist of words with meanings,"
+    },
+    {
+      "start": 1409.42,
+      "end": 1413.42,
+      "text": "but mantras are words which have no meaning to us."
+    },
+    {
+      "start": 1413.42,
+      "end": 1415.42,
+      "text": "There is no meaning to us,"
+    },
+    {
+      "start": 1415.42,
+      "end": 1421.42,
+      "text": "but there is something about these mantras"
+    },
+    {
+      "start": 1421.42,
+      "end": 1425.42,
+      "text": "which make them quite powerful"
+    },
+    {
+      "start": 1425.42,
+      "end": 1431.42,
+      "text": "because they seem to invoke some spirits."
+    },
+    {
+      "start": 1431.42,
+      "end": 1439.42,
+      "text": "So this Araco continued, he was teaching his disciples."
+    },
+    {
+      "start": 1439.42,
+      "end": 1445.42,
+      "text": "He said, just as a drop of dew on the tip of a blade of grass,"
+    },
+    {
+      "start": 1445.42,
+      "end": 1449.42,
+      "text": "when the sun gets up straight away, dries up, and lasts not a while,"
+    },
+    {
+      "start": 1449.42,
+      "end": 1453.42,
+      "text": "even so, Brahman, like a dew drop is the life of man,"
+    },
+    {
+      "start": 1453.42,
+      "end": 1457.42,
+      "text": "insignificant, trifling, fraught with much ill and trouble."
+    },
+    {
+      "start": 1457.42,
+      "end": 1461.42,
+      "text": "By mantras awaken the people, do good, live the holy life."
+    },
+    {
+      "start": 1461.42,
+      "end": 1464.42,
+      "text": "For the born there is no immortality."
+    },
+    {
+      "start": 1464.42,
+      "end": 1469.42,
+      "text": "Just as a bubble appears on the water when the sky deva rains down big drops,"
+    },
+    {
+      "start": 1469.42,
+      "end": 1473.42,
+      "text": "but straight away bursts and lasts not a while,"
+    },
+    {
+      "start": 1473.42,
+      "end": 1477.42,
+      "text": "even so, Brahman, like a water bubble is the life of man,"
+    },
+    {
+      "start": 1477.42,
+      "end": 1481.42,
+      "text": "insignificant, trifling, fraught with much ill and trouble."
+    },
+    {
+      "start": 1481.42,
+      "end": 1484.42,
+      "text": "For the born there is no immortality."
+    },
+    {
+      "start": 1484.42,
+      "end": 1489.42,
+      "text": "Just as the line of a stick on water straight away vanishes and lasts not a while,"
+    },
+    {
+      "start": 1489.42,
+      "end": 1495.42,
+      "text": "even so, Brahman, like the line of a stick on water is the life of man,"
+    },
+    {
+      "start": 1495.42,
+      "end": 1498.42,
+      "text": "insignificant, trifling, fraught with ill and trouble."
+    },
+    {
+      "start": 1498.42,
+      "end": 1501.42,
+      "text": "For the born there is no immortality."
+    },
+    {
+      "start": 1501.42,
+      "end": 1504.42,
+      "text": "Just as a mountain river winding here and there,"
+    },
+    {
+      "start": 1504.42,
+      "end": 1507.42,
+      "text": "swiftly flowing, taking all along with it,"
+    },
+    {
+      "start": 1507.42,
+      "end": 1511.42,
+      "text": "never for a moment or for an instant or for a second pauses,"
+    },
+    {
+      "start": 1511.42,
+      "end": 1515.42,
+      "text": "but rushes on, swirls along and sweeps forward,"
+    },
+    {
+      "start": 1515.42,
+      "end": 1519.42,
+      "text": "even so, Brahman, like a mountain river is the life of man,"
+    },
+    {
+      "start": 1519.42,
+      "end": 1522.42,
+      "text": "insignificant, trifling, fraught with ill and trouble."
+    },
+    {
+      "start": 1522.42,
+      "end": 1525.42,
+      "text": "For the born there is no immortality."
+    },
+    {
+      "start": 1525.42,
+      "end": 1530.42,
+      "text": "Just as a strong man might fashion a gob of spittle on the tip of his tongue"
+    },
+    {
+      "start": 1530.42,
+      "end": 1532.42,
+      "text": "and spit it out with utmost ease,"
+    },
+    {
+      "start": 1532.42,
+      "end": 1536.42,
+      "text": "even so, Brahman, like a spittle gob is the life of man,"
+    },
+    {
+      "start": 1536.42,
+      "end": 1540.42,
+      "text": "insignificant, trifling, fraught with ill and trouble."
+    },
+    {
+      "start": 1540.42,
+      "end": 1542.42,
+      "text": "For the born there is no immortality."
+    },
+    {
+      "start": 1542.42,
+      "end": 1549.42,
+      "text": "Just as a lump of meat thrown into an iron pot heated all day,"
+    },
+    {
+      "start": 1549.42,
+      "end": 1552.42,
+      "text": "straight away splits up and lasts not a while,"
+    },
+    {
+      "start": 1552.42,
+      "end": 1556.42,
+      "text": "even so, Brahman, like a lump of meat is the life of man,"
+    },
+    {
+      "start": 1556.42,
+      "end": 1559.42,
+      "text": "insignificant, trifling, fraught with ill and trouble."
+    },
+    {
+      "start": 1559.42,
+      "end": 1562.42,
+      "text": "For the born there is no immortality."
+    },
+    {
+      "start": 1562.42,
+      "end": 1566.42,
+      "text": "Just as a cow about to be slaughtered, being led to the shambles,"
+    },
+    {
+      "start": 1566.42,
+      "end": 1571.42,
+      "text": "each time she raises her foot is nearer to destruction, nearer to death."
+    },
+    {
+      "start": 1571.42,
+      "end": 1575.42,
+      "text": "Even so, Brahman, like a doomed cow is the life of man,"
+    },
+    {
+      "start": 1575.42,
+      "end": 1579.42,
+      "text": "insignificant, trifling, fraught with much ill and much trouble."
+    },
+    {
+      "start": 1579.42,
+      "end": 1584.42,
+      "text": "By mantras awaken the people, do good, live the holy life."
+    },
+    {
+      "start": 1584.42,
+      "end": 1587.42,
+      "text": "For the born there is no immortality."
+    },
+    {
+      "start": 1587.42,
+      "end": 1592.42,
+      "text": "Now at that time, monks, the span of man's life was 60,000 years,"
+    },
+    {
+      "start": 1592.42,
+      "end": 1596.42,
+      "text": "and at 500 years, girls were ripe to red."
+    },
+    {
+      "start": 1596.42,
+      "end": 1602.42,
+      "text": "Then men had but six afflictions, namely cold and heat, hunger and thirst,"
+    },
+    {
+      "start": 1602.42,
+      "end": 1604.42,
+      "text": "and the two-fold excrement."
+    },
+    {
+      "start": 1604.42,
+      "end": 1608.42,
+      "text": "Yet though such was the longevity, such the duration,"
+    },
+    {
+      "start": 1608.42,
+      "end": 1611.42,
+      "text": "and such the freedom from affliction of the people,"
+    },
+    {
+      "start": 1611.42,
+      "end": 1615.42,
+      "text": "the teacher, Arakko, taught this doctrine to his disciples."
+    },
+    {
+      "start": 1615.42,
+      "end": 1619.42,
+      "text": "Sure is the life of man, O Brahman, insignificant and trifling,"
+    },
+    {
+      "start": 1619.42,
+      "end": 1622.42,
+      "text": "fraught with much ill, much trouble."
+    },
+    {
+      "start": 1622.42,
+      "end": 1626.42,
+      "text": "By mantras awaken the people, do good, live the holy life."
+    },
+    {
+      "start": 1626.42,
+      "end": 1629.42,
+      "text": "For the born there is no immortality."
+    },
+    {
+      "start": 1629.42,
+      "end": 1633.42,
+      "text": "Now, monks, if a man would speak truly, he should say,"
+    },
+    {
+      "start": 1633.42,
+      "end": 1638.42,
+      "text": "short is the life of man, insignificant and trifling, fraught with ill and trouble."
+    },
+    {
+      "start": 1638.42,
+      "end": 1642.42,
+      "text": "By wisdom awaken the people, do good, live the holy life."
+    },
+    {
+      "start": 1642.42,
+      "end": 1645.42,
+      "text": "For the born there is no immortality."
+    },
+    {
+      "start": 1645.42,
+      "end": 1651.42,
+      "text": "For today, monks, he who lives long, lives but 100 years or a little more,"
+    },
+    {
+      "start": 1651.42,
+      "end": 1655.42,
+      "text": "and though a man live 100 years, he lives by 300 seasons,"
+    },
+    {
+      "start": 1655.42,
+      "end": 1660.42,
+      "text": "100 seasons of winter, 100 seasons of summer and 100 seasons of rain,"
+    },
+    {
+      "start": 1660.42,
+      "end": 1664.42,
+      "text": "and though he live 300 seasons, he lives by 1200 months,"
+    },
+    {
+      "start": 1664.42,
+      "end": 1670.42,
+      "text": "400 months of winter, 400 months of summer and 400 months of rain."
+    },
+    {
+      "start": 1670.42,
+      "end": 1683.42,
+      "text": "And though he lived twelve hundred months, he lived but four and twenty hundred fortnights, eight hundred fortnights of winter, eight hundred fortnights of summer, and eight hundred fortnights of rain."
+    },
+    {
+      "start": 1683.42,
+      "end": 1700.42,
+      "text": "And though he lived four and twenty hundred fortnights, he lived but six and sixty thousand days, six and thirty thousand days, twelve thousand days of winter, twelve thousand days of summer, and twelve thousand days of rain."
+    },
+    {
+      "start": 1700.42,
+      "end": 1714.42,
+      "text": "And though he lived six and thirty thousand days, he eats but two and seventy thousand meals, four and twenty thousand meals in winter, four and twenty thousand meals in summer, and four and twenty thousand meals in the rainy season."
+    },
+    {
+      "start": 1714.42,
+      "end": 1731.42,
+      "text": "This includes mother's milk and foodless times. Here by foodless times is man, agitated he eats no food, grieved he eats no food, ill he eats no food, fasting he eats no food, and not getting any he eats no food."
+    },
+    {
+      "start": 1731.42,
+      "end": 1745.42,
+      "text": "Thus monks, thus monks, I account the life of man who lives a hundred years, his life span, the seasons, the years, the months, the fortnights, the days, the days and nights, meal times and foodless times."
+    },
+    {
+      "start": 1745.42,
+      "end": 1753.23,
+      "text": "So, the Buddha continued the last part."
+    },
+    {
+      "start": 1753.23,
+      "end": 1764.23,
+      "text": "Monks, the work to be done by a teacher for his disciples, seeking their good by compression, because of compression, that has been done for you by me."
+    },
+    {
+      "start": 1764.23,
+      "end": 1779.23,
+      "text": "Monks, at the fruit of these trees in these empty places, cultivate in jhana and monks, be not slothful, let there be no occasion for you to reproach yourselves afterwards."
+    },
+    {
+      "start": 1779.23,
+      "end": 1789.54,
+      "text": "This is our command to you as the end of the sutta. It's quite an interesting sutta."
+    },
+    {
+      "start": 1789.54,
+      "end": 1800.54,
+      "text": "You can see this Korsetararako, he can be considered an external sect teacher, because he does not teach the Buddha Dhamma."
+    },
+    {
+      "start": 1800.54,
+      "end": 1813.54,
+      "text": "Yet, we can see that there is some good Dhamma in his teaching, since he was telling people about the impermanence of life and the urgency to cultivate the spiritual path."
+    },
+    {
+      "start": 1813.54,
+      "end": 1818.54,
+      "text": "And the similes given in his teaching are quite good."
+    },
+    {
+      "start": 1818.54,
+      "end": 1823.54,
+      "text": "For example, he says, this has a drop of dew on the tip of a blade of grass."
+    },
+    {
+      "start": 1823.54,
+      "end": 1827.54,
+      "text": "When the sun gets up straight away, it dries up and lasts not a while."
+    },
+    {
+      "start": 1827.54,
+      "end": 1832.54,
+      "text": "Even so, like a dew drop is the life of man."
+    },
+    {
+      "start": 1832.54,
+      "end": 1840.54,
+      "text": "This has a bubble appears on the water when the sky diva rains down big drops, but straight away bursts and lasts not a while."
+    },
+    {
+      "start": 1840.54,
+      "end": 1848.54,
+      "text": "Even so, like a water bubble is the life of man, etc."
+    },
+    {
+      "start": 1848.54,
+      "end": 1854.82,
+      "text": "So, you find his teachings here quite good."
+    },
+    {
+      "start": 1854.82,
+      "end": 1863.82,
+      "text": "Now, we find in this sutta, it's mentioned that during his days, man's lifespan was 60,000 years."
+    },
+    {
+      "start": 1863.82,
+      "end": 1870.82,
+      "text": "In the suttas, we find that man's lifespan can go up to a maximum of 80,000 years on the average."
+    },
+    {
+      "start": 1870.82,
+      "end": 1878.82,
+      "text": "Here, during Arako's time, it was 60,000 years, and a woman could give birth at 500 years."
+    },
+    {
+      "start": 1878.82,
+      "end": 1885.82,
+      "text": "At that time, there were only six types of sickness of afflictions at that time."
+    },
+    {
+      "start": 1885.82,
+      "end": 1896.82,
+      "text": "You have to suffer cold, you have to suffer heat, hunger, thirst, and you have to urinate and empty your bowels."
+    },
+    {
+      "start": 1896.82,
+      "end": 1898.82,
+      "text": "These were the six afflictions."
+    },
+    {
+      "start": 1898.82,
+      "end": 1902.82,
+      "text": "Even then, Arako thought that life was short."
+    },
+    {
+      "start": 1902.82,
+      "end": 1907.82,
+      "text": "Even lifespan of 60,000 years, he says, is short."
+    },
+    {
+      "start": 1907.82,
+      "end": 1914.82,
+      "text": "So, how much more, how much shorter is life nowadays?"
+    },
+    {
+      "start": 1914.82,
+      "end": 1919.82,
+      "text": "Because our average lifespan is only about 70 to 75 years."
+    },
+    {
+      "start": 1919.82,
+      "end": 1933.82,
+      "text": "So, there should be more urgency for us to cultivate to the spiritual path because very soon, we will be passing away from this world."
+    },
+    {
+      "start": 1933.82,
+      "end": 1948.23,
+      "text": "You also notice that Arako taught the people to recite the mantra that was supposed to be the Buddha's previous life."
+    },
+    {
+      "start": 1948.23,
+      "end": 1957.23,
+      "text": "But in the Buddha, after he was enlightened, in our Theravada suttas, the earliest suttas, the Buddha never taught the mantras."
+    },
+    {
+      "start": 1957.23,
+      "end": 1964.23,
+      "text": "The Buddha taught the way to attain wisdom, which is the Aryan Eightfold Path."
+    },
+    {
+      "start": 1964.23,
+      "end": 1971.23,
+      "text": "So, in our Theravada suttas, there is no mantra teaching."
+    },
+    {
+      "start": 1974.25,
+      "end": 1978.25,
+      "text": "Now, as we said, life is short."
+    },
+    {
+      "start": 1978.25,
+      "end": 1986.25,
+      "text": "If you consider this way, suppose a person is 40 years old, we know that we live up to about 70 years old."
+    },
+    {
+      "start": 1986.25,
+      "end": 1993.25,
+      "text": "That means we have only 30 more years to go, which means we have only 30 more new years to celebrate."
+    },
+    {
+      "start": 1993.25,
+      "end": 1998.25,
+      "text": "When one goes by, we have 29, and another goes by, we have 28."
+    },
+    {
+      "start": 1998.25,
+      "end": 2005.25,
+      "text": "If we look at it that way, then we can see that our time is very, very limited."
+    },
+    {
+      "start": 2005.25,
+      "end": 2012.25,
+      "text": "So, because of that now, we should constantly think of impermanence in the Satipatana sutta."
+    },
+    {
+      "start": 2012.25,
+      "end": 2017.25,
+      "text": "We are taught to contemplate on the different types of corpses."
+    },
+    {
+      "start": 2017.25,
+      "end": 2025.25,
+      "text": "That is a very good contemplation, how in a few more years' time, our body will turn into the corpse."
+    },
+    {
+      "start": 2025.25,
+      "end": 2032.25,
+      "text": "In different stages of rotting, different stages of decay, we constantly contemplate that."
+    },
+    {
+      "start": 2032.25,
+      "end": 2044.25,
+      "text": "Then it helps us to cut the conceit I am, the feeling that I exist helps us to cut that."
+    },
+    {
+      "start": 2044.25,
+      "end": 2052.25,
+      "text": "And then the last part of the sutta, the Buddha tells the monks not to be slothful, but to cultivate jhana."
+    },
+    {
+      "start": 2052.25,
+      "end": 2059.25,
+      "text": "Usually sometimes some suttas, they translate it as meditative monks, but actually the word is jayati."
+    },
+    {
+      "start": 2059.25,
+      "end": 2066.25,
+      "text": "Jayati is to cultivate jhana, because in the Buddha's teachings in the Theravada suttas,"
+    },
+    {
+      "start": 2066.25,
+      "end": 2071.25,
+      "text": "meditation is synonymous with cultivating jhana."
+    },
+    {
+      "start": 2071.25,
+      "end": 2080.25,
+      "text": "That is why we can see in the Aryan 8-4 part, the last factor is jhana, and also in one of the earlier suttas,"
+    },
+    {
+      "start": 2080.25,
+      "end": 2089.25,
+      "text": "we heard the Buddha say samadhi mago, samadhi krum mago, samadhi is the way, no samadhi is the wrong way."
+    },
+    {
+      "start": 2089.25,
+      "end": 2098.25,
+      "text": "From there, Buddhism went over to China and they started the meditation school."
+    },
+    {
+      "start": 2098.25,
+      "end": 2107.25,
+      "text": "They call it the chan chong, that means the Zen school, and the word chan comes from the word chan no, which is jhana."
+    },
+    {
+      "start": 2107.25,
+      "end": 2114.25,
+      "text": "So the meditation school is actually the jhana school in China."
+    },
+    {
+      "start": 2114.25,
+      "end": 2121.71,
+      "text": "The next sutta is in 7.8.71."
+    },
+    {
+      "start": 2121.71,
+      "end": 2128.71,
+      "text": "Monks possessed of seven qualities, a monk is killed in the Vinaya discipline."
+    },
+    {
+      "start": 2128.71,
+      "end": 2133.71,
+      "text": "Of what seven? He knows what is an offence. He knows what is not."
+    },
+    {
+      "start": 2133.71,
+      "end": 2138.71,
+      "text": "He knows what is a trifling offence. He knows what is a grave one."
+    },
+    {
+      "start": 2138.71,
+      "end": 2147.71,
+      "text": "He is virtuous. He abides restrained by the restraint of the patimokha, perfect in conduct and resort, seeing danger in the smallest form,"
+    },
+    {
+      "start": 2147.71,
+      "end": 2151.71,
+      "text": "accepting the training. He trains himself accordingly."
+    },
+    {
+      "start": 2151.71,
+      "end": 2160.71,
+      "text": "At will, easily and without trouble, he attains to the four jhanas of the higher mind, bringing comfort both here and now."
+    },
+    {
+      "start": 2160.71,
+      "end": 2167.71,
+      "text": "By destroying the asavas, he enters and abides in the emancipation by mind and wisdom, which is asava-free."
+    },
+    {
+      "start": 2167.71,
+      "end": 2172.71,
+      "text": "And in this state, he knows and realizes for himself, even in this life."
+    },
+    {
+      "start": 2172.71,
+      "end": 2179.71,
+      "text": "Verily, monks possessed of these seven qualities, a monk is killed in the Vinaya."
+    },
+    {
+      "start": 2179.71,
+      "end": 2184.71,
+      "text": "So these are the qualities which make a monk's kill in the Vinaya."
+    },
+    {
+      "start": 2184.71,
+      "end": 2195.71,
+      "text": "But we notice the last two factors, the attainment of the four jhanas and the destruction of the asavas,"
+    },
+    {
+      "start": 2195.71,
+      "end": 2199.71,
+      "text": "and that also makes a monk's kill in the discipline. Why?"
+    },
+    {
+      "start": 2199.71,
+      "end": 2205.71,
+      "text": "Because for a monk to attain the four jhanas, he needs a lot of discipline."
+    },
+    {
+      "start": 2205.71,
+      "end": 2210.71,
+      "text": "And his mind has to be very disciplined before he can attain the jhanas."
+    },
+    {
+      "start": 2210.71,
+      "end": 2215.71,
+      "text": "And similarly, for the destruction of the asavas, he has to completely discipline his mind,"
+    },
+    {
+      "start": 2215.71,
+      "end": 2219.71,
+      "text": "then only he can attain destruction of the asavas."
+    }
+  ]
+}

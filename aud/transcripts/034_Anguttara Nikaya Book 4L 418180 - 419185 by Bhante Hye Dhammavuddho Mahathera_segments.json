@@ -1,0 +1,1530 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2090.121,
+  "segments": [
+    {
+      "start": 0.59,
+      "end": 4.83,
+      "text": "Now we come to Suta No. 4.18.180."
+    },
+    {
+      "start": 4.83,
+      "end": 10.83,
+      "text": "On a certain occasion, the Exalted One was staying in Boga Nagara at the Anandas Rain."
+    },
+    {
+      "start": 10.83,
+      "end": 13.63,
+      "text": "Then the Exalted One addressed the monks, saying,"
+    },
+    {
+      "start": 13.63,
+      "end": 18.11,
+      "text": "�Munks, yes, Lord, reply those monks to the Exalted One."
+    },
+    {
+      "start": 18.11,
+      "end": 23.71,
+      "text": "The Exalted One said, �Munks, I will teach you these four great authorities."
+    },
+    {
+      "start": 23.71,
+      "end": 25.15,
+      "text": "Do you listen to it?"
+    },
+    {
+      "start": 25.15,
+      "end": 28.03,
+      "text": "Carefully give your minds to it, and I will speak�"
+    },
+    {
+      "start": 28.03,
+      "end": 30.03,
+      "text": "The Exalted One said this."
+    },
+    {
+      "start": 30.59,
+      "end": 32.99,
+      "text": "And what monks are the four great authorities?"
+    },
+    {
+      "start": 33.71,
+      "end": 39.15,
+      "text": "In this case, monks, a monk might say, �Face to face with the Exalted One."
+    },
+    {
+      "start": 40.19,
+      "end": 42.35,
+      "text": "Your reverence, did I hear it?"
+    },
+    {
+      "start": 42.35,
+      "end": 45.07,
+      "text": "Face to face with him. Did I receive it?"
+    },
+    {
+      "start": 45.07,
+      "end": 47.39,
+      "text": "This is Dhamma. This is Vinaya."
+    },
+    {
+      "start": 47.39,
+      "end": 48.99,
+      "text": "This is the Master's teaching."
+    },
+    {
+      "start": 51.06,
+      "end": 55.54,
+      "text": "I'll just stop here for a moment from just to commend."
+    },
+    {
+      "start": 55.54,
+      "end": 58.42,
+      "text": "This Dhamma Vinaya is the Master's teaching."
+    },
+    {
+      "start": 58.98,
+      "end": 65.54,
+      "text": "In the Suttas, you'll find that the Buddha always referred to his teachings as Dhamma Vinaya."
+    },
+    {
+      "start": 66.66,
+      "end": 71.78,
+      "text": "And here you will get to see what is Dhamma Vinaya."
+    },
+    {
+      "start": 71.78,
+      "end": 78.9,
+      "text": "And as I've mentioned before, the word Tripitaka or Tripitaka was never mentioned by the Buddha."
+    },
+    {
+      "start": 78.9,
+      "end": 82.82,
+      "text": "In the Suttas, he always mentioned his teachings as Dhamma Vinaya."
+    },
+    {
+      "start": 83.7,
+      "end": 85.54,
+      "text": "Now the Buddha continued."
+    },
+    {
+      "start": 86.5,
+      "end": 91.86,
+      "text": "Now monks, the words of that monk are neither to be welcomed nor scorned."
+    },
+    {
+      "start": 92.42,
+      "end": 98.26,
+      "text": "But without welcoming, without scawning, the words and syllables thereof are to be closely"
+    },
+    {
+      "start": 98.26,
+      "end": 102.82,
+      "text": "scrutinized, late beside Sutta and compared with Vinaya."
+    },
+    {
+      "start": 103.94,
+      "end": 110.26,
+      "text": "If, when thus late beside Sutta and compared with Vinaya, they lie not along with Sutta"
+    },
+    {
+      "start": 110.26,
+      "end": 114.9,
+      "text": "and agree not with Vinaya, to this conclusion must you come."
+    },
+    {
+      "start": 115.54,
+      "end": 120.74,
+      "text": "Surely this is not the word of the Exalted One, Arahant, the fully enlightened one."
+    },
+    {
+      "start": 121.3,
+      "end": 125.54,
+      "text": "And it was wrongly taken by that monk. So reject it monks."
+    },
+    {
+      "start": 127.14,
+      "end": 133.46,
+      "text": "Herein again, a monk might say, face to face with the Exalted One, your reverence, did I hear it?"
+    },
+    {
+      "start": 133.46,
+      "end": 135.94,
+      "text": "Face to face with him, did I receive it?"
+    },
+    {
+      "start": 135.94,
+      "end": 140.18,
+      "text": "This is Dhamma, this is Vinaya, this is the Master's teaching."
+    },
+    {
+      "start": 140.5,
+      "end": 144.34,
+      "text": "Now the words of that monk are neither to be welcomed nor scorned."
+    },
+    {
+      "start": 144.34,
+      "end": 150.34,
+      "text": "But if, when late beside Sutta and compared with Vinaya, they lie along with Sutta and agree with"
+    },
+    {
+      "start": 150.34,
+      "end": 156.18,
+      "text": "Vinaya, to this conclusion must you come. Surely this is the word of the Exalted One."
+    },
+    {
+      "start": 156.18,
+      "end": 161.94,
+      "text": "And it was rightly taken by that monk. Then bear this in mind as the first great authority."
+    },
+    {
+      "start": 162.34,
+      "end": 170.42,
+      "text": "Then again, the monk might say, in such and such a monastery resides a Sangha, an order of monks,"
+    },
+    {
+      "start": 170.42,
+      "end": 178.42,
+      "text": "together with an elder monk, a Thera, a leader. Face to face with that Sangha, I heard it."
+    },
+    {
+      "start": 178.42,
+      "end": 183.7,
+      "text": "Face to face, I received it. This is Dhamma, this is Vinaya, this is the Master's teaching."
+    },
+    {
+      "start": 183.7,
+      "end": 188.02,
+      "text": "Now the words of that monk are neither to be welcomed nor scorned."
+    },
+    {
+      "start": 188.34,
+      "end": 193.7,
+      "text": "But if, when late beside Sutta and compared with Vinaya, they lie not along with Sutta and agree"
+    },
+    {
+      "start": 193.7,
+      "end": 200.34,
+      "text": "not with Vinaya, to this conclusion must you come. Surely this is not the word of the Exalted One."
+    },
+    {
+      "start": 200.34,
+      "end": 205.54,
+      "text": "And it was wrongly taken by that Sangha of monks. So do you reject it, monks?"
+    },
+    {
+      "start": 207.06,
+      "end": 215.06,
+      "text": "But on the other hand, a monk might say, in such and such a monastery resides a Sangha,"
+    },
+    {
+      "start": 215.06,
+      "end": 223.14,
+      "text": "a monastery resides a Sangha of monks, together with an elder monk, a leader."
+    },
+    {
+      "start": 223.14,
+      "end": 227.38,
+      "text": "Face to face with that order, I heard it. Face to face, I received it."
+    },
+    {
+      "start": 227.38,
+      "end": 230.98,
+      "text": "This is Dhamma, this is Vinaya, this is the Master's teaching."
+    },
+    {
+      "start": 230.98,
+      "end": 234.34,
+      "text": "Now the words of that monk are neither to be welcomed nor scorned."
+    },
+    {
+      "start": 237.46,
+      "end": 243.86,
+      "text": "But if, when late beside Sutta and compared with Vinaya, those words lie along with Sutta and agree"
+    },
+    {
+      "start": 243.86,
+      "end": 249.78,
+      "text": "with Vinaya, to this conclusion must you come. Surely this is the word of the Exalted One."
+    },
+    {
+      "start": 249.78,
+      "end": 255.78,
+      "text": "It was rightly taken by that Sangha of monks. This monks is the second great authority to bear in"
+    },
+    {
+      "start": 255.78,
+      "end": 262.98,
+      "text": "mind. Yet again, a monk might say, in such and such a monastery resides a great number of elder"
+    },
+    {
+      "start": 262.98,
+      "end": 270.9,
+      "text": "monks, widely learned, versed in the doctrines, who know Dhamma by heart, who know Vinaya by heart,"
+    },
+    {
+      "start": 270.98,
+      "end": 276.26,
+      "text": "who know the summaries by heart. Face to face with those elder monks, I heard it."
+    },
+    {
+      "start": 276.26,
+      "end": 281.7,
+      "text": "Face to face, did I receive it. This is Dhamma, this is Vinaya, this is the Master's teaching."
+    },
+    {
+      "start": 283.06,
+      "end": 287.86,
+      "text": "Now the words of that monk are neither to be welcomed nor scorned. But if, when late beside"
+    },
+    {
+      "start": 287.86,
+      "end": 293.54,
+      "text": "Sutta and compared with Vinaya, they lie not along with Sutta and agree not with Vinaya,"
+    },
+    {
+      "start": 293.54,
+      "end": 298.5,
+      "text": "to this conclusion must you come. Surely this is not the word of the Exalted One."
+    },
+    {
+      "start": 298.5,
+      "end": 305.3,
+      "text": "It was wrongly taken by those elders. So do you reject it monks. Herein again, a monk might say,"
+    },
+    {
+      "start": 305.3,
+      "end": 309.14,
+      "text": "in such and such a monastery resides a great number of elder monks,"
+    },
+    {
+      "start": 310.26,
+      "end": 314.98,
+      "text": "widely learned, versed in the doctrines, who know Dhamma by heart, who know Vinaya by heart,"
+    },
+    {
+      "start": 314.98,
+      "end": 320.18,
+      "text": "who know the summaries by heart. Face to face with those elder monks, I heard it. Face to face,"
+    },
+    {
+      "start": 320.18,
+      "end": 325.78,
+      "text": "did I receive it. This is Dhamma, this is Vinaya, this is the Master's teaching. Now the words of"
+    },
+    {
+      "start": 325.78,
+      "end": 333.22,
+      "text": "that monk are neither to be welcomed nor scorned. Now, but if, when late beside Sutta and compared"
+    },
+    {
+      "start": 333.22,
+      "end": 338.5,
+      "text": "with Vinaya, they lie not along with Sutta and agree with Vinaya, then to this conclusion must"
+    },
+    {
+      "start": 338.5,
+      "end": 344.26,
+      "text": "you come. Surely this is the word of that Exalted One. And it was rightly taken by those elders."
+    },
+    {
+      "start": 344.26,
+      "end": 350.42,
+      "text": "This monks is the third great authority. Herein again, a monk might say, in such and such a monastery"
+    },
+    {
+      "start": 350.42,
+      "end": 356.9,
+      "text": "resides a single elder monk of wide learning, versed in the doctrines, who knows Dhamma by heart,"
+    },
+    {
+      "start": 356.9,
+      "end": 362.66,
+      "text": "who knows Vinaya by heart, who knows the summaries by heart. Face to face with that elder monk,"
+    },
+    {
+      "start": 362.66,
+      "end": 368.1,
+      "text": "I heard it. Face to face, did I receive it. This is Dhamma, this is Vinaya, this is the Master's"
+    },
+    {
+      "start": 368.1,
+      "end": 373.54,
+      "text": "teaching. Now monks, the words of that monk are neither to be welcomed nor scorned. But without"
+    },
+    {
+      "start": 373.54,
+      "end": 379.86,
+      "text": "welcoming, without scorning them, the words and syllables thereof are to be closely scrutinized."
+    },
+    {
+      "start": 379.86,
+      "end": 385.7,
+      "text": "Late beside Sutta and compared with Vinaya. If, when late beside Sutta and compared with Vinaya,"
+    },
+    {
+      "start": 385.7,
+      "end": 391.54,
+      "text": "they lie not along with Sutta and agree not with Vinaya, then to this conclusion must you come."
+    },
+    {
+      "start": 391.54,
+      "end": 396.26,
+      "text": "Surely this is not the word of that Exalted One, the Arahant, the fully enlightened one."
+    },
+    {
+      "start": 396.26,
+      "end": 403.3,
+      "text": "And it was wrongly taken by that elder monk. So do you reject it monks, if however a monk should say."
+    },
+    {
+      "start": 404.58,
+      "end": 409.22,
+      "text": "In such and such a monastery resides a single elder monk of wide learning, versed in the"
+    },
+    {
+      "start": 409.22,
+      "end": 417.06,
+      "text": "doctrines, who knows Dhamma by heart, who knows Vinaya by heart, etc. And then the words of the"
+    },
+    {
+      "start": 417.06,
+      "end": 424.98,
+      "text": "monk are neither to be welcomed nor scorned. But they should be late beside Sutta and compared"
+    },
+    {
+      "start": 424.98,
+      "end": 433.06,
+      "text": "with Vinaya. And if when late beside Sutta and compared with Vinaya, they lie along with Sutta"
+    },
+    {
+      "start": 433.06,
+      "end": 438.5,
+      "text": "and agree with Vinaya, to this conclusion must you come. Surely this is the word of that Exalted"
+    },
+    {
+      "start": 438.5,
+      "end": 443.46,
+      "text": "One, the Arahant, the fully enlightened one. And it was rightly taken by that elder monk."
+    },
+    {
+      "start": 443.46,
+      "end": 448.9,
+      "text": "This monk is the fourth great authority. So these monks are the four great authorities."
+    },
+    {
+      "start": 448.9,
+      "end": 455.62,
+      "text": "That's the end of the Sutta. So here the Buddha is saying suppose a monk says he quotes four"
+    },
+    {
+      "start": 455.62,
+      "end": 462.82,
+      "text": "different cases. The first one is he says he, such and such is the teaching of the Buddha."
+    },
+    {
+      "start": 462.82,
+      "end": 468.58,
+      "text": "And he says, the first one, he says he heard it from the Buddha himself. If that is so then you"
+    },
+    {
+      "start": 468.58,
+      "end": 480.34,
+      "text": "must compare it with the Suttas and the Vinaya. And then the second case is, if the monk says"
+    },
+    {
+      "start": 480.34,
+      "end": 491.38,
+      "text": "that he heard it from a Sangha of monks, with an elder monk, a Thera. And the whole Sangha says"
+    },
+    {
+      "start": 491.38,
+      "end": 497.22,
+      "text": "that this is the Buddha's teaching, such and such is the Buddha's teaching, then it is to be compared"
+    },
+    {
+      "start": 497.22,
+      "end": 505.46,
+      "text": "with Dhamma and Vinaya. And then the third one is, if a monk says that in a monastery, there are"
+    },
+    {
+      "start": 505.46,
+      "end": 511.94,
+      "text": "a great number of Theras, elder monks, widely learned. And they say that such and such is the"
+    },
+    {
+      "start": 511.94,
+      "end": 519.22,
+      "text": "Buddha's teachings. Again, it must be compared with Sutta and Vinaya. And the fourth one is"
+    },
+    {
+      "start": 519.86,
+      "end": 526.5,
+      "text": "the monk says that in a monastery, there is a single elder monk who is widely learned."
+    },
+    {
+      "start": 527.22,
+      "end": 534.98,
+      "text": "And he claims and such and such is the Buddha's teachings. Then without welcoming or scorning"
+    },
+    {
+      "start": 534.98,
+      "end": 542.34,
+      "text": "what he says, his words are to be compared with the Sutta and Vinaya. And after comparing with"
+    },
+    {
+      "start": 542.34,
+      "end": 548.66,
+      "text": "Sutta and Vinaya, then only you can come to the conclusion whether it is the Buddha's teachings"
+    },
+    {
+      "start": 548.66,
+      "end": 557.38,
+      "text": "or not. So here in this Sutta, you find is very clearly stated that Dhamma means the Sutta,"
+    },
+    {
+      "start": 558.02,
+      "end": 566.58,
+      "text": "because when he claims this is Dhamma, it must be compared with the Sutta. And there is no mention"
+    },
+    {
+      "start": 566.58,
+      "end": 576.74,
+      "text": "of the Abhidhamma as we know it today in the original Sutta of the Buddha, even though there"
+    },
+    {
+      "start": 576.82,
+      "end": 583.3,
+      "text": "are certain monks who claim that the Dhamma includes the Abhidhamma. In this Sutta, it is very clear"
+    },
+    {
+      "start": 583.94,
+      "end": 592.74,
+      "text": "that Dhamma always refers to the Sutta and Vinaya refers to the few books of the Vinaya"
+    },
+    {
+      "start": 592.74,
+      "end": 599.86,
+      "text": "to Pitaka, which concerns monks. The word to Pitaka or to Pitaka was never mentioned in the Sutta."
+    },
+    {
+      "start": 600.58,
+      "end": 609.54,
+      "text": "And it is a later word that came later. I read to you the footnote here by the"
+    },
+    {
+      "start": 611.78,
+      "end": 618.66,
+      "text": "Palitech Society. The footnote here says that there were evidently only two collections,"
+    },
+    {
+      "start": 618.66,
+      "end": 627.46,
+      "text": "Pitaka's. But Abhidhamma is obviously a much later collection. Had there been any Pitaka's"
+    },
+    {
+      "start": 627.46,
+      "end": 632.26,
+      "text": "at the time of the composition of this Sutta, the word would surely have been used in it."
+    },
+    {
+      "start": 633.38,
+      "end": 639.62,
+      "text": "So you see, the word Pitaka is never mentioned in the Sutta as we know it today."
+    },
+    {
+      "start": 640.74,
+      "end": 647.62,
+      "text": "And the word to Pitaka also never mentioned. And the other thing we should know is,"
+    },
+    {
+      "start": 648.34,
+      "end": 654.66,
+      "text": "in the Second Sangha Council, which was held about 100 years after the Parinibbana of the Buddha,"
+    },
+    {
+      "start": 655.54,
+      "end": 659.94,
+      "text": "there were certain monks who claimed that they follow such and such a teaching,"
+    },
+    {
+      "start": 659.94,
+      "end": 668.1,
+      "text": "because it was handed down to them from their teachers. And so it was decided at the Second"
+    },
+    {
+      "start": 668.1,
+      "end": 679.54,
+      "text": "Sangha Council that if a certain monk gets a teaching from his teacher, then he should compare"
+    },
+    {
+      "start": 679.54,
+      "end": 688.1,
+      "text": "what his teacher teaches with the Suttas and the Vinaya. And if it does not agree with the Suttas"
+    },
+    {
+      "start": 688.1,
+      "end": 695.22,
+      "text": "and the Vinaya, then we should not follow the words of that teacher monk, because our original"
+    },
+    {
+      "start": 695.22,
+      "end": 700.9,
+      "text": "teacher is the Buddha. That's why we take refuge in the Buddha, Dhamma and Sangha. So it is very"
+    },
+    {
+      "start": 700.9,
+      "end": 709.06,
+      "text": "clear here. Even nowadays whatever senior monks teach, even if they are very well known, very"
+    },
+    {
+      "start": 709.06,
+      "end": 717.14,
+      "text": "respectable monks, whatever they teach should be not taken on their word, but compared with the"
+    },
+    {
+      "start": 717.14,
+      "end": 724.02,
+      "text": "Suttas and the Vinaya. That is why the foundation in the Suttas is very, very important. Nowadays,"
+    },
+    {
+      "start": 724.02,
+      "end": 735.94,
+      "text": "there is such a lot of writings on the Buddha's teachings and so many different interpretations"
+    },
+    {
+      "start": 735.94,
+      "end": 744.82,
+      "text": "that is very dangerous to put your faith in a teacher. It is better to put our faith in the"
+    },
+    {
+      "start": 744.82,
+      "end": 754.45,
+      "text": "original Suttas of the Buddha. Now you come to a Sutta 4.19.183. On a certain occasion, the exalted"
+    },
+    {
+      "start": 754.45,
+      "end": 760.77,
+      "text": "one was staying near Rajagaha in bamboo grove at the squirrel's feeding ground. Then the Brahmin"
+    },
+    {
+      "start": 760.77,
+      "end": 766.61,
+      "text": "Vasakara, a great official of Magadha, came to visit the exalted one. On coming to him,"
+    },
+    {
+      "start": 766.61,
+      "end": 772.85,
+      "text": "he greeted him courteously and sat down at one side. So seated, the Brahmin Vasakara, a great"
+    },
+    {
+      "start": 772.85,
+      "end": 779.41,
+      "text": "official of Magadha, said this to the exalted one. For my part, Master Gautama, I say this,"
+    },
+    {
+      "start": 779.41,
+      "end": 786.69,
+      "text": "I hold this view. If a man speaks of what he has seen, there is no harm in his saying, thus I saw."
+    },
+    {
+      "start": 787.41,
+      "end": 794.21,
+      "text": "If a man speaks of what he has heard, there is no harm in his saying, thus I heard. If a man speaks"
+    },
+    {
+      "start": 794.21,
+      "end": 800.53,
+      "text": "of what he has sensed, of what he has understood, saying thus I sensed, thus I understood, there"
+    },
+    {
+      "start": 800.53,
+      "end": 807.81,
+      "text": "is no harm resulting from that. And the Buddha said, I for my part, Brahmin, do not say that all"
+    },
+    {
+      "start": 807.81,
+      "end": 815.25,
+      "text": "that one has seen should be spoken of. Yet do I not say, Brahmin, that all that one has seen"
+    },
+    {
+      "start": 815.25,
+      "end": 822.61,
+      "text": "should not be spoken of. And I say the same of what is heard, sensed and understood. Now all that"
+    },
+    {
+      "start": 822.61,
+      "end": 830.21,
+      "text": "one has heard, sensed or understood, should be spoken of or not spoken of. Not all that one has"
+    },
+    {
+      "start": 830.21,
+      "end": 837.09,
+      "text": "seen, sensed or understood, should be spoken of or not spoken of. Now Brahmin, insofar as to him"
+    },
+    {
+      "start": 837.09,
+      "end": 845.73,
+      "text": "who speaks what he has seen, unprofitable states wax and profitable states wane, I say that such a"
+    },
+    {
+      "start": 846.05,
+      "end": 853.89,
+      "text": "thing if seen should not be spoken of. Insofar as to him who speaks what he has heard, sensed and"
+    },
+    {
+      "start": 853.89,
+      "end": 860.93,
+      "text": "understood, unprofitable states wax and profitable states wane, I say that such a thing heard,"
+    },
+    {
+      "start": 860.93,
+      "end": 867.81,
+      "text": "sensed and understood should not be spoken of. But in the case where unprofitable states wane"
+    },
+    {
+      "start": 867.81,
+      "end": 874.13,
+      "text": "and profitable states wax in one who speaks thereof, I say that such things should be spoken of."
+    },
+    {
+      "start": 874.85,
+      "end": 880.61,
+      "text": "Thereupon the Brahmin Vasakara, the great official of Magadha, welcomed what was said by the Exalted"
+    },
+    {
+      "start": 880.61,
+      "end": 889.41,
+      "text": "One and returning thanks, he rose from his seat and went away. This Sutta tells us a very good"
+    },
+    {
+      "start": 890.13,
+      "end": 897.89,
+      "text": "criterion, a very good standard that we should follow regarding what should be spoken of and"
+    },
+    {
+      "start": 897.89,
+      "end": 909.89,
+      "text": "what should not be spoken of. Here it's very clear that if we speak and then profitable states"
+    },
+    {
+      "start": 911.01,
+      "end": 919.73,
+      "text": "decrease and unprofitable states increase, we should not speak. But in the case where profitable"
+    },
+    {
+      "start": 919.73,
+      "end": 927.81,
+      "text": "states increase and unprofitable states decrease, then we can speak. So this is a very good criterion"
+    },
+    {
+      "start": 928.77,
+      "end": 939.65,
+      "text": "There is a Sutta where the Buddha said before either we do a deed, a karma through our body,"
+    },
+    {
+      "start": 939.65,
+      "end": 949.81,
+      "text": "speech or mind. Before we do it, we should think carefully whether it is we should do it or not."
+    },
+    {
+      "start": 949.81,
+      "end": 956.13,
+      "text": "If we do it and it harms us or harms others, we should not do it. But if we do it and it profits"
+    },
+    {
+      "start": 956.13,
+      "end": 963.09,
+      "text": "us or profits others, then we should do it. That is before the action. And then even while doing the"
+    },
+    {
+      "start": 963.09,
+      "end": 969.33,
+      "text": "action, if we remember, we should consider again whether what we are doing at that moment is correct"
+    },
+    {
+      "start": 969.33,
+      "end": 977.81,
+      "text": "or not correct, whether it's beneficial or harmful. And then we should either stop doing it or continue"
+    },
+    {
+      "start": 977.81,
+      "end": 984.85,
+      "text": "to do it. Then the third case is even after we have done an action, then we should reflect back"
+    },
+    {
+      "start": 984.93,
+      "end": 993.49,
+      "text": "and see that whatever action we did was profitable to others or to the self or harmful to others"
+    },
+    {
+      "start": 993.49,
+      "end": 1000.05,
+      "text": "or to the self. And if we find that it is harmful, we should decide not to do it again. If we find"
+    },
+    {
+      "start": 1000.05,
+      "end": 1006.69,
+      "text": "that it is beneficial, then we should decide to do it again and again. Now what are unprofitable"
+    },
+    {
+      "start": 1006.69,
+      "end": 1015.89,
+      "text": "states? Unprofitable states are states of greed, hatred, delusion, a jealousy, conceit, restlessness,"
+    },
+    {
+      "start": 1015.89,
+      "end": 1022.29,
+      "text": "sloth and topper, doubt, etc. All these are unbeneficial states. So if they decrease,"
+    },
+    {
+      "start": 1022.29,
+      "end": 1030.53,
+      "text": "we should be careful not to do it or speak, etc. And profitable states are the opposite states of"
+    },
+    {
+      "start": 1030.53,
+      "end": 1041.25,
+      "text": "renunciation, loving kindness, wisdom, humility, meekness, tranquility, diligence, etc. So if"
+    },
+    {
+      "start": 1041.25,
+      "end": 1048.13,
+      "text": "such states, profitable states increase, then we should speak. This is concerning speaking,"
+    },
+    {
+      "start": 1048.13,
+      "end": 1052.77,
+      "text": "but there are other things, the sixth sense though, also if we should be very careful, for example,"
+    },
+    {
+      "start": 1052.77,
+      "end": 1058.77,
+      "text": "reading. If we read sometimes, that means if you are really concerned about the spiritual path,"
+    },
+    {
+      "start": 1059.49,
+      "end": 1067.01,
+      "text": "if we read and then we put a lot of information in our mind, it tends to come up as memory and then"
+    },
+    {
+      "start": 1067.01,
+      "end": 1072.21,
+      "text": "we tend to think about it. For example, reading newspapers. Reading newspapers is not very good"
+    },
+    {
+      "start": 1072.21,
+      "end": 1079.01,
+      "text": "for somebody who wants to cultivate his mind because he put in a lot of trash into the mind."
+    },
+    {
+      "start": 1079.81,
+      "end": 1085.65,
+      "text": "And the other thing is watching TV and video shows and all that. Now all these things come up."
+    },
+    {
+      "start": 1085.65,
+      "end": 1092.45,
+      "text": "So if you want to cultivate the mind, now we don't do these unnecessary things. These are idle"
+    },
+    {
+      "start": 1092.45,
+      "end": 1102.45,
+      "text": "things. Now we come to another sutra, 4.19.184. Now the Brahmin Janusoni came to visit the exalted"
+    },
+    {
+      "start": 1102.45,
+      "end": 1108.45,
+      "text": "one and on coming to him greeted him courteously, sat down at one side. So seated the Brahmin"
+    },
+    {
+      "start": 1108.45,
+      "end": 1115.17,
+      "text": "Janusoni said this to the exalted one. For my part, Master Gautama, I say this, I hold this view."
+    },
+    {
+      "start": 1115.73,
+      "end": 1123.25,
+      "text": "There is no one subject to death who does not fear and falls trembling at the thought of death."
+    },
+    {
+      "start": 1124.53,
+      "end": 1130.45,
+      "text": "And the Buddha said, well Brahmin, there is such a one. But there is also one subject to death"
+    },
+    {
+      "start": 1130.45,
+      "end": 1136.85,
+      "text": "who does not fear, who does not fall a trembling at the thought of death. And of what sort is that one"
+    },
+    {
+      "start": 1136.85,
+      "end": 1143.49,
+      "text": "who being subject to death, fears and falls a trembling at the thought of death? In this case,"
+    },
+    {
+      "start": 1143.57,
+      "end": 1150.29,
+      "text": "Brahmin, a certain one is not freed from passions, not freed from lusts, not freed from desire,"
+    },
+    {
+      "start": 1150.29,
+      "end": 1157.49,
+      "text": "affection, from thirst and fever, not freed from craving. Then a grievous sickness afflicts such a"
+    },
+    {
+      "start": 1157.49,
+      "end": 1164.13,
+      "text": "one. Thus afflicted by grievous sickness, it occurs to him. Alas, the passions that I love"
+    },
+    {
+      "start": 1164.69,
+      "end": 1171.73,
+      "text": "will leave me, or I shall leave the passions that I love. Thereupon he grieves and wails, laments,"
+    },
+    {
+      "start": 1171.73,
+      "end": 1177.49,
+      "text": "and beats the breasts and falls into utter bewilderment. This one, Brahmin, being subject to"
+    },
+    {
+      "start": 1177.49,
+      "end": 1184.77,
+      "text": "death, is afraid. He falls a trembling at the thought of death. Again, Brahmin, here a certain one,"
+    },
+    {
+      "start": 1184.77,
+      "end": 1191.73,
+      "text": "who as regards body, is not freed from lusts, desire, affection, thirst and fever, is not freed"
+    },
+    {
+      "start": 1191.73,
+      "end": 1198.61,
+      "text": "from craving. Then a grievous sickness afflicts him. Thus afflicted, it occurs to him. Alas,"
+    },
+    {
+      "start": 1198.61,
+      "end": 1205.25,
+      "text": "the body that I love will leave me, or I shall leave the body that I love. Thereupon he grieves,"
+    },
+    {
+      "start": 1205.25,
+      "end": 1211.49,
+      "text": "wails and falls into utter bewilderment. This one, Brahmin, being subject to death, is afraid."
+    },
+    {
+      "start": 1211.49,
+      "end": 1217.73,
+      "text": "He falls a trembling at the thought of death. Yet again, Brahmin, here a certain one has done no"
+    },
+    {
+      "start": 1217.73,
+      "end": 1225.01,
+      "text": "good deed, has done no profitable deed, has given no shelter to the timid. He has done evil, cruel,"
+    },
+    {
+      "start": 1225.01,
+      "end": 1231.89,
+      "text": "wrongful deeds. Then a grievous sickness afflicts such a one. Thus afflicted by grievous sickness,"
+    },
+    {
+      "start": 1231.89,
+      "end": 1238.45,
+      "text": "it occurs to him. Alas, I have done no good deed, I have done no profitable deed, I have given no"
+    },
+    {
+      "start": 1238.45,
+      "end": 1245.09,
+      "text": "shelter to the timid, I have done evil, cruel, wrongful deeds. To the doom of those who do such"
+    },
+    {
+      "start": 1245.09,
+      "end": 1252.29,
+      "text": "deeds hereafter, I am going. Thereupon he grieves, wails and falls into utter bewilderment. This one,"
+    },
+    {
+      "start": 1252.37,
+      "end": 1257.25,
+      "text": "Brahmin, being subject to death, is afraid. He falls a trembling at the thought of death."
+    },
+    {
+      "start": 1258.45,
+      "end": 1264.85,
+      "text": "Yet again, Brahmin, here a certain one is doubtful, full of perplexity, has come to no conclusion"
+    },
+    {
+      "start": 1264.85,
+      "end": 1271.89,
+      "text": "as to true dharma. He grieves and wails, laments and beats the breast and falls into utter bewilderment."
+    },
+    {
+      "start": 1271.89,
+      "end": 1277.49,
+      "text": "This one also, being subject to death, is afraid. He falls a trembling at the thought of death."
+    },
+    {
+      "start": 1278.13,
+      "end": 1285.65,
+      "text": "Thus these four, being subject to death, are afraid. And of what sort, Brahmin, is he who"
+    },
+    {
+      "start": 1285.65,
+      "end": 1292.45,
+      "text": "subject to death, is not afraid, does not fall a trembling at the thought of death. Then the"
+    },
+    {
+      "start": 1292.45,
+      "end": 1304.61,
+      "text": "opposites, the vice versa. So this Sutta is about the person who is very frightened when death comes."
+    },
+    {
+      "start": 1304.61,
+      "end": 1312.85,
+      "text": "The first one is, he is still very attached to the passions and a lot of desire, a lot of"
+    },
+    {
+      "start": 1314.21,
+      "end": 1322.29,
+      "text": "loves, so that he cannot bear to part from his passions. The second one is, is attached to the"
+    },
+    {
+      "start": 1322.29,
+      "end": 1329.81,
+      "text": "body. And so, when the body is about to die, he can't stand it. And the third one is done no good"
+    },
+    {
+      "start": 1329.81,
+      "end": 1334.93,
+      "text": "deeds. And this one is very common. A lot of people, they don't have enough good deeds. They"
+    },
+    {
+      "start": 1334.93,
+      "end": 1339.81,
+      "text": "have no confidence when they are about to go. Rest people who have done a lot of good deeds,"
+    },
+    {
+      "start": 1339.81,
+      "end": 1345.57,
+      "text": "they are very happy at their last moments. They are confident. And the fourth one is,"
+    },
+    {
+      "start": 1345.57,
+      "end": 1351.41,
+      "text": "is doubtful. The person does not know dharma. So he does not know how he came to the world. He"
+    },
+    {
+      "start": 1351.41,
+      "end": 1357.41,
+      "text": "does not know where he's going. And he's, he's afraid. Some people, when death comes, they are"
+    },
+    {
+      "start": 1357.41,
+      "end": 1361.81,
+      "text": "afraid to close their eyes. Because when they close their eyes, they start to see visions."
+    },
+    {
+      "start": 1362.45,
+      "end": 1371.89,
+      "text": "So they are very scared. So these are the four types of person. So the opposite are those who are not,"
+    },
+    {
+      "start": 1373.97,
+      "end": 1381.57,
+      "text": "not afraid. Now I have read another Sutta earlier where the Buddha said that"
+    },
+    {
+      "start": 1382.53,
+      "end": 1390.85,
+      "text": "most people after they pass away will fall into the woeful planes of rebirth. According to the"
+    },
+    {
+      "start": 1390.85,
+      "end": 1397.65,
+      "text": "sutras, most people, when we pass away, most people will fall into the woeful planes. And"
+    },
+    {
+      "start": 1399.17,
+      "end": 1406.21,
+      "text": "few will come back to the human realm or to go, go to the heavenly realm. So because"
+    },
+    {
+      "start": 1407.17,
+      "end": 1412.93,
+      "text": "most people go into the three woeful planes of the hell realm, animal and ghost realm,"
+    },
+    {
+      "start": 1412.93,
+      "end": 1421.17,
+      "text": "when death comes, they can see their place of rebirth. If you have experience looking at people"
+    },
+    {
+      "start": 1421.17,
+      "end": 1425.81,
+      "text": "who are about to pass away, they can tell at the last moment where they are going to be reborn."
+    },
+    {
+      "start": 1426.45,
+      "end": 1432.93,
+      "text": "So they can be, some of them will scream at the last moments. Some of them sometimes they behave"
+    },
+    {
+      "start": 1432.93,
+      "end": 1438.93,
+      "text": "like an animal and go on all fours and they refuse to wear any clothes. They just tear off their clothes."
+    },
+    {
+      "start": 1439.97,
+      "end": 1446.13,
+      "text": "So these are the people who will be very afraid when death comes, which means most people."
+    },
+    {
+      "start": 1447.57,
+      "end": 1452.45,
+      "text": "So there is also a Sutta where the Buddha said that we should be prepared because the"
+    },
+    {
+      "start": 1452.45,
+      "end": 1458.21,
+      "text": "Deva messengers have come to tell us, to give us warning. Who are the Deva messengers? When you"
+    },
+    {
+      "start": 1458.21,
+      "end": 1464.45,
+      "text": "see a person who is grievously sick, you should remember that is a Deva messenger to us, that"
+    },
+    {
+      "start": 1464.45,
+      "end": 1471.41,
+      "text": "one day will also be grievously sick. The second Deva messenger is, you see somebody who's old,"
+    },
+    {
+      "start": 1471.41,
+      "end": 1479.17,
+      "text": "when you see somebody who's old and very near death, with all hair, white or no hair, sparse hair,"
+    },
+    {
+      "start": 1479.81,
+      "end": 1487.89,
+      "text": "and walking, shaking, hunchback and all that. That is a sign to us that one day will also be"
+    },
+    {
+      "start": 1487.89,
+      "end": 1496.69,
+      "text": "like that. And then the third one is a dead corpse. When we see a corpse, that is a messenger to tell"
+    },
+    {
+      "start": 1496.69,
+      "end": 1502.05,
+      "text": "us that one day our body also will be a corpse and it won't be very long. There's a few more years"
+    },
+    {
+      "start": 1502.05,
+      "end": 1509.81,
+      "text": "time because our average lifespan is only 70 years. So these are the Deva messengers that we"
+    },
+    {
+      "start": 1511.81,
+      "end": 1518.45,
+      "text": "should receive, be heedful of the message that they are passing to us. The Buddha said our body"
+    },
+    {
+      "start": 1518.45,
+      "end": 1527.33,
+      "text": "is like a cancer. All of us have cancer. Sometimes we forget, sometimes somebody here with cancer,"
+    },
+    {
+      "start": 1527.41,
+      "end": 1533.73,
+      "text": "they can be very alarmed, they think that they are the only one who's got cancer. I have somebody"
+    },
+    {
+      "start": 1534.29,
+      "end": 1541.09,
+      "text": "who got cancer, I have gone to see that person and he tells me, I've got cancer, like,"
+    },
+    {
+      "start": 1542.05,
+      "end": 1549.41,
+      "text": "you know, expecting me, what should he do? But he forgets that all of us have cancer in the sense"
+    },
+    {
+      "start": 1549.41,
+      "end": 1556.13,
+      "text": "that we don't know when we are going to die. Say for example, a person has cancer, he thinks he's"
+    },
+    {
+      "start": 1556.13,
+      "end": 1564.61,
+      "text": "got maybe another few months to live. But then even for the rest of us, if we have a few years to live,"
+    },
+    {
+      "start": 1565.17,
+      "end": 1571.41,
+      "text": "that's not very much more. We all have to face the prospect of death. So when we listen to the"
+    },
+    {
+      "start": 1571.41,
+      "end": 1577.89,
+      "text": "suttas, we understand that's the way the world is, that's the way the way things are. So we accept it,"
+    },
+    {
+      "start": 1577.89,
+      "end": 1583.97,
+      "text": "we accept death, and then when death comes, we are no more afraid. So the Buddha said we should"
+    },
+    {
+      "start": 1583.97,
+      "end": 1594.78,
+      "text": "always reflect on death, Maranasati, the reflection of death, we should always practice. Now the next"
+    },
+    {
+      "start": 1594.78,
+      "end": 1602.7,
+      "text": "sutta is 4.19.185. On a certain occasion, the exalted one was staying near Rajagaha on Vulture's"
+    },
+    {
+      "start": 1602.7,
+      "end": 1608.78,
+      "text": "Peak Hill. Now at that time, a great number of notable wanderers were abiding on the bank of Snake"
+    },
+    {
+      "start": 1608.78,
+      "end": 1617.34,
+      "text": "River in the Wanderer's Park, namely Anyabara, Varadara, Sakula Dain and other notable wanderers."
+    },
+    {
+      "start": 1617.9,
+      "end": 1623.82,
+      "text": "Now in the evening, the exalted one arising from his solitary meditation went towards the bank of"
+    },
+    {
+      "start": 1623.82,
+      "end": 1630.7,
+      "text": "Snake River. Where was the Wanderer's Park? On that occasion, among those wanderers holding other"
+    },
+    {
+      "start": 1630.7,
+      "end": 1637.34,
+      "text": "views as they sat together together, this subject of talk chanced to arise. Such and such are the"
+    },
+    {
+      "start": 1637.34,
+      "end": 1644.3,
+      "text": "brahmana truths or holy truths. Such and such are the brahmana truths or holy truths. I just"
+    },
+    {
+      "start": 1645.5,
+      "end": 1653.26,
+      "text": "stopped here for a while to explain this word brahmana. This word brahmana was originally used"
+    },
+    {
+      "start": 1653.26,
+      "end": 1659.18,
+      "text": "for one of the four castes in India. They had the brahmana cast, the priest cast, then they had the"
+    },
+    {
+      "start": 1659.18,
+      "end": 1665.98,
+      "text": "warrior cast, which is the kathya cast, then they had the merchant cast, and then they had the"
+    },
+    {
+      "start": 1667.34,
+      "end": 1677.58,
+      "text": "laborer cast, the lowest. So this word brahmana originally was used to mean the priest, the renunciants."
+    },
+    {
+      "start": 1678.54,
+      "end": 1688.3,
+      "text": "But later, these brahmanas, these priests, they became corrupted and they even married,"
+    },
+    {
+      "start": 1688.3,
+      "end": 1694.62,
+      "text": "they had wives, they had property, they worked as a spiritual advisor to the kings."
+    },
+    {
+      "start": 1695.42,
+      "end": 1701.58,
+      "text": "And because of that, they did not later, very few of them cultivated the holy path."
+    },
+    {
+      "start": 1702.3,
+      "end": 1711.66,
+      "text": "So from there, when we refer to their castes, later we call them the brahmin cast. So the word"
+    },
+    {
+      "start": 1711.66,
+      "end": 1722.38,
+      "text": "brahmana is used more for the meaning of holy, holy. So the word brahmana can refer to a holy man"
+    },
+    {
+      "start": 1722.38,
+      "end": 1729.34,
+      "text": "and arahan. It can also refer to the brahmin cast. So you have to be careful. So in this case,"
+    },
+    {
+      "start": 1729.34,
+      "end": 1736.46,
+      "text": "when you say the brahmana truths, it means the holy truths. Now to continue. Now when the exalted"
+    },
+    {
+      "start": 1736.46,
+      "end": 1743.1,
+      "text": "one reached those wanderers, on coming to them, he sat down on a seat made ready. And he had sat down,"
+    },
+    {
+      "start": 1743.1,
+      "end": 1748.94,
+      "text": "the exalted one said this to those wanderers, pray wanderers, on what subject of talk were you"
+    },
+    {
+      "start": 1748.94,
+      "end": 1755.5,
+      "text": "engaged? Just now, as you sat here, as you sit here gathered together, what was the subject of talk"
+    },
+    {
+      "start": 1755.5,
+      "end": 1762.3,
+      "text": "you have just now broken off? As to that, Master Gautama, as we sat here gathered together, the"
+    },
+    {
+      "start": 1762.3,
+      "end": 1768.22,
+      "text": "subject of talk that chance to arise was this, such and such are the brahmana truths, such and"
+    },
+    {
+      "start": 1768.22,
+      "end": 1776.62,
+      "text": "such are the brahmana truths. Well, wanderers, these four brahmana truths or holy truths have"
+    },
+    {
+      "start": 1776.62,
+      "end": 1784.06,
+      "text": "been set forth by myself after fully comprehending and realizing them for myself. But four, in this"
+    },
+    {
+      "start": 1784.06,
+      "end": 1792.62,
+      "text": "case, wanderers, the brahmana says thus, all living things are not to be harmed. So saying a brahmana"
+    },
+    {
+      "start": 1792.62,
+      "end": 1800.14,
+      "text": "speaks truth, not falsehood, therein he has no conceit of recluse or brahmin. He has no conceit"
+    },
+    {
+      "start": 1800.14,
+      "end": 1806.94,
+      "text": "of better than I, equal am I, inferior am I. Moreover, by fully comprehending the truth contained"
+    },
+    {
+      "start": 1806.94,
+      "end": 1811.9,
+      "text": "in that saying, he is bent on the practice of mercy and compassion for all living things."
+    },
+    {
+      "start": 1812.62,
+      "end": 1819.26,
+      "text": "Again, wanderers, the brahmana says thus, all sense delights are impermanent, painful of a"
+    },
+    {
+      "start": 1819.26,
+      "end": 1826.38,
+      "text": "nature to change. So saying the brahmana speaks truth, not falsehood, therein he has no conceit"
+    },
+    {
+      "start": 1826.38,
+      "end": 1834.22,
+      "text": "of recluse or brahmin, or better am I, or equal am I, or inferior am I. Moreover, by fully"
+    },
+    {
+      "start": 1834.22,
+      "end": 1839.18,
+      "text": "comprehending the truth contained in that saying, he is bent on the practice of distaste for sense"
+    },
+    {
+      "start": 1839.18,
+      "end": 1847.58,
+      "text": "delights, for passionlessness, for making an end thereof. Again, wanderers, the brahmana says thus,"
+    },
+    {
+      "start": 1848.3,
+      "end": 1855.18,
+      "text": "all existences or becomeings are impermanent, painful of a nature to change. So saying the"
+    },
+    {
+      "start": 1855.18,
+      "end": 1861.98,
+      "text": "brahmana speaks truth, not falsehood, therein he has no conceit of recluse, etc., etc. Moreover,"
+    },
+    {
+      "start": 1861.98,
+      "end": 1867.42,
+      "text": "by fully comprehending the truth contained in that saying, he is bent on the practice of distaste"
+    },
+    {
+      "start": 1867.42,
+      "end": 1875.02,
+      "text": "for existences, for passionlessness, for making an end thereof. Yet again the wanderers, again"
+    },
+    {
+      "start": 1875.02,
+      "end": 1881.58,
+      "text": "wanderers, the brahmana says thus, I have no part in anything anywhere, and herein for me there is"
+    },
+    {
+      "start": 1881.58,
+      "end": 1887.98,
+      "text": "no attachment to anything. So saying the brahmana speaks truth, not falsehood, therein he has no"
+    },
+    {
+      "start": 1887.98,
+      "end": 1894.06,
+      "text": "conceit of recluse, or brahmin, or better am I, or equal am I, or inferior am I. Moreover,"
+    },
+    {
+      "start": 1894.06,
+      "end": 1899.02,
+      "text": "by fully comprehending the truth contained in that saying, he is bent on the practice of having"
+    },
+    {
+      "start": 1899.02,
+      "end": 1907.02,
+      "text": "nothing at all. So these wanderers are the four brahmana truths put forth by myself after fully"
+    },
+    {
+      "start": 1907.02,
+      "end": 1915.26,
+      "text": "comprehending and realising them myself. That's the end of the Sutta. So in this Sutta, you can see"
+    },
+    {
+      "start": 1916.54,
+      "end": 1922.38,
+      "text": "during the time of the Buddha, there were a lot of external ascetics like these wanderers,"
+    },
+    {
+      "start": 1922.38,
+      "end": 1929.42,
+      "text": "paribhajakas, they are called. And this Sutta shows that the Buddha was friendly with them,"
+    },
+    {
+      "start": 1929.42,
+      "end": 1935.5,
+      "text": "he associated with them, he did not cut them off, he did not look down on them. And because the Buddha"
+    },
+    {
+      "start": 1935.5,
+      "end": 1942.3,
+      "text": "had a lot of metta, he approached them and made friends with them, so that gave him the opportunity"
+    },
+    {
+      "start": 1942.3,
+      "end": 1948.06,
+      "text": "to teach them. And sometimes they accepted his teachings and converted to Buddhism, sometimes"
+    },
+    {
+      "start": 1948.78,
+      "end": 1954.94,
+      "text": "they accepted it, but they refused to convert. And sometimes some of them did not accept it,"
+    },
+    {
+      "start": 1954.94,
+      "end": 1961.66,
+      "text": "and some even tried to debate with him to challenge him. So you find that in this case,"
+    },
+    {
+      "start": 1961.66,
+      "end": 1965.74,
+      "text": "the Buddha taught them the four holy truths, but they are not the four Aryan truths,"
+    },
+    {
+      "start": 1967.02,
+      "end": 1974.46,
+      "text": "not the four Aryan truths. Because some of these external ascetics, they have"
+    },
+    {
+      "start": 1975.1,
+      "end": 1980.54,
+      "text": "their own opinion, their own views, so it's not easy to change them. So out of these four"
+    },
+    {
+      "start": 1980.54,
+      "end": 1986.38,
+      "text": "truths that the Buddha mentioned, two of them actually are part of the external set teachings,"
+    },
+    {
+      "start": 1986.38,
+      "end": 1991.9,
+      "text": "like the first one, all living things are not to be harmed. This is a very common"
+    },
+    {
+      "start": 1994.54,
+      "end": 2004.22,
+      "text": "view of holy men of all the religions in India at that time. And like the Jains,"
+    },
+    {
+      "start": 2004.22,
+      "end": 2011.58,
+      "text": "they are quite fanatical about not harming any living beings, so that they are pure vegetarians"
+    },
+    {
+      "start": 2011.58,
+      "end": 2020.94,
+      "text": "to the extent of not taking milk, not even taking fresh vegetables and fruits. They think that"
+    },
+    {
+      "start": 2020.94,
+      "end": 2032.3,
+      "text": "fresh vegetables also contain life, and they only take brown vegetables. So the Buddha mentioned"
+    },
+    {
+      "start": 2032.3,
+      "end": 2038.78,
+      "text": "this first one to sort of get there, that is something that is very acceptable to them."
+    },
+    {
+      "start": 2038.78,
+      "end": 2044.06,
+      "text": "Then the fourth one also, that I have no part in anything anywhere. And hearing for me, there is"
+    },
+    {
+      "start": 2044.06,
+      "end": 2050.46,
+      "text": "no attachment to anything. And it's because of this, that some of them, they don't wear any clothes,"
+    },
+    {
+      "start": 2050.46,
+      "end": 2056.14,
+      "text": "they go around naked, they say they have no attachment to anything, or everything they have"
+    },
+    {
+      "start": 2059.66,
+      "end": 2065.9,
+      "text": "put down, including all the clothes. Of course, this is not something very practical. So the"
+    },
+    {
+      "start": 2065.9,
+      "end": 2072.78,
+      "text": "Buddha did not practice this, but this idea that they are not attached to anything is something that"
+    },
+    {
+      "start": 2072.78,
+      "end": 2079.34,
+      "text": "is acceptable. So the Buddha also mentioned this. Then the other two are basically the Buddha's"
+    },
+    {
+      "start": 2079.34,
+      "end": 2085.66,
+      "text": "teachings, that all sense delights are impermanent, painful of a nature to change, and all existences"
+    },
+    {
+      "start": 2085.66,
+      "end": 2088.06,
+      "text": "are impermanent, painful of a nature to change."
+    }
+  ]
+}

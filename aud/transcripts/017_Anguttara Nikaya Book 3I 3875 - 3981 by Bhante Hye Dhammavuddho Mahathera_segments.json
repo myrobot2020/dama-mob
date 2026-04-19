@@ -1,0 +1,2705 @@
+{
+  "source": "faster-whisper",
+  "model": "tiny",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "en",
+  "duration": 1851.791375,
+  "segments": [
+    {
+      "start": 0.85,
+      "end": 4.85,
+      "text": "Now, I come to a certain of a 3.8.75."
+    },
+    {
+      "start": 4.85,
+      "end": 7.85,
+      "text": "Now, the variable, and then I went to see the exhausted one,"
+    },
+    {
+      "start": 7.85,
+      "end": 9.85,
+      "text": "and on coming to him, salute it in,"
+    },
+    {
+      "start": 9.85,
+      "end": 11.85,
+      "text": "let's set down at one side."
+    },
+    {
+      "start": 11.85,
+      "end": 13.85,
+      "text": "As he's thus set the exhausted one,"
+    },
+    {
+      "start": 13.85,
+      "end": 15.85,
+      "text": "set this to the variable, and then,"
+    },
+    {
+      "start": 15.85,
+      "end": 18.85,
+      "text": "and then, one for whom you have fellow feeling,"
+    },
+    {
+      "start": 18.85,
+      "end": 21.85,
+      "text": "and those who think you should be listened to,"
+    },
+    {
+      "start": 21.85,
+      "end": 23.85,
+      "text": "but the friends or intimates,"
+    },
+    {
+      "start": 23.85,
+      "end": 25.85,
+      "text": "or can smell or blood relations,"
+    },
+    {
+      "start": 25.85,
+      "end": 28.85,
+      "text": "such ought to be advised about grounded on,"
+    },
+    {
+      "start": 28.85,
+      "end": 31.85,
+      "text": "grounded on, established in three particulars."
+    },
+    {
+      "start": 31.85,
+      "end": 35.85,
+      "text": "But three, they should be advised about grounded on,"
+    },
+    {
+      "start": 35.85,
+      "end": 37.85,
+      "text": "established in unwavering,"
+    },
+    {
+      "start": 37.85,
+      "end": 39.85,
+      "text": "loyalty to the Buddha, thus."
+    },
+    {
+      "start": 39.85,
+      "end": 41.85,
+      "text": "He, it is the exhausted one,"
+    },
+    {
+      "start": 41.85,
+      "end": 43.85,
+      "text": "that Arahan, who is a fully enlightened one,"
+    },
+    {
+      "start": 43.85,
+      "end": 46.85,
+      "text": "et cetera, teacher of the US and mankind,"
+    },
+    {
+      "start": 46.85,
+      "end": 48.85,
+      "text": "a Buddha, exalted one."
+    },
+    {
+      "start": 48.85,
+      "end": 51.85,
+      "text": "They should be advised about grounded on,"
+    },
+    {
+      "start": 51.85,
+      "end": 54.85,
+      "text": "established in unwavering, loyalty to Dhamma,"
+    },
+    {
+      "start": 54.85,
+      "end": 56.85,
+      "text": "thus, perfectly, by the uploaded one,"
+    },
+    {
+      "start": 56.85,
+      "end": 58.85,
+      "text": "is Dhamma, et cetera, et cetera,"
+    },
+    {
+      "start": 58.85,
+      "end": 61.85,
+      "text": "to be understood by the intelligent, each for himself."
+    },
+    {
+      "start": 61.85,
+      "end": 63.85,
+      "text": "This would be advised about grounded on,"
+    },
+    {
+      "start": 63.85,
+      "end": 67.85,
+      "text": "established in unwavering, loyalty to the order of Sangha,"
+    },
+    {
+      "start": 67.85,
+      "end": 68.85,
+      "text": "thus."
+    },
+    {
+      "start": 68.85,
+      "end": 70.85,
+      "text": "They work rightfully, the exhausted ones,"
+    },
+    {
+      "start": 70.85,
+      "end": 72.85,
+      "text": "order of disciples, et cetera, et cetera,"
+    },
+    {
+      "start": 72.85,
+      "end": 75.85,
+      "text": "a few of merit and surpassed for the world."
+    },
+    {
+      "start": 75.85,
+      "end": 78.85,
+      "text": "They may be changed, and then, in four great phenomena,"
+    },
+    {
+      "start": 78.85,
+      "end": 82.85,
+      "text": "the elements of earth, water, fire, and wind."
+    },
+    {
+      "start": 82.85,
+      "end": 84.85,
+      "text": "But there can be no change in the Arahan,"
+    },
+    {
+      "start": 84.85,
+      "end": 87.85,
+      "text": "the disciple blessed with unwavering loyalty to the Buddha."
+    },
+    {
+      "start": 87.85,
+      "end": 89.85,
+      "text": "By change, I mean this,"
+    },
+    {
+      "start": 89.85,
+      "end": 91.85,
+      "text": "that such a one should be reborn in hell,"
+    },
+    {
+      "start": 91.85,
+      "end": 94.85,
+      "text": "in the womb of an animal, or in the realm of course,"
+    },
+    {
+      "start": 94.85,
+      "end": 96.85,
+      "text": "is an impossibility."
+    },
+    {
+      "start": 96.85,
+      "end": 99.85,
+      "text": "There may be change and land there in the four great phenomena,"
+    },
+    {
+      "start": 99.85,
+      "end": 104.85,
+      "text": "but for the Arahan disciple blessed with unwavering loyalty to the Dhamma,"
+    },
+    {
+      "start": 104.85,
+      "end": 106.85,
+      "text": "there can be no change."
+    },
+    {
+      "start": 106.85,
+      "end": 109.85,
+      "text": "I mean that such a one should be reborn in hell,"
+    },
+    {
+      "start": 109.85,
+      "end": 112.85,
+      "text": "in the womb of an animal in the realm of course,"
+    },
+    {
+      "start": 112.85,
+      "end": 114.85,
+      "text": "is an impossibility."
+    },
+    {
+      "start": 114.85,
+      "end": 117.85,
+      "text": "There may be change and land there in the four great phenomena,"
+    },
+    {
+      "start": 117.85,
+      "end": 122.85,
+      "text": "but for the Arahan disciple blessed with unwavering loyalty to the Sangha,"
+    },
+    {
+      "start": 122.85,
+      "end": 123.85,
+      "text": "there can be no change."
+    },
+    {
+      "start": 123.85,
+      "end": 126.85,
+      "text": "I mean that such a one should be reborn in hell,"
+    },
+    {
+      "start": 126.85,
+      "end": 128.85,
+      "text": "in the womb of an animal in the realm of course,"
+    },
+    {
+      "start": 128.85,
+      "end": 130.85,
+      "text": "is an impossibility."
+    },
+    {
+      "start": 130.85,
+      "end": 133.85,
+      "text": "So, and then, one for whom you have fellow feeling,"
+    },
+    {
+      "start": 133.85,
+      "end": 136.85,
+      "text": "should be established in these three particulars."
+    },
+    {
+      "start": 136.85,
+      "end": 140.85,
+      "text": "Here, in this utan, the Buddha is saying that"
+    },
+    {
+      "start": 140.85,
+      "end": 145.85,
+      "text": "those of our family members and friends and others who listen to us,"
+    },
+    {
+      "start": 145.85,
+      "end": 151.85,
+      "text": "we should bring them to have faith in the Buddha Dhamma and Sangha."
+    },
+    {
+      "start": 151.85,
+      "end": 155.85,
+      "text": "If they have faith in the Buddha Dhamma and Sangha,"
+    },
+    {
+      "start": 155.85,
+      "end": 160.85,
+      "text": "then they learn the Dhamma and they understand the Dhamma"
+    },
+    {
+      "start": 160.85,
+      "end": 164.85,
+      "text": "and they have unshakable faith in the Buddha Dhamma and Sangha,"
+    },
+    {
+      "start": 164.85,
+      "end": 169.85,
+      "text": "then the Buddha has said those things,"
+    },
+    {
+      "start": 169.85,
+      "end": 172.85,
+      "text": "that means they have entered the streamer,"
+    },
+    {
+      "start": 172.85,
+      "end": 176.85,
+      "text": "and the person who has entered the streamer has become an Arya."
+    },
+    {
+      "start": 176.85,
+      "end": 180.85,
+      "text": "He can never be reborn into the three wolf who plays,"
+    },
+    {
+      "start": 180.85,
+      "end": 184.85,
+      "text": "and never be reborn in the hell realm,"
+    },
+    {
+      "start": 184.85,
+      "end": 187.85,
+      "text": "in the animal realm or in the course realm."
+    },
+    {
+      "start": 187.85,
+      "end": 190.85,
+      "text": "But then, how do you attain unshakable faith?"
+    },
+    {
+      "start": 191.85,
+      "end": 195.85,
+      "text": "We have to remember, it is by understanding sutras like this,"
+    },
+    {
+      "start": 195.85,
+      "end": 197.85,
+      "text": "the words of the Buddha."
+    },
+    {
+      "start": 197.85,
+      "end": 203.85,
+      "text": "I always say that the sutras and understanding the sutras are very, very important."
+    },
+    {
+      "start": 203.85,
+      "end": 205.85,
+      "text": "You remember, very, right?"
+    },
+    {
+      "start": 205.85,
+      "end": 207.85,
+      "text": "We have re- recite the ETP Soul Chan,"
+    },
+    {
+      "start": 207.85,
+      "end": 210.85,
+      "text": "and then we come to the Sangha,"
+    },
+    {
+      "start": 210.85,
+      "end": 214.85,
+      "text": "Supati, Pan, No, Bhagawato, Savaka Sangha."
+    },
+    {
+      "start": 214.85,
+      "end": 217.85,
+      "text": "What is this? Savaka Sangha?"
+    },
+    {
+      "start": 217.85,
+      "end": 220.85,
+      "text": "Savaka are listeners or hearers."
+    },
+    {
+      "start": 220.85,
+      "end": 226.85,
+      "text": "I mean, the Sangha of listeners or hearers are the Buddha's disciples."
+    },
+    {
+      "start": 226.85,
+      "end": 230.85,
+      "text": "They always listen to the Buddha's words as well as their course of our class."
+    },
+    {
+      "start": 230.85,
+      "end": 232.85,
+      "text": "So we have to be like them."
+    },
+    {
+      "start": 232.85,
+      "end": 234.85,
+      "text": "We continue listening to the Buddha's words,"
+    },
+    {
+      "start": 234.85,
+      "end": 237.85,
+      "text": "and then we get a lot of wisdom, and we have right view,"
+    },
+    {
+      "start": 237.85,
+      "end": 241.85,
+      "text": "and then we would have entered the streamer according to the Buddha's teaching."
+    },
+    {
+      "start": 241.85,
+      "end": 246.85,
+      "text": "The next sutra is 3.8.76."
+    },
+    {
+      "start": 246.85,
+      "end": 249.85,
+      "text": "Now, the verbal and then down went to see the exalted one,"
+    },
+    {
+      "start": 249.85,
+      "end": 251.85,
+      "text": "and said this to him."
+    },
+    {
+      "start": 251.85,
+      "end": 257.85,
+      "text": "As to the same existence, existence, Bhava, or beam,"
+    },
+    {
+      "start": 257.85,
+      "end": 260.85,
+      "text": "Lord, pray to one extent is their existence."
+    },
+    {
+      "start": 260.85,
+      "end": 261.85,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 261.85,
+      "end": 264.85,
+      "text": "you, there were no realm of central desire,"
+    },
+    {
+      "start": 264.85,
+      "end": 267.85,
+      "text": "and no action to come up to right and there in and under."
+    },
+    {
+      "start": 267.85,
+      "end": 271.85,
+      "text": "Would any central realm existence be manifested?"
+    },
+    {
+      "start": 271.85,
+      "end": 273.85,
+      "text": "Surely not Lord."
+    },
+    {
+      "start": 273.85,
+      "end": 277.85,
+      "text": "In this way, a land and action or come marks the field."
+    },
+    {
+      "start": 277.85,
+      "end": 280.85,
+      "text": "Consciousness is the seed, craving the moisture,"
+    },
+    {
+      "start": 280.85,
+      "end": 282.85,
+      "text": "for beings that are hindered by ignorance,"
+    },
+    {
+      "start": 282.85,
+      "end": 284.85,
+      "text": "peted by craving."
+    },
+    {
+      "start": 284.85,
+      "end": 288.85,
+      "text": "Consciousness is established in the lower realm as the central realm."
+    },
+    {
+      "start": 288.85,
+      "end": 291.85,
+      "text": "Thus, in the future, as we beat a river."
+    },
+    {
+      "start": 291.85,
+      "end": 294.85,
+      "text": "In this way, there is existence and land."
+    },
+    {
+      "start": 294.85,
+      "end": 296.85,
+      "text": "Again, if there were no realm or form,"
+    },
+    {
+      "start": 296.85,
+      "end": 299.85,
+      "text": "and no action or come up to right and there,"
+    },
+    {
+      "start": 299.85,
+      "end": 302.85,
+      "text": "would any form realm existence be manifested?"
+    },
+    {
+      "start": 302.85,
+      "end": 304.85,
+      "text": "Surely surely not Lord."
+    },
+    {
+      "start": 304.85,
+      "end": 307.85,
+      "text": "In this way, action, come marks the field."
+    },
+    {
+      "start": 307.85,
+      "end": 310.85,
+      "text": "Consciousness is the seed, craving the moisture."
+    },
+    {
+      "start": 310.85,
+      "end": 313.85,
+      "text": "For beings that are hindered by ignorance, peted by craving."
+    },
+    {
+      "start": 313.85,
+      "end": 316.85,
+      "text": "Consciousness is established in the intermediate realm."
+    },
+    {
+      "start": 316.85,
+      "end": 318.85,
+      "text": "There is a form realm."
+    },
+    {
+      "start": 318.85,
+      "end": 321.85,
+      "text": "Thus, in the future, there is repeated river."
+    },
+    {
+      "start": 321.85,
+      "end": 326.85,
+      "text": "Again, if there were no form as realm and no action to right and there,"
+    },
+    {
+      "start": 326.85,
+      "end": 329.85,
+      "text": "would any formless realm existence be manifested?"
+    },
+    {
+      "start": 329.85,
+      "end": 331.85,
+      "text": "Surely not Lord."
+    },
+    {
+      "start": 331.85,
+      "end": 333.85,
+      "text": "In this way, a land and action is the field."
+    },
+    {
+      "start": 333.85,
+      "end": 336.85,
+      "text": "Consciousness is the seed, craving the moisture."
+    },
+    {
+      "start": 336.85,
+      "end": 338.85,
+      "text": "For beings that are hindered by ignorance,"
+    },
+    {
+      "start": 338.85,
+      "end": 339.85,
+      "text": "peted by craving."
+    },
+    {
+      "start": 339.85,
+      "end": 342.85,
+      "text": "Consciousness is established in the higher realm."
+    },
+    {
+      "start": 342.85,
+      "end": 345.85,
+      "text": "Thus, in the future, there is repeated river."
+    },
+    {
+      "start": 345.85,
+      "end": 348.85,
+      "text": "In this way, a land and land, there is existence."
+    },
+    {
+      "start": 349.85,
+      "end": 356.85,
+      "text": "This is a sutta that talks about existence."
+    },
+    {
+      "start": 356.85,
+      "end": 359.85,
+      "text": "And here in this sutta, the Buddha, I say,"
+    },
+    {
+      "start": 359.85,
+      "end": 362.85,
+      "text": "that a few things contribute to existence."
+    },
+    {
+      "start": 362.85,
+      "end": 363.85,
+      "text": "One is karma."
+    },
+    {
+      "start": 363.85,
+      "end": 366.85,
+      "text": "Come on, here's got to the field."
+    },
+    {
+      "start": 366.85,
+      "end": 368.85,
+      "text": "Second one is consciousness."
+    },
+    {
+      "start": 368.85,
+      "end": 370.85,
+      "text": "Consciousness is the seed."
+    },
+    {
+      "start": 370.85,
+      "end": 374.85,
+      "text": "And third one is craving the moisture."
+    },
+    {
+      "start": 375.85,
+      "end": 383.85,
+      "text": "And because of ignorance and craving, consciousness is re-established in another realm."
+    },
+    {
+      "start": 383.85,
+      "end": 389.26,
+      "text": "So, there are some monks who use this sutta"
+    },
+    {
+      "start": 389.26,
+      "end": 392.26,
+      "text": "to support the Abidama and commentary,"
+    },
+    {
+      "start": 392.26,
+      "end": 396.26,
+      "text": "interpretation of dependent origination."
+    },
+    {
+      "start": 396.26,
+      "end": 399.26,
+      "text": "In the dependent origination, the twelve links,"
+    },
+    {
+      "start": 399.26,
+      "end": 401.26,
+      "text": "and the first one is Abidya ignorance."
+    },
+    {
+      "start": 401.26,
+      "end": 403.26,
+      "text": "Abidya pachaya samkara."
+    },
+    {
+      "start": 403.26,
+      "end": 405.26,
+      "text": "The second one is samkara."
+    },
+    {
+      "start": 405.26,
+      "end": 409.26,
+      "text": "And samkara is interpreted by the commentary"
+    },
+    {
+      "start": 409.26,
+      "end": 415.26,
+      "text": "and the Abidama s-kama action."
+    },
+    {
+      "start": 415.26,
+      "end": 419.26,
+      "text": "Which leads to the third one."
+    },
+    {
+      "start": 419.26,
+      "end": 422.26,
+      "text": "Samkara pachaya vinyana."
+    },
+    {
+      "start": 422.26,
+      "end": 427.26,
+      "text": "Which leads to vinyana coming to existence."
+    },
+    {
+      "start": 427.26,
+      "end": 433.26,
+      "text": "However, in this sutta, I will consider carefully"
+    },
+    {
+      "start": 433.26,
+      "end": 436.26,
+      "text": "and karma is only the field in them."
+    },
+    {
+      "start": 436.26,
+      "end": 440.26,
+      "text": "Whereas, craving is the moisture, craving is the moisture."
+    },
+    {
+      "start": 440.26,
+      "end": 445.26,
+      "text": "For the seed to be reborn for the seed to sprout."
+    },
+    {
+      "start": 445.26,
+      "end": 449.26,
+      "text": "It would seem to me that craving is more important,"
+    },
+    {
+      "start": 449.26,
+      "end": 451.26,
+      "text": "not karma."
+    },
+    {
+      "start": 451.26,
+      "end": 454.26,
+      "text": "Because there is a sutta somewhere else,"
+    },
+    {
+      "start": 454.26,
+      "end": 457.26,
+      "text": "which says that the cause for life,"
+    },
+    {
+      "start": 457.26,
+      "end": 462.26,
+      "text": "the main cause for their life form is moisture."
+    },
+    {
+      "start": 463.26,
+      "end": 465.26,
+      "text": "Water."
+    },
+    {
+      "start": 465.26,
+      "end": 469.26,
+      "text": "Any way that there is more water or moisture,"
+    },
+    {
+      "start": 469.26,
+      "end": 470.26,
+      "text": "there will be life."
+    },
+    {
+      "start": 470.26,
+      "end": 471.26,
+      "text": "That's why now the scientists,"
+    },
+    {
+      "start": 471.26,
+      "end": 474.26,
+      "text": "when they investigate the other planets,"
+    },
+    {
+      "start": 474.26,
+      "end": 479.26,
+      "text": "they try to look for any sign of moisture."
+    },
+    {
+      "start": 479.26,
+      "end": 480.26,
+      "text": "Does any sign of moisture,"
+    },
+    {
+      "start": 480.26,
+      "end": 484.26,
+      "text": "then they assure that there must be life somewhere in the planet."
+    },
+    {
+      "start": 484.26,
+      "end": 491.26,
+      "text": "So, to me, the craving is more important,"
+    },
+    {
+      "start": 491.26,
+      "end": 494.26,
+      "text": "then the action karma."
+    },
+    {
+      "start": 494.26,
+      "end": 497.26,
+      "text": "Whereas, the commentator, Abidama interpretation,"
+    },
+    {
+      "start": 497.26,
+      "end": 503.26,
+      "text": "is that karma is the one that is the main cause for people."
+    },
+    {
+      "start": 503.26,
+      "end": 505.26,
+      "text": "But I like to quote another sutta,"
+    },
+    {
+      "start": 505.26,
+      "end": 507.26,
+      "text": "Majimanikaya number 43."
+    },
+    {
+      "start": 507.26,
+      "end": 511.26,
+      "text": "Sariputta, Abidama Sariputta,"
+    },
+    {
+      "start": 512.26,
+      "end": 516.26,
+      "text": "what else, how is renewal of existence in the future generated"
+    },
+    {
+      "start": 516.26,
+      "end": 518.26,
+      "text": "and Sariputta reply?"
+    },
+    {
+      "start": 518.26,
+      "end": 523.26,
+      "text": "Renewal of existence in the future is generated through the delighting in this"
+    },
+    {
+      "start": 523.26,
+      "end": 528.26,
+      "text": "and that on the part of beings who are hindered by ignorance"
+    },
+    {
+      "start": 528.26,
+      "end": 530.26,
+      "text": "and factored by craving."
+    },
+    {
+      "start": 530.26,
+      "end": 534.26,
+      "text": "So, here, the book, when I both say,"
+    },
+    {
+      "start": 534.26,
+      "end": 538.26,
+      "text": "because of delighting in this and that,"
+    },
+    {
+      "start": 538.26,
+      "end": 541.26,
+      "text": "is actually craving."
+    },
+    {
+      "start": 541.26,
+      "end": 546.26,
+      "text": "Also, another reason why,"
+    },
+    {
+      "start": 546.26,
+      "end": 551.26,
+      "text": "we can say that karma is not the main cause for people"
+    },
+    {
+      "start": 551.26,
+      "end": 553.26,
+      "text": "that for existence,"
+    },
+    {
+      "start": 553.26,
+      "end": 556.26,
+      "text": "is because you see a case like Angulimala"
+    },
+    {
+      "start": 556.26,
+      "end": 559.26,
+      "text": "and Angulimala, he created a lot of evil karma"
+    },
+    {
+      "start": 559.26,
+      "end": 561.26,
+      "text": "and this evil karma should have brought him down"
+    },
+    {
+      "start": 561.26,
+      "end": 565.26,
+      "text": "to the warful place if not to hell itself."
+    },
+    {
+      "start": 565.26,
+      "end": 568.26,
+      "text": "But because he destroyed craving,"
+    },
+    {
+      "start": 568.26,
+      "end": 572.26,
+      "text": "he struggles so hard and became an arahan,"
+    },
+    {
+      "start": 572.26,
+      "end": 575.26,
+      "text": "destroyed ignorance and destroyed craving."
+    },
+    {
+      "start": 575.26,
+      "end": 578.26,
+      "text": "There was no more rebirth for him,"
+    },
+    {
+      "start": 578.26,
+      "end": 581.26,
+      "text": "even though there was a lot of karma that he had done."
+    },
+    {
+      "start": 581.26,
+      "end": 585.26,
+      "text": "So, the main thing that got him out of samsara"
+    },
+    {
+      "start": 585.26,
+      "end": 588.26,
+      "text": "is that he destroyed craving."
+    },
+    {
+      "start": 588.26,
+      "end": 591.26,
+      "text": "Another example is the Asania sutta,"
+    },
+    {
+      "start": 591.26,
+      "end": 595.26,
+      "text": "those beings in the form of jhana realm,"
+    },
+    {
+      "start": 595.26,
+      "end": 596.26,
+      "text": "in the form realm."
+    },
+    {
+      "start": 596.26,
+      "end": 599.26,
+      "text": "There's a type of beings who have no perception"
+    },
+    {
+      "start": 599.26,
+      "end": 602.26,
+      "text": "they are born just with a body, but no perception."
+    },
+    {
+      "start": 602.26,
+      "end": 608.26,
+      "text": "So, in that state, they do not create any karma."
+    },
+    {
+      "start": 608.26,
+      "end": 611.26,
+      "text": "Even though they do not create any karma,"
+    },
+    {
+      "start": 611.26,
+      "end": 616.26,
+      "text": "it doesn't mean that they have stopped existence"
+    },
+    {
+      "start": 616.26,
+      "end": 619.26,
+      "text": "when they pass away from that state,"
+    },
+    {
+      "start": 619.26,
+      "end": 621.26,
+      "text": "and they are reborn again."
+    },
+    {
+      "start": 621.26,
+      "end": 626.26,
+      "text": "So, karma does not seem to be as important as craving."
+    },
+    {
+      "start": 626.26,
+      "end": 628.26,
+      "text": "The other thing about this uta,"
+    },
+    {
+      "start": 628.26,
+      "end": 631.26,
+      "text": "which is very important there, which I like to mention,"
+    },
+    {
+      "start": 631.26,
+      "end": 634.26,
+      "text": "is the commentary statement."
+    },
+    {
+      "start": 634.26,
+      "end": 638.26,
+      "text": "There's a very important commentary statement here,"
+    },
+    {
+      "start": 638.26,
+      "end": 642.26,
+      "text": "and the commentary says about this uta."
+    },
+    {
+      "start": 642.26,
+      "end": 646.26,
+      "text": "About the tree forms of the tree realms,"
+    },
+    {
+      "start": 646.26,
+      "end": 648.26,
+      "text": "of existence as a central desire realm,"
+    },
+    {
+      "start": 648.26,
+      "end": 650.26,
+      "text": "the form realm, and the form minister realm,"
+    },
+    {
+      "start": 650.26,
+      "end": 653.26,
+      "text": "there's commentary says these are the three forms"
+    },
+    {
+      "start": 653.26,
+      "end": 656.26,
+      "text": "of spheres of mundane consciousness."
+    },
+    {
+      "start": 656.26,
+      "end": 659.26,
+      "text": "There is a form, which is supreme mundane"
+    },
+    {
+      "start": 659.26,
+      "end": 663.26,
+      "text": "or supernormal, to awaken or normal consciousness."
+    },
+    {
+      "start": 663.26,
+      "end": 666.26,
+      "text": "This is reckon and consciousness."
+    },
+    {
+      "start": 666.26,
+      "end": 670.26,
+      "text": "The fourth type of consciousness mentioned here,"
+    },
+    {
+      "start": 670.26,
+      "end": 674.26,
+      "text": "may be referring to the state on deep sleep,"
+    },
+    {
+      "start": 674.26,
+      "end": 678.26,
+      "text": "without dreaming or the state of Nirvana itself."
+    },
+    {
+      "start": 678.26,
+      "end": 685.46,
+      "text": "Now, we come to the uta number 3.8.78."
+    },
+    {
+      "start": 685.46,
+      "end": 695.22,
+      "text": "At one time, the exalted one set to the venable and under."
+    },
+    {
+      "start": 695.22,
+      "end": 698.22,
+      "text": "What do you think, and under,"
+    },
+    {
+      "start": 698.22,
+      "end": 701.22,
+      "text": "all every sort of moral practice,"
+    },
+    {
+      "start": 701.22,
+      "end": 703.22,
+      "text": "way of living,"
+    },
+    {
+      "start": 703.22,
+      "end": 706.22,
+      "text": "sanctity of life, and excellence of service,"
+    },
+    {
+      "start": 706.22,
+      "end": 709.22,
+      "text": "have a like fruit here after."
+    },
+    {
+      "start": 709.22,
+      "end": 714.22,
+      "text": "I will not see so lot that it is inevitably so."
+    },
+    {
+      "start": 714.22,
+      "end": 718.22,
+      "text": "Well, then, do you go into particular, say the Buddha,"
+    },
+    {
+      "start": 718.22,
+      "end": 720.22,
+      "text": "and an under reply."
+    },
+    {
+      "start": 720.22,
+      "end": 723.22,
+      "text": "For instance, law that moral practice,"
+    },
+    {
+      "start": 723.22,
+      "end": 726.22,
+      "text": "way of living, sanctity of life,"
+    },
+    {
+      "start": 726.22,
+      "end": 730.22,
+      "text": "and excellence of service, which increase unprofitable states,"
+    },
+    {
+      "start": 730.22,
+      "end": 734.22,
+      "text": "and decrease profitable states in him who observes them,"
+    },
+    {
+      "start": 734.22,
+      "end": 737.22,
+      "text": "such moral practice and so forth,"
+    },
+    {
+      "start": 737.22,
+      "end": 741.22,
+      "text": "have not a like fruit here after."
+    },
+    {
+      "start": 741.22,
+      "end": 743.22,
+      "text": "But that moral practice,"
+    },
+    {
+      "start": 743.22,
+      "end": 746.22,
+      "text": "way of living, sanctity of life,"
+    },
+    {
+      "start": 746.22,
+      "end": 751.22,
+      "text": "and excellence of service, which increase profitable states,"
+    },
+    {
+      "start": 751.22,
+      "end": 756.22,
+      "text": "and decrease unprofitable states in him who observes them,"
+    },
+    {
+      "start": 756.22,
+      "end": 759.22,
+      "text": "such moral practice,"
+    },
+    {
+      "start": 759.22,
+      "end": 762.22,
+      "text": "have a like fruit here after."
+    },
+    {
+      "start": 762.22,
+      "end": 765.22,
+      "text": "So set the venable and under,"
+    },
+    {
+      "start": 765.22,
+      "end": 767.22,
+      "text": "and the teacher agreed with him,"
+    },
+    {
+      "start": 767.22,
+      "end": 769.22,
+      "text": "then the venable and under,"
+    },
+    {
+      "start": 769.22,
+      "end": 771.22,
+      "text": "thinking the teacher agrees with me,"
+    },
+    {
+      "start": 771.22,
+      "end": 773.22,
+      "text": "rose up from his seat,"
+    },
+    {
+      "start": 773.22,
+      "end": 775.22,
+      "text": "saluted the exalted one by the right,"
+    },
+    {
+      "start": 775.22,
+      "end": 776.22,
+      "text": "and went away."
+    },
+    {
+      "start": 776.22,
+      "end": 779.22,
+      "text": "I'm not long after the venable and under,"
+    },
+    {
+      "start": 779.22,
+      "end": 780.22,
+      "text": "I was gone."
+    },
+    {
+      "start": 780.22,
+      "end": 783.22,
+      "text": "The exalted one addressed the mountain,"
+    },
+    {
+      "start": 783.22,
+      "end": 786.22,
+      "text": "miles, and handa is a learner."
+    },
+    {
+      "start": 786.22,
+      "end": 788.22,
+      "text": "Yet it would not be easy to find"
+    },
+    {
+      "start": 788.22,
+      "end": 793.22,
+      "text": "this equal in wisdom, and that's the end of the suta."
+    },
+    {
+      "start": 793.22,
+      "end": 797.22,
+      "text": "This learner, I think, most of you know,"
+    },
+    {
+      "start": 797.22,
+      "end": 801.22,
+      "text": "is Sika, and it means that a person,"
+    },
+    {
+      "start": 801.22,
+      "end": 804.22,
+      "text": "that person is an Arya, a noble one,"
+    },
+    {
+      "start": 804.22,
+      "end": 807.22,
+      "text": "but he is not yet an Arahan."
+    },
+    {
+      "start": 807.22,
+      "end": 809.22,
+      "text": "He has not finished his work,"
+    },
+    {
+      "start": 809.22,
+      "end": 812.22,
+      "text": "that means he's one of the seven types of Aryas,"
+    },
+    {
+      "start": 812.22,
+      "end": 817.22,
+      "text": "the first part, first fruit, second part, second fruit,"
+    },
+    {
+      "start": 817.22,
+      "end": 822.22,
+      "text": "or third part, third fruit, or even the fourth part."
+    },
+    {
+      "start": 822.22,
+      "end": 826.22,
+      "text": "Later, if you look into the suta,"
+    },
+    {
+      "start": 826.22,
+      "end": 828.22,
+      "text": "then you'll find that part and fruit,"
+    },
+    {
+      "start": 828.22,
+      "end": 832.22,
+      "text": "now in the suta, I separate the separate persons,"
+    },
+    {
+      "start": 832.22,
+      "end": 837.22,
+      "text": "and I like the commentaries,"
+    },
+    {
+      "start": 837.22,
+      "end": 840.22,
+      "text": "and the Abidama in the suta,"
+    },
+    {
+      "start": 840.22,
+      "end": 842.22,
+      "text": "as we find that the path,"
+    },
+    {
+      "start": 842.22,
+      "end": 845.22,
+      "text": "person is not existing just for one moment,"
+    },
+    {
+      "start": 845.22,
+      "end": 849.22,
+      "text": "and then getting the fruition."
+    },
+    {
+      "start": 849.22,
+      "end": 853.22,
+      "text": "So in this suta, the Buddha is saying that"
+    },
+    {
+      "start": 853.22,
+      "end": 858.22,
+      "text": "every sort of spiritual life,"
+    },
+    {
+      "start": 858.22,
+      "end": 861.22,
+      "text": "bring similar fruit here,"
+    },
+    {
+      "start": 861.22,
+      "end": 863.22,
+      "text": "after that, I mean, give a,"
+    },
+    {
+      "start": 863.22,
+      "end": 867.22,
+      "text": "like that person goes to a good rebirth,"
+    },
+    {
+      "start": 867.22,
+      "end": 871.22,
+      "text": "and and I said, it is not always so."
+    },
+    {
+      "start": 871.22,
+      "end": 873.22,
+      "text": "If there is a more repractice,"
+    },
+    {
+      "start": 873.22,
+      "end": 877.22,
+      "text": "we are believing spiritual path,"
+    },
+    {
+      "start": 877.22,
+      "end": 879.22,
+      "text": "which increase unprofitable states,"
+    },
+    {
+      "start": 879.22,
+      "end": 881.22,
+      "text": "and decrease profitable states,"
+    },
+    {
+      "start": 881.22,
+      "end": 885.22,
+      "text": "then you won't get the expected fruit,"
+    },
+    {
+      "start": 885.22,
+      "end": 887.22,
+      "text": "that means I could re-birthla."
+    },
+    {
+      "start": 887.22,
+      "end": 889.22,
+      "text": "And what is this,"
+    },
+    {
+      "start": 889.22,
+      "end": 894.22,
+      "text": "this is like those external practices,"
+    },
+    {
+      "start": 894.22,
+      "end": 897.22,
+      "text": "which were prevailing during the Buddha's time."
+    },
+    {
+      "start": 897.22,
+      "end": 899.22,
+      "text": "If you look into the suta,"
+    },
+    {
+      "start": 899.22,
+      "end": 903.22,
+      "text": "we find there were many types of external practices,"
+    },
+    {
+      "start": 903.22,
+      "end": 906.22,
+      "text": "which were unbenefitial,"
+    },
+    {
+      "start": 906.22,
+      "end": 907.22,
+      "text": "some people,"
+    },
+    {
+      "start": 907.22,
+      "end": 909.22,
+      "text": "there were some aesthetics,"
+    },
+    {
+      "start": 909.22,
+      "end": 911.22,
+      "text": "who behave like dogs,"
+    },
+    {
+      "start": 911.22,
+      "end": 912.22,
+      "text": "they walk like dogs,"
+    },
+    {
+      "start": 912.22,
+      "end": 914.22,
+      "text": "they eat like dogs,"
+    },
+    {
+      "start": 914.22,
+      "end": 916.22,
+      "text": "they eat down like dogs,"
+    },
+    {
+      "start": 916.22,
+      "end": 921.22,
+      "text": "and some images that behavior of cows,"
+    },
+    {
+      "start": 921.22,
+      "end": 923.22,
+      "text": "eating grass,"
+    },
+    {
+      "start": 923.22,
+      "end": 926.22,
+      "text": "and etc."
+    },
+    {
+      "start": 926.22,
+      "end": 929.22,
+      "text": "and some are the,"
+    },
+    {
+      "start": 929.22,
+      "end": 930.22,
+      "text": "like they stand,"
+    },
+    {
+      "start": 930.22,
+      "end": 931.22,
+      "text": "they never sit down,"
+    },
+    {
+      "start": 931.22,
+      "end": 933.22,
+      "text": "stand all the time,"
+    },
+    {
+      "start": 933.22,
+      "end": 936.22,
+      "text": "and some are naked,"
+    },
+    {
+      "start": 936.22,
+      "end": 938.22,
+      "text": "they have this naked practice,"
+    },
+    {
+      "start": 938.22,
+      "end": 940.22,
+      "text": "and some,"
+    },
+    {
+      "start": 940.22,
+      "end": 942.22,
+      "text": "they hold up their hand,"
+    },
+    {
+      "start": 942.22,
+      "end": 944.22,
+      "text": "left hand on the right hand,"
+    },
+    {
+      "start": 944.22,
+      "end": 947.22,
+      "text": "they never put it down for years"
+    },
+    {
+      "start": 947.22,
+      "end": 949.22,
+      "text": "and years they just keep it up like that."
+    },
+    {
+      "start": 949.22,
+      "end": 952.22,
+      "text": "So all these practices,"
+    },
+    {
+      "start": 953.22,
+      "end": 955.22,
+      "text": "are unbenefitial practices,"
+    },
+    {
+      "start": 955.22,
+      "end": 962.22,
+      "text": "and they would not give a profitable result,"
+    },
+    {
+      "start": 962.22,
+      "end": 964.22,
+      "text": "but what is important,"
+    },
+    {
+      "start": 964.22,
+      "end": 965.22,
+      "text": "the Buddha,"
+    },
+    {
+      "start": 965.22,
+      "end": 966.22,
+      "text": "the available,"
+    },
+    {
+      "start": 966.22,
+      "end": 967.22,
+      "text": "and then I said,"
+    },
+    {
+      "start": 967.22,
+      "end": 968.22,
+      "text": "which the Buddha agreed was,"
+    },
+    {
+      "start": 968.22,
+      "end": 970.22,
+      "text": "that kind of spiritual life,"
+    },
+    {
+      "start": 970.22,
+      "end": 974.22,
+      "text": "which increases profitable states,"
+    },
+    {
+      "start": 974.22,
+      "end": 977.22,
+      "text": "and decreases unprofitable states,"
+    },
+    {
+      "start": 977.22,
+      "end": 981.22,
+      "text": "and then you would get the desired result,"
+    },
+    {
+      "start": 982.22,
+      "end": 985.22,
+      "text": "and what is this increasing profitable states,"
+    },
+    {
+      "start": 985.22,
+      "end": 988.22,
+      "text": "are those wholesome states of mine,"
+    },
+    {
+      "start": 988.22,
+      "end": 992.22,
+      "text": "where a person has less greed,"
+    },
+    {
+      "start": 992.22,
+      "end": 994.22,
+      "text": "a less hatred,"
+    },
+    {
+      "start": 994.22,
+      "end": 996.22,
+      "text": "a less delusion,"
+    },
+    {
+      "start": 996.22,
+      "end": 999.22,
+      "text": "whereas the unprofitable states,"
+    },
+    {
+      "start": 999.22,
+      "end": 1002.22,
+      "text": "are those where you have more defilements,"
+    },
+    {
+      "start": 1002.22,
+      "end": 1004.22,
+      "text": "you have more greed,"
+    },
+    {
+      "start": 1004.22,
+      "end": 1006.22,
+      "text": "hatred and delusion,"
+    },
+    {
+      "start": 1006.22,
+      "end": 1010.22,
+      "text": "and other similar qualities,"
+    },
+    {
+      "start": 1010.22,
+      "end": 1013.22,
+      "text": "like jealousy, anger, malice,"
+    },
+    {
+      "start": 1013.22,
+      "end": 1015.22,
+      "text": "or you will,"
+    },
+    {
+      "start": 1015.22,
+      "end": 1018.22,
+      "text": "etc."
+    },
+    {
+      "start": 1018.22,
+      "end": 1020.22,
+      "text": "So,"
+    },
+    {
+      "start": 1020.22,
+      "end": 1021.22,
+      "text": "the Buddha said,"
+    },
+    {
+      "start": 1021.22,
+      "end": 1022.22,
+      "text": "that even though,"
+    },
+    {
+      "start": 1022.22,
+      "end": 1023.22,
+      "text": "when the Buddha,"
+    },
+    {
+      "start": 1023.22,
+      "end": 1024.22,
+      "text": "ananda,"
+    },
+    {
+      "start": 1024.22,
+      "end": 1025.22,
+      "text": "is a learner,"
+    },
+    {
+      "start": 1025.22,
+      "end": 1026.22,
+      "text": "and we know that when the Buddha,"
+    },
+    {
+      "start": 1026.22,
+      "end": 1027.22,
+      "text": "ananda,"
+    },
+    {
+      "start": 1027.22,
+      "end": 1028.22,
+      "text": "was a Sotapanna,"
+    },
+    {
+      "start": 1028.22,
+      "end": 1030.22,
+      "text": "the first fruit,"
+    },
+    {
+      "start": 1030.22,
+      "end": 1032.22,
+      "text": "a trainer,"
+    },
+    {
+      "start": 1032.22,
+      "end": 1034.22,
+      "text": "and the Buddha said,"
+    },
+    {
+      "start": 1034.22,
+      "end": 1035.22,
+      "text": "even though he's only a first fruit,"
+    },
+    {
+      "start": 1035.22,
+      "end": 1036.22,
+      "text": "a trainer,"
+    },
+    {
+      "start": 1036.22,
+      "end": 1039.22,
+      "text": "you'd be quite difficult to find his equal,"
+    },
+    {
+      "start": 1039.22,
+      "end": 1042.22,
+      "text": "and he was so sure that everyone,"
+    },
+    {
+      "start": 1042.22,
+      "end": 1043.22,
+      "text": "and I said,"
+    },
+    {
+      "start": 1043.22,
+      "end": 1045.22,
+      "text": "very wise person,"
+    },
+    {
+      "start": 1045.22,
+      "end": 1047.22,
+      "text": "now the next Sotai's tree,"
+    },
+    {
+      "start": 1047.22,
+      "end": 1049.22,
+      "text": "point 8,99,"
+    },
+    {
+      "start": 1049.22,
+      "end": 1050.22,
+      "text": "now the venable,"
+    },
+    {
+      "start": 1050.22,
+      "end": 1052.22,
+      "text": "and ananda went to see the exalted one,"
+    },
+    {
+      "start": 1052.22,
+      "end": 1053.22,
+      "text": "etc."
+    },
+    {
+      "start": 1053.22,
+      "end": 1054.22,
+      "text": "etc."
+    },
+    {
+      "start": 1054.22,
+      "end": 1055.22,
+      "text": "As he said,"
+    },
+    {
+      "start": 1055.22,
+      "end": 1056.22,
+      "text": "to one side,"
+    },
+    {
+      "start": 1056.22,
+      "end": 1057.22,
+      "text": "he said,"
+    },
+    {
+      "start": 1057.22,
+      "end": 1059.22,
+      "text": "there are these three sorts of sense,"
+    },
+    {
+      "start": 1059.22,
+      "end": 1062.22,
+      "text": "whose fragrance spreads along with the wind,"
+    },
+    {
+      "start": 1062.22,
+      "end": 1064.22,
+      "text": "but not against the wind,"
+    },
+    {
+      "start": 1064.22,
+      "end": 1065.22,
+      "text": "what three,"
+    },
+    {
+      "start": 1065.22,
+      "end": 1068.22,
+      "text": "roots and hard roots and the scent of flowers,"
+    },
+    {
+      "start": 1068.22,
+      "end": 1071.3,
+      "text": "sent of flowers."
+    },
+    {
+      "start": 1071.3,
+      "end": 1075.26,
+      "text": "Pretty long, is there any sort of send whose fragrance spreads"
+    },
+    {
+      "start": 1075.26,
+      "end": 1078.98,
+      "text": "with the wind, again, the wind, and both waves are like,"
+    },
+    {
+      "start": 1078.98,
+      "end": 1083.38,
+      "text": "and the Buddha replied, there is such a sent and under."
+    },
+    {
+      "start": 1083.38,
+      "end": 1086.02,
+      "text": "Remember, and then the ask, what is that sent, Lord?"
+    },
+    {
+      "start": 1086.02,
+      "end": 1088.66,
+      "text": "The Buddha said, in this connection and under,"
+    },
+    {
+      "start": 1088.66,
+      "end": 1092.78,
+      "text": "in whatsoever village or district, there is a woman or a man"
+    },
+    {
+      "start": 1092.78,
+      "end": 1096.38,
+      "text": "who has taken refuge in the Buddha, Dhamma and the Sangha,"
+    },
+    {
+      "start": 1096.38,
+      "end": 1100.14,
+      "text": "who abstains from killing, stealing, adultery,"
+    },
+    {
+      "start": 1100.14,
+      "end": 1103.14,
+      "text": "from lying, from addiction to intoxicants"
+    },
+    {
+      "start": 1103.14,
+      "end": 1107.38,
+      "text": "that cause lot, who is virtuous of a kind nature,"
+    },
+    {
+      "start": 1107.38,
+      "end": 1111.38,
+      "text": "who dwells at home with heart free from the taste of stinginess,"
+    },
+    {
+      "start": 1111.38,
+      "end": 1114.82,
+      "text": "who is open-handed, pure-handed, delighting,"
+    },
+    {
+      "start": 1114.82,
+      "end": 1118.7,
+      "text": "in giving up, one to ask a favor of one who delights"
+    },
+    {
+      "start": 1118.7,
+      "end": 1121.7,
+      "text": "and sharing gifts with others, of such a one,"
+    },
+    {
+      "start": 1121.7,
+      "end": 1126.02,
+      "text": "recluses and hermits, sing the praises in all quarters thus,"
+    },
+    {
+      "start": 1126.02,
+      "end": 1128.42,
+      "text": "in such and such a village or district,"
+    },
+    {
+      "start": 1128.42,
+      "end": 1131.46,
+      "text": "there is a woman or a man who has taken refuge"
+    },
+    {
+      "start": 1131.46,
+      "end": 1133.22,
+      "text": "in the Buddha, Dhamma and the Sangha,"
+    },
+    {
+      "start": 1133.22,
+      "end": 1137.18,
+      "text": "who abstains from killing, stealing, adultery, lying,"
+    },
+    {
+      "start": 1137.18,
+      "end": 1141.06,
+      "text": "addiction to intoxicants, who is virtuous of a kind nature,"
+    },
+    {
+      "start": 1141.06,
+      "end": 1144.5,
+      "text": "who dwells at home with heart free from the taste of stinginess,"
+    },
+    {
+      "start": 1144.5,
+      "end": 1148.02,
+      "text": "who is open-handed, pure-handed, delighting and giving up,"
+    },
+    {
+      "start": 1148.02,
+      "end": 1150.94,
+      "text": "one to ask a favor of one who delights"
+    },
+    {
+      "start": 1150.94,
+      "end": 1152.9,
+      "text": "and sharing gifts with others."
+    },
+    {
+      "start": 1152.94,
+      "end": 1157.78,
+      "text": "Moreover, the divas, the celestial beings and non-humans,"
+    },
+    {
+      "start": 1157.78,
+      "end": 1161.22,
+      "text": "sing his praises in the same manner."
+    },
+    {
+      "start": 1161.22,
+      "end": 1163.82,
+      "text": "This and under is the sort of scent,"
+    },
+    {
+      "start": 1163.82,
+      "end": 1167.02,
+      "text": "whose fragrance goes with the wind, against the wind,"
+    },
+    {
+      "start": 1167.02,
+      "end": 1169.06,
+      "text": "and both with is a light."
+    },
+    {
+      "start": 1169.06,
+      "end": 1173.82,
+      "text": "In this Buddha, there is the scent of the virtue."
+    },
+    {
+      "start": 1173.82,
+      "end": 1175.86,
+      "text": "If you have the scent of virtue,"
+    },
+    {
+      "start": 1175.86,
+      "end": 1181.86,
+      "text": "it spreads far and wide, not only these renunciants,"
+    },
+    {
+      "start": 1181.86,
+      "end": 1184.9,
+      "text": "but all the spirits around, they know it,"
+    },
+    {
+      "start": 1184.9,
+      "end": 1188.02,
+      "text": "like the trees spirits, the earth spirits,"
+    },
+    {
+      "start": 1188.02,
+      "end": 1191.86,
+      "text": "the river spirits, and high spirits all around,"
+    },
+    {
+      "start": 1191.86,
+      "end": 1194.82,
+      "text": "they know and they spread the word around."
+    },
+    {
+      "start": 1194.82,
+      "end": 1197.7,
+      "text": "So, since all these beings know,"
+    },
+    {
+      "start": 1197.7,
+      "end": 1201.14,
+      "text": "you can be quite sure if a person is virtuous,"
+    },
+    {
+      "start": 1201.14,
+      "end": 1204.58,
+      "text": "he will have a lot of protection."
+    },
+    {
+      "start": 1204.58,
+      "end": 1208.42,
+      "text": "Next, two times, three point eight point eight, eight, eight, eight."
+    },
+    {
+      "start": 1208.42,
+      "end": 1211.46,
+      "text": "Now, the venable and under, I went to see the exalted one,"
+    },
+    {
+      "start": 1211.46,
+      "end": 1214.58,
+      "text": "paid respect, and said, try and said to one side."
+    },
+    {
+      "start": 1214.58,
+      "end": 1217.7,
+      "text": "And he said to one side, he said, this to the Lord."
+    },
+    {
+      "start": 1217.7,
+      "end": 1220.34,
+      "text": "To the Bhagavad-gawaii exalted one."
+    },
+    {
+      "start": 1220.34,
+      "end": 1222.9,
+      "text": "In the presence of the exalted one Lord,"
+    },
+    {
+      "start": 1222.9,
+      "end": 1226.18,
+      "text": "in his very presence, I have received this saying,"
+    },
+    {
+      "start": 1226.18,
+      "end": 1229.78,
+      "text": "and under, a vibu, the disciple of the Buddha,"
+    },
+    {
+      "start": 1229.78,
+      "end": 1232.66,
+      "text": "seeking, standing in the Brahma world,"
+    },
+    {
+      "start": 1232.66,
+      "end": 1236.5,
+      "text": "could make its thousand realms here, this voice."
+    },
+    {
+      "start": 1236.5,
+      "end": 1239.14,
+      "text": "Pray Lord, how far and the other hand,"
+    },
+    {
+      "start": 1239.14,
+      "end": 1242.34,
+      "text": "the fully enlightened one, make his voice heard,"
+    },
+    {
+      "start": 1242.34,
+      "end": 1244.9,
+      "text": "and the Buddha said, he was just a disciple,"
+    },
+    {
+      "start": 1244.9,
+      "end": 1248.74,
+      "text": "and under, imaginable, added to Thakagatas."
+    },
+    {
+      "start": 1248.74,
+      "end": 1251.3,
+      "text": "That means the Buddha said, ten a second time,"
+    },
+    {
+      "start": 1251.3,
+      "end": 1254.82,
+      "text": "and yet a third time, the venable, and under, put the question,"
+    },
+    {
+      "start": 1254.82,
+      "end": 1258.18,
+      "text": "then the exalted one answered, have you ever heard,"
+    },
+    {
+      "start": 1258.18,
+      "end": 1263.38,
+      "text": "and under, of the system of the small thousandfold worlds,"
+    },
+    {
+      "start": 1263.38,
+      "end": 1266.98,
+      "text": "and then under said, now is the time for this or exalted one,"
+    },
+    {
+      "start": 1266.98,
+      "end": 1270.74,
+      "text": "now is the time for this or welfare to gata,"
+    },
+    {
+      "start": 1270.74,
+      "end": 1272.82,
+      "text": "for the exalted one to speak."
+    },
+    {
+      "start": 1272.82,
+      "end": 1276.5,
+      "text": "Hearing the exalted one, the monks were buried in mine,"
+    },
+    {
+      "start": 1276.5,
+      "end": 1279.54,
+      "text": "and the Buddha said, then, and under, do you listen,"
+    },
+    {
+      "start": 1279.54,
+      "end": 1281.94,
+      "text": "attend closely, and I will speak?"
+    },
+    {
+      "start": 1281.94,
+      "end": 1285.38,
+      "text": "I will not reply the venable, and under, to the exalted one,"
+    },
+    {
+      "start": 1285.38,
+      "end": 1288.74,
+      "text": "and the Buddha said, as far as the moon and sun,"
+    },
+    {
+      "start": 1288.74,
+      "end": 1292.74,
+      "text": "move in their course, and light-tum all quarters with their radians,"
+    },
+    {
+      "start": 1292.74,
+      "end": 1296.42,
+      "text": "so far, extends the thousandfold world system."
+    },
+    {
+      "start": 1296.42,
+      "end": 1299.94,
+      "text": "There in a thousand moons, a thousand suns,"
+    },
+    {
+      "start": 1299.94,
+      "end": 1303.06,
+      "text": "a thousand sumirus, lots of mountains,"
+    },
+    {
+      "start": 1303.06,
+      "end": 1306.9,
+      "text": "a thousand dambudipas, a thousand aparaguyanas,"
+    },
+    {
+      "start": 1306.9,
+      "end": 1311.14,
+      "text": "a thousand utarakurus, a thousand puba vadejas,"
+    },
+    {
+      "start": 1311.14,
+      "end": 1315.06,
+      "text": "four thousand mighty oceans, four thousand mighty rulers,"
+    },
+    {
+      "start": 1315.06,
+      "end": 1319.22,
+      "text": "a thousand four great rulers, a thousand heavens of the 33,"
+    },
+    {
+      "start": 1319.22,
+      "end": 1323.78,
+      "text": "a thousand yama heavens, a thousand heavens of the two sita devas,"
+    },
+    {
+      "start": 1323.78,
+      "end": 1327.14,
+      "text": "a thousand heavens of the devas that delight in creation,"
+    },
+    {
+      "start": 1327.14,
+      "end": 1331.62,
+      "text": "a thousand heavens of those devas that delight in other creations,"
+    },
+    {
+      "start": 1331.62,
+      "end": 1333.7,
+      "text": "a thousand brahma heavens."
+    },
+    {
+      "start": 1333.7,
+      "end": 1340.9,
+      "text": "This and under is called the system of the small thousandfold world."
+    },
+    {
+      "start": 1340.9,
+      "end": 1347.62,
+      "text": "A thousandfold the size of this is called the medium thousand thousandfold world system."
+    },
+    {
+      "start": 1348.58,
+      "end": 1354.98,
+      "text": "A thousandfold the size of this is called the great thousand thousand"
+    },
+    {
+      "start": 1354.98,
+      "end": 1359.3,
+      "text": "thousandfold world system. Now, a nanda, if he reached it,"
+    },
+    {
+      "start": 1359.3,
+      "end": 1364.74,
+      "text": "the tahtagata could make his voice hurt throughout this last named world system,"
+    },
+    {
+      "start": 1364.74,
+      "end": 1368.66,
+      "text": "or even further, if he chose. And a nanda said,"
+    },
+    {
+      "start": 1368.66,
+      "end": 1372.42,
+      "text": "pray, Lord, how could that be done? And the Buddha said,"
+    },
+    {
+      "start": 1372.42,
+      "end": 1377.38,
+      "text": "in this connection, a nanda, the tahtagata suffuses with radians,"
+    },
+    {
+      "start": 1377.38,
+      "end": 1381.22,
+      "text": "the great thousand thousand thousandfold world system."
+    },
+    {
+      "start": 1381.22,
+      "end": 1383.7,
+      "text": "And it's inhabitants perceive this,"
+    },
+    {
+      "start": 1383.7,
+      "end": 1388.02,
+      "text": "then the tahtagata would give up utterance and make the sound heard."
+    },
+    {
+      "start": 1388.02,
+      "end": 1390.74,
+      "text": "That is how he would do it. At these words,"
+    },
+    {
+      "start": 1390.74,
+      "end": 1393.94,
+      "text": "the venable and nanda exclaim to the venable who died in."
+    },
+    {
+      "start": 1393.94,
+      "end": 1397.86,
+      "text": "It is indeed again for me. Well, gotten indeed by me,"
+    },
+    {
+      "start": 1397.86,
+      "end": 1402.26,
+      "text": "it is that my teacher is of such mighty power and majesty."
+    },
+    {
+      "start": 1402.26,
+      "end": 1406.18,
+      "text": "Where upon the venable who died and said to the venable and nanda,"
+    },
+    {
+      "start": 1406.18,
+      "end": 1408.9,
+      "text": "what is it to you, Reverend? I will show,"
+    },
+    {
+      "start": 1408.9,
+      "end": 1414.1,
+      "text": "and nanda, that your teacher should be of such mighty power and majesty."
+    },
+    {
+      "start": 1414.1,
+      "end": 1418.1,
+      "text": "At these words, the exalted one said to the venable who died,"
+    },
+    {
+      "start": 1418.1,
+      "end": 1420.9,
+      "text": "say not so wouldine, say not so wouldine."
+    },
+    {
+      "start": 1420.9,
+      "end": 1425.94,
+      "text": "Even nanda were to make an end without attaining perfect freedom from passion."
+    },
+    {
+      "start": 1425.94,
+      "end": 1431.7,
+      "text": "Yet by virtue of his heart of fear, he would seven times win rule among the devas."
+    },
+    {
+      "start": 1431.7,
+      "end": 1436.98,
+      "text": "Seven times would he win rule in this rose apple and yabudhipa."
+    },
+    {
+      "start": 1436.98,
+      "end": 1439.7,
+      "text": "However, who died in this very life,"
+    },
+    {
+      "start": 1439.7,
+      "end": 1442.58,
+      "text": "and nanda shall attain to final passing away."
+    },
+    {
+      "start": 1444.02,
+      "end": 1449.06,
+      "text": "And it's quite an interesting suttah, where the Buddha"
+    },
+    {
+      "start": 1450.42,
+      "end": 1454.66,
+      "text": "coated the previous Buddha sikhin,"
+    },
+    {
+      "start": 1456.9,
+      "end": 1461.14,
+      "text": "Buddha sikhin in some suttah, the Buddha mentioned that he"
+    },
+    {
+      "start": 1461.14,
+      "end": 1466.82,
+      "text": "contemplated in 91 world cycles, the past 91 world cycles,"
+    },
+    {
+      "start": 1466.82,
+      "end": 1468.66,
+      "text": "and he saw six Buddhas."
+    },
+    {
+      "start": 1470.1,
+      "end": 1477.54,
+      "text": "91 world cycles, he owns such a long time, he only found six Buddhas."
+    },
+    {
+      "start": 1477.54,
+      "end": 1480.5,
+      "text": "And one of those was the Buddha sikhin."
+    },
+    {
+      "start": 1480.5,
+      "end": 1487.78,
+      "text": "He had a disciple Abibu, there's another suttah about this incident,"
+    },
+    {
+      "start": 1487.86,
+      "end": 1494.18,
+      "text": "where the disciple Abibu spoke a few verses,"
+    },
+    {
+      "start": 1494.18,
+      "end": 1496.98,
+      "text": "and a thousand world systems could hear his voice."
+    },
+    {
+      "start": 1497.78,
+      "end": 1501.7,
+      "text": "And yet the Buddha says that he was just a disciple compared to the Buddhas,"
+    },
+    {
+      "start": 1502.5,
+      "end": 1508.1,
+      "text": "and the Buddhas can make the voice heard over a long distance."
+    },
+    {
+      "start": 1508.74,
+      "end": 1513.62,
+      "text": "But I think seeing one of the suttas, where the Buddhas said that not all Buddhas are the same."
+    },
+    {
+      "start": 1514.58,
+      "end": 1517.78,
+      "text": "So in this case, our Buddha is discussing himself."
+    },
+    {
+      "start": 1519.62,
+      "end": 1522.66,
+      "text": "And first he talked about the thousand four world system,"
+    },
+    {
+      "start": 1523.78,
+      "end": 1528.5,
+      "text": "and it is mentioned somewhere else, and a world system consists of a sun."
+    },
+    {
+      "start": 1529.22,
+      "end": 1532.26,
+      "text": "Every world system consists of a sun, what we call a star."
+    },
+    {
+      "start": 1532.9,
+      "end": 1538.82,
+      "text": "And around that sun, I suppose to be full continents,"
+    },
+    {
+      "start": 1539.62,
+      "end": 1542.82,
+      "text": "for continents those names, I mentioned, just now one,"
+    },
+    {
+      "start": 1542.82,
+      "end": 1544.82,
+      "text": "Jambuddipa is on the south."
+    },
+    {
+      "start": 1544.82,
+      "end": 1548.82,
+      "text": "And Apara Koyana, then Uttarakuru, and Puba Avidea."
+    },
+    {
+      "start": 1549.38,
+      "end": 1553.38,
+      "text": "And then you have Mount Sumeru, it's supposed to be a mountain."
+    },
+    {
+      "start": 1554.02,
+      "end": 1558.82,
+      "text": "Maybe this is this mountain, so far we have don't see it around here."
+    },
+    {
+      "start": 1558.82,
+      "end": 1562.1,
+      "text": "It might be one of those fine material."
+    },
+    {
+      "start": 1562.1,
+      "end": 1567.38,
+      "text": "A world, it's just like a street world, there are a lot of spirits around,"
+    },
+    {
+      "start": 1567.38,
+      "end": 1573.46,
+      "text": "but a very few people can see them, and then the other happens to mention,"
+    },
+    {
+      "start": 1574.34,
+      "end": 1580.34,
+      "text": "now this thousand four world system could be something like a galaxy"
+    },
+    {
+      "start": 1580.98,
+      "end": 1583.7,
+      "text": "and the Buddhas mentioned somewhere about there."
+    },
+    {
+      "start": 1583.7,
+      "end": 1590.02,
+      "text": "There's a term the Buddhas use, Chakravala, Chakravala, Chakra is a dish."
+    },
+    {
+      "start": 1590.5,
+      "end": 1594.82,
+      "text": "I said this, and we know what this is flat, and now this and the"
+    },
+    {
+      "start": 1594.82,
+      "end": 1597.86,
+      "text": "the realized that a galaxy is flat like a dish."
+    },
+    {
+      "start": 1599.14,
+      "end": 1601.86,
+      "text": "And so the Buddhas said that he could make his voice heard,"
+    },
+    {
+      "start": 1601.86,
+      "end": 1605.06,
+      "text": "said, how was such a great distance?"
+    },
+    {
+      "start": 1605.06,
+      "end": 1607.14,
+      "text": "So this is one instance."
+    },
+    {
+      "start": 1607.14,
+      "end": 1613.22,
+      "text": "You see, even Arahan, disciple of a Buddha can have such a mighty psychic power,"
+    },
+    {
+      "start": 1613.22,
+      "end": 1617.54,
+      "text": "and just speaking normally, he could make his voice heard over a thousand world systems."
+    },
+    {
+      "start": 1618.18,
+      "end": 1623.3,
+      "text": "The other thing about this Buddhas said that ananda's great faith in the Buddhas"
+    },
+    {
+      "start": 1623.3,
+      "end": 1625.86,
+      "text": "can make him seven times the king of the divas."
+    },
+    {
+      "start": 1625.86,
+      "end": 1631.62,
+      "text": "I think that Sakha Devaraja, king of the 33 heaven, Stawachimsa heaven,"
+    },
+    {
+      "start": 1631.62,
+      "end": 1637.14,
+      "text": "said that he's only there some later books, only see him."
+    },
+    {
+      "start": 1637.14,
+      "end": 1642.58,
+      "text": "When you have faith in the Buddhas that you can get out, some are actually not just having faith,"
+    },
+    {
+      "start": 1642.58,
+      "end": 1646.42,
+      "text": "like this, can make you reborn into a heavenly world."
+    },
+    {
+      "start": 1646.58,
+      "end": 1651.78,
+      "text": "But if you have uncheckable faith in the Buddhas, that might sound a plus, but you,"
+    },
+    {
+      "start": 1651.78,
+      "end": 1656.74,
+      "text": "then the Buddhas said you have attained the way the first part."
+    },
+    {
+      "start": 1657.38,
+      "end": 1661.46,
+      "text": "And also the other thing about this Buddhas, you find that the Buddhas made a prediction here,"
+    },
+    {
+      "start": 1662.02,
+      "end": 1665.62,
+      "text": "that ananda will attain to Arahanhood in this very life."
+    },
+    {
+      "start": 1667.93,
+      "end": 1670.73,
+      "text": "The next Buddhas, three point nine point 81."
+    },
+    {
+      "start": 1671.53,
+      "end": 1676.25,
+      "text": "The Buddhas said, monks, there are these three pursuits of a reclusive"
+    },
+    {
+      "start": 1676.25,
+      "end": 1680.65,
+      "text": "to be put in practice for a reclusive Samana, what three?"
+    },
+    {
+      "start": 1681.85,
+      "end": 1686.49,
+      "text": "The undertaking of the training in the higher morality, the higher mind,"
+    },
+    {
+      "start": 1686.49,
+      "end": 1692.17,
+      "text": "and the higher wisdom. These are the three, the higher moralities, the Adisila,"
+    },
+    {
+      "start": 1692.17,
+      "end": 1697.13,
+      "text": "higher mind, the Adisitta, and the higher wisdom is Adipanya. These are the three."
+    },
+    {
+      "start": 1698.25,
+      "end": 1702.09,
+      "text": "And the Buddhas continue, where four monks, that's must you train yourselves."
+    },
+    {
+      "start": 1702.09,
+      "end": 1706.25,
+      "text": "Keyens shall be our desire to undertake the training in the higher morality."
+    },
+    {
+      "start": 1707.29,
+      "end": 1710.57,
+      "text": "Keyens shall be our desire to undertake the training in the higher mind,"
+    },
+    {
+      "start": 1711.29,
+      "end": 1714.41,
+      "text": "and in the higher wisdom, that is how you must train yourselves."
+    },
+    {
+      "start": 1715.21,
+      "end": 1720.57,
+      "text": "Suppose monks, and as follows, close behind the herd of cows, thinking,"
+    },
+    {
+      "start": 1720.57,
+      "end": 1726.25,
+      "text": "I'm a cow too, I'm a cow too. But he is not like cows in color, boys of who."
+    },
+    {
+      "start": 1726.81,
+      "end": 1729.93,
+      "text": "He just follows close behind the herd of cows, thinking,"
+    },
+    {
+      "start": 1729.93,
+      "end": 1736.09,
+      "text": "I'm a cow too, I'm a cow too. Just in the same way, monks, we have some monk who follows close"
+    },
+    {
+      "start": 1736.09,
+      "end": 1742.33,
+      "text": "behind the order of monks, thinking, I'm a monk too, I'm a monk too. But he has not the desire"
+    },
+    {
+      "start": 1742.33,
+      "end": 1746.73,
+      "text": "to undertake the training in the higher morality, which the other monks possess,"
+    },
+    {
+      "start": 1746.73,
+      "end": 1751.53,
+      "text": "know that in the higher mind, know that in the higher wisdom, which other monks possess."
+    },
+    {
+      "start": 1752.09,
+      "end": 1756.33,
+      "text": "He just follows close behind, thinking, I'm a monk too, I'm a monk too."
+    },
+    {
+      "start": 1756.89,
+      "end": 1761.77,
+      "text": "Therefore, monks, thus, must you train yourselves. Keyens shall be our desire to undertake"
+    },
+    {
+      "start": 1761.77,
+      "end": 1767.69,
+      "text": "the training in the higher morality, the higher mind, and the higher wisdom. That is how you"
+    },
+    {
+      "start": 1767.69,
+      "end": 1773.37,
+      "text": "must train yourselves. How this is another interesting sutra here. The three things,"
+    },
+    {
+      "start": 1773.37,
+      "end": 1782.81,
+      "text": "the adi-sila, adi-chitta, and adi-panya is explained in another sutra which I shall come to soon."
+    },
+    {
+      "start": 1783.69,
+      "end": 1788.81,
+      "text": "You see, in this sutra, the Buddha said, if a monk does not train in these"
+    },
+    {
+      "start": 1788.81,
+      "end": 1796.09,
+      "text": "treaties, the higher morality, that means he keeps the precepts, and he does not train in the higher"
+    },
+    {
+      "start": 1796.09,
+      "end": 1801.85,
+      "text": "mind, which later on you find his concentration, and he does not train in a training wisdom,"
+    },
+    {
+      "start": 1801.85,
+      "end": 1806.25,
+      "text": "then he is not a monk, even though he wears the rope, even though he looks like a monk."
+    },
+    {
+      "start": 1806.81,
+      "end": 1817.53,
+      "text": "So, you see, sometimes the Buddha can be very serious, and you can see sutras like this,"
+    },
+    {
+      "start": 1817.53,
+      "end": 1823.29,
+      "text": "some monks don't like that. That is why, later, you find that some monks would be little"
+    },
+    {
+      "start": 1823.29,
+      "end": 1829.93,
+      "text": "these original sutras of the Buddha, and call them small vehicles, sutras, or inferior people,"
+    },
+    {
+      "start": 1829.93,
+      "end": 1833.53,
+      "text": "and all kinds of things they say about the Buddha's original discourses."
+    },
+    {
+      "start": 1834.25,
+      "end": 1840.25,
+      "text": "And so much so that even nowadays, very few monks would actually take up the sutras and explain them"
+    },
+    {
+      "start": 1840.25,
+      "end": 1846.81,
+      "text": "because sutras like this, because they set up such a high standard for monks, especially"
+    },
+    {
+      "start": 1846.81,
+      "end": 1851.37,
+      "text": "that not all monks like to speak of the sutras."
+    }
+  ]
+}

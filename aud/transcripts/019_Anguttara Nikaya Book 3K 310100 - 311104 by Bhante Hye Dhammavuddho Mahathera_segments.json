@@ -1,0 +1,3055 @@
+{
+  "source": "faster-whisper",
+  "model": "tiny",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "en",
+  "duration": 1652.796375,
+  "segments": [
+    {
+      "start": 1.14,
+      "end": 7.14,
+      "text": "And now we come to the Sutan number 3.10.100."
+    },
+    {
+      "start": 7.14,
+      "end": 14.14,
+      "text": "It's quite an important Sutan, especially for meditators."
+    },
+    {
+      "start": 14.14,
+      "end": 16.14,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 16.14,
+      "end": 23.14,
+      "text": "there are gross impurities in gold, such as dust and sand,"
+    },
+    {
+      "start": 23.14,
+      "end": 25.14,
+      "text": "gravel and grit."
+    },
+    {
+      "start": 25.14,
+      "end": 30.14,
+      "text": "The dirt washer or his apprentice keeps it into a truck"
+    },
+    {
+      "start": 30.14,
+      "end": 36.14,
+      "text": "and washes it up and runs the dirt out."
+    },
+    {
+      "start": 36.14,
+      "end": 40.14,
+      "text": "When this process is abandoned and ended,"
+    },
+    {
+      "start": 40.14,
+      "end": 44.14,
+      "text": "there still remain moderate impurities in the gold,"
+    },
+    {
+      "start": 44.14,
+      "end": 47.14,
+      "text": "such as fine grit and coarse sand,"
+    },
+    {
+      "start": 47.14,
+      "end": 52.14,
+      "text": "the dirt washer or his man repeats the process."
+    },
+    {
+      "start": 52.14,
+      "end": 54.14,
+      "text": "When this is abandoned and ended,"
+    },
+    {
+      "start": 54.14,
+      "end": 58.14,
+      "text": "there still remain trifling impurities,"
+    },
+    {
+      "start": 58.14,
+      "end": 61.14,
+      "text": "such as fine sand and black dust."
+    },
+    {
+      "start": 61.14,
+      "end": 65.14,
+      "text": "The dirt washer or his man repeats the process."
+    },
+    {
+      "start": 65.14,
+      "end": 69.14,
+      "text": "Thereafter the gold dust alone remains."
+    },
+    {
+      "start": 69.14,
+      "end": 73.14,
+      "text": "Then the goldsmith or his man keeps that sterling gold"
+    },
+    {
+      "start": 73.14,
+      "end": 75.14,
+      "text": "into a crucible and blows it,"
+    },
+    {
+      "start": 75.14,
+      "end": 78.14,
+      "text": "jelly melts, melts it together,"
+    },
+    {
+      "start": 78.14,
+      "end": 81.14,
+      "text": "but does not run out of the crucible."
+    },
+    {
+      "start": 82.14,
+      "end": 85.14,
+      "text": "That sterling gold is then blown till it melts."
+    },
+    {
+      "start": 85.14,
+      "end": 87.14,
+      "text": "It is molten but not flawless."
+    },
+    {
+      "start": 87.14,
+      "end": 89.14,
+      "text": "It's not done with yet."
+    },
+    {
+      "start": 89.14,
+      "end": 93.14,
+      "text": "It's impurities and not yet streamed up."
+    },
+    {
+      "start": 93.14,
+      "end": 96.14,
+      "text": "It is not pliable, nor workable, nor listening."
+    },
+    {
+      "start": 96.14,
+      "end": 101.14,
+      "text": "It is brittle, not capable of perfect workmanship."
+    },
+    {
+      "start": 101.14,
+      "end": 103.14,
+      "text": "But a time comes, months,"
+    },
+    {
+      "start": 103.14,
+      "end": 109.14,
+      "text": "and then goes with or his man blows that gold till it melts."
+    },
+    {
+      "start": 110.14,
+      "end": 113.14,
+      "text": "Melt it down and runs it out of the crucible."
+    },
+    {
+      "start": 113.14,
+      "end": 115.14,
+      "text": "Then that sterling gold is melted,"
+    },
+    {
+      "start": 115.14,
+      "end": 117.14,
+      "text": "molten, flawless,"
+    },
+    {
+      "start": 117.14,
+      "end": 119.14,
+      "text": "done with its impurities,"
+    },
+    {
+      "start": 119.14,
+      "end": 121.14,
+      "text": "streamed up."
+    },
+    {
+      "start": 121.14,
+      "end": 123.14,
+      "text": "It is pliable, workable,"
+    },
+    {
+      "start": 123.14,
+      "end": 125.14,
+      "text": "listening, no more brittle."
+    },
+    {
+      "start": 125.14,
+      "end": 128.14,
+      "text": "It is capable of perfect workmanship."
+    },
+    {
+      "start": 128.14,
+      "end": 131.14,
+      "text": "For what so ever sort of ornament,"
+    },
+    {
+      "start": 131.14,
+      "end": 133.14,
+      "text": "one wishes be a gold plate,"
+    },
+    {
+      "start": 133.14,
+      "end": 136.14,
+      "text": "or a ring or necklace or golden chain."
+    },
+    {
+      "start": 136.14,
+      "end": 140.14,
+      "text": "He can make use of it for that purpose."
+    },
+    {
+      "start": 140.14,
+      "end": 142.14,
+      "text": "Just in the same way,"
+    },
+    {
+      "start": 142.14,
+      "end": 146.14,
+      "text": "in a month who is given to developing the higher mind,"
+    },
+    {
+      "start": 146.14,
+      "end": 147.14,
+      "text": "Adicita,"
+    },
+    {
+      "start": 147.14,
+      "end": 153.14,
+      "text": "there are gross impurities of unbossed bodily conduct,"
+    },
+    {
+      "start": 153.14,
+      "end": 155.14,
+      "text": "Kaaya, Duccherita,"
+    },
+    {
+      "start": 155.14,
+      "end": 158.14,
+      "text": "unbossed verbal conduct,"
+    },
+    {
+      "start": 158.14,
+      "end": 160.14,
+      "text": "Vacin, Duccherita,"
+    },
+    {
+      "start": 160.14,
+      "end": 162.14,
+      "text": "unbossed mental conduct,"
+    },
+    {
+      "start": 162.14,
+      "end": 164.14,
+      "text": "Mano, Duccherita,"
+    },
+    {
+      "start": 165.14,
+      "end": 170.14,
+      "text": "this thought full able man abundance keeps in check."
+    },
+    {
+      "start": 170.14,
+      "end": 172.14,
+      "text": "He makes an end of it,"
+    },
+    {
+      "start": 172.14,
+      "end": 174.14,
+      "text": "he makes it not because"
+    },
+    {
+      "start": 174.14,
+      "end": 178.14,
+      "text": "but this thought is done with and made an end of"
+    },
+    {
+      "start": 178.14,
+      "end": 182.14,
+      "text": "there are still in that man who is given to developing the higher mind,"
+    },
+    {
+      "start": 182.14,
+      "end": 185.14,
+      "text": "certain moderately gross impurities,"
+    },
+    {
+      "start": 185.14,
+      "end": 187.14,
+      "text": "which cling to him,"
+    },
+    {
+      "start": 187.14,
+      "end": 190.14,
+      "text": "such as central reflections,"
+    },
+    {
+      "start": 191.14,
+      "end": 194.14,
+      "text": "these thoughts he abandoned."
+    },
+    {
+      "start": 194.14,
+      "end": 197.14,
+      "text": "But this thought is done with and made an end of"
+    },
+    {
+      "start": 197.14,
+      "end": 199.14,
+      "text": "there are still in that man,"
+    },
+    {
+      "start": 199.14,
+      "end": 201.14,
+      "text": "certain menu impurities,"
+    },
+    {
+      "start": 201.14,
+      "end": 202.14,
+      "text": "which cling to him,"
+    },
+    {
+      "start": 202.14,
+      "end": 205.14,
+      "text": "such as reflections about his relatives,"
+    },
+    {
+      "start": 205.14,
+      "end": 208.14,
+      "text": "his district reflections about his reputation."
+    },
+    {
+      "start": 208.14,
+      "end": 213.14,
+      "text": "Such a thought full able man abundance keeps in check."
+    },
+    {
+      "start": 213.14,
+      "end": 216.14,
+      "text": "He makes an end of it,"
+    },
+    {
+      "start": 216.14,
+      "end": 219.14,
+      "text": "makes an end of it,"
+    },
+    {
+      "start": 219.14,
+      "end": 221.14,
+      "text": "makes it not because"
+    },
+    {
+      "start": 221.14,
+      "end": 224.14,
+      "text": "but that is done with and made an end of"
+    },
+    {
+      "start": 224.14,
+      "end": 228.14,
+      "text": "there still remain reflections about thoughts."
+    },
+    {
+      "start": 228.14,
+      "end": 233.14,
+      "text": "Now this thought of concentration is neither calm nor lofty,"
+    },
+    {
+      "start": 233.14,
+      "end": 238.14,
+      "text": "nor has it gotten tranquility nor reached one-pointiness,"
+    },
+    {
+      "start": 238.14,
+      "end": 243.14,
+      "text": "but it is a still dependent on painful habitual restraint."
+    },
+    {
+      "start": 243.14,
+      "end": 245.14,
+      "text": "Yet there comes a time"
+    },
+    {
+      "start": 245.14,
+      "end": 247.14,
+      "text": "when that mind of him,"
+    },
+    {
+      "start": 247.14,
+      "end": 251.14,
+      "text": "when that mind of his becomes inwardly well-established,"
+    },
+    {
+      "start": 251.14,
+      "end": 254.14,
+      "text": "settles down his one-pointed,"
+    },
+    {
+      "start": 254.14,
+      "end": 256.14,
+      "text": "becomes concentrated,"
+    },
+    {
+      "start": 256.14,
+      "end": 259.14,
+      "text": "such concentration,"
+    },
+    {
+      "start": 259.14,
+      "end": 261.14,
+      "text": "his calm, lofty,"
+    },
+    {
+      "start": 261.14,
+      "end": 263.14,
+      "text": "has gotten tranquility,"
+    },
+    {
+      "start": 263.14,
+      "end": 265.14,
+      "text": "has reached one-pointiness."
+    },
+    {
+      "start": 265.14,
+      "end": 269.14,
+      "text": "It is not a still dependent on painful habitual restraint."
+    },
+    {
+      "start": 269.14,
+      "end": 272.14,
+      "text": "And to whatsoever branch or special knowledge,"
+    },
+    {
+      "start": 272.14,
+      "end": 276.14,
+      "text": "he may direct his mind for the realization of"
+    },
+    {
+      "start": 276.14,
+      "end": 280.14,
+      "text": "he attains the power to realize personally such,"
+    },
+    {
+      "start": 280.14,
+      "end": 282.14,
+      "text": "whatever his wish may be."
+    },
+    {
+      "start": 282.14,
+      "end": 285.14,
+      "text": "I'll just stop here for a while to make some comments."
+    },
+    {
+      "start": 285.14,
+      "end": 290.14,
+      "text": "Now the Buddha was saying that there are these steps,"
+    },
+    {
+      "start": 290.14,
+      "end": 294.14,
+      "text": "in the development of the higher mind"
+    },
+    {
+      "start": 294.14,
+      "end": 296.14,
+      "text": "to develop our mind."
+    },
+    {
+      "start": 296.14,
+      "end": 299.14,
+      "text": "There are these various steps here,"
+    },
+    {
+      "start": 299.14,
+      "end": 301.14,
+      "text": "which is the five steps."
+    },
+    {
+      "start": 301.14,
+      "end": 305.14,
+      "text": "The first one is the gross impurities"
+    },
+    {
+      "start": 305.14,
+      "end": 308.14,
+      "text": "of unwholesome bodily conduct,"
+    },
+    {
+      "start": 308.14,
+      "end": 310.14,
+      "text": "unwholesome verbal conduct,"
+    },
+    {
+      "start": 310.14,
+      "end": 312.14,
+      "text": "and unwholesome mental conduct."
+    },
+    {
+      "start": 312.14,
+      "end": 314.14,
+      "text": "This is basically the three karmas,"
+    },
+    {
+      "start": 314.14,
+      "end": 316.14,
+      "text": "the three karmas,"
+    },
+    {
+      "start": 316.14,
+      "end": 319.14,
+      "text": "and this is the grossest level"
+    },
+    {
+      "start": 319.14,
+      "end": 321.14,
+      "text": "that we have to keep a check on."
+    },
+    {
+      "start": 321.14,
+      "end": 324.14,
+      "text": "So we are always to observe our bodily conduct,"
+    },
+    {
+      "start": 324.14,
+      "end": 328.74,
+      "text": "and our speech and our mind."
+    },
+    {
+      "start": 328.74,
+      "end": 334.74,
+      "text": "That means our intentions before we know our mind."
+    },
+    {
+      "start": 334.74,
+      "end": 340.74,
+      "text": "And then after we have got rid,"
+    },
+    {
+      "start": 340.74,
+      "end": 344.74,
+      "text": "that means treating our three karmas,"
+    },
+    {
+      "start": 344.74,
+      "end": 347.74,
+      "text": "made it more skillful."
+    },
+    {
+      "start": 347.74,
+      "end": 353.74,
+      "text": "Then the second step is the central reflections"
+    },
+    {
+      "start": 354.74,
+      "end": 356.74,
+      "text": "and its thoughts."
+    },
+    {
+      "start": 356.74,
+      "end": 358.74,
+      "text": "Reflections in other words, thoughts,"
+    },
+    {
+      "start": 358.74,
+      "end": 361.74,
+      "text": "essential thoughts, malicious thoughts,"
+    },
+    {
+      "start": 361.74,
+      "end": 364.74,
+      "text": "and cruel or harmful thoughts."
+    },
+    {
+      "start": 364.74,
+      "end": 368.74,
+      "text": "These are so we have to be careful."
+    },
+    {
+      "start": 368.74,
+      "end": 371.74,
+      "text": "The Oliver is karma vitaka,"
+    },
+    {
+      "start": 371.74,
+      "end": 373.74,
+      "text": "Vaipada vitaka,"
+    },
+    {
+      "start": 373.74,
+      "end": 376.74,
+      "text": "and we hingsa vitaka."
+    },
+    {
+      "start": 376.74,
+      "end": 380.74,
+      "text": "So these kind of thoughts,"
+    },
+    {
+      "start": 381.74,
+      "end": 384.74,
+      "text": "we have to keep a check on you."
+    },
+    {
+      "start": 384.74,
+      "end": 387.74,
+      "text": "Notice carefully the difference between the first one"
+    },
+    {
+      "start": 387.74,
+      "end": 388.74,
+      "text": "and the second one."
+    },
+    {
+      "start": 388.74,
+      "end": 390.74,
+      "text": "The first one is the three karmas,"
+    },
+    {
+      "start": 390.74,
+      "end": 393.74,
+      "text": "about it includes the mental karma."
+    },
+    {
+      "start": 393.74,
+      "end": 398.74,
+      "text": "And the second one is the thoughts,"
+    },
+    {
+      "start": 398.74,
+      "end": 400.74,
+      "text": "which are fine."
+    },
+    {
+      "start": 400.74,
+      "end": 403.74,
+      "text": "And these thoughts are not the mental karma,"
+    },
+    {
+      "start": 403.74,
+      "end": 409.74,
+      "text": "and that's why we have to differentiate"
+    },
+    {
+      "start": 409.74,
+      "end": 414.74,
+      "text": "because there are some people who think that when we think of something wrong,"
+    },
+    {
+      "start": 414.74,
+      "end": 417.74,
+      "text": "then we have our decommitted karma,"
+    },
+    {
+      "start": 417.74,
+      "end": 418.74,
+      "text": "that is not true."
+    },
+    {
+      "start": 418.74,
+      "end": 421.74,
+      "text": "That might be true in Christianity,"
+    },
+    {
+      "start": 421.74,
+      "end": 424.74,
+      "text": "and Mayana Buddhism,"
+    },
+    {
+      "start": 424.74,
+      "end": 426.74,
+      "text": "but in our other Buddhism,"
+    },
+    {
+      "start": 426.74,
+      "end": 429.74,
+      "text": "we separate the thinking from the mental karma."
+    },
+    {
+      "start": 429.74,
+      "end": 434.14,
+      "text": "And the thinking is just thinking,"
+    },
+    {
+      "start": 434.14,
+      "end": 439.14,
+      "text": "without forming an intention"
+    },
+    {
+      "start": 439.14,
+      "end": 442.14,
+      "text": "without the abolishing,"
+    },
+    {
+      "start": 442.14,
+      "end": 444.14,
+      "text": "without exercising our willpower."
+    },
+    {
+      "start": 444.14,
+      "end": 447.14,
+      "text": "Just thinking or need something like daily dreaming,"
+    },
+    {
+      "start": 447.14,
+      "end": 449.14,
+      "text": "you may have sensual thoughts,"
+    },
+    {
+      "start": 449.14,
+      "end": 451.14,
+      "text": "harmful thoughts,"
+    },
+    {
+      "start": 451.14,
+      "end": 453.14,
+      "text": "malicious angry thoughts,"
+    },
+    {
+      "start": 453.14,
+      "end": 455.14,
+      "text": "but those are not karma."
+    },
+    {
+      "start": 455.14,
+      "end": 458.14,
+      "text": "The third one is thoughts about his relatives,"
+    },
+    {
+      "start": 458.14,
+      "end": 460.14,
+      "text": "his district,"
+    },
+    {
+      "start": 460.14,
+      "end": 462.14,
+      "text": "about his reputation,"
+    },
+    {
+      "start": 462.14,
+      "end": 464.14,
+      "text": "at his, again, a final level."
+    },
+    {
+      "start": 464.14,
+      "end": 468.14,
+      "text": "That also he has to keep out."
+    },
+    {
+      "start": 468.14,
+      "end": 473.14,
+      "text": "People look out for and try to stop it."
+    },
+    {
+      "start": 473.14,
+      "end": 478.14,
+      "text": "Because these thoughts actually are thoughts,"
+    },
+    {
+      "start": 478.14,
+      "end": 481.14,
+      "text": "actually he goes about system."
+    },
+    {
+      "start": 481.14,
+      "end": 483.14,
+      "text": "Whenever we have thoughts,"
+    },
+    {
+      "start": 483.14,
+      "end": 488.14,
+      "text": "there's always that eye in the mind that comes together with the thoughts."
+    },
+    {
+      "start": 488.14,
+      "end": 493.14,
+      "text": "And then the fourth one is thoughts about thoughts."
+    },
+    {
+      "start": 494.14,
+      "end": 497.14,
+      "text": "Dhamma, we talk, we talk eye thoughts."
+    },
+    {
+      "start": 497.14,
+      "end": 499.14,
+      "text": "Dhamma is also thoughts."
+    },
+    {
+      "start": 499.14,
+      "end": 502.14,
+      "text": "This one here is translated as reflections about thoughts."
+    },
+    {
+      "start": 502.14,
+      "end": 503.14,
+      "text": "What is this about?"
+    },
+    {
+      "start": 503.14,
+      "end": 505.14,
+      "text": "This is about proliferation."
+    },
+    {
+      "start": 505.14,
+      "end": 507.14,
+      "text": "There's a word in the sutras,"
+    },
+    {
+      "start": 507.14,
+      "end": 510.14,
+      "text": "which he comes across now and then called papancha."
+    },
+    {
+      "start": 510.14,
+      "end": 512.14,
+      "text": "Which means proliferation."
+    },
+    {
+      "start": 512.14,
+      "end": 513.14,
+      "text": "Which means,"
+    },
+    {
+      "start": 513.14,
+      "end": 516.14,
+      "text": "what basically means is that"
+    },
+    {
+      "start": 516.14,
+      "end": 519.14,
+      "text": "there are thoughts that arise in our mind."
+    },
+    {
+      "start": 519.14,
+      "end": 521.14,
+      "text": "Now and then,"
+    },
+    {
+      "start": 521.14,
+      "end": 524.14,
+      "text": "for which there is not much we can do."
+    },
+    {
+      "start": 524.14,
+      "end": 525.14,
+      "text": "There's not much control."
+    },
+    {
+      "start": 525.14,
+      "end": 527.14,
+      "text": "We can exercise."
+    },
+    {
+      "start": 527.14,
+      "end": 530.14,
+      "text": "But if we follow the thoughts,"
+    },
+    {
+      "start": 530.14,
+      "end": 532.14,
+      "text": "and we"
+    },
+    {
+      "start": 532.14,
+      "end": 534.14,
+      "text": "think about the thoughts,"
+    },
+    {
+      "start": 534.14,
+      "end": 536.14,
+      "text": "then there is this proliferation."
+    },
+    {
+      "start": 536.14,
+      "end": 537.14,
+      "text": "In other words,"
+    },
+    {
+      "start": 537.14,
+      "end": 539.14,
+      "text": "we are believing our thoughts."
+    },
+    {
+      "start": 539.14,
+      "end": 542.14,
+      "text": "The thoughts is one thing that is not the self."
+    },
+    {
+      "start": 542.14,
+      "end": 544.14,
+      "text": "So we should not,"
+    },
+    {
+      "start": 544.14,
+      "end": 546.14,
+      "text": "should try not to believe our thoughts,"
+    },
+    {
+      "start": 546.14,
+      "end": 548.14,
+      "text": "not to follow our thoughts."
+    },
+    {
+      "start": 549.14,
+      "end": 551.14,
+      "text": "So as long as we follow our thoughts,"
+    },
+    {
+      "start": 551.14,
+      "end": 554.14,
+      "text": "our mind cannot become one-pointed."
+    },
+    {
+      "start": 554.14,
+      "end": 559.14,
+      "text": "And then we have to practice habitual restraint."
+    },
+    {
+      "start": 559.14,
+      "end": 560.14,
+      "text": "But the Buddha says,"
+    },
+    {
+      "start": 560.14,
+      "end": 563.14,
+      "text": "it's a state dependent on paying for habitual restraint."
+    },
+    {
+      "start": 563.14,
+      "end": 564.14,
+      "text": "It means all the time."
+    },
+    {
+      "start": 564.14,
+      "end": 567.14,
+      "text": "We have to keep a lookout for our thoughts."
+    },
+    {
+      "start": 567.14,
+      "end": 573.14,
+      "text": "Always watch our mind and try to not to follow the thoughts."
+    },
+    {
+      "start": 573.14,
+      "end": 576.14,
+      "text": "But eventually the Buddha says,"
+    },
+    {
+      "start": 576.14,
+      "end": 578.14,
+      "text": "the mind becomes well-established,"
+    },
+    {
+      "start": 578.14,
+      "end": 581.14,
+      "text": "settles down what becomes one-pointed."
+    },
+    {
+      "start": 581.14,
+      "end": 583.14,
+      "text": "It becomes concentrated."
+    },
+    {
+      "start": 583.14,
+      "end": 589.14,
+      "text": "And this state is not dependent on paying for habitual restraint."
+    },
+    {
+      "start": 589.14,
+      "end": 592.14,
+      "text": "That means the mind has become very pure,"
+    },
+    {
+      "start": 592.14,
+      "end": 594.14,
+      "text": "very developed, very strong."
+    },
+    {
+      "start": 594.14,
+      "end": 598.14,
+      "text": "And then the thoughts don't arise."
+    },
+    {
+      "start": 598.14,
+      "end": 600.14,
+      "text": "And we don't follow the thoughts."
+    },
+    {
+      "start": 600.14,
+      "end": 605.39,
+      "text": "So then only when we don't have thoughts,"
+    },
+    {
+      "start": 605.39,
+      "end": 607.39,
+      "text": "we don't have thoughts bothering us."
+    },
+    {
+      "start": 607.39,
+      "end": 609.39,
+      "text": "Then when we want to direct our mind,"
+    },
+    {
+      "start": 609.39,
+      "end": 611.39,
+      "text": "and use it in whichever way we want,"
+    },
+    {
+      "start": 611.39,
+      "end": 614.39,
+      "text": "then we can realize whatever knowledge we want."
+    },
+    {
+      "start": 614.39,
+      "end": 616.39,
+      "text": "Just like the Buddha said about the goal,"
+    },
+    {
+      "start": 616.39,
+      "end": 618.39,
+      "text": "when it is very pure,"
+    },
+    {
+      "start": 618.39,
+      "end": 622.39,
+      "text": "when it is totally pure goal."
+    },
+    {
+      "start": 622.39,
+      "end": 624.39,
+      "text": "Whether you want to make it into a goal plate,"
+    },
+    {
+      "start": 624.39,
+      "end": 627.39,
+      "text": "or bring her an necklace, or a golden chain,"
+    },
+    {
+      "start": 627.39,
+      "end": 628.39,
+      "text": "you can make it,"
+    },
+    {
+      "start": 628.39,
+      "end": 631.39,
+      "text": "that is that sterling goal."
+    },
+    {
+      "start": 631.39,
+      "end": 634.39,
+      "text": "So in the same way when our mind becomes well-developed,"
+    },
+    {
+      "start": 634.39,
+      "end": 639.39,
+      "text": "and we can use it to realize whatever we want to realize."
+    },
+    {
+      "start": 639.39,
+      "end": 643.77,
+      "text": "And then to continue the Buddha said,"
+    },
+    {
+      "start": 643.77,
+      "end": 646.77,
+      "text": "for instance, if he desire me,"
+    },
+    {
+      "start": 646.77,
+      "end": 648.77,
+      "text": "I enjoy in diverse ways,"
+    },
+    {
+      "start": 648.77,
+      "end": 651.77,
+      "text": "many full forms of superpowers,"
+    },
+    {
+      "start": 651.77,
+      "end": 653.77,
+      "text": "supernormal power."
+    },
+    {
+      "start": 653.77,
+      "end": 655.77,
+      "text": "For example, from being one,"
+    },
+    {
+      "start": 655.77,
+      "end": 657.77,
+      "text": "I become many, from being many,"
+    },
+    {
+      "start": 657.77,
+      "end": 659.77,
+      "text": "I become one manifest,"
+    },
+    {
+      "start": 659.77,
+      "end": 661.77,
+      "text": "or invisible, me, I pass,"
+    },
+    {
+      "start": 661.77,
+      "end": 664.77,
+      "text": "and in the true world to a mountain."
+    },
+    {
+      "start": 664.77,
+      "end": 666.77,
+      "text": "As if through the end,"
+    },
+    {
+      "start": 666.77,
+      "end": 667.77,
+      "text": "my plants into the hands,"
+    },
+    {
+      "start": 667.77,
+      "end": 668.77,
+      "text": "shoot up again."
+    },
+    {
+      "start": 668.77,
+      "end": 670.77,
+      "text": "As if in water,"
+    },
+    {
+      "start": 670.77,
+      "end": 675.3,
+      "text": "my walk upon water,"
+    },
+    {
+      "start": 675.3,
+      "end": 677.3,
+      "text": "my plants into a solid ground,"
+    },
+    {
+      "start": 677.3,
+      "end": 679.3,
+      "text": "my travel through the air,"
+    },
+    {
+      "start": 679.3,
+      "end": 680.3,
+      "text": "like a bird,"
+    },
+    {
+      "start": 680.3,
+      "end": 682.3,
+      "text": "etc., etc.,"
+    },
+    {
+      "start": 682.3,
+      "end": 685.3,
+      "text": "when it is the power to do so,"
+    },
+    {
+      "start": 685.3,
+      "end": 686.3,
+      "text": "whatever,"
+    },
+    {
+      "start": 686.3,
+      "end": 688.3,
+      "text": "be the range."
+    },
+    {
+      "start": 688.3,
+      "end": 690.3,
+      "text": "Secondly, if he desire"
+    },
+    {
+      "start": 690.3,
+      "end": 693.3,
+      "text": "with the devar power of hearing,"
+    },
+    {
+      "start": 693.3,
+      "end": 696.3,
+      "text": "purified and surpassing that of men,"
+    },
+    {
+      "start": 696.3,
+      "end": 699.3,
+      "text": "let me hear sounds both of devars,"
+    },
+    {
+      "start": 699.3,
+      "end": 700.3,
+      "text": "and of humans,"
+    },
+    {
+      "start": 700.3,
+      "end": 701.3,
+      "text": "whether far on here,"
+    },
+    {
+      "start": 701.3,
+      "end": 703.3,
+      "text": "he attains the power to do so,"
+    },
+    {
+      "start": 703.3,
+      "end": 705.3,
+      "text": "whatever he is range."
+    },
+    {
+      "start": 705.3,
+      "end": 707.3,
+      "text": "Thirdly, if he desire,"
+    },
+    {
+      "start": 707.3,
+      "end": 709.3,
+      "text": "let me know the minds of other beings,"
+    },
+    {
+      "start": 709.3,
+      "end": 711.3,
+      "text": "of other persons with my own mind,"
+    },
+    {
+      "start": 711.3,
+      "end": 712.3,
+      "text": "grasping them,"
+    },
+    {
+      "start": 712.3,
+      "end": 714.3,
+      "text": "of the mind that is lustful,"
+    },
+    {
+      "start": 714.3,
+      "end": 715.3,
+      "text": "and you know it to be so,"
+    },
+    {
+      "start": 715.3,
+      "end": 716.3,
+      "text": "of the mind,"
+    },
+    {
+      "start": 716.3,
+      "end": 717.3,
+      "text": "from lust,"
+    },
+    {
+      "start": 717.3,
+      "end": 718.3,
+      "text": "let me know it to be so,"
+    },
+    {
+      "start": 718.3,
+      "end": 720.3,
+      "text": "of the mindful of him,"
+    },
+    {
+      "start": 720.3,
+      "end": 723.3,
+      "text": "and you know it to be full of him,"
+    },
+    {
+      "start": 724.3,
+      "end": 727.3,
+      "text": "free of he eluded, etc.,"
+    },
+    {
+      "start": 727.3,
+      "end": 730.3,
+      "text": "he attains the power to do so,"
+    },
+    {
+      "start": 730.3,
+      "end": 732.3,
+      "text": "and then number four."
+    },
+    {
+      "start": 732.3,
+      "end": 733.3,
+      "text": "If he desire,"
+    },
+    {
+      "start": 733.3,
+      "end": 735.3,
+      "text": "let me call to mind my former birds,"
+    },
+    {
+      "start": 735.3,
+      "end": 736.3,
+      "text": "in diverse ways,"
+    },
+    {
+      "start": 736.3,
+      "end": 738.3,
+      "text": "thus one birth, two births,"
+    },
+    {
+      "start": 738.3,
+      "end": 740.3,
+      "text": "three, four, five, ten,"
+    },
+    {
+      "start": 740.3,
+      "end": 741.3,
+      "text": "forty, fifty,"
+    },
+    {
+      "start": 741.3,
+      "end": 742.3,
+      "text": "hundred thousand,"
+    },
+    {
+      "start": 742.3,
+      "end": 743.3,
+      "text": "hundred thousand,"
+    },
+    {
+      "start": 743.3,
+      "end": 747.3,
+      "text": "be a diverse,"
+    },
+    {
+      "start": 747.3,
+      "end": 748.3,
+      "text": "a young,"
+    },
+    {
+      "start": 748.3,
+      "end": 749.3,
+      "text": "a whole cycle,"
+    },
+    {
+      "start": 749.3,
+      "end": 752.3,
+      "text": "and so,"
+    },
+    {
+      "start": 752.3,
+      "end": 754.3,
+      "text": "such was my name,"
+    },
+    {
+      "start": 754.3,
+      "end": 756.3,
+      "text": "such was the place,"
+    },
+    {
+      "start": 756.3,
+      "end": 758.3,
+      "text": "such was my clan,"
+    },
+    {
+      "start": 758.3,
+      "end": 760.3,
+      "text": "such was my cast,"
+    },
+    {
+      "start": 760.3,
+      "end": 762.3,
+      "text": "etc., etc.,"
+    },
+    {
+      "start": 762.3,
+      "end": 765.3,
+      "text": "he can recall all the previous lives,"
+    },
+    {
+      "start": 765.3,
+      "end": 767.3,
+      "text": "and he attains the power to do so,"
+    },
+    {
+      "start": 767.3,
+      "end": 769.3,
+      "text": "whatever he is range."
+    },
+    {
+      "start": 769.3,
+      "end": 770.3,
+      "text": "Then number five,"
+    },
+    {
+      "start": 770.3,
+      "end": 771.3,
+      "text": "if he desire,"
+    },
+    {
+      "start": 771.3,
+      "end": 773.3,
+      "text": "with the diverse life,"
+    },
+    {
+      "start": 773.3,
+      "end": 774.3,
+      "text": "purified as a passing,"
+    },
+    {
+      "start": 774.3,
+      "end": 775.3,
+      "text": "that of men,"
+    },
+    {
+      "start": 775.3,
+      "end": 777.3,
+      "text": "let me be whole beings as they disease,"
+    },
+    {
+      "start": 777.3,
+      "end": 779.3,
+      "text": "and rise up elsewhere,"
+    },
+    {
+      "start": 779.3,
+      "end": 781.3,
+      "text": "let me be born elsewhere,"
+    },
+    {
+      "start": 781.3,
+      "end": 782.3,
+      "text": "let me know them,"
+    },
+    {
+      "start": 782.3,
+      "end": 783.3,
+      "text": "let me know,"
+    },
+    {
+      "start": 783.3,
+      "end": 784.3,
+      "text": "exalted,"
+    },
+    {
+      "start": 784.3,
+      "end": 785.3,
+      "text": "fair of how,"
+    },
+    {
+      "start": 785.3,
+      "end": 787.3,
+      "text": "go on to,"
+    },
+    {
+      "start": 787.3,
+      "end": 790.3,
+      "text": "go on to a happy place,"
+    },
+    {
+      "start": 790.3,
+      "end": 792.3,
+      "text": "go on to a woeful place,"
+    },
+    {
+      "start": 792.3,
+      "end": 795.3,
+      "text": "according to their karma,"
+    },
+    {
+      "start": 795.3,
+      "end": 799.3,
+      "text": "and then he attains the power to do so,"
+    },
+    {
+      "start": 799.3,
+      "end": 801.3,
+      "text": "then number six,"
+    },
+    {
+      "start": 801.3,
+      "end": 802.3,
+      "text": "if he desire,"
+    },
+    {
+      "start": 802.3,
+      "end": 804.3,
+      "text": "by the destruction of the Asapas,"
+    },
+    {
+      "start": 804.3,
+      "end": 805.3,
+      "text": "in this very life,"
+    },
+    {
+      "start": 805.3,
+      "end": 807.3,
+      "text": "myself thoroughly knowing it,"
+    },
+    {
+      "start": 807.3,
+      "end": 809.3,
+      "text": "let me win the liberation by mind,"
+    },
+    {
+      "start": 809.3,
+      "end": 810.3,
+      "text": "the liberation by wisdom,"
+    },
+    {
+      "start": 810.3,
+      "end": 812.3,
+      "text": "which is free from the Asapas,"
+    },
+    {
+      "start": 812.3,
+      "end": 814.3,
+      "text": "he attains the power to do so,"
+    },
+    {
+      "start": 814.3,
+      "end": 816.3,
+      "text": "whatever he is range,"
+    },
+    {
+      "start": 816.3,
+      "end": 818.3,
+      "text": "let me stop here again,"
+    },
+    {
+      "start": 818.3,
+      "end": 820.3,
+      "text": "to gradually,"
+    },
+    {
+      "start": 820.3,
+      "end": 821.3,
+      "text": "the Buddha is saying,"
+    },
+    {
+      "start": 821.3,
+      "end": 823.3,
+      "text": "after the six,"
+    },
+    {
+      "start": 823.3,
+      "end": 825.3,
+      "text": "supinormal,"
+    },
+    {
+      "start": 825.3,
+      "end": 828.3,
+      "text": "higher knowledge,"
+    },
+    {
+      "start": 828.3,
+      "end": 833.14,
+      "text": "the higher knowledge,"
+    },
+    {
+      "start": 833.14,
+      "end": 837.14,
+      "text": "the very psychic powers,"
+    },
+    {
+      "start": 837.14,
+      "end": 840.14,
+      "text": "the level here,"
+    },
+    {
+      "start": 840.14,
+      "end": 841.14,
+      "text": "the level here,"
+    },
+    {
+      "start": 841.14,
+      "end": 843.14,
+      "text": "the reading the minds of others,"
+    },
+    {
+      "start": 843.14,
+      "end": 845.14,
+      "text": "and recalling its homoburs,"
+    },
+    {
+      "start": 845.14,
+      "end": 847.14,
+      "text": "having the vision,"
+    },
+    {
+      "start": 847.14,
+      "end": 850.14,
+      "text": "able to see the real strength of the people,"
+    },
+    {
+      "start": 850.14,
+      "end": 852.14,
+      "text": "and destroying the Asapas,"
+    },
+    {
+      "start": 852.14,
+      "end": 854.14,
+      "text": "if he wants to attain these,"
+    },
+    {
+      "start": 854.14,
+      "end": 856.14,
+      "text": "because the mind is well-developed,"
+    },
+    {
+      "start": 856.14,
+      "end": 857.14,
+      "text": "the Buddha said,"
+    },
+    {
+      "start": 857.14,
+      "end": 858.14,
+      "text": "he can do so,"
+    },
+    {
+      "start": 858.14,
+      "end": 860.14,
+      "text": "then the Buddha continued,"
+    },
+    {
+      "start": 860.14,
+      "end": 861.14,
+      "text": "monks,"
+    },
+    {
+      "start": 861.14,
+      "end": 864.14,
+      "text": "three characteristics are to be attended to,"
+    },
+    {
+      "start": 864.14,
+      "end": 865.14,
+      "text": "from time to time,"
+    },
+    {
+      "start": 865.14,
+      "end": 866.14,
+      "text": "by the mind,"
+    },
+    {
+      "start": 866.14,
+      "end": 869.14,
+      "text": "who is given to developing the higher mind."
+    },
+    {
+      "start": 869.14,
+      "end": 870.14,
+      "text": "From time to time,"
+    },
+    {
+      "start": 870.14,
+      "end": 874.14,
+      "text": "you must attend to the characteristic of concentration,"
+    },
+    {
+      "start": 874.14,
+      "end": 876.14,
+      "text": "to that of energetic application,"
+    },
+    {
+      "start": 876.14,
+      "end": 879.14,
+      "text": "to that of economy."
+    },
+    {
+      "start": 879.14,
+      "end": 880.14,
+      "text": "Now, monks,"
+    },
+    {
+      "start": 880.14,
+      "end": 881.14,
+      "text": "if a mind,"
+    },
+    {
+      "start": 881.14,
+      "end": 883.14,
+      "text": "who is given to developing the higher mind,"
+    },
+    {
+      "start": 883.14,
+      "end": 887.14,
+      "text": "give exclusive attention to the characteristic of concentration,"
+    },
+    {
+      "start": 887.14,
+      "end": 891.14,
+      "text": "this probable that his mind will be liable to enolence,"
+    },
+    {
+      "start": 891.14,
+      "end": 894.14,
+      "text": "should he give exclusive attention to the characteristic of,"
+    },
+    {
+      "start": 894.14,
+      "end": 896.14,
+      "text": "the characteristic of energetic application,"
+    },
+    {
+      "start": 896.14,
+      "end": 900.14,
+      "text": "it is probable that his mind will be liable to distraction,"
+    },
+    {
+      "start": 900.14,
+      "end": 904.14,
+      "text": "should he give exclusive attention to the characteristic of economy,"
+    },
+    {
+      "start": 904.14,
+      "end": 907.14,
+      "text": "it is probable that his mind will not be perfectly poised"
+    },
+    {
+      "start": 907.14,
+      "end": 910.14,
+      "text": "for the destruction of the Asapas,"
+    },
+    {
+      "start": 910.14,
+      "end": 914.14,
+      "text": "but if he give attention to these three characteristics,"
+    },
+    {
+      "start": 914.14,
+      "end": 915.14,
+      "text": "from time to time,"
+    },
+    {
+      "start": 915.14,
+      "end": 918.14,
+      "text": "then his mind becomes liable,"
+    },
+    {
+      "start": 918.14,
+      "end": 919.14,
+      "text": "workable,"
+    },
+    {
+      "start": 919.14,
+      "end": 920.14,
+      "text": "not stubborn,"
+    },
+    {
+      "start": 920.14,
+      "end": 925.14,
+      "text": "but perfectly poised for the destruction of the Asapas."
+    },
+    {
+      "start": 925.14,
+      "end": 926.14,
+      "text": "Suppose monks,"
+    },
+    {
+      "start": 926.14,
+      "end": 929.14,
+      "text": "a ghost met or his man sets up his furnace"
+    },
+    {
+      "start": 929.14,
+      "end": 932.14,
+      "text": "and having done so puts fire to their receptacle"
+    },
+    {
+      "start": 932.14,
+      "end": 934.14,
+      "text": "and taking up sterling gold,"
+    },
+    {
+      "start": 934.14,
+      "end": 936.14,
+      "text": "it pinces trust it into the crucible"
+    },
+    {
+      "start": 936.14,
+      "end": 937.14,
+      "text": "and from time to time,"
+    },
+    {
+      "start": 937.14,
+      "end": 938.14,
+      "text": "close on it,"
+    },
+    {
+      "start": 938.14,
+      "end": 939.14,
+      "text": "from time to time,"
+    },
+    {
+      "start": 939.14,
+      "end": 940.14,
+      "text": "sprinkles it with water,"
+    },
+    {
+      "start": 940.14,
+      "end": 941.14,
+      "text": "from time to time,"
+    },
+    {
+      "start": 941.14,
+      "end": 943.14,
+      "text": "examines it closely."
+    },
+    {
+      "start": 943.14,
+      "end": 944.14,
+      "text": "The monks,"
+    },
+    {
+      "start": 944.14,
+      "end": 945.14,
+      "text": "if the ghost met,"
+    },
+    {
+      "start": 945.14,
+      "end": 946.14,
+      "text": "or his man,"
+    },
+    {
+      "start": 946.14,
+      "end": 948.14,
+      "text": "to blow continuously on that gold,"
+    },
+    {
+      "start": 948.14,
+      "end": 950.14,
+      "text": "it is probable that he would burn it up."
+    },
+    {
+      "start": 950.14,
+      "end": 953.14,
+      "text": "If he kept sprinkling it with water,"
+    },
+    {
+      "start": 953.14,
+      "end": 955.14,
+      "text": "he would make it cold."
+    },
+    {
+      "start": 955.14,
+      "end": 957.14,
+      "text": "If he kept examining it always,"
+    },
+    {
+      "start": 957.14,
+      "end": 959.14,
+      "text": "it is probable that the sterling gold"
+    },
+    {
+      "start": 959.14,
+      "end": 961.14,
+      "text": "would not come to full perfection."
+    },
+    {
+      "start": 961.14,
+      "end": 964.14,
+      "text": "But if he do these things from time to time,"
+    },
+    {
+      "start": 964.14,
+      "end": 965.14,
+      "text": "occasionally,"
+    },
+    {
+      "start": 965.14,
+      "end": 967.14,
+      "text": "then that sterling gold becomes liable,"
+    },
+    {
+      "start": 967.14,
+      "end": 968.14,
+      "text": "workable,"
+    },
+    {
+      "start": 968.14,
+      "end": 969.14,
+      "text": "astrous,"
+    },
+    {
+      "start": 969.14,
+      "end": 970.14,
+      "text": "not brittle,"
+    },
+    {
+      "start": 970.14,
+      "end": 972.14,
+      "text": "that becomes capable of perfect workmanship,"
+    },
+    {
+      "start": 972.14,
+      "end": 974.14,
+      "text": "or whatever sort of ornament,"
+    },
+    {
+      "start": 975.14,
+      "end": 976.14,
+      "text": "one wishes to be gold,"
+    },
+    {
+      "start": 976.14,
+      "end": 977.14,
+      "text": "or ring,"
+    },
+    {
+      "start": 977.14,
+      "end": 978.14,
+      "text": "or necklace,"
+    },
+    {
+      "start": 978.14,
+      "end": 979.14,
+      "text": "or golden chain,"
+    },
+    {
+      "start": 979.14,
+      "end": 981.14,
+      "text": "he can make use of it for that purpose."
+    },
+    {
+      "start": 981.14,
+      "end": 982.14,
+      "text": "In the same way,"
+    },
+    {
+      "start": 982.14,
+      "end": 984.14,
+      "text": "there are these three characteristics"
+    },
+    {
+      "start": 984.14,
+      "end": 985.14,
+      "text": "to be attended to,"
+    },
+    {
+      "start": 985.14,
+      "end": 986.14,
+      "text": "from time to time,"
+    },
+    {
+      "start": 986.14,
+      "end": 988.14,
+      "text": "by a monk who is devoted to developing"
+    },
+    {
+      "start": 988.14,
+      "end": 990.14,
+      "text": "the higher mind."
+    },
+    {
+      "start": 990.14,
+      "end": 992.14,
+      "text": "That is,"
+    },
+    {
+      "start": 992.14,
+      "end": 993.14,
+      "text": "from time to time,"
+    },
+    {
+      "start": 993.14,
+      "end": 994.14,
+      "text": "he must attend"
+    },
+    {
+      "start": 994.14,
+      "end": 996.14,
+      "text": "to the characteristic of concentration,"
+    },
+    {
+      "start": 996.14,
+      "end": 998.14,
+      "text": "to that of energetic application,"
+    },
+    {
+      "start": 998.14,
+      "end": 1000.14,
+      "text": "to that of equipment,"
+    },
+    {
+      "start": 1000.14,
+      "end": 1003.14,
+      "text": "and that the rest is as before."
+    },
+    {
+      "start": 1003.14,
+      "end": 1004.14,
+      "text": "And to whatever branch,"
+    },
+    {
+      "start": 1004.14,
+      "end": 1005.14,
+      "text": "a special knowledge,"
+    },
+    {
+      "start": 1005.14,
+      "end": 1007.14,
+      "text": "he may directly smile for the realization there,"
+    },
+    {
+      "start": 1007.14,
+      "end": 1009.14,
+      "text": "or he attains the power of personally"
+    },
+    {
+      "start": 1009.14,
+      "end": 1010.14,
+      "text": "to realize such,"
+    },
+    {
+      "start": 1010.14,
+      "end": 1012.14,
+      "text": "whatever being is raised."
+    },
+    {
+      "start": 1012.14,
+      "end": 1013.14,
+      "text": "As I see at the start,"
+    },
+    {
+      "start": 1013.14,
+      "end": 1015.14,
+      "text": "here the Buddha is saying that"
+    },
+    {
+      "start": 1015.14,
+      "end": 1016.14,
+      "text": "when we meditate,"
+    },
+    {
+      "start": 1016.14,
+      "end": 1019.14,
+      "text": "we must concentrate on three things"
+    },
+    {
+      "start": 1019.14,
+      "end": 1020.14,
+      "text": "from time to time,"
+    },
+    {
+      "start": 1020.14,
+      "end": 1022.14,
+      "text": "not give attention to anyone,"
+    },
+    {
+      "start": 1022.14,
+      "end": 1025.14,
+      "text": "one is concentration of the mind."
+    },
+    {
+      "start": 1025.14,
+      "end": 1027.14,
+      "text": "But if we give too much attention"
+    },
+    {
+      "start": 1027.14,
+      "end": 1028.14,
+      "text": "to concentration,"
+    },
+    {
+      "start": 1028.14,
+      "end": 1030.14,
+      "text": "the mind becomes dull,"
+    },
+    {
+      "start": 1030.14,
+      "end": 1032.14,
+      "text": "indolence,"
+    },
+    {
+      "start": 1032.14,
+      "end": 1036.94,
+      "text": "and then the second one is energy."
+    },
+    {
+      "start": 1036.94,
+      "end": 1038.94,
+      "text": "But if we give too much attention"
+    },
+    {
+      "start": 1038.94,
+      "end": 1039.94,
+      "text": "to energy,"
+    },
+    {
+      "start": 1039.94,
+      "end": 1041.94,
+      "text": "then we become distracted,"
+    },
+    {
+      "start": 1041.94,
+      "end": 1043.94,
+      "text": "kind of restless."
+    },
+    {
+      "start": 1043.94,
+      "end": 1045.94,
+      "text": "And the third one is the connectivity."
+    },
+    {
+      "start": 1045.94,
+      "end": 1047.94,
+      "text": "But if you have too much"
+    },
+    {
+      "start": 1047.94,
+      "end": 1048.94,
+      "text": "the connectivity,"
+    },
+    {
+      "start": 1048.94,
+      "end": 1050.94,
+      "text": "then the mind becomes,"
+    },
+    {
+      "start": 1050.94,
+      "end": 1054.94,
+      "text": "like an active,"
+    },
+    {
+      "start": 1054.94,
+      "end": 1056.94,
+      "text": "so it's not perfect"
+    },
+    {
+      "start": 1056.94,
+      "end": 1058.94,
+      "text": "or the destruction of the ossavas."
+    },
+    {
+      "start": 1058.94,
+      "end": 1059.94,
+      "text": "But all the three,"
+    },
+    {
+      "start": 1059.94,
+      "end": 1061.94,
+      "text": "and must be looked into,"
+    },
+    {
+      "start": 1061.94,
+      "end": 1065.94,
+      "text": "that there is a balance of how these three factors."
+    },
+    {
+      "start": 1065.94,
+      "end": 1067.94,
+      "text": "Through these very interesting super,"
+    },
+    {
+      "start": 1067.94,
+      "end": 1069.94,
+      "text": "from the point of view of meditation,"
+    },
+    {
+      "start": 1069.94,
+      "end": 1073.94,
+      "text": "and the first one is about the five things"
+    },
+    {
+      "start": 1073.94,
+      "end": 1075.94,
+      "text": "and the five steps you must do,"
+    },
+    {
+      "start": 1075.94,
+      "end": 1076.94,
+      "text": "watch our karma,"
+    },
+    {
+      "start": 1076.94,
+      "end": 1078.94,
+      "text": "and second one watch our course."
+    },
+    {
+      "start": 1078.94,
+      "end": 1080.94,
+      "text": "That one is the thoughts about"
+    },
+    {
+      "start": 1080.94,
+      "end": 1081.94,
+      "text": "relatives,"
+    },
+    {
+      "start": 1081.94,
+      "end": 1082.94,
+      "text": "these three repetitions,"
+    },
+    {
+      "start": 1082.94,
+      "end": 1083.94,
+      "text": "etc."
+    },
+    {
+      "start": 1083.94,
+      "end": 1084.94,
+      "text": "We have to do with the ego."
+    },
+    {
+      "start": 1084.94,
+      "end": 1086.94,
+      "text": "The fourth one is thoughts,"
+    },
+    {
+      "start": 1086.94,
+      "end": 1088.94,
+      "text": "not to follow the thoughts,"
+    },
+    {
+      "start": 1088.94,
+      "end": 1090.94,
+      "text": "not to think about the thoughts"
+    },
+    {
+      "start": 1090.94,
+      "end": 1092.94,
+      "text": "and make it proliferate."
+    },
+    {
+      "start": 1092.94,
+      "end": 1094.94,
+      "text": "And the fifth one is when the mind becomes"
+    },
+    {
+      "start": 1094.94,
+      "end": 1095.94,
+      "text": "one,"
+    },
+    {
+      "start": 1095.94,
+      "end": 1097.94,
+      "text": "pointed concentrated,"
+    },
+    {
+      "start": 1097.94,
+      "end": 1100.94,
+      "text": "and then there is"
+    },
+    {
+      "start": 1100.94,
+      "end": 1104.94,
+      "text": "not to have the proliferation of thoughts."
+    },
+    {
+      "start": 1104.94,
+      "end": 1105.94,
+      "text": "Here, like to mention,"
+    },
+    {
+      "start": 1105.94,
+      "end": 1107.94,
+      "text": "an interesting,"
+    },
+    {
+      "start": 1107.94,
+      "end": 1108.94,
+      "text": "something interesting,"
+    },
+    {
+      "start": 1108.94,
+      "end": 1110.94,
+      "text": "the Japanese,"
+    },
+    {
+      "start": 1110.94,
+      "end": 1113.94,
+      "text": "the most famous Japanese animosity"
+    },
+    {
+      "start": 1113.94,
+      "end": 1115.94,
+      "text": "I've read many years ago,"
+    },
+    {
+      "start": 1115.94,
+      "end": 1116.94,
+      "text": "was Logan,"
+    },
+    {
+      "start": 1116.94,
+      "end": 1117.94,
+      "text": "and he said,"
+    },
+    {
+      "start": 1117.94,
+      "end": 1119.94,
+      "text": "that renunciation is in four steps."
+    },
+    {
+      "start": 1119.94,
+      "end": 1122.94,
+      "text": "First one is we now renounce the world."
+    },
+    {
+      "start": 1122.94,
+      "end": 1125.94,
+      "text": "He don't care about what happens in the world."
+    },
+    {
+      "start": 1125.94,
+      "end": 1126.94,
+      "text": "The second step,"
+    },
+    {
+      "start": 1126.94,
+      "end": 1128.94,
+      "text": "renounce our friends and relatives."
+    },
+    {
+      "start": 1128.94,
+      "end": 1131.94,
+      "text": "The one renounce the body,"
+    },
+    {
+      "start": 1131.94,
+      "end": 1133.94,
+      "text": "the fourth one renounce the mind,"
+    },
+    {
+      "start": 1133.94,
+      "end": 1135.94,
+      "text": "to make use of the mind."
+    },
+    {
+      "start": 1135.94,
+      "end": 1137.94,
+      "text": "Now we come to the next route,"
+    },
+    {
+      "start": 1137.94,
+      "end": 1139.94,
+      "text": "which is 3.11.101."
+    },
+    {
+      "start": 1139.94,
+      "end": 1141.94,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 1141.94,
+      "end": 1143.94,
+      "text": "before my enlightenment months,"
+    },
+    {
+      "start": 1143.94,
+      "end": 1144.94,
+      "text": "when I was here,"
+    },
+    {
+      "start": 1144.94,
+      "end": 1145.94,
+      "text": "but the Bodhisattva,"
+    },
+    {
+      "start": 1145.94,
+      "end": 1146.94,
+      "text": "he's occurred to me,"
+    },
+    {
+      "start": 1146.94,
+      "end": 1148.94,
+      "text": "what I wonder is the satisfaction"
+    },
+    {
+      "start": 1148.94,
+      "end": 1149.94,
+      "text": "in the world?"
+    },
+    {
+      "start": 1149.94,
+      "end": 1150.94,
+      "text": "What is the misery?"
+    },
+    {
+      "start": 1150.94,
+      "end": 1151.94,
+      "text": "The world?"
+    },
+    {
+      "start": 1151.94,
+      "end": 1152.94,
+      "text": "What is the escape there from?"
+    },
+    {
+      "start": 1152.94,
+      "end": 1156.94,
+      "text": "I just talk here just to talk about this body-satta."
+    },
+    {
+      "start": 1156.94,
+      "end": 1157.94,
+      "text": "Sometimes in the Sutras,"
+    },
+    {
+      "start": 1157.94,
+      "end": 1162.94,
+      "text": "the Buddha says that when he was still a body-satta,"
+    },
+    {
+      "start": 1162.94,
+      "end": 1164.94,
+      "text": "before he said enlightenment,"
+    },
+    {
+      "start": 1164.94,
+      "end": 1166.94,
+      "text": "so this third body-satta,"
+    },
+    {
+      "start": 1166.94,
+      "end": 1168.94,
+      "text": "there's nothing special about the third body-satta."
+    },
+    {
+      "start": 1168.94,
+      "end": 1174.94,
+      "text": "Just refers to the state of a person before he becomes enlightened,"
+    },
+    {
+      "start": 1174.94,
+      "end": 1178.94,
+      "text": "and enlightenment means becoming a Buddha or an harahant,"
+    },
+    {
+      "start": 1178.94,
+      "end": 1181.94,
+      "text": "because the Buddha himself is called an harahant."
+    },
+    {
+      "start": 1181.94,
+      "end": 1183.94,
+      "text": "Just like he's called a Buddha,"
+    },
+    {
+      "start": 1183.94,
+      "end": 1186.94,
+      "text": "the difference on it is that the Buddha is self-enlighten."
+    },
+    {
+      "start": 1186.94,
+      "end": 1188.94,
+      "text": "Whereas an harahant,"
+    },
+    {
+      "start": 1188.94,
+      "end": 1190.94,
+      "text": "he makes use of the Dhamma taught by a Buddha,"
+    },
+    {
+      "start": 1190.94,
+      "end": 1192.94,
+      "text": "then he becomes enlightened."
+    },
+    {
+      "start": 1192.94,
+      "end": 1196.94,
+      "text": "So this would Bodhisatta later was developed"
+    },
+    {
+      "start": 1196.94,
+      "end": 1200.94,
+      "text": "and a lot of things talked about the Bodhisatta."
+    },
+    {
+      "start": 1200.94,
+      "end": 1202.94,
+      "text": "Whereas in our Tiravada,"
+    },
+    {
+      "start": 1202.94,
+      "end": 1209.94,
+      "text": "the Bodhisatta just means a term of a person before he is enlightened,"
+    },
+    {
+      "start": 1209.94,
+      "end": 1214.94,
+      "text": "and it is in the Sutras,"
+    },
+    {
+      "start": 1214.94,
+      "end": 1218.94,
+      "text": "it doesn't appear that a Bodhisatta can be an harahant,"
+    },
+    {
+      "start": 1218.94,
+      "end": 1220.94,
+      "text": "it's not that a Bodhisatta,"
+    },
+    {
+      "start": 1220.94,
+      "end": 1223.94,
+      "text": "it must appear to be an ordinary person."
+    },
+    {
+      "start": 1223.94,
+      "end": 1226.94,
+      "text": "It can be a harahant,"
+    },
+    {
+      "start": 1226.94,
+      "end": 1227.94,
+      "text": "or a harahant,"
+    },
+    {
+      "start": 1227.94,
+      "end": 1231.94,
+      "text": "so it comes back that the last light becomes a Buddha or harahant."
+    },
+    {
+      "start": 1231.94,
+      "end": 1233.94,
+      "text": "That's a continuum."
+    },
+    {
+      "start": 1233.94,
+      "end": 1236.94,
+      "text": "The Bodhisatta then wants this or her to me."
+    },
+    {
+      "start": 1236.94,
+      "end": 1237.94,
+      "text": "That condition, the world,"
+    },
+    {
+      "start": 1237.94,
+      "end": 1239.94,
+      "text": "or into which pleasure arises,"
+    },
+    {
+      "start": 1239.94,
+      "end": 1241.94,
+      "text": "going to which arises happiness,"
+    },
+    {
+      "start": 1241.94,
+      "end": 1243.94,
+      "text": "that is the satisfaction in the world,"
+    },
+    {
+      "start": 1243.94,
+      "end": 1244.94,
+      "text": "that impermanence,"
+    },
+    {
+      "start": 1244.94,
+      "end": 1245.94,
+      "text": "that suffering,"
+    },
+    {
+      "start": 1245.94,
+      "end": 1247.94,
+      "text": "that changeability in the world,"
+    },
+    {
+      "start": 1247.94,
+      "end": 1249.94,
+      "text": "that is the misery in the world."
+    },
+    {
+      "start": 1249.94,
+      "end": 1250.94,
+      "text": "That is the strength,"
+    },
+    {
+      "start": 1250.94,
+      "end": 1253.94,
+      "text": "that rhythms of desire and passion for the world."
+    },
+    {
+      "start": 1253.94,
+      "end": 1255.94,
+      "text": "That is the escape here from."
+    },
+    {
+      "start": 1256.94,
+      "end": 1259.94,
+      "text": "So long monks, as I did not thoroughly comprehend,"
+    },
+    {
+      "start": 1259.94,
+      "end": 1260.94,
+      "text": "as it really is,"
+    },
+    {
+      "start": 1260.94,
+      "end": 1262.94,
+      "text": "the satisfaction in the world as such,"
+    },
+    {
+      "start": 1262.94,
+      "end": 1264.94,
+      "text": "the misery, the world as such,"
+    },
+    {
+      "start": 1264.94,
+      "end": 1266.94,
+      "text": "the escape, the air from as such,"
+    },
+    {
+      "start": 1266.94,
+      "end": 1269.94,
+      "text": "so long did I not discern the meaning of being enlightened,"
+    },
+    {
+      "start": 1269.94,
+      "end": 1271.94,
+      "text": "with perfect enlightenment,"
+    },
+    {
+      "start": 1271.94,
+      "end": 1273.94,
+      "text": "unsurpassed in the world with its divas,"
+    },
+    {
+      "start": 1273.94,
+      "end": 1275.94,
+      "text": "its maras and brahmas,"
+    },
+    {
+      "start": 1275.94,
+      "end": 1278.94,
+      "text": "together with the hosts of recluses and brahmanas,"
+    },
+    {
+      "start": 1278.94,
+      "end": 1279.94,
+      "text": "of divas and mankind,"
+    },
+    {
+      "start": 1279.94,
+      "end": 1282.94,
+      "text": "but monks, when I fully comprehend it as it really is,"
+    },
+    {
+      "start": 1282.94,
+      "end": 1284.94,
+      "text": "the satisfaction in the world as such,"
+    },
+    {
+      "start": 1284.94,
+      "end": 1286.94,
+      "text": "the misery, the world as such,"
+    },
+    {
+      "start": 1286.94,
+      "end": 1288.94,
+      "text": "the escape, the air from as such,"
+    },
+    {
+      "start": 1288.94,
+      "end": 1291.94,
+      "text": "then did I discern the meaning of being enlightened in the world,"
+    },
+    {
+      "start": 1291.94,
+      "end": 1294.94,
+      "text": "then did knowledge and insight arise in me,"
+    },
+    {
+      "start": 1294.94,
+      "end": 1297.94,
+      "text": "thus sure is my liberation by mine."
+    },
+    {
+      "start": 1297.94,
+      "end": 1299.94,
+      "text": "This is my last birth,"
+    },
+    {
+      "start": 1299.94,
+      "end": 1301.94,
+      "text": "now is there no more becoming again."
+    },
+    {
+      "start": 1301.94,
+      "end": 1303.94,
+      "text": "Yeah, that's all about this."
+    },
+    {
+      "start": 1303.94,
+      "end": 1305.94,
+      "text": "There's another,"
+    },
+    {
+      "start": 1305.94,
+      "end": 1307.94,
+      "text": "a bit more,"
+    },
+    {
+      "start": 1307.94,
+      "end": 1308.94,
+      "text": "but you know,"
+    },
+    {
+      "start": 1308.94,
+      "end": 1311.94,
+      "text": "the corollary, so I won't repeat it."
+    },
+    {
+      "start": 1311.94,
+      "end": 1313.94,
+      "text": "So here the Buddha is saying,"
+    },
+    {
+      "start": 1313.94,
+      "end": 1315.94,
+      "text": "satisfaction in the world,"
+    },
+    {
+      "start": 1315.94,
+      "end": 1317.94,
+      "text": "because of pleasure in the world,"
+    },
+    {
+      "start": 1317.94,
+      "end": 1318.94,
+      "text": "and then,"
+    },
+    {
+      "start": 1318.94,
+      "end": 1320.94,
+      "text": "because of impermanence,"
+    },
+    {
+      "start": 1320.94,
+      "end": 1321.94,
+      "text": "there is suffering in the world,"
+    },
+    {
+      "start": 1321.94,
+      "end": 1323.94,
+      "text": "there is a misery in the world,"
+    },
+    {
+      "start": 1323.94,
+      "end": 1325.94,
+      "text": "and then the escape,"
+    },
+    {
+      "start": 1325.94,
+      "end": 1326.94,
+      "text": "out of the world,"
+    },
+    {
+      "start": 1326.94,
+      "end": 1330.94,
+      "text": "is the getting rid of the desire and passion for the world."
+    },
+    {
+      "start": 1330.94,
+      "end": 1331.94,
+      "text": "Now I come to next,"
+    },
+    {
+      "start": 1331.94,
+      "end": 1333.94,
+      "text": "3.11.102,"
+    },
+    {
+      "start": 1333.94,
+      "end": 1334.94,
+      "text": "the Buddha said,"
+    },
+    {
+      "start": 1334.94,
+      "end": 1336.94,
+      "text": "now here in monks,"
+    },
+    {
+      "start": 1336.94,
+      "end": 1339.94,
+      "text": "if there were not satisfaction to be found in the world,"
+    },
+    {
+      "start": 1339.94,
+      "end": 1341.94,
+      "text": "beings would not be attached to the world,"
+    },
+    {
+      "start": 1341.94,
+      "end": 1343.94,
+      "text": "but since there is satisfaction in the world,"
+    },
+    {
+      "start": 1343.94,
+      "end": 1345.94,
+      "text": "beings are attached there too,"
+    },
+    {
+      "start": 1345.94,
+      "end": 1348.94,
+      "text": "but if there were not misery in the world,"
+    },
+    {
+      "start": 1348.94,
+      "end": 1350.94,
+      "text": "beings would not be repel by the world,"
+    },
+    {
+      "start": 1350.94,
+      "end": 1352.94,
+      "text": "but since there is misery in the world,"
+    },
+    {
+      "start": 1352.94,
+      "end": 1355.94,
+      "text": "beings are repel by the world,"
+    },
+    {
+      "start": 1355.94,
+      "end": 1357.94,
+      "text": "if there were no escape from the world,"
+    },
+    {
+      "start": 1357.94,
+      "end": 1359.94,
+      "text": "beings could not escape there from,"
+    },
+    {
+      "start": 1359.94,
+      "end": 1361.94,
+      "text": "but since there is an escape from the world,"
+    },
+    {
+      "start": 1361.94,
+      "end": 1364.94,
+      "text": "beings do escape there from,"
+    },
+    {
+      "start": 1364.94,
+      "end": 1365.94,
+      "text": "now monks,"
+    },
+    {
+      "start": 1365.94,
+      "end": 1368.94,
+      "text": "in so far as beings have not fully come to know,"
+    },
+    {
+      "start": 1368.94,
+      "end": 1369.94,
+      "text": "as it really is,"
+    },
+    {
+      "start": 1369.94,
+      "end": 1376.18,
+      "text": "is a satisfaction in the world as such. The misery therein as misery, they escape there from"
+    },
+    {
+      "start": 1376.18,
+      "end": 1382.58,
+      "text": "a such. The Sufa have been not built free from detached, from release, from the unrestricted"
+    },
+    {
+      "start": 1382.58,
+      "end": 1388.26,
+      "text": "mind, from the world, the divas, the maras, the brahmas, together with the post of reclusions"
+    },
+    {
+      "start": 1388.26,
+      "end": 1394.5,
+      "text": "and brahmas of divas and mankind. But monks and beings have fully come to know as it really is"
+    },
+    {
+      "start": 1394.5,
+      "end": 1399.3,
+      "text": "the satisfaction in the world as such. The misery in the world as such, they escape from the"
+    },
+    {
+      "start": 1399.38,
+      "end": 1406.58,
+      "text": "world as such, then monks in twelve free detached released, from, with unrestricted mind,"
+    },
+    {
+      "start": 1406.58,
+      "end": 1413.14,
+      "text": "from the world, etc., very monks. But whoever reclusors or brahmanas understand,"
+    },
+    {
+      "start": 1413.14,
+      "end": 1418.58,
+      "text": "not as it really is, the satisfaction, the misery in the world and the escape there from"
+    },
+    {
+      "start": 1418.58,
+      "end": 1423.7,
+      "text": "such reclusions and brahmanas in my opinion, and not to be regarded as reclusions among"
+    },
+    {
+      "start": 1423.7,
+      "end": 1430.42,
+      "text": "reclusors, nor as brahmanas, among brahmanas. No have those where these come to know fully"
+    },
+    {
+      "start": 1430.42,
+      "end": 1435.7,
+      "text": "of themselves in this very life, the real meaning of reclusions, or brahmanas, good,"
+    },
+    {
+      "start": 1435.7,
+      "end": 1440.74,
+      "text": "not attaining their to do their dwell therein, but monks, whatsoever reclusions and brahmanas do"
+    },
+    {
+      "start": 1440.74,
+      "end": 1446.42,
+      "text": "so understand these things, such are in my opinion to be regarded as reclusions and brahmanas,"
+    },
+    {
+      "start": 1446.42,
+      "end": 1450.98,
+      "text": "all over those where these shall come to know the real meaning of reclusions and brahmanas,"
+    },
+    {
+      "start": 1451.06,
+      "end": 1456.42,
+      "text": "the shall attain to it and abide therein. So you see the Buddha is seeing that if there"
+    },
+    {
+      "start": 1456.42,
+      "end": 1462.58,
+      "text": "were not satisfaction to be found in the world, their beings would not be attached, and come back"
+    },
+    {
+      "start": 1462.58,
+      "end": 1467.94,
+      "text": "again and again to the world. That's one thing, the second thing is, because there's also misery in"
+    },
+    {
+      "start": 1467.94,
+      "end": 1474.34,
+      "text": "the world after some time, and there would be beings, there would be sick and tired now of the suffering,"
+    },
+    {
+      "start": 1474.34,
+      "end": 1480.5,
+      "text": "and there will be repel by the world, and then after that it will seek for a way of escape from"
+    },
+    {
+      "start": 1480.58,
+      "end": 1484.74,
+      "text": "the world, and luckily there is a way of escape from the world, so there is,"
+    },
+    {
+      "start": 1486.02,
+      "end": 1491.78,
+      "text": "there they are able to do so. So you see the two things are contradictory, one is"
+    },
+    {
+      "start": 1493.22,
+      "end": 1500.42,
+      "text": "satisfaction in the world, and the other one is misery in the world, and so these two things are"
+    },
+    {
+      "start": 1500.42,
+      "end": 1506.58,
+      "text": "contradictory, and we want to keep on enjoying the pleasures in the world, but at the same time we"
+    },
+    {
+      "start": 1507.46,
+      "end": 1514.02,
+      "text": "suffering, and we are being for the pleasures we get out of this world, and by suffering,"
+    },
+    {
+      "start": 1514.02,
+      "end": 1519.54,
+      "text": "so after some time and after many lifetimes we realize it's not worth the price,"
+    },
+    {
+      "start": 1519.54,
+      "end": 1526.1,
+      "text": "then only we think of getting out of the world. The next five times three point eleven point"
+    },
+    {
+      "start": 1526.1,
+      "end": 1531.78,
+      "text": "one, or three, the Buddha said, this month is to be reckoned to be lamentation in the discipline of the"
+    },
+    {
+      "start": 1531.78,
+      "end": 1538.1,
+      "text": "Aryan, namely singing, this is reckoned as causing madness in the discipline of the Aryan,"
+    },
+    {
+      "start": 1538.1,
+      "end": 1543.46,
+      "text": "namely dancing, this is reckoned as childlessness in the discipline of the Aryan,"
+    },
+    {
+      "start": 1543.46,
+      "end": 1549.94,
+      "text": "namely immogred laughter that displays the tea, performance away with the bridge that leads to singing"
+    },
+    {
+      "start": 1549.94,
+      "end": 1555.54,
+      "text": "and dancing, enough for you if you are pleased, right to sleep, to smile, to show your pleasure,"
+    },
+    {
+      "start": 1555.54,
+      "end": 1564.5,
+      "text": "and this is time, you can see the Buddha is quite severe, quite austere, quite controlled person,"
+    },
+    {
+      "start": 1564.5,
+      "end": 1573.3,
+      "text": "compared to, for example, other religions, and even like singing in our throat, in our chanting,"
+    },
+    {
+      "start": 1573.3,
+      "end": 1581.46,
+      "text": "you are not supposed to sing, singing means changing the tones, making it sound nice,"
+    },
+    {
+      "start": 1581.54,
+      "end": 1586.74,
+      "text": "absent, absent laws, and all that chanting is supposed to be, early monotonous,"
+    },
+    {
+      "start": 1588.42,
+      "end": 1594.74,
+      "text": "so singing, dancing and immodry laughter is not something that is to be,"
+    },
+    {
+      "start": 1596.02,
+      "end": 1608.24,
+      "text": "and the next three point eleven point one, or four, the Buddha said, months of indulgence in"
+    },
+    {
+      "start": 1608.24,
+      "end": 1616.0,
+      "text": "three things that can be known as the satiety or satisfying, but three, three, drinking of a"
+    },
+    {
+      "start": 1616.0,
+      "end": 1622.0,
+      "text": "mental liquor and sexual intercourse, of the indulgence in these three, of the indulgence in these"
+    },
+    {
+      "start": 1622.0,
+      "end": 1627.6,
+      "text": "three things, months, there can be no satiety, so these are the three things and however much we get,"
+    },
+    {
+      "start": 1627.6,
+      "end": 1634.8,
+      "text": "them, it can never be satisfied, so also because they ruin us physically and mentally,"
+    },
+    {
+      "start": 1635.44,
+      "end": 1640.08,
+      "text": "and we can become a slave to them, like a drop-a-dignar, so the Buddha said,"
+    },
+    {
+      "start": 1640.08,
+      "end": 1645.84,
+      "text": "you have to remember, they can never be a satisfaction in these things, not still because of that,"
+    },
+    {
+      "start": 1645.84,
+      "end": 1651.76,
+      "text": "it is a very, very, very, very, very beautiful, not in doubt, in them."
+    }
+  ]
+}

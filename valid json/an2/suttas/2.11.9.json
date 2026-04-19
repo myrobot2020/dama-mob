@@ -1,0 +1,39 @@
+{
+  "sutta_id": "2.11.9",
+  "sutta_name_en": "Conditions",
+  "sutta_name_pali": "Paccaya Sutta",
+  "sc_id": "an2.99",
+  "sc_url": "https://suttacentral.net/an2.99/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin",
+  "aud_file": "008_Anguttara Nikaya Book 2C 246 - 2121 by Bhante Hye Dhammavuddho Mahathera.mp3",
+  "aud_start_s": 1142.3,
+  "aud_end_s": 1320.14,
+  "chain": {
+    "items": [
+      "another's utterance",
+      "proper attention"
+    ],
+    "count": 2,
+    "is_ordered": false,
+    "category": "causes of right view"
+  },
+  "alignment": {
+    "rubric_version": "align_v4",
+    "scores_0_to_5": {
+      "source_ids_url": 5,
+      "text_to_source": 2,
+      "audio_segment": 5,
+      "commentary": 2,
+      "chain": 5,
+      "boundaries": 5
+    },
+    "total": 24,
+    "max_total": 30,
+    "needs_review": false,
+    "notes": "Auto-scored v4: sim_text_to_source=0.224, sim_commentary_chain=0.053, sim_commentary_kw=0.202, chain_supported=2/2"
+  },
+  "commentary_id": "cAN 2.11.9",
+  "sc_sutta": "99 “There are two who are astute. What two? One who doesn’t carry the burden of what has not come to pass, and one who carries the burden of what has come to pass. These are the two who are astute.”",
+  "sutta": "2.11.9 monks these two things are the causes for the arising of right view what two another's utterance and thorough attention or thorough conce consideration these are the two suitors now this right view if a person has right view then he is considered to be a sulta panna one who has entered the stream and arya",
+  "commentary": "so here it is saying that to get right view we just have to listen to another's utterance that means that another's teaching and then you consider it thoroughly you pay close attention you pay proper attention you consider it and you might be able to get uh right view and for wrong view also you you hear and then you don't consider properly and you might end up with wrong view especially if you hear wrong teaching and you accept it because you don't have thorough attention or terror consideration so from this suta it appears like uh it is possible not just from listening to the dhamma to attain right view or enter the stream and this seemed to have happened during the buddha's time many people who came to listen to the buddha teach the dhamma very soon after that the buddha said that enter the stream",
+  "valid": true
+}

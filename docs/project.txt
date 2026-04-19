@@ -1,0 +1,26 @@
+Explain the architecture of a RAG-based system. 
+How do you design the retrieval and generation modules to work in synergy, ensuring accurate, relevant, and timely responses? 
+Stateful Multi-Agent Workflow 
+Describe how you would implement a two-agent workflow (Planner + Executor) with persistent state so the workflow can resume after errors or interruptions. 
+Include: checkpointing strategy, state schema, and how agents communicate. Describe an architecture for orchestrating multi-agent workflows where tasks require real-time coordination and dependency resolution across thousands of microservices. 
+Outline your preferred CI/CD pipeline for a FastAPI project. Include steps such as automated testing, code quality checks, deployment to staging and production environments, and rollback strategies in case of deployment failures. 
+Design and sketch pseudocode for a small pipeline that: 
+1. Ingests documents (PDFs and Confluence pages). 
+2 . Chunks them for semantic search. 
+3 . Stores embeddings in a vector DB. 
+4 . Retrieves top-K chunks given a user query. 
+5 . Builds a safe prompt with guardrails for an LLM. or LLM + Tooling Control 
+Flow Prompt: Write pseudocode for an agent that answers a question by calling an LLM. 
+If LLM confidence is below a threshold, call a search tool and re-run the LLM using tool output. 
+Include retry/fallback logic. 
+What to probe: How to defines/estimates confidence (log-probs, calibration, model self-assessment, veracity classifiers). 
+Structured output enforcement (schemas) to simplify downstream action. 
+Timeout and retry policies. 
+Large Language Model (LLM) Fine-Tuning Write a Python code snippet to demonstrate the fine-tuning of a Large Language Model (LLM). 
+Use a pre-trained LLM and show how to fine-tune it for a specific task or domain. 
+Question 2 — Write a python conde snippet to Show a concise boto3 example to 
+(a) upload documents to S3, 
+(b) trigger an asynchronous Lambda to create embeddings on SageMaker/Bedrock, and 
+(c) store metadata in DynamoDB. Explain IAM considerations. 
+Cloud Architecture Best Practices Explain the best practices for designing a secure, scalable, and cost-effective cloud architecture in AWS/GCP/Azure. 
+Provide examples of how these best practices can be applied in real-world scenarios. 

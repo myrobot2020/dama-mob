@@ -1,0 +1,39 @@
+{
+  "sutta_id": "2.4.2",
+  "sutta_name_en": "Parents",
+  "sutta_name_pali": "Matapitu Sutta",
+  "sc_id": "an2.33",
+  "sc_url": "https://suttacentral.net/an2.33/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin",
+  "aud_file": "007_Anguttara Nikaya Book 2B 2310 - 244 by Bhante Hye Dhammavuddho Mahathera.mp3",
+  "aud_start_s": 861.74,
+  "aud_end_s": 1031.74,
+  "chain": {
+    "items": [
+      "mother",
+      "father"
+    ],
+    "count": 2,
+    "is_ordered": false,
+    "category": "persons beyond repayment"
+  },
+  "alignment": {
+    "rubric_version": "align_v4",
+    "scores_0_to_5": {
+      "source_ids_url": 5,
+      "text_to_source": 2,
+      "audio_segment": 5,
+      "commentary": 2,
+      "chain": 5,
+      "boundaries": 5
+    },
+    "total": 24,
+    "max_total": 30,
+    "needs_review": false,
+    "notes": "Auto-scored v4: sim_text_to_source=0.273, sim_commentary_chain=0.010, sim_commentary_kw=0.234, chain_supported=2/2"
+  },
+  "commentary_id": "cAN 2.4.2",
+  "sc_sutta": "33 “Mendicants, I say that these two individuals cannot easily be repaid. What two? Mother and father. You would not have done enough to repay your mother and father even if you were to carry your mother around on one shoulder and your father on the other, and if you lived like this for a hundred years, and if you were to anoint, massage, bathe, and rub them; and even if they were to defecate and urinate right there. Even if you were to establish your mother and father as supreme monarchs of this great earth, abounding in the seven treasures, you would still not have done enough to repay them. Why is that? Parents are very helpful to their children: they raise them, nurture them, and show them the world. But you have done enough, more than enough, to repay them if you encourage, settle, and ground unfaithful parents in faith, unethical parents in ethical conduct, stingy parents in generosity, or ignorant parents in wisdom.”",
+  "sutta": "The buddha said monks one can never repay two persons i declare what to mother and father even if one should carry about his mother on one shoulder and his father on the other and so doing should live a hundred years attain a hundred years and if he should support them anointing them with anguns that is fragrant oil or something eating bathing and rubbing their limbs and they meanwhile should even void their excrements upon him even so could he not repay his parents moreover monks if he should establish his parents in supreme authority in the absolute rule over this mighty earth abounding in the seven treasures not even thus could he repay his parents what is the cause of that monks parents do much for their children they bring them up they nourish them they introduce them to this world moreover monks who sow incites his unbelieving parents settles and establishes them in the faith buso incites his immoral parents settles and establishes them in morality also incites his stingy parents settles and establishes them in liberality who so incites his foolish parents settles and establishes them in wisdom such a one just by so doing does repay does more than repay what is due to his parents that's the end of the sutta",
+  "commentary": "so here the buddha is saying that if we should take care of our parents for 100 years taking good care of them bathing and massaging them etc carrying them about on your shoulder even for 100 years you still cannot pay back the debt of the parents or to your parents because when we are young if all of us try to recall we know on many occasions when we were young and helpless and we were sick many times we could have passed away if not for the great care that our parents uh showered on us especially our mother all of us we know that the mother usually has takes more care of the children personally and then the father that's why in the indian tradition they always talk about mata p2 mother father whereas in the chinese tradition we always say father first and mother and so you see yeah if even if we were to take good care of our parents until they died it's difficult to repay their kindness so you can think of a person who is not feeling to his parents as somebody who does not take care of the parents all right and after the parent has passed away i've seen for myself and somebody who was not very very to the parent and after the parent passed away the remorse is very great you know on that person because the feeling that you have not done what you should have done to somebody whom you owe so much it weighs down heavily on your conscience and the last part the buddha said if we want to repay our parents there are four ways where we can repay them and repay them fully and even more than what is due one is if they do not have faith in the buddha dharma and sangha you bring them to listen to the teachings of the buddha boy you lend them tapes to listen etc and so that they have faith in the buddha dharma and sangha then you have one there is one way you have repaid your parents the second one if they do not know how to keep the precepts they don't know about sila you teach them to keep the five precepts uh that's another way you repay them so that they are established in sila the third way if they are stingy they don't know how to do dhana offerings then you teach them to like to do charity to be generous that's a third way the fourth one if they do not have wisdom and you teach them the dhamma or you get them to listen to cassettes etc of the buddha's teachings so that they understand and then their wisdom grows these are the four ways that any one of them or all of them we can use to pay our parents kindness why are these four ways important because you bring their parents into the right path to the right path by having any one of these four if they are well established in any one of these four things faith in the buddha dharma sangha keeping the sila precepts third one being generous liking to do uh dhana offerings and the fourth one is having wisdom then at least they would not fall into the warfare planes in the next life and if they are well established especially like in wisdom they might never ever fall into the woeful planes again and slowly get out of samsara now the next suta is",
+  "valid": true
+}

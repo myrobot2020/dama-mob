@@ -1,0 +1,3435 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1631.155375,
+  "segments": [
+    {
+      "start": 1.58,
+      "end": 5.58,
+      "text": "An exultant has six point six point fifty nine."
+    },
+    {
+      "start": 5.58,
+      "end": 9.58,
+      "text": "Once when the exalted one was staying in the brick hall at Nadiqa,"
+    },
+    {
+      "start": 9.58,
+      "end": 15.58,
+      "text": "a householder, a wood seller visited him, saluted and sat down at one side."
+    },
+    {
+      "start": 15.58,
+      "end": 17.58,
+      "text": "So seated the exalted one said to him,"
+    },
+    {
+      "start": 17.58,
+      "end": 21.58,
+      "text": "maybe householder, arms are given by your family."
+    },
+    {
+      "start": 21.58,
+      "end": 26.58,
+      "text": "Oh yes Lord, and in this way too, such monks as a forest monks,"
+    },
+    {
+      "start": 26.58,
+      "end": 29.58,
+      "text": "arms men, that means they are beggar monks,"
+    },
+    {
+      "start": 29.58,
+      "end": 34.58,
+      "text": "rag wearers, arahants, or men one to the arahants way."
+    },
+    {
+      "start": 34.58,
+      "end": 38.58,
+      "text": "To them Lord, arms are given by my family."
+    },
+    {
+      "start": 38.58,
+      "end": 40.58,
+      "text": "And the exalted one said,"
+    },
+    {
+      "start": 40.58,
+      "end": 44.58,
+      "text": "but surely householder, it's a hard thing for you,"
+    },
+    {
+      "start": 44.58,
+      "end": 46.58,
+      "text": "a layman, and crossed in pleasures,"
+    },
+    {
+      "start": 46.58,
+      "end": 48.58,
+      "text": "encumbered with children,"
+    },
+    {
+      "start": 48.58,
+      "end": 50.58,
+      "text": "perfumed with carcy sandalwood,"
+    },
+    {
+      "start": 50.58,
+      "end": 53.58,
+      "text": "decked with flowers and scented oils,"
+    },
+    {
+      "start": 53.58,
+      "end": 55.58,
+      "text": "merry with silver and gold,"
+    },
+    {
+      "start": 55.58,
+      "end": 57.58,
+      "text": "to tell which are arahants,"
+    },
+    {
+      "start": 57.58,
+      "end": 61.58,
+      "text": "and which have won to the arahants way."
+    },
+    {
+      "start": 61.58,
+      "end": 65.58,
+      "text": "If a forest-gone monk, householder, be puffed up,"
+    },
+    {
+      "start": 65.58,
+      "end": 68.58,
+      "text": "proud, excitable, a multi-specifier,"
+    },
+    {
+      "start": 68.58,
+      "end": 71.58,
+      "text": "forgetful of mindfulness,"
+    },
+    {
+      "start": 71.58,
+      "end": 74.58,
+      "text": "not self-possessed, nor composed,"
+    },
+    {
+      "start": 74.58,
+      "end": 78.58,
+      "text": "a scattered brain, uncontrolled in their senses,"
+    },
+    {
+      "start": 78.58,
+      "end": 81.58,
+      "text": "he on that count is blame worthy."
+    },
+    {
+      "start": 81.58,
+      "end": 84.58,
+      "text": "If he be not puffed up, etc.,"
+    },
+    {
+      "start": 84.58,
+      "end": 87.58,
+      "text": "but upright in mindfulness, self-possessed,"
+    },
+    {
+      "start": 87.58,
+      "end": 91.58,
+      "text": "composed, one-pointed, controlled in faculties,"
+    },
+    {
+      "start": 91.58,
+      "end": 94.58,
+      "text": "he on that account is praise worthy."
+    },
+    {
+      "start": 94.58,
+      "end": 97.58,
+      "text": "So too of the monk dwelling on the village outskirts,"
+    },
+    {
+      "start": 97.58,
+      "end": 101.58,
+      "text": "the arms men, the beggars monk, the rag wearer,"
+    },
+    {
+      "start": 101.58,
+      "end": 104.58,
+      "text": "the wearer of the rope given by the householder."
+    },
+    {
+      "start": 104.58,
+      "end": 108.58,
+      "text": "If they be puffed up, uncontrolled in their senses,"
+    },
+    {
+      "start": 108.58,
+      "end": 110.58,
+      "text": "on that account they are blame worthy."
+    },
+    {
+      "start": 110.58,
+      "end": 112.58,
+      "text": "But if, on the contrary, they are,"
+    },
+    {
+      "start": 112.58,
+      "end": 114.58,
+      "text": "then they are praise worthy."
+    },
+    {
+      "start": 114.58,
+      "end": 117.58,
+      "text": "Nevertheless, householder, give arms to the sangha."
+    },
+    {
+      "start": 117.58,
+      "end": 121.58,
+      "text": "As you do so, your heart will become tranquil,"
+    },
+    {
+      "start": 121.58,
+      "end": 123.58,
+      "text": "and tranquil in heart,"
+    },
+    {
+      "start": 123.58,
+      "end": 125.58,
+      "text": "you will, on the breaking up of the body,"
+    },
+    {
+      "start": 125.58,
+      "end": 127.58,
+      "text": "after death, arise in the good way,"
+    },
+    {
+      "start": 127.58,
+      "end": 130.58,
+      "text": "the heaven world, and he replied,"
+    },
+    {
+      "start": 130.58,
+      "end": 132.58,
+      "text": "I, Lord, henceforth from today,"
+    },
+    {
+      "start": 132.58,
+      "end": 134.58,
+      "text": "will give arms to the sangha."
+    },
+    {
+      "start": 134.58,
+      "end": 136.58,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 136.58,
+      "end": 139.58,
+      "text": "You see this man, he says that his family,"
+    },
+    {
+      "start": 139.58,
+      "end": 143.58,
+      "text": "gives arms food to monks who are arahants,"
+    },
+    {
+      "start": 143.58,
+      "end": 147.58,
+      "text": "who are forest monks, who are rag wearers, etc."
+    },
+    {
+      "start": 147.58,
+      "end": 149.58,
+      "text": "But the Buddha said, as a layman,"
+    },
+    {
+      "start": 149.58,
+      "end": 153.58,
+      "text": "it's very hard for you to tell who are arahants,"
+    },
+    {
+      "start": 153.58,
+      "end": 156.58,
+      "text": "and who have won to the arahants' way."
+    },
+    {
+      "start": 156.58,
+      "end": 162.58,
+      "text": "And the Buddha said, the most sensible thing to see"
+    },
+    {
+      "start": 162.58,
+      "end": 166.58,
+      "text": "is whether that monk is unmindful,"
+    },
+    {
+      "start": 166.58,
+      "end": 168.58,
+      "text": "or whether he's mindful,"
+    },
+    {
+      "start": 168.58,
+      "end": 170.58,
+      "text": "whether he's composed or not composed,"
+    },
+    {
+      "start": 170.58,
+      "end": 173.58,
+      "text": "whether his control is in his senses"
+    },
+    {
+      "start": 173.58,
+      "end": 175.58,
+      "text": "or not control in his senses."
+    },
+    {
+      "start": 175.58,
+      "end": 177.58,
+      "text": "But nevertheless, the Buddha said,"
+    },
+    {
+      "start": 177.58,
+      "end": 179.58,
+      "text": "give arms to the sangha as a whole."
+    },
+    {
+      "start": 179.58,
+      "end": 182.58,
+      "text": "Then you will walk the good way,"
+    },
+    {
+      "start": 182.58,
+      "end": 185.58,
+      "text": "and have a good rebirth."
+    },
+    {
+      "start": 185.58,
+      "end": 188.58,
+      "text": "Now, in one of the suttas, the Buddha said,"
+    },
+    {
+      "start": 188.58,
+      "end": 192.58,
+      "text": "it's a duty of laypersons to serve the sangha."
+    },
+    {
+      "start": 192.58,
+      "end": 194.58,
+      "text": "And in another sutta, the Buddha said,"
+    },
+    {
+      "start": 194.58,
+      "end": 199.58,
+      "text": "in the future, there would be those who wear the yellow robe,"
+    },
+    {
+      "start": 199.58,
+      "end": 201.58,
+      "text": "who do not practice well."
+    },
+    {
+      "start": 201.58,
+      "end": 206.58,
+      "text": "But even then, if you give arms to the sangha as a whole,"
+    },
+    {
+      "start": 206.58,
+      "end": 208.58,
+      "text": "you are doing your duty,"
+    },
+    {
+      "start": 208.58,
+      "end": 211.58,
+      "text": "and you help to preserve the sangha."
+    },
+    {
+      "start": 211.58,
+      "end": 214.58,
+      "text": "That means the lineage of the sangha is not broken."
+    },
+    {
+      "start": 214.58,
+      "end": 219.58,
+      "text": "And then, even though they are not good monks at the moment,"
+    },
+    {
+      "start": 219.58,
+      "end": 224.58,
+      "text": "they are not good yet because the sangha is not broken."
+    },
+    {
+      "start": 224.58,
+      "end": 227.58,
+      "text": "The line of the sangha is not broken."
+    },
+    {
+      "start": 227.58,
+      "end": 230.58,
+      "text": "Then in the future, there still can be arahants."
+    },
+    {
+      "start": 230.58,
+      "end": 236.58,
+      "text": "But if laypersons stop supporting monks"
+    },
+    {
+      "start": 236.58,
+      "end": 239.58,
+      "text": "because they are not good practicing monks,"
+    },
+    {
+      "start": 239.58,
+      "end": 241.58,
+      "text": "then the sangha could be broken."
+    },
+    {
+      "start": 241.58,
+      "end": 246.34,
+      "text": "And then, in the future, there would be no more monks."
+    },
+    {
+      "start": 246.34,
+      "end": 251.34,
+      "text": "The next sutta, which is quite a good sutta, is 6.660."
+    },
+    {
+      "start": 251.34,
+      "end": 253.34,
+      "text": "Once, when the exalted one,"
+    },
+    {
+      "start": 253.34,
+      "end": 257.34,
+      "text": "dwelt near Benares in the Deer Pang and Isipatana,"
+    },
+    {
+      "start": 257.34,
+      "end": 260.34,
+      "text": "a number of elders, the eras,"
+    },
+    {
+      "start": 260.34,
+      "end": 263.34,
+      "text": "who had returned from arms gathering and eaten,"
+    },
+    {
+      "start": 263.34,
+      "end": 265.34,
+      "text": "sat together in the round hall"
+    },
+    {
+      "start": 265.34,
+      "end": 268.34,
+      "text": "and talked a talk on the higher dhamma."
+    },
+    {
+      "start": 268.34,
+      "end": 270.34,
+      "text": "Now, from time to time, the venerable Chitta,"
+    },
+    {
+      "start": 270.34,
+      "end": 273.34,
+      "text": "Hati Sariputta, broke in on their talk,"
+    },
+    {
+      "start": 273.34,
+      "end": 276.34,
+      "text": "and the venerable Mahakotita said to him,"
+    },
+    {
+      "start": 276.34,
+      "end": 279.34,
+      "text": "Let not the venerable Chitta, Hati Sariputta,"
+    },
+    {
+      "start": 279.34,
+      "end": 283.34,
+      "text": "constantly interrupt the elders' talk on the higher dhamma."
+    },
+    {
+      "start": 283.34,
+      "end": 286.34,
+      "text": "The venerable Chitta should wait until the talk is over."
+    },
+    {
+      "start": 286.34,
+      "end": 288.34,
+      "text": "And when he had thus spoken,"
+    },
+    {
+      "start": 288.34,
+      "end": 290.34,
+      "text": "Chitta's friend said,"
+    },
+    {
+      "start": 290.34,
+      "end": 293.34,
+      "text": "The venerable Mahakotita should not censure"
+    },
+    {
+      "start": 293.34,
+      "end": 295.34,
+      "text": "the venerable Chitta, Hati Sariputta."
+    },
+    {
+      "start": 295.34,
+      "end": 297.34,
+      "text": "A wise man is the venerable Chitta"
+    },
+    {
+      "start": 297.34,
+      "end": 301.34,
+      "text": "and able to talk to the elders on the higher dhamma."
+    },
+    {
+      "start": 301.34,
+      "end": 304.34,
+      "text": "And the venerable Mahakotita replied,"
+    },
+    {
+      "start": 304.34,
+      "end": 306.34,
+      "text": "It's a hard thing, sirs,"
+    },
+    {
+      "start": 306.34,
+      "end": 309.34,
+      "text": "for those who know not another person's ways of thought."
+    },
+    {
+      "start": 309.34,
+      "end": 312.34,
+      "text": "Consider, sirs, a person who,"
+    },
+    {
+      "start": 312.34,
+      "end": 314.34,
+      "text": "so long as he lives near the master"
+    },
+    {
+      "start": 314.34,
+      "end": 317.34,
+      "text": "or a fellow teacher in the holy life,"
+    },
+    {
+      "start": 317.34,
+      "end": 319.34,
+      "text": "is the most humble of the humble,"
+    },
+    {
+      "start": 319.34,
+      "end": 321.34,
+      "text": "the meekest of the meek,"
+    },
+    {
+      "start": 321.34,
+      "end": 323.34,
+      "text": "the quietest of the quiet,"
+    },
+    {
+      "start": 323.34,
+      "end": 325.34,
+      "text": "and who, when he leaves the master"
+    },
+    {
+      "start": 325.34,
+      "end": 327.34,
+      "text": "or his fellow teachers,"
+    },
+    {
+      "start": 327.34,
+      "end": 330.34,
+      "text": "keeps company with monks, nuns, lay disciples,"
+    },
+    {
+      "start": 330.34,
+      "end": 333.34,
+      "text": "men and women, rajas, their ministers,"
+    },
+    {
+      "start": 333.34,
+      "end": 335.34,
+      "text": "call setters,"
+    },
+    {
+      "start": 335.34,
+      "end": 337.34,
+      "text": "that means external ascetic leaders,"
+    },
+    {
+      "start": 337.34,
+      "end": 339.34,
+      "text": "or their disciples,"
+    },
+    {
+      "start": 339.34,
+      "end": 342.34,
+      "text": "living in company, unhampered, rude,"
+    },
+    {
+      "start": 342.34,
+      "end": 344.34,
+      "text": "given over to gossip,"
+    },
+    {
+      "start": 344.34,
+      "end": 346.34,
+      "text": "passion corrupts his heart,"
+    },
+    {
+      "start": 346.34,
+      "end": 348.34,
+      "text": "and with his heart corrupted by passion,"
+    },
+    {
+      "start": 348.34,
+      "end": 350.34,
+      "text": "he disavows the training"
+    },
+    {
+      "start": 350.34,
+      "end": 352.34,
+      "text": "and returns to the lower life."
+    },
+    {
+      "start": 352.34,
+      "end": 354.34,
+      "text": "Suppose, sirs, an ox,"
+    },
+    {
+      "start": 354.34,
+      "end": 356.34,
+      "text": "a meadow browser,"
+    },
+    {
+      "start": 356.34,
+      "end": 358.34,
+      "text": "were kept tied by a rope"
+    },
+    {
+      "start": 358.34,
+      "end": 360.34,
+      "text": "in a cow shed."
+    },
+    {
+      "start": 360.34,
+      "end": 362.34,
+      "text": "Would he say rightly, who should say,"
+    },
+    {
+      "start": 362.34,
+      "end": 365.34,
+      "text": "never now will that meadow browser"
+    },
+    {
+      "start": 365.34,
+      "end": 367.34,
+      "text": "venture again to a meadow?"
+    },
+    {
+      "start": 367.34,
+      "end": 369.34,
+      "text": "And Chita's friend said,"
+    },
+    {
+      "start": 369.34,
+      "end": 372.34,
+      "text": "No indeed, sir, such a thing does not happen,"
+    },
+    {
+      "start": 372.34,
+      "end": 375.34,
+      "text": "since that ox used to browsing in meadows"
+    },
+    {
+      "start": 375.34,
+      "end": 377.34,
+      "text": "would, on snapping its rope,"
+    },
+    {
+      "start": 377.34,
+      "end": 379.34,
+      "text": "or breaking out of the cow shed,"
+    },
+    {
+      "start": 379.34,
+      "end": 381.34,
+      "text": "venture down to the meadow again."
+    },
+    {
+      "start": 381.34,
+      "end": 384.34,
+      "text": "Venerable Mahakotita said,"
+    },
+    {
+      "start": 384.34,
+      "end": 386.34,
+      "text": "even so, sirs, where a person,"
+    },
+    {
+      "start": 386.34,
+      "end": 389.34,
+      "text": "so long as he is near the master,"
+    },
+    {
+      "start": 389.34,
+      "end": 391.34,
+      "text": "or a fellow teacher,"
+    },
+    {
+      "start": 391.34,
+      "end": 393.34,
+      "text": "is the most humble of the humble,"
+    },
+    {
+      "start": 393.34,
+      "end": 396.34,
+      "text": "meekest of the meek, quietest of the quiet,"
+    },
+    {
+      "start": 396.34,
+      "end": 398.34,
+      "text": "but who, on leaving the master,"
+    },
+    {
+      "start": 398.34,
+      "end": 400.34,
+      "text": "or his fellow teachers,"
+    },
+    {
+      "start": 400.34,
+      "end": 404.34,
+      "text": "keeps company with monks, nuns, lay disciples, etc."
+    },
+    {
+      "start": 404.34,
+      "end": 406.34,
+      "text": "Passion corrupts his heart,"
+    },
+    {
+      "start": 406.34,
+      "end": 408.34,
+      "text": "and he returns to the lower life."
+    },
+    {
+      "start": 408.34,
+      "end": 410.34,
+      "text": "Consider again a person"
+    },
+    {
+      "start": 410.34,
+      "end": 413.34,
+      "text": "who, aloof from sensual desires,"
+    },
+    {
+      "start": 413.34,
+      "end": 416.34,
+      "text": "enters and abides in the first jhana,"
+    },
+    {
+      "start": 416.34,
+      "end": 419.34,
+      "text": "thinking, I've won to the first jhana,"
+    },
+    {
+      "start": 419.34,
+      "end": 421.34,
+      "text": "he keeps company with monks, nuns,"
+    },
+    {
+      "start": 421.34,
+      "end": 423.34,
+      "text": "lay disciples, etc.,"
+    },
+    {
+      "start": 423.34,
+      "end": 425.34,
+      "text": "and returns to the lower life."
+    },
+    {
+      "start": 425.34,
+      "end": 427.34,
+      "text": "Suppose, sirs, the rain-deva"
+    },
+    {
+      "start": 427.34,
+      "end": 430.34,
+      "text": "rains heavy rains at the four crossroads,"
+    },
+    {
+      "start": 430.34,
+      "end": 433.34,
+      "text": "lays the dust, and makes mud."
+    },
+    {
+      "start": 433.34,
+      "end": 436.34,
+      "text": "Would he say rightly, who should say,"
+    },
+    {
+      "start": 436.34,
+      "end": 438.34,
+      "text": "never now will dust again appear"
+    },
+    {
+      "start": 438.34,
+      "end": 440.34,
+      "text": "at these four crossroads?"
+    },
+    {
+      "start": 440.34,
+      "end": 442.34,
+      "text": "No indeed, sir,"
+    },
+    {
+      "start": 442.34,
+      "end": 444.34,
+      "text": "since along those four crossroads,"
+    },
+    {
+      "start": 444.34,
+      "end": 447.34,
+      "text": "men, ox, and cows might pass,"
+    },
+    {
+      "start": 447.34,
+      "end": 449.34,
+      "text": "or the wind and heat"
+    },
+    {
+      "start": 449.34,
+      "end": 451.34,
+      "text": "might dry up the moisture,"
+    },
+    {
+      "start": 451.34,
+      "end": 453.34,
+      "text": "and then the dust would appear again."
+    },
+    {
+      "start": 453.34,
+      "end": 455.34,
+      "text": "It is even so, sirs,"
+    },
+    {
+      "start": 455.34,
+      "end": 458.34,
+      "text": "when a person enters and abides in the first jhana,"
+    },
+    {
+      "start": 458.34,
+      "end": 460.34,
+      "text": "and keeps company with monks, nuns,"
+    },
+    {
+      "start": 460.34,
+      "end": 462.34,
+      "text": "lay disciples, etc.,"
+    },
+    {
+      "start": 462.34,
+      "end": 464.34,
+      "text": "he returns to the lower life."
+    },
+    {
+      "start": 464.34,
+      "end": 466.34,
+      "text": "Then consider a person"
+    },
+    {
+      "start": 466.34,
+      "end": 469.34,
+      "text": "who, suppressing, applied and sustained thought,"
+    },
+    {
+      "start": 469.34,
+      "end": 471.34,
+      "text": "enters and abides in the second jhana,"
+    },
+    {
+      "start": 471.34,
+      "end": 474.34,
+      "text": "thinking, I have one to the second jhana,"
+    },
+    {
+      "start": 474.34,
+      "end": 476.34,
+      "text": "he keeps company with monks, nuns,"
+    },
+    {
+      "start": 476.34,
+      "end": 478.34,
+      "text": "lay disciples, etc.,"
+    },
+    {
+      "start": 478.34,
+      "end": 480.34,
+      "text": "and he returns to the lower life."
+    },
+    {
+      "start": 480.34,
+      "end": 482.34,
+      "text": "Suppose, sirs, a great lake"
+    },
+    {
+      "start": 482.34,
+      "end": 484.34,
+      "text": "near some village or town,"
+    },
+    {
+      "start": 484.34,
+      "end": 486.34,
+      "text": "and the rain-deva were to rain"
+    },
+    {
+      "start": 486.34,
+      "end": 488.34,
+      "text": "great rains and cover the muscles"
+    },
+    {
+      "start": 488.34,
+      "end": 490.34,
+      "text": "and shells and sand and pebbles."
+    },
+    {
+      "start": 490.34,
+      "end": 493.34,
+      "text": "Would he say rightly, who should say,"
+    },
+    {
+      "start": 493.34,
+      "end": 495.34,
+      "text": "never now in this great lake"
+    },
+    {
+      "start": 495.34,
+      "end": 497.34,
+      "text": "shall the muscles, shells, sand,"
+    },
+    {
+      "start": 497.34,
+      "end": 499.34,
+      "text": "and pebbles appear again?"
+    },
+    {
+      "start": 499.34,
+      "end": 501.34,
+      "text": "And Chita's friend said,"
+    },
+    {
+      "start": 501.34,
+      "end": 504.34,
+      "text": "No indeed, sir, since men or ox and cows"
+    },
+    {
+      "start": 504.34,
+      "end": 506.34,
+      "text": "might come and drink from the great lake,"
+    },
+    {
+      "start": 506.34,
+      "end": 509.34,
+      "text": "or wind and heat dry up the moisture,"
+    },
+    {
+      "start": 509.34,
+      "end": 511.34,
+      "text": "and then the muscles, shells, sand,"
+    },
+    {
+      "start": 511.34,
+      "end": 513.34,
+      "text": "and pebbles would appear again."
+    },
+    {
+      "start": 513.34,
+      "end": 515.34,
+      "text": "And the memorable Chita,"
+    },
+    {
+      "start": 515.34,
+      "end": 517.34,
+      "text": "Mahakotita said,"
+    },
+    {
+      "start": 517.34,
+      "end": 519.34,
+      "text": "It is even so, sirs,"
+    },
+    {
+      "start": 519.34,
+      "end": 522.34,
+      "text": "where a person enters and abides in the second jhana,"
+    },
+    {
+      "start": 522.34,
+      "end": 524.34,
+      "text": "and keeps company with monks, nuns,"
+    },
+    {
+      "start": 524.34,
+      "end": 526.34,
+      "text": "lay disciples, etc.,"
+    },
+    {
+      "start": 526.34,
+      "end": 528.34,
+      "text": "he returns to the lower life."
+    },
+    {
+      "start": 528.34,
+      "end": 531.34,
+      "text": "And then the person, who with the fading away of delight,"
+    },
+    {
+      "start": 531.34,
+      "end": 534.34,
+      "text": "Pitya, enters and abides in the third jhana,"
+    },
+    {
+      "start": 534.34,
+      "end": 537.34,
+      "text": "thinking at one to the third jhana,"
+    },
+    {
+      "start": 537.34,
+      "end": 539.34,
+      "text": "he keeps company with monks, nuns,"
+    },
+    {
+      "start": 539.34,
+      "end": 541.34,
+      "text": "lay disciples, etc.,"
+    },
+    {
+      "start": 541.34,
+      "end": 543.34,
+      "text": "and returns to the lower life."
+    },
+    {
+      "start": 543.34,
+      "end": 545.34,
+      "text": "Suppose, sirs, last night's food,"
+    },
+    {
+      "start": 545.34,
+      "end": 548.34,
+      "text": "please not a man, filled with good food."
+    },
+    {
+      "start": 548.34,
+      "end": 550.34,
+      "text": "Would he say rightly, who should say,"
+    },
+    {
+      "start": 550.34,
+      "end": 553.34,
+      "text": "never now shall food please this man again?"
+    },
+    {
+      "start": 553.34,
+      "end": 556.34,
+      "text": "No indeed, sir, this is not the case."
+    },
+    {
+      "start": 556.34,
+      "end": 558.34,
+      "text": "As long as the strength from the good food"
+    },
+    {
+      "start": 558.34,
+      "end": 560.34,
+      "text": "remain in his body,"
+    },
+    {
+      "start": 560.34,
+      "end": 562.34,
+      "text": "other food shall not please that man."
+    },
+    {
+      "start": 562.34,
+      "end": 564.34,
+      "text": "But when that strength has gone,"
+    },
+    {
+      "start": 564.34,
+      "end": 566.34,
+      "text": "then shall food please him again."
+    },
+    {
+      "start": 566.34,
+      "end": 568.34,
+      "text": "And the memorable Mahakotita said,"
+    },
+    {
+      "start": 568.34,
+      "end": 570.34,
+      "text": "It is even so, sirs,"
+    },
+    {
+      "start": 570.34,
+      "end": 573.34,
+      "text": "where a person enters and abides in the third jhana,"
+    },
+    {
+      "start": 573.34,
+      "end": 575.34,
+      "text": "and keeps company with monks, nuns,"
+    },
+    {
+      "start": 575.34,
+      "end": 578.34,
+      "text": "lay disciples, etc., he returns to the lower life."
+    },
+    {
+      "start": 578.34,
+      "end": 581.34,
+      "text": "Consider the person, who putting away pleasure and pain,"
+    },
+    {
+      "start": 581.34,
+      "end": 583.34,
+      "text": "enters and abides in the fourth jhana,"
+    },
+    {
+      "start": 583.34,
+      "end": 585.34,
+      "text": "thinking at one to the fourth jhana,"
+    },
+    {
+      "start": 585.34,
+      "end": 587.34,
+      "text": "he keeps company with monks, nuns,"
+    },
+    {
+      "start": 587.34,
+      "end": 589.34,
+      "text": "lay disciples, etc.,"
+    },
+    {
+      "start": 589.34,
+      "end": 591.34,
+      "text": "and returns to the lower life."
+    },
+    {
+      "start": 591.34,
+      "end": 594.34,
+      "text": "Imagine, sirs, a pond in a mountain valley,"
+    },
+    {
+      "start": 594.34,
+      "end": 596.34,
+      "text": "windless, waveless."
+    },
+    {
+      "start": 596.34,
+      "end": 598.34,
+      "text": "Would he say rightly, who should say,"
+    },
+    {
+      "start": 598.34,
+      "end": 602.34,
+      "text": "never now on this pond shall waves appear again?"
+    },
+    {
+      "start": 602.34,
+      "end": 604.34,
+      "text": "And they said, No indeed, sir,"
+    },
+    {
+      "start": 604.34,
+      "end": 607.34,
+      "text": "since we're a squall to come very strongly from the east,"
+    },
+    {
+      "start": 607.34,
+      "end": 609.34,
+      "text": "it would bring waves to the pond."
+    },
+    {
+      "start": 609.34,
+      "end": 612.34,
+      "text": "So likewise, we're a squall to come from the west,"
+    },
+    {
+      "start": 612.34,
+      "end": 614.34,
+      "text": "the north or the south."
+    },
+    {
+      "start": 614.34,
+      "end": 616.34,
+      "text": "And Maribha Mahakutita said,"
+    },
+    {
+      "start": 616.34,
+      "end": 617.34,
+      "text": "It is even so, sirs,"
+    },
+    {
+      "start": 617.34,
+      "end": 620.34,
+      "text": "where a person enters and abides in the fourth jhana,"
+    },
+    {
+      "start": 620.34,
+      "end": 622.34,
+      "text": "and keeps company with monks, nuns,"
+    },
+    {
+      "start": 622.34,
+      "end": 624.34,
+      "text": "lay disciples, etc.,"
+    },
+    {
+      "start": 624.34,
+      "end": 626.34,
+      "text": "and he returns to the lower life."
+    },
+    {
+      "start": 626.34,
+      "end": 628.34,
+      "text": "And consider the person,"
+    },
+    {
+      "start": 628.34,
+      "end": 630.34,
+      "text": "who paying no attention to signs,"
+    },
+    {
+      "start": 630.34,
+      "end": 633.34,
+      "text": "enters and abides in the sinless mental concentration,"
+    },
+    {
+      "start": 633.34,
+      "end": 637.34,
+      "text": "thinking, I have one to the sinless mental concentration,"
+    },
+    {
+      "start": 637.34,
+      "end": 639.34,
+      "text": "he keeps company with monks, nuns,"
+    },
+    {
+      "start": 639.34,
+      "end": 640.34,
+      "text": "lay disciples, men and women,"
+    },
+    {
+      "start": 640.34,
+      "end": 642.34,
+      "text": "rajas, their ministers,"
+    },
+    {
+      "start": 642.34,
+      "end": 644.34,
+      "text": "their foresetters and their disciples."
+    },
+    {
+      "start": 644.34,
+      "end": 646.34,
+      "text": "Living in company, unhampered, rude,"
+    },
+    {
+      "start": 646.34,
+      "end": 648.34,
+      "text": "given over to gossip,"
+    },
+    {
+      "start": 648.34,
+      "end": 650.34,
+      "text": "passion corrupts his heart,"
+    },
+    {
+      "start": 650.34,
+      "end": 652.34,
+      "text": "and with his heart corrupted by passion,"
+    },
+    {
+      "start": 652.34,
+      "end": 655.34,
+      "text": "he disavows the training and returns to the lower life."
+    },
+    {
+      "start": 655.34,
+      "end": 657.34,
+      "text": "Supposed, a rajah or his minister,"
+    },
+    {
+      "start": 657.34,
+      "end": 659.34,
+      "text": "with the four hosts of the army,"
+    },
+    {
+      "start": 659.34,
+      "end": 661.34,
+      "text": "were to come up to the high road"
+    },
+    {
+      "start": 661.34,
+      "end": 663.34,
+      "text": "and pitch their camp for one night in the forest,"
+    },
+    {
+      "start": 663.34,
+      "end": 665.34,
+      "text": "and the sound of the cricket be drowned"
+    },
+    {
+      "start": 665.34,
+      "end": 668.34,
+      "text": "by the sound of elephant, horse, chariot and foot soldier,"
+    },
+    {
+      "start": 668.34,
+      "end": 671.34,
+      "text": "by the sound of taboor, drum and conch,"
+    },
+    {
+      "start": 671.34,
+      "end": 673.34,
+      "text": "would he say rightly, he should say,"
+    },
+    {
+      "start": 673.34,
+      "end": 675.34,
+      "text": "never now, in this forest,"
+    },
+    {
+      "start": 675.34,
+      "end": 677.34,
+      "text": "shall the cricket be heard again."
+    },
+    {
+      "start": 677.34,
+      "end": 679.34,
+      "text": "No indeed, sir, this is not the case,"
+    },
+    {
+      "start": 679.34,
+      "end": 681.34,
+      "text": "for when the rajah and his minister"
+    },
+    {
+      "start": 681.34,
+      "end": 683.34,
+      "text": "have left the forest,"
+    },
+    {
+      "start": 683.34,
+      "end": 685.34,
+      "text": "and the army have left the forest,"
+    },
+    {
+      "start": 685.34,
+      "end": 687.34,
+      "text": "the cricket shall be heard again."
+    },
+    {
+      "start": 687.34,
+      "end": 689.34,
+      "text": "It is even so, sirs, where a person,"
+    },
+    {
+      "start": 689.34,
+      "end": 691.34,
+      "text": "unattentive to signs,"
+    },
+    {
+      "start": 691.34,
+      "end": 694.34,
+      "text": "enters and abides in the sinless mental concentration,"
+    },
+    {
+      "start": 694.34,
+      "end": 696.34,
+      "text": "and thinking, I have one to that,"
+    },
+    {
+      "start": 696.34,
+      "end": 699.34,
+      "text": "keeps company with monks, nuns, lay disciples, etc.,"
+    },
+    {
+      "start": 699.34,
+      "end": 702.34,
+      "text": "living in company, unhappened, rude,"
+    },
+    {
+      "start": 702.34,
+      "end": 705.34,
+      "text": "given to gossip, passion corrupts his heart,"
+    },
+    {
+      "start": 705.34,
+      "end": 707.34,
+      "text": "and he returns to the lower life."
+    },
+    {
+      "start": 708.34,
+      "end": 712.34,
+      "text": "And later, the venerable Chitta Hathi Sariputta"
+    },
+    {
+      "start": 712.34,
+      "end": 715.34,
+      "text": "disavowed the training and returned to the lower life."
+    },
+    {
+      "start": 715.34,
+      "end": 718.34,
+      "text": "Then Chitta's friends went to the venerable Mahakotita"
+    },
+    {
+      "start": 718.34,
+      "end": 721.34,
+      "text": "and said, did the venerable Mahakotita"
+    },
+    {
+      "start": 721.34,
+      "end": 723.34,
+      "text": "discover Chitta Hathi Sariputta"
+    },
+    {
+      "start": 723.34,
+      "end": 727.34,
+      "text": "by mind encompassing mind concerning the thought?"
+    },
+    {
+      "start": 727.34,
+      "end": 730.34,
+      "text": "This and that state of attainment has Chitta one to,"
+    },
+    {
+      "start": 730.34,
+      "end": 732.34,
+      "text": "but he will give up the training"
+    },
+    {
+      "start": 732.34,
+      "end": 734.34,
+      "text": "and return to the lower life."
+    },
+    {
+      "start": 734.34,
+      "end": 736.34,
+      "text": "Or did Devas tell him this?"
+    },
+    {
+      "start": 736.34,
+      "end": 740.34,
+      "text": "Chitta Hathi Sariputta, sir, has one this and that,"
+    },
+    {
+      "start": 740.34,
+      "end": 742.34,
+      "text": "but he will return to the lower life."
+    },
+    {
+      "start": 743.34,
+      "end": 745.34,
+      "text": "And the venerable Mahakotita said,"
+    },
+    {
+      "start": 745.34,
+      "end": 749.34,
+      "text": "Reven, sirs, I discovered it by mind encompassing mind,"
+    },
+    {
+      "start": 749.34,
+      "end": 751.34,
+      "text": "but Devas also told me,"
+    },
+    {
+      "start": 751.34,
+      "end": 753.34,
+      "text": "then the venerable Chitta's friends"
+    },
+    {
+      "start": 753.34,
+      "end": 755.34,
+      "text": "approached the exalted one,"
+    },
+    {
+      "start": 755.34,
+      "end": 757.34,
+      "text": "saluted him and sat down at one side,"
+    },
+    {
+      "start": 757.34,
+      "end": 759.34,
+      "text": "and so seated they said to him,"
+    },
+    {
+      "start": 759.34,
+      "end": 761.34,
+      "text": "Lord, Chitta Hathi Sariputta"
+    },
+    {
+      "start": 761.34,
+      "end": 764.34,
+      "text": "has one to this and that state of attainment."
+    },
+    {
+      "start": 764.34,
+      "end": 767.34,
+      "text": "Yet, he has disavowed the training"
+    },
+    {
+      "start": 767.34,
+      "end": 769.34,
+      "text": "and returned to the lower life."
+    },
+    {
+      "start": 769.34,
+      "end": 770.34,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 770.34,
+      "end": 772.34,
+      "text": "Chitta, Chitta monks,"
+    },
+    {
+      "start": 772.34,
+      "end": 774.34,
+      "text": "world before long,"
+    },
+    {
+      "start": 774.34,
+      "end": 776.34,
+      "text": "think of renouncing the worldly life."
+    },
+    {
+      "start": 777.34,
+      "end": 779.34,
+      "text": "And not long after,"
+    },
+    {
+      "start": 779.34,
+      "end": 782.34,
+      "text": "Chitta Hathi Sariputta had his hair and beard shaped of"
+    },
+    {
+      "start": 782.34,
+      "end": 784.34,
+      "text": "dawn, the yellow robe,"
+    },
+    {
+      "start": 784.34,
+      "end": 786.34,
+      "text": "and went forth from the home to the homeless life."
+    },
+    {
+      "start": 786.34,
+      "end": 787.34,
+      "text": "And the venerable Chitta,"
+    },
+    {
+      "start": 787.34,
+      "end": 789.34,
+      "text": "Hathi Sariputta, living alone,"
+    },
+    {
+      "start": 789.34,
+      "end": 791.34,
+      "text": "secluded, earnest, ardent, resolved,"
+    },
+    {
+      "start": 791.34,
+      "end": 793.34,
+      "text": "not long after,"
+    },
+    {
+      "start": 793.34,
+      "end": 796.34,
+      "text": "entered and abode in that aim above all of the holy life,"
+    },
+    {
+      "start": 796.34,
+      "end": 799.34,
+      "text": "realizing it here and now by his own knowledge"
+    },
+    {
+      "start": 799.34,
+      "end": 802.34,
+      "text": "for the sake of which clansmen rightly go forth"
+    },
+    {
+      "start": 802.34,
+      "end": 804.34,
+      "text": "from the home to the homeless life."
+    },
+    {
+      "start": 804.34,
+      "end": 806.34,
+      "text": "And he knew birth is destroyed,"
+    },
+    {
+      "start": 806.34,
+      "end": 807.34,
+      "text": "the holy life is lived,"
+    },
+    {
+      "start": 807.34,
+      "end": 809.34,
+      "text": "done is what is, was to be done."
+    },
+    {
+      "start": 809.34,
+      "end": 811.34,
+      "text": "There is no more of this to come."
+    },
+    {
+      "start": 811.34,
+      "end": 812.34,
+      "text": "And the venerable Chitta,"
+    },
+    {
+      "start": 812.34,
+      "end": 816.34,
+      "text": "Hathi Sariputta was numbered among the Arahants."
+    },
+    {
+      "start": 816.34,
+      "end": 818.34,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 818.34,
+      "end": 820.34,
+      "text": "This Sutta is quite interesting."
+    },
+    {
+      "start": 820.34,
+      "end": 822.34,
+      "text": "It shows that a person like the venerable Chitta,"
+    },
+    {
+      "start": 822.34,
+      "end": 826.34,
+      "text": "even though he has attained the janas,"
+    },
+    {
+      "start": 826.34,
+      "end": 829.34,
+      "text": "attained even perhaps even this"
+    },
+    {
+      "start": 829.34,
+      "end": 831.34,
+      "text": "sinless concentration,"
+    },
+    {
+      "start": 831.34,
+      "end": 833.34,
+      "text": "a very still state of mind,"
+    },
+    {
+      "start": 833.34,
+      "end": 836.34,
+      "text": "and yet he could disrobe"
+    },
+    {
+      "start": 836.34,
+      "end": 840.34,
+      "text": "because he mixed too much with other people,"
+    },
+    {
+      "start": 840.34,
+      "end": 841.34,
+      "text": "he talked too much,"
+    },
+    {
+      "start": 841.34,
+      "end": 843.34,
+      "text": "and then his heart was disturbed"
+    },
+    {
+      "start": 843.34,
+      "end": 845.34,
+      "text": "and his mind was disturbed"
+    },
+    {
+      "start": 845.34,
+      "end": 848.34,
+      "text": "and he returned to the lay life."
+    },
+    {
+      "start": 848.34,
+      "end": 852.34,
+      "text": "But the venerable Mahakotita,"
+    },
+    {
+      "start": 852.34,
+      "end": 853.34,
+      "text": "this Arahant,"
+    },
+    {
+      "start": 853.34,
+      "end": 854.34,
+      "text": "could read his mind,"
+    },
+    {
+      "start": 854.34,
+      "end": 857.34,
+      "text": "that's why this venerable Mahakotita"
+    },
+    {
+      "start": 857.34,
+      "end": 859.34,
+      "text": "gave this warning."
+    },
+    {
+      "start": 859.34,
+      "end": 860.34,
+      "text": "And true enough,"
+    },
+    {
+      "start": 860.34,
+      "end": 861.34,
+      "text": "the venerable Chitta disrobed."
+    },
+    {
+      "start": 861.34,
+      "end": 862.34,
+      "text": "But later the Buddha said,"
+    },
+    {
+      "start": 862.34,
+      "end": 864.34,
+      "text": "he will come back."
+    },
+    {
+      "start": 864.34,
+      "end": 866.34,
+      "text": "He will come back as a monk"
+    },
+    {
+      "start": 866.34,
+      "end": 867.34,
+      "text": "and the venerable Chitta"
+    },
+    {
+      "start": 867.34,
+      "end": 868.34,
+      "text": "did come back."
+    },
+    {
+      "start": 868.34,
+      "end": 871.34,
+      "text": "And after that he practiced"
+    },
+    {
+      "start": 871.34,
+      "end": 874.34,
+      "text": "and he attained the Arahant Hood."
+    },
+    {
+      "start": 874.34,
+      "end": 877.34,
+      "text": "This shows that a person"
+    },
+    {
+      "start": 877.34,
+      "end": 879.34,
+      "text": "who has wanted to jana"
+    },
+    {
+      "start": 879.34,
+      "end": 881.34,
+      "text": "can still disrobe."
+    },
+    {
+      "start": 881.34,
+      "end": 882.34,
+      "text": "And the point here is that"
+    },
+    {
+      "start": 882.34,
+      "end": 884.34,
+      "text": "seclusion or aloofness"
+    },
+    {
+      "start": 884.34,
+      "end": 887.34,
+      "text": "is very important for a monk."
+    },
+    {
+      "start": 887.34,
+      "end": 888.34,
+      "text": "Even if he stays in a monastery"
+    },
+    {
+      "start": 888.34,
+      "end": 889.34,
+      "text": "with other monks,"
+    },
+    {
+      "start": 889.34,
+      "end": 891.34,
+      "text": "he should try not to talk too much."
+    },
+    {
+      "start": 891.34,
+      "end": 894.34,
+      "text": "Otherwise he will lose his"
+    },
+    {
+      "start": 895.34,
+      "end": 899.34,
+      "text": "supernormal states like jana."
+    },
+    {
+      "start": 899.34,
+      "end": 901.34,
+      "text": "But you can see"
+    },
+    {
+      "start": 901.34,
+      "end": 903.34,
+      "text": "like a person like this Chitta"
+    },
+    {
+      "start": 903.34,
+      "end": 904.34,
+      "text": "because he has attained"
+    },
+    {
+      "start": 904.34,
+      "end": 906.34,
+      "text": "to such high states of bliss"
+    },
+    {
+      "start": 906.34,
+      "end": 907.34,
+      "text": "when he disrobed"
+    },
+    {
+      "start": 907.34,
+      "end": 909.34,
+      "text": "and he went back to lay life."
+    },
+    {
+      "start": 909.34,
+      "end": 911.34,
+      "text": "He could never be happy"
+    },
+    {
+      "start": 911.34,
+      "end": 913.34,
+      "text": "because the happiness from lay life"
+    },
+    {
+      "start": 913.34,
+      "end": 915.34,
+      "text": "is lower than the happiness"
+    },
+    {
+      "start": 915.34,
+      "end": 917.34,
+      "text": "of the jhanic bliss."
+    },
+    {
+      "start": 917.34,
+      "end": 919.34,
+      "text": "So it is quite natural for him"
+    },
+    {
+      "start": 919.34,
+      "end": 922.34,
+      "text": "who has already attained"
+    },
+    {
+      "start": 922.34,
+      "end": 925.34,
+      "text": "jhanic bliss to renounce"
+    },
+    {
+      "start": 925.34,
+      "end": 929.34,
+      "text": "and come back to robes again."
+    },
+    {
+      "start": 929.34,
+      "end": 934.17,
+      "text": "The next Chitta is 6.61."
+    },
+    {
+      "start": 934.17,
+      "end": 936.17,
+      "text": "Once when the exalted one"
+    },
+    {
+      "start": 936.17,
+      "end": 937.17,
+      "text": "dwelt near Benares"
+    },
+    {
+      "start": 937.17,
+      "end": 939.17,
+      "text": "in the dear palm at Isipathana,"
+    },
+    {
+      "start": 939.17,
+      "end": 941.17,
+      "text": "a number of elders who returned"
+    },
+    {
+      "start": 941.17,
+      "end": 943.17,
+      "text": "from arms gathering and eating"
+    },
+    {
+      "start": 943.17,
+      "end": 945.17,
+      "text": "sat together in the round hall"
+    },
+    {
+      "start": 945.17,
+      "end": 947.17,
+      "text": "and this talk by chance arose."
+    },
+    {
+      "start": 947.17,
+      "end": 950.17,
+      "text": "This was said by the exalted one"
+    },
+    {
+      "start": 950.17,
+      "end": 952.17,
+      "text": "in the way to the beyond"
+    },
+    {
+      "start": 952.17,
+      "end": 955.17,
+      "text": "in the questions of Metia."
+    },
+    {
+      "start": 955.17,
+      "end": 957.17,
+      "text": "Who knows both ends"
+    },
+    {
+      "start": 957.17,
+      "end": 959.17,
+      "text": "and does not cling to the middle?"
+    },
+    {
+      "start": 959.17,
+      "end": 961.17,
+      "text": "Him I call a great man."
+    },
+    {
+      "start": 961.17,
+      "end": 963.17,
+      "text": "He here has passed"
+    },
+    {
+      "start": 963.17,
+      "end": 966.17,
+      "text": "beyond the seamstress."
+    },
+    {
+      "start": 966.17,
+      "end": 967.17,
+      "text": "And they said,"
+    },
+    {
+      "start": 967.17,
+      "end": 969.17,
+      "text": "and what pray is the first end?"
+    },
+    {
+      "start": 969.17,
+      "end": 970.17,
+      "text": "What's the second?"
+    },
+    {
+      "start": 970.17,
+      "end": 971.17,
+      "text": "What's in the middle?"
+    },
+    {
+      "start": 971.17,
+      "end": 973.17,
+      "text": "And who's the seamstress?"
+    },
+    {
+      "start": 973.17,
+      "end": 975.17,
+      "text": "I'll just stop here to comment."
+    },
+    {
+      "start": 975.17,
+      "end": 978.17,
+      "text": "This passage that they quoted the Buddha"
+    },
+    {
+      "start": 978.17,
+      "end": 980.17,
+      "text": "is saying who knows both ends"
+    },
+    {
+      "start": 980.17,
+      "end": 982.17,
+      "text": "and does not cling to the middle."
+    },
+    {
+      "start": 982.17,
+      "end": 984.17,
+      "text": "Him I call a great man."
+    },
+    {
+      "start": 984.17,
+      "end": 987.17,
+      "text": "He here has passed beyond the seamstress."
+    },
+    {
+      "start": 987.17,
+      "end": 990.17,
+      "text": "This was said in the"
+    },
+    {
+      "start": 990.17,
+      "end": 993.17,
+      "text": "in a Sutta in the"
+    },
+    {
+      "start": 993.17,
+      "end": 995.17,
+      "text": "Sutta-Nipata."
+    },
+    {
+      "start": 995.17,
+      "end": 997.17,
+      "text": "In the Sutta-Nipata,"
+    },
+    {
+      "start": 997.17,
+      "end": 1000.17,
+      "text": "there's a Sutta where"
+    },
+    {
+      "start": 1000.17,
+      "end": 1005.17,
+      "text": "many Brahmins"
+    },
+    {
+      "start": 1005.17,
+      "end": 1007.17,
+      "text": "came to see the Buddha"
+    },
+    {
+      "start": 1007.17,
+      "end": 1010.17,
+      "text": "and asked questions, many questions."
+    },
+    {
+      "start": 1010.17,
+      "end": 1012.17,
+      "text": "And this was one of the things"
+    },
+    {
+      "start": 1012.17,
+      "end": 1014.17,
+      "text": "that the Buddha mentioned."
+    },
+    {
+      "start": 1014.17,
+      "end": 1016.17,
+      "text": "And so these elder monks,"
+    },
+    {
+      "start": 1016.17,
+      "end": 1018.17,
+      "text": "they asked this question."
+    },
+    {
+      "start": 1018.17,
+      "end": 1020.17,
+      "text": "They wanted somebody to explain"
+    },
+    {
+      "start": 1020.17,
+      "end": 1022.17,
+      "text": "what is the first end?"
+    },
+    {
+      "start": 1022.17,
+      "end": 1023.17,
+      "text": "What is the second?"
+    },
+    {
+      "start": 1023.17,
+      "end": 1025.17,
+      "text": "And what's in the middle?"
+    },
+    {
+      "start": 1025.17,
+      "end": 1027.17,
+      "text": "And who's the seamstress?"
+    },
+    {
+      "start": 1027.17,
+      "end": 1029.17,
+      "text": "Now after this had been said,"
+    },
+    {
+      "start": 1029.17,
+      "end": 1031.17,
+      "text": "one of the monks answered the elders"
+    },
+    {
+      "start": 1031.17,
+      "end": 1032.17,
+      "text": "and said,"
+    },
+    {
+      "start": 1032.17,
+      "end": 1034.17,
+      "text": "contact is the first end."
+    },
+    {
+      "start": 1034.17,
+      "end": 1036.17,
+      "text": "It's arising is the second."
+    },
+    {
+      "start": 1036.17,
+      "end": 1038.17,
+      "text": "And craving is in the middle."
+    },
+    {
+      "start": 1038.17,
+      "end": 1040.17,
+      "text": "And craving is the seamstress."
+    },
+    {
+      "start": 1040.17,
+      "end": 1042.17,
+      "text": "For craving shows one"
+    },
+    {
+      "start": 1042.17,
+      "end": 1044.17,
+      "text": "just to this ever becoming birth."
+    },
+    {
+      "start": 1044.17,
+      "end": 1046.17,
+      "text": "Indeed says to this extent,"
+    },
+    {
+      "start": 1046.17,
+      "end": 1048.17,
+      "text": "a monk knows the knowable,"
+    },
+    {
+      "start": 1048.17,
+      "end": 1050.17,
+      "text": "comprehends the comprehensible."
+    },
+    {
+      "start": 1050.17,
+      "end": 1052.17,
+      "text": "And knowing the knowable,"
+    },
+    {
+      "start": 1052.17,
+      "end": 1054.17,
+      "text": "comprehending the comprehensible,"
+    },
+    {
+      "start": 1054.17,
+      "end": 1056.17,
+      "text": "he makes an end of ill or dukkha"
+    },
+    {
+      "start": 1056.17,
+      "end": 1058.17,
+      "text": "here and now."
+    },
+    {
+      "start": 1058.17,
+      "end": 1059.17,
+      "text": "And when he had thus spoken,"
+    },
+    {
+      "start": 1059.17,
+      "end": 1060.17,
+      "text": "another monk said,"
+    },
+    {
+      "start": 1060.17,
+      "end": 1062.17,
+      "text": "the past is the first end,"
+    },
+    {
+      "start": 1062.17,
+      "end": 1064.17,
+      "text": "the future is the second,"
+    },
+    {
+      "start": 1064.17,
+      "end": 1066.17,
+      "text": "the future is in the middle."
+    },
+    {
+      "start": 1066.17,
+      "end": 1069.17,
+      "text": "And craving is the seamstress, etc."
+    },
+    {
+      "start": 1069.17,
+      "end": 1071.17,
+      "text": "And he makes an end of ill."
+    },
+    {
+      "start": 1071.17,
+      "end": 1072.17,
+      "text": "And another said,"
+    },
+    {
+      "start": 1072.17,
+      "end": 1074.17,
+      "text": "pleasure is the first end,"
+    },
+    {
+      "start": 1074.17,
+      "end": 1075.17,
+      "text": "pain is the second,"
+    },
+    {
+      "start": 1075.17,
+      "end": 1077.17,
+      "text": "indifference is in the middle."
+    },
+    {
+      "start": 1077.17,
+      "end": 1079.17,
+      "text": "And craving is the seamstress, etc."
+    },
+    {
+      "start": 1079.17,
+      "end": 1080.17,
+      "text": "as before."
+    },
+    {
+      "start": 1080.17,
+      "end": 1081.17,
+      "text": "And another said,"
+    },
+    {
+      "start": 1081.17,
+      "end": 1084.17,
+      "text": "name nama is the first end,"
+    },
+    {
+      "start": 1084.17,
+      "end": 1086.17,
+      "text": "form rupa is the second,"
+    },
+    {
+      "start": 1086.17,
+      "end": 1088.17,
+      "text": "consciousness is in the middle."
+    },
+    {
+      "start": 1088.17,
+      "end": 1090.17,
+      "text": "And craving is the seamstress."
+    },
+    {
+      "start": 1090.17,
+      "end": 1091.17,
+      "text": "And another said,"
+    },
+    {
+      "start": 1091.17,
+      "end": 1093.17,
+      "text": "one sixth sense organs"
+    },
+    {
+      "start": 1093.17,
+      "end": 1095.17,
+      "text": "the sixth outer objects are the second,"
+    },
+    {
+      "start": 1095.17,
+      "end": 1097.17,
+      "text": "consciousness is in the middle,"
+    },
+    {
+      "start": 1097.17,
+      "end": 1099.17,
+      "text": "and craving is the seamstress."
+    },
+    {
+      "start": 1099.17,
+      "end": 1100.17,
+      "text": "And another said,"
+    },
+    {
+      "start": 1100.17,
+      "end": 1102.17,
+      "text": "life's bundle is the first end,"
+    },
+    {
+      "start": 1102.17,
+      "end": 1104.17,
+      "text": "its arising is the second,"
+    },
+    {
+      "start": 1104.17,
+      "end": 1106.17,
+      "text": "its seizing is in the middle,"
+    },
+    {
+      "start": 1106.17,
+      "end": 1108.17,
+      "text": "and craving is the seamstress,"
+    },
+    {
+      "start": 1108.17,
+      "end": 1111.17,
+      "text": "for craving shows one just to this ever becoming birth."
+    },
+    {
+      "start": 1111.17,
+      "end": 1113.17,
+      "text": "Indeed says to this extent,"
+    },
+    {
+      "start": 1113.17,
+      "end": 1114.17,
+      "text": "a monk knows the knowable,"
+    },
+    {
+      "start": 1114.17,
+      "end": 1116.17,
+      "text": "comprehends the comprehensible."
+    },
+    {
+      "start": 1116.17,
+      "end": 1117.17,
+      "text": "And knowing the knowable,"
+    },
+    {
+      "start": 1117.17,
+      "end": 1119.17,
+      "text": "comprehending the comprehensible,"
+    },
+    {
+      "start": 1119.17,
+      "end": 1122.17,
+      "text": "he makes an end of dukkha here and now."
+    },
+    {
+      "start": 1122.17,
+      "end": 1124.17,
+      "text": "And when he had finished speaking,"
+    },
+    {
+      "start": 1124.17,
+      "end": 1126.17,
+      "text": "another monk addressed the elders and said,"
+    },
+    {
+      "start": 1126.17,
+      "end": 1128.17,
+      "text": "we have all reverences replied"
+    },
+    {
+      "start": 1128.17,
+      "end": 1130.17,
+      "text": "as the matter appeared to each one of us."
+    },
+    {
+      "start": 1130.17,
+      "end": 1133.17,
+      "text": "Let us go and visit the exalted one and tell him."
+    },
+    {
+      "start": 1133.17,
+      "end": 1135.17,
+      "text": "As the exalted one declares,"
+    },
+    {
+      "start": 1135.17,
+      "end": 1137.17,
+      "text": "so will we bear in mind."
+    },
+    {
+      "start": 1137.17,
+      "end": 1139.17,
+      "text": "Very well rejoined the elders,"
+    },
+    {
+      "start": 1139.17,
+      "end": 1141.17,
+      "text": "and they approached the exalted one,"
+    },
+    {
+      "start": 1141.17,
+      "end": 1143.17,
+      "text": "saluted and sat down at one side."
+    },
+    {
+      "start": 1143.17,
+      "end": 1146.17,
+      "text": "And so seated they told him all the words"
+    },
+    {
+      "start": 1146.17,
+      "end": 1148.17,
+      "text": "and talk that had passed between them,"
+    },
+    {
+      "start": 1148.17,
+      "end": 1151.17,
+      "text": "adding, Lord, who spoke best?"
+    },
+    {
+      "start": 1151.17,
+      "end": 1153.17,
+      "text": "Each one of you monks, in his own way,"
+    },
+    {
+      "start": 1153.17,
+      "end": 1154.17,
+      "text": "spoke well."
+    },
+    {
+      "start": 1154.17,
+      "end": 1156.17,
+      "text": "But as to what I spoke of"
+    },
+    {
+      "start": 1156.17,
+      "end": 1158.17,
+      "text": "in the way to the beyond,"
+    },
+    {
+      "start": 1158.17,
+      "end": 1159.17,
+      "text": "in Metia's questions,"
+    },
+    {
+      "start": 1159.17,
+      "end": 1160.17,
+      "text": "who knows both ends,"
+    },
+    {
+      "start": 1160.17,
+      "end": 1162.17,
+      "text": "and does not cling to the middle,"
+    },
+    {
+      "start": 1162.17,
+      "end": 1164.17,
+      "text": "him I call a great man,"
+    },
+    {
+      "start": 1164.17,
+      "end": 1166.17,
+      "text": "he here has passed beyond the seamstress."
+    },
+    {
+      "start": 1166.17,
+      "end": 1169.17,
+      "text": "Listen, pay good heed, I will speak."
+    },
+    {
+      "start": 1169.17,
+      "end": 1170.17,
+      "text": "Yes, Lord, they replied,"
+    },
+    {
+      "start": 1170.17,
+      "end": 1172.17,
+      "text": "and the exalted one said,"
+    },
+    {
+      "start": 1172.17,
+      "end": 1175.17,
+      "text": "verily, contact monks is the first end,"
+    },
+    {
+      "start": 1175.17,
+      "end": 1177.17,
+      "text": "its arising is the second,"
+    },
+    {
+      "start": 1177.17,
+      "end": 1179.17,
+      "text": "its seizing is in the middle,"
+    },
+    {
+      "start": 1179.17,
+      "end": 1181.17,
+      "text": "and craving is the seamstress,"
+    },
+    {
+      "start": 1181.17,
+      "end": 1183.17,
+      "text": "for craving soars a man"
+    },
+    {
+      "start": 1183.17,
+      "end": 1185.17,
+      "text": "just to this ever becoming birth."
+    },
+    {
+      "start": 1185.17,
+      "end": 1187.17,
+      "text": "Early monks, it is to this extent"
+    },
+    {
+      "start": 1187.17,
+      "end": 1189.17,
+      "text": "that the monk knows the noble,"
+    },
+    {
+      "start": 1189.17,
+      "end": 1191.17,
+      "text": "comprehends the comprehensible,"
+    },
+    {
+      "start": 1191.17,
+      "end": 1193.17,
+      "text": "and knowing the noble,"
+    },
+    {
+      "start": 1193.17,
+      "end": 1195.17,
+      "text": "comprehending the comprehensible,"
+    },
+    {
+      "start": 1195.17,
+      "end": 1197.17,
+      "text": "he makes an end of dukkha here and now."
+    },
+    {
+      "start": 1197.17,
+      "end": 1199.17,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 1199.17,
+      "end": 1203.17,
+      "text": "This Buddha said that all the answers"
+    },
+    {
+      "start": 1203.17,
+      "end": 1206.17,
+      "text": "given by the monks were very good,"
+    },
+    {
+      "start": 1206.17,
+      "end": 1209.17,
+      "text": "but even though all of them"
+    },
+    {
+      "start": 1209.17,
+      "end": 1210.17,
+      "text": "were very good,"
+    },
+    {
+      "start": 1210.17,
+      "end": 1212.17,
+      "text": "yet his meaning was just"
+    },
+    {
+      "start": 1212.17,
+      "end": 1215.17,
+      "text": "as the first monk had spoken."
+    },
+    {
+      "start": 1215.17,
+      "end": 1217.17,
+      "text": "And this is one of those suttas,"
+    },
+    {
+      "start": 1217.17,
+      "end": 1218.17,
+      "text": "when you read this,"
+    },
+    {
+      "start": 1218.17,
+      "end": 1220.17,
+      "text": "or you listen to it the first time,"
+    },
+    {
+      "start": 1220.17,
+      "end": 1222.17,
+      "text": "you find it very difficult to understand."
+    },
+    {
+      "start": 1222.17,
+      "end": 1223.17,
+      "text": "It's one of those suttas"
+    },
+    {
+      "start": 1223.17,
+      "end": 1224.17,
+      "text": "where you have to read it,"
+    },
+    {
+      "start": 1224.17,
+      "end": 1226.17,
+      "text": "and again, and think about it,"
+    },
+    {
+      "start": 1226.17,
+      "end": 1228.17,
+      "text": "think many times about it,"
+    },
+    {
+      "start": 1228.17,
+      "end": 1229.17,
+      "text": "and read and think about it,"
+    },
+    {
+      "start": 1229.17,
+      "end": 1231.17,
+      "text": "and slowly you'll find"
+    },
+    {
+      "start": 1231.17,
+      "end": 1233.17,
+      "text": "the answers are very interesting."
+    },
+    {
+      "start": 1233.17,
+      "end": 1235.77,
+      "text": "Another sutta."
+    },
+    {
+      "start": 1235.77,
+      "end": 1237.77,
+      "text": "I don't know whether I can finish."
+    },
+    {
+      "start": 1237.77,
+      "end": 1239.77,
+      "text": "Once, while the Exalted One"
+    },
+    {
+      "start": 1239.77,
+      "end": 1241.77,
+      "text": "walked a tour among the Kosalis"
+    },
+    {
+      "start": 1241.77,
+      "end": 1243.77,
+      "text": "with a great company of the Sanghas monks,"
+    },
+    {
+      "start": 1243.77,
+      "end": 1246.77,
+      "text": "he came to a Kosalan town called Danda Kapaka,"
+    },
+    {
+      "start": 1246.77,
+      "end": 1248.77,
+      "text": "and the Exalted One stepped down"
+    },
+    {
+      "start": 1248.77,
+      "end": 1250.77,
+      "text": "from the road and sat on a seat made ready"
+    },
+    {
+      "start": 1250.77,
+      "end": 1251.77,
+      "text": "at the foot of a tree,"
+    },
+    {
+      "start": 1251.77,
+      "end": 1253.77,
+      "text": "but the monks entered Danda Kapaka"
+    },
+    {
+      "start": 1253.77,
+      "end": 1255.77,
+      "text": "to seek a lodging."
+    },
+    {
+      "start": 1255.77,
+      "end": 1256.77,
+      "text": "Now the venerable Ananda,"
+    },
+    {
+      "start": 1256.77,
+      "end": 1257.77,
+      "text": "with a number of monks,"
+    },
+    {
+      "start": 1257.77,
+      "end": 1259.77,
+      "text": "went to the river Achiravati"
+    },
+    {
+      "start": 1259.77,
+      "end": 1260.77,
+      "text": "to bathe his limbs,"
+    },
+    {
+      "start": 1260.77,
+      "end": 1262.77,
+      "text": "and after he had bathed and had come out,"
+    },
+    {
+      "start": 1262.77,
+      "end": 1265.77,
+      "text": "he stood in one garment, drying his limbs."
+    },
+    {
+      "start": 1265.77,
+      "end": 1267.77,
+      "text": "Then the monk approached the venerable Ananda"
+    },
+    {
+      "start": 1267.77,
+      "end": 1268.77,
+      "text": "and said,"
+    },
+    {
+      "start": 1268.77,
+      "end": 1269.77,
+      "text": "Ananda, Reverend Sir,"
+    },
+    {
+      "start": 1269.77,
+      "end": 1271.77,
+      "text": "was it after concentrating his whole mind"
+    },
+    {
+      "start": 1271.77,
+      "end": 1274.77,
+      "text": "that Devadatta was declared by the Exalted One,"
+    },
+    {
+      "start": 1274.77,
+      "end": 1277.77,
+      "text": "gone we were held bound for a kappa,"
+    },
+    {
+      "start": 1277.77,
+      "end": 1280.77,
+      "text": "or an aeon, or a world cycle,"
+    },
+    {
+      "start": 1280.77,
+      "end": 1283.77,
+      "text": "unpardonable is Devadatta,"
+    },
+    {
+      "start": 1283.77,
+      "end": 1287.77,
+      "text": "or was it from some Deva source he learned it?"
+    },
+    {
+      "start": 1287.77,
+      "end": 1289.77,
+      "text": "I'll just stop here for a moment."
+    },
+    {
+      "start": 1289.77,
+      "end": 1293.77,
+      "text": "This monk had heard that the Buddha had said"
+    },
+    {
+      "start": 1293.77,
+      "end": 1295.77,
+      "text": "that the Devadatta,"
+    },
+    {
+      "start": 1295.77,
+      "end": 1299.77,
+      "text": "one of his disciples who had tried to harm the Buddha,"
+    },
+    {
+      "start": 1299.77,
+      "end": 1302.77,
+      "text": "had gone to hell for a world cycle,"
+    },
+    {
+      "start": 1302.77,
+      "end": 1304.77,
+      "text": "and he was doubtful,"
+    },
+    {
+      "start": 1304.77,
+      "end": 1308.77,
+      "text": "so he asked was it the Buddha knew it himself,"
+    },
+    {
+      "start": 1308.77,
+      "end": 1311.77,
+      "text": "from his mind reading the mind of Devadatta,"
+    },
+    {
+      "start": 1311.77,
+      "end": 1314.77,
+      "text": "or did he learn it from some Deva?"
+    },
+    {
+      "start": 1314.77,
+      "end": 1318.77,
+      "text": "This Devadatta had caused chism in the Sangha,"
+    },
+    {
+      "start": 1318.77,
+      "end": 1321.77,
+      "text": "split the Sangha and tried to kill the Buddha,"
+    },
+    {
+      "start": 1321.77,
+      "end": 1323.77,
+      "text": "and then later he died,"
+    },
+    {
+      "start": 1323.77,
+      "end": 1327.77,
+      "text": "so the Buddha said that he had gone to hell."
+    },
+    {
+      "start": 1327.77,
+      "end": 1329.77,
+      "text": "Then the venerable Ananda said,"
+    },
+    {
+      "start": 1329.77,
+      "end": 1332.77,
+      "text": "it was even as the Exalted One has declared."
+    },
+    {
+      "start": 1332.77,
+      "end": 1335.77,
+      "text": "Now the venerable Ananda approached the Exalted One,"
+    },
+    {
+      "start": 1335.77,
+      "end": 1337.77,
+      "text": "saluted and sat down at one side,"
+    },
+    {
+      "start": 1337.77,
+      "end": 1339.77,
+      "text": "and so seated he told the Exalted One"
+    },
+    {
+      "start": 1339.77,
+      "end": 1341.77,
+      "text": "all that had occurred."
+    },
+    {
+      "start": 1341.77,
+      "end": 1343.77,
+      "text": "Then the Exalted One said,"
+    },
+    {
+      "start": 1343.77,
+      "end": 1345.77,
+      "text": "either Ananda, that monk must be new,"
+    },
+    {
+      "start": 1345.77,
+      "end": 1347.77,
+      "text": "not long gone forth,"
+    },
+    {
+      "start": 1347.77,
+      "end": 1349.77,
+      "text": "or if an elder, a witless one,"
+    },
+    {
+      "start": 1349.77,
+      "end": 1351.77,
+      "text": "how, when I have definitely declared it,"
+    },
+    {
+      "start": 1351.77,
+      "end": 1353.77,
+      "text": "can there be an alternative?"
+    },
+    {
+      "start": 1353.77,
+      "end": 1356.77,
+      "text": "I know not another person of whom this was declared by me,"
+    },
+    {
+      "start": 1356.77,
+      "end": 1358.77,
+      "text": "after full mental concentration,"
+    },
+    {
+      "start": 1358.77,
+      "end": 1360.77,
+      "text": "save of Ananda."
+    },
+    {
+      "start": 1360.77,
+      "end": 1362.77,
+      "text": "And so long an Ananda,"
+    },
+    {
+      "start": 1362.77,
+      "end": 1367.55,
+      "text": "as I saw a bright spot in Devadatta,"
+    },
+    {
+      "start": 1367.55,
+      "end": 1370.55,
+      "text": "even the prick end of a horse hair in size,"
+    },
+    {
+      "start": 1370.55,
+      "end": 1371.55,
+      "text": "I declared not,"
+    },
+    {
+      "start": 1371.55,
+      "end": 1373.55,
+      "text": "Devadatta is wayward gone,"
+    },
+    {
+      "start": 1373.55,
+      "end": 1375.55,
+      "text": "hell bound for a kappa, unpardonable,"
+    },
+    {
+      "start": 1375.55,
+      "end": 1378.55,
+      "text": "but it was when I saw none,"
+    },
+    {
+      "start": 1378.55,
+      "end": 1380.55,
+      "text": "that I declared thus,"
+    },
+    {
+      "start": 1380.55,
+      "end": 1382.55,
+      "text": "imagine Ananda, a cesspool,"
+    },
+    {
+      "start": 1382.55,
+      "end": 1384.55,
+      "text": "of a man's depth,"
+    },
+    {
+      "start": 1384.55,
+      "end": 1386.55,
+      "text": "brim full of dung,"
+    },
+    {
+      "start": 1386.55,
+      "end": 1388.55,
+      "text": "and a man had fallen in,"
+    },
+    {
+      "start": 1388.55,
+      "end": 1390.55,
+      "text": "head and all,"
+    },
+    {
+      "start": 1390.55,
+      "end": 1392.55,
+      "text": "and then a man appeared,"
+    },
+    {
+      "start": 1392.55,
+      "end": 1394.55,
+      "text": "ready to help, to do the friendly,"
+    },
+    {
+      "start": 1394.55,
+      "end": 1396.55,
+      "text": "to set him in safety, to lift him out."
+    },
+    {
+      "start": 1396.55,
+      "end": 1398.55,
+      "text": "Yet were he to go all round that cesspool,"
+    },
+    {
+      "start": 1398.55,
+      "end": 1400.55,
+      "text": "he would not see even the prick end"
+    },
+    {
+      "start": 1400.55,
+      "end": 1402.55,
+      "text": "of a horse hair of that man,"
+    },
+    {
+      "start": 1402.55,
+      "end": 1404.55,
+      "text": "unsmeared by dung,"
+    },
+    {
+      "start": 1404.55,
+      "end": 1406.55,
+      "text": "by which to grasp and lift him out."
+    },
+    {
+      "start": 1406.55,
+      "end": 1409.55,
+      "text": "And it is even so with Devadatta Ananda,"
+    },
+    {
+      "start": 1409.55,
+      "end": 1411.55,
+      "text": "when I saw not a bright spot in him,"
+    },
+    {
+      "start": 1411.55,
+      "end": 1414.55,
+      "text": "not even the prick end of a horse hair in size,"
+    },
+    {
+      "start": 1414.55,
+      "end": 1415.55,
+      "text": "that I declared,"
+    },
+    {
+      "start": 1415.55,
+      "end": 1417.55,
+      "text": "gone wayward, hell bound for a kappa,"
+    },
+    {
+      "start": 1417.55,
+      "end": 1419.55,
+      "text": "unpardonable is Devadatta."
+    },
+    {
+      "start": 1419.55,
+      "end": 1421.55,
+      "text": "Would you hear Ananda,"
+    },
+    {
+      "start": 1421.55,
+      "end": 1422.55,
+      "text": "the Tathagata,"
+    },
+    {
+      "start": 1422.55,
+      "end": 1424.55,
+      "text": "analyzing the feelings and thoughts of man?"
+    },
+    {
+      "start": 1424.55,
+      "end": 1426.55,
+      "text": "This is the time, O blessed one,"
+    },
+    {
+      "start": 1426.55,
+      "end": 1428.55,
+      "text": "this is the time, O well-gone one,"
+    },
+    {
+      "start": 1428.55,
+      "end": 1430.55,
+      "text": "for the exalted one to analyze"
+    },
+    {
+      "start": 1430.55,
+      "end": 1432.55,
+      "text": "man's feelings and thoughts."
+    },
+    {
+      "start": 1432.55,
+      "end": 1434.55,
+      "text": "The monks having heard will bear it in mind."
+    },
+    {
+      "start": 1434.55,
+      "end": 1436.55,
+      "text": "Well, listen Ananda,"
+    },
+    {
+      "start": 1436.55,
+      "end": 1438.55,
+      "text": "pay good heed, I will speak."
+    },
+    {
+      "start": 1438.55,
+      "end": 1440.55,
+      "text": "Yes, Lord, we join the available Ananda,"
+    },
+    {
+      "start": 1440.55,
+      "end": 1442.55,
+      "text": "and the available and the exalted one said,"
+    },
+    {
+      "start": 1442.55,
+      "end": 1445.55,
+      "text": "Suppose Ananda, by mind encompassing mind,"
+    },
+    {
+      "start": 1445.55,
+      "end": 1447.55,
+      "text": "and all this of some person,"
+    },
+    {
+      "start": 1447.55,
+      "end": 1449.55,
+      "text": "there is both good and evil in him."
+    },
+    {
+      "start": 1449.55,
+      "end": 1451.55,
+      "text": "Then presently, by the same means, I know,"
+    },
+    {
+      "start": 1451.55,
+      "end": 1454.55,
+      "text": "the good has disappeared, the evil is uppermost,"
+    },
+    {
+      "start": 1454.55,
+      "end": 1456.55,
+      "text": "but the root of goodness is not cut off,"
+    },
+    {
+      "start": 1456.55,
+      "end": 1458.55,
+      "text": "and from that good will proceed."
+    },
+    {
+      "start": 1458.55,
+      "end": 1460.55,
+      "text": "Thus in future he is bound,"
+    },
+    {
+      "start": 1460.55,
+      "end": 1461.55,
+      "text": "not to fall."
+    },
+    {
+      "start": 1461.55,
+      "end": 1464.55,
+      "text": "If Ananda, seed neither split, rotten,"
+    },
+    {
+      "start": 1464.55,
+      "end": 1467.55,
+      "text": "nor spoiled by wind and heat by vital,"
+    },
+    {
+      "start": 1467.55,
+      "end": 1470.55,
+      "text": "well-seasoned, be thrown on well-tilled ground,"
+    },
+    {
+      "start": 1470.55,
+      "end": 1471.55,
+      "text": "in a good field,"
+    },
+    {
+      "start": 1471.55,
+      "end": 1474.55,
+      "text": "can you say for certain it will yield its growth,"
+    },
+    {
+      "start": 1474.55,
+      "end": 1476.55,
+      "text": "increase and abundance?"
+    },
+    {
+      "start": 1476.55,
+      "end": 1477.55,
+      "text": "Yes, surely, Lord."
+    },
+    {
+      "start": 1477.55,
+      "end": 1480.55,
+      "text": "Even so, Ananda, by mind encompassing mind,"
+    },
+    {
+      "start": 1480.55,
+      "end": 1483.55,
+      "text": "I know of some person, there is good and evil in him,"
+    },
+    {
+      "start": 1483.55,
+      "end": 1485.55,
+      "text": "and then the good has disappeared,"
+    },
+    {
+      "start": 1485.55,
+      "end": 1487.55,
+      "text": "the evil is uppermost,"
+    },
+    {
+      "start": 1487.55,
+      "end": 1489.55,
+      "text": "but the root of goodness is not cut off,"
+    },
+    {
+      "start": 1489.55,
+      "end": 1491.55,
+      "text": "and from that good will proceed."
+    },
+    {
+      "start": 1491.55,
+      "end": 1494.55,
+      "text": "Thus he is bound, not to fall in the future."
+    },
+    {
+      "start": 1494.55,
+      "end": 1497.55,
+      "text": "Fairly, Ananda, thus by mind encompassing mind,"
+    },
+    {
+      "start": 1497.55,
+      "end": 1500.55,
+      "text": "the person of man is known to the Tathagata."
+    },
+    {
+      "start": 1500.55,
+      "end": 1502.55,
+      "text": "Thus by mind encompassing mind,"
+    },
+    {
+      "start": 1502.55,
+      "end": 1505.55,
+      "text": "the feelings and thoughts of man are known to the Tathagata."
+    },
+    {
+      "start": 1505.55,
+      "end": 1507.55,
+      "text": "Thus by mind encompassing mind,"
+    },
+    {
+      "start": 1507.55,
+      "end": 1510.55,
+      "text": "the future arising of things is known to the Tathagata."
+    },
+    {
+      "start": 1510.55,
+      "end": 1513.55,
+      "text": "Or suppose by mind encompassing mind,"
+    },
+    {
+      "start": 1513.55,
+      "end": 1515.55,
+      "text": "I know the converse of some person,"
+    },
+    {
+      "start": 1515.55,
+      "end": 1517.55,
+      "text": "in future he is bound to fall."
+    },
+    {
+      "start": 1517.55,
+      "end": 1520.55,
+      "text": "If seed, neither split, rotten and so forth,"
+    },
+    {
+      "start": 1520.55,
+      "end": 1522.55,
+      "text": "be thrown on stony ground,"
+    },
+    {
+      "start": 1522.55,
+      "end": 1525.55,
+      "text": "can you say for certain it will not yield its growth,"
+    },
+    {
+      "start": 1525.55,
+      "end": 1526.55,
+      "text": "increase or abundance?"
+    },
+    {
+      "start": 1526.55,
+      "end": 1527.55,
+      "text": "Yes, surely, Lord."
+    },
+    {
+      "start": 1527.55,
+      "end": 1530.55,
+      "text": "Even so, Ananda, I know of some person,"
+    },
+    {
+      "start": 1530.55,
+      "end": 1531.55,
+      "text": "he is bound to fall."
+    },
+    {
+      "start": 1531.55,
+      "end": 1534.55,
+      "text": "Fairly, Ananda, thus by mind encompassing mind,"
+    },
+    {
+      "start": 1534.55,
+      "end": 1536.55,
+      "text": "the person of man, his thoughts and feelings,"
+    },
+    {
+      "start": 1536.55,
+      "end": 1540.55,
+      "text": "and the future arising of things are known to the Tathagata."
+    },
+    {
+      "start": 1540.55,
+      "end": 1542.55,
+      "text": "Then suppose I know of some person,"
+    },
+    {
+      "start": 1542.55,
+      "end": 1544.55,
+      "text": "there is not a bright spot, the size of a hair,"
+    },
+    {
+      "start": 1544.55,
+      "end": 1548.55,
+      "text": "sprit and in him, and being utterly blank in his evil,"
+    },
+    {
+      "start": 1548.55,
+      "end": 1551.55,
+      "text": "he will, on the breaking up of the body after a death,"
+    },
+    {
+      "start": 1551.55,
+      "end": 1554.55,
+      "text": "rise in the wayward way, the ill way, the abyss, hell."
+    },
+    {
+      "start": 1554.55,
+      "end": 1557.55,
+      "text": "Ananda, if seed, split, rotten,"
+    },
+    {
+      "start": 1557.55,
+      "end": 1560.55,
+      "text": "spot by wind and heat, be thrown on well-tooled ground,"
+    },
+    {
+      "start": 1560.55,
+      "end": 1563.55,
+      "text": "in a good field, can you say for certain,"
+    },
+    {
+      "start": 1563.55,
+      "end": 1566.55,
+      "text": "it will not yield growth, increase or abundance?"
+    },
+    {
+      "start": 1566.55,
+      "end": 1568.55,
+      "text": "Yes, surely, Lord."
+    },
+    {
+      "start": 1568.55,
+      "end": 1570.55,
+      "text": "Even so, Ananda, I know of some person,"
+    },
+    {
+      "start": 1570.55,
+      "end": 1572.55,
+      "text": "he will rise in hell."
+    },
+    {
+      "start": 1572.55,
+      "end": 1574.55,
+      "text": "Thus by mind encompassing mind,"
+    },
+    {
+      "start": 1574.55,
+      "end": 1577.55,
+      "text": "the person is known to the Tathagata."
+    },
+    {
+      "start": 1577.55,
+      "end": 1580.55,
+      "text": "And so the..."
+    },
+    {
+      "start": 1580.55,
+      "end": 1585.55,
+      "text": "I don't have time to finish all the types of persons"
+    },
+    {
+      "start": 1585.55,
+      "end": 1588.55,
+      "text": "that the Buddha enumerated in this Sutta,"
+    },
+    {
+      "start": 1588.55,
+      "end": 1591.55,
+      "text": "but they are not so important."
+    },
+    {
+      "start": 1591.55,
+      "end": 1594.55,
+      "text": "The thing about it is that this Sutta is one of those,"
+    },
+    {
+      "start": 1594.55,
+      "end": 1598.55,
+      "text": "which shows that the Buddha did predict that"
+    },
+    {
+      "start": 1598.55,
+      "end": 1602.55,
+      "text": "Devadatta would go to hell, that he is an evil person."
+    },
+    {
+      "start": 1602.55,
+      "end": 1604.55,
+      "text": "No, he was an evil person,"
+    },
+    {
+      "start": 1604.55,
+      "end": 1608.55,
+      "text": "and because of that, he will suffer for a world-ficle in hell."
+    },
+    {
+      "start": 1608.55,
+      "end": 1611.55,
+      "text": "But later books try to say that"
+    },
+    {
+      "start": 1611.55,
+      "end": 1614.55,
+      "text": "Devadatta was a bodhisattva,"
+    },
+    {
+      "start": 1614.55,
+      "end": 1618.55,
+      "text": "and he's not really suffering,"
+    },
+    {
+      "start": 1618.55,
+      "end": 1620.55,
+      "text": "even though he has gone to hell."
+    },
+    {
+      "start": 1620.55,
+      "end": 1623.55,
+      "text": "But this contradicts the earliest sutras as shown here."
+    },
+    {
+      "start": 1623.55,
+      "end": 1627.55,
+      "text": "So I'll stop here, and if you have any questions or comments,"
+    },
+    {
+      "start": 1627.55,
+      "end": 1629.55,
+      "text": "we can discuss."
+    }
+  ]
+}

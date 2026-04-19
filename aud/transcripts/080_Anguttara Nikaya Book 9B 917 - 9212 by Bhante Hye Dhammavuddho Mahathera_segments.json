@@ -1,0 +1,1590 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2126.1119375,
+  "segments": [
+    {
+      "start": 0.94,
+      "end": 5.44,
+      "text": "Today we come to 9.1.7."
+    },
+    {
+      "start": 5.44,
+      "end": 11.94,
+      "text": "Once, when the Exalted One was staying near Rajagaha on Mount Baalchapeep,"
+    },
+    {
+      "start": 11.94,
+      "end": 15.94,
+      "text": "Suthavan, the wanderer, came and paid him a visit."
+    },
+    {
+      "start": 15.94,
+      "end": 21.44,
+      "text": "After greeting the Exalted One and exchanging the usual complimentary speeches,"
+    },
+    {
+      "start": 21.44,
+      "end": 24.44,
+      "text": "he sat down at one side."
+    },
+    {
+      "start": 24.44,
+      "end": 29.94,
+      "text": "So seated, he addressed the Exalted One thus."
+    },
+    {
+      "start": 29.94,
+      "end": 37.44,
+      "text": "Now on one occasion, Lord, when the Exalted One was staying here at Rajagaha on Giribajah,"
+    },
+    {
+      "start": 37.44,
+      "end": 43.94,
+      "text": "I heard this from the mouth of the Exalted One, from his own mouth I learnt it."
+    },
+    {
+      "start": 43.94,
+      "end": 49.94,
+      "text": "The Arahant Mang Suthavan, who has destroyed the Asavas, lived the holy life,"
+    },
+    {
+      "start": 49.94,
+      "end": 54.94,
+      "text": "done what was to be done, laid down the burden one to the goal,"
+    },
+    {
+      "start": 54.94,
+      "end": 59.94,
+      "text": "burst the bonds of becoming and is freed by the fullness of knowledge,"
+    },
+    {
+      "start": 59.94,
+      "end": 62.94,
+      "text": "cannot transgress the five standards."
+    },
+    {
+      "start": 62.94,
+      "end": 70.44,
+      "text": "Among in whom the Asavas are destroyed, cannot deliberately take the life of any living thing,"
+    },
+    {
+      "start": 70.44,
+      "end": 74.94,
+      "text": "cannot with intention to steal, take what is not given,"
+    },
+    {
+      "start": 74.94,
+      "end": 81.94,
+      "text": "cannot indulge in carnal intercourse, cannot intentionally tell a lie,"
+    },
+    {
+      "start": 81.94,
+      "end": 88.44,
+      "text": "cannot enjoy pleasures from savings as of before when a householder."
+    },
+    {
+      "start": 88.44,
+      "end": 92.94,
+      "text": "Pray Lord, have I heard the matter rightly from the Exalted One?"
+    },
+    {
+      "start": 92.94,
+      "end": 97.44,
+      "text": "Have I grasped it rightly? Have I borne it in mind rightly?"
+    },
+    {
+      "start": 97.44,
+      "end": 100.44,
+      "text": "Have I understood it rightly?"
+    },
+    {
+      "start": 100.44,
+      "end": 107.44,
+      "text": "And the Buddha said, certainly Suthavan, you have heard the matter rightly, grasped rightly,"
+    },
+    {
+      "start": 107.44,
+      "end": 110.94,
+      "text": "heard in mind rightly and understood it rightly."
+    },
+    {
+      "start": 110.94,
+      "end": 115.94,
+      "text": "Both in the past and now, Suthavan, I verily declare,"
+    },
+    {
+      "start": 115.94,
+      "end": 121.44,
+      "text": "the Arahant Mang, who has destroyed the Asavas, lived the holy life,"
+    },
+    {
+      "start": 121.44,
+      "end": 126.94,
+      "text": "done what was to be done, laid down the burden one to the goal,"
+    },
+    {
+      "start": 126.94,
+      "end": 131.94,
+      "text": "burst the bonds of becoming and is freed by the fullness of knowledge,"
+    },
+    {
+      "start": 131.94,
+      "end": 135.44,
+      "text": "cannot transgress nine standards."
+    },
+    {
+      "start": 135.44,
+      "end": 143.44,
+      "text": "Among in whom the Asavas are destroyed, cannot deliberately take the life of any living thing,"
+    },
+    {
+      "start": 143.44,
+      "end": 148.44,
+      "text": "cannot with intention to steal, take what is not given,"
+    },
+    {
+      "start": 148.44,
+      "end": 155.94,
+      "text": "cannot indulge in carnal intercourse, cannot intentionally tell a lie,"
+    },
+    {
+      "start": 155.94,
+      "end": 162.94,
+      "text": "cannot enjoy pleasures from savings as of before when a householder."
+    },
+    {
+      "start": 162.94,
+      "end": 169.44,
+      "text": "The Mang, in whom the Asavas are destroyed, cannot go astray through desire,"
+    },
+    {
+      "start": 169.44,
+      "end": 175.94,
+      "text": "cannot go astray through hate, cannot go astray through delusion,"
+    },
+    {
+      "start": 175.94,
+      "end": 178.94,
+      "text": "cannot go astray through fear."
+    },
+    {
+      "start": 178.94,
+      "end": 183.94,
+      "text": "Both in the past and now, Suthavan, I verily declare,"
+    },
+    {
+      "start": 183.94,
+      "end": 189.44,
+      "text": "an Arahant Mang, who has lived the life, the holy life, done what was to be done,"
+    },
+    {
+      "start": 189.44,
+      "end": 194.44,
+      "text": "laid down the burden one to the goal, burst the bonds of becoming"
+    },
+    {
+      "start": 194.44,
+      "end": 202.64,
+      "text": "and is freed by the fullness of knowledge, cannot transgress these nine standards."
+    },
+    {
+      "start": 202.64,
+      "end": 205.64,
+      "text": "This is quite an interesting Sutta."
+    },
+    {
+      "start": 205.64,
+      "end": 211.64,
+      "text": "Here the Buddha is saying that Arahant Mang, an enlightened person,"
+    },
+    {
+      "start": 211.64,
+      "end": 217.14,
+      "text": "cannot break these nine standards."
+    },
+    {
+      "start": 217.14,
+      "end": 220.14,
+      "text": "One, he cannot intentionally kill."
+    },
+    {
+      "start": 220.14,
+      "end": 222.64,
+      "text": "Two, he cannot intentionally steal."
+    },
+    {
+      "start": 222.64,
+      "end": 226.64,
+      "text": "Three, he cannot indulge in sexual intercourse."
+    },
+    {
+      "start": 226.64,
+      "end": 229.64,
+      "text": "Number four, cannot tell a lie."
+    },
+    {
+      "start": 229.64,
+      "end": 237.92,
+      "text": "Number five, cannot save up something to use later in other words,"
+    },
+    {
+      "start": 237.92,
+      "end": 246.92,
+      "text": "something food or something because he's not worried about whether he lives or not."
+    },
+    {
+      "start": 246.92,
+      "end": 253.42,
+      "text": "And then after that, he cannot do something wrong because of desire or greed."
+    },
+    {
+      "start": 253.42,
+      "end": 257.42,
+      "text": "He cannot do something wrong because of hatred."
+    },
+    {
+      "start": 257.42,
+      "end": 260.42,
+      "text": "He cannot do something wrong because of delusion."
+    },
+    {
+      "start": 260.42,
+      "end": 263.42,
+      "text": "And he cannot do something wrong because of fear."
+    },
+    {
+      "start": 263.42,
+      "end": 269.42,
+      "text": "So these are the nine standards to judge Arahant."
+    },
+    {
+      "start": 269.92,
+      "end": 275.42,
+      "text": "And so this is from the earlier Suttas."
+    },
+    {
+      "start": 275.42,
+      "end": 280.42,
+      "text": "But sometimes if you're not careful, you'll read some later books."
+    },
+    {
+      "start": 280.42,
+      "end": 284.92,
+      "text": "They may say something which is contrary to this."
+    },
+    {
+      "start": 284.92,
+      "end": 291.42,
+      "text": "For example, they may claim that such and such a person is an enlightened."
+    },
+    {
+      "start": 291.42,
+      "end": 293.92,
+      "text": "Yet he can break these precepts."
+    },
+    {
+      "start": 293.92,
+      "end": 297.92,
+      "text": "Then he cannot be an enlightened person if that is so."
+    },
+    {
+      "start": 300.4,
+      "end": 304.4,
+      "text": "Next Sutta is 9.1.9."
+    },
+    {
+      "start": 304.4,
+      "end": 308.9,
+      "text": "Monks, these nine persons are found living in the world."
+    },
+    {
+      "start": 308.9,
+      "end": 310.4,
+      "text": "What nine?"
+    },
+    {
+      "start": 310.4,
+      "end": 312.4,
+      "text": "The Arahant."
+    },
+    {
+      "start": 312.4,
+      "end": 316.4,
+      "text": "He who has entered on the path to Arahantship."
+    },
+    {
+      "start": 316.4,
+      "end": 319.4,
+      "text": "The Anagamin or non-returner."
+    },
+    {
+      "start": 319.4,
+      "end": 325.4,
+      "text": "He who has entered on the path to the realization of the fruit of the non-returner."
+    },
+    {
+      "start": 325.4,
+      "end": 329.4,
+      "text": "The Sakadagamin or once-returner."
+    },
+    {
+      "start": 329.4,
+      "end": 334.9,
+      "text": "He who has entered on the path to the realization of the fruit of the once-returner."
+    },
+    {
+      "start": 334.9,
+      "end": 337.9,
+      "text": "The Sotapanna or stream-winner."
+    },
+    {
+      "start": 337.9,
+      "end": 343.9,
+      "text": "He who has entered on the path to the realization of the fruit of the stream-winner."
+    },
+    {
+      "start": 343.9,
+      "end": 346.9,
+      "text": "And the ordinary man, Putujana."
+    },
+    {
+      "start": 346.9,
+      "end": 355.26,
+      "text": "Monks, these nine persons are found living in the world."
+    },
+    {
+      "start": 355.26,
+      "end": 357.26,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 357.26,
+      "end": 361.26,
+      "text": "There's a few implications from this Sutta."
+    },
+    {
+      "start": 361.26,
+      "end": 366.26,
+      "text": "The fact that these nine persons are found living in the world"
+    },
+    {
+      "start": 366.26,
+      "end": 372.26,
+      "text": "shows that path attainers are to be found in the world."
+    },
+    {
+      "start": 372.26,
+      "end": 378.26,
+      "text": "That's why in some other Sutta, in the Majima Nikaya, I think,"
+    },
+    {
+      "start": 378.26,
+      "end": 383.26,
+      "text": "it is mentioned that you can make an offering to a path attainer"
+    },
+    {
+      "start": 383.26,
+      "end": 388.26,
+      "text": "so it is not that the path attainer exists for just one moment."
+    },
+    {
+      "start": 388.26,
+      "end": 390.26,
+      "text": "He does exist."
+    },
+    {
+      "start": 390.26,
+      "end": 396.26,
+      "text": "Another implication that can be drawn from here."
+    },
+    {
+      "start": 396.26,
+      "end": 404.26,
+      "text": "You see here is mentioned the eight Aryans plus the Putujana."
+    },
+    {
+      "start": 404.26,
+      "end": 406.26,
+      "text": "That makes nine persons."
+    },
+    {
+      "start": 406.26,
+      "end": 411.26,
+      "text": "And it is not mentioned here about the Sammasambuddha and the Pachekha Buddha."
+    },
+    {
+      "start": 411.26,
+      "end": 417.26,
+      "text": "So what is meant here is that the Sammasambuddha and the Pachekha Buddha,"
+    },
+    {
+      "start": 417.26,
+      "end": 419.26,
+      "text": "they are arahants."
+    },
+    {
+      "start": 419.26,
+      "end": 424.26,
+      "text": "In fact, in the Suttas, you find that the Buddha calls himself the arahan."
+    },
+    {
+      "start": 424.26,
+      "end": 430.26,
+      "text": "And that term arahan during the Buddha's time was not used for his disciples."
+    },
+    {
+      "start": 430.26,
+      "end": 439.26,
+      "text": "The Buddha referred to his enlightened disciples as Aryan disciples."
+    },
+    {
+      "start": 439.26,
+      "end": 448.26,
+      "text": "Aryan disciples who are liberated by wisdom or liberated by mind."
+    },
+    {
+      "start": 448.26,
+      "end": 456.26,
+      "text": "So the arahan includes the arahan disciple, the Sammasambuddha and the Pachekha Buddha."
+    },
+    {
+      "start": 456.26,
+      "end": 463.26,
+      "text": "Pachekha Buddha is that type of Buddha who does not teach the Dhamma to the world."
+    },
+    {
+      "start": 463.26,
+      "end": 472.26,
+      "text": "Another thing you notice here is that the Bodhisattva is not mentioned here."
+    },
+    {
+      "start": 472.26,
+      "end": 481.26,
+      "text": "But the Bodhisattva in our earliest Suttas is either can be a Putujana,"
+    },
+    {
+      "start": 481.26,
+      "end": 490.26,
+      "text": "or he can be a Suttapana, or he can be a Sakadagamin, a stream winner or once-returner."
+    },
+    {
+      "start": 490.26,
+      "end": 495.26,
+      "text": "Because Bodhisattva comes back to the world."
+    },
+    {
+      "start": 495.26,
+      "end": 501.26,
+      "text": "So he must be one of these three, an ordinary person."
+    },
+    {
+      "start": 501.26,
+      "end": 505.26,
+      "text": "A stream winner or a once-returner."
+    },
+    {
+      "start": 505.26,
+      "end": 512.26,
+      "text": "And it's only the later books that say that the Bodhisattva must be a Putujana."
+    },
+    {
+      "start": 512.26,
+      "end": 518.26,
+      "text": "But that is not seen in the Suttas."
+    },
+    {
+      "start": 518.26,
+      "end": 525.26,
+      "text": "The other thing here is that the term Suttapana, Sakadagamin, Anagamin and arahan,"
+    },
+    {
+      "start": 525.26,
+      "end": 531.26,
+      "text": "refer to the fruition-attainers, fruition-attainers, not path-attainers."
+    },
+    {
+      "start": 531.26,
+      "end": 544.26,
+      "text": "Although the translation here, in the book here, the book of the kindred gradual sayings,"
+    },
+    {
+      "start": 544.26,
+      "end": 552.26,
+      "text": "they have translated it as though the Suttapana, Sakadagamin, Anagamin are"
+    },
+    {
+      "start": 552.26,
+      "end": 555.26,
+      "text": "and arahan are path-attainers."
+    },
+    {
+      "start": 555.26,
+      "end": 562.83,
+      "text": "But check the Pali, they are actually fruition-attainers."
+    },
+    {
+      "start": 562.83,
+      "end": 567.83,
+      "text": "The next Sutta is 9.1.10."
+    },
+    {
+      "start": 567.83,
+      "end": 575.83,
+      "text": "Mounds, these nine persons are venerable, worthy of honor, worthy of gifts, worthy of salutations."
+    },
+    {
+      "start": 575.83,
+      "end": 579.83,
+      "text": "The world's unsurpassed field for making merit."
+    },
+    {
+      "start": 580.83,
+      "end": 587.83,
+      "text": "He who has entered on the path to arahantship, the Anagamin or non-returner."
+    },
+    {
+      "start": 587.83,
+      "end": 593.83,
+      "text": "He who has entered on the path to the realization of the fruit of the non-returner,"
+    },
+    {
+      "start": 593.83,
+      "end": 596.83,
+      "text": "the Sakadagamin or once-returner."
+    },
+    {
+      "start": 596.83,
+      "end": 602.83,
+      "text": "He who has entered on the path to the realization of the fruit of the once-returner,"
+    },
+    {
+      "start": 602.83,
+      "end": 605.83,
+      "text": "the Suttapana or stream-winner."
+    },
+    {
+      "start": 605.83,
+      "end": 611.83,
+      "text": "He who has entered on the path to the realization of the fruit of the stream-winner."
+    },
+    {
+      "start": 611.83,
+      "end": 617.83,
+      "text": "And he who has become one of the clan, Gotrabu."
+    },
+    {
+      "start": 617.83,
+      "end": 625.83,
+      "text": "Mounds, these nine persons are venerable, worthy of honor, worthy of gifts, worthy of salutations."
+    },
+    {
+      "start": 625.83,
+      "end": 629.83,
+      "text": "The world's unsurpassed field for making merit."
+    },
+    {
+      "start": 629.83,
+      "end": 631.83,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 631.83,
+      "end": 638.83,
+      "text": "What is interesting about this Sutta is that it mentions the eight Aryans"
+    },
+    {
+      "start": 638.83,
+      "end": 643.83,
+      "text": "plus a person called the Gotrabu."
+    },
+    {
+      "start": 643.83,
+      "end": 647.83,
+      "text": "Now according to the commentary,"
+    },
+    {
+      "start": 647.83,
+      "end": 655.83,
+      "text": "the Gotrabu is one endowed with exceedingly powerful insight and thought"
+    },
+    {
+      "start": 655.83,
+      "end": 662.83,
+      "text": "with immediate prospects of attaining to the state of the stream-winner and the way."
+    },
+    {
+      "start": 662.83,
+      "end": 670.83,
+      "text": "Which means that the Gotrabu or one of the clan is not an Aryan."
+    },
+    {
+      "start": 670.83,
+      "end": 677.83,
+      "text": "He's not an Aryan but he's very close to becoming a stream-winner."
+    },
+    {
+      "start": 677.83,
+      "end": 684.83,
+      "text": "He is fairly familiar with the Suttas."
+    },
+    {
+      "start": 684.83,
+      "end": 691.83,
+      "text": "So even that type of person is considered venerable, worthy of honor, worthy of gifts, worthy of salutations."
+    },
+    {
+      "start": 691.83,
+      "end": 695.83,
+      "text": "The world's unsurpassed field for merit, for making merit."
+    },
+    {
+      "start": 695.83,
+      "end": 701.83,
+      "text": "So these are the nine persons who are described as such."
+    },
+    {
+      "start": 701.83,
+      "end": 707.88,
+      "text": "The next Sutta is 9.2.11."
+    },
+    {
+      "start": 707.88,
+      "end": 714.88,
+      "text": "Once when the exalted one was staying near Sabati at Jeta Grove in Anathapindika Spark,"
+    },
+    {
+      "start": 714.88,
+      "end": 720.88,
+      "text": "the venerable Sariputta came and visited him, saluted and sat down at one side."
+    },
+    {
+      "start": 720.88,
+      "end": 725.88,
+      "text": "So seated, the venerable Sariputta said to the exalted one,"
+    },
+    {
+      "start": 725.88,
+      "end": 733.88,
+      "text": "Lord, I have spent the rainy season here in Sabati and I now wish to go into the country."
+    },
+    {
+      "start": 733.88,
+      "end": 738.88,
+      "text": "And the Buddha said, now is the time Sariputta to do as you think fit."
+    },
+    {
+      "start": 738.88,
+      "end": 747.88,
+      "text": "So the venerable Sariputta got up, saluted and took his departure, keeping the exalted one on his right."
+    },
+    {
+      "start": 747.88,
+      "end": 754.88,
+      "text": "Now not long after his departure, a certain monk addressed the exalted one and said,"
+    },
+    {
+      "start": 754.88,
+      "end": 762.88,
+      "text": "Lord, the venerable Sariputta has offended me and without asking my pardon, has set out on a journey."
+    },
+    {
+      "start": 762.88,
+      "end": 765.88,
+      "text": "And the exalted one said to a monk,"
+    },
+    {
+      "start": 765.88,
+      "end": 773.88,
+      "text": "Go, monk, and in my name bid Sariputta come, saying, the teacher calls you Sariputta."
+    },
+    {
+      "start": 773.88,
+      "end": 781.88,
+      "text": "Yes, Lord, replied the monk and he went and gave the venerable Sariputta the exalted one's message."
+    },
+    {
+      "start": 781.88,
+      "end": 784.88,
+      "text": "Yes, reverend sir, he replied."
+    },
+    {
+      "start": 784.88,
+      "end": 792.88,
+      "text": "Then when the venerable Mahamogala and the venerable Ananda put their keys from lodging to lodging,"
+    },
+    {
+      "start": 792.88,
+      "end": 795.88,
+      "text": "he sent you, reverend sirs, and come."
+    },
+    {
+      "start": 795.88,
+      "end": 802.88,
+      "text": "For the venerable Sariputta would now draw his lion's roar in the presence of the exalted one."
+    },
+    {
+      "start": 802.88,
+      "end": 809.88,
+      "text": "And the venerable Sariputta went to the exalted one and saluted him and sat down at one side."
+    },
+    {
+      "start": 809.88,
+      "end": 811.88,
+      "text": "And the exalted one said to him,"
+    },
+    {
+      "start": 811.88,
+      "end": 818.88,
+      "text": "There is here Sariputta a fellow wave-error who has a grievance."
+    },
+    {
+      "start": 818.88,
+      "end": 828.88,
+      "text": "He says, Lord, the venerable Sariputta has offended me and without asking my pardon, has set out on a journey."
+    },
+    {
+      "start": 828.88,
+      "end": 831.88,
+      "text": "And the venerable Sariputta said,"
+    },
+    {
+      "start": 831.88,
+      "end": 838.88,
+      "text": "True it is, Lord, that he in whom mindfulness of the body's actions is not present,"
+    },
+    {
+      "start": 838.88,
+      "end": 847.88,
+      "text": "might set out on a journey without asking pardon of a fellow wave-error in the holy life whom he has offended."
+    },
+    {
+      "start": 847.88,
+      "end": 856.88,
+      "text": "Lord, just as on the earth they cast things clean and foul, down urine, spittle, pus, and blood."
+    },
+    {
+      "start": 856.88,
+      "end": 862.88,
+      "text": "Yet for all that the earth is not filled with horror, loathing, even so, Lord,"
+    },
+    {
+      "start": 862.88,
+      "end": 871.88,
+      "text": "like the earth I abide with mine, large, abundant, measureless, feeling no hatred nor ill will."
+    },
+    {
+      "start": 871.88,
+      "end": 884.88,
+      "text": "True it is, Lord, that he in whom mindfulness is not present, might set out on a journey without asking pardon of a fellow wave-error whom he had offended."
+    },
+    {
+      "start": 884.88,
+      "end": 892.88,
+      "text": "Lord, just as in water they wash things clean and foul, down urine, spittle, pus, and blood."
+    },
+    {
+      "start": 892.88,
+      "end": 897.88,
+      "text": "Yet for all that the water is not filled with horror, loathing, or disgust."
+    },
+    {
+      "start": 897.88,
+      "end": 907.88,
+      "text": "Even so, Lord, like water I abide with mine, large, abundant, measureless, feeling no hatred nor ill will."
+    },
+    {
+      "start": 907.88,
+      "end": 919.88,
+      "text": "True it is, Lord, that he in whom mindfulness is not present, might set out on a journey without asking pardon of a fellow wave-error whom he had offended."
+    },
+    {
+      "start": 919.88,
+      "end": 926.88,
+      "text": "Lord, just as fire burns things clean and foul, down urine, spittle, pus, and blood."
+    },
+    {
+      "start": 926.88,
+      "end": 932.88,
+      "text": "Yet for all that the fire is not filled with horror, loathing, or disgust."
+    },
+    {
+      "start": 932.88,
+      "end": 941.88,
+      "text": "Even so, Lord, like fire I abide with mine, large, abundant, measureless, feeling no hatred nor ill will."
+    },
+    {
+      "start": 941.88,
+      "end": 953.88,
+      "text": "True it is, Lord, that he in whom mindfulness is not present, might set out on a journey without asking pardon of a fellow wave-error whom he had offended."
+    },
+    {
+      "start": 953.88,
+      "end": 960.88,
+      "text": "Lord, just as the wind blows on things clean and foul, down urine, spittle, pus, and blood."
+    },
+    {
+      "start": 960.88,
+      "end": 965.88,
+      "text": "Yet for all that the wind is not filled with horror, loathing, or disgust."
+    },
+    {
+      "start": 965.88,
+      "end": 974.88,
+      "text": "Even so, Lord, like the wind I abide with mine, large, abundant, measureless, feeling no hatred nor ill will."
+    },
+    {
+      "start": 974.88,
+      "end": 986.88,
+      "text": "True it is, Lord, that he in whom mindfulness is not present, might set out on a journey without asking pardon of a fellow wave-error whom he had offended."
+    },
+    {
+      "start": 986.88,
+      "end": 994.88,
+      "text": "Lord, just as a duster wipes up things clean and foul, down urine, spittle, pus, and blood."
+    },
+    {
+      "start": 994.88,
+      "end": 999.88,
+      "text": "Yet for all that the duster is not filled with horror, loathing, or disgust."
+    },
+    {
+      "start": 999.88,
+      "end": 1009.88,
+      "text": "Even so, Lord, like a duster I abide with mine, large, abundant, measureless, feeling no hatred nor ill will."
+    },
+    {
+      "start": 1009.88,
+      "end": 1020.88,
+      "text": "True it is, Lord, that he in whom mindfulness is not present, might set out on a journey without asking pardon of a fellow wave-error whom he had offended."
+    },
+    {
+      "start": 1020.88,
+      "end": 1034.88,
+      "text": "Lord, just as a boy or girl of the scavenger class, clad in racks with begging tray in hand, on entering village or town, assumes a humble man,"
+    },
+    {
+      "start": 1034.88,
+      "end": 1046.88,
+      "text": "and then goes in. Even so, Lord, like a scavenger boy, I abide with mine, large, abundant, measureless, feeling no hatred nor ill will."
+    },
+    {
+      "start": 1046.88,
+      "end": 1058.88,
+      "text": "True it is, Lord, that he in whom mindfulness is not present, might set out on a journey without asking pardon of a fellow wave-error whom he had offended."
+    },
+    {
+      "start": 1058.88,
+      "end": 1072.88,
+      "text": "Lord, just as a boy with cut horns, mild, wild, well-tamed, well-trained, roaming from street to street, from cross road to cross road, harms nothing with its feet or horns."
+    },
+    {
+      "start": 1072.88,
+      "end": 1082.88,
+      "text": "Even so, Lord, like a boy with cut horns, I abide with mine, large, abundant, measureless, feeling no hatred nor ill will."
+    },
+    {
+      "start": 1082.88,
+      "end": 1094.88,
+      "text": "True it is, Lord, that he in whom mindfulness is not present, might set out on a journey without asking pardon of a fellow wave-error whom he had offended."
+    },
+    {
+      "start": 1094.88,
+      "end": 1109.88,
+      "text": "Lord, just as a woman, man or a lad, having washed the head and dressed up, would be filled with horror, loathing and disgust, if the carcass of a snake, dog or human being, was slung around his neck."
+    },
+    {
+      "start": 1109.88,
+      "end": 1117.88,
+      "text": "Even so, Lord, I am filled with horror, loathing and disgust at this foul body of mine."
+    },
+    {
+      "start": 1117.88,
+      "end": 1127.88,
+      "text": "True it is, Lord, that he in whom mindfulness is not present, might set out on a journey without asking pardon of a fellow wave-error whom he had offended."
+    },
+    {
+      "start": 1127.88,
+      "end": 1143.88,
+      "text": "Lord, just as a man might carry around a bowl of fat, full of holes and slits, oozing, dripping, even so, Lord, I carry around this body of mine, full of holes and slits, oozing, dripping."
+    },
+    {
+      "start": 1143.88,
+      "end": 1158.88,
+      "text": "True it is, Lord, that he in whom mindfulness of the body's actions is not present, might set out on a journey without asking pardon of a fellow wave-error whom he had offended."
+    },
+    {
+      "start": 1158.88,
+      "end": 1168.88,
+      "text": "Then that man got up from his seat, arranged his upper rope over one shoulder, and fell at the feet of the exalted one, exclaiming,"
+    },
+    {
+      "start": 1168.88,
+      "end": 1181.88,
+      "text": "Lord, transgression has overtaken me as a fool, a blind man, an evil man. I have accused the venerable Sariputta untruly, vainly, lyingly."
+    },
+    {
+      "start": 1181.88,
+      "end": 1191.88,
+      "text": "Lord, let the exalted one pardon this transgression of mine as a transgression to the end that I may restrain myself in the future."
+    },
+    {
+      "start": 1191.88,
+      "end": 1205.88,
+      "text": "And the Buddha said, verily, man, transgression has overtaken you as a fool, as a blind man, as an evil man. You have accused the venerable Sariputta untruly, vainly, lyingly."
+    },
+    {
+      "start": 1205.88,
+      "end": 1211.88,
+      "text": "But since you have seen the transgression as such, and recognized it as such, we pardon you."
+    },
+    {
+      "start": 1211.88,
+      "end": 1224.88,
+      "text": "Verily, man, there is growth in the discipline of the Aryan for him who, seeing and recognizing his transgression as such, makes amends to the end that he may be restrained in the future."
+    },
+    {
+      "start": 1224.88,
+      "end": 1235.88,
+      "text": "Then the exalted one said to the venerable Sariputta, pardon this foolish man, Sariputta, before his head splits into seven pieces, even where he stands."
+    },
+    {
+      "start": 1235.88,
+      "end": 1246.88,
+      "text": "And the venerable Sariputta said, Lord, I do pardon that venerable one. If he speaks thus to me, I let him too pardon me as the end of the sutta."
+    },
+    {
+      "start": 1246.88,
+      "end": 1261.88,
+      "text": "So you see, this sutta is quite a moving sutta. This stupid monk, he was probably filled with jealousy that Sariputta was so famous and so well respected"
+    },
+    {
+      "start": 1261.88,
+      "end": 1268.88,
+      "text": "that he simply blamed the venerable Sariputta for something that he had not done."
+    },
+    {
+      "start": 1268.88,
+      "end": 1286.88,
+      "text": "So Sariputta here is giving his lines raw. He's saying that just like earth, water, fire and wind, he abides, feeling no hatred, even though you cast dirty things,"
+    },
+    {
+      "start": 1287.88,
+      "end": 1300.88,
+      "text": "like down urine, spital, pus and blood. If you throw this on the earth, water, fire and wind, it does not react, it does not feel with order or loathing or disgust."
+    },
+    {
+      "start": 1300.88,
+      "end": 1309.88,
+      "text": "So the venerable Sariputta, because he is an Arahant, he has no self, he's just like the four elements."
+    },
+    {
+      "start": 1310.88,
+      "end": 1327.88,
+      "text": "And similarly here is like the down urine, spital, pus and blood is like all the wrong accusations, all the unwholesome things that you say about him, he does not feel hatred, he does not react."
+    },
+    {
+      "start": 1327.88,
+      "end": 1345.88,
+      "text": "And also he says that he's like a duster that sweeps the road or something, does not react even though he sweeps all the dirty things, like a boy or a girl of the scavenger class with begging for his food."
+    },
+    {
+      "start": 1346.88,
+      "end": 1361.88,
+      "text": "When he goes into the town, he assumes a humble demeanour, a humble face and then goes in. So even then Sariputta is like that, or like a bull with a horns cut."
+    },
+    {
+      "start": 1361.88,
+      "end": 1367.88,
+      "text": "A bull with horns is very fierce but without the horns it can do nothing, so it's very tame."
+    },
+    {
+      "start": 1368.88,
+      "end": 1377.88,
+      "text": "So in the same way the ego has been removed from the Arahant and he is completely tame, he cannot harm anybody."
+    },
+    {
+      "start": 1377.88,
+      "end": 1393.88,
+      "text": "And then lastly he says he looks upon his body with horror, just like a carcass or a bowl of fat with holes and slits, oozing and dripping."
+    },
+    {
+      "start": 1393.88,
+      "end": 1408.88,
+      "text": "So after all these descriptions, the monk realizes that this person is really an Arahant and he asks for forgiveness and Buddha asks Sariputta to forgive him."
+    },
+    {
+      "start": 1408.88,
+      "end": 1419.88,
+      "text": "But Sariputta says he will forgive him if the monk asks him, because the monk actually should ask Sariputta for forgiveness, not the Buddha."
+    },
+    {
+      "start": 1420.88,
+      "end": 1435.88,
+      "text": "So in the same way sometimes people read that if you accuse a monk wrongly or you have not hated towards a monk, you have to be very careful because if a monk is in Aria, like the available Sariputta,"
+    },
+    {
+      "start": 1435.88,
+      "end": 1440.88,
+      "text": "then your offense is very, very great, your karmic offense is very great."
+    },
+    {
+      "start": 1440.88,
+      "end": 1446.88,
+      "text": "And the Buddha said, you are digging a hole to bury yourself in the earlier Sutta that we read."
+    },
+    {
+      "start": 1447.88,
+      "end": 1460.88,
+      "text": "That's why generally it is not wise for a lay person to be critical of a monk, especially one who keeps the precepts and understands the Dhamma."
+    },
+    {
+      "start": 1460.88,
+      "end": 1467.51,
+      "text": "We were at Sutta No. 9.2.12."
+    },
+    {
+      "start": 1467.51,
+      "end": 1475.51,
+      "text": "Once when the exalted one was staying near Savati at Jeta Grove in Anathapindika Spark,"
+    },
+    {
+      "start": 1475.51,
+      "end": 1482.51,
+      "text": "a venerable Sariputta, before known, dressed, and with a bowl and rope went towards Savati,"
+    },
+    {
+      "start": 1482.51,
+      "end": 1491.89,
+      "text": "then thought he, too early is it yet to go about for arms in Savati?"
+    },
+    {
+      "start": 1491.89,
+      "end": 1496.89,
+      "text": "Suppose I were to go and visit the park of the wonderers of other views."
+    },
+    {
+      "start": 1496.89,
+      "end": 1504.89,
+      "text": "So the venerable Sariputta went to their park and after exchanging with them the usual compliments sat down at one side."
+    },
+    {
+      "start": 1504.89,
+      "end": 1510.89,
+      "text": "Now at that time this happened to be the topic of their talk as they sat gathered around."
+    },
+    {
+      "start": 1510.89,
+      "end": 1516.89,
+      "text": "All who died with some attached remainder are not altogether freed from hell,"
+    },
+    {
+      "start": 1516.89,
+      "end": 1524.89,
+      "text": "rebirth in the womb of an animal, the realm of ghosts, nor from the untoward way, the ill way, the abyss hell."
+    },
+    {
+      "start": 1524.89,
+      "end": 1529.89,
+      "text": "And the venerable Sariputta neither applauded nor disparaged their speech,"
+    },
+    {
+      "start": 1529.89,
+      "end": 1534.89,
+      "text": "but without comment rose from his seat and departed saying to himself,"
+    },
+    {
+      "start": 1534.89,
+      "end": 1539.89,
+      "text": "I will learn the truth of the matter from the exalted one."
+    },
+    {
+      "start": 1539.89,
+      "end": 1545.89,
+      "text": "So the venerable Sariputta, after going about for arms in Savati,"
+    },
+    {
+      "start": 1545.89,
+      "end": 1551.89,
+      "text": "when he had returned there from and eaten his meal, visited the exalted one"
+    },
+    {
+      "start": 1551.89,
+      "end": 1554.89,
+      "text": "and after saluting sat down at one side."
+    },
+    {
+      "start": 1554.89,
+      "end": 1558.89,
+      "text": "So seated he told the exalted one all that had taken place."
+    },
+    {
+      "start": 1558.89,
+      "end": 1568.52,
+      "text": "The Buddha said, Sariputta, some of these wonderers of other views are fools and without understanding,"
+    },
+    {
+      "start": 1568.52,
+      "end": 1573.52,
+      "text": "but some will know of one who has attachment, he has some attached remainder,"
+    },
+    {
+      "start": 1573.52,
+      "end": 1578.52,
+      "text": "and some will know of one who has no attachment, he has none."
+    },
+    {
+      "start": 1578.52,
+      "end": 1585.52,
+      "text": "Sariputta, there are these nine persons who when they die with some attached remainder"
+    },
+    {
+      "start": 1585.52,
+      "end": 1591.52,
+      "text": "are altogether freed from hell, rebirth in the womb of an animal, the realm of ghosts."
+    },
+    {
+      "start": 1591.52,
+      "end": 1593.52,
+      "text": "What nine?"
+    },
+    {
+      "start": 1593.52,
+      "end": 1597.52,
+      "text": "Consider Sariputta, the person who is accomplished in the precepts,"
+    },
+    {
+      "start": 1597.52,
+      "end": 1601.52,
+      "text": "accomplished in concentration, but not in wisdom."
+    },
+    {
+      "start": 1601.52,
+      "end": 1607.52,
+      "text": "He destroys the five lower fetters and becomes completely cool after an interval."
+    },
+    {
+      "start": 1607.52,
+      "end": 1612.52,
+      "text": "This Sariputta is the first person who dying with some attached remainder"
+    },
+    {
+      "start": 1612.52,
+      "end": 1618.52,
+      "text": "is altogether freed from hell, rebirth in the womb of an animal, the realm of ghosts."
+    },
+    {
+      "start": 1618.52,
+      "end": 1623.52,
+      "text": "Again Sariputta, consider the person who is accomplished in the precepts,"
+    },
+    {
+      "start": 1623.52,
+      "end": 1626.52,
+      "text": "accomplished in concentration, but not in wisdom."
+    },
+    {
+      "start": 1626.52,
+      "end": 1633.52,
+      "text": "He destroys the five lower fetters and becomes completely cool after lessening his period."
+    },
+    {
+      "start": 1633.52,
+      "end": 1639.52,
+      "text": "Again consider the person who is accomplished in the precepts, accomplished in concentration,"
+    },
+    {
+      "start": 1639.52,
+      "end": 1641.52,
+      "text": "but not in wisdom."
+    },
+    {
+      "start": 1641.52,
+      "end": 1648.52,
+      "text": "He destroys the five lower fetters and becomes completely cool without exertion."
+    },
+    {
+      "start": 1648.52,
+      "end": 1655.52,
+      "text": "Again Sariputta, consider the person who is accomplished in the precepts,"
+    },
+    {
+      "start": 1655.52,
+      "end": 1660.09,
+      "text": "accomplished in concentration, but not in wisdom."
+    },
+    {
+      "start": 1660.09,
+      "end": 1667.09,
+      "text": "He destroys the five lower fetters and becomes completely cool after some exertion."
+    },
+    {
+      "start": 1667.09,
+      "end": 1672.09,
+      "text": "Again Sariputta, consider the person who is accomplished in the precepts,"
+    },
+    {
+      "start": 1672.09,
+      "end": 1677.09,
+      "text": "accomplished in concentration, but not in wisdom."
+    },
+    {
+      "start": 1677.09,
+      "end": 1686.09,
+      "text": "He destroys the five lower fetters and he ascends the stream of existence up to the Akarnita heaven."
+    },
+    {
+      "start": 1686.09,
+      "end": 1691.09,
+      "text": "Again Sariputta, as the fifth person who dying with some attached remainder"
+    },
+    {
+      "start": 1691.09,
+      "end": 1698.09,
+      "text": "is altogether freed from hell, rebirth in the womb of an animal, the realm of ghosts."
+    },
+    {
+      "start": 1698.09,
+      "end": 1701.09,
+      "text": "I stop here for a moment to comment."
+    },
+    {
+      "start": 1701.09,
+      "end": 1713.51,
+      "text": "Here the Buddha is talking about nine persons who die with some attached remainder."
+    },
+    {
+      "start": 1713.51,
+      "end": 1720.16,
+      "text": "That means they have not attained arahanhood."
+    },
+    {
+      "start": 1720.16,
+      "end": 1730.16,
+      "text": "Here the first five the Buddha is talking about is the Anagamin, the non-returner."
+    },
+    {
+      "start": 1730.16,
+      "end": 1736.16,
+      "text": "The non-returner, there are five types and we came across these five types earlier"
+    },
+    {
+      "start": 1736.16,
+      "end": 1741.16,
+      "text": "in this Angutanikaya 7.6.52."
+    },
+    {
+      "start": 1741.16,
+      "end": 1747.16,
+      "text": "And so I think we don't need to discuss them here."
+    },
+    {
+      "start": 1747.16,
+      "end": 1751.16,
+      "text": "And this Anagamin is one here."
+    },
+    {
+      "start": 1751.16,
+      "end": 1757.16,
+      "text": "The Buddha says he's accomplished in the precepts, accomplished in concentration, but not in wisdom."
+    },
+    {
+      "start": 1757.16,
+      "end": 1762.16,
+      "text": "In other words he has perfect moral conduct, perfect concentration."
+    },
+    {
+      "start": 1762.16,
+      "end": 1768.16,
+      "text": "That means one point in us of mind, but not perfect wisdom."
+    },
+    {
+      "start": 1768.16,
+      "end": 1771.66,
+      "text": "And the Sutta continues."
+    },
+    {
+      "start": 1771.66,
+      "end": 1775.66,
+      "text": "Again Sariputta, consider the person who is accomplished in the precepts,"
+    },
+    {
+      "start": 1775.66,
+      "end": 1778.66,
+      "text": "but not in concentration nor in wisdom."
+    },
+    {
+      "start": 1778.66,
+      "end": 1783.66,
+      "text": "By destroying the three factors and reducing lust, hatred and delusion,"
+    },
+    {
+      "start": 1783.66,
+      "end": 1790.66,
+      "text": "he becomes a once-returner, Sakadagamin, who returns to this world once again,"
+    },
+    {
+      "start": 1790.66,
+      "end": 1795.04,
+      "text": "only once again and makes an end of ill."
+    },
+    {
+      "start": 1795.04,
+      "end": 1798.04,
+      "text": "This Sariputta is the sixth person."
+    },
+    {
+      "start": 1798.04,
+      "end": 1802.04,
+      "text": "Again Sariputta, consider the person who is accomplished in the precepts,"
+    },
+    {
+      "start": 1802.04,
+      "end": 1805.04,
+      "text": "but not in concentration nor in wisdom."
+    },
+    {
+      "start": 1805.04,
+      "end": 1813.04,
+      "text": "By destroying the three factors, he becomes one, germinating only once more a Kabidzin."
+    },
+    {
+      "start": 1813.04,
+      "end": 1819.04,
+      "text": "And on being born into the state of man just once, he makes an end of ill."
+    },
+    {
+      "start": 1819.04,
+      "end": 1821.04,
+      "text": "This Sariputta is the seventh person."
+    },
+    {
+      "start": 1821.04,
+      "end": 1825.04,
+      "text": "Again Sariputta, consider the person who is accomplished in the precepts,"
+    },
+    {
+      "start": 1825.04,
+      "end": 1831.04,
+      "text": "is moderately successful in concentration, is moderately successful in wisdom."
+    },
+    {
+      "start": 1831.04,
+      "end": 1837.04,
+      "text": "By destroying the three factors, he becomes a clan to clan, goa, koala and koala."
+    },
+    {
+      "start": 1837.04,
+      "end": 1843.04,
+      "text": "And running on, faring on through two or three clans, he makes an end of ill."
+    },
+    {
+      "start": 1843.04,
+      "end": 1846.04,
+      "text": "This Sariputta is the eighth person."
+    },
+    {
+      "start": 1846.04,
+      "end": 1850.04,
+      "text": "Again Sariputta, consider the person who is accomplished in the precepts,"
+    },
+    {
+      "start": 1850.04,
+      "end": 1855.04,
+      "text": "and is moderately successful in concentration, moderately successful in wisdom."
+    },
+    {
+      "start": 1855.04,
+      "end": 1861.04,
+      "text": "By destroying the three factors, he becomes one, who will be reborn seven times at most."
+    },
+    {
+      "start": 1861.04,
+      "end": 1868.04,
+      "text": "And running on, faring on among devas and men for seven times at most, he makes an end of ill."
+    },
+    {
+      "start": 1868.04,
+      "end": 1870.04,
+      "text": "This Sariputta is the ninth person."
+    },
+    {
+      "start": 1870.04,
+      "end": 1875.04,
+      "text": "Who dying with some attached remainder is altogether freed from hell,"
+    },
+    {
+      "start": 1875.04,
+      "end": 1879.04,
+      "text": "a rebirth in the womb of an animal from the realm of ghosts."
+    },
+    {
+      "start": 1879.04,
+      "end": 1884.04,
+      "text": "Sariputta, some wonders of other views are fools and without understanding,"
+    },
+    {
+      "start": 1884.04,
+      "end": 1889.04,
+      "text": "but some will know of one who has attachment, he has some attached remainder."
+    },
+    {
+      "start": 1889.04,
+      "end": 1894.04,
+      "text": "And some will know of one who has no attachment, he has none."
+    },
+    {
+      "start": 1894.04,
+      "end": 1900.04,
+      "text": "Verily Sariputta, these nine persons who die with some remainder are freed from hell,"
+    },
+    {
+      "start": 1900.04,
+      "end": 1903.04,
+      "text": "rebirth in the womb of an animal, the realm of ghosts."
+    },
+    {
+      "start": 1903.04,
+      "end": 1909.04,
+      "text": "Not until now Sariputta, has this dharma discourse been declared to monk or nun,"
+    },
+    {
+      "start": 1909.04,
+      "end": 1913.04,
+      "text": "to layman or laywoman, and why?"
+    },
+    {
+      "start": 1913.04,
+      "end": 1919.04,
+      "text": "Less after hearing this dharma discourse, they bring on themselves the habit of idleness."
+    },
+    {
+      "start": 1919.04,
+      "end": 1926.04,
+      "text": "Or over Sariputta, this dharma discourse was only declared by me because I'm of my being questioned."
+    },
+    {
+      "start": 1926.04,
+      "end": 1930.04,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 1930.04,
+      "end": 1936.04,
+      "text": "So the last four types of persons discussed here, the first one is the Sakata Garmin,"
+    },
+    {
+      "start": 1936.04,
+      "end": 1948.44,
+      "text": "one's returner who has perfect moral conduct but not perfect concentration and wisdom."
+    },
+    {
+      "start": 1948.44,
+      "end": 1953.44,
+      "text": "He destroys the three factors and has reduced lust, hatred and delusion."
+    },
+    {
+      "start": 1953.44,
+      "end": 1959.44,
+      "text": "And he returns to this world, that means as a human being, only once more."
+    },
+    {
+      "start": 1959.44,
+      "end": 1967.44,
+      "text": "And then the other three, asutapanas, stream enteros, they have all destroyed the three factors."
+    },
+    {
+      "start": 1967.44,
+      "end": 1973.44,
+      "text": "They are also perfect in moral conduct but not in concentration and wisdom."
+    },
+    {
+      "start": 1973.44,
+      "end": 1990.54,
+      "text": "And so here you can see that the sotapanas and the Sakata Garmin, they don't need perfect concentration."
+    },
+    {
+      "start": 1990.54,
+      "end": 1994.54,
+      "text": "That means they don't need jhana, they don't need one pointedness of mind."
+    },
+    {
+      "start": 1994.54,
+      "end": 2006.74,
+      "text": "Now the sotapanas is reborn a maximum of seven times only among devas and men."
+    },
+    {
+      "start": 2006.74,
+      "end": 2017.46,
+      "text": "The other thing mentioned here is that the Buddha said some wondrous of other views are fools and without understanding"
+    },
+    {
+      "start": 2017.46,
+      "end": 2024.46,
+      "text": "but some will know of one who has attachment and some will know of one who has no attachment."
+    },
+    {
+      "start": 2024.46,
+      "end": 2030.46,
+      "text": "Which means that not all external ascetics are ignorant, some also know."
+    },
+    {
+      "start": 2030.46,
+      "end": 2040.0,
+      "text": "And at the last part the Buddha said, not until now, sorry Buddha, has this dharma discourse been declared to monk or nun,"
+    },
+    {
+      "start": 2040.0,
+      "end": 2043.0,
+      "text": "to layman or layperson and why?"
+    },
+    {
+      "start": 2043.0,
+      "end": 2049.0,
+      "text": "Less after hearing this dharma discourse, they bring on themselves the habit of idleness."
+    },
+    {
+      "start": 2049.0,
+      "end": 2062.0,
+      "text": "So the Buddha here says that at first they did not want to talk about this suta in detail."
+    },
+    {
+      "start": 2062.0,
+      "end": 2074.0,
+      "text": "Because here he is saying, for example, that sotapanas and the Sakata Garmin, first and second fruition persons don't need jhana."
+    },
+    {
+      "start": 2074.0,
+      "end": 2087.0,
+      "text": "And in the Majjimani Kaya 43, the Buddha said that the right view can be attained only by two conditions, with only two conditions."
+    },
+    {
+      "start": 2087.0,
+      "end": 2095.0,
+      "text": "One is listening to the dharma and the other one is happy having Yoniso Manasikara proper attention."
+    },
+    {
+      "start": 2095.0,
+      "end": 2103.0,
+      "text": "So you can see that sotapana can be attained by listening to the dharma only."
+    },
+    {
+      "start": 2103.0,
+      "end": 2116.0,
+      "text": "And the Buddha did not want to say this because the Buddha doesn't want his Aryan disciples who are not yet Arahana to be idle."
+    },
+    {
+      "start": 2116.0,
+      "end": 2119.0,
+      "text": "He wants them to finish their work in this very life."
+    },
+    {
+      "start": 2119.0,
+      "end": 2125.0,
+      "text": "That's why the Buddha did not give the details of this suta earlier."
+    }
+  ]
+}

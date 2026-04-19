@@ -1,0 +1,2095 @@
+{
+  "source": "faster-whisper",
+  "model": "base",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "en",
+  "duration": 1840.4600625,
+  "segments": [
+    {
+      "start": 1.2,
+      "end": 6.66,
+      "text": "Now, 2.3.10, the Buddha said,"
+    },
+    {
+      "start": 6.66,
+      "end": 12.9,
+      "text": "monks, these two conditions have part in knowledge, what two?"
+    },
+    {
+      "start": 12.9,
+      "end": 20.48,
+      "text": "Samata and Vipassana, tranquilization and contemplation."
+    },
+    {
+      "start": 20.48,
+      "end": 28.08,
+      "text": "If cultivated, what profit does Samata or tranquilization attain?"
+    },
+    {
+      "start": 28.08,
+      "end": 29.88,
+      "text": "The mind is cultivated."
+    },
+    {
+      "start": 30.08,
+      "end": 33.68,
+      "text": "What profit results from a cultivated mind?"
+    },
+    {
+      "start": 33.68,
+      "end": 35.88,
+      "text": "All lust is abandoned."
+    },
+    {
+      "start": 35.88,
+      "end": 39.68,
+      "text": "Monks, if contemplation Vipassana is cultivated,"
+    },
+    {
+      "start": 39.68,
+      "end": 41.68,
+      "text": "what profit does it attain?"
+    },
+    {
+      "start": 41.68,
+      "end": 43.68,
+      "text": "Inside is cultivated."
+    },
+    {
+      "start": 43.68,
+      "end": 47.68,
+      "text": "If inside is cultivated, what profit does it attain?"
+    },
+    {
+      "start": 47.68,
+      "end": 51.18,
+      "text": "All ignorance is abandoned."
+    },
+    {
+      "start": 51.18,
+      "end": 54.18,
+      "text": "A mind defiled by lust is not set free."
+    },
+    {
+      "start": 54.18,
+      "end": 58.28,
+      "text": "Nor can insight defiled by ignorance be cultivated."
+    },
+    {
+      "start": 58.28,
+      "end": 63.48,
+      "text": "Indeed monks, this seizing of lust is the mind's release."
+    },
+    {
+      "start": 63.48,
+      "end": 67.18,
+      "text": "This seizing of lust is liberation by mind."
+    },
+    {
+      "start": 67.18,
+      "end": 73.68,
+      "text": "This seizing of ignorance is liberation by wisdom."
+    },
+    {
+      "start": 73.68,
+      "end": 74.98,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 74.98,
+      "end": 78.38,
+      "text": "This is one of the Sutta's which are quite important"
+    },
+    {
+      "start": 78.38,
+      "end": 80.58,
+      "text": "as far as meditation is concerned."
+    },
+    {
+      "start": 80.58,
+      "end": 85.98,
+      "text": "Because here, the Buddha is saying that two conditions bring us knowledge."
+    },
+    {
+      "start": 85.98,
+      "end": 88.58,
+      "text": "Samata and Vipassana."
+    },
+    {
+      "start": 88.68,
+      "end": 90.18,
+      "text": "The Buddha didn't say one."
+    },
+    {
+      "start": 90.18,
+      "end": 94.78,
+      "text": "The Buddha said two conditions result in knowledge."
+    },
+    {
+      "start": 94.78,
+      "end": 96.58,
+      "text": "Samata and Vipassana."
+    },
+    {
+      "start": 96.58,
+      "end": 101.18,
+      "text": "And then the Buddha says that by cultivating Samata,"
+    },
+    {
+      "start": 101.18,
+      "end": 102.98,
+      "text": "finally the lust is abandoned."
+    },
+    {
+      "start": 102.98,
+      "end": 108.18,
+      "text": "And by cultivating Vipassana, you get insight."
+    },
+    {
+      "start": 108.18,
+      "end": 111.08,
+      "text": "And then finally all ignorance is abandoned."
+    },
+    {
+      "start": 111.08,
+      "end": 114.88,
+      "text": "Sometimes people translate this word Vipassana as insight."
+    },
+    {
+      "start": 114.88,
+      "end": 124.48,
+      "text": "But here you notice that Vipassana if cultivated results in insight or wisdom."
+    },
+    {
+      "start": 124.48,
+      "end": 131.08,
+      "text": "So Vipassana cannot be inside or wisdom."
+    },
+    {
+      "start": 131.08,
+      "end": 136.58,
+      "text": "Vipassana is something that is practiced and will result in insight or wisdom."
+    },
+    {
+      "start": 136.58,
+      "end": 140.48,
+      "text": "Therefore, the proper translation should be contemplation."
+    },
+    {
+      "start": 140.48,
+      "end": 145.38,
+      "text": "In Chinese, it is translated as Julkwan, Julkwan for Samata"
+    },
+    {
+      "start": 145.38,
+      "end": 149.08,
+      "text": "and Kwan contemplation for Vipassana."
+    },
+    {
+      "start": 149.08,
+      "end": 152.58,
+      "text": "And then finally the Buddha is saying that"
+    },
+    {
+      "start": 152.58,
+      "end": 155.68,
+      "text": "a mind defiled by lust is not set free."
+    },
+    {
+      "start": 155.68,
+      "end": 160.88,
+      "text": "Nor can insight defiled by ignorance be cultivated."
+    },
+    {
+      "start": 160.88,
+      "end": 164.48,
+      "text": "In other words, the Buddha is saying that both are necessary."
+    },
+    {
+      "start": 164.48,
+      "end": 168.48,
+      "text": "That lust must be abandoned and ignorance must be abandoned."
+    },
+    {
+      "start": 168.58,
+      "end": 180.72,
+      "text": "That's why the Buddha is saying that both Samata and Vipassana are necessary."
+    },
+    {
+      "start": 180.72,
+      "end": 189.02,
+      "text": "This word Samata tranquilization is the work of making the mind tranquil."
+    },
+    {
+      "start": 189.02,
+      "end": 195.12,
+      "text": "And there are different levels for different stages of areahood."
+    },
+    {
+      "start": 195.22,
+      "end": 198.82,
+      "text": "In two sutras in the Angutorani Kaya, the Buddha says"
+    },
+    {
+      "start": 198.82,
+      "end": 203.12,
+      "text": "that the Sutta Panna and the Sakadagami, first and second stage area,"
+    },
+    {
+      "start": 203.12,
+      "end": 205.42,
+      "text": "they only have perfect Sila."
+    },
+    {
+      "start": 205.42,
+      "end": 209.82,
+      "text": "Whereas the Anagami has perfect Sila and Samadhi."
+    },
+    {
+      "start": 209.82,
+      "end": 213.42,
+      "text": "And the Arahana has perfect Sila, Samadhi and Paniya."
+    },
+    {
+      "start": 213.42,
+      "end": 218.42,
+      "text": "So you can see that Anagami and Arahana have perfect Samadhi"
+    },
+    {
+      "start": 218.42,
+      "end": 221.22,
+      "text": "which is always stated in the Sutta."
+    },
+    {
+      "start": 221.32,
+      "end": 225.12,
+      "text": "Two beautiful Janas, or at least one point in this of mind."
+    },
+    {
+      "start": 225.12,
+      "end": 229.02,
+      "text": "So from here, you can see that Sutta Panna and Sakadagami"
+    },
+    {
+      "start": 229.02,
+      "end": 234.52,
+      "text": "in the Angutorani Kaya does not require Janas."
+    },
+    {
+      "start": 234.52,
+      "end": 239.32,
+      "text": "So from here, you can see that Samata, the practice of tranquilizing the mind,"
+    },
+    {
+      "start": 239.32,
+      "end": 246.32,
+      "text": "has different levels for Sutta Panna, Sakadagami and Arahana."
+    },
+    {
+      "start": 246.42,
+      "end": 255.42,
+      "text": "Samata also leads to the lowering of the reduction of the hindrances."
+    },
+    {
+      "start": 255.42,
+      "end": 261.62,
+      "text": "And in the Sangyuta and the Angutorani Kaya,"
+    },
+    {
+      "start": 261.62,
+      "end": 268.02,
+      "text": "the Buddha says the condition for seeing things as they really are, is Samadhi."
+    },
+    {
+      "start": 268.02,
+      "end": 282.18,
+      "text": "So nowadays, sometimes we have some controversy over the people"
+    },
+    {
+      "start": 282.18,
+      "end": 285.78,
+      "text": "who practice Samata and people who practice Vipassana."
+    },
+    {
+      "start": 285.78,
+      "end": 287.78,
+      "text": "But sometimes people get confused."
+    },
+    {
+      "start": 287.78,
+      "end": 297.38,
+      "text": "The controversy should not be about whether Samata is better or Vipassana is better"
+    },
+    {
+      "start": 297.38,
+      "end": 300.78,
+      "text": "because both are necessary in the Buddha's teaching."
+    },
+    {
+      "start": 300.78,
+      "end": 307.58,
+      "text": "If there is any controversy, it should be whether the Buddha's teaching"
+    },
+    {
+      "start": 307.68,
+      "end": 310.98,
+      "text": "is to practice both Samata and Vipassana."
+    },
+    {
+      "start": 310.98,
+      "end": 315.18,
+      "text": "Or is it only that one is necessary?"
+    },
+    {
+      "start": 315.18,
+      "end": 319.78,
+      "text": "Just as nowadays, some people are saying that only Vipassana is necessary,"
+    },
+    {
+      "start": 319.78,
+      "end": 322.18,
+      "text": "but Samata is not necessary."
+    },
+    {
+      "start": 322.18,
+      "end": 327.98,
+      "text": "For this, we see in one Sutta in Angutorani Kaya, 4.170,"
+    },
+    {
+      "start": 327.98,
+      "end": 332.48,
+      "text": "where the Arahana, Ananda, Asetana and all is."
+    },
+    {
+      "start": 332.48,
+      "end": 334.98,
+      "text": "There are only four ways to Arahana Buddha."
+    },
+    {
+      "start": 334.98,
+      "end": 339.18,
+      "text": "The first way is Samata first followed by Vipassana."
+    },
+    {
+      "start": 339.18,
+      "end": 343.18,
+      "text": "The second method is Vipassana first followed by Samata."
+    },
+    {
+      "start": 343.18,
+      "end": 346.78,
+      "text": "The third is Samata and Vipassana at the same time."
+    },
+    {
+      "start": 346.78,
+      "end": 350.88,
+      "text": "And the fourth is that you contemplate on the Self,"
+    },
+    {
+      "start": 350.88,
+      "end": 353.38,
+      "text": "and then you attain 1.2ness of mind."
+    },
+    {
+      "start": 353.38,
+      "end": 358.18,
+      "text": "And then the way is made clear and then you realize the way to Arahana Buddha."
+    },
+    {
+      "start": 358.18,
+      "end": 367.08,
+      "text": "So from this Sutta, we find that both Samata and Vipassana are necessary."
+    },
+    {
+      "start": 367.08,
+      "end": 370.58,
+      "text": "And there is no way in the Sutta stated that"
+    },
+    {
+      "start": 370.58,
+      "end": 383.74,
+      "text": "you can attain Arahana Buddha without 1.2ness of mind or jahanas as was taught by the Buddha."
+    },
+    {
+      "start": 383.74,
+      "end": 392.64,
+      "text": "Now the other day I did not explain what you mean by liberation, by mind and liberation, by insight."
+    },
+    {
+      "start": 392.64,
+      "end": 397.64,
+      "text": "These are the two ways a person attains Arahana Buddha."
+    },
+    {
+      "start": 397.64,
+      "end": 402.94,
+      "text": "And it is if we study the Sutta all the Nikayas,"
+    },
+    {
+      "start": 402.94,
+      "end": 410.64,
+      "text": "then we find that there are three ways in which a person attains Arahana Buddha."
+    },
+    {
+      "start": 410.74,
+      "end": 417.34,
+      "text": "One is the person attains the four Rupa jahanas,"
+    },
+    {
+      "start": 417.34,
+      "end": 420.24,
+      "text": "and then the four Rupa jahanas,"
+    },
+    {
+      "start": 420.24,
+      "end": 425.34,
+      "text": "and then after that a cessation of perception and feeling."
+    },
+    {
+      "start": 425.34,
+      "end": 431.24,
+      "text": "And coming out from a cessation of perception and feeling,"
+    },
+    {
+      "start": 431.24,
+      "end": 441.44,
+      "text": "then he attains this liberation."
+    },
+    {
+      "start": 441.44,
+      "end": 445.84,
+      "text": "And the second one is your attains the four jahanas,"
+    },
+    {
+      "start": 445.84,
+      "end": 449.64,
+      "text": "and coming out of the four jahanas he contemplates,"
+    },
+    {
+      "start": 449.64,
+      "end": 453.34,
+      "text": "a four noble truths etc., and he becomes an Arahana."
+    },
+    {
+      "start": 453.34,
+      "end": 459.74,
+      "text": "The third way a person becomes an Arahana according to the Sutta is when he does not use the jahanas"
+    },
+    {
+      "start": 459.84,
+      "end": 466.84,
+      "text": "at the moment of liberation, like the case of the Arahana Sariputta."
+    },
+    {
+      "start": 466.84,
+      "end": 471.04,
+      "text": "A Sariputta according to one Sutta was fanning the Buddha,"
+    },
+    {
+      "start": 471.04,
+      "end": 476.44,
+      "text": "and the Buddha was talking to an external sect ascetic."
+    },
+    {
+      "start": 476.44,
+      "end": 484.54,
+      "text": "And because of hearing the Dhamma, as the Buddha explained the Dhamma to the external sect ascetic,"
+    },
+    {
+      "start": 484.54,
+      "end": 493.54,
+      "text": "Sariputta just from hearing, he attains Arahana and it is commented by the commentaries"
+    },
+    {
+      "start": 493.54,
+      "end": 497.64,
+      "text": "that Sariputta was liberated by wisdom."
+    },
+    {
+      "start": 497.64,
+      "end": 502.34,
+      "text": "Now there is one Sutta in the Majima Nikaya,"
+    },
+    {
+      "start": 502.34,
+      "end": 506.74,
+      "text": "where the Buddha said that Sariputta had attained all the jahanas,"
+    },
+    {
+      "start": 506.74,
+      "end": 510.74,
+      "text": "all the four Rupa jahanas, all the four Rupa jahanas,"
+    },
+    {
+      "start": 510.74,
+      "end": 516.34,
+      "text": "plus cessation of perception and feeling on the road near Oda Samapati."
+    },
+    {
+      "start": 516.34,
+      "end": 523.14,
+      "text": "And so a person who is liberated by wisdom,"
+    },
+    {
+      "start": 523.14,
+      "end": 526.54,
+      "text": "even though he does not use jahana at the moment of liberation,"
+    },
+    {
+      "start": 526.54,
+      "end": 530.24,
+      "text": "it does not mean that he does not have jahana."
+    },
+    {
+      "start": 530.24,
+      "end": 537.54,
+      "text": "All Arahans have jahana because the Buddha said in two Sutta's in the Guterani Kaya,"
+    },
+    {
+      "start": 537.64,
+      "end": 543.44,
+      "text": "that Sutta Panna and Sakadagami, they have perfect Sila."
+    },
+    {
+      "start": 543.44,
+      "end": 546.64,
+      "text": "Anagami have perfect Sila plus Samadhi,"
+    },
+    {
+      "start": 546.64,
+      "end": 555.24,
+      "text": "and Arahana has perfect Sila Samadhi and wisdom Sila Samadhi and Paniya."
+    },
+    {
+      "start": 555.24,
+      "end": 565.84,
+      "text": "So in the Sutta's, the perfect Samadhi is always defined either as the four jahanas or one-pointedness of mind."
+    },
+    {
+      "start": 565.94,
+      "end": 574.74,
+      "text": "So the difference here between liberation by mind and liberation by insight or wisdom"
+    },
+    {
+      "start": 574.74,
+      "end": 580.94,
+      "text": "is that liberation by mind is the first two cases where they attain the jahanas"
+    },
+    {
+      "start": 580.94,
+      "end": 587.04,
+      "text": "and coming out of the jahanas, they contemplate and they become liberated and become Arahans."
+    },
+    {
+      "start": 587.04,
+      "end": 588.74,
+      "text": "So that is liberation by mind."
+    },
+    {
+      "start": 588.74,
+      "end": 594.74,
+      "text": "Whereas liberation by insight is not using the jahanas at the moment of liberation,"
+    },
+    {
+      "start": 594.84,
+      "end": 602.34,
+      "text": "but because the mind is very clear due to the cultivation of jahana previously,"
+    },
+    {
+      "start": 602.34,
+      "end": 608.24,
+      "text": "then just from contemplation itself, that person, the T.A. and Salahan would."
+    },
+    {
+      "start": 608.24,
+      "end": 615.24,
+      "text": "So this is the liberation by mind and liberation by wisdom."
+    },
+    {
+      "start": 615.24,
+      "end": 622.24,
+      "text": "If you are interested in further details, you can look it up in my booklet,"
+    },
+    {
+      "start": 622.34,
+      "end": 627.34,
+      "text": "or some other time we pass it now, where it's explained more in detail there."
+    },
+    {
+      "start": 627.34,
+      "end": 634.34,
+      "text": "Now the other thing about this Sutta I would like to remind is it has to be read in conjunction with another Sutta,"
+    },
+    {
+      "start": 634.34,
+      "end": 638.34,
+      "text": "a Guthrani Kaya 6.29."
+    },
+    {
+      "start": 638.34,
+      "end": 651.34,
+      "text": "In that Sutta 6.29, I stated that the best condition for insight is a mind that is so concentrated"
+    },
+    {
+      "start": 651.44,
+      "end": 657.94,
+      "text": "that it is bright, a mind that is fully concentrated and is very bright."
+    },
+    {
+      "start": 657.94,
+      "end": 661.94,
+      "text": "Now that is the best condition for insight."
+    },
+    {
+      "start": 661.94,
+      "end": 667.54,
+      "text": "In other words, I am saying that samata, the practice of samata,"
+    },
+    {
+      "start": 667.54,
+      "end": 672.94,
+      "text": "tranquilization of the mind, will give you insight or wisdom."
+    },
+    {
+      "start": 672.94,
+      "end": 680.14,
+      "text": "And the other thing mentioned in that Sutta is that to abandon lust,"
+    },
+    {
+      "start": 680.74,
+      "end": 689.24,
+      "text": "it is very good to practice contemplation on the 32 parts of the body."
+    },
+    {
+      "start": 689.24,
+      "end": 697.54,
+      "text": "Now this contemplation of the 32 parts of the body is Vipassana practice contemplation."
+    },
+    {
+      "start": 697.54,
+      "end": 702.34,
+      "text": "So in other words, here it is saying, and in this Sutta 6.29,"
+    },
+    {
+      "start": 702.34,
+      "end": 708.14,
+      "text": "that practicing of 32 parts of the body contemplation or Vipassana"
+    },
+    {
+      "start": 708.14,
+      "end": 711.54,
+      "text": "leads to the abandonment of lust."
+    },
+    {
+      "start": 711.54,
+      "end": 717.34,
+      "text": "And the practice of samata, until the mind becomes concentrated and bright,"
+    },
+    {
+      "start": 717.34,
+      "end": 719.94,
+      "text": "is the best condition for insight."
+    },
+    {
+      "start": 719.94,
+      "end": 724.14,
+      "text": "Now this is quite the opposite of the Sutta and just read just now,"
+    },
+    {
+      "start": 724.14,
+      "end": 731.24,
+      "text": "because just now that Sutta says that when you practice samata, tranquilization,"
+    },
+    {
+      "start": 731.34,
+      "end": 734.24,
+      "text": "it leads to the abandonment of lust."
+    },
+    {
+      "start": 734.24,
+      "end": 741.74,
+      "text": "And Vipassana will bring about insight."
+    },
+    {
+      "start": 741.74,
+      "end": 748.74,
+      "text": "So that is why Sutta has to be compared if you just read one,"
+    },
+    {
+      "start": 748.74,
+      "end": 751.74,
+      "text": "you get a one-sided picture."
+    },
+    {
+      "start": 751.74,
+      "end": 759.64,
+      "text": "So basically, what these two Sutta also say is that samata and Vipassana"
+    },
+    {
+      "start": 759.64,
+      "end": 765.14,
+      "text": "are both necessary for knowledge or insight."
+    },
+    {
+      "start": 765.14,
+      "end": 772.84,
+      "text": "Now we come to the next Sutta 2.4.1, the Buddha said monks."
+    },
+    {
+      "start": 772.84,
+      "end": 777.04,
+      "text": "I will teach you the condition of the unworthy and that of the worthy."
+    },
+    {
+      "start": 777.04,
+      "end": 778.24,
+      "text": "Do you listen to it?"
+    },
+    {
+      "start": 778.24,
+      "end": 780.64,
+      "text": "Attend closely and I will speak."
+    },
+    {
+      "start": 780.64,
+      "end": 784.34,
+      "text": "Yes, Lord, reply these monks to the exalted one."
+    },
+    {
+      "start": 784.34,
+      "end": 786.54,
+      "text": "The exalted one said monks."
+    },
+    {
+      "start": 786.54,
+      "end": 790.74,
+      "text": "The unworthy man is ungrateful, forgetful of benefits."
+    },
+    {
+      "start": 790.74,
+      "end": 795.84,
+      "text": "This ingratitude, this forgetfulness is congenial to mean people."
+    },
+    {
+      "start": 795.84,
+      "end": 799.14,
+      "text": "It is altogether a feature of unworthy people,"
+    },
+    {
+      "start": 799.14,
+      "end": 802.74,
+      "text": "this ingratitude and forgetfulness of benefits."
+    },
+    {
+      "start": 802.74,
+      "end": 808.14,
+      "text": "But monks, the worthy person is grateful and mindful of benefits done to him."
+    },
+    {
+      "start": 808.14,
+      "end": 812.94,
+      "text": "This gratitude, this mindfulness, is congenial to the best people."
+    },
+    {
+      "start": 812.94,
+      "end": 819.14,
+      "text": "It is altogether a feature of the best people, this gratitude and mindfulness of benefits."
+    },
+    {
+      "start": 819.14,
+      "end": 821.34,
+      "text": "It is the end of the Sutta."
+    },
+    {
+      "start": 821.34,
+      "end": 827.34,
+      "text": "This Sutta is telling us that we should be grateful to those people"
+    },
+    {
+      "start": 827.34,
+      "end": 837.54,
+      "text": "who have benefited us, especially our parents, our elders, our teachers,"
+    },
+    {
+      "start": 837.54,
+      "end": 842.94,
+      "text": "monks who have taught us, etc."
+    },
+    {
+      "start": 842.94,
+      "end": 849.34,
+      "text": "And we should know that a person who is ungrateful, according to the Buddha,"
+    },
+    {
+      "start": 849.34,
+      "end": 857.94,
+      "text": "is a mean person, especially people like our parents whom we owe a lot."
+    },
+    {
+      "start": 857.94,
+      "end": 861.74,
+      "text": "And you can see this in the next Sutta."
+    },
+    {
+      "start": 861.74,
+      "end": 865.74,
+      "text": "The next Sutta, 2.4.2, the Buddha said monks."
+    },
+    {
+      "start": 865.74,
+      "end": 872.14,
+      "text": "One can never repay two persons, I declare, what two, mother and father?"
+    },
+    {
+      "start": 872.14,
+      "end": 875.94,
+      "text": "Even if one should carry about his mother on one shoulder"
+    },
+    {
+      "start": 875.94,
+      "end": 882.34,
+      "text": "and his father on the other, and so doing should live a hundred years, a 10, a hundred years"
+    },
+    {
+      "start": 882.34,
+      "end": 886.94,
+      "text": "and if he should support them, anointing them with anguines,"
+    },
+    {
+      "start": 886.94,
+      "end": 892.94,
+      "text": "that is fragrant oil or something, eating, bathing and rubbing their limbs."
+    },
+    {
+      "start": 893.14,
+      "end": 897.74,
+      "text": "And they, meanwhile, should even void their excrements upon him."
+    },
+    {
+      "start": 897.74,
+      "end": 900.94,
+      "text": "Even so, could he not repay his parents?"
+    },
+    {
+      "start": 900.94,
+      "end": 906.14,
+      "text": "Moreover, monks, if he should establish his parents in supreme authority"
+    },
+    {
+      "start": 906.14,
+      "end": 911.54,
+      "text": "in the absolute rule over this mighty earth, abounding in the seven treasures,"
+    },
+    {
+      "start": 911.54,
+      "end": 914.74,
+      "text": "not even thus, could he repay his parents?"
+    },
+    {
+      "start": 914.74,
+      "end": 916.34,
+      "text": "What is the cause of that?"
+    },
+    {
+      "start": 916.34,
+      "end": 921.94,
+      "text": "Monks, parents do much for their children, they bring them up, they nourish them,"
+    },
+    {
+      "start": 921.94,
+      "end": 924.34,
+      "text": "they introduce them to this world."
+    },
+    {
+      "start": 924.34,
+      "end": 928.74,
+      "text": "Moreover, monks, who so incites his unbelieving parents,"
+    },
+    {
+      "start": 928.74,
+      "end": 931.94,
+      "text": "settles and establishes them in the faith,"
+    },
+    {
+      "start": 931.94,
+      "end": 938.24,
+      "text": "who so incites his immoral parents, settles and establishes them in morality,"
+    },
+    {
+      "start": 938.24,
+      "end": 944.44,
+      "text": "who so incites his stingy parents, settles and establishes them in liberality,"
+    },
+    {
+      "start": 944.44,
+      "end": 949.84,
+      "text": "who so incites his foolish parents, settles and establishes them in wisdom,"
+    },
+    {
+      "start": 949.84,
+      "end": 956.84,
+      "text": "such a one, just by so doing, does repay, does more than repay what is due to his parents,"
+    },
+    {
+      "start": 956.84,
+      "end": 958.84,
+      "text": "that's the end of the sutta."
+    },
+    {
+      "start": 958.84,
+      "end": 964.84,
+      "text": "So here the Buddha is saying that if we should take care of our parents for a hundred years,"
+    },
+    {
+      "start": 964.84,
+      "end": 970.84,
+      "text": "taking good care of them, bathing and massaging them, etc,"
+    },
+    {
+      "start": 970.84,
+      "end": 974.84,
+      "text": "carrying them about on your shoulder, even for a hundred years,"
+    },
+    {
+      "start": 974.84,
+      "end": 981.84,
+      "text": "still cannot pay back the debt of the parents, to your parents,"
+    },
+    {
+      "start": 981.84,
+      "end": 986.84,
+      "text": "because when we are young, if all of us try to recall,"
+    },
+    {
+      "start": 986.84,
+      "end": 990.84,
+      "text": "we know on many occasions when we were young and helpless,"
+    },
+    {
+      "start": 990.84,
+      "end": 994.84,
+      "text": "and we were sick many times, we could have passed away,"
+    },
+    {
+      "start": 994.84,
+      "end": 1001.84,
+      "text": "not for the great care that our parents showed on earth,"
+    },
+    {
+      "start": 1001.84,
+      "end": 1005.84,
+      "text": "especially our mother, all of us,"
+    },
+    {
+      "start": 1005.84,
+      "end": 1014.84,
+      "text": "we know that the mother usually takes more care of the children personally,"
+    },
+    {
+      "start": 1014.84,
+      "end": 1017.84,
+      "text": "and then the father, that's why in the Indian tradition,"
+    },
+    {
+      "start": 1017.84,
+      "end": 1022.84,
+      "text": "they always talk about Mata, P2, mother-first, mother-father,"
+    },
+    {
+      "start": 1022.84,
+      "end": 1028.84,
+      "text": "whereas in the Chinese tradition, we always say father-first and then mother."
+    },
+    {
+      "start": 1028.84,
+      "end": 1034.84,
+      "text": "And so you see, even if we were to take good care of our parents until they died,"
+    },
+    {
+      "start": 1034.84,
+      "end": 1037.84,
+      "text": "it's difficult to repay their kindness."
+    },
+    {
+      "start": 1037.84,
+      "end": 1044.84,
+      "text": "So you can think of a person who is not filial to his parents,"
+    },
+    {
+      "start": 1044.84,
+      "end": 1049.84,
+      "text": "somebody who does not take care of the parents,"
+    },
+    {
+      "start": 1049.84,
+      "end": 1053.84,
+      "text": "and after the parent has passed away,"
+    },
+    {
+      "start": 1053.84,
+      "end": 1059.84,
+      "text": "I have seen for myself somebody who was not very filial to the parent,"
+    },
+    {
+      "start": 1059.84,
+      "end": 1063.84,
+      "text": "and after the parent passed away, the remorse,"
+    },
+    {
+      "start": 1063.84,
+      "end": 1067.84,
+      "text": "it's very great on that person,"
+    },
+    {
+      "start": 1067.84,
+      "end": 1073.84,
+      "text": "because the feeling that you have not done what you should have done"
+    },
+    {
+      "start": 1073.84,
+      "end": 1079.84,
+      "text": "to somebody whom you owe so much, it weighs down heavily on your conscience."
+    },
+    {
+      "start": 1080.84,
+      "end": 1082.84,
+      "text": "And the last part, the Buddha said,"
+    },
+    {
+      "start": 1082.84,
+      "end": 1087.84,
+      "text": "if we want to repay our parents, there are four ways where we can repay them,"
+    },
+    {
+      "start": 1087.84,
+      "end": 1092.84,
+      "text": "and repay them fully, and even more than what is new."
+    },
+    {
+      "start": 1092.84,
+      "end": 1096.84,
+      "text": "One is, if they do not have faith in the Buddha, Dharma, and Sangha,"
+    },
+    {
+      "start": 1096.84,
+      "end": 1101.84,
+      "text": "you bring them to listen to the teachings of the Buddha,"
+    },
+    {
+      "start": 1101.84,
+      "end": 1106.84,
+      "text": "boy, you lend them tapes to listen, etc.,"
+    },
+    {
+      "start": 1107.84,
+      "end": 1111.84,
+      "text": "and so that they have faith in the Buddha, Dharma, and Sangha."
+    },
+    {
+      "start": 1111.84,
+      "end": 1116.84,
+      "text": "Then you have one way, you have repaid your parents."
+    },
+    {
+      "start": 1116.84,
+      "end": 1120.84,
+      "text": "The second one, if they do not know how to keep the precepts,"
+    },
+    {
+      "start": 1120.84,
+      "end": 1124.84,
+      "text": "they don't know about Sila, you teach them to keep the five precepts."
+    },
+    {
+      "start": 1124.84,
+      "end": 1130.84,
+      "text": "That's another way you prepare them so that they establish in Sila."
+    },
+    {
+      "start": 1130.84,
+      "end": 1133.84,
+      "text": "The third way is, if they are stingy,"
+    },
+    {
+      "start": 1133.84,
+      "end": 1137.84,
+      "text": "they don't know how to do dhana offerings,"
+    },
+    {
+      "start": 1137.84,
+      "end": 1143.84,
+      "text": "then you teach them to like, to do charity, to be generous."
+    },
+    {
+      "start": 1143.84,
+      "end": 1145.84,
+      "text": "That's the third way."
+    },
+    {
+      "start": 1145.84,
+      "end": 1148.84,
+      "text": "The fourth one, if they do not have wisdom,"
+    },
+    {
+      "start": 1148.84,
+      "end": 1152.84,
+      "text": "and you teach them the Dharma,"
+    },
+    {
+      "start": 1152.84,
+      "end": 1159.84,
+      "text": "or you get them to listen to cassettes, etc.,"
+    },
+    {
+      "start": 1159.84,
+      "end": 1162.84,
+      "text": "of the Buddha's teachings, so that they understand."
+    },
+    {
+      "start": 1163.84,
+      "end": 1165.84,
+      "text": "And then the wisdom grows."
+    },
+    {
+      "start": 1165.84,
+      "end": 1169.84,
+      "text": "These are the four ways that anyone of them,"
+    },
+    {
+      "start": 1169.84,
+      "end": 1174.84,
+      "text": "or all of them we can use to pay our parents kindness."
+    },
+    {
+      "start": 1174.84,
+      "end": 1176.84,
+      "text": "Why are these four ways important?"
+    },
+    {
+      "start": 1176.84,
+      "end": 1180.84,
+      "text": "Because you bring the parents into the right path,"
+    },
+    {
+      "start": 1180.84,
+      "end": 1184.84,
+      "text": "into the right path by having any one of these four,"
+    },
+    {
+      "start": 1184.84,
+      "end": 1187.84,
+      "text": "if they are well established in any one of these four things,"
+    },
+    {
+      "start": 1187.84,
+      "end": 1190.84,
+      "text": "faith in the Buddha, Dharma, Sangha,"
+    },
+    {
+      "start": 1190.84,
+      "end": 1192.84,
+      "text": "keeping the Sila precepts."
+    },
+    {
+      "start": 1192.84,
+      "end": 1194.84,
+      "text": "Third one, being generous,"
+    },
+    {
+      "start": 1194.84,
+      "end": 1198.84,
+      "text": "liking to do dhana offerings,"
+    },
+    {
+      "start": 1198.84,
+      "end": 1201.84,
+      "text": "and the fourth one is having wisdom,"
+    },
+    {
+      "start": 1201.84,
+      "end": 1207.84,
+      "text": "then at least they will not fall into the woeful claims in the next life."
+    },
+    {
+      "start": 1207.84,
+      "end": 1210.84,
+      "text": "And if they are well established, especially like wisdom,"
+    },
+    {
+      "start": 1210.84,
+      "end": 1214.84,
+      "text": "they might never ever fall into the woeful claims again,"
+    },
+    {
+      "start": 1214.84,
+      "end": 1218.84,
+      "text": "and slowly get out of Sangsara."
+    },
+    {
+      "start": 1219.84,
+      "end": 1227.84,
+      "text": "Now the next Sutta is 2.4.4."
+    },
+    {
+      "start": 1227.84,
+      "end": 1232.84,
+      "text": "Now the house father Anatha Pindika came to visit the exalted one"
+    },
+    {
+      "start": 1232.84,
+      "end": 1235.84,
+      "text": "and saluted him and sat down at one side."
+    },
+    {
+      "start": 1235.84,
+      "end": 1238.84,
+      "text": "So seated he said this to the exalted one,"
+    },
+    {
+      "start": 1238.84,
+      "end": 1242.84,
+      "text": "pray Lord, how many in the world are worthy of offerings,"
+    },
+    {
+      "start": 1242.84,
+      "end": 1245.84,
+      "text": "and where should an offering be made?"
+    },
+    {
+      "start": 1245.84,
+      "end": 1247.84,
+      "text": "Then the Buddha answered,"
+    },
+    {
+      "start": 1247.84,
+      "end": 1250.84,
+      "text": "2 in the world house father are worthy of offerings,"
+    },
+    {
+      "start": 1250.84,
+      "end": 1252.84,
+      "text": "the learner and the adapt."
+    },
+    {
+      "start": 1252.84,
+      "end": 1255.84,
+      "text": "These 2 are worthy of offerings in the world,"
+    },
+    {
+      "start": 1255.84,
+      "end": 1258.84,
+      "text": "and here an offering should be made,"
+    },
+    {
+      "start": 1258.84,
+      "end": 1261.84,
+      "text": "and that's the end of the Sutta."
+    },
+    {
+      "start": 1261.84,
+      "end": 1268.84,
+      "text": "Now this is one of the Sutta's that we need to comment on,"
+    },
+    {
+      "start": 1268.84,
+      "end": 1276.84,
+      "text": "otherwise people may have some wrong bias interpretation"
+    },
+    {
+      "start": 1277.84,
+      "end": 1279.84,
+      "text": "or extreme interpretations."
+    },
+    {
+      "start": 1279.84,
+      "end": 1283.84,
+      "text": "The Buddha is saying that 2 types of persons are worthy of offerings,"
+    },
+    {
+      "start": 1283.84,
+      "end": 1287.84,
+      "text": "and these 2 types are Aryan persons."
+    },
+    {
+      "start": 1287.84,
+      "end": 1289.84,
+      "text": "The first one is a learner,"
+    },
+    {
+      "start": 1289.84,
+      "end": 1292.84,
+      "text": "a learner is what is called a Saka,"
+    },
+    {
+      "start": 1292.84,
+      "end": 1294.84,
+      "text": "S-E-K-H-A."
+    },
+    {
+      "start": 1294.84,
+      "end": 1297.84,
+      "text": "Saka means one who is training,"
+    },
+    {
+      "start": 1297.84,
+      "end": 1302.84,
+      "text": "and one who is training is a person who has attained the first path,"
+    },
+    {
+      "start": 1302.84,
+      "end": 1304.84,
+      "text": "or the first fruit,"
+    },
+    {
+      "start": 1304.84,
+      "end": 1307.84,
+      "text": "or the second path, or the second fruit,"
+    },
+    {
+      "start": 1307.84,
+      "end": 1309.84,
+      "text": "the third path, or the third fruit,"
+    },
+    {
+      "start": 1309.84,
+      "end": 1313.84,
+      "text": "and the fourth path."
+    },
+    {
+      "start": 1313.84,
+      "end": 1315.84,
+      "text": "These are the 7 types of persons,"
+    },
+    {
+      "start": 1315.84,
+      "end": 1318.84,
+      "text": "and the adapt is the R-Saka,"
+    },
+    {
+      "start": 1318.84,
+      "end": 1323.84,
+      "text": "A-S-E-K-H-A."
+    },
+    {
+      "start": 1323.84,
+      "end": 1327.84,
+      "text": "Saka is one who is no more learning,"
+    },
+    {
+      "start": 1327.84,
+      "end": 1329.84,
+      "text": "that means an Arahann."
+    },
+    {
+      "start": 1329.84,
+      "end": 1334.84,
+      "text": "Arahann is a fourth fruit person."
+    },
+    {
+      "start": 1334.84,
+      "end": 1338.84,
+      "text": "These are the 8 Aryans,"
+    },
+    {
+      "start": 1338.84,
+      "end": 1340.84,
+      "text": "it is not the 4 Aryans,"
+    },
+    {
+      "start": 1340.84,
+      "end": 1341.84,
+      "text": "they are 8 Aryans."
+    },
+    {
+      "start": 1341.84,
+      "end": 1343.84,
+      "text": "Later on we can see some Sutta's,"
+    },
+    {
+      "start": 1343.84,
+      "end": 1349.84,
+      "text": "which can prove that you have 8 persons actually,"
+    },
+    {
+      "start": 1349.84,
+      "end": 1353.84,
+      "text": "not for some teachings and some related books,"
+    },
+    {
+      "start": 1353.84,
+      "end": 1356.84,
+      "text": "I think the Abhidharma and commentaries."
+    },
+    {
+      "start": 1356.84,
+      "end": 1359.84,
+      "text": "We say that when a person attains the path,"
+    },
+    {
+      "start": 1359.84,
+      "end": 1362.84,
+      "text": "he immediately attains the fruit,"
+    },
+    {
+      "start": 1362.84,
+      "end": 1365.84,
+      "text": "but later I can show you some Sutta's,"
+    },
+    {
+      "start": 1365.84,
+      "end": 1368.84,
+      "text": "where it is not quite solar."
+    },
+    {
+      "start": 1368.84,
+      "end": 1372.84,
+      "text": "You can have a person who is on the path,"
+    },
+    {
+      "start": 1372.84,
+      "end": 1374.84,
+      "text": "and he can be on the path for many years,"
+    },
+    {
+      "start": 1374.84,
+      "end": 1377.84,
+      "text": "before he attains the fruit."
+    },
+    {
+      "start": 1377.84,
+      "end": 1383.84,
+      "text": "So here the Buddha is saying that these Aryans are worthy of offering,"
+    },
+    {
+      "start": 1384.84,
+      "end": 1388.84,
+      "text": "and it is partly because of a Sutta like this,"
+    },
+    {
+      "start": 1388.84,
+      "end": 1390.84,
+      "text": "that there are some people,"
+    },
+    {
+      "start": 1390.84,
+      "end": 1396.84,
+      "text": "due to the greed for merit,"
+    },
+    {
+      "start": 1396.84,
+      "end": 1400.84,
+      "text": "sometimes they only like to make offerings,"
+    },
+    {
+      "start": 1400.84,
+      "end": 1404.84,
+      "text": "two monks, that they think are Aryans,"
+    },
+    {
+      "start": 1404.84,
+      "end": 1408.84,
+      "text": "and they think that other monks are not worthy of offerings,"
+    },
+    {
+      "start": 1408.84,
+      "end": 1411.84,
+      "text": "and this is not the Buddha's teachings."
+    },
+    {
+      "start": 1411.84,
+      "end": 1414.84,
+      "text": "The Buddha has said in some other Sutta,"
+    },
+    {
+      "start": 1414.84,
+      "end": 1416.84,
+      "text": "I think in the Angutorani Kaya,"
+    },
+    {
+      "start": 1416.84,
+      "end": 1419.84,
+      "text": "that if you make offerings to monks"
+    },
+    {
+      "start": 1419.84,
+      "end": 1423.84,
+      "text": "with a selfish motive to get such and such merit,"
+    },
+    {
+      "start": 1423.84,
+      "end": 1425.84,
+      "text": "then it reduces your merit."
+    },
+    {
+      "start": 1425.84,
+      "end": 1429.84,
+      "text": "That's one thing we have to know."
+    },
+    {
+      "start": 1429.84,
+      "end": 1431.84,
+      "text": "The other thing is,"
+    },
+    {
+      "start": 1431.84,
+      "end": 1436.84,
+      "text": "the Buddha has stated in the Angutorani Kaya 4.60"
+    },
+    {
+      "start": 1436.84,
+      "end": 1439.84,
+      "text": "that it is the lay person's duty"
+    },
+    {
+      "start": 1439.84,
+      "end": 1444.84,
+      "text": "to supply the Sangha with the four requisites,"
+    },
+    {
+      "start": 1444.84,
+      "end": 1446.84,
+      "text": "the four requisites that monks need,"
+    },
+    {
+      "start": 1446.84,
+      "end": 1449.84,
+      "text": "are the four essentials of existence."
+    },
+    {
+      "start": 1449.84,
+      "end": 1454.84,
+      "text": "The first one is food, the second one is robes,"
+    },
+    {
+      "start": 1454.84,
+      "end": 1460.84,
+      "text": "the third one is a place to stay,"
+    },
+    {
+      "start": 1460.84,
+      "end": 1465.84,
+      "text": "and the fourth one is medicine or medical care,"
+    },
+    {
+      "start": 1465.84,
+      "end": 1471.84,
+      "text": "and the Buddha said it is lay person's duty"
+    },
+    {
+      "start": 1471.84,
+      "end": 1475.84,
+      "text": "to supply monks with these four requisites,"
+    },
+    {
+      "start": 1475.84,
+      "end": 1480.84,
+      "text": "and if lay person's don't take care of the Sangha,"
+    },
+    {
+      "start": 1480.84,
+      "end": 1484.84,
+      "text": "then who is the Sangha to turn to,"
+    },
+    {
+      "start": 1484.84,
+      "end": 1487.84,
+      "text": "and they might as well disrobe and earn their own salary"
+    },
+    {
+      "start": 1487.84,
+      "end": 1491.84,
+      "text": "if they people don't support them."
+    },
+    {
+      "start": 1491.84,
+      "end": 1494.84,
+      "text": "And another thing is,"
+    },
+    {
+      "start": 1494.84,
+      "end": 1498.84,
+      "text": "there's another Sutta where the Buddha said in the future,"
+    },
+    {
+      "start": 1498.84,
+      "end": 1503.84,
+      "text": "I don't have the number of the Sutta of hand,"
+    },
+    {
+      "start": 1503.84,
+      "end": 1507.84,
+      "text": "the Buddha said in the future, there will be monks"
+    },
+    {
+      "start": 1507.84,
+      "end": 1509.84,
+      "text": "who wear the yellow robe,"
+    },
+    {
+      "start": 1509.84,
+      "end": 1511.84,
+      "text": "and they might be corrupt,"
+    },
+    {
+      "start": 1511.84,
+      "end": 1514.84,
+      "text": "they might not keep the precepts,"
+    },
+    {
+      "start": 1514.84,
+      "end": 1518.84,
+      "text": "and they might not practice the spiritual path, etc."
+    },
+    {
+      "start": 1518.84,
+      "end": 1520.84,
+      "text": "Even then, the Buddha said,"
+    },
+    {
+      "start": 1520.84,
+      "end": 1522.84,
+      "text": "if you make offerings to them,"
+    },
+    {
+      "start": 1522.84,
+      "end": 1525.84,
+      "text": "still it is meritorious."
+    },
+    {
+      "start": 1525.84,
+      "end": 1526.84,
+      "text": "Why?"
+    },
+    {
+      "start": 1526.84,
+      "end": 1529.84,
+      "text": "Because if we make offerings to the Sangha,"
+    },
+    {
+      "start": 1529.84,
+      "end": 1532.84,
+      "text": "then it helps to perpetuate the Sangha."
+    },
+    {
+      "start": 1532.84,
+      "end": 1535.84,
+      "text": "And even if at a certain state,"
+    },
+    {
+      "start": 1535.84,
+      "end": 1539.84,
+      "text": "the Sangha do not practice well later,"
+    },
+    {
+      "start": 1539.84,
+      "end": 1542.84,
+      "text": "there's always a chance that you might get our hands again."
+    },
+    {
+      "start": 1542.84,
+      "end": 1544.84,
+      "text": "Just like in Sri Lanka,"
+    },
+    {
+      "start": 1544.84,
+      "end": 1547.84,
+      "text": "in certain countries, there was a time"
+    },
+    {
+      "start": 1547.84,
+      "end": 1550.84,
+      "text": "when the monks were corrupt."
+    },
+    {
+      "start": 1550.84,
+      "end": 1554.84,
+      "text": "And so, some people were disillusioned"
+    },
+    {
+      "start": 1554.84,
+      "end": 1557.84,
+      "text": "that some monks went to Burma,"
+    },
+    {
+      "start": 1557.84,
+      "end": 1559.84,
+      "text": "went to Thailand to re-ordain,"
+    },
+    {
+      "start": 1559.84,
+      "end": 1564.84,
+      "text": "and come back and establish a new chapter,"
+    },
+    {
+      "start": 1564.84,
+      "end": 1566.84,
+      "text": "a new sect of Sangha."
+    },
+    {
+      "start": 1566.84,
+      "end": 1569.84,
+      "text": "Like for example, the Siam Nikaya in Sri Lanka."
+    },
+    {
+      "start": 1569.84,
+      "end": 1572.84,
+      "text": "It was started after a monk went over to Thailand,"
+    },
+    {
+      "start": 1572.84,
+      "end": 1575.84,
+      "text": "re-ordain with the Thai Sangha and came back."
+    },
+    {
+      "start": 1575.84,
+      "end": 1578.84,
+      "text": "He wanted to change the Sangha."
+    },
+    {
+      "start": 1578.84,
+      "end": 1586.84,
+      "text": "So, it is important for lay people to continue to support the Sangha,"
+    },
+    {
+      "start": 1586.84,
+      "end": 1591.84,
+      "text": "so that the Sangha can continue."
+    },
+    {
+      "start": 1591.84,
+      "end": 1595.84,
+      "text": "If it is cut off, then it is forever cut off."
+    },
+    {
+      "start": 1595.84,
+      "end": 1599.84,
+      "text": "And the Buddha said that it's always more meritorious"
+    },
+    {
+      "start": 1599.84,
+      "end": 1603.84,
+      "text": "to offer to the Sangha than a single monk."
+    },
+    {
+      "start": 1603.84,
+      "end": 1608.84,
+      "text": "That's why we noticed in the Vinaya,"
+    },
+    {
+      "start": 1608.84,
+      "end": 1611.84,
+      "text": "the Buddha's mother,"
+    },
+    {
+      "start": 1611.84,
+      "end": 1616.84,
+      "text": "that means the lady who looked after him as a mother,"
+    },
+    {
+      "start": 1616.84,
+      "end": 1618.84,
+      "text": "actually his foster mother,"
+    },
+    {
+      "start": 1618.84,
+      "end": 1623.84,
+      "text": "because his real mother died very soon after he was born."
+    },
+    {
+      "start": 1623.84,
+      "end": 1628.84,
+      "text": "And the foster mother became a nun known as Mahapajapati."
+    },
+    {
+      "start": 1629.84,
+      "end": 1633.84,
+      "text": "And after she became a nun,"
+    },
+    {
+      "start": 1633.84,
+      "end": 1638.84,
+      "text": "she decided to make a rope and offer it to the Buddha."
+    },
+    {
+      "start": 1638.84,
+      "end": 1645.84,
+      "text": "So she came and because of the love for the Buddha and the respect,"
+    },
+    {
+      "start": 1645.84,
+      "end": 1649.84,
+      "text": "she personally offered this rope to the Buddha."
+    },
+    {
+      "start": 1649.84,
+      "end": 1652.84,
+      "text": "And the Buddha out of compassion for her refused to accept."
+    },
+    {
+      "start": 1652.84,
+      "end": 1656.84,
+      "text": "The Buddha said, please offer it to the Sangha,"
+    },
+    {
+      "start": 1656.84,
+      "end": 1659.84,
+      "text": "because the Buddha wanted her to have more merit."
+    },
+    {
+      "start": 1659.84,
+      "end": 1665.84,
+      "text": "But because of some attachment to the Buddha, the love,"
+    },
+    {
+      "start": 1665.84,
+      "end": 1667.84,
+      "text": "she didn't want to offer it to the Sangha."
+    },
+    {
+      "start": 1667.84,
+      "end": 1669.84,
+      "text": "Even though the merit might be less,"
+    },
+    {
+      "start": 1669.84,
+      "end": 1671.84,
+      "text": "she wanted to give it to the Buddha."
+    },
+    {
+      "start": 1671.84,
+      "end": 1674.84,
+      "text": "Second time she came and offered it to the Buddha."
+    },
+    {
+      "start": 1674.84,
+      "end": 1677.84,
+      "text": "Second time the Buddha refused her to give it to the Sangha."
+    },
+    {
+      "start": 1677.84,
+      "end": 1681.84,
+      "text": "Third time she came and offered to the Buddha."
+    },
+    {
+      "start": 1681.84,
+      "end": 1684.84,
+      "text": "Third time the Buddha refused her to give it to the Sangha."
+    },
+    {
+      "start": 1684.84,
+      "end": 1687.84,
+      "text": "Both also had mutual love for each other."
+    },
+    {
+      "start": 1687.84,
+      "end": 1690.84,
+      "text": "One wanted to give it to him personally."
+    },
+    {
+      "start": 1690.84,
+      "end": 1694.84,
+      "text": "The other one out of love for her also wanted her to have more merit"
+    },
+    {
+      "start": 1694.84,
+      "end": 1696.84,
+      "text": "and offer it to the Sangha."
+    },
+    {
+      "start": 1699.84,
+      "end": 1701.84,
+      "text": "The other thing is,"
+    },
+    {
+      "start": 1701.84,
+      "end": 1708.84,
+      "text": "it is stated in the Sutra that of all the material offerings"
+    },
+    {
+      "start": 1708.84,
+      "end": 1713.84,
+      "text": "that a person can give the highest material offering"
+    },
+    {
+      "start": 1713.84,
+      "end": 1720.84,
+      "text": "is to make a monastery either to offer the land for a monastery"
+    },
+    {
+      "start": 1720.84,
+      "end": 1723.84,
+      "text": "or to help build a monastery for the Sangha."
+    },
+    {
+      "start": 1723.84,
+      "end": 1728.84,
+      "text": "And the Buddha said, by offering a monastery to the Sangha,"
+    },
+    {
+      "start": 1728.84,
+      "end": 1733.84,
+      "text": "the merit is higher than feeding the Buddha"
+    },
+    {
+      "start": 1733.84,
+      "end": 1735.84,
+      "text": "and all the Arhan disciples."
+    },
+    {
+      "start": 1735.84,
+      "end": 1739.84,
+      "text": "All the Arhan disciples together feeding them"
+    },
+    {
+      "start": 1739.84,
+      "end": 1746.84,
+      "text": "is not so meritorious as offering a monastery for the Sangha to live."
+    },
+    {
+      "start": 1746.84,
+      "end": 1750.84,
+      "text": "Why? Because by offering a place for the Sangha to live,"
+    },
+    {
+      "start": 1750.84,
+      "end": 1752.84,
+      "text": "then the Sangha is perpetuated."
+    },
+    {
+      "start": 1752.84,
+      "end": 1756.84,
+      "text": "It continues years and years and years."
+    },
+    {
+      "start": 1756.84,
+      "end": 1759.84,
+      "text": "Now the other thing is,"
+    },
+    {
+      "start": 1759.84,
+      "end": 1765.84,
+      "text": "lay people should not discriminate too much between monks."
+    },
+    {
+      "start": 1766.84,
+      "end": 1771.84,
+      "text": "The Buddha said in one Sutra that lay people should not be too attached"
+    },
+    {
+      "start": 1771.84,
+      "end": 1773.84,
+      "text": "to one particular monk."
+    },
+    {
+      "start": 1773.84,
+      "end": 1777.84,
+      "text": "The details are given in that Sutra."
+    },
+    {
+      "start": 1777.84,
+      "end": 1780.84,
+      "text": "There is no need to mention it here."
+    },
+    {
+      "start": 1780.84,
+      "end": 1784.84,
+      "text": "And why? Because it is very difficult for lay people"
+    },
+    {
+      "start": 1784.84,
+      "end": 1787.84,
+      "text": "to distinguish between monks."
+    },
+    {
+      "start": 1787.84,
+      "end": 1790.84,
+      "text": "And in the Sutras we find even an Anagami,"
+    },
+    {
+      "start": 1790.84,
+      "end": 1793.84,
+      "text": "like the lay person Chitta."
+    },
+    {
+      "start": 1793.84,
+      "end": 1795.84,
+      "text": "Even though he is an Anagami,"
+    },
+    {
+      "start": 1795.84,
+      "end": 1797.84,
+      "text": "when he invites monks to his house,"
+    },
+    {
+      "start": 1797.84,
+      "end": 1799.84,
+      "text": "he bows down to them."
+    },
+    {
+      "start": 1799.84,
+      "end": 1802.84,
+      "text": "Even though they are putujana,"
+    },
+    {
+      "start": 1802.84,
+      "end": 1804.84,
+      "text": "even he is an Anagami, he bows to the monks"
+    },
+    {
+      "start": 1804.84,
+      "end": 1807.84,
+      "text": "because he is bowing not to the particular monk,"
+    },
+    {
+      "start": 1807.84,
+      "end": 1809.84,
+      "text": "he is bowing to the Sangha."
+    },
+    {
+      "start": 1809.84,
+      "end": 1813.84,
+      "text": "The monks represent the Sangha."
+    },
+    {
+      "start": 1813.84,
+      "end": 1817.84,
+      "text": "In the Angutanikaya 4.4,"
+    },
+    {
+      "start": 1817.84,
+      "end": 1823.84,
+      "text": "the Buddha says that if you treat four persons badly,"
+    },
+    {
+      "start": 1823.84,
+      "end": 1826.84,
+      "text": "you have wrong conduct towards four persons."
+    },
+    {
+      "start": 1826.84,
+      "end": 1828.84,
+      "text": "You create much remarried."
+    },
+    {
+      "start": 1828.84,
+      "end": 1830.84,
+      "text": "One is to the Buddha."
+    },
+    {
+      "start": 1830.84,
+      "end": 1834.84,
+      "text": "The second one is to his disciples."
+    },
+    {
+      "start": 1834.84,
+      "end": 1836.84,
+      "text": "That means he is among disciples."
+    },
+    {
+      "start": 1836.84,
+      "end": 1840.84,
+      "text": "The third one is mother, the fourth one is father."
+    }
+  ]
+}

@@ -1,0 +1,3985 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1848.6335,
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 6.38,
+      "text": "Now we come to another Sutta, 4.20.198, the Buddha said,"
+    },
+    {
+      "start": 6.38,
+      "end": 10.38,
+      "text": "monks, these four persons are found existing in the world."
+    },
+    {
+      "start": 10.38,
+      "end": 11.88,
+      "text": "What for?"
+    },
+    {
+      "start": 11.88,
+      "end": 15.38,
+      "text": "Here in monks, a certain person is a self-tomenter,"
+    },
+    {
+      "start": 15.38,
+      "end": 17.88,
+      "text": "given to the practice of self-toment."
+    },
+    {
+      "start": 17.88,
+      "end": 21.38,
+      "text": "Here in again, a certain person is a tormenter of another,"
+    },
+    {
+      "start": 21.38,
+      "end": 25.38,
+      "text": "given to the practice of tormenting another."
+    },
+    {
+      "start": 25.38,
+      "end": 29.38,
+      "text": "Yet again, a certain person is a tormenter, both of self and another,"
+    },
+    {
+      "start": 29.38,
+      "end": 31.38,
+      "text": "and given to that practice."
+    },
+    {
+      "start": 31.38,
+      "end": 34.88,
+      "text": "Yet again, monks, a certain person is a tormenter,"
+    },
+    {
+      "start": 34.88,
+      "end": 37.38,
+      "text": "neither of self nor of another,"
+    },
+    {
+      "start": 37.38,
+      "end": 40.88,
+      "text": "nor given to the practice of tormenting self and another."
+    },
+    {
+      "start": 40.88,
+      "end": 51.88,
+      "text": "He who torments neither self nor another in this very life is no more hungry,"
+    },
+    {
+      "start": 51.88,
+      "end": 54.88,
+      "text": "he is a lay, he has become cool,"
+    },
+    {
+      "start": 54.88,
+      "end": 56.88,
+      "text": "one who has penetrated bliss,"
+    },
+    {
+      "start": 56.88,
+      "end": 60.88,
+      "text": "who dwells with self that has become Brahma."
+    },
+    {
+      "start": 60.88,
+      "end": 63.88,
+      "text": "And how monks is a person a self-tomenter,"
+    },
+    {
+      "start": 63.88,
+      "end": 66.88,
+      "text": "one given to the practice of self-toment."
+    },
+    {
+      "start": 66.88,
+      "end": 69.38,
+      "text": "In this case, a certain one goes naked,"
+    },
+    {
+      "start": 69.38,
+      "end": 72.88,
+      "text": "he has loose habits, he licks his hands clean,"
+    },
+    {
+      "start": 72.88,
+      "end": 75.38,
+      "text": "he will have none of your come in your reverence,"
+    },
+    {
+      "start": 75.38,
+      "end": 77.38,
+      "text": "or stop a bit your reverence."
+    },
+    {
+      "start": 77.38,
+      "end": 79.38,
+      "text": "He refuses food brought to him,"
+    },
+    {
+      "start": 79.38,
+      "end": 81.38,
+      "text": "he refuses special food,"
+    },
+    {
+      "start": 81.38,
+      "end": 83.38,
+      "text": "he refuses an invitation to a meal,"
+    },
+    {
+      "start": 83.38,
+      "end": 86.88,
+      "text": "he refuses food straight from the pot or straight from the pan,"
+    },
+    {
+      "start": 86.88,
+      "end": 88.88,
+      "text": "or within the threshold of a door,"
+    },
+    {
+      "start": 88.88,
+      "end": 91.88,
+      "text": "or among the firewood, or among the rice pounders."
+    },
+    {
+      "start": 91.88,
+      "end": 94.88,
+      "text": "He refuses food when a couple are eating,"
+    },
+    {
+      "start": 94.88,
+      "end": 96.88,
+      "text": "or from a pregnant woman,"
+    },
+    {
+      "start": 96.88,
+      "end": 98.88,
+      "text": "or from a woman giving suck,"
+    },
+    {
+      "start": 98.88,
+      "end": 100.88,
+      "text": "or from one sleeping with a man."
+    },
+    {
+      "start": 100.88,
+      "end": 102.88,
+      "text": "He refuses food from a mixed collection,"
+    },
+    {
+      "start": 102.88,
+      "end": 104.88,
+      "text": "or where a dog stands by,"
+    },
+    {
+      "start": 104.88,
+      "end": 106.88,
+      "text": "or where flies are swarming,"
+    },
+    {
+      "start": 106.88,
+      "end": 108.88,
+      "text": "he eats neither fish nor flesh,"
+    },
+    {
+      "start": 108.88,
+      "end": 111.38,
+      "text": "drinks no liquor nor intoxicant,"
+    },
+    {
+      "start": 111.38,
+      "end": 113.38,
+      "text": "not even rice grew,"
+    },
+    {
+      "start": 113.38,
+      "end": 115.38,
+      "text": "stop here for a moment."
+    },
+    {
+      "start": 115.38,
+      "end": 117.38,
+      "text": "Here the Buddha is describing those"
+    },
+    {
+      "start": 117.38,
+      "end": 119.88,
+      "text": "unbeneficial ascetic practices"
+    },
+    {
+      "start": 119.88,
+      "end": 123.88,
+      "text": "that are practiced by these external ascetics"
+    },
+    {
+      "start": 123.88,
+      "end": 125.88,
+      "text": "who torment themselves,"
+    },
+    {
+      "start": 125.88,
+      "end": 128.88,
+      "text": "they inflict,"
+    },
+    {
+      "start": 128.88,
+      "end": 132.88,
+      "text": "they believe in doing all these practices"
+    },
+    {
+      "start": 132.88,
+      "end": 134.88,
+      "text": "which should bring on suffering."
+    },
+    {
+      "start": 134.88,
+      "end": 136.88,
+      "text": "For example,"
+    },
+    {
+      "start": 136.88,
+      "end": 138.88,
+      "text": "he goes naked,"
+    },
+    {
+      "start": 138.88,
+      "end": 140.88,
+      "text": "he licks his hands,"
+    },
+    {
+      "start": 141.38,
+      "end": 143.38,
+      "text": "he refuses to come in,"
+    },
+    {
+      "start": 143.38,
+      "end": 145.38,
+      "text": "when people ask him to stop,"
+    },
+    {
+      "start": 145.38,
+      "end": 147.38,
+      "text": "he refuses to stop,"
+    },
+    {
+      "start": 147.38,
+      "end": 149.38,
+      "text": "he refuses special food,"
+    },
+    {
+      "start": 149.38,
+      "end": 153.38,
+      "text": "and then he's got a peculiar sense of compassion."
+    },
+    {
+      "start": 153.38,
+      "end": 155.38,
+      "text": "When a couple are eating,"
+    },
+    {
+      "start": 155.38,
+      "end": 157.38,
+      "text": "he refuses to take food from them,"
+    },
+    {
+      "start": 157.38,
+      "end": 160.38,
+      "text": "maybe he thinks that they will not have enough to eat."
+    },
+    {
+      "start": 160.38,
+      "end": 162.38,
+      "text": "When a pregnant woman wants to give him food,"
+    },
+    {
+      "start": 162.38,
+      "end": 164.38,
+      "text": "he refuses, maybe he thinks that"
+    },
+    {
+      "start": 164.38,
+      "end": 166.38,
+      "text": "the baby inside that woman"
+    },
+    {
+      "start": 166.38,
+      "end": 169.38,
+      "text": "might not get enough nourishment."
+    },
+    {
+      "start": 169.88,
+      "end": 173.88,
+      "text": "When a dog is standing by,"
+    },
+    {
+      "start": 173.88,
+      "end": 175.88,
+      "text": "he refuses to accept food"
+    },
+    {
+      "start": 175.88,
+      "end": 179.88,
+      "text": "because he thinks the dog might have less food to eat"
+    },
+    {
+      "start": 179.88,
+      "end": 181.88,
+      "text": "because he accepts food."
+    },
+    {
+      "start": 181.88,
+      "end": 183.88,
+      "text": "When flies are swarming,"
+    },
+    {
+      "start": 183.88,
+      "end": 185.88,
+      "text": "also he refuses because he thinks"
+    },
+    {
+      "start": 185.88,
+      "end": 187.88,
+      "text": "of compassionate thoughts"
+    },
+    {
+      "start": 187.88,
+      "end": 189.88,
+      "text": "towards the flies, etc."
+    },
+    {
+      "start": 189.88,
+      "end": 191.88,
+      "text": "Then the Buddha continues,"
+    },
+    {
+      "start": 191.88,
+      "end": 194.88,
+      "text": "he asks arms from one house only,"
+    },
+    {
+      "start": 194.88,
+      "end": 196.88,
+      "text": "he's an eater of one mouthful,"
+    },
+    {
+      "start": 196.88,
+      "end": 198.88,
+      "text": "or maybe he begs from two houses,"
+    },
+    {
+      "start": 198.88,
+      "end": 200.88,
+      "text": "eats two mouthfuls,"
+    },
+    {
+      "start": 200.88,
+      "end": 202.88,
+      "text": "three houses,"
+    },
+    {
+      "start": 202.88,
+      "end": 204.88,
+      "text": "four up to seven houses,"
+    },
+    {
+      "start": 204.88,
+      "end": 206.88,
+      "text": "and eats seven mouthfuls only."
+    },
+    {
+      "start": 206.88,
+      "end": 209.88,
+      "text": "He exists on just one little doll of food,"
+    },
+    {
+      "start": 209.88,
+      "end": 213.88,
+      "text": "or just two or three or seven such dolls."
+    },
+    {
+      "start": 213.88,
+      "end": 215.88,
+      "text": "He takes food only once a day,"
+    },
+    {
+      "start": 215.88,
+      "end": 217.88,
+      "text": "or once in two days, three days,"
+    },
+    {
+      "start": 217.88,
+      "end": 219.88,
+      "text": "or once in seven days."
+    },
+    {
+      "start": 219.88,
+      "end": 220.88,
+      "text": "Thus he lives,"
+    },
+    {
+      "start": 220.88,
+      "end": 223.88,
+      "text": "given to the practice of taking food by rule,"
+    },
+    {
+      "start": 223.88,
+      "end": 225.88,
+      "text": "even up to the extent of"
+    },
+    {
+      "start": 225.88,
+      "end": 229.88,
+      "text": "two weeks or half a month between meals."
+    },
+    {
+      "start": 229.88,
+      "end": 231.88,
+      "text": "He feeds on vegetables,"
+    },
+    {
+      "start": 231.88,
+      "end": 233.88,
+      "text": "on millet, on rice,"
+    },
+    {
+      "start": 233.88,
+      "end": 234.88,
+      "text": "on raw rice,"
+    },
+    {
+      "start": 234.88,
+      "end": 235.88,
+      "text": "on scraps of leather,"
+    },
+    {
+      "start": 235.88,
+      "end": 236.88,
+      "text": "on water plants,"
+    },
+    {
+      "start": 236.88,
+      "end": 237.88,
+      "text": "rice powder,"
+    },
+    {
+      "start": 237.88,
+      "end": 239.88,
+      "text": "a burnt scum of rice,"
+    },
+    {
+      "start": 239.88,
+      "end": 241.88,
+      "text": "a flower of oil seeds,"
+    },
+    {
+      "start": 241.88,
+      "end": 242.88,
+      "text": "on grass and cow dung."
+    },
+    {
+      "start": 242.88,
+      "end": 244.88,
+      "text": "He just exists on forest roots"
+    },
+    {
+      "start": 244.88,
+      "end": 245.88,
+      "text": "and fallen fruit."
+    },
+    {
+      "start": 245.88,
+      "end": 247.88,
+      "text": "He wears coarse hempen clothes,"
+    },
+    {
+      "start": 247.88,
+      "end": 249.88,
+      "text": "cloth of different fibers,"
+    },
+    {
+      "start": 249.88,
+      "end": 251.88,
+      "text": "discarded corpse cloths,"
+    },
+    {
+      "start": 251.88,
+      "end": 253.88,
+      "text": "rags from a rubbish heap,"
+    },
+    {
+      "start": 253.88,
+      "end": 255.88,
+      "text": "tree bark fiber, antelope skins,"
+    },
+    {
+      "start": 255.88,
+      "end": 257.88,
+      "text": "strips of antelope skin,"
+    },
+    {
+      "start": 257.88,
+      "end": 259.88,
+      "text": "clothes made of kusa grass,"
+    },
+    {
+      "start": 259.88,
+      "end": 261.88,
+      "text": "made of wood shavings,"
+    },
+    {
+      "start": 261.88,
+      "end": 263.88,
+      "text": "blankets made of human hair,"
+    },
+    {
+      "start": 263.88,
+      "end": 264.88,
+      "text": "made of horse hair,"
+    },
+    {
+      "start": 264.88,
+      "end": 265.88,
+      "text": "made of owl's wings."
+    },
+    {
+      "start": 265.88,
+      "end": 267.88,
+      "text": "He is a plucker out of hair and beard,"
+    },
+    {
+      "start": 267.88,
+      "end": 269.88,
+      "text": "and given to this practice."
+    },
+    {
+      "start": 269.88,
+      "end": 271.88,
+      "text": "He remains standing and refuses a seat."
+    },
+    {
+      "start": 271.88,
+      "end": 274.88,
+      "text": "He squats down and keeps a squatting position."
+    },
+    {
+      "start": 274.88,
+      "end": 276.88,
+      "text": "He is a bed of thorns man."
+    },
+    {
+      "start": 276.88,
+      "end": 278.88,
+      "text": "He makes his bed on spikes."
+    },
+    {
+      "start": 278.88,
+      "end": 280.88,
+      "text": "He lives given to the practice of going down"
+    },
+    {
+      "start": 280.88,
+      "end": 282.88,
+      "text": "to the water to bathe,"
+    },
+    {
+      "start": 282.88,
+      "end": 284.88,
+      "text": "even to a third time in the evening also."
+    },
+    {
+      "start": 284.88,
+      "end": 286.88,
+      "text": "Thus in diverse ways,"
+    },
+    {
+      "start": 286.88,
+      "end": 288.88,
+      "text": "he lives given to these practices"
+    },
+    {
+      "start": 288.88,
+      "end": 289.88,
+      "text": "which torment the body."
+    },
+    {
+      "start": 289.88,
+      "end": 291.88,
+      "text": "Thus monks is a person"
+    },
+    {
+      "start": 291.88,
+      "end": 292.88,
+      "text": "a self-tomenter"
+    },
+    {
+      "start": 292.88,
+      "end": 294.88,
+      "text": "and given to that practice."
+    },
+    {
+      "start": 294.88,
+      "end": 296.88,
+      "text": "Just stop here just to comment again."
+    },
+    {
+      "start": 296.88,
+      "end": 298.88,
+      "text": "Here,"
+    },
+    {
+      "start": 298.88,
+      "end": 301.88,
+      "text": "if he begs for his food,"
+    },
+    {
+      "start": 301.88,
+      "end": 303.88,
+      "text": "he begs maybe from one house"
+    },
+    {
+      "start": 303.88,
+      "end": 305.88,
+      "text": "or two houses only,"
+    },
+    {
+      "start": 305.88,
+      "end": 306.88,
+      "text": "or three houses,"
+    },
+    {
+      "start": 306.88,
+      "end": 308.88,
+      "text": "up to seven houses maximum."
+    },
+    {
+      "start": 308.88,
+      "end": 310.88,
+      "text": "This is not a Buddhist practice,"
+    },
+    {
+      "start": 310.88,
+      "end": 312.88,
+      "text": "but later books,"
+    },
+    {
+      "start": 312.88,
+      "end": 314.88,
+      "text": "they got confused with this external"
+    },
+    {
+      "start": 314.88,
+      "end": 315.88,
+      "text": "sect ascetics,"
+    },
+    {
+      "start": 315.88,
+      "end": 316.88,
+      "text": "and they said that"
+    },
+    {
+      "start": 316.88,
+      "end": 318.88,
+      "text": "Buddhist monks are supposed to beg"
+    },
+    {
+      "start": 318.88,
+      "end": 320.88,
+      "text": "from seven houses only."
+    },
+    {
+      "start": 320.88,
+      "end": 323.88,
+      "text": "This is definitely not a Buddhist practice."
+    },
+    {
+      "start": 323.88,
+      "end": 325.88,
+      "text": "This is an external sect practice"
+    },
+    {
+      "start": 325.88,
+      "end": 328.88,
+      "text": "that crept into the later Buddhist books."
+    },
+    {
+      "start": 328.88,
+      "end": 330.88,
+      "text": "And also,"
+    },
+    {
+      "start": 330.88,
+      "end": 332.88,
+      "text": "he takes"
+    },
+    {
+      "start": 332.88,
+      "end": 335.88,
+      "text": "one food once a day"
+    },
+    {
+      "start": 336.88,
+      "end": 338.88,
+      "text": "or when he can do it,"
+    },
+    {
+      "start": 338.88,
+      "end": 339.88,
+      "text": "then two days once,"
+    },
+    {
+      "start": 339.88,
+      "end": 340.88,
+      "text": "and then when he can do that,"
+    },
+    {
+      "start": 340.88,
+      "end": 341.88,
+      "text": "three days once."
+    },
+    {
+      "start": 341.88,
+      "end": 343.88,
+      "text": "Up to fourteen days,"
+    },
+    {
+      "start": 343.88,
+      "end": 344.88,
+      "text": "he takes one meal,"
+    },
+    {
+      "start": 344.88,
+      "end": 345.88,
+      "text": "but when he takes that meal,"
+    },
+    {
+      "start": 345.88,
+      "end": 346.88,
+      "text": "he will gorge himself"
+    },
+    {
+      "start": 346.88,
+      "end": 348.88,
+      "text": "as much as he can."
+    },
+    {
+      "start": 348.88,
+      "end": 349.88,
+      "text": "And then after that,"
+    },
+    {
+      "start": 349.88,
+      "end": 351.88,
+      "text": "he will go on fast."
+    },
+    {
+      "start": 351.88,
+      "end": 353.88,
+      "text": "And then he takes particular types of food,"
+    },
+    {
+      "start": 353.88,
+      "end": 355.88,
+      "text": "even eating cow dung,"
+    },
+    {
+      "start": 355.88,
+      "end": 357.88,
+      "text": "and fallen fruit, etc."
+    },
+    {
+      "start": 357.88,
+      "end": 359.88,
+      "text": "And then he wears different kinds"
+    },
+    {
+      "start": 359.88,
+      "end": 361.88,
+      "text": "of animal skins,"
+    },
+    {
+      "start": 361.88,
+      "end": 364.88,
+      "text": "grass, etc."
+    },
+    {
+      "start": 364.88,
+      "end": 366.88,
+      "text": "Then he uses human hair"
+    },
+    {
+      "start": 366.88,
+      "end": 368.88,
+      "text": "to make a blanket"
+    },
+    {
+      "start": 368.88,
+      "end": 370.88,
+      "text": "and plugs out his"
+    },
+    {
+      "start": 370.88,
+      "end": 372.88,
+      "text": "hair and his beard."
+    },
+    {
+      "start": 372.88,
+      "end": 374.88,
+      "text": "It's quite painful,"
+    },
+    {
+      "start": 374.88,
+      "end": 376.88,
+      "text": "but there's all these things."
+    },
+    {
+      "start": 376.88,
+      "end": 378.88,
+      "text": "And how monks"
+    },
+    {
+      "start": 378.88,
+      "end": 380.88,
+      "text": "is a person a tormenter of another"
+    },
+    {
+      "start": 380.88,
+      "end": 382.88,
+      "text": "and given to that practice?"
+    },
+    {
+      "start": 382.88,
+      "end": 384.88,
+      "text": "Here in a certain person is a butcher,"
+    },
+    {
+      "start": 384.88,
+      "end": 386.88,
+      "text": "a pick-killer, a fowler,"
+    },
+    {
+      "start": 386.88,
+      "end": 388.88,
+      "text": "a deer stalker, a hunter,"
+    },
+    {
+      "start": 388.88,
+      "end": 390.88,
+      "text": "fisherman, a bandit,"
+    },
+    {
+      "start": 390.88,
+      "end": 392.88,
+      "text": "an executioner, a jailer,"
+    },
+    {
+      "start": 392.88,
+      "end": 394.88,
+      "text": "or one of any other"
+    },
+    {
+      "start": 394.88,
+      "end": 396.88,
+      "text": "who follows a bloody calling."
+    },
+    {
+      "start": 396.88,
+      "end": 398.88,
+      "text": "That monk is how"
+    },
+    {
+      "start": 398.88,
+      "end": 400.88,
+      "text": "a person tortures another"
+    },
+    {
+      "start": 400.88,
+      "end": 402.88,
+      "text": "and is given to such practice of torture."
+    },
+    {
+      "start": 402.88,
+      "end": 404.88,
+      "text": "And how monk is a person"
+    },
+    {
+      "start": 404.88,
+      "end": 406.88,
+      "text": "a tormenter of both self and another"
+    },
+    {
+      "start": 406.88,
+      "end": 408.88,
+      "text": "and given to the practice of tormenting"
+    },
+    {
+      "start": 408.88,
+      "end": 410.88,
+      "text": "self and another?"
+    },
+    {
+      "start": 410.88,
+      "end": 412.88,
+      "text": "Here in monks, a certain person is a raja,"
+    },
+    {
+      "start": 412.88,
+      "end": 414.88,
+      "text": "or noble man,"
+    },
+    {
+      "start": 414.88,
+      "end": 416.88,
+      "text": "who has been consecrated,"
+    },
+    {
+      "start": 416.88,
+      "end": 418.88,
+      "text": "or a Brahmin of a great house."
+    },
+    {
+      "start": 418.88,
+      "end": 420.88,
+      "text": "Having built a new moat hall"
+    },
+    {
+      "start": 420.88,
+      "end": 422.88,
+      "text": "on the east side of a town,"
+    },
+    {
+      "start": 422.88,
+      "end": 424.88,
+      "text": "he gets his head and beard shaped,"
+    },
+    {
+      "start": 424.88,
+      "end": 426.88,
+      "text": "dawns a shaggy skin,"
+    },
+    {
+      "start": 426.88,
+      "end": 428.88,
+      "text": "smears his body with ghee and"
+    },
+    {
+      "start": 428.88,
+      "end": 430.88,
+      "text": "oil, scratches his back"
+    },
+    {
+      "start": 430.88,
+      "end": 432.88,
+      "text": "with a deer's horn, and enters"
+    },
+    {
+      "start": 432.88,
+      "end": 434.88,
+      "text": "the moat hall together with his chief wife"
+    },
+    {
+      "start": 434.88,
+      "end": 436.88,
+      "text": "and Brahmin chaplain."
+    },
+    {
+      "start": 436.88,
+      "end": 438.88,
+      "text": "There he makes his bed"
+    },
+    {
+      "start": 438.88,
+      "end": 440.88,
+      "text": "upon the bare grass covered ground."
+    },
+    {
+      "start": 440.88,
+      "end": 442.88,
+      "text": "Then the raja lives"
+    },
+    {
+      "start": 442.88,
+      "end": 444.88,
+      "text": "on the milk from one tea"
+    },
+    {
+      "start": 444.88,
+      "end": 446.88,
+      "text": "or nipple of a cow"
+    },
+    {
+      "start": 446.88,
+      "end": 448.88,
+      "text": "with calf of light colour."
+    },
+    {
+      "start": 448.88,
+      "end": 450.88,
+      "text": "His chief wife lives on"
+    },
+    {
+      "start": 450.88,
+      "end": 452.88,
+      "text": "the milk from the second tea."
+    },
+    {
+      "start": 452.88,
+      "end": 454.88,
+      "text": "The Brahmin chaplain lives"
+    },
+    {
+      "start": 454.88,
+      "end": 456.88,
+      "text": "on the milk from the third tea,"
+    },
+    {
+      "start": 456.88,
+      "end": 458.88,
+      "text": "while there from the fourth they"
+    },
+    {
+      "start": 458.88,
+      "end": 460.88,
+      "text": "offer as sacrifice to the fire."
+    },
+    {
+      "start": 460.88,
+      "end": 462.88,
+      "text": "The calf is fed"
+    },
+    {
+      "start": 462.88,
+      "end": 464.88,
+      "text": "with what is left over."
+    },
+    {
+      "start": 464.88,
+      "end": 466.88,
+      "text": "Then he says, let so many bulls"
+    },
+    {
+      "start": 466.88,
+      "end": 468.88,
+      "text": "be slain for the sacrifice,"
+    },
+    {
+      "start": 468.88,
+      "end": 470.88,
+      "text": "let so many cows, so many hyphers,"
+    },
+    {
+      "start": 470.88,
+      "end": 472.88,
+      "text": "so many goats, so many rams,"
+    },
+    {
+      "start": 472.88,
+      "end": 474.88,
+      "text": "let so many horses be slain"
+    },
+    {
+      "start": 474.88,
+      "end": 476.88,
+      "text": "for the sacrifice."
+    },
+    {
+      "start": 476.88,
+      "end": 478.88,
+      "text": "Then cut down so many trees"
+    },
+    {
+      "start": 478.88,
+      "end": 480.88,
+      "text": "for sacrificial posts, let them"
+    },
+    {
+      "start": 480.88,
+      "end": 482.88,
+      "text": "mow so much kusa grass"
+    },
+    {
+      "start": 482.88,
+      "end": 484.88,
+      "text": "for the sacrifice."
+    },
+    {
+      "start": 484.88,
+      "end": 486.88,
+      "text": "Then whosoever are called his slaves,"
+    },
+    {
+      "start": 486.88,
+      "end": 488.88,
+      "text": "passengers and workmen"
+    },
+    {
+      "start": 488.88,
+      "end": 490.88,
+      "text": "scared by fear of the rod"
+    },
+    {
+      "start": 490.88,
+      "end": 492.88,
+      "text": "with tearful faces set about"
+    },
+    {
+      "start": 492.88,
+      "end": 494.88,
+      "text": "their preparations."
+    },
+    {
+      "start": 494.88,
+      "end": 496.88,
+      "text": "That monks is how a person"
+    },
+    {
+      "start": 496.88,
+      "end": 498.88,
+      "text": "is a tormenter"
+    },
+    {
+      "start": 498.88,
+      "end": 500.88,
+      "text": "of both self and another,"
+    },
+    {
+      "start": 500.88,
+      "end": 502.88,
+      "text": "given to the practice of tormenting"
+    },
+    {
+      "start": 502.88,
+      "end": 504.88,
+      "text": "both self and another."
+    },
+    {
+      "start": 504.88,
+      "end": 506.88,
+      "text": "A person neither the one thing nor the other,"
+    },
+    {
+      "start": 506.88,
+      "end": 508.88,
+      "text": "given neither to the practice"
+    },
+    {
+      "start": 508.88,
+      "end": 510.88,
+      "text": "of tormenting self, nor"
+    },
+    {
+      "start": 510.88,
+      "end": 512.88,
+      "text": "to that of tormenting others."
+    },
+    {
+      "start": 512.88,
+      "end": 514.88,
+      "text": "He who torments neither self"
+    },
+    {
+      "start": 514.88,
+      "end": 516.88,
+      "text": "nor another in this very life"
+    },
+    {
+      "start": 516.88,
+      "end": 518.88,
+      "text": "is no more hungry."
+    },
+    {
+      "start": 518.88,
+      "end": 520.88,
+      "text": "He is elate, become cool."
+    },
+    {
+      "start": 520.88,
+      "end": 522.88,
+      "text": "He is one who has penetrated bliss."
+    },
+    {
+      "start": 522.88,
+      "end": 524.88,
+      "text": "He lives with a self that has become"
+    },
+    {
+      "start": 524.88,
+      "end": 526.88,
+      "text": "Brahma."
+    },
+    {
+      "start": 526.88,
+      "end": 528.88,
+      "text": "I stop here for a moment."
+    },
+    {
+      "start": 528.88,
+      "end": 530.88,
+      "text": "This word become Brahma."
+    },
+    {
+      "start": 530.88,
+      "end": 532.88,
+      "text": "It's Brahma Buddha."
+    },
+    {
+      "start": 532.88,
+      "end": 534.88,
+      "text": "Now this word"
+    },
+    {
+      "start": 534.88,
+      "end": 536.88,
+      "text": "Brahma Buddha is mentioned"
+    },
+    {
+      "start": 536.88,
+      "end": 538.88,
+      "text": "in one Sutta, in the Aganya Sutta"
+    },
+    {
+      "start": 538.88,
+      "end": 540.88,
+      "text": "of the Diga Nikaya"
+    },
+    {
+      "start": 540.88,
+      "end": 542.88,
+      "text": "where the Buddha said"
+    },
+    {
+      "start": 542.88,
+      "end": 544.88,
+      "text": "this designates the"
+    },
+    {
+      "start": 544.88,
+      "end": 546.88,
+      "text": "Tathagata"
+    },
+    {
+      "start": 546.88,
+      "end": 548.88,
+      "text": "Dhamma body"
+    },
+    {
+      "start": 548.88,
+      "end": 550.88,
+      "text": "Dhamma kaya"
+    },
+    {
+      "start": 550.88,
+      "end": 552.88,
+      "text": "Brahma body"
+    },
+    {
+      "start": 552.88,
+      "end": 554.88,
+      "text": "Brahma kaya"
+    },
+    {
+      "start": 554.88,
+      "end": 556.88,
+      "text": "Dhamma become"
+    },
+    {
+      "start": 556.88,
+      "end": 558.88,
+      "text": "Dhamma Buddha"
+    },
+    {
+      "start": 558.88,
+      "end": 560.88,
+      "text": "Brahma become Brahma Buddha"
+    },
+    {
+      "start": 560.88,
+      "end": 562.88,
+      "text": "So"
+    },
+    {
+      "start": 562.88,
+      "end": 564.88,
+      "text": "that is the real state of"
+    },
+    {
+      "start": 564.88,
+      "end": 566.88,
+      "text": "Buddha, the real"
+    },
+    {
+      "start": 566.88,
+      "end": 568.88,
+      "text": "description of a Buddha."
+    },
+    {
+      "start": 568.88,
+      "end": 570.88,
+      "text": "It's not that a Buddha has gone to"
+    },
+    {
+      "start": 570.88,
+      "end": 572.88,
+      "text": "Nibbana, there is nothing left."
+    },
+    {
+      "start": 572.88,
+      "end": 574.88,
+      "text": "There is something which the Buddha says"
+    },
+    {
+      "start": 574.88,
+      "end": 576.88,
+      "text": "is very profound, unfathomable,"
+    },
+    {
+      "start": 576.88,
+      "end": 578.88,
+      "text": "very deep"
+    },
+    {
+      "start": 578.88,
+      "end": 580.88,
+      "text": "and that the Buddha calls"
+    },
+    {
+      "start": 580.88,
+      "end": 582.88,
+      "text": "the Brahma body"
+    },
+    {
+      "start": 582.88,
+      "end": 584.88,
+      "text": "or Dhamma body"
+    },
+    {
+      "start": 584.88,
+      "end": 586.88,
+      "text": "Brahma become or Dhamma become."
+    },
+    {
+      "start": 586.88,
+      "end": 588.88,
+      "text": "So that is"
+    },
+    {
+      "start": 588.88,
+      "end": 590.88,
+      "text": "also the state of an"
+    },
+    {
+      "start": 590.88,
+      "end": 592.88,
+      "text": "Arahant."
+    },
+    {
+      "start": 592.88,
+      "end": 594.88,
+      "text": "Then the Buddha continued"
+    },
+    {
+      "start": 594.88,
+      "end": 596.88,
+      "text": "In this case, monks,"
+    },
+    {
+      "start": 596.88,
+      "end": 598.88,
+      "text": "a Tathagata arises in the world"
+    },
+    {
+      "start": 598.88,
+      "end": 600.88,
+      "text": "an Arahant, a fully enlightened one"
+    },
+    {
+      "start": 600.88,
+      "end": 602.88,
+      "text": "perfect in knowledge and conduct"
+    },
+    {
+      "start": 602.88,
+      "end": 604.88,
+      "text": "a welfareer, a world-knower"
+    },
+    {
+      "start": 604.88,
+      "end": 606.88,
+      "text": "unsurpassed"
+    },
+    {
+      "start": 606.88,
+      "end": 608.88,
+      "text": "driver of men to be driven"
+    },
+    {
+      "start": 608.88,
+      "end": 610.88,
+      "text": "teacher of devas and mankind"
+    },
+    {
+      "start": 610.88,
+      "end": 612.88,
+      "text": "a Buddha, an exalted one"
+    },
+    {
+      "start": 612.88,
+      "end": 614.88,
+      "text": "He makes known this world"
+    },
+    {
+      "start": 614.88,
+      "end": 616.88,
+      "text": "with its devas, its Maras"
+    },
+    {
+      "start": 616.88,
+      "end": 618.88,
+      "text": "its Brahmas"
+    },
+    {
+      "start": 618.88,
+      "end": 620.88,
+      "text": "with its host of recluses and Brahmins"
+    },
+    {
+      "start": 620.88,
+      "end": 622.88,
+      "text": "of devas and mankind"
+    },
+    {
+      "start": 622.88,
+      "end": 624.88,
+      "text": "himself having thoroughly understood"
+    },
+    {
+      "start": 624.88,
+      "end": 626.88,
+      "text": "and realized it."
+    },
+    {
+      "start": 626.88,
+      "end": 628.88,
+      "text": "He teaches Dhamma that is lovely in the beginning"
+    },
+    {
+      "start": 628.88,
+      "end": 630.88,
+      "text": "lovely in the middle, lovely at the end"
+    },
+    {
+      "start": 630.88,
+      "end": 632.88,
+      "text": "both in the spirit and the letter"
+    },
+    {
+      "start": 632.88,
+      "end": 634.88,
+      "text": "He makes play in the holy life"
+    },
+    {
+      "start": 634.88,
+      "end": 636.88,
+      "text": "entirely complete and"
+    },
+    {
+      "start": 636.88,
+      "end": 638.88,
+      "text": "fully purified"
+    },
+    {
+      "start": 638.88,
+      "end": 640.88,
+      "text": "Then a house-father"
+    },
+    {
+      "start": 640.88,
+      "end": 642.88,
+      "text": "or one of a household"
+    },
+    {
+      "start": 642.88,
+      "end": 644.88,
+      "text": "in some family or other hears that"
+    },
+    {
+      "start": 644.88,
+      "end": 646.88,
+      "text": "Dhamma and so hearing"
+    },
+    {
+      "start": 646.88,
+      "end": 648.88,
+      "text": "acquires faith in the Tathagata"
+    },
+    {
+      "start": 648.88,
+      "end": 650.88,
+      "text": "I stop here for a moment"
+    },
+    {
+      "start": 650.88,
+      "end": 652.88,
+      "text": "you see"
+    },
+    {
+      "start": 652.88,
+      "end": 654.88,
+      "text": "here a person acquires faith"
+    },
+    {
+      "start": 654.88,
+      "end": 656.88,
+      "text": "by listening to the Dhamma"
+    },
+    {
+      "start": 656.88,
+      "end": 658.88,
+      "text": "and this faith"
+    },
+    {
+      "start": 658.88,
+      "end": 660.88,
+      "text": "is"
+    },
+    {
+      "start": 660.88,
+      "end": 662.88,
+      "text": "Sada, Sada sometimes translated"
+    },
+    {
+      "start": 662.88,
+      "end": 664.88,
+      "text": "as unshakable faith"
+    },
+    {
+      "start": 664.88,
+      "end": 666.88,
+      "text": "so the hearing of the Dhamma"
+    },
+    {
+      "start": 666.88,
+      "end": 668.88,
+      "text": "is extremely important"
+    },
+    {
+      "start": 668.88,
+      "end": 670.88,
+      "text": "to have a firm foundation"
+    },
+    {
+      "start": 670.88,
+      "end": 672.88,
+      "text": "faith"
+    },
+    {
+      "start": 672.88,
+      "end": 674.88,
+      "text": "in the Buddha, Dhamma and Sangha"
+    },
+    {
+      "start": 674.88,
+      "end": 676.88,
+      "text": "and then"
+    },
+    {
+      "start": 676.88,
+      "end": 678.88,
+      "text": "Buddha continued"
+    },
+    {
+      "start": 678.88,
+      "end": 680.88,
+      "text": "possessed of this faith so acquired"
+    },
+    {
+      "start": 680.88,
+      "end": 682.88,
+      "text": "he thus reflects"
+    },
+    {
+      "start": 682.88,
+      "end": 684.88,
+      "text": "oppressive is this household life"
+    },
+    {
+      "start": 684.88,
+      "end": 686.88,
+      "text": "a dusty path"
+    },
+    {
+      "start": 686.88,
+      "end": 688.88,
+      "text": "the way of going forth is free like the open air"
+    },
+    {
+      "start": 688.88,
+      "end": 690.88,
+      "text": "it is no easy thing"
+    },
+    {
+      "start": 690.88,
+      "end": 692.88,
+      "text": "for one living the household life"
+    },
+    {
+      "start": 692.88,
+      "end": 694.88,
+      "text": "to practice the holy life in all its completeness"
+    },
+    {
+      "start": 694.88,
+      "end": 696.88,
+      "text": "in utter purity"
+    },
+    {
+      "start": 696.88,
+      "end": 698.88,
+      "text": "like a polished shell"
+    },
+    {
+      "start": 698.88,
+      "end": 700.88,
+      "text": "with my beard shaved"
+    },
+    {
+      "start": 700.88,
+      "end": 702.88,
+      "text": "and donning the saffron robe"
+    },
+    {
+      "start": 702.88,
+      "end": 704.88,
+      "text": "were to go forth"
+    },
+    {
+      "start": 704.88,
+      "end": 706.88,
+      "text": "from home to the homeless"
+    },
+    {
+      "start": 706.88,
+      "end": 708.88,
+      "text": "then he sometime later"
+    },
+    {
+      "start": 708.88,
+      "end": 710.88,
+      "text": "abandoning the whole mass of his wealth"
+    },
+    {
+      "start": 710.88,
+      "end": 712.88,
+      "text": "whether small or great"
+    },
+    {
+      "start": 712.88,
+      "end": 714.88,
+      "text": "abandoning his circle of relatives"
+    },
+    {
+      "start": 714.88,
+      "end": 716.88,
+      "text": "whether small or great"
+    },
+    {
+      "start": 716.88,
+      "end": 718.88,
+      "text": "gets his beard shaved"
+    },
+    {
+      "start": 718.88,
+      "end": 720.88,
+      "text": "dons the saffron robes"
+    },
+    {
+      "start": 720.88,
+      "end": 722.88,
+      "text": "and goes forth from home to the homeless"
+    },
+    {
+      "start": 724.88,
+      "end": 726.88,
+      "text": "he having thus gone forth"
+    },
+    {
+      "start": 726.88,
+      "end": 728.88,
+      "text": "upon the way of life"
+    },
+    {
+      "start": 728.88,
+      "end": 730.88,
+      "text": "in the training followed by monks"
+    },
+    {
+      "start": 730.88,
+      "end": 732.88,
+      "text": "abandoning the slaying of creatures"
+    },
+    {
+      "start": 732.88,
+      "end": 734.88,
+      "text": "abstains therefrom"
+    },
+    {
+      "start": 734.88,
+      "end": 736.88,
+      "text": "he lives as one who has laid down the rod"
+    },
+    {
+      "start": 736.88,
+      "end": 738.88,
+      "text": "who has laid down the knife"
+    },
+    {
+      "start": 738.88,
+      "end": 740.88,
+      "text": "who has scruples"
+    },
+    {
+      "start": 740.88,
+      "end": 742.88,
+      "text": "his kind and has compassion"
+    },
+    {
+      "start": 742.88,
+      "end": 744.88,
+      "text": "for every living thing"
+    },
+    {
+      "start": 744.88,
+      "end": 746.88,
+      "text": "abandoning the taking of what"
+    },
+    {
+      "start": 746.88,
+      "end": 748.88,
+      "text": "is not given he abstains therefrom"
+    },
+    {
+      "start": 748.88,
+      "end": 750.88,
+      "text": "he lives as one"
+    },
+    {
+      "start": 750.88,
+      "end": 752.88,
+      "text": "who takes only what is given"
+    },
+    {
+      "start": 752.88,
+      "end": 754.88,
+      "text": "who waits for what is given"
+    },
+    {
+      "start": 754.88,
+      "end": 756.88,
+      "text": "he lives with a self that has become pure"
+    },
+    {
+      "start": 756.88,
+      "end": 758.88,
+      "text": "not by stealth"
+    },
+    {
+      "start": 758.88,
+      "end": 760.88,
+      "text": "abandoning the unchaste life"
+    },
+    {
+      "start": 760.88,
+      "end": 762.88,
+      "text": "he lives a life aloof"
+    },
+    {
+      "start": 762.88,
+      "end": 764.88,
+      "text": "abstaining from the sexual act"
+    },
+    {
+      "start": 764.88,
+      "end": 766.88,
+      "text": "from dealings with women folk"
+    },
+    {
+      "start": 766.88,
+      "end": 768.88,
+      "text": "abandoning falsehood"
+    },
+    {
+      "start": 768.88,
+      "end": 770.88,
+      "text": "he abstains therefrom"
+    },
+    {
+      "start": 770.88,
+      "end": 772.88,
+      "text": "he speaks the truth"
+    },
+    {
+      "start": 772.88,
+      "end": 774.88,
+      "text": "and joins truth to truth"
+    },
+    {
+      "start": 774.88,
+      "end": 776.88,
+      "text": "unswerving, reliable"
+    },
+    {
+      "start": 776.88,
+      "end": 778.88,
+      "text": "no deceiver of the world"
+    },
+    {
+      "start": 778.88,
+      "end": 780.88,
+      "text": "abandoning slanderous speech"
+    },
+    {
+      "start": 780.88,
+      "end": 782.88,
+      "text": "he abstains therefrom"
+    },
+    {
+      "start": 782.88,
+      "end": 784.88,
+      "text": "when he hears something at one place"
+    },
+    {
+      "start": 784.88,
+      "end": 786.88,
+      "text": "he spreads it not abroad elsewhere"
+    },
+    {
+      "start": 786.88,
+      "end": 788.88,
+      "text": "to cause dissension among these folk"
+    },
+    {
+      "start": 788.88,
+      "end": 790.88,
+      "text": "when he hears something at another place"
+    },
+    {
+      "start": 790.88,
+      "end": 792.88,
+      "text": "he spreads it not abroad elsewhere"
+    },
+    {
+      "start": 792.88,
+      "end": 794.88,
+      "text": "to cause dissension among these folk"
+    },
+    {
+      "start": 794.88,
+      "end": 796.88,
+      "text": "thus he reconciles"
+    },
+    {
+      "start": 796.88,
+      "end": 798.88,
+      "text": "those who are at variance"
+    },
+    {
+      "start": 798.88,
+      "end": 800.88,
+      "text": "and confirms the friendly"
+    },
+    {
+      "start": 800.88,
+      "end": 802.88,
+      "text": "he delights in harmony"
+    },
+    {
+      "start": 802.88,
+      "end": 804.88,
+      "text": "finds pleasure herein"
+    },
+    {
+      "start": 804.88,
+      "end": 806.88,
+      "text": "rejoices in harmony"
+    },
+    {
+      "start": 806.88,
+      "end": 808.88,
+      "text": "and utteres words that make for harmony"
+    },
+    {
+      "start": 808.88,
+      "end": 810.88,
+      "text": "abandoning cause speech"
+    },
+    {
+      "start": 810.88,
+      "end": 812.88,
+      "text": "whatever speech is blameless"
+    },
+    {
+      "start": 812.88,
+      "end": 814.88,
+      "text": "pleasing to the ear affectionate"
+    },
+    {
+      "start": 814.88,
+      "end": 816.88,
+      "text": "speech that goes to the heart"
+    },
+    {
+      "start": 816.88,
+      "end": 818.88,
+      "text": "disobeying delights many folk"
+    },
+    {
+      "start": 818.88,
+      "end": 820.88,
+      "text": "pleases many folk"
+    },
+    {
+      "start": 820.88,
+      "end": 822.88,
+      "text": "such speech does he utter"
+    },
+    {
+      "start": 822.88,
+      "end": 824.88,
+      "text": "abandoning idle bebel"
+    },
+    {
+      "start": 824.88,
+      "end": 826.88,
+      "text": "he abstains therefrom"
+    },
+    {
+      "start": 826.88,
+      "end": 828.88,
+      "text": "he is one who speaks in seasons"
+    },
+    {
+      "start": 828.88,
+      "end": 830.88,
+      "text": "speaks of facts, speaks sense"
+    },
+    {
+      "start": 830.88,
+      "end": 832.88,
+      "text": "speaks according to dhamma"
+    },
+    {
+      "start": 832.88,
+      "end": 834.88,
+      "text": "speaks according to vinaya"
+    },
+    {
+      "start": 834.88,
+      "end": 836.88,
+      "text": "he speaks words worth treasuring up"
+    },
+    {
+      "start": 836.88,
+      "end": 838.88,
+      "text": "that are reasonable, reasonable"
+    },
+    {
+      "start": 838.88,
+      "end": 840.88,
+      "text": "concerned with profit"
+    },
+    {
+      "start": 840.88,
+      "end": 842.88,
+      "text": "stop here for a moment"
+    },
+    {
+      "start": 842.88,
+      "end": 844.88,
+      "text": "here the Buddha is talking that"
+    },
+    {
+      "start": 844.88,
+      "end": 846.88,
+      "text": "once a person has gone for the first thing"
+    },
+    {
+      "start": 846.88,
+      "end": 848.88,
+      "text": "that he does is to follow the training"
+    },
+    {
+      "start": 848.88,
+      "end": 850.88,
+      "text": "and"
+    },
+    {
+      "start": 850.88,
+      "end": 852.88,
+      "text": "the basics of it is keeping"
+    },
+    {
+      "start": 852.88,
+      "end": 854.88,
+      "text": "good sealah moral conduct"
+    },
+    {
+      "start": 854.88,
+      "end": 856.88,
+      "text": "and here in this description"
+    },
+    {
+      "start": 856.88,
+      "end": 858.88,
+      "text": "that I just read just now"
+    },
+    {
+      "start": 858.88,
+      "end": 860.88,
+      "text": "is one of the few places where"
+    },
+    {
+      "start": 860.88,
+      "end": 862.88,
+      "text": "the two types"
+    },
+    {
+      "start": 862.88,
+      "end": 864.88,
+      "text": "of verbal karma are described"
+    },
+    {
+      "start": 864.88,
+      "end": 866.88,
+      "text": "the first one is musa vada"
+    },
+    {
+      "start": 866.88,
+      "end": 868.88,
+      "text": "this one normally people know"
+    },
+    {
+      "start": 868.88,
+      "end": 870.88,
+      "text": "musa vada means"
+    },
+    {
+      "start": 870.88,
+      "end": 872.88,
+      "text": "lying"
+    },
+    {
+      "start": 872.88,
+      "end": 874.88,
+      "text": "means we abstain, we have to abstain"
+    },
+    {
+      "start": 874.88,
+      "end": 876.88,
+      "text": "from lying"
+    },
+    {
+      "start": 876.88,
+      "end": 878.88,
+      "text": "then the second one is"
+    },
+    {
+      "start": 878.88,
+      "end": 880.88,
+      "text": "pisuna vacha"
+    },
+    {
+      "start": 880.88,
+      "end": 882.88,
+      "text": "sometimes translated as slander"
+    },
+    {
+      "start": 882.88,
+      "end": 884.88,
+      "text": "slanderous speech"
+    },
+    {
+      "start": 884.88,
+      "end": 886.88,
+      "text": "this one sometimes"
+    },
+    {
+      "start": 886.88,
+      "end": 888.88,
+      "text": "people can get"
+    },
+    {
+      "start": 888.88,
+      "end": 890.88,
+      "text": "a wrong interpretation"
+    },
+    {
+      "start": 890.88,
+      "end": 892.88,
+      "text": "a wrong idea of it"
+    },
+    {
+      "start": 892.88,
+      "end": 894.88,
+      "text": "because the way is translated slander"
+    },
+    {
+      "start": 894.88,
+      "end": 896.88,
+      "text": "is talking bad about somebody else"
+    },
+    {
+      "start": 896.88,
+      "end": 898.88,
+      "text": "that is not the meaning"
+    },
+    {
+      "start": 898.88,
+      "end": 900.88,
+      "text": "here is described very clearly"
+    },
+    {
+      "start": 900.88,
+      "end": 902.88,
+      "text": "that means you hear something"
+    },
+    {
+      "start": 902.88,
+      "end": 904.88,
+      "text": "you go somewhere else and repeat it"
+    },
+    {
+      "start": 904.88,
+      "end": 906.88,
+      "text": "and cause two different parties"
+    },
+    {
+      "start": 906.88,
+      "end": 908.88,
+      "text": "to be"
+    },
+    {
+      "start": 908.88,
+      "end": 910.88,
+      "text": "to"
+    },
+    {
+      "start": 910.88,
+      "end": 912.88,
+      "text": "to quarrel"
+    },
+    {
+      "start": 912.88,
+      "end": 914.88,
+      "text": "with each other"
+    },
+    {
+      "start": 914.88,
+      "end": 916.88,
+      "text": "so you spread this harmony"
+    },
+    {
+      "start": 916.88,
+      "end": 918.88,
+      "text": "so that is the meaning of pisuna vacha"
+    },
+    {
+      "start": 918.88,
+      "end": 920.88,
+      "text": "sometimes translated as slander"
+    },
+    {
+      "start": 920.88,
+      "end": 922.88,
+      "text": "and the third one is"
+    },
+    {
+      "start": 922.88,
+      "end": 924.88,
+      "text": "parusa vacha"
+    },
+    {
+      "start": 924.88,
+      "end": 926.88,
+      "text": "cause speech"
+    },
+    {
+      "start": 926.88,
+      "end": 928.88,
+      "text": "cause speech is"
+    },
+    {
+      "start": 928.88,
+      "end": 930.88,
+      "text": "this one is generally understood"
+    },
+    {
+      "start": 930.88,
+      "end": 932.88,
+      "text": "cause harsh"
+    },
+    {
+      "start": 932.88,
+      "end": 934.88,
+      "text": "speech"
+    },
+    {
+      "start": 934.88,
+      "end": 936.88,
+      "text": "that is painful to the ear"
+    },
+    {
+      "start": 936.88,
+      "end": 938.88,
+      "text": "this unpleasing"
+    },
+    {
+      "start": 938.88,
+      "end": 940.88,
+      "text": "and the last one is"
+    },
+    {
+      "start": 940.88,
+      "end": 942.88,
+      "text": "palapa"
+    },
+    {
+      "start": 942.88,
+      "end": 944.88,
+      "text": "that is idol"
+    },
+    {
+      "start": 944.88,
+      "end": 946.88,
+      "text": "speech"
+    },
+    {
+      "start": 946.88,
+      "end": 948.88,
+      "text": "what is"
+    },
+    {
+      "start": 948.88,
+      "end": 950.88,
+      "text": "gossip"
+    },
+    {
+      "start": 950.88,
+      "end": 952.88,
+      "text": "and unbeneficial"
+    },
+    {
+      "start": 952.88,
+      "end": 954.88,
+      "text": "talk"
+    },
+    {
+      "start": 954.88,
+      "end": 956.88,
+      "text": "then the Buddha continue"
+    },
+    {
+      "start": 978.88,
+      "end": 980.88,
+      "text": "from taking gifts"
+    },
+    {
+      "start": 980.88,
+      "end": 982.88,
+      "text": "of uncooked grain"
+    },
+    {
+      "start": 982.88,
+      "end": 984.88,
+      "text": "from gifts of women and girls"
+    },
+    {
+      "start": 984.88,
+      "end": 986.88,
+      "text": "female and male slaves"
+    },
+    {
+      "start": 986.88,
+      "end": 988.88,
+      "text": "of goats and sheep"
+    },
+    {
+      "start": 988.88,
+      "end": 990.88,
+      "text": "fowls and swine"
+    },
+    {
+      "start": 990.88,
+      "end": 992.88,
+      "text": "elephant, cattle, horses and mares"
+    },
+    {
+      "start": 992.88,
+      "end": 994.88,
+      "text": "he abstains from gifts of fields"
+    },
+    {
+      "start": 994.88,
+      "end": 996.88,
+      "text": "cultivated or waste"
+    },
+    {
+      "start": 996.88,
+      "end": 998.88,
+      "text": "from buying and selling"
+    },
+    {
+      "start": 998.88,
+      "end": 1000.88,
+      "text": "sending messengers"
+    },
+    {
+      "start": 1000.88,
+      "end": 1002.88,
+      "text": "as such"
+    },
+    {
+      "start": 1002.88,
+      "end": 1004.88,
+      "text": "from cheating with scales"
+    },
+    {
+      "start": 1004.88,
+      "end": 1006.88,
+      "text": "copper vessels or measures"
+    },
+    {
+      "start": 1006.88,
+      "end": 1008.88,
+      "text": "from cheating and crooked ways"
+    },
+    {
+      "start": 1008.88,
+      "end": 1010.88,
+      "text": "he abstains from cutting, flogging"
+    },
+    {
+      "start": 1010.88,
+      "end": 1012.88,
+      "text": "binding, highway robbery, plundering"
+    },
+    {
+      "start": 1012.88,
+      "end": 1014.88,
+      "text": "and deeds of violence"
+    },
+    {
+      "start": 1014.88,
+      "end": 1016.88,
+      "text": "stop here for a moment"
+    },
+    {
+      "start": 1016.88,
+      "end": 1018.88,
+      "text": "this last part now on sila"
+    },
+    {
+      "start": 1018.88,
+      "end": 1020.88,
+      "text": "injury to seed life"
+    },
+    {
+      "start": 1020.88,
+      "end": 1022.88,
+      "text": "and plant life"
+    },
+    {
+      "start": 1022.88,
+      "end": 1024.88,
+      "text": "is more of an"
+    },
+    {
+      "start": 1024.88,
+      "end": 1026.88,
+      "text": "Indian custom"
+    },
+    {
+      "start": 1026.88,
+      "end": 1028.88,
+      "text": "the Buddha did not say"
+    },
+    {
+      "start": 1028.88,
+      "end": 1030.88,
+      "text": "that we cannot"
+    },
+    {
+      "start": 1030.88,
+      "end": 1032.88,
+      "text": "injure seed life"
+    },
+    {
+      "start": 1032.88,
+      "end": 1034.88,
+      "text": "and plant life in"
+    },
+    {
+      "start": 1034.88,
+      "end": 1036.88,
+      "text": "as"
+    },
+    {
+      "start": 1036.88,
+      "end": 1038.88,
+      "text": "as the other"
+    },
+    {
+      "start": 1038.88,
+      "end": 1040.88,
+      "text": "experimental"
+    },
+    {
+      "start": 1040.88,
+      "end": 1042.88,
+      "text": "aesthetics"
+    },
+    {
+      "start": 1042.88,
+      "end": 1044.88,
+      "text": "do"
+    },
+    {
+      "start": 1044.88,
+      "end": 1046.88,
+      "text": "the Buddha was more"
+    },
+    {
+      "start": 1046.88,
+      "end": 1048.88,
+      "text": "lacks on this in the sense"
+    },
+    {
+      "start": 1048.88,
+      "end": 1050.88,
+      "text": "that the Buddha said that"
+    },
+    {
+      "start": 1050.88,
+      "end": 1052.88,
+      "text": "for a monk"
+    },
+    {
+      "start": 1052.88,
+      "end": 1054.88,
+      "text": "for example if a fruit"
+    },
+    {
+      "start": 1054.88,
+      "end": 1056.88,
+      "text": "is offered then if"
+    },
+    {
+      "start": 1056.88,
+      "end": 1058.88,
+      "text": "a lay person"
+    },
+    {
+      "start": 1058.88,
+      "end": 1060.88,
+      "text": "cuts it"
+    },
+    {
+      "start": 1060.88,
+      "end": 1062.88,
+      "text": "or pokes it"
+    },
+    {
+      "start": 1062.88,
+      "end": 1064.88,
+      "text": "then the monk can eat"
+    },
+    {
+      "start": 1064.88,
+      "end": 1066.88,
+      "text": "even to the extent of damaging the seed"
+    },
+    {
+      "start": 1066.88,
+      "end": 1068.88,
+      "text": "means it is made allowable for a monk"
+    },
+    {
+      "start": 1068.88,
+      "end": 1070.88,
+      "text": "so the Buddha did not"
+    },
+    {
+      "start": 1070.88,
+      "end": 1072.88,
+      "text": "actually was not strict"
+    },
+    {
+      "start": 1072.88,
+      "end": 1074.88,
+      "text": "to the extent"
+    },
+    {
+      "start": 1074.88,
+      "end": 1076.88,
+      "text": "of some external aesthetics"
+    },
+    {
+      "start": 1076.88,
+      "end": 1078.88,
+      "text": "who considered plant life"
+    },
+    {
+      "start": 1078.88,
+      "end": 1080.88,
+      "text": "as a living being"
+    },
+    {
+      "start": 1080.88,
+      "end": 1082.88,
+      "text": "a one faculty living being"
+    },
+    {
+      "start": 1084.88,
+      "end": 1086.88,
+      "text": "and then one meal a day"
+    },
+    {
+      "start": 1086.88,
+      "end": 1088.88,
+      "text": "this one meal a day is"
+    },
+    {
+      "start": 1088.88,
+      "end": 1090.88,
+      "text": "the Buddha asked his disciples"
+    },
+    {
+      "start": 1090.88,
+      "end": 1092.88,
+      "text": "to practice it so that they don't become"
+    },
+    {
+      "start": 1092.88,
+      "end": 1094.88,
+      "text": "too"
+    },
+    {
+      "start": 1094.88,
+      "end": 1096.88,
+      "text": "too fat"
+    },
+    {
+      "start": 1096.88,
+      "end": 1098.88,
+      "text": "because it's not conducive"
+    },
+    {
+      "start": 1098.88,
+      "end": 1100.88,
+      "text": "to meditation"
+    },
+    {
+      "start": 1100.88,
+      "end": 1102.88,
+      "text": "and then other things"
+    },
+    {
+      "start": 1102.88,
+      "end": 1104.88,
+      "text": "like gifts of women"
+    },
+    {
+      "start": 1104.88,
+      "end": 1106.88,
+      "text": "girls female and"
+    },
+    {
+      "start": 1106.88,
+      "end": 1108.88,
+      "text": "male slaves although the Buddha"
+    },
+    {
+      "start": 1108.88,
+      "end": 1110.88,
+      "text": "did not allow monks"
+    },
+    {
+      "start": 1110.88,
+      "end": 1112.88,
+      "text": "to accept slaves"
+    },
+    {
+      "start": 1112.88,
+      "end": 1114.88,
+      "text": "and women etc but the Buddha"
+    },
+    {
+      "start": 1114.88,
+      "end": 1116.88,
+      "text": "did allow"
+    },
+    {
+      "start": 1116.88,
+      "end": 1118.88,
+      "text": "during his time for"
+    },
+    {
+      "start": 1118.88,
+      "end": 1120.88,
+      "text": "the king to send workers"
+    },
+    {
+      "start": 1120.88,
+      "end": 1122.88,
+      "text": "to help a monk"
+    },
+    {
+      "start": 1122.88,
+      "end": 1124.88,
+      "text": "so that sometimes"
+    },
+    {
+      "start": 1124.88,
+      "end": 1126.88,
+      "text": "in the Vinaya we find"
+    },
+    {
+      "start": 1126.88,
+      "end": 1128.88,
+      "text": "there's a whole village of"
+    },
+    {
+      "start": 1128.88,
+      "end": 1130.88,
+      "text": "workmen employed by"
+    },
+    {
+      "start": 1130.88,
+      "end": 1132.88,
+      "text": "the king"
+    },
+    {
+      "start": 1132.88,
+      "end": 1134.88,
+      "text": "to work for the monks"
+    },
+    {
+      "start": 1134.88,
+      "end": 1136.88,
+      "text": "to build the monastery buildings etc"
+    },
+    {
+      "start": 1136.88,
+      "end": 1138.88,
+      "text": "and the monks would tell them"
+    },
+    {
+      "start": 1138.88,
+      "end": 1140.88,
+      "text": "what to do"
+    },
+    {
+      "start": 1140.88,
+      "end": 1142.88,
+      "text": "but"
+    },
+    {
+      "start": 1142.88,
+      "end": 1144.88,
+      "text": "they were paid by the king"
+    },
+    {
+      "start": 1144.88,
+      "end": 1146.88,
+      "text": "however"
+    },
+    {
+      "start": 1146.88,
+      "end": 1148.88,
+      "text": "the monks would tell them what to do"
+    },
+    {
+      "start": 1148.88,
+      "end": 1150.88,
+      "text": "yet the monks would"
+    },
+    {
+      "start": 1150.88,
+      "end": 1152.88,
+      "text": "go among them and beg for their"
+    },
+    {
+      "start": 1152.88,
+      "end": 1154.88,
+      "text": "alms food"
+    },
+    {
+      "start": 1154.88,
+      "end": 1156.88,
+      "text": "and"
+    },
+    {
+      "start": 1156.88,
+      "end": 1158.88,
+      "text": "then another thing I'd like to mention"
+    },
+    {
+      "start": 1158.88,
+      "end": 1160.88,
+      "text": "here is gifts he abstains"
+    },
+    {
+      "start": 1160.88,
+      "end": 1162.88,
+      "text": "from gifts of fields cultivated"
+    },
+    {
+      "start": 1162.88,
+      "end": 1164.88,
+      "text": "always this one"
+    },
+    {
+      "start": 1164.88,
+      "end": 1166.88,
+      "text": "is only for"
+    },
+    {
+      "start": 1166.88,
+      "end": 1168.88,
+      "text": "arable fields"
+    },
+    {
+      "start": 1168.88,
+      "end": 1170.88,
+      "text": "that means plantations"
+    },
+    {
+      "start": 1170.88,
+      "end": 1172.88,
+      "text": "monks"
+    },
+    {
+      "start": 1172.88,
+      "end": 1174.88,
+      "text": "cannot accept them directly"
+    },
+    {
+      "start": 1174.88,
+      "end": 1176.88,
+      "text": "but there's a type of land that a monk"
+    },
+    {
+      "start": 1176.88,
+      "end": 1178.88,
+      "text": "or the sangha can accept directly"
+    },
+    {
+      "start": 1178.88,
+      "end": 1180.88,
+      "text": "that is land for"
+    },
+    {
+      "start": 1180.88,
+      "end": 1182.88,
+      "text": "a monastery because the Buddha"
+    },
+    {
+      "start": 1182.88,
+      "end": 1184.88,
+      "text": "made it very clear in the Vinaya rules"
+    },
+    {
+      "start": 1184.88,
+      "end": 1186.88,
+      "text": "that the monastery"
+    },
+    {
+      "start": 1186.88,
+      "end": 1188.88,
+      "text": "land and monastery"
+    },
+    {
+      "start": 1188.88,
+      "end": 1190.88,
+      "text": "buildings and household"
+    },
+    {
+      "start": 1190.88,
+      "end": 1192.88,
+      "text": "items in a monastery"
+    },
+    {
+      "start": 1192.88,
+      "end": 1194.88,
+      "text": "belong to the sangha"
+    },
+    {
+      "start": 1194.88,
+      "end": 1196.88,
+      "text": "they are considered sangha property"
+    },
+    {
+      "start": 1196.88,
+      "end": 1198.88,
+      "text": "to be kept for the sangha"
+    },
+    {
+      "start": 1198.88,
+      "end": 1200.88,
+      "text": "monks of the four directions"
+    },
+    {
+      "start": 1200.88,
+      "end": 1202.88,
+      "text": "north south east west"
+    },
+    {
+      "start": 1202.88,
+      "end": 1204.88,
+      "text": "present and yet to come"
+    },
+    {
+      "start": 1204.88,
+      "end": 1206.88,
+      "text": "that means to be kept in perpetuity"
+    },
+    {
+      "start": 1206.88,
+      "end": 1208.88,
+      "text": "for the sangha"
+    },
+    {
+      "start": 1208.88,
+      "end": 1210.88,
+      "text": "of the present and the future"
+    },
+    {
+      "start": 1210.88,
+      "end": 1212.88,
+      "text": "and these"
+    },
+    {
+      "start": 1212.88,
+      "end": 1214.88,
+      "text": "sangha property"
+    },
+    {
+      "start": 1214.88,
+      "end": 1216.88,
+      "text": "cannot be sold"
+    },
+    {
+      "start": 1216.88,
+      "end": 1218.88,
+      "text": "cannot be given away cannot be distributed"
+    },
+    {
+      "start": 1218.88,
+      "end": 1220.88,
+      "text": "unless it is"
+    },
+    {
+      "start": 1220.88,
+      "end": 1222.88,
+      "text": "sold"
+    },
+    {
+      "start": 1222.88,
+      "end": 1224.88,
+      "text": "to buy something"
+    },
+    {
+      "start": 1224.88,
+      "end": 1226.88,
+      "text": "similar"
+    },
+    {
+      "start": 1226.88,
+      "end": 1228.88,
+      "text": "for the sangha for example"
+    },
+    {
+      "start": 1228.88,
+      "end": 1230.88,
+      "text": "to buy a bigger piece of land"
+    },
+    {
+      "start": 1230.88,
+      "end": 1232.88,
+      "text": "or something for a monastery"
+    },
+    {
+      "start": 1232.88,
+      "end": 1234.88,
+      "text": "so this"
+    },
+    {
+      "start": 1234.88,
+      "end": 1236.88,
+      "text": "extension from fields"
+    },
+    {
+      "start": 1236.88,
+      "end": 1238.88,
+      "text": "cultivated always"
+    },
+    {
+      "start": 1238.88,
+      "end": 1240.88,
+      "text": "does not refer to monastery"
+    },
+    {
+      "start": 1240.88,
+      "end": 1242.88,
+      "text": "land is only for"
+    },
+    {
+      "start": 1242.88,
+      "end": 1244.88,
+      "text": "arable land"
+    },
+    {
+      "start": 1244.88,
+      "end": 1246.88,
+      "text": "fields and plantations etc"
+    },
+    {
+      "start": 1246.88,
+      "end": 1248.88,
+      "text": "even though the monks cannot accept it"
+    },
+    {
+      "start": 1248.88,
+      "end": 1250.88,
+      "text": "directly it can be accepted"
+    },
+    {
+      "start": 1250.88,
+      "end": 1252.88,
+      "text": "for example by a buddhist society"
+    },
+    {
+      "start": 1252.88,
+      "end": 1254.88,
+      "text": "or lay people"
+    },
+    {
+      "start": 1254.88,
+      "end": 1256.88,
+      "text": "and used to support"
+    },
+    {
+      "start": 1256.88,
+      "end": 1258.88,
+      "text": "the monks"
+    },
+    {
+      "start": 1258.88,
+      "end": 1260.88,
+      "text": "so"
+    },
+    {
+      "start": 1260.88,
+      "end": 1262.88,
+      "text": "there is an incident in the vinaya"
+    },
+    {
+      "start": 1262.88,
+      "end": 1264.88,
+      "text": "which shows that the buddha accepted"
+    },
+    {
+      "start": 1264.88,
+      "end": 1266.88,
+      "text": "monastery land directly"
+    },
+    {
+      "start": 1266.88,
+      "end": 1268.88,
+      "text": "and the first monastery was given to the buddha"
+    },
+    {
+      "start": 1268.88,
+      "end": 1270.88,
+      "text": "King Bimbisara presented"
+    },
+    {
+      "start": 1270.88,
+      "end": 1272.88,
+      "text": "a piece of land to the buddha"
+    },
+    {
+      "start": 1272.88,
+      "end": 1274.88,
+      "text": "and the buddha accepted it"
+    },
+    {
+      "start": 1274.88,
+      "end": 1276.88,
+      "text": "directly in the old Indian tradition"
+    },
+    {
+      "start": 1276.88,
+      "end": 1278.88,
+      "text": "the buddha cupped his hands"
+    },
+    {
+      "start": 1278.88,
+      "end": 1280.88,
+      "text": "cupped the palms of his hands"
+    },
+    {
+      "start": 1280.88,
+      "end": 1282.88,
+      "text": "and the king Bimbisara poured water"
+    },
+    {
+      "start": 1282.88,
+      "end": 1284.88,
+      "text": "directly into the buddha's hands"
+    },
+    {
+      "start": 1284.88,
+      "end": 1286.88,
+      "text": "and the buddha accepted on behalf of the sangha"
+    },
+    {
+      "start": 1286.88,
+      "end": 1288.88,
+      "text": "he is content with a rope"
+    },
+    {
+      "start": 1288.88,
+      "end": 1290.88,
+      "text": "sufficient to protect the body"
+    },
+    {
+      "start": 1290.88,
+      "end": 1292.88,
+      "text": "with arms full enough for his belly's need"
+    },
+    {
+      "start": 1292.88,
+      "end": 1294.88,
+      "text": "wherever he may go"
+    },
+    {
+      "start": 1294.88,
+      "end": 1296.88,
+      "text": "he takes these with him"
+    },
+    {
+      "start": 1296.88,
+      "end": 1298.88,
+      "text": "just as for instance a bird upon the wing"
+    },
+    {
+      "start": 1298.88,
+      "end": 1300.88,
+      "text": "wherever he may fly"
+    },
+    {
+      "start": 1300.88,
+      "end": 1302.88,
+      "text": "flies with the load of his wings"
+    },
+    {
+      "start": 1302.88,
+      "end": 1304.88,
+      "text": "even so a monk is content with a rope"
+    },
+    {
+      "start": 1304.88,
+      "end": 1306.88,
+      "text": "and takes these with him"
+    },
+    {
+      "start": 1306.88,
+      "end": 1308.88,
+      "text": "possess of this Aryan mass"
+    },
+    {
+      "start": 1308.88,
+      "end": 1310.88,
+      "text": "of morals he experiences"
+    },
+    {
+      "start": 1310.88,
+      "end": 1312.88,
+      "text": "himself the bliss of blamelessness"
+    },
+    {
+      "start": 1312.88,
+      "end": 1314.88,
+      "text": "seeing an object with the eye"
+    },
+    {
+      "start": 1314.88,
+      "end": 1316.88,
+      "text": "seeing an object with the eye"
+    },
+    {
+      "start": 1316.88,
+      "end": 1322.43,
+      "text": "stop here for a moment"
+    },
+    {
+      "start": 1322.43,
+      "end": 1324.43,
+      "text": "the second thing that the monk"
+    },
+    {
+      "start": 1324.43,
+      "end": 1326.43,
+      "text": "of the base is contentment"
+    },
+    {
+      "start": 1326.43,
+      "end": 1328.43,
+      "text": "and to continue"
+    },
+    {
+      "start": 1328.43,
+      "end": 1330.43,
+      "text": "the buddha said"
+    },
+    {
+      "start": 1330.43,
+      "end": 1332.43,
+      "text": "seeing an object with the eye"
+    },
+    {
+      "start": 1332.43,
+      "end": 1334.43,
+      "text": "he is not misled by its outer view"
+    },
+    {
+      "start": 1334.43,
+      "end": 1336.43,
+      "text": "nor by its lesser details"
+    },
+    {
+      "start": 1336.43,
+      "end": 1338.43,
+      "text": "since coveting and dejection"
+    },
+    {
+      "start": 1338.43,
+      "end": 1340.43,
+      "text": "evil and profitable states"
+    },
+    {
+      "start": 1340.43,
+      "end": 1342.43,
+      "text": "might flow in upon one who lives"
+    },
+    {
+      "start": 1342.43,
+      "end": 1344.43,
+      "text": "with the faculty of eye uncontrolled"
+    },
+    {
+      "start": 1344.43,
+      "end": 1346.43,
+      "text": "he applies himself to such control"
+    },
+    {
+      "start": 1346.43,
+      "end": 1348.43,
+      "text": "with the faculty of eye"
+    },
+    {
+      "start": 1348.43,
+      "end": 1350.43,
+      "text": "and attains control thereof"
+    },
+    {
+      "start": 1350.43,
+      "end": 1352.43,
+      "text": "hearing a sound with the ear"
+    },
+    {
+      "start": 1352.43,
+      "end": 1354.43,
+      "text": "or with the nose smelling a scent"
+    },
+    {
+      "start": 1354.43,
+      "end": 1356.43,
+      "text": "or with the tongue tasting a favour"
+    },
+    {
+      "start": 1356.43,
+      "end": 1358.43,
+      "text": "or a sever"
+    },
+    {
+      "start": 1358.43,
+      "end": 1360.43,
+      "text": "or with body contacting tangibles"
+    },
+    {
+      "start": 1360.43,
+      "end": 1362.43,
+      "text": "or with mind cognizing mental states"
+    },
+    {
+      "start": 1362.43,
+      "end": 1364.43,
+      "text": "he is not misled by their outer view"
+    },
+    {
+      "start": 1364.43,
+      "end": 1366.43,
+      "text": "nor by their lesser details"
+    },
+    {
+      "start": 1366.43,
+      "end": 1368.43,
+      "text": "but since coveting and dejection"
+    },
+    {
+      "start": 1368.43,
+      "end": 1370.43,
+      "text": "evil and profitable states"
+    },
+    {
+      "start": 1370.43,
+      "end": 1372.43,
+      "text": "might flow in upon one who lives"
+    },
+    {
+      "start": 1372.43,
+      "end": 1374.43,
+      "text": "with his faculties uncontrolled"
+    },
+    {
+      "start": 1374.43,
+      "end": 1376.43,
+      "text": "his heart over the faculties"
+    },
+    {
+      "start": 1376.43,
+      "end": 1378.43,
+      "text": "attains control thereof"
+    },
+    {
+      "start": 1378.43,
+      "end": 1380.43,
+      "text": "thus possess of this Aryan restraint"
+    },
+    {
+      "start": 1380.43,
+      "end": 1382.43,
+      "text": "of faculties"
+    },
+    {
+      "start": 1382.43,
+      "end": 1384.43,
+      "text": "he experiences in himself"
+    },
+    {
+      "start": 1384.43,
+      "end": 1386.43,
+      "text": "unadulterated bliss"
+    },
+    {
+      "start": 1386.43,
+      "end": 1388.43,
+      "text": "stop here for a moment"
+    },
+    {
+      "start": 1388.43,
+      "end": 1390.43,
+      "text": "so here the third thing is"
+    },
+    {
+      "start": 1390.43,
+      "end": 1392.43,
+      "text": "Indriyasugutta Dwarah"
+    },
+    {
+      "start": 1392.43,
+      "end": 1394.43,
+      "text": "guarding the sense doors"
+    },
+    {
+      "start": 1394.43,
+      "end": 1396.43,
+      "text": "practice restraint over the sense doors"
+    },
+    {
+      "start": 1396.43,
+      "end": 1398.43,
+      "text": "and the buddha continued"
+    },
+    {
+      "start": 1398.43,
+      "end": 1400.43,
+      "text": "in going forth and returning"
+    },
+    {
+      "start": 1400.43,
+      "end": 1402.43,
+      "text": "he acts mindfully"
+    },
+    {
+      "start": 1402.43,
+      "end": 1404.43,
+      "text": "standing or relaxing in wearing his robe"
+    },
+    {
+      "start": 1404.43,
+      "end": 1406.43,
+      "text": "and bearing outer robe"
+    },
+    {
+      "start": 1406.43,
+      "end": 1408.43,
+      "text": "and bowl in eating, drinking, chewing"
+    },
+    {
+      "start": 1408.43,
+      "end": 1410.43,
+      "text": "and tasting and easing himself"
+    },
+    {
+      "start": 1410.43,
+      "end": 1412.43,
+      "text": "in going, standing, sitting, sleeping"
+    },
+    {
+      "start": 1412.43,
+      "end": 1414.43,
+      "text": "waking, speaking and keeping silence"
+    },
+    {
+      "start": 1414.43,
+      "end": 1416.43,
+      "text": "he acts mindfully"
+    },
+    {
+      "start": 1416.43,
+      "end": 1419.68,
+      "text": "he possess of this"
+    },
+    {
+      "start": 1419.68,
+      "end": 1421.68,
+      "text": "stop here for a moment"
+    },
+    {
+      "start": 1421.68,
+      "end": 1423.68,
+      "text": "so this fourth one is"
+    },
+    {
+      "start": 1423.68,
+      "end": 1425.68,
+      "text": "Satisampajanya"
+    },
+    {
+      "start": 1425.68,
+      "end": 1427.68,
+      "text": "mindfulness and awareness"
+    },
+    {
+      "start": 1427.68,
+      "end": 1429.68,
+      "text": "and the buddha continued"
+    },
+    {
+      "start": 1429.68,
+      "end": 1431.68,
+      "text": "he possessed of this Aryan mass of morals"
+    },
+    {
+      "start": 1431.68,
+      "end": 1433.68,
+      "text": "this Aryan restraint of the faculties"
+    },
+    {
+      "start": 1433.68,
+      "end": 1435.68,
+      "text": "and this Aryan mindfulness and composure"
+    },
+    {
+      "start": 1435.68,
+      "end": 1437.68,
+      "text": "and this Aryan"
+    },
+    {
+      "start": 1437.68,
+      "end": 1439.68,
+      "text": "contentedness"
+    },
+    {
+      "start": 1439.68,
+      "end": 1441.68,
+      "text": "resorts to a secluded lodging place"
+    },
+    {
+      "start": 1441.68,
+      "end": 1443.68,
+      "text": "a forest"
+    },
+    {
+      "start": 1443.68,
+      "end": 1445.68,
+      "text": "the root of a tree, a hill"
+    },
+    {
+      "start": 1445.68,
+      "end": 1447.68,
+      "text": "ravine, grotto or cave"
+    },
+    {
+      "start": 1447.68,
+      "end": 1449.68,
+      "text": "a channel field, a jungle path"
+    },
+    {
+      "start": 1449.68,
+      "end": 1451.68,
+      "text": "an open space, a heap of straw"
+    },
+    {
+      "start": 1451.68,
+      "end": 1453.68,
+      "text": "after his meal when he has returned"
+    },
+    {
+      "start": 1453.68,
+      "end": 1455.68,
+      "text": "from his arms round he sits cross-legged"
+    },
+    {
+      "start": 1455.68,
+      "end": 1457.68,
+      "text": "keeping his body erect"
+    },
+    {
+      "start": 1457.68,
+      "end": 1459.68,
+      "text": "and fixing his attention in front of him"
+    },
+    {
+      "start": 1459.68,
+      "end": 1461.68,
+      "text": "abandoning the hankering after the world"
+    },
+    {
+      "start": 1461.68,
+      "end": 1463.68,
+      "text": "he abides with heart freed therefrom"
+    },
+    {
+      "start": 1463.68,
+      "end": 1465.68,
+      "text": "having regard for the welfare of everything"
+    },
+    {
+      "start": 1465.68,
+      "end": 1467.68,
+      "text": "that lives, he purges his heart"
+    },
+    {
+      "start": 1467.68,
+      "end": 1469.68,
+      "text": "of the taint of ill will"
+    },
+    {
+      "start": 1469.68,
+      "end": 1471.68,
+      "text": "abandoning sloth and topper he remains"
+    },
+    {
+      "start": 1471.68,
+      "end": 1473.68,
+      "text": "freed therefrom, wide awake"
+    },
+    {
+      "start": 1473.68,
+      "end": 1475.68,
+      "text": "mindful composed"
+    },
+    {
+      "start": 1475.68,
+      "end": 1477.68,
+      "text": "and purges his heart of sloth and topper"
+    },
+    {
+      "start": 1477.68,
+      "end": 1479.68,
+      "text": "abandoning restlessness and flurry"
+    },
+    {
+      "start": 1479.68,
+      "end": 1481.68,
+      "text": "he abides tranquil"
+    },
+    {
+      "start": 1481.68,
+      "end": 1483.68,
+      "text": "at heart in the inner cell"
+    },
+    {
+      "start": 1483.68,
+      "end": 1485.68,
+      "text": "he purges his"
+    },
+    {
+      "start": 1485.68,
+      "end": 1487.68,
+      "text": "heart of restlessness and flurry"
+    },
+    {
+      "start": 1487.68,
+      "end": 1489.68,
+      "text": "abandoning doubt and wavering"
+    },
+    {
+      "start": 1489.68,
+      "end": 1491.68,
+      "text": "he abides as one who has transcended them"
+    },
+    {
+      "start": 1491.68,
+      "end": 1493.68,
+      "text": "no longer questioning this or that"
+    },
+    {
+      "start": 1493.68,
+      "end": 1495.68,
+      "text": "in things profitable, he purges"
+    },
+    {
+      "start": 1495.68,
+      "end": 1497.68,
+      "text": "his heart of doubt and wavering"
+    },
+    {
+      "start": 1497.68,
+      "end": 1499.68,
+      "text": "so"
+    },
+    {
+      "start": 1499.68,
+      "end": 1503.22,
+      "text": "there's now"
+    },
+    {
+      "start": 1503.22,
+      "end": 1505.22,
+      "text": "going, stop here for a moment"
+    },
+    {
+      "start": 1505.22,
+      "end": 1507.22,
+      "text": "the seclusion"
+    },
+    {
+      "start": 1507.22,
+      "end": 1509.22,
+      "text": "is Viveka, resorts"
+    },
+    {
+      "start": 1509.22,
+      "end": 1511.22,
+      "text": "to a secluded place"
+    },
+    {
+      "start": 1511.22,
+      "end": 1513.22,
+      "text": "and then after that he"
+    },
+    {
+      "start": 1513.22,
+      "end": 1515.22,
+      "text": "abandons the five hindrances"
+    },
+    {
+      "start": 1515.22,
+      "end": 1517.22,
+      "text": "that's called"
+    },
+    {
+      "start": 1517.22,
+      "end": 1519.22,
+      "text": "nivarana pahana"
+    },
+    {
+      "start": 1519.22,
+      "end": 1521.22,
+      "text": "thus abandoning"
+    },
+    {
+      "start": 1521.22,
+      "end": 1523.22,
+      "text": "these five hindrances, these taints"
+    },
+    {
+      "start": 1523.22,
+      "end": 1525.22,
+      "text": "of the heart which cause the weakening of wisdom"
+    },
+    {
+      "start": 1525.22,
+      "end": 1527.22,
+      "text": "aloof from sense desires"
+    },
+    {
+      "start": 1527.22,
+      "end": 1529.22,
+      "text": "aloof from"
+    },
+    {
+      "start": 1529.22,
+      "end": 1531.22,
+      "text": "evil conditions etc"
+    },
+    {
+      "start": 1531.22,
+      "end": 1533.22,
+      "text": "he attains and abides"
+    },
+    {
+      "start": 1533.22,
+      "end": 1535.22,
+      "text": "in the first, second, third and fourth janas"
+    },
+    {
+      "start": 1535.22,
+      "end": 1537.22,
+      "text": "then with heart"
+    },
+    {
+      "start": 1537.22,
+      "end": 1539.22,
+      "text": "calmed and purified, cleansed and flawless"
+    },
+    {
+      "start": 1539.22,
+      "end": 1541.22,
+      "text": "void of taints, grown soft"
+    },
+    {
+      "start": 1541.22,
+      "end": 1543.22,
+      "text": "and pliable, fixed and come to utter peace"
+    },
+    {
+      "start": 1543.22,
+      "end": 1545.22,
+      "text": "he bends down his mind"
+    },
+    {
+      "start": 1545.22,
+      "end": 1547.22,
+      "text": "to the knowledge of how to destroy the asavas"
+    },
+    {
+      "start": 1547.22,
+      "end": 1549.22,
+      "text": "he comes to know as it really is"
+    },
+    {
+      "start": 1549.22,
+      "end": 1551.22,
+      "text": "this is dukkha"
+    },
+    {
+      "start": 1551.22,
+      "end": 1553.22,
+      "text": "this is the"
+    },
+    {
+      "start": 1553.22,
+      "end": 1555.22,
+      "text": "arising of dukkha, this is the ending of dukkha"
+    },
+    {
+      "start": 1555.22,
+      "end": 1557.22,
+      "text": "this is the practice going to the ending of dukkha"
+    },
+    {
+      "start": 1557.22,
+      "end": 1559.22,
+      "text": "he comes to know as it really is"
+    },
+    {
+      "start": 1559.22,
+      "end": 1561.22,
+      "text": "these are asavas"
+    },
+    {
+      "start": 1561.22,
+      "end": 1563.22,
+      "text": "this is the arising of asavas"
+    },
+    {
+      "start": 1563.22,
+      "end": 1565.22,
+      "text": "this is the ending of asavas"
+    },
+    {
+      "start": 1565.22,
+      "end": 1567.22,
+      "text": "this is the practice going to the ending of asavas"
+    },
+    {
+      "start": 1567.22,
+      "end": 1569.22,
+      "text": "and him thus knowing, thus seeing"
+    },
+    {
+      "start": 1569.22,
+      "end": 1571.22,
+      "text": "his heart is released from the asava of sense desire"
+    },
+    {
+      "start": 1571.22,
+      "end": 1573.22,
+      "text": "his heart is released from the asava of becoming"
+    },
+    {
+      "start": 1573.22,
+      "end": 1576.22,
+      "text": "His heart is released from the ask of our ignorance."
+    },
+    {
+      "start": 1576.22,
+      "end": 1578.22,
+      "text": "By release comes the knowledge I have released."
+    },
+    {
+      "start": 1578.22,
+      "end": 1582.22,
+      "text": "He comes to know, destroyed His rebirth, lived His holy life."
+    },
+    {
+      "start": 1582.22,
+      "end": 1586.22,
+      "text": "Done is what was to be done. There is no coming to the state of things."
+    },
+    {
+      "start": 1586.22,
+      "end": 1590.22,
+      "text": "Thus, monks, a person is neither a tormentor of self, nor of another,"
+    },
+    {
+      "start": 1590.22,
+      "end": 1592.22,
+      "text": "nor given to the practice thereof."
+    },
+    {
+      "start": 1592.22,
+      "end": 1595.22,
+      "text": "He being neither of these in this very life, hungers no more."
+    },
+    {
+      "start": 1595.22,
+      "end": 1598.22,
+      "text": "He is elate, become cool."
+    },
+    {
+      "start": 1598.22,
+      "end": 1604.22,
+      "text": "He abides in the experience of bliss with the self that has become Brahma."
+    },
+    {
+      "start": 1604.22,
+      "end": 1607.22,
+      "text": "So, monks, these are the four persons found existing in the world."
+    },
+    {
+      "start": 1607.22,
+      "end": 1610.22,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 1610.22,
+      "end": 1617.22,
+      "text": "So, here, in this last part of the Sutta, you find several factors explained."
+    },
+    {
+      "start": 1617.22,
+      "end": 1621.22,
+      "text": "The first one is Sela. The second one is contentment."
+    },
+    {
+      "start": 1621.22,
+      "end": 1626.22,
+      "text": "The third one is guarding the sense doors, then mindfulness and awareness."
+    },
+    {
+      "start": 1626.22,
+      "end": 1634.22,
+      "text": "Then seclusion, then abandonment of the hindrances, then attainment of the four jhanas."
+    },
+    {
+      "start": 1634.22,
+      "end": 1644.22,
+      "text": "These factors, grouped together, are called Charana, sometimes translated as conduct."
+    },
+    {
+      "start": 1644.22,
+      "end": 1650.22,
+      "text": "One of the names of the Buddha is Vijacharana Sampanno,"
+    },
+    {
+      "start": 1650.22,
+      "end": 1656.22,
+      "text": "replete or complete in knowledge and conduct."
+    },
+    {
+      "start": 1656.22,
+      "end": 1663.22,
+      "text": "So, this conduct is the holy path, which is the practice of the holy path."
+    },
+    {
+      "start": 1663.22,
+      "end": 1672.01,
+      "text": "Now, in this Sutta, these factors that I have just read to you just now,"
+    },
+    {
+      "start": 1672.01,
+      "end": 1676.01,
+      "text": "three factors are not in here."
+    },
+    {
+      "start": 1676.01,
+      "end": 1684.01,
+      "text": "These, in other words, there are seven factors here mentioned, seven factors."
+    },
+    {
+      "start": 1684.01,
+      "end": 1691.01,
+      "text": "Three are not mentioned, and the three that are not mentioned is got from other Suttas."
+    },
+    {
+      "start": 1691.01,
+      "end": 1695.01,
+      "text": "The first one is moderation in eating, bojane, matanyuta."
+    },
+    {
+      "start": 1695.01,
+      "end": 1700.01,
+      "text": "The second one is devoted to wakefulness, jaggarhya, nuyoga."
+    },
+    {
+      "start": 1700.01,
+      "end": 1707.01,
+      "text": "The third one is the seventh, true dhammas, saddhamma,"
+    },
+    {
+      "start": 1707.01,
+      "end": 1715.01,
+      "text": "faith, conscience, remorse, much-learning, energetic effort, mindfulness, wisdom."
+    },
+    {
+      "start": 1715.01,
+      "end": 1728.01,
+      "text": "Now, the famous Lady Saidore in his books, he described this Charana Conduct."
+    },
+    {
+      "start": 1728.01,
+      "end": 1735.01,
+      "text": "He also took these seven factors from the Diga Nikhaya."
+    },
+    {
+      "start": 1735.01,
+      "end": 1741.01,
+      "text": "The factors given in the Diga Nikhaya are just the seven mentioned here."
+    },
+    {
+      "start": 1741.01,
+      "end": 1744.01,
+      "text": "And he missed out these other three."
+    },
+    {
+      "start": 1744.01,
+      "end": 1750.01,
+      "text": "These other three are found in other Suttas, like Majima Nikhaya."
+    },
+    {
+      "start": 1750.01,
+      "end": 1761.01,
+      "text": "And also Angutra Nikhaya, like earlier I read that if a monk possesses three things,"
+    },
+    {
+      "start": 1761.01,
+      "end": 1763.01,
+      "text": "he's on the sure course."
+    },
+    {
+      "start": 1763.01,
+      "end": 1770.01,
+      "text": "And these two factors were mentioned there, moderation in eating and devoted to wakefulness."
+    },
+    {
+      "start": 1770.01,
+      "end": 1775.01,
+      "text": "And these seven saddhammas are found in the Majima Nikhaya."
+    },
+    {
+      "start": 1775.01,
+      "end": 1786.01,
+      "text": "So, if you take these seven, the complete factors for Charana Conduct or practice is actually the seven which are found here."
+    },
+    {
+      "start": 1786.01,
+      "end": 1796.01,
+      "text": "Namely, sila, contentment, guarding the sense doors, mindfulness and awareness, seclusion, abandonment of the hindrances,"
+    },
+    {
+      "start": 1796.01,
+      "end": 1798.01,
+      "text": "and attaining of the four jhanas."
+    },
+    {
+      "start": 1798.01,
+      "end": 1799.01,
+      "text": "These are the seven."
+    },
+    {
+      "start": 1799.01,
+      "end": 1810.27,
+      "text": "Then you add another three, moderation in eating, devotion to wakefulness, and the seven true dhammas, seven saddhammas."
+    },
+    {
+      "start": 1810.27,
+      "end": 1817.27,
+      "text": "The other thing I'd like to mention here, at the end of this Sutta is described the ending of the asavas."
+    },
+    {
+      "start": 1817.27,
+      "end": 1826.27,
+      "text": "And the asavas mentioned here is the asava of sense desire, sensual desire, kama-sava,"
+    },
+    {
+      "start": 1826.27,
+      "end": 1831.27,
+      "text": "then the asava of becoming, then the asava of ignorance."
+    },
+    {
+      "start": 1831.27,
+      "end": 1835.27,
+      "text": "So, here there are only three things I've mentioned as asavas."
+    },
+    {
+      "start": 1835.27,
+      "end": 1843.27,
+      "text": "And then in some later suttas, for example, in some other suttas, they mentioned four."
+    },
+    {
+      "start": 1843.27,
+      "end": 1847.27,
+      "text": "And they mentioned four plus another one, I think on views."
+    }
+  ]
+}

@@ -1,0 +1,1575 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1909.7948125,
+  "segments": [
+    {
+      "start": 1.04,
+      "end": 6.28,
+      "text": "The next sutra is 6.4.34."
+    },
+    {
+      "start": 6.28,
+      "end": 12.32,
+      "text": "Once when the exalted one dwelt near Savati at Jeter Grove in Anathapindika spark,"
+    },
+    {
+      "start": 12.32,
+      "end": 17.64,
+      "text": "this thought came to the venerable Mahamogalana, gone apart for solitude."
+    },
+    {
+      "start": 17.64,
+      "end": 20.76,
+      "text": "To how many devas is there this knowledge?"
+    },
+    {
+      "start": 20.76,
+      "end": 26.16,
+      "text": "We have won to the stream, are no more for the abyss,"
+    },
+    {
+      "start": 26.16,
+      "end": 30.2,
+      "text": "insuredness we make for the awakening beyond."
+    },
+    {
+      "start": 30.36,
+      "end": 34.76,
+      "text": "I'll just stop here to comment a bit."
+    },
+    {
+      "start": 34.76,
+      "end": 41.64,
+      "text": "Mahamogalana, when he was dwelling in solitude, in seclusion, he thought"
+    },
+    {
+      "start": 41.64,
+      "end": 46.08,
+      "text": "whether there are many devas who have entered the stream,"
+    },
+    {
+      "start": 46.08,
+      "end": 48.12,
+      "text": "that means have become an Arya,"
+    },
+    {
+      "start": 48.12,
+      "end": 50.56,
+      "text": "that means are no more for the abyss,"
+    },
+    {
+      "start": 50.56,
+      "end": 55.72,
+      "text": "that means they will never be reborn into the woeful planes of the hell realm,"
+    },
+    {
+      "start": 55.72,
+      "end": 58.68,
+      "text": "the animal realm and the ghost realm."
+    },
+    {
+      "start": 58.76,
+      "end": 62.2,
+      "text": "Insuredness to make for the awakening beyond,"
+    },
+    {
+      "start": 62.2,
+      "end": 65.32,
+      "text": "that means once a person has become an Arya,"
+    },
+    {
+      "start": 65.32,
+      "end": 72.4,
+      "text": "then he will definitely become fully enlightened in a few more lives, fans."
+    },
+    {
+      "start": 72.4,
+      "end": 74.16,
+      "text": "Then the sutra continues,"
+    },
+    {
+      "start": 74.16,
+      "end": 78.28,
+      "text": "now at that time a monk named Tissa had just died"
+    },
+    {
+      "start": 78.28,
+      "end": 81.4,
+      "text": "and was reborn in one of the Brahma worlds"
+    },
+    {
+      "start": 81.4,
+      "end": 86.88,
+      "text": "and they knew him even there as Tissa the mighty, Tissa the powerful."
+    },
+    {
+      "start": 86.88,
+      "end": 92.32,
+      "text": "Then the venerable Mahamogalana as a strong man might stretch out his bent arm,"
+    },
+    {
+      "start": 92.32,
+      "end": 94.32,
+      "text": "might bend his stretched arm,"
+    },
+    {
+      "start": 94.32,
+      "end": 98.4,
+      "text": "vanished from Jeta Grove and appeared in that Brahma world"
+    },
+    {
+      "start": 98.4,
+      "end": 103.04,
+      "text": "and Deva Tissa saw the venerable one from afar coming along"
+    },
+    {
+      "start": 103.04,
+      "end": 104.8,
+      "text": "and on seeing him said,"
+    },
+    {
+      "start": 104.8,
+      "end": 108.64,
+      "text": "come worthy Mogalana, welcome worthy Mogalana."
+    },
+    {
+      "start": 108.64,
+      "end": 112.72,
+      "text": "It's long since you made this round, I mean come here."
+    },
+    {
+      "start": 112.72,
+      "end": 116.32,
+      "text": "Pray be seated good sir, here is the seat ready"
+    },
+    {
+      "start": 116.4,
+      "end": 119.36,
+      "text": "and the venerable Mahamogalana sat down"
+    },
+    {
+      "start": 119.36,
+      "end": 124.56,
+      "text": "and Deva Tissa, after saluting, sat down also at one side."
+    },
+    {
+      "start": 124.56,
+      "end": 129.2,
+      "text": "Then said the venerable Mahamogalana to Deva Tissa, so seated."
+    },
+    {
+      "start": 129.2,
+      "end": 133.92,
+      "text": "To how many Devas Tissa is there this knowledge?"
+    },
+    {
+      "start": 133.92,
+      "end": 137.28,
+      "text": "We have one to the stream, are no more for the abyss,"
+    },
+    {
+      "start": 137.28,
+      "end": 141.2,
+      "text": "insuredness we made for the awakening beyond."
+    },
+    {
+      "start": 141.28,
+      "end": 146.4,
+      "text": "And Tissa said, the four royal devas worthy sir have this knowledge."
+    },
+    {
+      "start": 146.4,
+      "end": 149.36,
+      "text": "What? Have they all this knowledge?"
+    },
+    {
+      "start": 149.36,
+      "end": 151.44,
+      "text": "No worthy sir, not all."
+    },
+    {
+      "start": 151.44,
+      "end": 155.92,
+      "text": "Those four royal devas who possess not perfect faith in the Buddha,"
+    },
+    {
+      "start": 155.92,
+      "end": 161.92,
+      "text": "Dhamma and Sangha, possess not perfect faith in the virtues beloved by Aryans."
+    },
+    {
+      "start": 161.92,
+      "end": 166.8,
+      "text": "They know not that, but those who possess such faith, they know."
+    },
+    {
+      "start": 166.8,
+      "end": 169.92,
+      "text": "We have one to the stream, are no more for the abyss,"
+    },
+    {
+      "start": 169.92,
+      "end": 173.44,
+      "text": "insuredness we make for the awakening beyond."
+    },
+    {
+      "start": 173.44,
+      "end": 177.2,
+      "text": "And is it just the four royal devas who have this knowledge"
+    },
+    {
+      "start": 177.2,
+      "end": 183.12,
+      "text": "or do the devas of the 33, Yama's devas, the devas of Tussita,"
+    },
+    {
+      "start": 183.12,
+      "end": 187.36,
+      "text": "the devas who delight in creating and the devas who have power over"
+    },
+    {
+      "start": 187.36,
+      "end": 190.48,
+      "text": "other's creations also have this knowledge."
+    },
+    {
+      "start": 190.48,
+      "end": 193.2,
+      "text": "They also worthy sir have this knowledge."
+    },
+    {
+      "start": 193.2,
+      "end": 198.48,
+      "text": "What? All of them? No, not those who possess not perfect faith in the Buddha,"
+    },
+    {
+      "start": 198.48,
+      "end": 201.04,
+      "text": "Dhamma and Sangha and the virtues."
+    },
+    {
+      "start": 201.04,
+      "end": 204.24,
+      "text": "But those who have such faith, they know it."
+    },
+    {
+      "start": 204.24,
+      "end": 209.2,
+      "text": "And the venerable Maham Ogallana approved and commanded Brahma Tissa's words."
+    },
+    {
+      "start": 209.2,
+      "end": 212.64,
+      "text": "And as a strong man might stretch and bend his arm,"
+    },
+    {
+      "start": 212.64,
+      "end": 216.96,
+      "text": "he vanished from the Brahma world and appeared at Jeta Grove."
+    },
+    {
+      "start": 216.96,
+      "end": 218.64,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 218.64,
+      "end": 224.0,
+      "text": "It's one of the interesting sutras which shows how those Aryans in those days"
+    },
+    {
+      "start": 224.08,
+      "end": 230.0,
+      "text": "had psychic powers so that they could just vanish from earth and appear in the heavens"
+    },
+    {
+      "start": 231.04,
+      "end": 232.72,
+      "text": "and come back in the same way."
+    },
+    {
+      "start": 233.76,
+      "end": 239.68,
+      "text": "And you can see like this deva Tissa because he was a good man before."
+    },
+    {
+      "start": 239.68,
+      "end": 245.2,
+      "text": "Then when he was reborn as a deva, he was very powerful, very mighty."
+    },
+    {
+      "start": 245.2,
+      "end": 252.88,
+      "text": "They called him Tissa the powerful, Tissa the mighty."
+    },
+    {
+      "start": 254.08,
+      "end": 258.88,
+      "text": "So some monks who practice the holy path well,"
+    },
+    {
+      "start": 258.88,
+      "end": 262.56,
+      "text": "when they are reborn as devas, they are very mighty and powerful."
+    },
+    {
+      "start": 264.0,
+      "end": 271.28,
+      "text": "And here it is stated, those who become Arya are those who have unshakable faith"
+    },
+    {
+      "start": 271.28,
+      "end": 276.16,
+      "text": "in the Buddha, Dhamma and Sangha and they also have perfect moral conduct."
+    },
+    {
+      "start": 277.12,
+      "end": 285.04,
+      "text": "Now perfect moral conduct is not all the five precepts."
+    },
+    {
+      "start": 286.32,
+      "end": 293.92,
+      "text": "If you look at the Aryan Eightfold Path, we have three factors that comprise the Sela section."
+    },
+    {
+      "start": 295.2,
+      "end": 298.64,
+      "text": "It is right speech, right action and right livelihood."
+    },
+    {
+      "start": 299.6,
+      "end": 306.48,
+      "text": "And right speech is abstaining from the four kinds of wrong speech, from lying,"
+    },
+    {
+      "start": 307.2,
+      "end": 318.56,
+      "text": "from malicious tale bearing, from cause words and from idle gossip."
+    },
+    {
+      "start": 319.52,
+      "end": 326.96,
+      "text": "And right action is to abstain from killing, from stealing, from committing adultery."
+    },
+    {
+      "start": 327.92,
+      "end": 341.68,
+      "text": "And wrong livelihood is that kind of livelihood that does not harm other living beings or oneself."
+    },
+    {
+      "start": 342.88,
+      "end": 347.36,
+      "text": "So it does not include the precept against drinking."
+    },
+    {
+      "start": 347.92,
+      "end": 354.96,
+      "text": "That is why in one of the suttas in the Sanghuta Nikaya, we find that there was one person,"
+    },
+    {
+      "start": 355.44,
+      "end": 360.72,
+      "text": "one Sakyan by the name of Sarakani, he seems, he took to liquor."
+    },
+    {
+      "start": 361.44,
+      "end": 364.24,
+      "text": "He must have drank a considerable amount of liquor."
+    },
+    {
+      "start": 365.28,
+      "end": 371.6,
+      "text": "And yet the Buddha said that when he died that he was an Arya."
+    },
+    {
+      "start": 372.88,
+      "end": 382.0,
+      "text": "So these are the four characteristics of Arya, unshakable faith in the Buddha, Dhamma and Sangha"
+    },
+    {
+      "start": 382.0,
+      "end": 383.6,
+      "text": "and he has perfect virtue."
+    },
+    {
+      "start": 386.24,
+      "end": 390.56,
+      "text": "The next sutta is 6.4.36."
+    },
+    {
+      "start": 391.12,
+      "end": 394.32,
+      "text": "Mangs, these six are the roots of contention."
+    },
+    {
+      "start": 394.32,
+      "end": 394.88,
+      "text": "What six?"
+    },
+    {
+      "start": 395.44,
+      "end": 402.56,
+      "text": "Mangs, suppose a monk be angry, scornful and he being so, he lives without reverence,"
+    },
+    {
+      "start": 403.76,
+      "end": 407.76,
+      "text": "respect for the master, for Dhamma, for the Sangha."
+    },
+    {
+      "start": 407.76,
+      "end": 413.52,
+      "text": "And he fulfills not the training and he who lives thus causes contention"
+    },
+    {
+      "start": 413.6,
+      "end": 414.32,
+      "text": "in the order."
+    },
+    {
+      "start": 414.88,
+      "end": 419.44,
+      "text": "And that is to the hurt and sorrow of many folk, to the harm of many folk,"
+    },
+    {
+      "start": 419.44,
+      "end": 421.76,
+      "text": "to the hurt and ill of devas and men."
+    },
+    {
+      "start": 422.4,
+      "end": 426.96,
+      "text": "Mangs, if you see this root of contention among you or among others,"
+    },
+    {
+      "start": 426.96,
+      "end": 430.08,
+      "text": "strive to rid yourselves of this evil thing."
+    },
+    {
+      "start": 430.08,
+      "end": 435.92,
+      "text": "And if you see it not, step the way to stop its future cankering or arising."
+    },
+    {
+      "start": 436.48,
+      "end": 440.4,
+      "text": "Thus is this evil root of contention got rid of."
+    },
+    {
+      "start": 440.4,
+      "end": 444.16,
+      "text": "And thus there shall be no more future cankering or arising."
+    },
+    {
+      "start": 444.72,
+      "end": 448.16,
+      "text": "Again Mangs, suppose a monk be a hypocrite, malicious,"
+    },
+    {
+      "start": 448.8,
+      "end": 455.28,
+      "text": "or envious, mean, or deceitful, crafty, or evil-minded and wrong in view,"
+    },
+    {
+      "start": 455.28,
+      "end": 458.16,
+      "text": "or view-bound, tenacious, stubborn."
+    },
+    {
+      "start": 459.44,
+      "end": 464.8,
+      "text": "And if he be any of these things, he lives without reverence, respect for the master,"
+    },
+    {
+      "start": 464.8,
+      "end": 468.48,
+      "text": "Dhamma and Sangha, nor fulfills he the training."
+    },
+    {
+      "start": 469.04,
+      "end": 472.64,
+      "text": "And he who lives thus causes contention in the Sangha,"
+    },
+    {
+      "start": 472.64,
+      "end": 475.04,
+      "text": "to the hurt and ill of devas and men."
+    },
+    {
+      "start": 475.6,
+      "end": 480.48,
+      "text": "Mangs, if you see these roots of contention, strive to be rid of these evil things."
+    },
+    {
+      "start": 481.6,
+      "end": 486.32,
+      "text": "And if you see them not, step the way to stop its future cankering or arising."
+    },
+    {
+      "start": 486.32,
+      "end": 488.24,
+      "text": "Thus are these evil roots rid."
+    },
+    {
+      "start": 488.88,
+      "end": 492.16,
+      "text": "And thus there shall be no future cankering or arising."
+    },
+    {
+      "start": 492.16,
+      "end": 494.88,
+      "text": "Really Mangs, these are the six roots of contention."
+    },
+    {
+      "start": 495.84,
+      "end": 497.6,
+      "text": "Let me say end of the sutra."
+    },
+    {
+      "start": 497.6,
+      "end": 504.08,
+      "text": "Here the Buddha is saying that there are certain qualities that if a monk possesses,"
+    },
+    {
+      "start": 504.08,
+      "end": 506.0,
+      "text": "it leads to contention."
+    },
+    {
+      "start": 508.56,
+      "end": 510.88,
+      "text": "These are unwholesome traits or habits."
+    },
+    {
+      "start": 510.88,
+      "end": 513.84,
+      "text": "The first one is being angry or scornful."
+    },
+    {
+      "start": 513.84,
+      "end": 516.72,
+      "text": "The second one is being a hypocrite or malicious."
+    },
+    {
+      "start": 516.72,
+      "end": 518.4,
+      "text": "Third one envious and mean."
+    },
+    {
+      "start": 519.36,
+      "end": 524.16,
+      "text": "And then deceitful and crafty, then evil-minded and having wrong view."
+    },
+    {
+      "start": 524.16,
+      "end": 529.68,
+      "text": "And then view-bound, that means having too much views and being stubborn and tenacious."
+    },
+    {
+      "start": 531.28,
+      "end": 538.64,
+      "text": "And it is not easy for people to live together, for example in a monastery."
+    },
+    {
+      "start": 539.28,
+      "end": 542.48,
+      "text": "And there are some people who are unaccommodating,"
+    },
+    {
+      "start": 542.48,
+      "end": 544.64,
+      "text": "not willing to change their bad habits."
+    },
+    {
+      "start": 545.44,
+      "end": 549.6,
+      "text": "Such people cannot live in a monastery with others."
+    },
+    {
+      "start": 549.6,
+      "end": 553.44,
+      "text": "Because if you allow them to live with others,"
+    },
+    {
+      "start": 553.44,
+      "end": 557.84,
+      "text": "they will cause contention and fights and quarrels."
+    },
+    {
+      "start": 558.8,
+      "end": 563.44,
+      "text": "So such people, if they are not willing to change their habits,"
+    },
+    {
+      "start": 563.44,
+      "end": 568.48,
+      "text": "not willing to accommodate other people, allow for other people's faults, etc.,"
+    },
+    {
+      "start": 568.48,
+      "end": 570.4,
+      "text": "then it is better that they live alone."
+    },
+    {
+      "start": 571.68,
+      "end": 575.6,
+      "text": "Not all people can live under the same roof with others."
+    },
+    {
+      "start": 578.37,
+      "end": 582.29,
+      "text": "The next sutra is 6.4.37."
+    },
+    {
+      "start": 582.29,
+      "end": 585.01,
+      "text": "This is also quite a good, important sutra."
+    },
+    {
+      "start": 585.65,
+      "end": 590.93,
+      "text": "Once, when the Exalted One built near Savati as Jyeta Grove in Anakapindi Kaspak,"
+    },
+    {
+      "start": 591.57,
+      "end": 598.77,
+      "text": "Nanda's mother, the Velu Kandakan lay disciple, founded and offering 6 fold and doubt"
+    },
+    {
+      "start": 599.33,
+      "end": 603.57,
+      "text": "for the Sangha of monks with Sariputta and Mahamogalana at the head."
+    },
+    {
+      "start": 604.21,
+      "end": 610.13,
+      "text": "Now the Exalted One with the Deva eyes surpassing in clarity the eye of man saw this"
+    },
+    {
+      "start": 610.13,
+      "end": 611.49,
+      "text": "and addressed the monks thus."
+    },
+    {
+      "start": 612.05,
+      "end": 616.45,
+      "text": "Monks, this lay disciple of Velu Kandakan, Nanda's mother,"
+    },
+    {
+      "start": 617.97,
+      "end": 621.81,
+      "text": "has founded an offering 6 fold and doubt for the Sangha,"
+    },
+    {
+      "start": 621.81,
+      "end": 624.53,
+      "text": "and how monks is the offering 6 fold and doubt."
+    },
+    {
+      "start": 625.17,
+      "end": 630.37,
+      "text": "Monks, the giver's part is 3 fold, and the receiver's part is 3 fold."
+    },
+    {
+      "start": 631.01,
+      "end": 633.09,
+      "text": "And what is the giver's 3 fold part?"
+    },
+    {
+      "start": 633.65,
+      "end": 637.25,
+      "text": "Herein, monks, before the gift, he is glad at heart."
+    },
+    {
+      "start": 637.81,
+      "end": 640.05,
+      "text": "In giving, the heart is satisfied."
+    },
+    {
+      "start": 640.85,
+      "end": 643.81,
+      "text": "And uplifted is the heart when he has given."
+    },
+    {
+      "start": 643.81,
+      "end": 646.37,
+      "text": "This is the giver's 3 fold part."
+    },
+    {
+      "start": 646.37,
+      "end": 649.01,
+      "text": "And what is the receiver's 3 fold part?"
+    },
+    {
+      "start": 649.01,
+      "end": 653.33,
+      "text": "Herein, monks, they are lust-free, or stepping to cast lust out."
+    },
+    {
+      "start": 653.89,
+      "end": 657.17,
+      "text": "A hate-free, or stepping to cast hate out."
+    },
+    {
+      "start": 657.17,
+      "end": 660.21,
+      "text": "A delusion-free, or stepping to become so."
+    },
+    {
+      "start": 660.21,
+      "end": 662.37,
+      "text": "This is the receiver's 3 fold part."
+    },
+    {
+      "start": 662.93,
+      "end": 667.49,
+      "text": "Thus, the giver's part is 3 fold, and the receiver's part is 3 fold."
+    },
+    {
+      "start": 667.57,
+      "end": 671.17,
+      "text": "Thus, verily, monks, the offering is 6 fold and doubt."
+    },
+    {
+      "start": 671.17,
+      "end": 677.65,
+      "text": "Monks, not easy is it to grasp the measure of merit of such a 6 fold and doubt offering,"
+    },
+    {
+      "start": 677.65,
+      "end": 682.37,
+      "text": "and to say, thus much is the yield in merit, the yield in goodness,"
+    },
+    {
+      "start": 682.37,
+      "end": 688.21,
+      "text": "making for a lucky, hereafter, ripening to happiness, leading heavenward,"
+    },
+    {
+      "start": 688.21,
+      "end": 692.77,
+      "text": "leading to yield and happiness, long, firm, loved and lovely."
+    },
+    {
+      "start": 692.77,
+      "end": 697.89,
+      "text": "Verily, this great mass of merit is reckoned this unrecognable, immeasurable."
+    },
+    {
+      "start": 698.53,
+      "end": 703.25,
+      "text": "Monks, as it is not easy to grasp the measure of water in the great ocean,"
+    },
+    {
+      "start": 703.25,
+      "end": 707.41,
+      "text": "and to say, there are so many pailfuls, so many hundreds of pailfuls,"
+    },
+    {
+      "start": 707.41,
+      "end": 712.69,
+      "text": "so many thousands of pailfuls, so many hundreds of thousands of pailfuls."
+    },
+    {
+      "start": 712.69,
+      "end": 717.25,
+      "text": "For that great mass of water is reckoned unrecognable, immeasurable."
+    },
+    {
+      "start": 717.73,
+      "end": 724.21,
+      "text": "Even so, monks, it is not easy to grasp the measure of merit in a 6 fold and doubt offering."
+    },
+    {
+      "start": 724.21,
+      "end": 728.69,
+      "text": "Verily, the great mass of merit is reckoned unrecognable, immeasurable."
+    },
+    {
+      "start": 729.41,
+      "end": 730.77,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 731.41,
+      "end": 739.17,
+      "text": "So, in this Sutta, we find one day, the Nanda Mata, Nanda's mother, was making"
+    },
+    {
+      "start": 739.97,
+      "end": 747.33,
+      "text": "an offering, dhana, of food to Lord Sariputta and Mahamogalana and the Sangha of monks."
+    },
+    {
+      "start": 747.97,
+      "end": 752.77,
+      "text": "And from far away, the Buddha, because of his psychic power, he saw this,"
+    },
+    {
+      "start": 753.33,
+      "end": 760.29,
+      "text": "and he told his monks that this offering that Nanda's mother was making has six"
+    },
+    {
+      "start": 761.17,
+      "end": 765.41,
+      "text": "qualities, and because of these six qualities, the merit is immeasurable."
+    },
+    {
+      "start": 765.97,
+      "end": 772.37,
+      "text": "First, the giver's partner, the giver, before he gives the offering, he is very happy."
+    },
+    {
+      "start": 772.37,
+      "end": 780.93,
+      "text": "He or she is very happy, and while he or she is giving the dhana, he or she is very happy."
+    },
+    {
+      "start": 781.73,
+      "end": 786.45,
+      "text": "And even after the offering, that person is again very happy."
+    },
+    {
+      "start": 787.17,
+      "end": 792.69,
+      "text": "That means he gives with a lot of happiness in giving without holding back."
+    },
+    {
+      "start": 793.33,
+      "end": 805.09,
+      "text": "And then the receiver is either a person who has abandoned or cut off lust, hatred, and delusion,"
+    },
+    {
+      "start": 805.65,
+      "end": 811.97,
+      "text": "or a person walking the path to cut off lust, hatred, and delusion."
+    },
+    {
+      "start": 811.97,
+      "end": 820.85,
+      "text": "In other words, that person is either an Arahant or an Arya who is practicing to"
+    },
+    {
+      "start": 821.81,
+      "end": 826.85,
+      "text": "totally eliminate lust, hatred, and delusion."
+    },
+    {
+      "start": 827.89,
+      "end": 831.73,
+      "text": "Sometimes these three things, sometimes it's called lust, hatred, and delusion."
+    },
+    {
+      "start": 831.73,
+      "end": 841.33,
+      "text": "Sometimes last year it would be Raga, hatred would be Dosa, and delusion would be Moha."
+    },
+    {
+      "start": 841.89,
+      "end": 846.29,
+      "text": "Sometimes these three things are slight, there's a slight variation. Sometimes it is"
+    },
+    {
+      "start": 846.85,
+      "end": 855.65,
+      "text": "greed, hatred, and delusion. Greed is lobha. So here it's mentioned as lust."
+    },
+    {
+      "start": 856.93,
+      "end": 864.45,
+      "text": "So if a person gives to an Arya, and that person gives with a lot of happiness"
+    },
+    {
+      "start": 865.33,
+      "end": 868.85,
+      "text": "before the offering, during the offering, and after the offering,"
+    },
+    {
+      "start": 868.85,
+      "end": 880.45,
+      "text": "and then that kind of dana is immeasurable merit, just as the ocean cannot be measured."
+    },
+    {
+      "start": 880.45,
+      "end": 887.81,
+      "text": "So too, the merit from this offering cannot be measured."
+    },
+    {
+      "start": 890.45,
+      "end": 894.21,
+      "text": "Sutta No. 6.4.38."
+    },
+    {
+      "start": 895.41,
+      "end": 903.49,
+      "text": "Now a certain Brahmin visited the exalted one, greeted him, and after exchanging the usual"
+    },
+    {
+      "start": 903.49,
+      "end": 909.09,
+      "text": "polite talk, sat down at one side. So seated, he said to the exalted one,"
+    },
+    {
+      "start": 909.57,
+      "end": 918.53,
+      "text": "this Master Gautama is my avowal, this is my view. There is no self-agency atakaro,"
+    },
+    {
+      "start": 918.53,
+      "end": 927.33,
+      "text": "no other agency, parakaro, than the Buddha said. Never a Brahmin have I seen or heard"
+    },
+    {
+      "start": 927.33,
+      "end": 935.73,
+      "text": "of such an avowal, such a view. Pray, how can one step onwards, how can one step back,"
+    },
+    {
+      "start": 935.73,
+      "end": 942.37,
+      "text": "yet say there is no self-agency, there is no other agency. What thank you, Brahmin,"
+    },
+    {
+      "start": 942.37,
+      "end": 950.77,
+      "text": "is there such a thing as initiative? Yes, sir. That being so, are men known to initiate? Yes, sir."
+    },
+    {
+      "start": 951.49,
+      "end": 958.13,
+      "text": "Well, Brahmin, since there is initiative and men are known to initiate, this is among men,"
+    },
+    {
+      "start": 958.13,
+      "end": 965.09,
+      "text": "the self-agency, this is the other agency. What thank you, Brahmin, is there such a thing as"
+    },
+    {
+      "start": 965.09,
+      "end": 972.93,
+      "text": "stepping away, stepping forth, halting, standing, and stepping towards anything? Yes, sir. That"
+    },
+    {
+      "start": 972.93,
+      "end": 979.81,
+      "text": "being so, are men known to do all these things? Yes, sir. Well, Brahmin, since there are such"
+    },
+    {
+      "start": 979.81,
+      "end": 985.33,
+      "text": "things as stepping away, stepping forth and the rest, and men are known to do these things,"
+    },
+    {
+      "start": 985.33,
+      "end": 993.17,
+      "text": "this is among men, the self-agency, this is the other agency. Never, Brahmin, have I seen or heard"
+    },
+    {
+      "start": 993.17,
+      "end": 1000.37,
+      "text": "of such an avowal, such a view as yours? Pray, how can one step onwards, step back, and say there is"
+    },
+    {
+      "start": 1000.37,
+      "end": 1007.33,
+      "text": "no self-agency, there is no other agency. And the Brahmin said, this indeed is wonderful,"
+    },
+    {
+      "start": 1007.33,
+      "end": 1013.49,
+      "text": "Master Gautama, etc., and henceforth till life ends, I will go to Master Gautama for help."
+    },
+    {
+      "start": 1014.45,
+      "end": 1018.85,
+      "text": "That's the end of the Sutta. So at the end, the Brahmin took refuge with the Buddha."
+    },
+    {
+      "start": 1019.81,
+      "end": 1027.01,
+      "text": "This Sutta is quite an interesting one, because here this man is saying, there is no atta-karo,"
+    },
+    {
+      "start": 1027.01,
+      "end": 1034.77,
+      "text": "atta is the self, karo is the one who does. So here they translate it as no self-agency,"
+    },
+    {
+      "start": 1034.77,
+      "end": 1045.25,
+      "text": "no self-agency, no self who does. This is something like saying there is no self, this man is saying"
+    },
+    {
+      "start": 1046.21,
+      "end": 1054.98,
+      "text": "there's no such thing as a self. But the Buddha, in our Buddhist teaching, although the Buddha said"
+    },
+    {
+      "start": 1056.74,
+      "end": 1064.18,
+      "text": "they thought the doctrine of atta, which is normally translated as no self, actually that"
+    },
+    {
+      "start": 1064.18,
+      "end": 1072.26,
+      "text": "should probably be translated as no soul, because soul is supposed to be something that is permanent,"
+    },
+    {
+      "start": 1072.26,
+      "end": 1083.22,
+      "text": "unchanging, that exists forever. But in the Buddha's teaching, there is a self, but it is an"
+    },
+    {
+      "start": 1083.22,
+      "end": 1090.5,
+      "text": "impermanent self. It is an impermanent self. That is why the Buddha said now, there is such a thing"
+    },
+    {
+      "start": 1090.5,
+      "end": 1097.7,
+      "text": "as initiative, and men are known to use their initiative, stepping forward and stepping backwards,"
+    },
+    {
+      "start": 1097.7,
+      "end": 1104.02,
+      "text": "etc. So the Buddha is saying here that there is such a thing as a self. Probably what he means is"
+    },
+    {
+      "start": 1104.02,
+      "end": 1116.34,
+      "text": "it is an impermanent self. So this Sutta in a way shows that this theory of no self was probably"
+    },
+    {
+      "start": 1116.34,
+      "end": 1121.94,
+      "text": "not started by the Buddha. Probably during the Buddha's time, there was already such views as"
+    },
+    {
+      "start": 1121.94,
+      "end": 1130.82,
+      "text": "there is no self. And so it's just that the Buddha's interpretation is that there is no"
+    },
+    {
+      "start": 1131.62,
+      "end": 1139.3,
+      "text": "soul, such a thing, such meaning, such a thing that is permanent, unchanging, that exists forever"
+    },
+    {
+      "start": 1139.3,
+      "end": 1151.04,
+      "text": "and ever. The next Sutta is 6.4.41. Thus have I heard, once when the venerable Sariputta"
+    },
+    {
+      "start": 1151.12,
+      "end": 1159.12,
+      "text": "dwelt on Mount Vajra Peak near Rajagaha, he roped himself early in the morning and taking"
+    },
+    {
+      "start": 1159.12,
+      "end": 1165.04,
+      "text": "bowl and rope descended the hill with many monks in company. Now at a certain spot,"
+    },
+    {
+      "start": 1165.04,
+      "end": 1171.36,
+      "text": "the venerable Sariputta saw a large log of wood, and there he addressed the monks and said,"
+    },
+    {
+      "start": 1171.36,
+      "end": 1178.4,
+      "text": "see you reverence that large log of wood. Yes sir, they replied. An adept monk reverences"
+    },
+    {
+      "start": 1178.4,
+      "end": 1185.92,
+      "text": "want to mind control, and if he wished, view it as earth. Therefore, there is search in that log"
+    },
+    {
+      "start": 1185.92,
+      "end": 1192.88,
+      "text": "of wood, the earth element. Hence an adept can view it as earth. He can, if he wished, view it as"
+    },
+    {
+      "start": 1192.88,
+      "end": 1201.52,
+      "text": "water, as fire, as wind, as beautiful, as ugly. Therefore, there are reverences, the elements"
+    },
+    {
+      "start": 1201.52,
+      "end": 1207.52,
+      "text": "of all these things in that log of wood. Hence an adept one to mind control can view that log in"
+    },
+    {
+      "start": 1207.52,
+      "end": 1213.68,
+      "text": "such ways. This is the end of the Sutta. Here an adept means one who has finished his work,"
+    },
+    {
+      "start": 1214.56,
+      "end": 1225.23,
+      "text": "meaning an arahan. The thing, the parli word is edema. Edema is one who has been,"
+    },
+    {
+      "start": 1226.43,
+      "end": 1232.67,
+      "text": "you could say successful, because ed, one meaning of ed is success, another one is"
+    },
+    {
+      "start": 1233.39,
+      "end": 1242.03,
+      "text": "psychic powers. So you could say one with psychic power or one with who has been successful in the"
+    },
+    {
+      "start": 1242.03,
+      "end": 1247.71,
+      "text": "spiritual path. But the venerable Sariputta, even though he has attained all the janas,"
+    },
+    {
+      "start": 1247.71,
+      "end": 1255.23,
+      "text": "he is known not to have psychic power. So probably he does not refer to psychic power here. He refers"
+    },
+    {
+      "start": 1255.23,
+      "end": 1264.19,
+      "text": "to an arahan, one who has been successful in the holy path. So he said an adept man, an arahan,"
+    },
+    {
+      "start": 1264.19,
+      "end": 1275.31,
+      "text": "can view even a log as earth, or water, or fire, or that is heat, or wind, these are the whole"
+    },
+    {
+      "start": 1275.31,
+      "end": 1285.15,
+      "text": "elements in a physical object, and as beautiful or ugly. This shows that a person who has full"
+    },
+    {
+      "start": 1285.23,
+      "end": 1294.27,
+      "text": "control of his mind and do these things, and actually that is why the one-pointedness of"
+    },
+    {
+      "start": 1294.27,
+      "end": 1302.27,
+      "text": "mind is very important. Samadhi in the Buddha's teachings is one-pointedness of mind. The aim"
+    },
+    {
+      "start": 1302.27,
+      "end": 1310.35,
+      "text": "of Samadhi is to have control over the mind, and so that as in one of the earlier sutras we read,"
+    },
+    {
+      "start": 1311.15,
+      "end": 1318.43,
+      "text": "then a person can view something that is attractive as loathsome, something as loathsome"
+    },
+    {
+      "start": 1318.43,
+      "end": 1325.79,
+      "text": "as even attractive, because all these are perceptions of the mind. Perceptions"
+    },
+    {
+      "start": 1328.19,
+      "end": 1338.83,
+      "text": "due to habit and perceptions can be changed if we train the mind. Sometimes people say that"
+    },
+    {
+      "start": 1338.83,
+      "end": 1345.47,
+      "text": "mindfulness is very important. Mindfulness is important, but by itself it is not sufficient."
+    },
+    {
+      "start": 1346.35,
+      "end": 1353.15,
+      "text": "For example, sometimes a person can know he is mindful, he knows that what he is doing is wrong,"
+    },
+    {
+      "start": 1353.15,
+      "end": 1359.95,
+      "text": "and yet he continues to do it. Why? Because he is not in full control of his mind. For example,"
+    },
+    {
+      "start": 1359.95,
+      "end": 1366.51,
+      "text": "sometimes a man or a woman may know that to commit adultery is wrong, and yet because"
+    },
+    {
+      "start": 1366.91,
+      "end": 1379.52,
+      "text": "passion or lust controls his mind, he is unable to overcome this passion or lust,"
+    },
+    {
+      "start": 1379.52,
+      "end": 1385.68,
+      "text": "so the lust or passion controls his mind rather than the mind controlling passion,"
+    },
+    {
+      "start": 1386.72,
+      "end": 1397.23,
+      "text": "hence the importance of Samadhi in the Buddha's teachings. Another sutra, 6.5.44,"
+    },
+    {
+      "start": 1397.87,
+      "end": 1402.59,
+      "text": "One morning the venerable Ananda, robing himself early, took a bowl and"
+    },
+    {
+      "start": 1403.23,
+      "end": 1409.79,
+      "text": "roped and went to the house of the lay disciple, Meghasala, and there sat down on a seat made"
+    },
+    {
+      "start": 1409.79,
+      "end": 1416.19,
+      "text": "ready, and Meghasala came and saluted him and sat down at one side. So seated, she said to the"
+    },
+    {
+      "start": 1416.19,
+      "end": 1423.23,
+      "text": "venerable Ananda, pray, revancer, how odd one to understand this Dhamma taught by the exalted one,"
+    },
+    {
+      "start": 1423.23,
+      "end": 1430.27,
+      "text": "that both he who lives the holy life and he who does not shall become like Wayfarers in the"
+    },
+    {
+      "start": 1430.27,
+      "end": 1437.63,
+      "text": "world to come. My father, sir, Purana, lived the holy life, dwelling apart, abstaining from common"
+    },
+    {
+      "start": 1438.27,
+      "end": 1445.23,
+      "text": "carnal things, and when he died, the exalted one explained, he is a once-returner dwelling in"
+    },
+    {
+      "start": 1445.23,
+      "end": 1452.51,
+      "text": "Tussita heaven. My uncle, sir, Isidata did not live the holy life, but rejoiced with a wife,"
+    },
+    {
+      "start": 1453.07,
+      "end": 1459.95,
+      "text": "and of him also, when dead, the exalted one said, he is a once-returner dwelling in Tussita heaven."
+    },
+    {
+      "start": 1460.67,
+      "end": 1467.87,
+      "text": "Reverend Ananda, how odd one to understand this Dhamma, and when Bernanda said, even sister, as"
+    },
+    {
+      "start": 1467.87,
+      "end": 1473.95,
+      "text": "the exalted one has said, and when the venerable Ananda had received arms in Meghasala's house,"
+    },
+    {
+      "start": 1473.95,
+      "end": 1483.39,
+      "text": "he rose from his seat and departed. Now, stop here for a while just to commend that probably Ananda,"
+    },
+    {
+      "start": 1483.39,
+      "end": 1490.67,
+      "text": "venerable Ananda could not explain to this Meghasala, that's why he said, you just remember it as the"
+    },
+    {
+      "start": 1490.67,
+      "end": 1498.19,
+      "text": "exalted one said, and left. Now the Sutta continues. Now on his return from arms gathering, after his"
+    },
+    {
+      "start": 1498.19,
+      "end": 1504.35,
+      "text": "meal, the venerable Ananda visited the exalted one, saluted him and sat down at one side,"
+    },
+    {
+      "start": 1504.35,
+      "end": 1510.51,
+      "text": "and so seated, he told the exalted one all that had occurred, adding, I told her Lord to understand"
+    },
+    {
+      "start": 1510.51,
+      "end": 1517.71,
+      "text": "the matter even as the exalted one had explained, and the Buddha said, but Ananda, who is the lay"
+    },
+    {
+      "start": 1517.71,
+      "end": 1525.07,
+      "text": "disciple of Meghasala, a foolish, frail, motherly body, with but mother with, to understand the"
+    },
+    {
+      "start": 1525.07,
+      "end": 1532.59,
+      "text": "diversity in the person of man. These six persons Ananda are found in the world. What six? Consider"
+    },
+    {
+      "start": 1532.59,
+      "end": 1538.99,
+      "text": "Ananda, one well-restrained, a calmly person, in whose company his fellows in the holy life"
+    },
+    {
+      "start": 1538.99,
+      "end": 1546.19,
+      "text": "take pleasure, yet in whom hearing Dhamma is of no effect, much learning is of no effect,"
+    },
+    {
+      "start": 1546.19,
+      "end": 1552.91,
+      "text": "in whom there is no view penetration, who wins not partial release. He, on the breaking up of the"
+    },
+    {
+      "start": 1552.91,
+      "end": 1560.19,
+      "text": "body after death, sets out to fall, not to excel, fares to a fall, fares not to excellence."
+    },
+    {
+      "start": 1560.75,
+      "end": 1567.15,
+      "text": "Consider another well-restrained likewise, but in whom hearing Dhamma has effect,"
+    },
+    {
+      "start": 1567.15,
+      "end": 1573.87,
+      "text": "much learning has effect, in whom there is view penetration, who wins partial release."
+    },
+    {
+      "start": 1573.87,
+      "end": 1580.27,
+      "text": "He after death sets out to excel, not to fall, fares to excellence, not to a fall,"
+    },
+    {
+      "start": 1580.27,
+      "end": 1586.11,
+      "text": "and the measures measure them, saying, his stature is just this, the others just that."
+    },
+    {
+      "start": 1586.75,
+      "end": 1593.71,
+      "text": "In what way is one wanting, one exalted? And that measuring Ananda is to the measures harm"
+    },
+    {
+      "start": 1593.71,
+      "end": 1600.59,
+      "text": "and hurt for many a day. Now the one in whom listening has effect, who wins partial release,"
+    },
+    {
+      "start": 1600.59,
+      "end": 1608.27,
+      "text": "that person Ananda has marched further forward, is more exalted than the former. And why is that?"
+    },
+    {
+      "start": 1608.27,
+      "end": 1615.15,
+      "text": "The stream of Dhamma carries him forward, Ananda. But who save the Tathagata can judge that difference."
+    },
+    {
+      "start": 1615.71,
+      "end": 1622.11,
+      "text": "Wherefore, Ananda, be no measure of persons, measure not the measure of persons. Fairly,"
+    },
+    {
+      "start": 1622.11,
+      "end": 1629.39,
+      "text": "Ananda, he digs a pit for himself, who measures the measure of persons. I alone, Ananda, can measure"
+    },
+    {
+      "start": 1629.39,
+      "end": 1637.31,
+      "text": "their measure, or one like me. Consider, Ananda, a person in whom wrath and pride are conquered,"
+    },
+    {
+      "start": 1637.31,
+      "end": 1643.63,
+      "text": "but in whom greed from time to time surges, in whom hearing Dhamma is of no effect,"
+    },
+    {
+      "start": 1643.63,
+      "end": 1650.11,
+      "text": "and another in whom hearing has effect. He after death sets out to excel, not to fall,"
+    },
+    {
+      "start": 1650.11,
+      "end": 1656.43,
+      "text": "fares to excellence, not to a fall. That person has marched further forward, is more exalted"
+    },
+    {
+      "start": 1656.43,
+      "end": 1663.07,
+      "text": "than the former. I alone, Ananda, can measure their measure. Consider one in whom wrath and pride"
+    },
+    {
+      "start": 1663.07,
+      "end": 1669.31,
+      "text": "are conquered, but in whom the world of words from time to time surges, in whom hearing Dhamma"
+    },
+    {
+      "start": 1669.31,
+      "end": 1676.19,
+      "text": "and learning are of no effect, in whom there is no view penetration, who wins not partial release."
+    },
+    {
+      "start": 1676.19,
+      "end": 1682.59,
+      "text": "He after death sets out to fall, not to excel, fares to a fall, fares not to excellence,"
+    },
+    {
+      "start": 1683.15,
+      "end": 1689.39,
+      "text": "and another likewise, but in whom hearing Dhamma and learning have effect, in whom there is view"
+    },
+    {
+      "start": 1689.47,
+      "end": 1696.03,
+      "text": "penetration, who wins partial release, he after death sets out to excel, not to fall,"
+    },
+    {
+      "start": 1696.03,
+      "end": 1703.31,
+      "text": "fares to excellence, not to a fall. And the measures measure them likewise, and it is to their harm"
+    },
+    {
+      "start": 1703.31,
+      "end": 1710.43,
+      "text": "and hurt for many a day, and in whom hearing Dhamma and learning have effect. That one has"
+    },
+    {
+      "start": 1710.43,
+      "end": 1716.83,
+      "text": "marched further forward, is more exalted than the former, and why the Dhamma stream carries him"
+    },
+    {
+      "start": 1716.83,
+      "end": 1724.27,
+      "text": "forward. But who save the Tathagata can judge this difference? Wherefore, Ananda, be no measureer"
+    },
+    {
+      "start": 1724.27,
+      "end": 1730.83,
+      "text": "of persons, measure not the measure of persons. Verily, Ananda, he digs a pit for himself who"
+    },
+    {
+      "start": 1730.83,
+      "end": 1737.71,
+      "text": "measures the measure of persons. I alone, Ananda, can measure their measure, or one like me. And who"
+    },
+    {
+      "start": 1737.71,
+      "end": 1744.91,
+      "text": "is the lay disciple, Mi Ghazala, a foolish, frail motherly body, with but mother wit, to understand"
+    },
+    {
+      "start": 1744.91,
+      "end": 1750.59,
+      "text": "the diversity in the person of man. Verily, Ananda, these six persons are found in the world."
+    },
+    {
+      "start": 1751.15,
+      "end": 1759.31,
+      "text": "Ananda, with such virtue as Purana was endowed, Isidata may become endowed. Hearing Purana fares"
+    },
+    {
+      "start": 1759.31,
+      "end": 1767.55,
+      "text": "not Isidata's way, but another's. With such insight as Isidata was endowed, Purana may become endowed."
+    },
+    {
+      "start": 1767.55,
+      "end": 1775.23,
+      "text": "Hearing Isidata fares not Purana's way, but another's. Thus, verily, Ananda, both these men"
+    },
+    {
+      "start": 1775.23,
+      "end": 1784.43,
+      "text": "are wanting in one thing. That's the end of the Sutta. Here, this lady, Mi Ghazala, she was a bit"
+    },
+    {
+      "start": 1785.47,
+      "end": 1794.83,
+      "text": "perplexed because the father and the uncle, both when they died, the Buddha said that they were both"
+    },
+    {
+      "start": 1794.83,
+      "end": 1803.55,
+      "text": "once returners. That means a Sakata government, second stage fruition person. But one of them"
+    },
+    {
+      "start": 1803.55,
+      "end": 1811.31,
+      "text": "was a lay person. The other one was a monk. So, this Mi Ghazala couldn't understand why one is a"
+    },
+    {
+      "start": 1811.31,
+      "end": 1817.71,
+      "text": "lay person, one is a monk. But yet, both of them obtained the same fruit of the holy life."
+    },
+    {
+      "start": 1818.59,
+      "end": 1822.99,
+      "text": "So, the Buddha explained the six types of persons found in the world."
+    },
+    {
+      "start": 1823.95,
+      "end": 1830.11,
+      "text": "And the Buddha said not to measure another person, the Buddha said,"
+    },
+    {
+      "start": 1830.91,
+      "end": 1838.27,
+      "text": "be no measure of persons, measure not the measure of persons. Verily, Ananda, he digs a pit for"
+    },
+    {
+      "start": 1838.27,
+      "end": 1844.75,
+      "text": "himself who measures the measure of persons. So, here the Buddha is giving a warning that it is"
+    },
+    {
+      "start": 1844.75,
+      "end": 1852.27,
+      "text": "dangerous to judge other people, especially a person who wears the robe. It's very difficult for"
+    },
+    {
+      "start": 1852.27,
+      "end": 1862.83,
+      "text": "lay people to judge. So, we have to remember to be very careful when we criticize some monks,"
+    },
+    {
+      "start": 1862.83,
+      "end": 1867.31,
+      "text": "because sometimes you might think a monk has wrong view and he may have right view."
+    },
+    {
+      "start": 1868.27,
+      "end": 1875.15,
+      "text": "Especially if a monk practices, keeps the precepts and meditates, you have to be very,"
+    },
+    {
+      "start": 1875.15,
+      "end": 1882.19,
+      "text": "very careful not to criticize such a monk or develop hatred for such a monk."
+    },
+    {
+      "start": 1884.43,
+      "end": 1892.83,
+      "text": "In the end, the Buddha said that Purana was, although both of them Purana and Isidata were"
+    },
+    {
+      "start": 1892.83,
+      "end": 1902.11,
+      "text": "once returners, but Purana excelled in virtue, whereas Isidata excelled in insight. So, both of"
+    },
+    {
+      "start": 1902.11,
+      "end": 1908.59,
+      "text": "them they had slightly different qualities, but both of them are Sakata Kamins."
+    }
+  ]
+}

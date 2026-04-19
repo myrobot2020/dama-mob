@@ -1,0 +1,3640 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2212.81525,
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 5.14,
+      "text": "Now we come to another Sutta, 4.19.186."
+    },
+    {
+      "start": 5.14,
+      "end": 8.14,
+      "text": "Now a certain monk came to visit the Exalted One"
+    },
+    {
+      "start": 8.14,
+      "end": 12.14,
+      "text": "and on coming to him saluted the Exalted One and sat down at one side."
+    },
+    {
+      "start": 12.14,
+      "end": 16.14,
+      "text": "As he sat thus, that monk said this to the Exalted One,"
+    },
+    {
+      "start": 16.14,
+      "end": 20.14,
+      "text": "Pray Lord, by what is the world led, by what is the world drawn along,"
+    },
+    {
+      "start": 20.14,
+      "end": 24.14,
+      "text": "under this way of what that has arisen, does it go?"
+    },
+    {
+      "start": 24.14,
+      "end": 25.14,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 25.14,
+      "end": 27.14,
+      "text": "Well said, well said, monk."
+    },
+    {
+      "start": 28.14,
+      "end": 30.14,
+      "text": "Happy is your approach to a question."
+    },
+    {
+      "start": 30.14,
+      "end": 33.14,
+      "text": "Goodly is your ready with and lovely is your questioning."
+    },
+    {
+      "start": 33.14,
+      "end": 36.14,
+      "text": "Your question is thus, is it not, monk?"
+    },
+    {
+      "start": 36.14,
+      "end": 41.14,
+      "text": "Pray Lord, by what is the world led, by what is the world drawn along,"
+    },
+    {
+      "start": 41.14,
+      "end": 45.14,
+      "text": "under this way of what that has arisen, does it go?"
+    },
+    {
+      "start": 45.14,
+      "end": 47.14,
+      "text": "And the monk said, it is Lord."
+    },
+    {
+      "start": 47.14,
+      "end": 52.14,
+      "text": "Well, monk, the world is led by mind, chitta."
+    },
+    {
+      "start": 52.14,
+      "end": 54.14,
+      "text": "By mind it is drawn along."
+    },
+    {
+      "start": 54.14,
+      "end": 60.14,
+      "text": "By mind, when mind has arisen, it goes under its way."
+    },
+    {
+      "start": 60.14,
+      "end": 63.14,
+      "text": "That is well said, Lord, replied that monk,"
+    },
+    {
+      "start": 63.14,
+      "end": 66.14,
+      "text": "welcoming what was said by the Exalted One."
+    },
+    {
+      "start": 66.14,
+      "end": 69.14,
+      "text": "And after thanking him, asked another question."
+    },
+    {
+      "start": 69.14,
+      "end": 71.14,
+      "text": "Ask as to the common saying,"
+    },
+    {
+      "start": 71.14,
+      "end": 74.14,
+      "text": "widely learned, one who knows dhamma by heart."
+    },
+    {
+      "start": 74.14,
+      "end": 80.14,
+      "text": "Pray Lord, of what sort is one widely learned, who knows dhamma by heart?"
+    },
+    {
+      "start": 80.14,
+      "end": 82.14,
+      "text": "Well said, well said, monk."
+    },
+    {
+      "start": 82.14,
+      "end": 84.14,
+      "text": "Happy is your approach to a question."
+    },
+    {
+      "start": 84.14,
+      "end": 87.14,
+      "text": "Goodly is your ready with and lovely is your questioning."
+    },
+    {
+      "start": 87.14,
+      "end": 91.14,
+      "text": "You ask this, do you not, of what sort is one widely learned,"
+    },
+    {
+      "start": 91.14,
+      "end": 93.14,
+      "text": "who knows dhamma by heart?"
+    },
+    {
+      "start": 93.14,
+      "end": 94.14,
+      "text": "I do, Lord."
+    },
+    {
+      "start": 94.14,
+      "end": 98.14,
+      "text": "Well, monk, I have taught dhamma widely."
+    },
+    {
+      "start": 98.14,
+      "end": 102.14,
+      "text": "Now, if a monk understands the meaning and text of dhamma,"
+    },
+    {
+      "start": 102.14,
+      "end": 106.14,
+      "text": "even if it be but a stanza of four lines,"
+    },
+    {
+      "start": 106.14,
+      "end": 109.14,
+      "text": "and be set on living in accordance with dhamma,"
+    },
+    {
+      "start": 109.14,
+      "end": 114.14,
+      "text": "he may well be called one widely learned, who knows dhamma by heart."
+    },
+    {
+      "start": 114.14,
+      "end": 117.14,
+      "text": "It is well said, Lord, replied that monk,"
+    },
+    {
+      "start": 117.14,
+      "end": 120.14,
+      "text": "welcoming what was said by the Exalted One."
+    },
+    {
+      "start": 120.14,
+      "end": 123.14,
+      "text": "And after thanking him, asked another question."
+    },
+    {
+      "start": 123.14,
+      "end": 125.14,
+      "text": "Ask as to the common saying, Lord,"
+    },
+    {
+      "start": 125.14,
+      "end": 128.14,
+      "text": "learned of penetrative wisdom."
+    },
+    {
+      "start": 128.14,
+      "end": 132.14,
+      "text": "Pray Lord, of what sort is one learned of penetrative wisdom?"
+    },
+    {
+      "start": 132.14,
+      "end": 134.14,
+      "text": "Well said, well said, monk."
+    },
+    {
+      "start": 134.14,
+      "end": 137.14,
+      "text": "Happy is your approach to a question, etc."
+    },
+    {
+      "start": 137.14,
+      "end": 139.14,
+      "text": "You ask this, do you not,"
+    },
+    {
+      "start": 139.14,
+      "end": 142.14,
+      "text": "of what sort is one learned of penetrative wisdom?"
+    },
+    {
+      "start": 142.14,
+      "end": 144.14,
+      "text": "I do, Lord."
+    },
+    {
+      "start": 144.14,
+      "end": 147.14,
+      "text": "In this case, monk, a monk hears it said,"
+    },
+    {
+      "start": 147.14,
+      "end": 150.14,
+      "text": "this is dukkha, ill."
+    },
+    {
+      "start": 150.14,
+      "end": 155.14,
+      "text": "By wisdom, he penetrates the meaning of that saying"
+    },
+    {
+      "start": 155.14,
+      "end": 157.14,
+      "text": "and sees that it is so."
+    },
+    {
+      "start": 157.14,
+      "end": 160.14,
+      "text": "He hears it said, this is the arising of dukkha."
+    },
+    {
+      "start": 160.14,
+      "end": 161.14,
+      "text": "This is the ending of dukkha."
+    },
+    {
+      "start": 161.14,
+      "end": 164.14,
+      "text": "This is the practice going to the ending of dukkha."
+    },
+    {
+      "start": 164.14,
+      "end": 167.14,
+      "text": "By wisdom, he penetrates the meaning of that saying"
+    },
+    {
+      "start": 167.14,
+      "end": 169.14,
+      "text": "and sees that it is so."
+    },
+    {
+      "start": 169.14,
+      "end": 173.14,
+      "text": "Thus, monk, he is learned of penetrative wisdom."
+    },
+    {
+      "start": 173.14,
+      "end": 176.14,
+      "text": "It is well said, Lord, replied that monk,"
+    },
+    {
+      "start": 176.14,
+      "end": 178.14,
+      "text": "and put yet another question."
+    },
+    {
+      "start": 178.14,
+      "end": 181.14,
+      "text": "As to the common saying, wise of great wisdom,"
+    },
+    {
+      "start": 181.14,
+      "end": 186.14,
+      "text": "pray Lord, of what sort is one who is wise of great wisdom?"
+    },
+    {
+      "start": 186.14,
+      "end": 191.14,
+      "text": "Well said, well said, monk, etc."
+    },
+    {
+      "start": 191.14,
+      "end": 194.14,
+      "text": "As before, you ask this, do you not,"
+    },
+    {
+      "start": 194.14,
+      "end": 196.14,
+      "text": "who is wise of great wisdom?"
+    },
+    {
+      "start": 196.14,
+      "end": 198.14,
+      "text": "I do, Lord."
+    },
+    {
+      "start": 198.14,
+      "end": 202.14,
+      "text": "Well, monk, in this case, he who is wise of great wisdom"
+    },
+    {
+      "start": 202.14,
+      "end": 206.14,
+      "text": "thinks not with a view to harm either himself or another,"
+    },
+    {
+      "start": 206.14,
+      "end": 208.14,
+      "text": "or both alike."
+    },
+    {
+      "start": 208.14,
+      "end": 210.14,
+      "text": "So thinking, he thinks with a view"
+    },
+    {
+      "start": 210.14,
+      "end": 212.14,
+      "text": "to the prophet of self, of another,"
+    },
+    {
+      "start": 212.14,
+      "end": 214.14,
+      "text": "both of self and of another,"
+    },
+    {
+      "start": 214.14,
+      "end": 216.14,
+      "text": "to the prophet of the whole world."
+    },
+    {
+      "start": 216.14,
+      "end": 220.14,
+      "text": "Thus, monk, one is wise of great wisdom."
+    },
+    {
+      "start": 220.14,
+      "end": 222.14,
+      "text": "That's the end of the sutra."
+    },
+    {
+      "start": 222.14,
+      "end": 225.14,
+      "text": "So, you see, in this sutra,"
+    },
+    {
+      "start": 225.14,
+      "end": 227.14,
+      "text": "you can see the Buddha's metta,"
+    },
+    {
+      "start": 227.14,
+      "end": 229.14,
+      "text": "the Buddha's loving kindness."
+    },
+    {
+      "start": 229.14,
+      "end": 231.14,
+      "text": "When this monk asked him a question,"
+    },
+    {
+      "start": 231.14,
+      "end": 233.14,
+      "text": "he said, sa du sa du to the monk,"
+    },
+    {
+      "start": 233.14,
+      "end": 234.14,
+      "text": "and praised the monk."
+    },
+    {
+      "start": 234.14,
+      "end": 236.14,
+      "text": "He said, happy is your approach to a question."
+    },
+    {
+      "start": 236.14,
+      "end": 240.14,
+      "text": "Goodly is your ready with, and lovely is your questioning."
+    },
+    {
+      "start": 240.14,
+      "end": 243.14,
+      "text": "Then only he replied the monk."
+    },
+    {
+      "start": 243.14,
+      "end": 245.14,
+      "text": "So the first one, he said that,"
+    },
+    {
+      "start": 245.14,
+      "end": 247.14,
+      "text": "the world is led along by thought,"
+    },
+    {
+      "start": 247.14,
+      "end": 249.14,
+      "text": "or by mind, citta."
+    },
+    {
+      "start": 249.14,
+      "end": 252.14,
+      "text": "This word citta can mean thought."
+    },
+    {
+      "start": 252.14,
+      "end": 254.14,
+      "text": "It can mean mind."
+    },
+    {
+      "start": 254.14,
+      "end": 257.14,
+      "text": "So, because our mind is active,"
+    },
+    {
+      "start": 257.14,
+      "end": 263.14,
+      "text": "that the world is basically in our mind."
+    },
+    {
+      "start": 263.14,
+      "end": 265.14,
+      "text": "It's drawn along by mind."
+    },
+    {
+      "start": 265.14,
+      "end": 269.14,
+      "text": "So, by this, it's meant that the Buddha said"
+    },
+    {
+      "start": 269.14,
+      "end": 273.14,
+      "text": "that the world actually arises in our six consciousness."
+    },
+    {
+      "start": 273.14,
+      "end": 277.14,
+      "text": "When our mind, the six consciousness works,"
+    },
+    {
+      "start": 277.14,
+      "end": 279.14,
+      "text": "then you get the world."
+    },
+    {
+      "start": 279.14,
+      "end": 282.14,
+      "text": "And when the six consciousness stops,"
+    },
+    {
+      "start": 282.14,
+      "end": 283.14,
+      "text": "there is no world."
+    },
+    {
+      "start": 283.14,
+      "end": 286.14,
+      "text": "So, the Buddha said that the world arises"
+    },
+    {
+      "start": 286.14,
+      "end": 292.14,
+      "text": "dependent on the six consciousness on the mind."
+    },
+    {
+      "start": 292.14,
+      "end": 296.14,
+      "text": "Then the second one, the Buddha said,"
+    },
+    {
+      "start": 296.14,
+      "end": 298.14,
+      "text": "a monk is called widely learned,"
+    },
+    {
+      "start": 298.14,
+      "end": 301.14,
+      "text": "who knows dhamma by heart."
+    },
+    {
+      "start": 301.14,
+      "end": 305.14,
+      "text": "If he knows even a few lines of dhamma,"
+    },
+    {
+      "start": 305.14,
+      "end": 308.14,
+      "text": "but he lives according to dhamma."
+    },
+    {
+      "start": 308.14,
+      "end": 311.14,
+      "text": "So, it's very important not only to know dhamma,"
+    },
+    {
+      "start": 311.14,
+      "end": 314.14,
+      "text": "but to live in accordance to dhamma."
+    },
+    {
+      "start": 314.14,
+      "end": 318.14,
+      "text": "Then you are widely learned, and you know dhamma by heart."
+    },
+    {
+      "start": 318.14,
+      "end": 322.14,
+      "text": "And the third one, one who is learned"
+    },
+    {
+      "start": 322.14,
+      "end": 326.14,
+      "text": "of penetrative wisdom is one who understands"
+    },
+    {
+      "start": 326.14,
+      "end": 328.14,
+      "text": "the four Aryan truths."
+    },
+    {
+      "start": 328.14,
+      "end": 331.14,
+      "text": "Then, because he understands the four Aryan truths,"
+    },
+    {
+      "start": 331.14,
+      "end": 333.14,
+      "text": "his wisdom is penetrative."
+    },
+    {
+      "start": 333.14,
+      "end": 337.14,
+      "text": "Then the fourth one is wise of great wisdom,"
+    },
+    {
+      "start": 337.14,
+      "end": 339.14,
+      "text": "is one who does not harm himself,"
+    },
+    {
+      "start": 339.14,
+      "end": 341.14,
+      "text": "does not harm others."
+    },
+    {
+      "start": 341.14,
+      "end": 343.14,
+      "text": "He's a harmless person."
+    },
+    {
+      "start": 343.14,
+      "end": 347.14,
+      "text": "And you can have that, if you don't have that ego,"
+    },
+    {
+      "start": 347.14,
+      "end": 350.14,
+      "text": "you don't have that great self."
+    },
+    {
+      "start": 350.14,
+      "end": 353.14,
+      "text": "Because the great self brings along selfishness."
+    },
+    {
+      "start": 353.14,
+      "end": 357.14,
+      "text": "And when we have selfishness to benefit ourselves,"
+    },
+    {
+      "start": 357.14,
+      "end": 361.46,
+      "text": "sometimes we harm others."
+    },
+    {
+      "start": 361.46,
+      "end": 366.89,
+      "text": "So, that's the end of the Sutta."
+    },
+    {
+      "start": 366.89,
+      "end": 371.89,
+      "text": "Now, Sutta 4.19.190."
+    },
+    {
+      "start": 371.89,
+      "end": 373.89,
+      "text": "On a certain occasion, the exalted one"
+    },
+    {
+      "start": 373.89,
+      "end": 376.89,
+      "text": "was staying near Savati in East Park"
+    },
+    {
+      "start": 376.89,
+      "end": 379.89,
+      "text": "at the storied house of Meghara's mother."
+    },
+    {
+      "start": 379.89,
+      "end": 382.89,
+      "text": "Now, on that occasion, the exalted one was sitting"
+    },
+    {
+      "start": 382.89,
+      "end": 385.89,
+      "text": "surrounded by the Sangha of monks,"
+    },
+    {
+      "start": 385.89,
+      "end": 387.89,
+      "text": "that day being the sabbath."
+    },
+    {
+      "start": 387.89,
+      "end": 390.89,
+      "text": "I stopped here for a while to explain this word sabbath."
+    },
+    {
+      "start": 390.89,
+      "end": 392.89,
+      "text": "The sabbath is actually the Upasata,"
+    },
+    {
+      "start": 392.89,
+      "end": 394.89,
+      "text": "Upasata day."
+    },
+    {
+      "start": 394.89,
+      "end": 399.89,
+      "text": "Upasata day for monks is the 15th day,"
+    },
+    {
+      "start": 399.89,
+      "end": 401.89,
+      "text": "the full moon day,"
+    },
+    {
+      "start": 401.89,
+      "end": 403.89,
+      "text": "15 days of the lunar calendar"
+    },
+    {
+      "start": 403.89,
+      "end": 406.89,
+      "text": "and the last day of the lunar calendar,"
+    },
+    {
+      "start": 406.89,
+      "end": 408.89,
+      "text": "that is for Theravada monks, the 30th,"
+    },
+    {
+      "start": 408.89,
+      "end": 410.89,
+      "text": "or sometimes there is no 30th,"
+    },
+    {
+      "start": 410.89,
+      "end": 412.89,
+      "text": "there is the 29th day."
+    },
+    {
+      "start": 412.89,
+      "end": 415.89,
+      "text": "These are the two days when the monks come together."
+    },
+    {
+      "start": 415.89,
+      "end": 418.89,
+      "text": "Sometimes they may be staying in different areas,"
+    },
+    {
+      "start": 418.89,
+      "end": 421.89,
+      "text": "but they come together and hold the Patimoka,"
+    },
+    {
+      "start": 421.89,
+      "end": 423.89,
+      "text": "they recite the precepts."
+    },
+    {
+      "start": 423.89,
+      "end": 426.89,
+      "text": "So, that is the Upasata day for monks."
+    },
+    {
+      "start": 426.89,
+      "end": 429.89,
+      "text": "And the Upasata day for lay people"
+    },
+    {
+      "start": 429.89,
+      "end": 431.89,
+      "text": "are four days in the month."
+    },
+    {
+      "start": 431.89,
+      "end": 434.89,
+      "text": "The 8th day, the 15th day, the 23rd day"
+    },
+    {
+      "start": 434.89,
+      "end": 436.89,
+      "text": "and the 30th day."
+    },
+    {
+      "start": 436.89,
+      "end": 439.89,
+      "text": "This 30th day in Theravada"
+    },
+    {
+      "start": 439.89,
+      "end": 443.89,
+      "text": "was changed by the Mahayana to the first day."
+    },
+    {
+      "start": 443.89,
+      "end": 446.89,
+      "text": "That's why in Malaysia,"
+    },
+    {
+      "start": 446.89,
+      "end": 448.89,
+      "text": "we are very familiar with the first day"
+    },
+    {
+      "start": 448.89,
+      "end": 450.89,
+      "text": "of the lunar month, Chor yet."
+    },
+    {
+      "start": 450.89,
+      "end": 452.89,
+      "text": "That's because the Mahayana,"
+    },
+    {
+      "start": 452.89,
+      "end": 454.89,
+      "text": "they purposely changed that day"
+    },
+    {
+      "start": 454.89,
+      "end": 458.89,
+      "text": "so that they didn't want it to be the same as Theravada."
+    },
+    {
+      "start": 458.89,
+      "end": 460.89,
+      "text": "So, on those days,"
+    },
+    {
+      "start": 460.89,
+      "end": 463.89,
+      "text": "lay people were advised by the Buddha"
+    },
+    {
+      "start": 463.89,
+      "end": 465.89,
+      "text": "to keep the 8 precepts,"
+    },
+    {
+      "start": 465.89,
+      "end": 467.89,
+      "text": "because the Buddha said,"
+    },
+    {
+      "start": 467.89,
+      "end": 469.89,
+      "text": "as lay people, you don't have time"
+    },
+    {
+      "start": 469.89,
+      "end": 471.89,
+      "text": "to practice every day."
+    },
+    {
+      "start": 471.89,
+      "end": 474.89,
+      "text": "Keep the 8 precepts at least once a week."
+    },
+    {
+      "start": 474.89,
+      "end": 477.89,
+      "text": "You should remember and practice the 8 precepts."
+    },
+    {
+      "start": 477.89,
+      "end": 483.89,
+      "text": "And this teaching was a very early Indian teaching."
+    },
+    {
+      "start": 483.89,
+      "end": 487.89,
+      "text": "And it might have gone from there into Christianity"
+    },
+    {
+      "start": 487.89,
+      "end": 491.89,
+      "text": "because Jesus was said to have gone to India to learn."
+    },
+    {
+      "start": 491.89,
+      "end": 494.89,
+      "text": "So, he might have got that into Christianity"
+    },
+    {
+      "start": 494.89,
+      "end": 496.89,
+      "text": "and from there, he went to Islam."
+    },
+    {
+      "start": 496.89,
+      "end": 499.89,
+      "text": "So, like the Saturday for Christians is Sunday"
+    },
+    {
+      "start": 499.89,
+      "end": 502.89,
+      "text": "and for Muslims, it's Friday."
+    },
+    {
+      "start": 502.89,
+      "end": 505.89,
+      "text": "Also, because we are one of the earliest"
+    },
+    {
+      "start": 505.89,
+      "end": 507.89,
+      "text": "who practice this Uposatha day."
+    },
+    {
+      "start": 507.89,
+      "end": 509.89,
+      "text": "We should not forget it. We should not lose it."
+    },
+    {
+      "start": 509.89,
+      "end": 512.89,
+      "text": "We should always remember to practice it."
+    },
+    {
+      "start": 512.89,
+      "end": 514.89,
+      "text": "In nowadays, I might not be convenient"
+    },
+    {
+      "start": 514.89,
+      "end": 516.89,
+      "text": "to follow the lunar calendar."
+    },
+    {
+      "start": 516.89,
+      "end": 519.89,
+      "text": "It might be more convenient to choose, for example,"
+    },
+    {
+      "start": 519.89,
+      "end": 522.89,
+      "text": "a Sunday, every Sunday, to keep the 8 precepts."
+    },
+    {
+      "start": 522.89,
+      "end": 524.89,
+      "text": "If you can't keep it in a temple or a Buddhist society,"
+    },
+    {
+      "start": 524.89,
+      "end": 526.89,
+      "text": "try to keep it at home."
+    },
+    {
+      "start": 526.89,
+      "end": 528.89,
+      "text": "Then to continue the Sutta."
+    },
+    {
+      "start": 528.89,
+      "end": 531.89,
+      "text": "Then the Exalted One, after scanning the order of monks,"
+    },
+    {
+      "start": 531.89,
+      "end": 534.89,
+      "text": "the Sangha of monks, as they sat in perfect silence,"
+    },
+    {
+      "start": 534.89,
+      "end": 536.89,
+      "text": "addressed the monks saying,"
+    },
+    {
+      "start": 536.89,
+      "end": 540.89,
+      "text": "monks, this company is free from idle words and idle talk."
+    },
+    {
+      "start": 540.89,
+      "end": 543.89,
+      "text": "It is pure and established in the essential."
+    },
+    {
+      "start": 543.89,
+      "end": 547.89,
+      "text": "monks, such an order of monks as this is a company"
+    },
+    {
+      "start": 547.89,
+      "end": 551.89,
+      "text": "such as it would be hard to find anywhere in the world."
+    },
+    {
+      "start": 551.89,
+      "end": 554.89,
+      "text": "Such an order of monks as this is worshipful,"
+    },
+    {
+      "start": 554.89,
+      "end": 556.89,
+      "text": "worthy of honor and gifts,"
+    },
+    {
+      "start": 556.89,
+      "end": 559.89,
+      "text": "worthy of worship with clasped hands,"
+    },
+    {
+      "start": 559.89,
+      "end": 562.89,
+      "text": "a field of merit unsurpassed for the world."
+    },
+    {
+      "start": 562.89,
+      "end": 566.89,
+      "text": "monks, such an order of monks as this is a company"
+    },
+    {
+      "start": 566.89,
+      "end": 569.89,
+      "text": "to which even a little being given is much,"
+    },
+    {
+      "start": 569.89,
+      "end": 572.89,
+      "text": "to which much being given is more."
+    },
+    {
+      "start": 572.89,
+      "end": 575.89,
+      "text": "Such an order of monks as this is a company"
+    },
+    {
+      "start": 575.89,
+      "end": 578.89,
+      "text": "worth going many a mile to see,"
+    },
+    {
+      "start": 578.89,
+      "end": 583.89,
+      "text": "even if one had to carry his food in a bag on his shoulder."
+    },
+    {
+      "start": 583.89,
+      "end": 585.89,
+      "text": "Of such a sort is this order of monks."
+    },
+    {
+      "start": 585.89,
+      "end": 587.89,
+      "text": "I'll stop here for a moment."
+    },
+    {
+      "start": 587.89,
+      "end": 590.89,
+      "text": "So you see the Buddha during the Buddha's time,"
+    },
+    {
+      "start": 590.89,
+      "end": 593.89,
+      "text": "those monks were really, really monks,"
+    },
+    {
+      "start": 593.89,
+      "end": 598.89,
+      "text": "worthy of respect, worthy of veneration,"
+    },
+    {
+      "start": 598.89,
+      "end": 600.89,
+      "text": "a field of merit unsurpassed,"
+    },
+    {
+      "start": 600.89,
+      "end": 604.89,
+      "text": "and it's not easy to find such monks."
+    },
+    {
+      "start": 604.89,
+      "end": 608.89,
+      "text": "If you can get such an Sangha of monks,"
+    },
+    {
+      "start": 608.89,
+      "end": 612.89,
+      "text": "the Buddha said it's worth going a long distance to see,"
+    },
+    {
+      "start": 612.89,
+      "end": 614.89,
+      "text": "and even you give a little to them,"
+    },
+    {
+      "start": 614.89,
+      "end": 616.89,
+      "text": "it becomes much in terms of merit"
+    },
+    {
+      "start": 616.89,
+      "end": 619.89,
+      "text": "to you as a giver."
+    },
+    {
+      "start": 619.89,
+      "end": 622.89,
+      "text": "And if you give more, it is even much more"
+    },
+    {
+      "start": 622.89,
+      "end": 624.89,
+      "text": "in terms of merit."
+    },
+    {
+      "start": 624.89,
+      "end": 629.89,
+      "text": "So if you can find anywhere such a Sangha of monks,"
+    },
+    {
+      "start": 629.89,
+      "end": 634.89,
+      "text": "it will be very, very lucky, very, very lucky."
+    },
+    {
+      "start": 634.89,
+      "end": 638.89,
+      "text": "It's very difficult to find a Sangha of extremely good monks."
+    },
+    {
+      "start": 638.89,
+      "end": 640.89,
+      "text": "Then the Buddha continued,"
+    },
+    {
+      "start": 640.89,
+      "end": 644.89,
+      "text": "monks, there are abiding in this Sangha of monks,"
+    },
+    {
+      "start": 644.89,
+      "end": 648.89,
+      "text": "or order of monks, those who have one access to devas."
+    },
+    {
+      "start": 648.89,
+      "end": 651.89,
+      "text": "There are those who have one access to Brahma."
+    },
+    {
+      "start": 651.89,
+      "end": 655.89,
+      "text": "There are those who have one access to the imperturbable."
+    },
+    {
+      "start": 655.89,
+      "end": 657.89,
+      "text": "There are abiding in this order of monks,"
+    },
+    {
+      "start": 657.89,
+      "end": 660.89,
+      "text": "those who have one access to the Aryan."
+    },
+    {
+      "start": 660.89,
+      "end": 663.89,
+      "text": "And how has a monk one access to the devas?"
+    },
+    {
+      "start": 663.89,
+      "end": 667.89,
+      "text": "Hearing a monk aloof from sense desires and so forth,"
+    },
+    {
+      "start": 667.89,
+      "end": 671.89,
+      "text": "having attained to the first Jhana, abides therein."
+    },
+    {
+      "start": 671.89,
+      "end": 675.89,
+      "text": "So with the second, third and fourth Jhanas,"
+    },
+    {
+      "start": 675.89,
+      "end": 678.89,
+      "text": "that is how a monk has one access to the devas."
+    },
+    {
+      "start": 678.89,
+      "end": 681.89,
+      "text": "And how has a monk one access to Brahma?"
+    },
+    {
+      "start": 681.89,
+      "end": 684.89,
+      "text": "Hearing a monk with heart possessed of goodwill,"
+    },
+    {
+      "start": 684.89,
+      "end": 689.89,
+      "text": "of compassion, of joy, with the heart possessed of equanimity,"
+    },
+    {
+      "start": 689.89,
+      "end": 691.89,
+      "text": "abides of using one quarter of the world,"
+    },
+    {
+      "start": 691.89,
+      "end": 694.89,
+      "text": "also the second, third and fourth quarters,"
+    },
+    {
+      "start": 694.89,
+      "end": 697.89,
+      "text": "and in like manner above, below, across, everywhere,"
+    },
+    {
+      "start": 697.89,
+      "end": 699.89,
+      "text": "for all sorts and conditions,"
+    },
+    {
+      "start": 699.89,
+      "end": 703.89,
+      "text": "abides of using the whole world with the heart possessed of goodwill,"
+    },
+    {
+      "start": 703.89,
+      "end": 707.89,
+      "text": "compassion, joy and equanimity that is widespread,"
+    },
+    {
+      "start": 707.89,
+      "end": 711.89,
+      "text": "grown great and boundless, without enmity and untroubled."
+    },
+    {
+      "start": 711.89,
+      "end": 714.89,
+      "text": "That is how a monk has one access to Brahma."
+    },
+    {
+      "start": 714.89,
+      "end": 718.89,
+      "text": "And how has a monk one access to the imperturbable?"
+    },
+    {
+      "start": 718.89,
+      "end": 722.89,
+      "text": "Hearing a monk passing utterly beyond all consciousness of objects"
+    },
+    {
+      "start": 722.89,
+      "end": 724.89,
+      "text": "by ending the consciousness of reaction,"
+    },
+    {
+      "start": 724.89,
+      "end": 728.89,
+      "text": "by disregarding consciousness of diversity,"
+    },
+    {
+      "start": 728.89,
+      "end": 730.89,
+      "text": "thinking infinite is space,"
+    },
+    {
+      "start": 730.89,
+      "end": 733.89,
+      "text": "attains and abides in the sphere of infinite space,"
+    },
+    {
+      "start": 733.89,
+      "end": 736.89,
+      "text": "passing utterly beyond the sphere of infinite space,"
+    },
+    {
+      "start": 736.89,
+      "end": 738.89,
+      "text": "reaching the sphere of infinite consciousness,"
+    },
+    {
+      "start": 738.89,
+      "end": 740.89,
+      "text": "thinking infinite is consciousness,"
+    },
+    {
+      "start": 740.89,
+      "end": 743.89,
+      "text": "he abides in the sphere of infinite consciousness,"
+    },
+    {
+      "start": 743.89,
+      "end": 746.89,
+      "text": "similarly in the sphere of nothingness,"
+    },
+    {
+      "start": 746.89,
+      "end": 750.89,
+      "text": "and then in the sphere of neither perception nor non-perception."
+    },
+    {
+      "start": 750.89,
+      "end": 753.89,
+      "text": "Thus a monk has one access to the imperturbable."
+    },
+    {
+      "start": 753.89,
+      "end": 756.89,
+      "text": "And how has a monk one access to the Aryan?"
+    },
+    {
+      "start": 756.89,
+      "end": 759.89,
+      "text": "Hearing a monk understands that as it really is,"
+    },
+    {
+      "start": 759.89,
+      "end": 764.89,
+      "text": "this is the arising of dukkha, this is the ending of dukkha,"
+    },
+    {
+      "start": 764.89,
+      "end": 767.89,
+      "text": "this is the practice going to the ending of dukkha."
+    },
+    {
+      "start": 767.89,
+      "end": 770.89,
+      "text": "Thus a monk has one access to the Aryan."
+    },
+    {
+      "start": 770.89,
+      "end": 773.89,
+      "text": "So you see these are the types of monks,"
+    },
+    {
+      "start": 773.89,
+      "end": 775.89,
+      "text": "the first one he has one access to,"
+    },
+    {
+      "start": 775.89,
+      "end": 780.89,
+      "text": "the devas are those who have attained the janas."
+    },
+    {
+      "start": 780.89,
+      "end": 786.89,
+      "text": "Here I think does not refer to the jana play in devas,"
+    },
+    {
+      "start": 786.89,
+      "end": 791.89,
+      "text": "even those in the central realm,"
+    },
+    {
+      "start": 791.89,
+      "end": 797.89,
+      "text": "because these monks does not refer to those who abide in jana"
+    },
+    {
+      "start": 797.89,
+      "end": 801.89,
+      "text": "all the time, because if a monk abides in jana"
+    },
+    {
+      "start": 801.89,
+      "end": 806.89,
+      "text": "and constantly experiences the bliss of jana"
+    },
+    {
+      "start": 806.89,
+      "end": 809.89,
+      "text": "and enjoys the bliss of jana"
+    },
+    {
+      "start": 809.89,
+      "end": 811.89,
+      "text": "and longs for the bliss of jana,"
+    },
+    {
+      "start": 811.89,
+      "end": 816.89,
+      "text": "then these monks will be reborn in the jana plane."
+    },
+    {
+      "start": 816.89,
+      "end": 819.89,
+      "text": "But if they just attain jana for"
+    },
+    {
+      "start": 819.89,
+      "end": 822.89,
+      "text": "and they don't abide in jana too long,"
+    },
+    {
+      "start": 822.89,
+      "end": 826.89,
+      "text": "it is possible that they just go to the lower planes,"
+    },
+    {
+      "start": 826.89,
+      "end": 829.89,
+      "text": "but that is just my personal opinion."
+    },
+    {
+      "start": 829.89,
+      "end": 831.89,
+      "text": "It might be that depending on the monk,"
+    },
+    {
+      "start": 831.89,
+      "end": 834.89,
+      "text": "it might also be born into the jana planes."
+    },
+    {
+      "start": 834.89,
+      "end": 836.89,
+      "text": "And then the Brahma planes are those"
+    },
+    {
+      "start": 836.89,
+      "end": 839.89,
+      "text": "who constantly abide in the four Brahma viharas,"
+    },
+    {
+      "start": 839.89,
+      "end": 845.89,
+      "text": "Mehta, Karuna, Modita and Upeka."
+    },
+    {
+      "start": 845.89,
+      "end": 849.89,
+      "text": "And so they attain to the Brahma plane."
+    },
+    {
+      "start": 849.89,
+      "end": 852.89,
+      "text": "And then the imperturbable,"
+    },
+    {
+      "start": 852.89,
+      "end": 858.89,
+      "text": "those who have gone to the plane of the Arupa janas"
+    },
+    {
+      "start": 858.89,
+      "end": 863.89,
+      "text": "and then the Aryans are those who understand the four noble truths."
+    },
+    {
+      "start": 863.89,
+      "end": 868.89,
+      "text": "So these are the types of monks"
+    },
+    {
+      "start": 868.89,
+      "end": 876.89,
+      "text": "who have attained supernormal attainments."
+    },
+    {
+      "start": 876.89,
+      "end": 879.89,
+      "text": "These are called supernormal attainments."
+    },
+    {
+      "start": 879.89,
+      "end": 882.89,
+      "text": "And here it also includes the janas."
+    },
+    {
+      "start": 882.89,
+      "end": 888.89,
+      "text": "That's why sometimes if you talk about supernormal attainments,"
+    },
+    {
+      "start": 888.89,
+      "end": 893.89,
+      "text": "that means in a way that is stages of holiness or so,"
+    },
+    {
+      "start": 893.89,
+      "end": 894.89,
+      "text": "you could say."
+    },
+    {
+      "start": 894.89,
+      "end": 898.89,
+      "text": "So these include the jana attainments"
+    },
+    {
+      "start": 898.89,
+      "end": 903.89,
+      "text": "and even the abhinyas, the higher knowledges,"
+    },
+    {
+      "start": 903.89,
+      "end": 906.89,
+      "text": "which are basically psychic powers,"
+    },
+    {
+      "start": 906.89,
+      "end": 911.89,
+      "text": "because those are stepping stones to the ending of the asavas,"
+    },
+    {
+      "start": 911.89,
+      "end": 913.89,
+      "text": "to the attainment of the asavas."
+    },
+    {
+      "start": 913.89,
+      "end": 915.89,
+      "text": "That's why you find in the suttas"
+    },
+    {
+      "start": 915.89,
+      "end": 918.89,
+      "text": "that the Buddha praised those monks"
+    },
+    {
+      "start": 918.89,
+      "end": 921.89,
+      "text": "who have these abhinyas, higher abhinyas"
+    },
+    {
+      "start": 921.89,
+      "end": 924.89,
+      "text": "and it is one of the aims of the holy life."
+    },
+    {
+      "start": 924.89,
+      "end": 927.89,
+      "text": "They are not to be actually looked down."
+    },
+    {
+      "start": 927.89,
+      "end": 931.89,
+      "text": "Some people think that they look down on these psychic powers."
+    },
+    {
+      "start": 931.89,
+      "end": 932.89,
+      "text": "Nothing to look down."
+    },
+    {
+      "start": 932.89,
+      "end": 935.89,
+      "text": "They are higher attainments which are difficult to attain,"
+    },
+    {
+      "start": 935.89,
+      "end": 939.89,
+      "text": "not normally, not so easily attainable by people."
+    },
+    {
+      "start": 939.89,
+      "end": 944.3,
+      "text": "And they are praised by the Buddhas."
+    },
+    {
+      "start": 944.3,
+      "end": 947.3,
+      "text": "We are on the second book,"
+    },
+    {
+      "start": 947.3,
+      "end": 949.3,
+      "text": "coming to the end of the second book."
+    },
+    {
+      "start": 949.3,
+      "end": 952.3,
+      "text": "We are in the chapter of the fours."
+    },
+    {
+      "start": 952.3,
+      "end": 961.3,
+      "text": "Now we come to sutta 4.20.191, the Buddha said,"
+    },
+    {
+      "start": 961.3,
+      "end": 966.3,
+      "text": "monks, four advantages are to be looked for"
+    },
+    {
+      "start": 966.3,
+      "end": 971.3,
+      "text": "from the frequent verbal recitation of teachings"
+    },
+    {
+      "start": 971.3,
+      "end": 976.3,
+      "text": "heard with the ear, from considering them in the mind,"
+    },
+    {
+      "start": 976.3,
+      "end": 981.3,
+      "text": "from thoroughly penetrating them by view."
+    },
+    {
+      "start": 981.3,
+      "end": 986.3,
+      "text": "One of the four, hearing among masters dhamma,"
+    },
+    {
+      "start": 986.3,
+      "end": 990.3,
+      "text": "those teachings heard with the ear, often recited,"
+    },
+    {
+      "start": 990.3,
+      "end": 995.3,
+      "text": "considered by the mind, are thoroughly penetrated by view."
+    },
+    {
+      "start": 995.3,
+      "end": 999.3,
+      "text": "He making an end with memory confused,"
+    },
+    {
+      "start": 999.3,
+      "end": 1003.3,
+      "text": "is reborn in a certain company of devas."
+    },
+    {
+      "start": 1003.3,
+      "end": 1007.3,
+      "text": "There the happy ones recite to him dhamma verses."
+    },
+    {
+      "start": 1007.3,
+      "end": 1010.3,
+      "text": "Slow to arise in him, monks, is memory,"
+    },
+    {
+      "start": 1010.3,
+      "end": 1014.3,
+      "text": "but that being very quickly reaches excellence."
+    },
+    {
+      "start": 1014.3,
+      "end": 1017.3,
+      "text": "This is the first advantage to be looked for"
+    },
+    {
+      "start": 1017.3,
+      "end": 1021.3,
+      "text": "from the frequent verbal recitation of teachings"
+    },
+    {
+      "start": 1021.3,
+      "end": 1025.3,
+      "text": "heard with the ear, from considering them by the mind,"
+    },
+    {
+      "start": 1025.3,
+      "end": 1028.3,
+      "text": "from thoroughly penetrating them by view."
+    },
+    {
+      "start": 1028.3,
+      "end": 1032.3,
+      "text": "Then again, among masters dhamma,"
+    },
+    {
+      "start": 1032.3,
+      "end": 1036.3,
+      "text": "and practices frequent recitation, reflection upon,"
+    },
+    {
+      "start": 1036.3,
+      "end": 1039.3,
+      "text": "and penetrates the teachings."
+    },
+    {
+      "start": 1039.3,
+      "end": 1042.3,
+      "text": "He making an end with memory confused,"
+    },
+    {
+      "start": 1042.3,
+      "end": 1045.3,
+      "text": "is reborn in a certain company of devas."
+    },
+    {
+      "start": 1045.3,
+      "end": 1050.3,
+      "text": "There indeed the happy ones recite not to him dhamma verses,"
+    },
+    {
+      "start": 1050.3,
+      "end": 1054.3,
+      "text": "but maybe some monk who has psychic power,"
+    },
+    {
+      "start": 1054.3,
+      "end": 1058.3,
+      "text": "who has one mastery of mind, is teaching dhamma"
+    },
+    {
+      "start": 1058.3,
+      "end": 1060.3,
+      "text": "to a company of devas."
+    },
+    {
+      "start": 1060.3,
+      "end": 1063.3,
+      "text": "Then it occurs to him, why?"
+    },
+    {
+      "start": 1063.3,
+      "end": 1066.3,
+      "text": "This is just the dhamma vinaya,"
+    },
+    {
+      "start": 1066.3,
+      "end": 1070.3,
+      "text": "according to which formerly I practiced the holy life."
+    },
+    {
+      "start": 1070.3,
+      "end": 1074.3,
+      "text": "Slow to arise, monks, in him is memory,"
+    },
+    {
+      "start": 1074.3,
+      "end": 1078.3,
+      "text": "but that being very quickly reaches excellence."
+    },
+    {
+      "start": 1078.3,
+      "end": 1081.3,
+      "text": "It is just as if a man,"
+    },
+    {
+      "start": 1081.3,
+      "end": 1084.3,
+      "text": "skilled in the sound of drums,"
+    },
+    {
+      "start": 1084.3,
+      "end": 1087.3,
+      "text": "who are going along the high road,"
+    },
+    {
+      "start": 1087.3,
+      "end": 1089.3,
+      "text": "should hear the sound of a drum."
+    },
+    {
+      "start": 1089.3,
+      "end": 1092.3,
+      "text": "He would have no doubt or uncertainty"
+    },
+    {
+      "start": 1092.3,
+      "end": 1096.3,
+      "text": "as to whether it was the sound of a drum or not,"
+    },
+    {
+      "start": 1096.3,
+      "end": 1100.3,
+      "text": "but would just conclude that it was so."
+    },
+    {
+      "start": 1100.3,
+      "end": 1104.3,
+      "text": "In the same way amongst masters dhamma,"
+    },
+    {
+      "start": 1104.3,
+      "end": 1107.3,
+      "text": "those teachings heard with the ear,"
+    },
+    {
+      "start": 1107.3,
+      "end": 1110.3,
+      "text": "often recited, reflected upon,"
+    },
+    {
+      "start": 1110.3,
+      "end": 1113.3,
+      "text": "thoroughly penetrated by view."
+    },
+    {
+      "start": 1113.3,
+      "end": 1116.3,
+      "text": "Slow to arise in him, monks, is memory,"
+    },
+    {
+      "start": 1116.3,
+      "end": 1120.3,
+      "text": "but that being very quickly reaches excellence."
+    },
+    {
+      "start": 1120.3,
+      "end": 1123.3,
+      "text": "This is the second advantage to be looked for"
+    },
+    {
+      "start": 1123.3,
+      "end": 1127.3,
+      "text": "from the frequent verbal recitation of teachings"
+    },
+    {
+      "start": 1127.3,
+      "end": 1131.3,
+      "text": "heard with the ear, from considering them by the mind,"
+    },
+    {
+      "start": 1131.3,
+      "end": 1134.3,
+      "text": "from thoroughly penetrating them by view."
+    },
+    {
+      "start": 1134.3,
+      "end": 1138.3,
+      "text": "Then again monks, among masters dhamma,"
+    },
+    {
+      "start": 1138.3,
+      "end": 1141.3,
+      "text": "practices frequent recitation, reflection upon,"
+    },
+    {
+      "start": 1141.3,
+      "end": 1144.3,
+      "text": "and penetrates the teachings."
+    },
+    {
+      "start": 1144.3,
+      "end": 1147.3,
+      "text": "He is born in a certain company of devas."
+    },
+    {
+      "start": 1147.3,
+      "end": 1149.3,
+      "text": "There indeed the happy ones"
+    },
+    {
+      "start": 1149.3,
+      "end": 1151.3,
+      "text": "recite not to him dhamma verses,"
+    },
+    {
+      "start": 1151.3,
+      "end": 1154.3,
+      "text": "nor does some monk who has psychic power,"
+    },
+    {
+      "start": 1154.3,
+      "end": 1157.3,
+      "text": "one who has one mastery of mind,"
+    },
+    {
+      "start": 1157.3,
+      "end": 1159.3,
+      "text": "teach dhamma to a company of devas."
+    },
+    {
+      "start": 1159.3,
+      "end": 1162.3,
+      "text": "But maybe some deva is teaching dhamma"
+    },
+    {
+      "start": 1162.3,
+      "end": 1164.3,
+      "text": "to a company of devas."
+    },
+    {
+      "start": 1164.3,
+      "end": 1166.3,
+      "text": "Then it occurs to him,"
+    },
+    {
+      "start": 1166.3,
+      "end": 1168.3,
+      "text": "this is just the dhamma vinaya,"
+    },
+    {
+      "start": 1168.3,
+      "end": 1172.3,
+      "text": "according to which I formally practice the holy life."
+    },
+    {
+      "start": 1172.3,
+      "end": 1175.3,
+      "text": "Slow to arise in him, monks, is memory,"
+    },
+    {
+      "start": 1175.3,
+      "end": 1178.3,
+      "text": "but that being very quickly reaches excellence."
+    },
+    {
+      "start": 1178.3,
+      "end": 1180.3,
+      "text": "It is just as if a man,"
+    },
+    {
+      "start": 1180.3,
+      "end": 1182.3,
+      "text": "skilled in the sound of conscious,"
+    },
+    {
+      "start": 1182.3,
+      "end": 1184.3,
+      "text": "while going along the high road,"
+    },
+    {
+      "start": 1184.3,
+      "end": 1186.3,
+      "text": "should hear the sound of a conch."
+    },
+    {
+      "start": 1186.3,
+      "end": 1189.3,
+      "text": "He would have no doubt or uncertainty"
+    },
+    {
+      "start": 1189.3,
+      "end": 1192.3,
+      "text": "as to whether it was the sound of a conch or not,"
+    },
+    {
+      "start": 1192.3,
+      "end": 1195.3,
+      "text": "but would just conclude that it was so."
+    },
+    {
+      "start": 1196.3,
+      "end": 1200.3,
+      "text": "In the same way, monks, among masters dhamma, etc."
+    },
+    {
+      "start": 1200.3,
+      "end": 1203.3,
+      "text": "Slow to arise in him, monks, is memory,"
+    },
+    {
+      "start": 1203.3,
+      "end": 1206.3,
+      "text": "but that being very quickly reaches excellence."
+    },
+    {
+      "start": 1206.3,
+      "end": 1209.3,
+      "text": "This is the third advantage to be looked for"
+    },
+    {
+      "start": 1209.3,
+      "end": 1212.3,
+      "text": "from the frequent verbal recitation of teachings,"
+    },
+    {
+      "start": 1212.3,
+      "end": 1214.3,
+      "text": "from reflecting upon them,"
+    },
+    {
+      "start": 1214.3,
+      "end": 1217.3,
+      "text": "from thoroughly penetrating them by view."
+    },
+    {
+      "start": 1217.3,
+      "end": 1220.3,
+      "text": "Yet again, monks, among masters dhamma"
+    },
+    {
+      "start": 1220.3,
+      "end": 1222.3,
+      "text": "and practices frequent recitation,"
+    },
+    {
+      "start": 1222.3,
+      "end": 1225.3,
+      "text": "reflection upon and penetrates the teachings"
+    },
+    {
+      "start": 1225.3,
+      "end": 1228.3,
+      "text": "and is reborn in a certain company of devas."
+    },
+    {
+      "start": 1228.3,
+      "end": 1230.3,
+      "text": "There indeed the happy ones"
+    },
+    {
+      "start": 1230.3,
+      "end": 1232.3,
+      "text": "recite not to him dhamma verses,"
+    },
+    {
+      "start": 1232.3,
+      "end": 1235.3,
+      "text": "nor does some monk who has psychic power,"
+    },
+    {
+      "start": 1235.3,
+      "end": 1237.3,
+      "text": "who has one mastery of mind"
+    },
+    {
+      "start": 1237.3,
+      "end": 1240.3,
+      "text": "teach dhamma to a company of devas."
+    },
+    {
+      "start": 1240.3,
+      "end": 1242.3,
+      "text": "Nor yet does someone,"
+    },
+    {
+      "start": 1242.3,
+      "end": 1246.3,
+      "text": "some deva teach dhamma to a company of devas."
+    },
+    {
+      "start": 1246.3,
+      "end": 1248.3,
+      "text": "But maybe someone,"
+    },
+    {
+      "start": 1248.3,
+      "end": 1250.3,
+      "text": "apparitionally reborn there,"
+    },
+    {
+      "start": 1250.3,
+      "end": 1253.3,
+      "text": "is reviving the memory of some other one,"
+    },
+    {
+      "start": 1253.3,
+      "end": 1256.3,
+      "text": "apparitionally reborn."
+    },
+    {
+      "start": 1256.3,
+      "end": 1257.3,
+      "text": "He says,"
+    },
+    {
+      "start": 1257.3,
+      "end": 1259.3,
+      "text": "Do you remember good sir?"
+    },
+    {
+      "start": 1259.3,
+      "end": 1261.3,
+      "text": "Do you remember good sir?"
+    },
+    {
+      "start": 1261.3,
+      "end": 1264.3,
+      "text": "How formally we used to practice the holy life?"
+    },
+    {
+      "start": 1264.3,
+      "end": 1266.3,
+      "text": "Then the other says,"
+    },
+    {
+      "start": 1266.3,
+      "end": 1268.3,
+      "text": "I do indeed remember good sir."
+    },
+    {
+      "start": 1268.3,
+      "end": 1270.3,
+      "text": "I do indeed remember."
+    },
+    {
+      "start": 1270.3,
+      "end": 1273.3,
+      "text": "Slow to arise monks in him is memory,"
+    },
+    {
+      "start": 1273.3,
+      "end": 1276.3,
+      "text": "but that being very quickly reaches excellence."
+    },
+    {
+      "start": 1276.3,
+      "end": 1278.3,
+      "text": "It is just as if two playmates"
+    },
+    {
+      "start": 1278.3,
+      "end": 1281.3,
+      "text": "who used to play at mud pies together"
+    },
+    {
+      "start": 1281.3,
+      "end": 1283.3,
+      "text": "were to meet sometime or other."
+    },
+    {
+      "start": 1283.3,
+      "end": 1285.3,
+      "text": "Then one of them says to the other,"
+    },
+    {
+      "start": 1285.3,
+      "end": 1288.3,
+      "text": "Say old man, do you remember this?"
+    },
+    {
+      "start": 1288.3,
+      "end": 1289.3,
+      "text": "Do you remember that?"
+    },
+    {
+      "start": 1289.3,
+      "end": 1290.3,
+      "text": "And the other replies,"
+    },
+    {
+      "start": 1290.3,
+      "end": 1292.3,
+      "text": "I do indeed remember old man."
+    },
+    {
+      "start": 1292.3,
+      "end": 1294.3,
+      "text": "I do indeed remember."
+    },
+    {
+      "start": 1294.3,
+      "end": 1296.3,
+      "text": "Just in the same way monks,"
+    },
+    {
+      "start": 1296.3,
+      "end": 1298.3,
+      "text": "a monk masters dhamma"
+    },
+    {
+      "start": 1298.3,
+      "end": 1300.3,
+      "text": "and practices frequent recitation,"
+    },
+    {
+      "start": 1300.3,
+      "end": 1302.3,
+      "text": "reflection upon the teachings"
+    },
+    {
+      "start": 1302.3,
+      "end": 1304.3,
+      "text": "and are thoroughly penetrated"
+    },
+    {
+      "start": 1304.3,
+      "end": 1308.3,
+      "text": "and the teachings are thoroughly penetrated by view."
+    },
+    {
+      "start": 1308.3,
+      "end": 1310.3,
+      "text": "Being reborn his memory is confused,"
+    },
+    {
+      "start": 1310.3,
+      "end": 1313.3,
+      "text": "but that being very quickly reaches excellence."
+    },
+    {
+      "start": 1313.3,
+      "end": 1316.3,
+      "text": "This monks is the fourth advantage to be looked for"
+    },
+    {
+      "start": 1316.3,
+      "end": 1319.3,
+      "text": "from the frequent verbal recitation of teachings,"
+    },
+    {
+      "start": 1319.3,
+      "end": 1321.3,
+      "text": "from reflecting upon them,"
+    },
+    {
+      "start": 1321.3,
+      "end": 1323.3,
+      "text": "from thoroughly penetrating them by view."
+    },
+    {
+      "start": 1323.3,
+      "end": 1324.3,
+      "text": "So monks,"
+    },
+    {
+      "start": 1324.3,
+      "end": 1327.3,
+      "text": "these are the four advantages to be looked for."
+    },
+    {
+      "start": 1327.3,
+      "end": 1328.3,
+      "text": "So in this sutta,"
+    },
+    {
+      "start": 1328.3,
+      "end": 1330.3,
+      "text": "the Buddha is trying to say that"
+    },
+    {
+      "start": 1330.3,
+      "end": 1333.3,
+      "text": "it is important to frequently,"
+    },
+    {
+      "start": 1333.3,
+      "end": 1335.3,
+      "text": "firstly to listen to the dhamma,"
+    },
+    {
+      "start": 1335.3,
+      "end": 1338.3,
+      "text": "then to recite the dhamma,"
+    },
+    {
+      "start": 1338.3,
+      "end": 1340.3,
+      "text": "reflect upon the dhamma"
+    },
+    {
+      "start": 1340.3,
+      "end": 1342.3,
+      "text": "and understand the dhamma."
+    },
+    {
+      "start": 1342.3,
+      "end": 1345.3,
+      "text": "And then it is possible"
+    },
+    {
+      "start": 1345.3,
+      "end": 1347.3,
+      "text": "that next time, in our next life,"
+    },
+    {
+      "start": 1347.3,
+      "end": 1349.3,
+      "text": "when we hear dhamma,"
+    },
+    {
+      "start": 1349.3,
+      "end": 1353.3,
+      "text": "the memory slowly comes back."
+    },
+    {
+      "start": 1353.3,
+      "end": 1356.3,
+      "text": "And actually all this memory"
+    },
+    {
+      "start": 1356.3,
+      "end": 1357.3,
+      "text": "in our subconscious,"
+    },
+    {
+      "start": 1357.3,
+      "end": 1360.3,
+      "text": "it is not so far away sometimes."
+    },
+    {
+      "start": 1361.3,
+      "end": 1363.3,
+      "text": "Like we meet somebody"
+    },
+    {
+      "start": 1363.3,
+      "end": 1365.3,
+      "text": "and then we have a feeling"
+    },
+    {
+      "start": 1365.3,
+      "end": 1367.3,
+      "text": "that we like that person very much."
+    },
+    {
+      "start": 1367.3,
+      "end": 1369.3,
+      "text": "Or sometimes we meet somebody"
+    },
+    {
+      "start": 1369.3,
+      "end": 1373.3,
+      "text": "and we think that the face is very familiar,"
+    },
+    {
+      "start": 1373.3,
+      "end": 1375.3,
+      "text": "very, very familiar,"
+    },
+    {
+      "start": 1375.3,
+      "end": 1378.3,
+      "text": "even though it is the first time we meet that person."
+    },
+    {
+      "start": 1378.3,
+      "end": 1380.3,
+      "text": "So there are other instances,"
+    },
+    {
+      "start": 1380.3,
+      "end": 1386.3,
+      "text": "some people, they have peculiar experience"
+    },
+    {
+      "start": 1386.3,
+      "end": 1389.3,
+      "text": "that tells them that certain things"
+    },
+    {
+      "start": 1389.3,
+      "end": 1391.3,
+      "text": "they know from the past life."
+    },
+    {
+      "start": 1391.3,
+      "end": 1394.3,
+      "text": "But this one, in this sutta,"
+    },
+    {
+      "start": 1394.3,
+      "end": 1396.3,
+      "text": "the Buddha is talking more about devas"
+    },
+    {
+      "start": 1396.3,
+      "end": 1398.3,
+      "text": "because a person who is born"
+    },
+    {
+      "start": 1398.3,
+      "end": 1402.3,
+      "text": "in the deva realm as a heavenly being,"
+    },
+    {
+      "start": 1402.3,
+      "end": 1405.3,
+      "text": "the mind is more developed"
+    },
+    {
+      "start": 1405.3,
+      "end": 1408.3,
+      "text": "and these devas, it appears from the suttas"
+    },
+    {
+      "start": 1408.3,
+      "end": 1412.3,
+      "text": "very frequently can remember their past life,"
+    },
+    {
+      "start": 1412.3,
+      "end": 1414.3,
+      "text": "at least one past life."
+    },
+    {
+      "start": 1414.3,
+      "end": 1416.3,
+      "text": "Although for us human beings,"
+    },
+    {
+      "start": 1416.3,
+      "end": 1419.3,
+      "text": "it is difficult and even more difficult"
+    },
+    {
+      "start": 1419.3,
+      "end": 1422.3,
+      "text": "for animals and the lower beings."
+    },
+    {
+      "start": 1422.3,
+      "end": 1424.3,
+      "text": "So now we come to the next sutta,"
+    },
+    {
+      "start": 1424.3,
+      "end": 1427.3,
+      "text": "4.20.192."
+    },
+    {
+      "start": 1427.3,
+      "end": 1428.3,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 1428.3,
+      "end": 1430.3,
+      "text": "monks, these four conditions"
+    },
+    {
+      "start": 1430.3,
+      "end": 1433.3,
+      "text": "are to be understood by other four conditions."
+    },
+    {
+      "start": 1433.3,
+      "end": 1435.3,
+      "text": "What are the four?"
+    },
+    {
+      "start": 1435.3,
+      "end": 1437.3,
+      "text": "Monks, it is by association"
+    },
+    {
+      "start": 1437.3,
+      "end": 1440.3,
+      "text": "that a man's virtue is to be understood"
+    },
+    {
+      "start": 1440.3,
+      "end": 1442.3,
+      "text": "and that too after a long time,"
+    },
+    {
+      "start": 1442.3,
+      "end": 1445.3,
+      "text": "not casually, by close attention,"
+    },
+    {
+      "start": 1445.3,
+      "end": 1450.3,
+      "text": "not by inattention, by a wise man, not a fool."
+    },
+    {
+      "start": 1450.3,
+      "end": 1452.3,
+      "text": "Monks, it is by living with him"
+    },
+    {
+      "start": 1452.3,
+      "end": 1455.3,
+      "text": "that the man's integrity is to be understood"
+    },
+    {
+      "start": 1455.3,
+      "end": 1457.3,
+      "text": "and that too after a long time,"
+    },
+    {
+      "start": 1457.3,
+      "end": 1460.3,
+      "text": "not casually, by close attention,"
+    },
+    {
+      "start": 1460.3,
+      "end": 1465.3,
+      "text": "not by inattention, by a wise man, not a fool."
+    },
+    {
+      "start": 1465.3,
+      "end": 1467.3,
+      "text": "Monks, it is in times of distress"
+    },
+    {
+      "start": 1467.3,
+      "end": 1470.3,
+      "text": "that a man's courage is to be understood"
+    },
+    {
+      "start": 1470.3,
+      "end": 1472.3,
+      "text": "and that too after a long time,"
+    },
+    {
+      "start": 1472.3,
+      "end": 1475.3,
+      "text": "not casually, by close attention,"
+    },
+    {
+      "start": 1475.3,
+      "end": 1479.3,
+      "text": "not by inattention, by a wise man, not a fool."
+    },
+    {
+      "start": 1479.3,
+      "end": 1482.3,
+      "text": "Monks, it is by conversation with him"
+    },
+    {
+      "start": 1482.3,
+      "end": 1485.3,
+      "text": "that a man's wisdom is to be understood"
+    },
+    {
+      "start": 1485.3,
+      "end": 1487.3,
+      "text": "and that too after a long time,"
+    },
+    {
+      "start": 1487.3,
+      "end": 1489.3,
+      "text": "not casually, by close attention,"
+    },
+    {
+      "start": 1489.3,
+      "end": 1493.3,
+      "text": "not by inattention, by a wise man, not a fool."
+    },
+    {
+      "start": 1493.3,
+      "end": 1495.3,
+      "text": "Now I said it is by association"
+    },
+    {
+      "start": 1495.3,
+      "end": 1498.3,
+      "text": "that a man's virtue is to be understood"
+    },
+    {
+      "start": 1498.3,
+      "end": 1501.3,
+      "text": "and that too after a long time, etc."
+    },
+    {
+      "start": 1501.3,
+      "end": 1503.3,
+      "text": "Owing to what did I say thus?"
+    },
+    {
+      "start": 1503.3,
+      "end": 1506.3,
+      "text": "In this case, monks, a person knows thus"
+    },
+    {
+      "start": 1506.3,
+      "end": 1509.3,
+      "text": "of another person by associating with him."
+    },
+    {
+      "start": 1509.3,
+      "end": 1512.3,
+      "text": "For a long time, this worthy has been one"
+    },
+    {
+      "start": 1512.3,
+      "end": 1516.3,
+      "text": "whose deeds are incongruous, inconsistent, shady and spotted."
+    },
+    {
+      "start": 1516.3,
+      "end": 1518.3,
+      "text": "His deeds are not consistent."
+    },
+    {
+      "start": 1518.3,
+      "end": 1521.3,
+      "text": "His habits are not consistent with morals."
+    },
+    {
+      "start": 1521.3,
+      "end": 1523.3,
+      "text": "This worthy is immoral."
+    },
+    {
+      "start": 1523.3,
+      "end": 1525.3,
+      "text": "He is not virtuous."
+    },
+    {
+      "start": 1525.3,
+      "end": 1528.3,
+      "text": "Herein again, monks, by associating with him,"
+    },
+    {
+      "start": 1528.3,
+      "end": 1530.3,
+      "text": "one knows thus of another person."
+    },
+    {
+      "start": 1530.3,
+      "end": 1533.3,
+      "text": "For a long time, this worthy has been one"
+    },
+    {
+      "start": 1533.3,
+      "end": 1538.3,
+      "text": "whose deeds are incongruous, consistent, not shady, not spotted."
+    },
+    {
+      "start": 1538.3,
+      "end": 1540.3,
+      "text": "His deeds are consistent."
+    },
+    {
+      "start": 1540.3,
+      "end": 1542.3,
+      "text": "His habits are consistent with morals."
+    },
+    {
+      "start": 1542.3,
+      "end": 1544.3,
+      "text": "This worthy is moral."
+    },
+    {
+      "start": 1544.3,
+      "end": 1546.3,
+      "text": "He is virtuous."
+    },
+    {
+      "start": 1546.3,
+      "end": 1548.3,
+      "text": "Indeed, monks, it is by association"
+    },
+    {
+      "start": 1548.3,
+      "end": 1550.3,
+      "text": "that a monk's virtue is to be understood"
+    },
+    {
+      "start": 1550.3,
+      "end": 1553.3,
+      "text": "and that too after a long time, etc."
+    },
+    {
+      "start": 1553.3,
+      "end": 1556.3,
+      "text": "What was said thus was owing to this."
+    },
+    {
+      "start": 1556.3,
+      "end": 1558.3,
+      "text": "Now I said it is by living with him"
+    },
+    {
+      "start": 1558.3,
+      "end": 1561.3,
+      "text": "that a man's integrity is to be understood."
+    },
+    {
+      "start": 1561.3,
+      "end": 1563.3,
+      "text": "Owing to what did I say this?"
+    },
+    {
+      "start": 1563.3,
+      "end": 1566.3,
+      "text": "In this case, monks, a person knows thus"
+    },
+    {
+      "start": 1566.3,
+      "end": 1568.3,
+      "text": "of another person by living with him."
+    },
+    {
+      "start": 1568.3,
+      "end": 1572.3,
+      "text": "This worthy, when with one person, behaves in one way."
+    },
+    {
+      "start": 1572.3,
+      "end": 1574.3,
+      "text": "When with two persons in another way."
+    },
+    {
+      "start": 1574.3,
+      "end": 1577.3,
+      "text": "When with three in yet another way."
+    },
+    {
+      "start": 1577.3,
+      "end": 1579.3,
+      "text": "Again, otherwise, when with many."
+    },
+    {
+      "start": 1579.3,
+      "end": 1583.3,
+      "text": "In his former behavior, he departs from his latter behavior."
+    },
+    {
+      "start": 1583.3,
+      "end": 1586.3,
+      "text": "This worthy is not honest in his behavior."
+    },
+    {
+      "start": 1586.3,
+      "end": 1589.3,
+      "text": "This worthy is dishonest."
+    },
+    {
+      "start": 1589.3,
+      "end": 1592.3,
+      "text": "In this case again, monks, a person knows another"
+    },
+    {
+      "start": 1592.3,
+      "end": 1594.3,
+      "text": "by living with him."
+    },
+    {
+      "start": 1594.3,
+      "end": 1597.3,
+      "text": "So he concludes, this worthy, when with one person,"
+    },
+    {
+      "start": 1597.3,
+      "end": 1601.3,
+      "text": "behaves just as he does with two, three or many."
+    },
+    {
+      "start": 1601.3,
+      "end": 1603.3,
+      "text": "In his former behavior, he departs"
+    },
+    {
+      "start": 1603.3,
+      "end": 1605.3,
+      "text": "not from his latter behavior."
+    },
+    {
+      "start": 1605.3,
+      "end": 1607.3,
+      "text": "This worthy is honest."
+    },
+    {
+      "start": 1607.3,
+      "end": 1609.3,
+      "text": "He is not dishonest."
+    },
+    {
+      "start": 1609.3,
+      "end": 1612.3,
+      "text": "Indeed, monks, it is by living with him"
+    },
+    {
+      "start": 1612.3,
+      "end": 1615.3,
+      "text": "that a man's integrity is to be understood."
+    },
+    {
+      "start": 1615.3,
+      "end": 1618.3,
+      "text": "What I said was owing to this."
+    },
+    {
+      "start": 1618.3,
+      "end": 1620.3,
+      "text": "Now I said, it is in times of distress"
+    },
+    {
+      "start": 1620.3,
+      "end": 1623.3,
+      "text": "that a man's courage is to be understood."
+    },
+    {
+      "start": 1623.3,
+      "end": 1625.3,
+      "text": "Owing to what did I say this?"
+    },
+    {
+      "start": 1625.3,
+      "end": 1628.3,
+      "text": "In this case, monks, a certain one afflicted"
+    },
+    {
+      "start": 1628.3,
+      "end": 1631.3,
+      "text": "by the loss of relatives or loss of wealth"
+    },
+    {
+      "start": 1631.3,
+      "end": 1634.3,
+      "text": "or by the misfortune of sickness thus reflects."
+    },
+    {
+      "start": 1634.3,
+      "end": 1638.3,
+      "text": "Where really thus come to be is this living in the world."
+    },
+    {
+      "start": 1638.3,
+      "end": 1641.3,
+      "text": "Thus come to be is the getting of a personality."
+    },
+    {
+      "start": 1641.3,
+      "end": 1644.3,
+      "text": "According to this coming to be of living in the world"
+    },
+    {
+      "start": 1644.3,
+      "end": 1647.3,
+      "text": "and getting a personality, eight world conditions"
+    },
+    {
+      "start": 1647.3,
+      "end": 1649.3,
+      "text": "keep the world a rolling"
+    },
+    {
+      "start": 1649.3,
+      "end": 1652.3,
+      "text": "and the world keeps a rolling eight world conditions"
+    },
+    {
+      "start": 1652.3,
+      "end": 1656.3,
+      "text": "namely gain and loss, fame and disrepute,"
+    },
+    {
+      "start": 1656.3,
+      "end": 1659.3,
+      "text": "praise and blame, happiness and unhappiness."
+    },
+    {
+      "start": 1659.3,
+      "end": 1663.3,
+      "text": "So he afflicted by loss of relatives, loss of wealth"
+    },
+    {
+      "start": 1663.3,
+      "end": 1666.3,
+      "text": "or the misfortune of sickness sorrows, laments,"
+    },
+    {
+      "start": 1666.3,
+      "end": 1669.3,
+      "text": "is distressed and beats his breath,"
+    },
+    {
+      "start": 1669.3,
+      "end": 1672.3,
+      "text": "wails and falls into a utter bewilderment."
+    },
+    {
+      "start": 1672.3,
+      "end": 1675.3,
+      "text": "But in this case, monks, a certain one afflicted"
+    },
+    {
+      "start": 1675.3,
+      "end": 1678.3,
+      "text": "by the loss of relatives, etc. thus reflects."
+    },
+    {
+      "start": 1678.3,
+      "end": 1681.3,
+      "text": "Where really thus come to be is thus living in the world."
+    },
+    {
+      "start": 1681.3,
+      "end": 1684.3,
+      "text": "Thus come to be is the getting of personality."
+    },
+    {
+      "start": 1684.3,
+      "end": 1687.3,
+      "text": "According to this coming to be of living in the world"
+    },
+    {
+      "start": 1687.3,
+      "end": 1690.3,
+      "text": "and getting a personality, eight world conditions"
+    },
+    {
+      "start": 1690.3,
+      "end": 1692.3,
+      "text": "keep the world a rolling"
+    },
+    {
+      "start": 1692.3,
+      "end": 1695.3,
+      "text": "and the world keeps a rolling eight world conditions"
+    },
+    {
+      "start": 1695.3,
+      "end": 1698.3,
+      "text": "namely gain and loss, fame and disrepute,"
+    },
+    {
+      "start": 1698.3,
+      "end": 1701.3,
+      "text": "praise and blame, happiness and unhappiness."
+    },
+    {
+      "start": 1701.3,
+      "end": 1704.3,
+      "text": "So he afflicted by the loss of relatives, loss of wealth"
+    },
+    {
+      "start": 1704.3,
+      "end": 1707.3,
+      "text": "and all the misfortune of sickness"
+    },
+    {
+      "start": 1707.3,
+      "end": 1710.3,
+      "text": "does not sorrow, does not falter, etc."
+    },
+    {
+      "start": 1710.3,
+      "end": 1713.3,
+      "text": "nor falls into utter bewilderment."
+    },
+    {
+      "start": 1713.3,
+      "end": 1715.3,
+      "text": "Owing to that did I say this."
+    },
+    {
+      "start": 1715.3,
+      "end": 1718.3,
+      "text": "Now I said it is by conversation with him"
+    },
+    {
+      "start": 1718.3,
+      "end": 1720.3,
+      "text": "that a man's wisdom is to be understood."
+    },
+    {
+      "start": 1720.3,
+      "end": 1722.3,
+      "text": "Owing to what did I say this?"
+    },
+    {
+      "start": 1722.3,
+      "end": 1726.3,
+      "text": "In this case, monks, a person by conversing with another"
+    },
+    {
+      "start": 1726.3,
+      "end": 1728.3,
+      "text": "knows thus of him."
+    },
+    {
+      "start": 1728.3,
+      "end": 1731.3,
+      "text": "Judging by this worthy's approach to a question"
+    },
+    {
+      "start": 1731.3,
+      "end": 1733.3,
+      "text": "judging by his intention,"
+    },
+    {
+      "start": 1733.3,
+      "end": 1735.3,
+      "text": "judging by his conversation,"
+    },
+    {
+      "start": 1735.3,
+      "end": 1738.3,
+      "text": "his weak in wisdom, he is not wise."
+    },
+    {
+      "start": 1738.3,
+      "end": 1740.3,
+      "text": "What is the cause of that?"
+    },
+    {
+      "start": 1740.3,
+      "end": 1742.3,
+      "text": "In the case in question, this worthy utters"
+    },
+    {
+      "start": 1742.3,
+      "end": 1745.3,
+      "text": "no profound profitable sentence that calms,"
+    },
+    {
+      "start": 1745.3,
+      "end": 1749.3,
+      "text": "is sublime, is beyond the sphere of mere reasoning"
+    },
+    {
+      "start": 1749.3,
+      "end": 1752.3,
+      "text": "that is subtle and intelligible to the wise."
+    },
+    {
+      "start": 1752.3,
+      "end": 1755.3,
+      "text": "As to Dhamma that this worthy talks,"
+    },
+    {
+      "start": 1755.3,
+      "end": 1759.3,
+      "text": "worthy is not competent either in brief or in detail"
+    },
+    {
+      "start": 1759.3,
+      "end": 1762.3,
+      "text": "to explain its meaning, to show it forth,"
+    },
+    {
+      "start": 1762.3,
+      "end": 1765.3,
+      "text": "expound it, lay it open, open it up,"
+    },
+    {
+      "start": 1765.3,
+      "end": 1767.3,
+      "text": "analyze and make it plain."
+    },
+    {
+      "start": 1767.3,
+      "end": 1771.3,
+      "text": "This worthy is weak in wisdom, he is not wise."
+    },
+    {
+      "start": 1771.3,
+      "end": 1773.3,
+      "text": "Just as if monks, a man with good eyesight"
+    },
+    {
+      "start": 1773.3,
+      "end": 1776.3,
+      "text": "standing on the bank of a pool of water"
+    },
+    {
+      "start": 1776.3,
+      "end": 1778.3,
+      "text": "were to see a small fish rising,"
+    },
+    {
+      "start": 1778.3,
+      "end": 1781.3,
+      "text": "he would think, judging by the uprise of this fish,"
+    },
+    {
+      "start": 1781.3,
+      "end": 1784.3,
+      "text": "judging by the size of the ripple it makes,"
+    },
+    {
+      "start": 1784.3,
+      "end": 1787.3,
+      "text": "judging by its speed, this is a small fish,"
+    },
+    {
+      "start": 1787.3,
+      "end": 1789.3,
+      "text": "this is not a big fish."
+    },
+    {
+      "start": 1789.3,
+      "end": 1791.3,
+      "text": "Just in the same way, monks,"
+    },
+    {
+      "start": 1791.3,
+      "end": 1794.3,
+      "text": "a person by conversing with another knows thus of him."
+    },
+    {
+      "start": 1794.3,
+      "end": 1797.3,
+      "text": "This worthy is weak in wisdom, he is not wise."
+    },
+    {
+      "start": 1797.3,
+      "end": 1799.3,
+      "text": "Herein again, monks,"
+    },
+    {
+      "start": 1799.3,
+      "end": 1802.3,
+      "text": "a person by conversing with another knows thus of him,"
+    },
+    {
+      "start": 1802.3,
+      "end": 1805.3,
+      "text": "judging by this worthy's approach to a question,"
+    },
+    {
+      "start": 1805.3,
+      "end": 1808.3,
+      "text": "judging by his intention, judging by his conversation,"
+    },
+    {
+      "start": 1808.3,
+      "end": 1811.3,
+      "text": "he is a wise man, he is not weak in wisdom."
+    },
+    {
+      "start": 1811.3,
+      "end": 1813.3,
+      "text": "What is the cause of that?"
+    },
+    {
+      "start": 1813.3,
+      "end": 1816.3,
+      "text": "In the case in question, this worthy can utter"
+    },
+    {
+      "start": 1816.3,
+      "end": 1819.3,
+      "text": "a profound, profitable sentence that comes,"
+    },
+    {
+      "start": 1819.3,
+      "end": 1823.3,
+      "text": "that is sublime, is beyond the sphere of mere reasoning,"
+    },
+    {
+      "start": 1823.3,
+      "end": 1826.3,
+      "text": "that is subtle and intelligible to the wise."
+    },
+    {
+      "start": 1826.3,
+      "end": 1828.3,
+      "text": "As to Dhamma, that this worthy talks,"
+    },
+    {
+      "start": 1828.3,
+      "end": 1831.3,
+      "text": "he is competent both in brief and in detail"
+    },
+    {
+      "start": 1831.3,
+      "end": 1834.3,
+      "text": "to explain its meaning, to show it forth,"
+    },
+    {
+      "start": 1834.3,
+      "end": 1837.3,
+      "text": "expound it, lay it down, open it up,"
+    },
+    {
+      "start": 1837.3,
+      "end": 1839.3,
+      "text": "analyze and make it plain."
+    },
+    {
+      "start": 1839.3,
+      "end": 1842.3,
+      "text": "This worthy is a wise man, he is not weak in wisdom."
+    },
+    {
+      "start": 1842.3,
+      "end": 1845.3,
+      "text": "Just as if monks, a man with good eyesight,"
+    },
+    {
+      "start": 1845.3,
+      "end": 1848.3,
+      "text": "standing on the bank of a pool of water,"
+    },
+    {
+      "start": 1848.3,
+      "end": 1851.3,
+      "text": "were to see a big fish rising, he would think,"
+    },
+    {
+      "start": 1851.3,
+      "end": 1853.3,
+      "text": "judging by the uprise of this fish,"
+    },
+    {
+      "start": 1853.3,
+      "end": 1855.3,
+      "text": "judging by the size of the ripple it makes,"
+    },
+    {
+      "start": 1855.3,
+      "end": 1858.3,
+      "text": "judging by its speed, this is a big fish,"
+    },
+    {
+      "start": 1858.3,
+      "end": 1860.3,
+      "text": "this is not a small fish."
+    },
+    {
+      "start": 1860.3,
+      "end": 1862.3,
+      "text": "Just in the same way, monks,"
+    },
+    {
+      "start": 1862.3,
+      "end": 1865.3,
+      "text": "a person by conversing with another knows thus of him,"
+    },
+    {
+      "start": 1865.3,
+      "end": 1868.3,
+      "text": "judging by this worthy's approach to a question,"
+    },
+    {
+      "start": 1868.3,
+      "end": 1872.3,
+      "text": "judging by his intention, judging by his conversation,"
+    },
+    {
+      "start": 1872.3,
+      "end": 1875.3,
+      "text": "he is a wise man, he is not weak in wisdom."
+    },
+    {
+      "start": 1875.3,
+      "end": 1877.3,
+      "text": "It is by conversation with him, monks,"
+    },
+    {
+      "start": 1877.3,
+      "end": 1880.3,
+      "text": "that a man's wisdom is to be understood."
+    },
+    {
+      "start": 1880.3,
+      "end": 1883.3,
+      "text": "So I said, and that is why I said it,"
+    },
+    {
+      "start": 1883.3,
+      "end": 1886.3,
+      "text": "thus monks, these four conditions are to be understood"
+    },
+    {
+      "start": 1886.3,
+      "end": 1889.3,
+      "text": "by these other four conditions."
+    },
+    {
+      "start": 1889.3,
+      "end": 1891.3,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 1891.3,
+      "end": 1896.3,
+      "text": "And this sutta, it is quite a good sutta,"
+    },
+    {
+      "start": 1896.3,
+      "end": 1900.3,
+      "text": "it is telling us that it takes a long time"
+    },
+    {
+      "start": 1900.3,
+      "end": 1905.3,
+      "text": "to know a person actually, and not in a short while,"
+    },
+    {
+      "start": 1905.3,
+      "end": 1908.3,
+      "text": "and then you have to pay close attention,"
+    },
+    {
+      "start": 1908.3,
+      "end": 1911.3,
+      "text": "not in attention, and then you have to be a wise man,"
+    },
+    {
+      "start": 1911.3,
+      "end": 1915.3,
+      "text": "not a fool, then only you can judge a person."
+    },
+    {
+      "start": 1915.3,
+      "end": 1918.3,
+      "text": "The first one, the Buddha said, was judging his virtue."
+    },
+    {
+      "start": 1918.3,
+      "end": 1922.3,
+      "text": "You see whether his deeds are consistent with the precepts or not,"
+    },
+    {
+      "start": 1922.3,
+      "end": 1927.3,
+      "text": "whether he keeps the precepts, or he breaks the precepts."
+    },
+    {
+      "start": 1927.3,
+      "end": 1930.3,
+      "text": "The second one to check his integrity,"
+    },
+    {
+      "start": 1930.3,
+      "end": 1932.3,
+      "text": "whether he is honest or not,"
+    },
+    {
+      "start": 1932.3,
+      "end": 1935.3,
+      "text": "you see his behaviour with different people,"
+    },
+    {
+      "start": 1935.3,
+      "end": 1939.3,
+      "text": "whether he acts with one type of person in one way"
+    },
+    {
+      "start": 1939.3,
+      "end": 1942.3,
+      "text": "and in another type of person he acts differently,"
+    },
+    {
+      "start": 1942.3,
+      "end": 1945.3,
+      "text": "whether in front of you he acts in one way"
+    },
+    {
+      "start": 1945.3,
+      "end": 1948.3,
+      "text": "and behind you he acts in another way,"
+    },
+    {
+      "start": 1948.3,
+      "end": 1951.3,
+      "text": "then you know whether he is an honest man or not."
+    },
+    {
+      "start": 1951.3,
+      "end": 1955.3,
+      "text": "Then the third one, to see whether he has courage or not,"
+    },
+    {
+      "start": 1955.3,
+      "end": 1960.3,
+      "text": "then you see whether he is easily overcome by misfortune"
+    },
+    {
+      "start": 1960.3,
+      "end": 1964.3,
+      "text": "and in sickness or loss of wealth or loss of relatives, etc.,"
+    },
+    {
+      "start": 1964.3,
+      "end": 1967.3,
+      "text": "whether he loses his courage."
+    },
+    {
+      "start": 1967.3,
+      "end": 1972.3,
+      "text": "And then wisdom, then by conversation with him,"
+    },
+    {
+      "start": 1972.3,
+      "end": 1976.3,
+      "text": "you see whether he talks profitable things or unprofitable things,"
+    },
+    {
+      "start": 1976.3,
+      "end": 1979.3,
+      "text": "profound things or shallow things,"
+    },
+    {
+      "start": 1979.3,
+      "end": 1982.3,
+      "text": "and whether he is able to explain Dhamma in brief"
+    },
+    {
+      "start": 1982.3,
+      "end": 1984.3,
+      "text": "and explain Dhamma in detail,"
+    },
+    {
+      "start": 1984.3,
+      "end": 1988.3,
+      "text": "to analyse and make plain the meaning of Dhamma, etc.,"
+    },
+    {
+      "start": 1988.3,
+      "end": 1992.3,
+      "text": "then you can judge whether this person has wisdom or not."
+    },
+    {
+      "start": 1992.3,
+      "end": 1997.3,
+      "text": "So in other words, we should not judge people hastily."
+    },
+    {
+      "start": 1997.3,
+      "end": 2001.3,
+      "text": "Most people, as you are probably aware,"
+    },
+    {
+      "start": 2001.3,
+      "end": 2006.3,
+      "text": "we tend to judge a person at the first meeting very quickly"
+    },
+    {
+      "start": 2006.3,
+      "end": 2009.3,
+      "text": "by his looks, by his behaviour."
+    },
+    {
+      "start": 2009.3,
+      "end": 2013.3,
+      "text": "Straight away we make certain judgements and it's not very wise."
+    },
+    {
+      "start": 2013.3,
+      "end": 2016.3,
+      "text": "I think you have heard me talk about the Sutta,"
+    },
+    {
+      "start": 2016.3,
+      "end": 2019.3,
+      "text": "about the four types of pots,"
+    },
+    {
+      "start": 2019.3,
+      "end": 2021.3,
+      "text": "the open and the empty pot,"
+    },
+    {
+      "start": 2021.3,
+      "end": 2023.3,
+      "text": "the open and the full pot,"
+    },
+    {
+      "start": 2023.3,
+      "end": 2025.3,
+      "text": "the closed and the empty pot,"
+    },
+    {
+      "start": 2025.3,
+      "end": 2027.3,
+      "text": "the closed and the full pot."
+    },
+    {
+      "start": 2027.3,
+      "end": 2029.3,
+      "text": "So in the same way,"
+    },
+    {
+      "start": 2029.3,
+      "end": 2034.3,
+      "text": "it's difficult to judge a person from the looks."
+    },
+    {
+      "start": 2034.3,
+      "end": 2039.3,
+      "text": "And also the other thing,"
+    },
+    {
+      "start": 2039.3,
+      "end": 2041.3,
+      "text": "especially nowadays,"
+    },
+    {
+      "start": 2041.3,
+      "end": 2045.3,
+      "text": "we have to be very, very careful of personality cults."
+    },
+    {
+      "start": 2045.3,
+      "end": 2051.3,
+      "text": "Nowadays, especially in the religious world,"
+    },
+    {
+      "start": 2051.3,
+      "end": 2057.3,
+      "text": "there's a tendency nowadays to have a lot of personality cults."
+    },
+    {
+      "start": 2057.3,
+      "end": 2061.3,
+      "text": "And the Buddha and his wisdom probably foresaw this"
+    },
+    {
+      "start": 2061.3,
+      "end": 2064.3,
+      "text": "even when the Buddha was alive."
+    },
+    {
+      "start": 2064.3,
+      "end": 2068.3,
+      "text": "He said, we take refuge in the Buddha, Dharma and Sangha."
+    },
+    {
+      "start": 2068.3,
+      "end": 2071.3,
+      "text": "And immediately after the Buddha passed away,"
+    },
+    {
+      "start": 2071.3,
+      "end": 2075.3,
+      "text": "there were some Arahant disciples who had very great attainments."
+    },
+    {
+      "start": 2075.3,
+      "end": 2080.3,
+      "text": "And when the lay people were very impressed with them"
+    },
+    {
+      "start": 2080.3,
+      "end": 2083.3,
+      "text": "and these lay people wanted to take refuge with the Arahants,"
+    },
+    {
+      "start": 2083.3,
+      "end": 2085.3,
+      "text": "the Arahants said,"
+    },
+    {
+      "start": 2085.3,
+      "end": 2088.3,
+      "text": "no, you cannot take refuge with me."
+    },
+    {
+      "start": 2088.3,
+      "end": 2091.3,
+      "text": "You can only take refuge with the Buddha, Dharma and Sangha."
+    },
+    {
+      "start": 2091.3,
+      "end": 2094.3,
+      "text": "Even though the Buddha has passed away,"
+    },
+    {
+      "start": 2094.3,
+      "end": 2097.3,
+      "text": "we recognize him as our teacher."
+    },
+    {
+      "start": 2097.3,
+      "end": 2103.3,
+      "text": "That's why whatever other teacher's teacher,"
+    },
+    {
+      "start": 2103.3,
+      "end": 2105.3,
+      "text": "we always compare it with the Buddha,"
+    },
+    {
+      "start": 2105.3,
+      "end": 2108.3,
+      "text": "his teachings in the Dharma."
+    },
+    {
+      "start": 2108.3,
+      "end": 2116.3,
+      "text": "And we also take refuge with the Sangha of Aryas."
+    },
+    {
+      "start": 2116.3,
+      "end": 2118.3,
+      "text": "And so we have to be careful."
+    },
+    {
+      "start": 2118.3,
+      "end": 2121.3,
+      "text": "I think you have heard me last week talk about one Sutta."
+    },
+    {
+      "start": 2121.3,
+      "end": 2125.3,
+      "text": "Whenever anybody says that this is the teaching of the Buddha,"
+    },
+    {
+      "start": 2125.3,
+      "end": 2128.3,
+      "text": "then you must compare it with the Suttas"
+    },
+    {
+      "start": 2128.3,
+      "end": 2130.3,
+      "text": "and compare it with the Vinaya,"
+    },
+    {
+      "start": 2130.3,
+      "end": 2132.3,
+      "text": "whether it's consistent with the Suttas and Vinaya."
+    },
+    {
+      "start": 2132.3,
+      "end": 2135.3,
+      "text": "And the Buddha said that if it does not follow the Suttas"
+    },
+    {
+      "start": 2135.3,
+      "end": 2137.3,
+      "text": "and the Vinaya, then reject it."
+    },
+    {
+      "start": 2137.3,
+      "end": 2139.3,
+      "text": "But if it follows the Sutta and Vinaya,"
+    },
+    {
+      "start": 2139.3,
+      "end": 2142.3,
+      "text": "then we can accept it."
+    },
+    {
+      "start": 2142.3,
+      "end": 2145.3,
+      "text": "Nowadays, many people are fascinated"
+    },
+    {
+      "start": 2145.3,
+      "end": 2149.3,
+      "text": "by psychic power or claims of psychic power"
+    },
+    {
+      "start": 2149.3,
+      "end": 2152.3,
+      "text": "or hints of psychic power."
+    },
+    {
+      "start": 2152.3,
+      "end": 2155.3,
+      "text": "We have to be very careful with psychic power"
+    },
+    {
+      "start": 2155.3,
+      "end": 2161.3,
+      "text": "because psychic powers are people actually holy men"
+    },
+    {
+      "start": 2161.3,
+      "end": 2163.3,
+      "text": "with psychic powers."
+    },
+    {
+      "start": 2163.3,
+      "end": 2165.3,
+      "text": "They don't show it,"
+    },
+    {
+      "start": 2165.3,
+      "end": 2167.3,
+      "text": "because especially in a monk's precepts,"
+    },
+    {
+      "start": 2167.3,
+      "end": 2170.3,
+      "text": "it is not allowed for a monk to show his psychic powers"
+    },
+    {
+      "start": 2170.3,
+      "end": 2173.3,
+      "text": "or to talk about his psychic powers"
+    },
+    {
+      "start": 2173.3,
+      "end": 2177.3,
+      "text": "or to hint about his attainments and psychic powers, etc."
+    },
+    {
+      "start": 2177.3,
+      "end": 2183.3,
+      "text": "And so nowadays, you find people chasing after teachers"
+    },
+    {
+      "start": 2183.3,
+      "end": 2186.3,
+      "text": "whom they think have psychic powers"
+    },
+    {
+      "start": 2186.3,
+      "end": 2188.3,
+      "text": "and supernormal attainments."
+    },
+    {
+      "start": 2188.3,
+      "end": 2194.3,
+      "text": "They are not aware of the fact that some of these psychic displays"
+    },
+    {
+      "start": 2194.3,
+      "end": 2198.3,
+      "text": "can be shown through black magic,"
+    },
+    {
+      "start": 2198.3,
+      "end": 2202.3,
+      "text": "through mantras, keeping spirits, etc."
+    },
+    {
+      "start": 2202.3,
+      "end": 2205.3,
+      "text": "So I mention this because this is one of the problems"
+    },
+    {
+      "start": 2205.3,
+      "end": 2212.3,
+      "text": "that a lot of people are innocently not aware of."
+    }
+  ]
+}

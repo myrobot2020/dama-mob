@@ -1,0 +1,1975 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1990.7860625,
+  "segments": [
+    {
+      "start": 0.94,
+      "end": 11.44,
+      "text": "Now the next Sutta, we come to Chapter of the Moon, 9.1.3, this is quite a good, interesting and important Sutta."
+    },
+    {
+      "start": 11.44,
+      "end": 20.74,
+      "text": "Once when the Venerable Magia was his attendant, the Exalted One stayed at Chalika on the hill there."
+    },
+    {
+      "start": 20.74,
+      "end": 25.74,
+      "text": "Now the approach, the Exalted One, saluted him stood at one side."
+    },
+    {
+      "start": 25.74,
+      "end": 28.74,
+      "text": "So standing, he said, the Exalted One,"
+    },
+    {
+      "start": 28.74,
+      "end": 33.74,
+      "text": "Lord, I would like to visit Jantu Gama for arms."
+    },
+    {
+      "start": 33.74,
+      "end": 36.74,
+      "text": "Do now as you think timely."
+    },
+    {
+      "start": 36.74,
+      "end": 43.74,
+      "text": "So the Venerable Magia, dressing himself before noon, taking bowl and robe and Gama for arms."
+    },
+    {
+      "start": 43.74,
+      "end": 49.24,
+      "text": "And when he had wandered about for arms and returned there from and finished his meal,"
+    },
+    {
+      "start": 49.24,
+      "end": 53.74,
+      "text": "he came to the bank of the Kimi Kala River."
+    },
+    {
+      "start": 53.74,
+      "end": 57.74,
+      "text": "Now while stretching his legs and toe and fro along the river bank,"
+    },
+    {
+      "start": 57.74,
+      "end": 63.74,
+      "text": "the Venerable Magia saw a mango grove, pleasing and beautiful."
+    },
+    {
+      "start": 63.74,
+      "end": 69.74,
+      "text": "And at the sight he thought, truly this mango grove is pleasing and beautiful."
+    },
+    {
+      "start": 69.74,
+      "end": 74.74,
+      "text": "Proper indeed is it to strive here for a Klansman wanting to strive."
+    },
+    {
+      "start": 74.74,
+      "end": 80.74,
+      "text": "If the Exalted One would permit me, I will come and strive in this mango grove."
+    },
+    {
+      "start": 80.74,
+      "end": 86.74,
+      "text": "And the Venerable Magia returned to the Exalted One, saluted him and sat down at one side"
+    },
+    {
+      "start": 86.74,
+      "end": 88.74,
+      "text": "and told him all that had taken place."
+    },
+    {
+      "start": 88.74,
+      "end": 95.74,
+      "text": "And if the Exalted One permits me, I will go to that mango grove and strive."
+    },
+    {
+      "start": 95.74,
+      "end": 102.74,
+      "text": "And the Buddha said, stay a while, Magia, till something monk appear, for we are alone."
+    },
+    {
+      "start": 102.74,
+      "end": 107.74,
+      "text": "A second time the Venerable Magia spoke, saying, Lord, for the Exalted One,"
+    },
+    {
+      "start": 107.74,
+      "end": 110.74,
+      "text": "there is nothing further to be done."
+    },
+    {
+      "start": 110.74,
+      "end": 115.74,
+      "text": "There is no adding to his accomplishments, but for me Lord, there is more to be done."
+    },
+    {
+      "start": 115.74,
+      "end": 118.74,
+      "text": "To what is done, there is more to be added."
+    },
+    {
+      "start": 118.74,
+      "end": 124.74,
+      "text": "If the Exalted One permits me, I will go to that mango grove and strive."
+    },
+    {
+      "start": 124.74,
+      "end": 130.74,
+      "text": "Stay a while, Magia, till some other monk appear, for we are alone."
+    },
+    {
+      "start": 130.74,
+      "end": 136.74,
+      "text": "A third time the Venerable Magia spoke, saying, Lord, for the Exalted One,"
+    },
+    {
+      "start": 136.74,
+      "end": 138.74,
+      "text": "there is nothing further to be done."
+    },
+    {
+      "start": 138.74,
+      "end": 143.74,
+      "text": "There is no adding to his accomplishments, but for me Lord, there is more to be done."
+    },
+    {
+      "start": 143.74,
+      "end": 146.74,
+      "text": "To what is done, there is more to be added."
+    },
+    {
+      "start": 146.74,
+      "end": 151.74,
+      "text": "If the Exalted One permits me, I will go to the mango grove and strive."
+    },
+    {
+      "start": 151.74,
+      "end": 157.74,
+      "text": "And the Buddha said, what can we say to you, Magia, when you repeat, I would strive."
+    },
+    {
+      "start": 157.74,
+      "end": 161.74,
+      "text": "Do now, Magia, as you think fit."
+    },
+    {
+      "start": 161.74,
+      "end": 165.74,
+      "text": "Then the Venerable Magia rose from sitting, saluted the Exalted One,"
+    },
+    {
+      "start": 165.74,
+      "end": 169.74,
+      "text": "and keeping him on his right, went to the mango grove."
+    },
+    {
+      "start": 169.74,
+      "end": 176.74,
+      "text": "And having come, he entered the grove and sat down at the foot of a tree to spend the noon day rest."
+    },
+    {
+      "start": 176.74,
+      "end": 183.74,
+      "text": "And there in that mango grove, three wicked evil thoughts kept coming to the Venerable Magia."
+    },
+    {
+      "start": 183.74,
+      "end": 190.74,
+      "text": "That is to say, sensual thoughts, malign thoughts or thoughts of ill-will, and cruel thoughts."
+    },
+    {
+      "start": 190.74,
+      "end": 193.74,
+      "text": "And the Venerable Magia wondered thus."
+    },
+    {
+      "start": 193.74,
+      "end": 196.74,
+      "text": "It is amazing and astonishing, sir."
+    },
+    {
+      "start": 196.74,
+      "end": 201.74,
+      "text": "By faith alone have I gone forth from home to this homeless state."
+    },
+    {
+      "start": 201.74,
+      "end": 209.74,
+      "text": "Yet I am still dogged by these three wicked evil thoughts, sensual thoughts, malign thoughts, cruel thoughts."
+    },
+    {
+      "start": 209.74,
+      "end": 214.74,
+      "text": "So the Venerable Magia returned to the Exalted One and said to him,"
+    },
+    {
+      "start": 214.74,
+      "end": 220.74,
+      "text": "Lord, while I stayed at that mango grove, three wicked evil thoughts kept coming to me."
+    },
+    {
+      "start": 220.74,
+      "end": 224.74,
+      "text": "Sensual thoughts, malign thoughts, and cruel thoughts."
+    },
+    {
+      "start": 224.74,
+      "end": 233.74,
+      "text": "And I thought, how amazing and astonishing it was that I had gone forth from the home to the homeless life by faith alone."
+    },
+    {
+      "start": 233.74,
+      "end": 241.74,
+      "text": "For Lord, I am still dogged by these three wicked evil thoughts, sensual thoughts, malign thoughts, cruel thoughts."
+    },
+    {
+      "start": 241.74,
+      "end": 243.74,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 243.74,
+      "end": 253.74,
+      "text": "For the emancipation of the mind of the unripe or un-matured, five conditions Magia are conducive to their ripening or maturing."
+    },
+    {
+      "start": 253.74,
+      "end": 262.74,
+      "text": "What five? Here in Magia, a monk has a good friend, a good companion, Kalyanamitta, a good comrade."
+    },
+    {
+      "start": 262.74,
+      "end": 270.74,
+      "text": "For the emancipation of the mind of the unripe, this is the first condition conducive to the ripening."
+    },
+    {
+      "start": 270.74,
+      "end": 277.74,
+      "text": "Again, among his virtuous and dwells restrained by the restrained of the patimokka,"
+    },
+    {
+      "start": 277.74,
+      "end": 285.74,
+      "text": "he is perfect in behavior and resort, seeing danger in the smallest fault,"
+    },
+    {
+      "start": 285.74,
+      "end": 292.74,
+      "text": "undertaking the training he trains himself accordingly. This is the second condition."
+    },
+    {
+      "start": 292.74,
+      "end": 301.74,
+      "text": "Then the thought which is serious and a help to the mind's release, that is, talk on wanting little,"
+    },
+    {
+      "start": 301.74,
+      "end": 312.02,
+      "text": "on contentment, on seclusion, on aloofness, on strenuous endeavor, on virtue, on concentration, on wisdom,"
+    },
+    {
+      "start": 312.02,
+      "end": 317.02,
+      "text": "on emancipation, on the knowledge and vision of emancipation."
+    },
+    {
+      "start": 317.02,
+      "end": 323.02,
+      "text": "A monk obtains at will easily and without difficulty. This is the third condition."
+    },
+    {
+      "start": 323.02,
+      "end": 332.59,
+      "text": "Then a monk dwells strenuous in purpose, putting away unrighteous conditions, taking to righteousness or wholesomeness,"
+    },
+    {
+      "start": 332.59,
+      "end": 341.59,
+      "text": "persevering and energetic. He shirks not the burden of righteousness or wholesomeness. This is the fourth condition."
+    },
+    {
+      "start": 341.59,
+      "end": 351.98,
+      "text": "Moreover, a monk has wisdom. He is endowed there with as to the way of growth and decay,"
+    },
+    {
+      "start": 351.98,
+      "end": 358.98,
+      "text": "with Aryan penetration concerning the way to the utter destruction of dukkha."
+    },
+    {
+      "start": 358.98,
+      "end": 371.46,
+      "text": "This is the fifth condition, conducive to the ripening. Then the Buddha continued,"
+    },
+    {
+      "start": 371.46,
+      "end": 378.46,
+      "text": "these four conditions, Meghya, virtue, beneficial talk, strenuous endeavor and wisdom,"
+    },
+    {
+      "start": 378.46,
+      "end": 388.6,
+      "text": "may be expected of a monk who has a good friend, a good companion, a good comrade."
+    },
+    {
+      "start": 388.6,
+      "end": 395.6,
+      "text": "Then Meghya, when that monk is established in those five conditions, four more must be made to become by him,"
+    },
+    {
+      "start": 395.6,
+      "end": 404.6,
+      "text": "reflection on unattractiveness, to put away passion, on meta or good will, to put away ill will,"
+    },
+    {
+      "start": 404.6,
+      "end": 414.6,
+      "text": "mindfulness in healing acts and exhaling to cut off destruction, and the thought of impermanence to uproot the conceit I am."
+    },
+    {
+      "start": 414.6,
+      "end": 420.6,
+      "text": "For a monk, Meghya, who thinks on impermanence, the thought of not self endures,"
+    },
+    {
+      "start": 420.6,
+      "end": 428.6,
+      "text": "thinking on there being no self, he wins to the state wherein the conceit I am has been uprooted to the cruel,"
+    },
+    {
+      "start": 428.6,
+      "end": 432.6,
+      "text": "even in this life. That's the end of the sutta."
+    },
+    {
+      "start": 432.6,
+      "end": 439.6,
+      "text": "So this is quite an interesting sutta. We find that this monk, he wanted to go off."
+    },
+    {
+      "start": 439.6,
+      "end": 444.6,
+      "text": "He was supposed to be the attendant of the Buddha. That's why he was staying there alone with the Buddha,"
+    },
+    {
+      "start": 444.6,
+      "end": 450.6,
+      "text": "and he wanted to take off and go and practice meditation in the mango grove."
+    },
+    {
+      "start": 450.6,
+      "end": 454.6,
+      "text": "But the Buddha advised him not to go, saying that they were alone."
+    },
+    {
+      "start": 454.6,
+      "end": 461.6,
+      "text": "But he insisted on going, and after pleading with the Buddha three times, the Buddha allowed him to go."
+    },
+    {
+      "start": 461.6,
+      "end": 466.6,
+      "text": "And as the Buddha expected, he went there and he couldn't meditate."
+    },
+    {
+      "start": 466.6,
+      "end": 475.6,
+      "text": "He was disturbed by sensual thoughts, thoughts of ill will or anger, and cruel thoughts."
+    },
+    {
+      "start": 475.6,
+      "end": 482.6,
+      "text": "And because he couldn't meditate with all these thoughts in his mind, he came back to the Buddha."
+    },
+    {
+      "start": 482.6,
+      "end": 490.6,
+      "text": "And generally, it is not advisable for a new monk to go and stay alone."
+    },
+    {
+      "start": 490.6,
+      "end": 493.6,
+      "text": "You can see from here why."
+    },
+    {
+      "start": 493.6,
+      "end": 502.6,
+      "text": "And in the Vinaya, the Buddha instructed that new monks should stay at least five years with their preceptor or teacher,"
+    },
+    {
+      "start": 502.6,
+      "end": 509.6,
+      "text": "who teaches them the dhamma, the Vinaya, how to serve the senior monk,"
+    },
+    {
+      "start": 509.6,
+      "end": 513.6,
+      "text": "practicing obedience, humility, etc."
+    },
+    {
+      "start": 513.6,
+      "end": 519.6,
+      "text": "In all these parts of the training, there's a lot of things a new monk can learn from a senior monk."
+    },
+    {
+      "start": 519.6,
+      "end": 528.6,
+      "text": "And when he has all the foundation laid, then it is good for a monk to go off and live alone."
+    },
+    {
+      "start": 528.6,
+      "end": 534.6,
+      "text": "Very few monks can go off and live alone from the start."
+    },
+    {
+      "start": 535.6,
+      "end": 546.6,
+      "text": "And the Buddha gave him this advice that five things are necessary for an unripe mind to ripen."
+    },
+    {
+      "start": 546.6,
+      "end": 550.6,
+      "text": "The first one, he should have a good friend, a Kalyanamitta."
+    },
+    {
+      "start": 550.6,
+      "end": 554.6,
+      "text": "This good friend, Kalyanamitta, represents a senior monk."
+    },
+    {
+      "start": 554.6,
+      "end": 562.6,
+      "text": "A senior monk, a teacher, is called a good friend in the dhamma, in the suttas."
+    },
+    {
+      "start": 563.6,
+      "end": 568.6,
+      "text": "A good friend who can guide a new monk along the spiritual path."
+    },
+    {
+      "start": 568.6,
+      "end": 575.6,
+      "text": "The second quality, he should practice the precepts, be restrained by the patimokha."
+    },
+    {
+      "start": 575.6,
+      "end": 585.6,
+      "text": "The patimokha are the 227 precepts of the monk and other Vinaya rules also."
+    },
+    {
+      "start": 585.6,
+      "end": 591.6,
+      "text": "And the third thing, beneficial talk."
+    },
+    {
+      "start": 591.6,
+      "end": 603.6,
+      "text": "Beneficial talk in the suttas refers to talk about having few ones, being contented on seclusion, on aloofness."
+    },
+    {
+      "start": 603.6,
+      "end": 613.6,
+      "text": "The difference between seclusion and aloofness, seclusion means staying in a place which is secluded from lay people,"
+    },
+    {
+      "start": 613.6,
+      "end": 617.6,
+      "text": "generally, for example, in the forest or in the forest monastery."
+    },
+    {
+      "start": 617.6,
+      "end": 624.6,
+      "text": "Whereas aloofness is even staying in a monastery, you try to be aloof from other people,"
+    },
+    {
+      "start": 624.6,
+      "end": 629.6,
+      "text": "not to talk with other persons unless it is necessary."
+    },
+    {
+      "start": 629.6,
+      "end": 631.6,
+      "text": "That's the difference."
+    },
+    {
+      "start": 631.6,
+      "end": 636.6,
+      "text": "Then strenuous endeavor, making effort to strive."
+    },
+    {
+      "start": 636.6,
+      "end": 646.6,
+      "text": "Then virtue, concentration, wisdom, emancipation or liberation, and knowledge and vision of liberation."
+    },
+    {
+      "start": 646.6,
+      "end": 651.6,
+      "text": "These are the things that are beneficial, considered beneficial talk."
+    },
+    {
+      "start": 651.6,
+      "end": 660.6,
+      "text": "Before, a monk should dwell strenuous in purpose, that means he strives hard to get rid of unwholesome states"
+    },
+    {
+      "start": 660.6,
+      "end": 663.6,
+      "text": "and to cultivate wholesome states of mind."
+    },
+    {
+      "start": 663.6,
+      "end": 671.6,
+      "text": "That's why a person on the spiritual path should be looking into the mind more than outside the mind."
+    },
+    {
+      "start": 671.6,
+      "end": 681.6,
+      "text": "When we look into the mind, that is the source of all our problems, all our ego, the mental suffering is all in the mind."
+    },
+    {
+      "start": 681.6,
+      "end": 690.6,
+      "text": "And then the fifth quality that is necessary for ripening of the unripe mind is wisdom."
+    },
+    {
+      "start": 690.6,
+      "end": 704.26,
+      "text": "Wisdom generally, we have to listen to the Buddha's words for a start, and then after that we meditate, then we get wisdom."
+    },
+    {
+      "start": 704.26,
+      "end": 713.26,
+      "text": "Then after that the Buddha said, to obtain the last four conditions, virtue, beneficial talk, strenuous endeavor and wisdom,"
+    },
+    {
+      "start": 714.26,
+      "end": 724.26,
+      "text": "these four things may be expected of a monk who has a good friend, a good companion, a Kalyanamitta."
+    },
+    {
+      "start": 724.26,
+      "end": 732.26,
+      "text": "That means if a new monk dwells with a Kalyanamitta, a senior monk, a good teacher,"
+    },
+    {
+      "start": 732.26,
+      "end": 739.26,
+      "text": "then that teacher monk will teach him to acquire these other four qualities,"
+    },
+    {
+      "start": 739.26,
+      "end": 746.26,
+      "text": "virtue, beneficial talk, or give him beneficial talk, and then strenuous endeavor and wisdom."
+    },
+    {
+      "start": 746.26,
+      "end": 760.26,
+      "text": "And the Buddha said, four other things must be cultivated by a monk, reflection, contemplation of the unattractiveness,"
+    },
+    {
+      "start": 760.26,
+      "end": 767.26,
+      "text": "that is the asubha, the unattractiveness of the body, to put away passion."
+    },
+    {
+      "start": 767.26,
+      "end": 775.93,
+      "text": "Unattractiveness of the body refers to the cultivation of the 32 parts of the body."
+    },
+    {
+      "start": 775.93,
+      "end": 783.93,
+      "text": "And then the second one, metta, to practice metta, to put away anger or ill will."
+    },
+    {
+      "start": 783.93,
+      "end": 788.93,
+      "text": "Metta is a loving kindness or good will towards others."
+    },
+    {
+      "start": 788.93,
+      "end": 795.93,
+      "text": "And the third one is anapanasati, mindfulness of breathing to cut off distraction."
+    },
+    {
+      "start": 795.93,
+      "end": 800.93,
+      "text": "This is to stop our thinking because every day we are filled with a lot of thoughts"
+    },
+    {
+      "start": 800.93,
+      "end": 808.93,
+      "text": "and every time we have thoughts, the ego manifests and the Buddha encourages us not to think."
+    },
+    {
+      "start": 808.93,
+      "end": 814.93,
+      "text": "So we practice anapanasati to cut off the thinking."
+    },
+    {
+      "start": 814.93,
+      "end": 821.93,
+      "text": "And the last contemplation is the contemplation of impermanence, to uproot the conceit I am."
+    },
+    {
+      "start": 821.93,
+      "end": 827.93,
+      "text": "This one is very important, especially the contemplation of the different types of corpses."
+    },
+    {
+      "start": 827.93,
+      "end": 836.93,
+      "text": "We contemplate that one day our, this body will die and then after about three days"
+    },
+    {
+      "start": 836.93,
+      "end": 843.93,
+      "text": "you will become a corpse which is bloated, blue-black, smelly."
+    },
+    {
+      "start": 843.93,
+      "end": 850.93,
+      "text": "And the liquids start coming out from the openings."
+    },
+    {
+      "start": 850.93,
+      "end": 857.93,
+      "text": "Suppose we have nine openings in the body and all this smelly liquid will start oozing out."
+    },
+    {
+      "start": 857.93,
+      "end": 864.93,
+      "text": "And then later, after the body swells up, you will burst, you will open up"
+    },
+    {
+      "start": 864.93,
+      "end": 869.93,
+      "text": "and then you will be eaten by all the worms and all the maggots."
+    },
+    {
+      "start": 869.93,
+      "end": 875.93,
+      "text": "If we contemplate a dead dog on the roadside, how in different stages of decay,"
+    },
+    {
+      "start": 875.93,
+      "end": 879.93,
+      "text": "one day our body will also be like that."
+    },
+    {
+      "start": 879.93,
+      "end": 888.93,
+      "text": "And then we keep on contemplating like this to uproot the conceit that I, that I am, that I exist."
+    },
+    {
+      "start": 888.93,
+      "end": 891.93,
+      "text": "So these are all very practical advice by the Buddha."
+    },
+    {
+      "start": 891.93,
+      "end": 899.93,
+      "text": "The first one, to recapitulate the five conditions are important for the maturing of a monk."
+    },
+    {
+      "start": 899.93,
+      "end": 903.93,
+      "text": "The first one, he has to dwell with a good friend, a good companion."
+    },
+    {
+      "start": 903.93,
+      "end": 908.93,
+      "text": "As mentioned in the Asa-mada Sutta, if we dwell with a teacher,"
+    },
+    {
+      "start": 908.93,
+      "end": 916.93,
+      "text": "then we learn to respect and to love that teacher, to be obedient to that teacher."
+    },
+    {
+      "start": 916.93,
+      "end": 922.93,
+      "text": "And the second condition is virtue. The third one is beneficial talk."
+    },
+    {
+      "start": 922.93,
+      "end": 928.93,
+      "text": "If you dwell with a good monk, you can obtain beneficial talk."
+    },
+    {
+      "start": 928.93,
+      "end": 934.93,
+      "text": "Number four is you have to strive. Number five, wisdom. These are the five factors."
+    },
+    {
+      "start": 934.93,
+      "end": 940.93,
+      "text": "And then after that, four other contemplations are very useful."
+    },
+    {
+      "start": 940.93,
+      "end": 945.93,
+      "text": "The contemplation of unattractiveness of the body to put away passion."
+    },
+    {
+      "start": 945.93,
+      "end": 953.93,
+      "text": "Contemplation of Mehta, practice of Mehta, good will or loving kindness to put away anger or ill will."
+    },
+    {
+      "start": 953.93,
+      "end": 962.93,
+      "text": "Then Anapanasati, mindfulness of breathing, to cut off distraction, impermanence, to uproot the conceit I am."
+    },
+    {
+      "start": 962.93,
+      "end": 968.53,
+      "text": "The next Sutta is also quite a good Sutta, important one."
+    },
+    {
+      "start": 968.53,
+      "end": 976.53,
+      "text": "Number nine, point one, point four. Once when the exalted one was staying near Savati at Jeta Grove in Anathapindika Spa,"
+    },
+    {
+      "start": 976.53,
+      "end": 983.53,
+      "text": "the venerable Nandaka gave Dhamma discourse to the monks in the service hall,"
+    },
+    {
+      "start": 983.53,
+      "end": 987.53,
+      "text": "taught them, roused them, incited them and gladdened them."
+    },
+    {
+      "start": 987.53,
+      "end": 995.53,
+      "text": "Let me stop here for a moment. The venerable Nandaka was supposed to be the chief among the monks"
+    },
+    {
+      "start": 995.53,
+      "end": 1002.53,
+      "text": "who taught the other monks. He was very good in teaching other monks."
+    },
+    {
+      "start": 1002.53,
+      "end": 1007.53,
+      "text": "He was in Arahant and the Sutta continues."
+    },
+    {
+      "start": 1007.53,
+      "end": 1013.53,
+      "text": "Now in the evening, the exalted one rose from seclusion and approached the service hall."
+    },
+    {
+      "start": 1013.53,
+      "end": 1018.53,
+      "text": "Having come, he stood outside the door waiting for the discourse to end."
+    },
+    {
+      "start": 1018.53,
+      "end": 1023.53,
+      "text": "And when he knew that the discourse was ended, he coughed and tapped on the boat."
+    },
+    {
+      "start": 1023.53,
+      "end": 1030.53,
+      "text": "Then those monks opened the door to the exalted one and he entered the hall and sat down on the appointed seat."
+    },
+    {
+      "start": 1030.53,
+      "end": 1035.53,
+      "text": "When he had seated himself, the exalted one spoke thus to the venerable Nandaka."
+    },
+    {
+      "start": 1035.53,
+      "end": 1041.53,
+      "text": "Surely Nandaka, this Dhamma discourse which you preached to the monks was a long one."
+    },
+    {
+      "start": 1041.53,
+      "end": 1047.53,
+      "text": "My back ached as I stood outside the doorway waiting for the discourse to end."
+    },
+    {
+      "start": 1047.53,
+      "end": 1052.53,
+      "text": "When he had thus spoken, the venerable Nandaka, being embarrassed, said to him,"
+    },
+    {
+      "start": 1052.53,
+      "end": 1057.53,
+      "text": "Ne Lord, we knew not that the exalted one stood outside the door."
+    },
+    {
+      "start": 1057.53,
+      "end": 1061.53,
+      "text": "Had we known Lord, we would not have said so much."
+    },
+    {
+      "start": 1061.53,
+      "end": 1065.53,
+      "text": "Now the exalted one knew that the venerable Nandaka was embarrassed."
+    },
+    {
+      "start": 1065.53,
+      "end": 1068.53,
+      "text": "So he said to him, Well done, well done Nandaka."
+    },
+    {
+      "start": 1068.53,
+      "end": 1075.53,
+      "text": "This is right for you, Glencemen, who by faith have gone forth from the home to the homeless life"
+    },
+    {
+      "start": 1075.53,
+      "end": 1080.53,
+      "text": "when you may be seated around for Dhamma discourse."
+    },
+    {
+      "start": 1080.53,
+      "end": 1084.53,
+      "text": "For you assembled Nandaka, there are two courses."
+    },
+    {
+      "start": 1084.53,
+      "end": 1089.53,
+      "text": "Either discourse on Dhamma or maintain the Aryan silence."
+    },
+    {
+      "start": 1089.53,
+      "end": 1092.53,
+      "text": "Let's stop here for a moment."
+    },
+    {
+      "start": 1092.53,
+      "end": 1099.53,
+      "text": "So just now we saw the Buddha stood outside the door waiting for Nandaka to finish speaking."
+    },
+    {
+      "start": 1099.53,
+      "end": 1104.53,
+      "text": "And this shows the Buddha's humility."
+    },
+    {
+      "start": 1105.53,
+      "end": 1110.53,
+      "text": "Now the sutra continues."
+    },
+    {
+      "start": 1110.53,
+      "end": 1115.53,
+      "text": "Among Nandaka has faith but is not virtuous."
+    },
+    {
+      "start": 1115.53,
+      "end": 1118.53,
+      "text": "So in that part he is not perfect."
+    },
+    {
+      "start": 1118.53,
+      "end": 1121.53,
+      "text": "Therefore that part must be perfected."
+    },
+    {
+      "start": 1121.53,
+      "end": 1126.53,
+      "text": "Let him think, Would that I might have both faith and virtue?"
+    },
+    {
+      "start": 1126.53,
+      "end": 1132.53,
+      "text": "And when Nandaka, the monk has both faith and virtue, then is he in that part perfect?"
+    },
+    {
+      "start": 1132.53,
+      "end": 1138.53,
+      "text": "Among Nandaka has faith and virtue but cannot obtain calm of mind within."
+    },
+    {
+      "start": 1138.53,
+      "end": 1141.53,
+      "text": "So in that part he is not perfect."
+    },
+    {
+      "start": 1141.53,
+      "end": 1144.53,
+      "text": "Therefore that part must be perfected."
+    },
+    {
+      "start": 1144.53,
+      "end": 1151.53,
+      "text": "Let him think, Would that I might have faith and virtue and obtain calm of mind within?"
+    },
+    {
+      "start": 1151.53,
+      "end": 1158.53,
+      "text": "And when Nandaka, the monk has faith and virtue and can obtain calm of mind within,"
+    },
+    {
+      "start": 1158.53,
+      "end": 1161.53,
+      "text": "then is he in that part perfect?"
+    },
+    {
+      "start": 1161.53,
+      "end": 1166.53,
+      "text": "So Nandaka has faith and virtue and can obtain calm of mind within"
+    },
+    {
+      "start": 1166.53,
+      "end": 1171.53,
+      "text": "but cannot obtain the higher wisdom by contemplation of Dhamma."
+    },
+    {
+      "start": 1171.53,
+      "end": 1174.53,
+      "text": "So in that part he is not perfect."
+    },
+    {
+      "start": 1174.53,
+      "end": 1180.53,
+      "text": "Just as some four-footed creature may have one foot short and stunted"
+    },
+    {
+      "start": 1180.53,
+      "end": 1182.53,
+      "text": "and so not be perfect in that limb."
+    },
+    {
+      "start": 1182.53,
+      "end": 1189.53,
+      "text": "Even so Nandaka, among has faith and virtue and can obtain calm of mind within"
+    },
+    {
+      "start": 1189.53,
+      "end": 1193.53,
+      "text": "cannot obtain the higher wisdom by contemplation of Dhamma."
+    },
+    {
+      "start": 1193.53,
+      "end": 1196.53,
+      "text": "So in that part he is not perfect."
+    },
+    {
+      "start": 1196.53,
+      "end": 1199.53,
+      "text": "Therefore that part must be perfected."
+    },
+    {
+      "start": 1199.53,
+      "end": 1207.97,
+      "text": "Let him think, Would that I might have faith and virtue and obtain calm of mind within"
+    },
+    {
+      "start": 1207.97,
+      "end": 1211.97,
+      "text": "and obtain the higher wisdom by contemplation of Dhamma?"
+    },
+    {
+      "start": 1211.97,
+      "end": 1217.97,
+      "text": "And when Nandaka, the monk has faith and virtue and can obtain calm of mind within"
+    },
+    {
+      "start": 1217.97,
+      "end": 1223.97,
+      "text": "and the higher wisdom by contemplation of Dhamma, then in that part he is perfect."
+    },
+    {
+      "start": 1223.97,
+      "end": 1225.97,
+      "text": "Thus spoke the exalted one."
+    },
+    {
+      "start": 1225.97,
+      "end": 1231.97,
+      "text": "And when the exalted one had finished speaking, he rose from his seat and entered his abode."
+    },
+    {
+      "start": 1231.97,
+      "end": 1237.97,
+      "text": "Now not long after the exalted one had gone, the venerable Nandaka addressed the monk saying,"
+    },
+    {
+      "start": 1238.97,
+      "end": 1247.97,
+      "text": "The exalted one has just set forth the holy life which is perfect and pure in its entirety in four steps."
+    },
+    {
+      "start": 1247.97,
+      "end": 1250.97,
+      "text": "And now he has got up and gone to his abode."
+    },
+    {
+      "start": 1250.97,
+      "end": 1253.97,
+      "text": "I just stop here to comment."
+    },
+    {
+      "start": 1253.97,
+      "end": 1260.97,
+      "text": "So here the Buddha is teaching that the four steps in perfecting the holy life."
+    },
+    {
+      "start": 1260.97,
+      "end": 1271.41,
+      "text": "The first one, faith, sada refers to unshakable faith in the Buddha, Dhamma and Sangha."
+    },
+    {
+      "start": 1271.41,
+      "end": 1278.69,
+      "text": "And when you obtain unshakable faith, it means you have right view."
+    },
+    {
+      "start": 1278.69,
+      "end": 1285.69,
+      "text": "And in the Majima Nikhaya number 43, there are two conditions to give us right view."
+    },
+    {
+      "start": 1285.69,
+      "end": 1288.69,
+      "text": "One is listening to the Dhamma."
+    },
+    {
+      "start": 1288.69,
+      "end": 1291.69,
+      "text": "The other one is having proper attention."
+    },
+    {
+      "start": 1291.69,
+      "end": 1299.69,
+      "text": "So these two things, if we listen to the Dhamma, that means the suttas, and we pay attention,"
+    },
+    {
+      "start": 1299.69,
+      "end": 1308.69,
+      "text": "then when we have listened to enough of the Dhamma and of the suttas, then we have right view."
+    },
+    {
+      "start": 1308.69,
+      "end": 1312.69,
+      "text": "And when we have right view, then we have unshakable faith."
+    },
+    {
+      "start": 1312.69,
+      "end": 1319.69,
+      "text": "The second one, virtue, that means the monk must keep the precepts, cultivate the precepts."
+    },
+    {
+      "start": 1319.69,
+      "end": 1323.69,
+      "text": "And the third quality is calm of mind within."
+    },
+    {
+      "start": 1323.69,
+      "end": 1334.97,
+      "text": "And this most probably refers to the Jhanas because Samadhi in the suttas always refer to the Jhanas."
+    },
+    {
+      "start": 1334.97,
+      "end": 1338.97,
+      "text": "Perfect Samadhi is the one-pointedness of mind."
+    },
+    {
+      "start": 1338.97,
+      "end": 1348.97,
+      "text": "And the fourth quality is contemplation, the higher wisdom by contemplation of Dhamma."
+    },
+    {
+      "start": 1349.97,
+      "end": 1360.97,
+      "text": "So we obtain calm and then we practice contemplation of the Dhamma to obtain wisdom."
+    },
+    {
+      "start": 1360.97,
+      "end": 1363.97,
+      "text": "So these are the four qualities."
+    },
+    {
+      "start": 1363.97,
+      "end": 1365.97,
+      "text": "And the suttaka continues,"
+    },
+    {
+      "start": 1365.97,
+      "end": 1371.97,
+      "text": "And the Venerable Nandaka told the monks all that the exalted one had said, continuing,"
+    },
+    {
+      "start": 1371.97,
+      "end": 1378.97,
+      "text": "Now there are references, these five advantages from listening to Dhamma at the proper time,"
+    },
+    {
+      "start": 1378.97,
+      "end": 1381.97,
+      "text": "and from discussing Dhamma at the proper time."
+    },
+    {
+      "start": 1381.97,
+      "end": 1382.97,
+      "text": "What five?"
+    },
+    {
+      "start": 1382.97,
+      "end": 1387.97,
+      "text": "Take the case, references, of a monk who teaches the monks Dhamma,"
+    },
+    {
+      "start": 1387.97,
+      "end": 1391.97,
+      "text": "lovely in the beginning, lovely in the middle, and lovely in the end,"
+    },
+    {
+      "start": 1391.97,
+      "end": 1398.97,
+      "text": "setting forth both in spirit and in letter the holy life, perfect and pure in its entirety."
+    },
+    {
+      "start": 1398.97,
+      "end": 1405.97,
+      "text": "Just so often is the teacher dear to him, loved, esteemed and reverenced by him."
+    },
+    {
+      "start": 1405.97,
+      "end": 1410.97,
+      "text": "This, sirs, is the first advantage from listening to Dhamma at the proper time,"
+    },
+    {
+      "start": 1410.97,
+      "end": 1413.97,
+      "text": "and from discussing Dhamma at the proper time."
+    },
+    {
+      "start": 1413.97,
+      "end": 1418.97,
+      "text": "This is the first advantage from listening to Dhamma at the proper time,"
+    },
+    {
+      "start": 1418.97,
+      "end": 1422.97,
+      "text": "and from listening to Dhamma at the proper time."
+    },
+    {
+      "start": 1422.97,
+      "end": 1426.97,
+      "text": "This is the second advantage from listening to Dhamma at the proper time,"
+    },
+    {
+      "start": 1426.97,
+      "end": 1429.97,
+      "text": "and from discussing Dhamma at the proper time."
+    },
+    {
+      "start": 1429.97,
+      "end": 1432.97,
+      "text": "Again, as often as he teaches Dhamma,"
+    },
+    {
+      "start": 1432.97,
+      "end": 1434.97,
+      "text": "setting forth the holy life,"
+    },
+    {
+      "start": 1434.97,
+      "end": 1437.97,
+      "text": "so often is he a pateka of the word,"
+    },
+    {
+      "start": 1437.97,
+      "end": 1439.97,
+      "text": "and in the meaning of his Dhamma."
+    },
+    {
+      "start": 1439.97,
+      "end": 1442.97,
+      "text": "These references is the second advantage."
+    },
+    {
+      "start": 1442.97,
+      "end": 1445.97,
+      "text": "Again, as often as he teaches Dhamma,"
+    },
+    {
+      "start": 1445.97,
+      "end": 1448.97,
+      "text": "so often does he see in that Dhamma,"
+    },
+    {
+      "start": 1448.97,
+      "end": 1452.97,
+      "text": "as he penetrates it by wisdom, its profound import."
+    },
+    {
+      "start": 1452.97,
+      "end": 1455.97,
+      "text": "These references is the third advantage."
+    },
+    {
+      "start": 1455.97,
+      "end": 1458.97,
+      "text": "Again, as often as he teaches Dhamma,"
+    },
+    {
+      "start": 1458.97,
+      "end": 1461.97,
+      "text": "so often do his fellows in the holy life,"
+    },
+    {
+      "start": 1461.97,
+      "end": 1463.97,
+      "text": "who hear him the more,"
+    },
+    {
+      "start": 1463.97,
+      "end": 1468.97,
+      "text": "saying, of a truth, this reverence has attained, or will attain."
+    },
+    {
+      "start": 1468.97,
+      "end": 1471.97,
+      "text": "These references is the fourth advantage."
+    },
+    {
+      "start": 1471.97,
+      "end": 1476.97,
+      "text": "Then, references, in the case of a monk who teaches the monks Dhamma,"
+    },
+    {
+      "start": 1476.97,
+      "end": 1480.97,
+      "text": "lovely in the beginning, lovely in the middle, and lovely in the end,"
+    },
+    {
+      "start": 1480.97,
+      "end": 1484.97,
+      "text": "setting forth both in spirit and in letter the holy life,"
+    },
+    {
+      "start": 1484.97,
+      "end": 1486.97,
+      "text": "perfect and pure in its entirety."
+    },
+    {
+      "start": 1486.97,
+      "end": 1488.97,
+      "text": "As soon as the monk teaches Dhamma,"
+    },
+    {
+      "start": 1488.97,
+      "end": 1490.97,
+      "text": "and sets forth the holy life,"
+    },
+    {
+      "start": 1490.97,
+      "end": 1493.97,
+      "text": "everywhere those monks who are but learners,"
+    },
+    {
+      "start": 1493.97,
+      "end": 1496.97,
+      "text": "who have not attained mastery of the mind,"
+    },
+    {
+      "start": 1496.97,
+      "end": 1500.97,
+      "text": "abide resolved on the unsurpassed peace from effort,"
+    },
+    {
+      "start": 1500.97,
+      "end": 1502.97,
+      "text": "and having heard that Dhamma,"
+    },
+    {
+      "start": 1502.97,
+      "end": 1505.97,
+      "text": "strived with zeal to attain the unattain,"
+    },
+    {
+      "start": 1505.97,
+      "end": 1509.97,
+      "text": "to master the unmastered, to realize the unrealized,"
+    },
+    {
+      "start": 1509.97,
+      "end": 1511.97,
+      "text": "and the Arahant monks there,"
+    },
+    {
+      "start": 1511.97,
+      "end": 1513.97,
+      "text": "who have destroyed the asavas,"
+    },
+    {
+      "start": 1513.97,
+      "end": 1516.97,
+      "text": "lived the holy life, done what was to be done,"
+    },
+    {
+      "start": 1516.97,
+      "end": 1519.97,
+      "text": "laid down the burden, attained perfection,"
+    },
+    {
+      "start": 1519.97,
+      "end": 1521.97,
+      "text": "burst the bonds of becoming,"
+    },
+    {
+      "start": 1521.97,
+      "end": 1523.97,
+      "text": "and are freed through perfect knowledge,"
+    },
+    {
+      "start": 1523.97,
+      "end": 1528.97,
+      "text": "on hearing Dhamma well, comfortably, here and now."
+    },
+    {
+      "start": 1528.97,
+      "end": 1530.97,
+      "text": "These references is the fifth advantage"
+    },
+    {
+      "start": 1530.97,
+      "end": 1533.97,
+      "text": "from listening to Dhamma at the proper time,"
+    },
+    {
+      "start": 1533.97,
+      "end": 1536.97,
+      "text": "and from discussing Dhamma at the proper time."
+    },
+    {
+      "start": 1536.97,
+      "end": 1539.97,
+      "text": "Revences, these are the five advantages"
+    },
+    {
+      "start": 1539.97,
+      "end": 1541.97,
+      "text": "from listening to Dhamma at the proper time,"
+    },
+    {
+      "start": 1541.97,
+      "end": 1544.97,
+      "text": "and from discussing Dhamma at the proper time,"
+    },
+    {
+      "start": 1544.97,
+      "end": 1546.97,
+      "text": "at the end of the Sutta."
+    },
+    {
+      "start": 1546.97,
+      "end": 1549.97,
+      "text": "Here, the last part, even though it says,"
+    },
+    {
+      "start": 1549.97,
+      "end": 1551.97,
+      "text": "listening to Dhamma and discussing Dhamma,"
+    },
+    {
+      "start": 1551.97,
+      "end": 1555.97,
+      "text": "actually these are the advantages of teaching Dhamma,"
+    },
+    {
+      "start": 1555.97,
+      "end": 1558.97,
+      "text": "the advantages of a monk teaching Dhamma."
+    },
+    {
+      "start": 1558.97,
+      "end": 1562.97,
+      "text": "The first one, as often as a monk teaches Dhamma,"
+    },
+    {
+      "start": 1562.97,
+      "end": 1565.97,
+      "text": "so often is the Buddha dear to him,"
+    },
+    {
+      "start": 1565.97,
+      "end": 1569.97,
+      "text": "loved, esteemed, and revered by him."
+    },
+    {
+      "start": 1569.97,
+      "end": 1571.97,
+      "text": "This is the first advantage."
+    },
+    {
+      "start": 1571.97,
+      "end": 1574.97,
+      "text": "The second one, as often as he teaches Dhamma,"
+    },
+    {
+      "start": 1574.97,
+      "end": 1577.97,
+      "text": "so often is he a patheka of the word"
+    },
+    {
+      "start": 1577.97,
+      "end": 1583.21,
+      "text": "and in the meaning of this Dhamma."
+    },
+    {
+      "start": 1583.21,
+      "end": 1586.21,
+      "text": "Number three, as often as he teaches Dhamma,"
+    },
+    {
+      "start": 1586.21,
+      "end": 1589.21,
+      "text": "so often does he see in that Dhamma"
+    },
+    {
+      "start": 1589.21,
+      "end": 1594.21,
+      "text": "its profound importance."
+    },
+    {
+      "start": 1594.21,
+      "end": 1596.21,
+      "text": "He sees the importance of the Dhamma,"
+    },
+    {
+      "start": 1596.21,
+      "end": 1599.21,
+      "text": "he realises the importance of the Dhamma as he teaches."
+    },
+    {
+      "start": 1599.21,
+      "end": 1602.21,
+      "text": "Number four, as often as he teaches Dhamma,"
+    },
+    {
+      "start": 1602.21,
+      "end": 1606.21,
+      "text": "so often do his fellows in the holy life"
+    },
+    {
+      "start": 1606.21,
+      "end": 1608.21,
+      "text": "revere him the more."
+    },
+    {
+      "start": 1608.21,
+      "end": 1614.21,
+      "text": "Then number five, as he teaches Dhamma to the monks,"
+    },
+    {
+      "start": 1614.21,
+      "end": 1619.21,
+      "text": "then the monks who have not attained Rahan Hood,"
+    },
+    {
+      "start": 1619.21,
+      "end": 1623.21,
+      "text": "then they strive to attain even harder,"
+    },
+    {
+      "start": 1623.21,
+      "end": 1626.21,
+      "text": "having heard the word of the Buddha."
+    },
+    {
+      "start": 1626.21,
+      "end": 1630.21,
+      "text": "And even the Rahan find comfort in the words"
+    },
+    {
+      "start": 1630.21,
+      "end": 1632.21,
+      "text": "of the Buddha here and now."
+    },
+    {
+      "start": 1632.21,
+      "end": 1635.21,
+      "text": "So these are the advantages of teaching Dhamma."
+    },
+    {
+      "start": 1635.21,
+      "end": 1640.32,
+      "text": "Next slide is 9.1.5."
+    },
+    {
+      "start": 1640.32,
+      "end": 1643.32,
+      "text": "Monks, there are these four powers,"
+    },
+    {
+      "start": 1643.32,
+      "end": 1644.32,
+      "text": "what for?"
+    },
+    {
+      "start": 1644.32,
+      "end": 1647.32,
+      "text": "The power of wisdom, of energy, of fullness,"
+    },
+    {
+      "start": 1647.32,
+      "end": 1649.32,
+      "text": "and of sympathy."
+    },
+    {
+      "start": 1649.32,
+      "end": 1651.32,
+      "text": "And what monks is the power of wisdom?"
+    },
+    {
+      "start": 1651.32,
+      "end": 1656.32,
+      "text": "Such conditions as are bad, are reconciled."
+    },
+    {
+      "start": 1656.32,
+      "end": 1659.32,
+      "text": "Such as are good, are reconciled."
+    },
+    {
+      "start": 1659.32,
+      "end": 1661.32,
+      "text": "Such as are blameworthy, are reconciled."
+    },
+    {
+      "start": 1661.32,
+      "end": 1664.32,
+      "text": "Such as are faultless, are reconciled."
+    },
+    {
+      "start": 1664.32,
+      "end": 1666.32,
+      "text": "Such as are dark, are reconciled."
+    },
+    {
+      "start": 1666.32,
+      "end": 1668.32,
+      "text": "Such as are bright, are reconciled."
+    },
+    {
+      "start": 1668.32,
+      "end": 1671.32,
+      "text": "Such as are not to be sought after, are reconciled."
+    },
+    {
+      "start": 1671.32,
+      "end": 1674.32,
+      "text": "Such as are to be sought after, are reconciled."
+    },
+    {
+      "start": 1674.32,
+      "end": 1678.32,
+      "text": "Such as are not truly Aryan, are reconciled."
+    },
+    {
+      "start": 1678.32,
+      "end": 1681.62,
+      "text": "such as are truly Aryan are reconciled."
+    },
+    {
+      "start": 1681.62,
+      "end": 1686.02,
+      "text": "All these things are clearly seen and by wisdom well examined."
+    },
+    {
+      "start": 1686.02,
+      "end": 1689.22,
+      "text": "This monk is called the power of wisdom."
+    },
+    {
+      "start": 1689.22,
+      "end": 1692.61,
+      "text": "I just stopped here to comment."
+    },
+    {
+      "start": 1692.61,
+      "end": 1698.21,
+      "text": "So the power of wisdom means a monk is able to differentiate things."
+    },
+    {
+      "start": 1698.21,
+      "end": 1699.81,
+      "text": "And the sutra continues."
+    },
+    {
+      "start": 1699.81,
+      "end": 1701.81,
+      "text": "What is the power of energy?"
+    },
+    {
+      "start": 1701.81,
+      "end": 1704.91,
+      "text": "Such conditions as are bad are reconciled,"
+    },
+    {
+      "start": 1704.91,
+      "end": 1707.21,
+      "text": "such as are blameworthy and dark,"
+    },
+    {
+      "start": 1707.21,
+      "end": 1712.21,
+      "text": "not to be sought after, not truly Aryan are reconciled."
+    },
+    {
+      "start": 1712.21,
+      "end": 1717.01,
+      "text": "To read himself of such, he puts forth his whole desire,"
+    },
+    {
+      "start": 1717.01,
+      "end": 1722.51,
+      "text": "exerts himself, makes trainers and devils, bends his mind and so resolves."
+    },
+    {
+      "start": 1722.51,
+      "end": 1724.81,
+      "text": "But such as are good are reconciled,"
+    },
+    {
+      "start": 1724.81,
+      "end": 1730.71,
+      "text": "are faultless, bright to be sought after are Aryan are reconciled."
+    },
+    {
+      "start": 1730.71,
+      "end": 1734.41,
+      "text": "To gain all those he puts forth his whole desire,"
+    },
+    {
+      "start": 1734.41,
+      "end": 1739.41,
+      "text": "exerts himself, makes trainers and devils, bends his mind and so resolves."
+    },
+    {
+      "start": 1739.41,
+      "end": 1742.21,
+      "text": "This monk is called the power of energy."
+    },
+    {
+      "start": 1742.21,
+      "end": 1743.91,
+      "text": "I just stopped here to comment."
+    },
+    {
+      "start": 1743.91,
+      "end": 1749.21,
+      "text": "This power of energy means unwholesome states."
+    },
+    {
+      "start": 1749.21,
+      "end": 1752.61,
+      "text": "He strives to get rid of unwholesome states."
+    },
+    {
+      "start": 1752.61,
+      "end": 1758.91,
+      "text": "And he strives hard to develop wholesome states of mind."
+    },
+    {
+      "start": 1758.91,
+      "end": 1760.11,
+      "text": "And the sutra continues."
+    },
+    {
+      "start": 1760.11,
+      "end": 1762.31,
+      "text": "What is the power of faultlessness?"
+    },
+    {
+      "start": 1762.31,
+      "end": 1766.71,
+      "text": "Here in monks, an Aryan disciple is faultless in act of body,"
+    },
+    {
+      "start": 1766.71,
+      "end": 1770.71,
+      "text": "is faultless in act of speech, is faultless in act of mind."
+    },
+    {
+      "start": 1770.71,
+      "end": 1774.31,
+      "text": "This monk is called the power of faultlessness."
+    },
+    {
+      "start": 1774.31,
+      "end": 1775.21,
+      "text": "Stop here again."
+    },
+    {
+      "start": 1775.21,
+      "end": 1780.11,
+      "text": "This means the three kamas of body, speech and mind are faultless."
+    },
+    {
+      "start": 1780.11,
+      "end": 1781.41,
+      "text": "And the sutra continues."
+    },
+    {
+      "start": 1781.41,
+      "end": 1783.41,
+      "text": "What is the power of sympathy?"
+    },
+    {
+      "start": 1783.41,
+      "end": 1785.61,
+      "text": "There are these four bases of sympathy."
+    },
+    {
+      "start": 1785.61,
+      "end": 1789.21,
+      "text": "It gives kindness and doing good and equal treatment."
+    },
+    {
+      "start": 1789.21,
+      "end": 1792.91,
+      "text": "Monks, this is the best gift, the gift of dhamma."
+    },
+    {
+      "start": 1792.91,
+      "end": 1797.51,
+      "text": "Monks, this is the best kindness, teaching dhamma again and again"
+    },
+    {
+      "start": 1797.51,
+      "end": 1800.21,
+      "text": "to the good and attentive listener."
+    },
+    {
+      "start": 1800.21,
+      "end": 1805.01,
+      "text": "Monks, this is the best of good deeds, inciting, instilling,"
+    },
+    {
+      "start": 1805.01,
+      "end": 1809.11,
+      "text": "establishing the ways of faith in an unbeliever,"
+    },
+    {
+      "start": 1809.11,
+      "end": 1814.31,
+      "text": "inciting, instilling, establishing the ways of virtue in the immoral,"
+    },
+    {
+      "start": 1814.31,
+      "end": 1818.61,
+      "text": "inciting, instilling, establishing the ways of generosity"
+    },
+    {
+      "start": 1818.61,
+      "end": 1823.61,
+      "text": "in the mean, inciting, instilling, establishing the ways of wisdom"
+    },
+    {
+      "start": 1823.61,
+      "end": 1825.41,
+      "text": "in the foolish."
+    },
+    {
+      "start": 1825.41,
+      "end": 1829.51,
+      "text": "Monks, this is the best equality that which exists between"
+    },
+    {
+      "start": 1829.51,
+      "end": 1832.61,
+      "text": "stream winner and stream winner, sota panna,"
+    },
+    {
+      "start": 1832.61,
+      "end": 1836.61,
+      "text": "between once-returner and once-returner, sakadagamin,"
+    },
+    {
+      "start": 1836.61,
+      "end": 1840.11,
+      "text": "between non-returner and non-returner, anagamin,"
+    },
+    {
+      "start": 1840.11,
+      "end": 1842.11,
+      "text": "between arahan and arahan."
+    },
+    {
+      "start": 1842.11,
+      "end": 1845.11,
+      "text": "These monks is called the power of sympathy."
+    },
+    {
+      "start": 1845.11,
+      "end": 1848.61,
+      "text": "These monks are the four powers."
+    },
+    {
+      "start": 1848.61,
+      "end": 1853.41,
+      "text": "Monks are in disciple who is endowed with these four powers,"
+    },
+    {
+      "start": 1853.41,
+      "end": 1855.81,
+      "text": "has passed by five fears."
+    },
+    {
+      "start": 1855.81,
+      "end": 1856.81,
+      "text": "What five?"
+    },
+    {
+      "start": 1856.81,
+      "end": 1861.11,
+      "text": "The fear of wrong livelihood, of ill-fame, of embarrassment"
+    },
+    {
+      "start": 1861.11,
+      "end": 1866.91,
+      "text": "in assemblies, of death, of a miserable afterlife."
+    },
+    {
+      "start": 1866.91,
+      "end": 1873.81,
+      "text": "So, I stop here for this sota."
+    },
+    {
+      "start": 1873.81,
+      "end": 1881.71,
+      "text": "Here, if a monk has, if a person has these four powers,"
+    },
+    {
+      "start": 1881.71,
+      "end": 1887.81,
+      "text": "then he does not fear that he has wrong livelihood."
+    },
+    {
+      "start": 1887.81,
+      "end": 1894.41,
+      "text": "He does not fear ill-fame, bad reputation."
+    },
+    {
+      "start": 1894.41,
+      "end": 1899.01,
+      "text": "He's not embarrassed in assembly of people."
+    },
+    {
+      "start": 1899.01,
+      "end": 1901.01,
+      "text": "He's not afraid of death."
+    },
+    {
+      "start": 1901.01,
+      "end": 1905.21,
+      "text": "And he's not afraid of a miserable rebirth."
+    },
+    {
+      "start": 1905.21,
+      "end": 1911.01,
+      "text": "So, these are four important powers."
+    },
+    {
+      "start": 1911.01,
+      "end": 1916.31,
+      "text": "The power of wisdom, of energy, of ordnance and of sympathy."
+    },
+    {
+      "start": 1916.31,
+      "end": 1921.61,
+      "text": "The last one, just now we discussed the power of sympathy."
+    },
+    {
+      "start": 1921.61,
+      "end": 1926.41,
+      "text": "The Buddha said that the best gift is the gift of dhamma."
+    },
+    {
+      "start": 1926.41,
+      "end": 1928.51,
+      "text": "This sometimes people don't realize."
+    },
+    {
+      "start": 1928.51,
+      "end": 1933.01,
+      "text": "If you are able to have the opportunity to read the suttas"
+    },
+    {
+      "start": 1933.01,
+      "end": 1939.01,
+      "text": "or to hear the suttas, then you should make use of that."
+    },
+    {
+      "start": 1939.01,
+      "end": 1943.01,
+      "text": "And the best kindness is teaching dhamma again and again"
+    },
+    {
+      "start": 1943.01,
+      "end": 1946.01,
+      "text": "to the good and attentive listener."
+    },
+    {
+      "start": 1946.01,
+      "end": 1952.51,
+      "text": "This also sometimes people don't realize that they are receiving kindness"
+    },
+    {
+      "start": 1952.51,
+      "end": 1957.01,
+      "text": "from getting this dhamma, preaching, dhamma teaching."
+    },
+    {
+      "start": 1957.01,
+      "end": 1963.51,
+      "text": "The best of deeds is inciting four qualities in a person."
+    },
+    {
+      "start": 1963.51,
+      "end": 1966.51,
+      "text": "The first one is faith in the triple gem."
+    },
+    {
+      "start": 1966.51,
+      "end": 1969.51,
+      "text": "The second one is generosity."
+    },
+    {
+      "start": 1969.51,
+      "end": 1976.01,
+      "text": "The third one is virtue."
+    },
+    {
+      "start": 1976.01,
+      "end": 1978.01,
+      "text": "The third one is generosity."
+    },
+    {
+      "start": 1978.01,
+      "end": 1980.01,
+      "text": "And the fourth one is wisdom."
+    },
+    {
+      "start": 1980.01,
+      "end": 1985.51,
+      "text": "These four qualities are very beneficial qualities."
+    },
+    {
+      "start": 1985.51,
+      "end": 1989.51,
+      "text": "Faith, virtue, generosity and wisdom."
+    }
+  ]
+}

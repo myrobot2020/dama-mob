@@ -1,0 +1,1650 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2351.438375,
+  "segments": [
+    {
+      "start": 0.85,
+      "end": 6.09,
+      "text": "The next sutra is 8.6.51. It's quite an interesting sutra."
+    },
+    {
+      "start": 6.97,
+      "end": 13.85,
+      "text": "Once while the exalted one was staying among the Sakyans in Banyan Tree Park at Kapila Vatu,"
+    },
+    {
+      "start": 14.25,
+      "end": 20.53,
+      "text": "Mahapajapati, the Gotamit, came and visited him and after saluting stood at one side."
+    },
+    {
+      "start": 21.29,
+      "end": 23.89,
+      "text": "Thus standing, she said to the exalted one,"
+    },
+    {
+      "start": 24.05,
+      "end": 30.33,
+      "text": "Lord, well worried that women should be allowed to go forth from the home to homeless life"
+    },
+    {
+      "start": 30.69,
+      "end": 37.81,
+      "text": "into the Dhamma Vinaya declared by the Tathagata and the Buddha said enough Gotamit,"
+    },
+    {
+      "start": 38.05,
+      "end": 45.05,
+      "text": "set not your heart upon the going forth of women from the home to the homeless life into the Dhamma Vinaya"
+    },
+    {
+      "start": 45.25,
+      "end": 47.25,
+      "text": "declared by the Tathagata."
+    },
+    {
+      "start": 48.13,
+      "end": 53.85,
+      "text": "But Mahapajapati besieged him a second time and a third time in life manner,"
+    },
+    {
+      "start": 54.01,
+      "end": 56.65,
+      "text": "but the exalted one replied as before."
+    },
+    {
+      "start": 57.29,
+      "end": 64.13,
+      "text": "Then Mahapajapati, the Gotamit, seeing that the exalted one would not permit women to go forth from the home,"
+    },
+    {
+      "start": 64.57,
+      "end": 71.61,
+      "text": "sad and sorrowful in tears and sobbing, saluted him and departed, keeping him on her right."
+    },
+    {
+      "start": 72.25,
+      "end": 74.25,
+      "text": "Just stop here to comment."
+    },
+    {
+      "start": 75.13,
+      "end": 81.64,
+      "text": "This Mahapajapati was actually the"
+    },
+    {
+      "start": 84.52,
+      "end": 89.08,
+      "text": "foster mother of our Buddha. When our Buddha was young,"
+    },
+    {
+      "start": 90.68,
+      "end": 97.64,
+      "text": "according to the legend, seven days after our Buddha was born, the real mother passed away and"
+    },
+    {
+      "start": 98.0,
+      "end": 106.56,
+      "text": "then the mother's sister is this Mahapajapati and Mahapajapati was also"
+    },
+    {
+      "start": 107.36,
+      "end": 111.04,
+      "text": "the wife of the Buddha's father."
+    },
+    {
+      "start": 111.56,
+      "end": 118.64,
+      "text": "In the in the olden days, a person could have as many wives as he could afford to keep."
+    },
+    {
+      "start": 119.32,
+      "end": 121.32,
+      "text": "So"
+    },
+    {
+      "start": 121.44,
+      "end": 126.24,
+      "text": "in actual fact, Mahapajapati was the auntie of the Buddha and"
+    },
+    {
+      "start": 126.64,
+      "end": 132.44,
+      "text": "Mahapajapati had her own son by the name of Nanda. And as she brought up Nanda, she also"
+    },
+    {
+      "start": 133.04,
+      "end": 135.04,
+      "text": "brought up and nursed our"
+    },
+    {
+      "start": 135.92,
+      "end": 140.8,
+      "text": "Buddha just like her own son. And when the Buddha had"
+    },
+    {
+      "start": 142.24,
+      "end": 145.48,
+      "text": "become enlightened and came back to see the"
+    },
+    {
+      "start": 147.04,
+      "end": 151.2,
+      "text": "sakhins and taught them the dhamma, and at that time"
+    },
+    {
+      "start": 152.04,
+      "end": 154.04,
+      "text": "this Mahapajapati"
+    },
+    {
+      "start": 154.8,
+      "end": 158.44,
+      "text": "was already fairly old, so she wanted to"
+    },
+    {
+      "start": 159.2,
+      "end": 166.4,
+      "text": "become a nun and she was the first to ask the Buddha for permission to ordain. But as you see here, the Buddha refused"
+    },
+    {
+      "start": 167.08,
+      "end": 169.08,
+      "text": "her permission."
+    },
+    {
+      "start": 169.12,
+      "end": 171.76,
+      "text": "Now the sutra continues."
+    },
+    {
+      "start": 172.56,
+      "end": 177.72,
+      "text": "Now the exalted one, when he had stayed at Kapilavatu as long as he desired,"
+    },
+    {
+      "start": 178.08,
+      "end": 184.92,
+      "text": "set out on a journey to Vaisali and in due course, going from place to place, arrived there."
+    },
+    {
+      "start": 185.64,
+      "end": 190.84,
+      "text": "And the exalted one dwelt near Vaisali in Mahavana at the Gabled Hall."
+    },
+    {
+      "start": 191.24,
+      "end": 198.0,
+      "text": "Then Mahapajapati, the Gotamit, having had her hair cut off and don yellow robes,"
+    },
+    {
+      "start": 198.2,
+      "end": 200.6,
+      "text": "set out with a large company of"
+    },
+    {
+      "start": 201.0,
+      "end": 206.6,
+      "text": "sakhine women for Vaisali. And in due course, they drew near to the Gabled Hall in"
+    },
+    {
+      "start": 206.96,
+      "end": 208.96,
+      "text": "Mahavana near Vaisali."
+    },
+    {
+      "start": 209.52,
+      "end": 215.84,
+      "text": "And Mahapajapati stood outside the door, her feet swollen and her limbs covered with dust,"
+    },
+    {
+      "start": 216.2,
+      "end": 219.28,
+      "text": "sad and sorrowful, sobbing and in tears."
+    },
+    {
+      "start": 220.12,
+      "end": 223.88,
+      "text": "Now the venerable Ananda saw her standing down, thus,"
+    },
+    {
+      "start": 224.36,
+      "end": 227.96,
+      "text": "with swollen feet and in tears and said to her,"
+    },
+    {
+      "start": 228.76,
+      "end": 233.36,
+      "text": "wherefore, Gotamit, do you stand, sad and sorrowful, outside the door?"
+    },
+    {
+      "start": 234.12,
+      "end": 241.16,
+      "text": "And she said, it is because, reverend Ananda, the exalted one will not allow women to go forth"
+    },
+    {
+      "start": 241.32,
+      "end": 246.96,
+      "text": "from the home to the homeless life into the Dhamma Vinaya declared by the Tathagata."
+    },
+    {
+      "start": 248.56,
+      "end": 256.56,
+      "text": "And the venerable Ananda said, then wait here, Gotamit, until I have asked the exalted one to allow women to go forth from the home."
+    },
+    {
+      "start": 257.28,
+      "end": 262.88,
+      "text": "And the venerable Ananda went unto the exalted one and saluted and sat down at one side."
+    },
+    {
+      "start": 263.36,
+      "end": 270.04,
+      "text": "So seated, he spoke thus, Lord, Mahapajapati, the Gotamit, stands outside at the door,"
+    },
+    {
+      "start": 270.24,
+      "end": 276.16,
+      "text": "her feet swollen and her limbs covered with dust, sad and sorrowful, sobbing and in tears,"
+    },
+    {
+      "start": 276.48,
+      "end": 280.36,
+      "text": "saying, the exalted one will not allow women to go forth."
+    },
+    {
+      "start": 280.88,
+      "end": 286.6,
+      "text": "Lord, well worried that women should be allowed to go forth from the home to the homeless life"
+    },
+    {
+      "start": 286.92,
+      "end": 292.12,
+      "text": "into the Dhamma Vinaya declared by the Tathagata and the Buddha said,"
+    },
+    {
+      "start": 292.36,
+      "end": 298.24,
+      "text": "enough, Ananda, set not your heart upon the going forth of women from the home to the homeless life."
+    },
+    {
+      "start": 298.92,
+      "end": 305.36,
+      "text": "A second and a third time, Ananda besieged him in like manner, but the exalted one gave the same reply."
+    },
+    {
+      "start": 306.72,
+      "end": 313.56,
+      "text": "Then thought the venerable Ananda, the exalted one will not allow women to go forth from the home to the homeless life."
+    },
+    {
+      "start": 314.0,
+      "end": 318.64,
+      "text": "But if I were to ask the exalted one in another way, and he spoke thus,"
+    },
+    {
+      "start": 319.08,
+      "end": 326.96,
+      "text": "Lord, if women go forth from the home to the homeless life into the Dhamma Vinaya declared by the Tathagata,"
+    },
+    {
+      "start": 327.44,
+      "end": 334.36,
+      "text": "can they realize the fruit of stream-winning, of one's returning, of non-returning and of Arahantship?"
+    },
+    {
+      "start": 335.64,
+      "end": 340.32,
+      "text": "And the Buddha said, they can, Ananda, and remember Ananda said,"
+    },
+    {
+      "start": 340.6,
+      "end": 347.12,
+      "text": "Lord, if they can, since Mahapajapati has been of great service to the exalted one,"
+    },
+    {
+      "start": 347.36,
+      "end": 354.28,
+      "text": "for as his aunt, nurse, and foster mother, she gave him milk, and the exalted one's mother died,"
+    },
+    {
+      "start": 354.68,
+      "end": 357.76,
+      "text": "well worried that women should be allowed to go forth."
+    },
+    {
+      "start": 358.52,
+      "end": 363.4,
+      "text": "And the Buddha said, if Ananda, Mahapajapati, the Gautamit,"
+    },
+    {
+      "start": 363.72,
+      "end": 368.84,
+      "text": "receive these eight cardinal rules, it shall be for her the ordination."
+    },
+    {
+      "start": 369.76,
+      "end": 374.8,
+      "text": "One, though she has been ordained a hundred years, a nun must pay respect,"
+    },
+    {
+      "start": 375.6,
+      "end": 383.8,
+      "text": "raise her hands in salutation, rise up from her seat, and salute a monk who has, but that day, been ordained."
+    },
+    {
+      "start": 384.24,
+      "end": 387.64,
+      "text": "This is a rule to be honored, respected, revered,"
+    },
+    {
+      "start": 387.88,
+      "end": 391.84,
+      "text": "venerated, and never to be transgressed during her life."
+    },
+    {
+      "start": 392.64,
+      "end": 398.12,
+      "text": "Two, a nun must not spend the rainy season where there is no resident monk."
+    },
+    {
+      "start": 398.52,
+      "end": 401.12,
+      "text": "This is a rule never to be transgressed."
+    },
+    {
+      "start": 401.68,
+      "end": 408.8,
+      "text": "Three, twice a month, a nun must question the Sangha concerning the date of the Upasatha day,"
+    },
+    {
+      "start": 409.32,
+      "end": 413.72,
+      "text": "and the next time of preaching, this is a rule never to be transgressed."
+    },
+    {
+      "start": 415.0,
+      "end": 420.52,
+      "text": "Four, after the rainy season, a nun must keep the Pavarana"
+    },
+    {
+      "start": 421.12,
+      "end": 428.2,
+      "text": "before both Sanghas, in respect of three matters, those seen, those heard, and those suspected,"
+    },
+    {
+      "start": 428.2,
+      "end": 430.92,
+      "text": "this is a rule never to be transgressed."
+    },
+    {
+      "start": 431.56,
+      "end": 440.8,
+      "text": "Five, a nun guilty of a serious offense must undergo a penance before both Sanghas for the half month."
+    },
+    {
+      "start": 440.96,
+      "end": 443.48,
+      "text": "This is a rule never to be transgressed."
+    },
+    {
+      "start": 444.04,
+      "end": 451.08,
+      "text": "Six, after training for two rainy seasons in the six rules, a nun must seek full"
+    },
+    {
+      "start": 451.8,
+      "end": 456.16,
+      "text": "ordination of both Sanghas. This is a rule never to be transgressed."
+    },
+    {
+      "start": 457.08,
+      "end": 465.24,
+      "text": "Seven, not on any pretext, must a nun revile or abuse a monk. This is a rule never to be transgressed."
+    },
+    {
+      "start": 466.04,
+      "end": 468.52,
+      "text": "Eight, from today on under,"
+    },
+    {
+      "start": 469.36,
+      "end": 476.6,
+      "text": "admonition by nuns of monks is forbidden, but admonition of nuns by monks is not forbidden."
+    },
+    {
+      "start": 477.08,
+      "end": 480.36,
+      "text": "This is a rule to be honored, respected, revered,"
+    },
+    {
+      "start": 480.88,
+      "end": 484.08,
+      "text": "venerated, and never to be transgressed during life."
+    },
+    {
+      "start": 484.52,
+      "end": 486.52,
+      "text": "If Mahapajapati"
+    },
+    {
+      "start": 486.72,
+      "end": 491.56,
+      "text": "receive these eight cardinal rules, it shall be for her the ordination."
+    },
+    {
+      "start": 492.24,
+      "end": 497.28,
+      "text": "Now when the venerable Ananda had learned these eight rules from the exalted one,"
+    },
+    {
+      "start": 497.28,
+      "end": 504.8,
+      "text": "he went to Mahapajapati and told her all the exalted one had said, and she answered him and said,"
+    },
+    {
+      "start": 505.36,
+      "end": 511.44,
+      "text": "Paran Ananda, this as a woman or man, young and tender in years, and fond of dress,"
+    },
+    {
+      "start": 511.76,
+      "end": 518.44,
+      "text": "would after washing the head, receive with both hands a garland of lotus flowers, of jasmine flowers,"
+    },
+    {
+      "start": 518.44,
+      "end": 522.84,
+      "text": "or of some sweet-scented creeper, and place it on top of the head."
+    },
+    {
+      "start": 523.24,
+      "end": 525.08,
+      "text": "Even so, I"
+    },
+    {
+      "start": 525.08,
+      "end": 529.8,
+      "text": "received these eight cardinal rules, never to be transgressed all my life."
+    },
+    {
+      "start": 530.72,
+      "end": 535.24,
+      "text": "Then the venerable Ananda returned to the exalted one,"
+    },
+    {
+      "start": 535.56,
+      "end": 537.84,
+      "text": "saluted him and sat down at one side."
+    },
+    {
+      "start": 538.16,
+      "end": 546.64,
+      "text": "So seated, he said, Lord, Mahapajapati, the Gotamit, has received the eight rules and the Buddha said,"
+    },
+    {
+      "start": 547.16,
+      "end": 549.08,
+      "text": "if Ananda,"
+    },
+    {
+      "start": 549.08,
+      "end": 553.8,
+      "text": "women had not been allowed to go forth from the home to the homeless life,"
+    },
+    {
+      "start": 554.24,
+      "end": 557.68,
+      "text": "into the Dhamma Vinaya declared by the Tathagata,"
+    },
+    {
+      "start": 558.12,
+      "end": 561.56,
+      "text": "then long would have lasted the holy life."
+    },
+    {
+      "start": 562.2,
+      "end": 566.28,
+      "text": "For a thousand years would have Saddhamma or True Dhamma,"
+    },
+    {
+      "start": 567.88,
+      "end": 571.08,
+      "text": "would Saddhamma or True Dhamma have lasted."
+    },
+    {
+      "start": 571.32,
+      "end": 577.72,
+      "text": "But now, Ananda, since women have gone forth, not for long will the holy life last."
+    },
+    {
+      "start": 578.12,
+      "end": 583.28,
+      "text": "Now, Ananda, just for five hundred years, will the True Dhamma last?"
+    },
+    {
+      "start": 584.04,
+      "end": 588.72,
+      "text": "Just as those clans that have many women and but few men"
+    },
+    {
+      "start": 589.2,
+      "end": 592.2,
+      "text": "easily fall a prey to robbers and pot thieves,"
+    },
+    {
+      "start": 592.72,
+      "end": 600.6,
+      "text": "even so, Ananda, in whatever Dhamma Vinaya, women are allowed to go forth from the home to the homeless life."
+    },
+    {
+      "start": 600.92,
+      "end": 603.68,
+      "text": "That holy life will not last long."
+    },
+    {
+      "start": 604.32,
+      "end": 610.84,
+      "text": "Just as when the disease known as white as bones falls upon a field of ripened rice,"
+    },
+    {
+      "start": 611.28,
+      "end": 613.28,
+      "text": "that field does not last long."
+    },
+    {
+      "start": 614.0,
+      "end": 622.56,
+      "text": "Even so, Ananda, in whatever Dhamma Vinaya, women are allowed to go forth. That holy life will not last long."
+    },
+    {
+      "start": 623.12,
+      "end": 629.8,
+      "text": "Just as when the disease known as red rust falls upon a field of ripened sugarcane,"
+    },
+    {
+      "start": 630.08,
+      "end": 632.08,
+      "text": "that field does not last long."
+    },
+    {
+      "start": 632.72,
+      "end": 638.16,
+      "text": "Even so, Ananda, in whatever Dhamma Vinaya, women are allowed to go forth."
+    },
+    {
+      "start": 638.4,
+      "end": 640.92,
+      "text": "That holy life will not last long."
+    },
+    {
+      "start": 641.4,
+      "end": 646.84,
+      "text": "And now, Ananda, just as a man might build a dike to a great reservoir"
+    },
+    {
+      "start": 647.4,
+      "end": 652.28,
+      "text": "with a view to the future so that no water could pass beyond it."
+    },
+    {
+      "start": 652.72,
+      "end": 660.48,
+      "text": "Even so, I, Ananda, with a view to the future, have laid down for nuns these eight cardinal rules"
+    },
+    {
+      "start": 660.76,
+      "end": 664.24,
+      "text": "which must not be transgressed so long as they live."
+    },
+    {
+      "start": 664.64,
+      "end": 666.64,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 667.48,
+      "end": 676.44,
+      "text": "So, you see from here, after Mahapajapati could not get permission of the Buddha to go forth,"
+    },
+    {
+      "start": 676.44,
+      "end": 679.2,
+      "text": "then he followed the Buddha all the way,"
+    },
+    {
+      "start": 682.72,
+      "end": 690.36,
+      "text": "walking from Kapilavad to Tuve Sali, and according to the commentary, there was a distance of about 200 miles."
+    },
+    {
+      "start": 691.32,
+      "end": 694.2,
+      "text": "So, that was a pretty long way to walk."
+    },
+    {
+      "start": 696.58,
+      "end": 706.71,
+      "text": "And so, the available Ananda asked the Buddha again for permission for women to go forth,"
+    },
+    {
+      "start": 707.23,
+      "end": 710.11,
+      "text": "and three times the Buddha refused him."
+    },
+    {
+      "start": 710.59,
+      "end": 719.35,
+      "text": "And then after that, he thought of another way to get around it and reminded the Buddha"
+    },
+    {
+      "start": 719.35,
+      "end": 727.75,
+      "text": "that the Buddha owed very much to Mahapajapati who brought her up, gave her milk when she was small,"
+    },
+    {
+      "start": 728.23,
+      "end": 737.75,
+      "text": "and so, the Buddha relented, and the Buddha made eight rules for nuns."
+    },
+    {
+      "start": 738.31,
+      "end": 746.67,
+      "text": "The first one is that even a nun has been ordained a long time, she must be respect to a monk,"
+    },
+    {
+      "start": 746.67,
+      "end": 749.87,
+      "text": "any monk, even though he's very newly ordained."
+    },
+    {
+      "start": 750.55,
+      "end": 760.23,
+      "text": "Then, the second rule is that a monk must not spend the rainy season, the Vasa, where there is no resident monk."
+    },
+    {
+      "start": 761.55,
+      "end": 770.11,
+      "text": "In the Theravada tradition, every year during the rainy season in India, they had the rainy season,"
+    },
+    {
+      "start": 770.11,
+      "end": 777.07,
+      "text": "the winter and the summer seasons, three seasons, and three months out of the four months,"
+    },
+    {
+      "start": 777.07,
+      "end": 785.79,
+      "text": "a monk or a nun must stay in a fixed place, not leave the place more than six continuous nights."
+    },
+    {
+      "start": 786.35,
+      "end": 793.23,
+      "text": "So, for a nun, she must spend the Vasa in a place where there are monks, at least one monk."
+    },
+    {
+      "start": 794.11,
+      "end": 806.15,
+      "text": "Then the third condition is that twice a month, a nun must ask the Bhikkhu Sangha for the date of the Uposatha,"
+    },
+    {
+      "start": 806.15,
+      "end": 814.87,
+      "text": "because I think they have to recite the precepts in front of the monk, and then the time of preaching,"
+    },
+    {
+      "start": 814.87,
+      "end": 821.75,
+      "text": "because every two weeks, they would have to be given a teaching by a senior monk."
+    },
+    {
+      "start": 822.47,
+      "end": 830.63,
+      "text": "And the fourth rule is, after the rainy season, a nun must keep the Pavarana before both Sanghas."
+    },
+    {
+      "start": 830.71,
+      "end": 838.31,
+      "text": "Pavarana is an invitation to criticize. It is also practiced by monks,"
+    },
+    {
+      "start": 838.31,
+      "end": 844.39,
+      "text": "and monks have spent Vasa the rainy season, and after the three months of the rainy season,"
+    },
+    {
+      "start": 844.39,
+      "end": 852.47,
+      "text": "sometimes there is some ill will between monks. So, each one of them, they have to,"
+    },
+    {
+      "start": 853.43,
+      "end": 862.15,
+      "text": "in the Sangha gathering, starting from the most senior monk, they have to invite criticism"
+    },
+    {
+      "start": 862.87,
+      "end": 870.63,
+      "text": "from the other monks, invite the monks to criticize them, in case any of the monks has seen or heard"
+    },
+    {
+      "start": 870.63,
+      "end": 879.27,
+      "text": "or suspected anything wrong, then the monk invites criticism. So, for a case, in the case of a nun,"
+    },
+    {
+      "start": 879.35,
+      "end": 886.79,
+      "text": "she has to invite the nuns to criticize her, and later she has to ask the monks to invite the"
+    },
+    {
+      "start": 886.79,
+      "end": 898.04,
+      "text": "monks to criticize her as well. The fifth rule is, a nun, if she has undergone a serious offense,"
+    },
+    {
+      "start": 898.04,
+      "end": 908.04,
+      "text": "meaning a Sangha disease, the second most serious offense for a monk or a nun is a Sangha disease."
+    },
+    {
+      "start": 908.04,
+      "end": 920.36,
+      "text": "For example, to touch somebody of the opposite sex purposely, out of a lustful desire, or to say"
+    },
+    {
+      "start": 921.0,
+      "end": 930.12,
+      "text": "some rude words, some vulgar words, etc. So, for this class of serious offense,"
+    },
+    {
+      "start": 930.12,
+      "end": 937.32,
+      "text": "a nun must undergo a penance before both Sanghas, the monks and the nuns. The sixth rule"
+    },
+    {
+      "start": 938.2,
+      "end": 942.12,
+      "text": "after training for two rainy seasons, that means for two years in the six rules,"
+    },
+    {
+      "start": 943.4,
+      "end": 949.72,
+      "text": "a nun, she cannot immediately become a nun. She has to keep six precepts for two years."
+    },
+    {
+      "start": 951.72,
+      "end": 959.96,
+      "text": "That was partly because once there was a nun who came to ordain, and after she was ordained,"
+    },
+    {
+      "start": 959.96,
+      "end": 965.48,
+      "text": "then she became pregnant. And that was not because she did anything wrong, but because"
+    },
+    {
+      "start": 966.44,
+      "end": 973.48,
+      "text": "she was married before she ordained. So, after she ordained, she conceived, and then people"
+    },
+    {
+      "start": 973.48,
+      "end": 980.92,
+      "text": "talked bad about her. So, this was probably the main reason why the Buddha made a rule"
+    },
+    {
+      "start": 980.92,
+      "end": 986.44,
+      "text": "that a nun must spend two years before she gets the full ordination."
+    },
+    {
+      "start": 987.4,
+      "end": 996.36,
+      "text": "And then the seventh rule is that a nun must not revile or abuse a monk. And the eighth rule"
+    },
+    {
+      "start": 996.36,
+      "end": 1002.28,
+      "text": "is that monks can criticize nuns, but nuns are not allowed to criticize monks."
+    },
+    {
+      "start": 1005.21,
+      "end": 1014.73,
+      "text": "Now, sometimes women are not happy with this kind of discrimination against women,"
+    },
+    {
+      "start": 1015.53,
+      "end": 1024.25,
+      "text": "but it's partly because women are more emotional than men, so that if they are kind,"
+    },
+    {
+      "start": 1024.25,
+      "end": 1030.73,
+      "text": "then they are kinder than men. But if they are angry or hateful, then they become much more"
+    },
+    {
+      "start": 1030.73,
+      "end": 1044.33,
+      "text": "hateful than men. So, that was for this reason. And towards the end, the Buddha told Ananda that"
+    },
+    {
+      "start": 1044.33,
+      "end": 1052.65,
+      "text": "if women had not been allowed to go forth, then the true dharma would have lasted 1,000 years."
+    },
+    {
+      "start": 1053.29,
+      "end": 1059.29,
+      "text": "But because women had gone forth, then the true dharma would now last only 500 years."
+    },
+    {
+      "start": 1061.69,
+      "end": 1071.45,
+      "text": "So, we can see that the dharma was unadulterated for 500 years. And after 500 years, after the"
+    },
+    {
+      "start": 1071.45,
+      "end": 1078.33,
+      "text": "Buddha's passing away, from that time onwards, new books were written, new books that contradicted"
+    },
+    {
+      "start": 1078.33,
+      "end": 1085.77,
+      "text": "the earlier discourses of the Buddha, so that if we study the sutras, we find the earliest four"
+    },
+    {
+      "start": 1085.77,
+      "end": 1095.85,
+      "text": "nikayas, the diga nikaya, magima nikaya, sangyuta nikaya, and angutra nikaya. These are the earliest"
+    },
+    {
+      "start": 1095.85,
+      "end": 1101.69,
+      "text": "discourses of the Buddha. These, if you read the sutras, there are no contradictions generally."
+    },
+    {
+      "start": 1102.89,
+      "end": 1108.17,
+      "text": "But if you read later books, then you find that there's contradictions over the books, and then"
+    },
+    {
+      "start": 1109.13,
+      "end": 1116.57,
+      "text": "newer books, they contradict each other as well. So, we have to be very careful now that the"
+    },
+    {
+      "start": 1117.37,
+      "end": 1124.89,
+      "text": "dharma has become polluted. It doesn't mean that the true dharma is lost."
+    },
+    {
+      "start": 1125.53,
+      "end": 1132.65,
+      "text": "The true dharma is still here, but it is mixed up with a lot of our dhamma,"
+    },
+    {
+      "start": 1132.65,
+      "end": 1139.85,
+      "text": "what is contrary to dhamma. So, it is very difficult for people to distinguish between the"
+    },
+    {
+      "start": 1139.85,
+      "end": 1149.53,
+      "text": "real dhamma and the fake dhamma. And so, if you don't get the proper guidance,"
+    },
+    {
+      "start": 1150.49,
+      "end": 1154.73,
+      "text": "because most people don't have the time to study all the books to find out,"
+    },
+    {
+      "start": 1155.37,
+      "end": 1165.13,
+      "text": "then you might get some wrong views. So, you see, the reason the Buddha at first refused permission"
+    },
+    {
+      "start": 1165.13,
+      "end": 1172.81,
+      "text": "for women to go forth was actually to protect the dhamma. He wanted the dhamma to last longer,"
+    },
+    {
+      "start": 1173.45,
+      "end": 1181.77,
+      "text": "to benefit more people. And he said, once women have gone forth, then the sarsana,"
+    },
+    {
+      "start": 1181.77,
+      "end": 1189.37,
+      "text": "the Buddhist religion has become weakened, the teachings have become weakened, and the Buddha"
+    },
+    {
+      "start": 1189.37,
+      "end": 1198.89,
+      "text": "gave an example. Just as there are those clans that have many women, but few men, easily fall prey"
+    },
+    {
+      "start": 1198.89,
+      "end": 1210.57,
+      "text": "to robbers and pot thieves. So, in the same way, once you have women in the holy life,"
+    },
+    {
+      "start": 1210.57,
+      "end": 1221.72,
+      "text": "then the sarsana is weakened. The next sutra, 8.6.52. Once, while the exalted one was staying at the"
+    },
+    {
+      "start": 1221.72,
+      "end": 1229.08,
+      "text": "gable hall in Mahavana, near Besali, the member Ananda came to him and saluted and sat down at"
+    },
+    {
+      "start": 1229.08,
+      "end": 1236.76,
+      "text": "one side. So seated, he spoke thus to the exalted one. Lord, how many qualities must a monk have"
+    },
+    {
+      "start": 1236.76,
+      "end": 1244.04,
+      "text": "to be considered a spiritual advisor of nuns? A monk Ananda must have eight qualities,"
+    },
+    {
+      "start": 1244.04,
+      "end": 1251.32,
+      "text": "one eight. Herein Ananda, a monk is virtuous. He undertakes and trains himself in the precepts."
+    },
+    {
+      "start": 1252.28,
+      "end": 1261.16,
+      "text": "He is learned. The doctrines he has fully understood in theory. To him, both patamoka have been properly"
+    },
+    {
+      "start": 1261.16,
+      "end": 1269.64,
+      "text": "and fully handed down, sectioned, regulated, and resolved into detail. He has a pleasant voice."
+    },
+    {
+      "start": 1269.64,
+      "end": 1276.84,
+      "text": "His enunciation is good. His speech is obeying, distinct, free from hoarseness and informative."
+    },
+    {
+      "start": 1277.64,
+      "end": 1284.36,
+      "text": "He is able to instruct, insight, rouse, and gladden the sangha of nuns with religious discourse."
+    },
+    {
+      "start": 1285.32,
+      "end": 1293.56,
+      "text": "Generally, he is dear to and liked by the nuns. Previous to his taking this exalted one as his"
+    },
+    {
+      "start": 1293.56,
+      "end": 1299.8,
+      "text": "authority for going forth, for donning the yellow robe, he has been guilty of no serious crime."
+    },
+    {
+      "start": 1300.76,
+      "end": 1307.32,
+      "text": "He has been ordained 20 years or more. Among Ananda must have these eight qualities to be"
+    },
+    {
+      "start": 1307.32,
+      "end": 1318.04,
+      "text": "considered a spiritual advisor for nuns. At the end of the sutra, I just recapitulate these conditions."
+    },
+    {
+      "start": 1318.04,
+      "end": 1324.76,
+      "text": "The first one, among must be virtuous. He keeps the precepts. The second, secondly, he must be"
+    },
+    {
+      "start": 1324.84,
+      "end": 1334.28,
+      "text": "learned in the dhamma. Thirdly, he, the both patamokas, the monks patamoka and the nuns"
+    },
+    {
+      "start": 1334.28,
+      "end": 1344.36,
+      "text": "patamoka, he fully understands. Number four, he has a pleasant voice. Number five, he is able"
+    },
+    {
+      "start": 1345.64,
+      "end": 1354.36,
+      "text": "to instruct the nuns with religious discourse with the dhamma. Number six, he is liked by the"
+    },
+    {
+      "start": 1354.36,
+      "end": 1362.52,
+      "text": "nuns. Number seven, he has been guilty of no serious crime. Number eight, he has been ordained 20"
+    },
+    {
+      "start": 1362.52,
+      "end": 1368.84,
+      "text": "years or more. Among who has been ordained 10 years or more is called a Thera. Among who has been"
+    },
+    {
+      "start": 1368.84,
+      "end": 1377.5,
+      "text": "ordained 20 years or more is called a Mahathera. So these are the qualities. The next sutra is"
+    },
+    {
+      "start": 1377.5,
+      "end": 1387.42,
+      "text": "8.6.53. Once in the Gable Hall at Vaisali, Mahapajapati the Gotamit spoke thus to the"
+    },
+    {
+      "start": 1387.42,
+      "end": 1394.62,
+      "text": "exalted one. Well worded for me, Lord, if the exalted one would teach me dhamma briefly,"
+    },
+    {
+      "start": 1394.62,
+      "end": 1401.42,
+      "text": "so that after hearing the exalted one's word, I might dwell alone, secluded, earnest, zealous,"
+    },
+    {
+      "start": 1401.42,
+      "end": 1408.3,
+      "text": "and resolute. And the Buddha said, those things are which you know thus. These things lead to"
+    },
+    {
+      "start": 1408.3,
+      "end": 1416.38,
+      "text": "passion, not to release therefrom. These lead to bondage, not to release therefrom. These lead"
+    },
+    {
+      "start": 1416.38,
+      "end": 1424.3,
+      "text": "to the piling of rebirth, not to the dispersion thereof. These lead to wanting much, not to wanting"
+    },
+    {
+      "start": 1424.3,
+      "end": 1432.62,
+      "text": "little. These lead to discontent, not to contentment. These lead to sociability, not to solitude."
+    },
+    {
+      "start": 1433.34,
+      "end": 1441.74,
+      "text": "These lead to indolence, not to exertion. These lead to luxury, not to frugality. Of these things,"
+    },
+    {
+      "start": 1441.74,
+      "end": 1447.9,
+      "text": "whole definitely, this is not dhamma. This is not vinaya. This is not the word of the teacher."
+    },
+    {
+      "start": 1448.46,
+      "end": 1455.18,
+      "text": "But as to those things, Gotamit, which you know lead to dispassion, to release from bondage,"
+    },
+    {
+      "start": 1455.18,
+      "end": 1462.06,
+      "text": "to the dispersion of rebirth, to wanting little, to contentment, to solitude, to exertion,"
+    },
+    {
+      "start": 1462.06,
+      "end": 1469.98,
+      "text": "and to frugality, and in no case to the opposites. Be assured that they are dhamma. They are vinaya,"
+    },
+    {
+      "start": 1469.98,
+      "end": 1478.3,
+      "text": "the word of the teacher, at the end of the sutta. So here, the Buddha is giving a dhamma,"
+    },
+    {
+      "start": 1478.3,
+      "end": 1487.26,
+      "text": "teaching in brief, to the foster mother, to the mother. And these are the things that"
+    },
+    {
+      "start": 1487.58,
+      "end": 1503.74,
+      "text": "are dhamma in concise form, that those things that lead to dispassion, to release from bondage,"
+    },
+    {
+      "start": 1504.38,
+      "end": 1510.78,
+      "text": "to dispersion of rebirth, to wanting little, to contentment, to solitude, to exertion,"
+    },
+    {
+      "start": 1510.86,
+      "end": 1517.18,
+      "text": "to frugality. These are consistent with the dhamma vinaya, but not their opposite."
+    },
+    {
+      "start": 1520.04,
+      "end": 1527.0,
+      "text": "The next sutta is 8.6.54. Once the exalted one was dwelling among the Koleans,"
+    },
+    {
+      "start": 1527.0,
+      "end": 1535.96,
+      "text": "at the market town called Kakarapattha. Their long knee, the Kolean clansmen, visited the exalted one,"
+    },
+    {
+      "start": 1535.96,
+      "end": 1541.8,
+      "text": "and after greeting him, sat down at one side. So seated, he spoke thus to the exalted one."
+    },
+    {
+      "start": 1542.52,
+      "end": 1549.08,
+      "text": "Lord, we householders are immersed in the round of pleasure. We are comforted with bed made in"
+    },
+    {
+      "start": 1549.08,
+      "end": 1556.6,
+      "text": "suns. We delight in the muslin cloth from Benares and in sandalwood. We deck ourselves with flowers,"
+    },
+    {
+      "start": 1556.6,
+      "end": 1563.8,
+      "text": "with garlands and cosmetics. We enjoy the use of both silver and gold, that is money. Lord,"
+    },
+    {
+      "start": 1563.8,
+      "end": 1570.76,
+      "text": "to such as us, let the exalted one also teach dhamma, teach the things which will be to our"
+    },
+    {
+      "start": 1570.76,
+      "end": 1578.04,
+      "text": "advantage and for our happiness here on earth, for our advantage and happiness in the world to come,"
+    },
+    {
+      "start": 1580.34,
+      "end": 1587.54,
+      "text": "and the Buddha said. These four conditions, Tiger food, lead to a clansmen's advantage and happiness"
+    },
+    {
+      "start": 1587.54,
+      "end": 1599.96,
+      "text": "here on earth. What for? Achievement in alertness, achievement in weariness, good company, and the"
+    },
+    {
+      "start": 1599.96,
+      "end": 1609.32,
+      "text": "even life. And what Tiger food is achievement in alertness? Let's stop here a moment. This Tiger"
+    },
+    {
+      "start": 1609.32,
+      "end": 1625.74,
+      "text": "food must be the nickname of this person. This long knee is Bya Gapaja. His family name was Bya Gapaja,"
+    },
+    {
+      "start": 1625.74,
+      "end": 1637.18,
+      "text": "which is Tiger food. And long knee is Diga Jhanu, was his nickname. So here the Buddha addresses"
+    },
+    {
+      "start": 1637.18,
+      "end": 1644.46,
+      "text": "him by his family name. And what Tiger food is achievement in alertness? Herein, by whatsoever"
+    },
+    {
+      "start": 1644.46,
+      "end": 1650.62,
+      "text": "activity a clansman make his living, whether by the plow, by trading, or by cattle herding,"
+    },
+    {
+      "start": 1650.62,
+      "end": 1658.94,
+      "text": "by archery, or as a rajas man. Or by any of the crafts, he is deft and tireless, gifted with an"
+    },
+    {
+      "start": 1658.94,
+      "end": 1666.06,
+      "text": "inquiring turn of mind into ways and means. He is able to arrange and carry out his job. This is"
+    },
+    {
+      "start": 1666.06,
+      "end": 1673.58,
+      "text": "called achievement in alertness. And what Tiger food is achievement in weariness? Herein, whatsoever"
+    },
+    {
+      "start": 1673.58,
+      "end": 1680.38,
+      "text": "wealth a clansman get together by world and zeal, collect by the strength of his arm, earn by the"
+    },
+    {
+      "start": 1680.38,
+      "end": 1689.26,
+      "text": "sweat of his brow, and justly obtained in a lawful manner. Such he keeps by watch and watch, thinking,"
+    },
+    {
+      "start": 1689.82,
+      "end": 1696.62,
+      "text": "now how can I arrange so that rajas may not get this wealth out of me? Nor thieves steal it,"
+    },
+    {
+      "start": 1696.62,
+      "end": 1703.98,
+      "text": "nor fire consummate, nor water carried off, nor treacherous airs make off with it. This is called"
+    },
+    {
+      "start": 1703.98,
+      "end": 1710.94,
+      "text": "achievement in weariness. And what Tiger food is good company? Herein, in whatsoever village"
+    },
+    {
+      "start": 1710.94,
+      "end": 1717.74,
+      "text": "or market town a clansman dwell, he consorts, converses, engages in talk with householders or"
+    },
+    {
+      "start": 1717.74,
+      "end": 1725.74,
+      "text": "householders sons, young men reared in virtue, old men old in virtue, full of faith, virtue,"
+    },
+    {
+      "start": 1725.74,
+      "end": 1733.02,
+      "text": "charity, and wisdom. He emulates the fullness of faith in such as are full of faith. He emulates"
+    },
+    {
+      "start": 1733.02,
+      "end": 1740.06,
+      "text": "the fullness of virtue in such as are full of virtue. He emulates the fullness of charity in"
+    },
+    {
+      "start": 1740.06,
+      "end": 1747.1,
+      "text": "such as are full of charity. He emulates the fullness of wisdom in such as are full of wisdom."
+    },
+    {
+      "start": 1748.06,
+      "end": 1755.1,
+      "text": "This is called good company. And what Tiger food is the even life? Herein, a clansman"
+    },
+    {
+      "start": 1755.1,
+      "end": 1761.02,
+      "text": "while experiencing both gain and loss in wealth, continues his business serenely,"
+    },
+    {
+      "start": 1761.02,
+      "end": 1768.3,
+      "text": "not unduly elated or depressed. He thinks, thus my income after deducting the loss"
+    },
+    {
+      "start": 1768.3,
+      "end": 1776.06,
+      "text": "will stand at so much and my outgoings will not exceed my income. This is one who carries scales"
+    },
+    {
+      "start": 1776.06,
+      "end": 1783.1,
+      "text": "of his apprentice knows on holding up the balance that either by so much it has dipped down or by"
+    },
+    {
+      "start": 1783.1,
+      "end": 1790.14,
+      "text": "so much it has tilted up. Even so, Tiger food, a clansman experiencing both gain and loss,"
+    },
+    {
+      "start": 1790.14,
+      "end": 1798.22,
+      "text": "continues his business serenely, neither unduly elated nor unduly depressed, but realizes"
+    },
+    {
+      "start": 1798.22,
+      "end": 1804.22,
+      "text": "that after allowing for the loss, his income will stand at so much and that his outgoings"
+    },
+    {
+      "start": 1804.22,
+      "end": 1811.26,
+      "text": "will not exceed his income. If Tiger food, this clansman have but small earnings and live on a"
+    },
+    {
+      "start": 1811.26,
+      "end": 1818.54,
+      "text": "grand scale, it will be wounded of him. This clansman eats his wealth like a fig tree glutton."
+    },
+    {
+      "start": 1818.54,
+      "end": 1825.58,
+      "text": "And if his earnings be great and he live meanly, rumor will say of him, this clansman will die"
+    },
+    {
+      "start": 1825.58,
+      "end": 1831.66,
+      "text": "like a stavelling. Therefore, this clansman continues his business serenely, knowing that his"
+    },
+    {
+      "start": 1831.66,
+      "end": 1838.78,
+      "text": "outgoings will not exceed his income. This is called the even life. Tiger food, the four channels for"
+    },
+    {
+      "start": 1838.78,
+      "end": 1845.82,
+      "text": "the flowing away of a mass wealth are these, looseness with women, debauchery in drinking,"
+    },
+    {
+      "start": 1845.82,
+      "end": 1854.7,
+      "text": "navery in dice play and friendship, companionship and intimacy with evil doers, such just as in"
+    },
+    {
+      "start": 1854.7,
+      "end": 1861.18,
+      "text": "the case of a great reservoir with only four inlets and only four outlets. If a man should"
+    },
+    {
+      "start": 1861.18,
+      "end": 1867.74,
+      "text": "close the inlets and open the outlets and there should be no proper fall of rain, a lessening is"
+    },
+    {
+      "start": 1867.74,
+      "end": 1874.14,
+      "text": "to be expected in that great reservoir and not an increase. Even so, Tiger food, there are these"
+    },
+    {
+      "start": 1874.14,
+      "end": 1880.7,
+      "text": "four channels for the flowing away of a mass wealth, looseness with women, debauchery in drinking,"
+    },
+    {
+      "start": 1881.34,
+      "end": 1890.06,
+      "text": "navery in dice play and friendship, companionship and intimacy with evil doers. Tiger food, the four"
+    },
+    {
+      "start": 1890.06,
+      "end": 1895.34,
+      "text": "channels for the flowing in of great wealth are these, abstinence from looseness with women,"
+    },
+    {
+      "start": 1895.34,
+      "end": 1901.26,
+      "text": "from debauchery in drinking, from navery in dice play and having friendship, companionship and"
+    },
+    {
+      "start": 1901.26,
+      "end": 1907.74,
+      "text": "intimacy with the good, just as in the case of a great reservoir with only four inlets and only"
+    },
+    {
+      "start": 1907.74,
+      "end": 1914.62,
+      "text": "four outlets. If a man should open the inlets and close the outlets and if there should be a proper"
+    },
+    {
+      "start": 1914.62,
+      "end": 1920.86,
+      "text": "fall of rain, an increase may be expected in that great reservoir and not a lessening. Even so,"
+    },
+    {
+      "start": 1920.86,
+      "end": 1926.22,
+      "text": "Tiger food, there are these four channels for the flowing in of great wealth, abstinence from"
+    },
+    {
+      "start": 1926.22,
+      "end": 1932.22,
+      "text": "looseness with women, from debauchery in drinking, from navery in dice play and the friendship,"
+    },
+    {
+      "start": 1932.22,
+      "end": 1937.9,
+      "text": "companionship and intimacy with the good. These Tiger food are the four conditions which lead"
+    },
+    {
+      "start": 1937.9,
+      "end": 1944.46,
+      "text": "to a glance man advantage and happiness here on earth. These four conditions Tiger food lead to"
+    },
+    {
+      "start": 1944.46,
+      "end": 1950.86,
+      "text": "a glance man's advantage and happiness in the world to come. But for achievement in faith,"
+    },
+    {
+      "start": 1950.94,
+      "end": 1957.18,
+      "text": "achievement in virtue, achievement in charity and achievement in wisdom. And what is achievement"
+    },
+    {
+      "start": 1957.18,
+      "end": 1963.18,
+      "text": "in faith? Herein a glance man has faith and believes in the awakening of the Tathagata,"
+    },
+    {
+      "start": 1963.18,
+      "end": 1969.66,
+      "text": "thinking of a truth he is the exalted one. This is called achievement in faith. And what is achievement"
+    },
+    {
+      "start": 1969.66,
+      "end": 1977.42,
+      "text": "in virtue? Herein a glance man abstains from taking life, from stealing, from adultery,"
+    },
+    {
+      "start": 1977.42,
+      "end": 1983.02,
+      "text": "from lying and from taking liquor. This is called achievement in virtue. And what is achievement"
+    },
+    {
+      "start": 1983.02,
+      "end": 1990.62,
+      "text": "in charity? Herein a glance man dwells at home with heart, purge of the stain of Everest and"
+    },
+    {
+      "start": 1992.06,
+      "end": 1998.46,
+      "text": "etc. etc. This is called achievement in charity. And what is achievement in wisdom? Herein a"
+    },
+    {
+      "start": 1998.46,
+      "end": 2004.62,
+      "text": "glance man is wise and is endowed with wisdom into the rise and fall of things etc. This is"
+    },
+    {
+      "start": 2004.62,
+      "end": 2010.06,
+      "text": "called achievement in wisdom. These Tiger food are the four conditions which lead to a glance"
+    },
+    {
+      "start": 2010.06,
+      "end": 2018.14,
+      "text": "man's advantage and happiness in the world to come as the end of the Sutta. So this Sutta is a"
+    },
+    {
+      "start": 2018.14,
+      "end": 2025.9,
+      "text": "very practical Sutta for lay persons. And because this person who came to ask the Buddha, he said"
+    },
+    {
+      "start": 2025.9,
+      "end": 2033.02,
+      "text": "he still wants to enjoy life as a lay person. But what are the things that he should cultivate?"
+    },
+    {
+      "start": 2033.1,
+      "end": 2042.7,
+      "text": "So the Buddha told him that he should cultivate achievement in alertness, achievement in weariness"
+    },
+    {
+      "start": 2043.26,
+      "end": 2051.02,
+      "text": "and keep good company and have an even life. And achievement in alertness is to be"
+    },
+    {
+      "start": 2052.46,
+      "end": 2060.06,
+      "text": "skillful in his work, in his job. Weariness is to be able to guard his wealth, his property."
+    },
+    {
+      "start": 2060.86,
+      "end": 2067.26,
+      "text": "Good company is keeping company with good persons and even life is to be able to"
+    },
+    {
+      "start": 2068.38,
+      "end": 2076.46,
+      "text": "spend his money wisely and not exceeding his income and not to be unduly elated or depressed."
+    },
+    {
+      "start": 2077.18,
+      "end": 2082.62,
+      "text": "And then the four channels for the flowing away of wealth is looseness with women,"
+    },
+    {
+      "start": 2083.34,
+      "end": 2092.46,
+      "text": "drinking, gambling and having evil friends. And the opposite leads to flowing in of great wealth."
+    },
+    {
+      "start": 2093.26,
+      "end": 2099.66,
+      "text": "And then four things lead to persons' advantage and happiness in the world to come just as before"
+    },
+    {
+      "start": 2100.38,
+      "end": 2107.42,
+      "text": "is the achievement in faith, having the faith in the Buddha, Dharma and Sangha, virtue keeping the"
+    },
+    {
+      "start": 2107.42,
+      "end": 2117.42,
+      "text": "precepts, charity that means being generous and practicing charity. And the last one is wisdom"
+    },
+    {
+      "start": 2117.42,
+      "end": 2126.7,
+      "text": "that means knowing that things are impermanent, that they arise and pass away and that basically"
+    },
+    {
+      "start": 2126.7,
+      "end": 2137.02,
+      "text": "means understanding the Dharma. So these are the things that will bring a person happiness in"
+    },
+    {
+      "start": 2137.02,
+      "end": 2147.85,
+      "text": "the world to come. And today we come to Zuta 8.6.58. The Buddha said,"
+    },
+    {
+      "start": 2150.46,
+      "end": 2159.58,
+      "text": "monks, a monk is endowed with eight qualities. A monk who is endowed with eight qualities is"
+    },
+    {
+      "start": 2159.58,
+      "end": 2168.06,
+      "text": "worthy of offerings, worthy of gifts, worthy of oblations, deserves to be reverently saluted."
+    },
+    {
+      "start": 2168.06,
+      "end": 2177.74,
+      "text": "The world's peerless field for merit. What it? Hearing among is virtuous. He is learned."
+    },
+    {
+      "start": 2178.3,
+      "end": 2186.38,
+      "text": "Number two, number three, he dwells strenuous, steadfast, energetic, shirking not the burden of"
+    },
+    {
+      "start": 2186.38,
+      "end": 2194.38,
+      "text": "righteousness or wholesomeness. Number four, he is a forest dweller, having his bed and seat"
+    },
+    {
+      "start": 2194.38,
+      "end": 2203.82,
+      "text": "apart from mankind. Number five, enduring lights and dislikes, dwelling in continuous mastery"
+    },
+    {
+      "start": 2203.82,
+      "end": 2213.02,
+      "text": "of dislikes which arise. Number six, enduring fear and dismay, dwelling in continuous mastery of"
+    },
+    {
+      "start": 2213.02,
+      "end": 2220.3,
+      "text": "fear and dismay which arise. Number seven, he attains to the four Jhana states. Number eight,"
+    },
+    {
+      "start": 2220.86,
+      "end": 2228.78,
+      "text": "he destroys the asavas. He who is endowed with these eight qualities is worthy of offerings,"
+    },
+    {
+      "start": 2228.78,
+      "end": 2235.26,
+      "text": "worthy of gifts, worthy of oblations, deserves to be reverently saluted. The world's peerless field"
+    },
+    {
+      "start": 2235.26,
+      "end": 2243.98,
+      "text": "for merit is the end of the Zuta. So these are the eight qualities which makes a monk very virtuous"
+    },
+    {
+      "start": 2243.98,
+      "end": 2252.74,
+      "text": "and worthy of salutations. Number one, he is virtuous. Number two, he is learned. That means"
+    },
+    {
+      "start": 2252.74,
+      "end": 2259.78,
+      "text": "he is learned in the Dhamma, the Buddha's teachings, most specifically the Dhamma Vinaya,"
+    },
+    {
+      "start": 2260.82,
+      "end": 2269.14,
+      "text": "the Zuta and the Vinaya. And then number three, he is energetic, always"
+    },
+    {
+      "start": 2269.14,
+      "end": 2277.46,
+      "text": "getting rid of unwholesome states of mind and developing wholesome states of mind."
+    },
+    {
+      "start": 2278.02,
+      "end": 2286.82,
+      "text": "Number four, he is a forest dweller. That means he dwells in seclusion, having his lodgings away"
+    },
+    {
+      "start": 2286.82,
+      "end": 2296.18,
+      "text": "from mankind. Number five, he is always trying to master dislikes which arise."
+    },
+    {
+      "start": 2298.26,
+      "end": 2307.06,
+      "text": "And number six, he is always trying to master fear which arise. Fear which arise is more likely"
+    },
+    {
+      "start": 2307.06,
+      "end": 2314.9,
+      "text": "in lonely places like among dwells alone, in lonely places sometimes at night."
+    },
+    {
+      "start": 2317.14,
+      "end": 2323.62,
+      "text": "There might be certain things, certain sounds which make him afraid. So he has to master the fear."
+    },
+    {
+      "start": 2325.8,
+      "end": 2332.52,
+      "text": "Number seven, he attains to the four jhanas. The four jhanas, the jhanas are considered"
+    },
+    {
+      "start": 2332.6,
+      "end": 2341.64,
+      "text": "uttari manusa dhamma, higher than human attainment. It is why if a person can attain the jhanas,"
+    },
+    {
+      "start": 2341.64,
+      "end": 2351.0,
+      "text": "he is worthy of reverence. The last one, he destroys the asabhas, becomes liberated."
+    }
+  ]
+}

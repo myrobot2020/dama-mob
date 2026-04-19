@@ -1,0 +1,2735 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1781.1563125,
+  "segments": [
+    {
+      "start": 1.01,
+      "end": 11.01,
+      "text": "Buddha 10.73, the Buddha said, monks, these ten things are desirable, dear, charming, hard to win in the world."
+    },
+    {
+      "start": 11.01,
+      "end": 17.01,
+      "text": "What ten? Wealth is desirable, dear, charming, hard to win in the world."
+    },
+    {
+      "start": 17.01,
+      "end": 28.01,
+      "text": "Beauty, health, virtue, the holy life, friends, much knowledge, wisdom, teachings, the heaven worlds are desirable,"
+    },
+    {
+      "start": 28.01,
+      "end": 32.01,
+      "text": "dear, charming, hard to win in the world. These are the ten."
+    },
+    {
+      "start": 32.01,
+      "end": 35.01,
+      "text": "Stop here for a moment. You just have a look at this."
+    },
+    {
+      "start": 35.01,
+      "end": 38.01,
+      "text": "Wealth, everybody wants wealth. It's hard to get."
+    },
+    {
+      "start": 38.01,
+      "end": 43.01,
+      "text": "Beauty also, especially women, like to have beauty, also hard to get."
+    },
+    {
+      "start": 43.01,
+      "end": 49.01,
+      "text": "Health, health also. Sometimes we take health for granted, but sometimes our health fails."
+    },
+    {
+      "start": 49.01,
+      "end": 55.01,
+      "text": "Virtue, holy life, holy life means a spiritual life becoming a monk or a nun."
+    },
+    {
+      "start": 55.01,
+      "end": 64.01,
+      "text": "And then friends, then much knowledge and wisdom and the teachings, the heaven worlds, all these are hard to attain."
+    },
+    {
+      "start": 64.01,
+      "end": 72.01,
+      "text": "Then the Buddha said, monks, to these ten things desirable, dear, charming, hard to win in the world."
+    },
+    {
+      "start": 72.01,
+      "end": 75.01,
+      "text": "Ten things are obstacles."
+    },
+    {
+      "start": 75.01,
+      "end": 79.01,
+      "text": "Sloth and non-exertion is an obstacle to wealth."
+    },
+    {
+      "start": 79.01,
+      "end": 84.01,
+      "text": "Lack of finery and adornment is an obstacle to beauty."
+    },
+    {
+      "start": 84.01,
+      "end": 88.01,
+      "text": "Not exercising regularly is an obstacle to health."
+    },
+    {
+      "start": 88.01,
+      "end": 92.01,
+      "text": "Friendship with the wicked is an obstacle to virtue."
+    },
+    {
+      "start": 92.01,
+      "end": 97.01,
+      "text": "Non-restrain of the sense faculties is an obstacle to the holy life."
+    },
+    {
+      "start": 97.01,
+      "end": 100.01,
+      "text": "Quarreling is an obstacle to having friends."
+    },
+    {
+      "start": 100.01,
+      "end": 105.01,
+      "text": "Failure to repeat is an obstacle to much knowledge."
+    },
+    {
+      "start": 105.01,
+      "end": 110.01,
+      "text": "Not to lend an ear and ask questions is an obstacle to wisdom."
+    },
+    {
+      "start": 110.01,
+      "end": 114.01,
+      "text": "Lack of study and investigation is an obstacle to teaching."
+    },
+    {
+      "start": 114.01,
+      "end": 119.01,
+      "text": "Wrong practice is an obstacle to gaining the heavens."
+    },
+    {
+      "start": 119.01,
+      "end": 127.01,
+      "text": "These are the ten obstacles to these ten things which are desirable, dear, charming, hard to win in the world."
+    },
+    {
+      "start": 127.01,
+      "end": 134.01,
+      "text": "Monks, ten things are helps to these ten things which are desirable, dear, charming, hard to win in the world."
+    },
+    {
+      "start": 134.01,
+      "end": 136.01,
+      "text": "What are the ten?"
+    },
+    {
+      "start": 136.01,
+      "end": 139.01,
+      "text": "Energy and exertion are helps to getting wealth."
+    },
+    {
+      "start": 139.01,
+      "end": 142.01,
+      "text": "Finery and adornment are helps to beauty."
+    },
+    {
+      "start": 142.01,
+      "end": 145.01,
+      "text": "Regular exercise is a help to health."
+    },
+    {
+      "start": 145.01,
+      "end": 148.01,
+      "text": "A lovely friendship is a help to virtue."
+    },
+    {
+      "start": 148.01,
+      "end": 152.01,
+      "text": "Restrain of the sense faculties is a help to the holy life."
+    },
+    {
+      "start": 152.01,
+      "end": 155.01,
+      "text": "Not quarreling is a help to friendship."
+    },
+    {
+      "start": 155.01,
+      "end": 157.01,
+      "text": "Repetition is a help to much knowledge."
+    },
+    {
+      "start": 157.01,
+      "end": 162.01,
+      "text": "Lending an ear and asking questions are helps to wisdom."
+    },
+    {
+      "start": 162.01,
+      "end": 165.01,
+      "text": "Study and investigation are helps to teaching."
+    },
+    {
+      "start": 165.01,
+      "end": 168.01,
+      "text": "Right practice is a help to the heaven world."
+    },
+    {
+      "start": 168.01,
+      "end": 175.01,
+      "text": "These are the ten helps to these ten things which are desirable, dear, charming, hard to win in the world."
+    },
+    {
+      "start": 175.01,
+      "end": 176.01,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 176.01,
+      "end": 179.01,
+      "text": "So you see these ten things most people want."
+    },
+    {
+      "start": 179.01,
+      "end": 182.01,
+      "text": "So here the Buddha is telling us how to get them."
+    },
+    {
+      "start": 182.01,
+      "end": 186.01,
+      "text": "If you want to have wealth then you have to have energy and exertion."
+    },
+    {
+      "start": 186.01,
+      "end": 188.01,
+      "text": "You have to work very hard."
+    },
+    {
+      "start": 188.01,
+      "end": 194.01,
+      "text": "A lot of people they want to pray for wealth but it doesn't come that way."
+    },
+    {
+      "start": 194.01,
+      "end": 196.01,
+      "text": "We have to work very hard."
+    },
+    {
+      "start": 196.01,
+      "end": 200.01,
+      "text": "And then finery and adornment are helps to beauty."
+    },
+    {
+      "start": 200.01,
+      "end": 209.01,
+      "text": "If you want to look beautiful then we have to make up and adorn the body then it looks beautiful."
+    },
+    {
+      "start": 209.01,
+      "end": 213.01,
+      "text": "Regular exercise is a help to health."
+    },
+    {
+      "start": 213.01,
+      "end": 218.01,
+      "text": "Nowadays people tend not to exercise so much."
+    },
+    {
+      "start": 218.01,
+      "end": 226.01,
+      "text": "When we were younger you find that a lot of people they earn their livelihood by working very hard and sweating."
+    },
+    {
+      "start": 226.01,
+      "end": 230.01,
+      "text": "Nowadays people push the pen as they say."
+    },
+    {
+      "start": 230.01,
+      "end": 232.01,
+      "text": "That's all the exercise they do."
+    },
+    {
+      "start": 232.01,
+      "end": 234.01,
+      "text": "Push the pen so not much exercise."
+    },
+    {
+      "start": 234.01,
+      "end": 240.01,
+      "text": "So we need to take exercise otherwise we cannot be healthy."
+    },
+    {
+      "start": 240.01,
+      "end": 245.01,
+      "text": "One suggestion is you come to our Vihara Plenty of Exercise."
+    },
+    {
+      "start": 245.01,
+      "end": 248.01,
+      "text": "A lovely friendship is a help to virtue."
+    },
+    {
+      "start": 248.01,
+      "end": 256.01,
+      "text": "If you have a good friend who will guide you the virtuous way then another day you can go to heaven."
+    },
+    {
+      "start": 256.01,
+      "end": 260.01,
+      "text": "Have a good rebirth and then you will be very thankful to him."
+    },
+    {
+      "start": 260.01,
+      "end": 264.01,
+      "text": "Restrain of the sense faculties is a help to the holy life."
+    },
+    {
+      "start": 264.01,
+      "end": 269.01,
+      "text": "You have to guard our six senses if you want to practice the holy life."
+    },
+    {
+      "start": 269.01,
+      "end": 272.01,
+      "text": "Not quarreling is a help to friendship."
+    },
+    {
+      "start": 272.01,
+      "end": 278.01,
+      "text": "If you want to retain our friends we don't want to be quarrelsome."
+    },
+    {
+      "start": 278.01,
+      "end": 281.01,
+      "text": "Repetition is a help to much knowledge."
+    },
+    {
+      "start": 281.01,
+      "end": 286.01,
+      "text": "This was especially true during the Buddha's time when they did not have books."
+    },
+    {
+      "start": 286.01,
+      "end": 292.01,
+      "text": "So you have to repeat whatever you learn to remember and have much knowledge."
+    },
+    {
+      "start": 292.01,
+      "end": 296.01,
+      "text": "Lending an ear and asking questions helps to wisdom."
+    },
+    {
+      "start": 296.01,
+      "end": 301.01,
+      "text": "If we want to have wisdom we need to hear properly and ask questions."
+    },
+    {
+      "start": 301.01,
+      "end": 306.01,
+      "text": "Whatever we don't understand maybe we should ask and then we will know more."
+    },
+    {
+      "start": 306.01,
+      "end": 309.01,
+      "text": "Study and investigation are helps to teaching."
+    },
+    {
+      "start": 309.01,
+      "end": 316.01,
+      "text": "If we want to teach then we have to study and investigate properly and then only we can teach others."
+    },
+    {
+      "start": 316.01,
+      "end": 319.01,
+      "text": "Right practice is a help to the heaven world."
+    },
+    {
+      "start": 319.01,
+      "end": 322.01,
+      "text": "That means doing the right things."
+    },
+    {
+      "start": 322.01,
+      "end": 329.01,
+      "text": "For example keeping your seal, keeping your precepts, having good moral conduct."
+    },
+    {
+      "start": 329.01,
+      "end": 332.01,
+      "text": "Then the second thing is generosity."
+    },
+    {
+      "start": 332.01,
+      "end": 338.01,
+      "text": "These two are very important if we want to have rebirth in the heaven world."
+    },
+    {
+      "start": 338.01,
+      "end": 343.01,
+      "text": "Moral conduct and generosity or charity."
+    },
+    {
+      "start": 343.01,
+      "end": 346.01,
+      "text": "Now the Sutta is 10.74."
+    },
+    {
+      "start": 346.01,
+      "end": 348.01,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 348.01,
+      "end": 355.01,
+      "text": "By increasing in ten growths, the Aryan disciple grows in the Aryan growth."
+    },
+    {
+      "start": 355.01,
+      "end": 360.01,
+      "text": "Takes whole of the essential, takes whole of the best for his person."
+    },
+    {
+      "start": 360.01,
+      "end": 361.01,
+      "text": "What ten?"
+    },
+    {
+      "start": 361.01,
+      "end": 370.01,
+      "text": "He grows in landed property, in wealth and granary, in child and wife, in slaves and folk who work for him,"
+    },
+    {
+      "start": 370.01,
+      "end": 372.01,
+      "text": "in four-footed beasts."
+    },
+    {
+      "start": 372.01,
+      "end": 378.01,
+      "text": "He grows in faith and virtue, in love, generosity and wisdom."
+    },
+    {
+      "start": 378.01,
+      "end": 386.01,
+      "text": "In these ten growths, the Aryan disciple grows in the Aryan growth."
+    },
+    {
+      "start": 386.01,
+      "end": 390.01,
+      "text": "Takes whole of the essential, takes whole of the best for his person."
+    },
+    {
+      "start": 390.01,
+      "end": 392.01,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 392.01,
+      "end": 395.01,
+      "text": "This Sutta is more for lay people."
+    },
+    {
+      "start": 395.01,
+      "end": 398.01,
+      "text": "Lay people like you, the Buddha says,"
+    },
+    {
+      "start": 398.01,
+      "end": 402.01,
+      "text": "These ten things are good for you in the Aryan discipline."
+    },
+    {
+      "start": 402.01,
+      "end": 408.01,
+      "text": "Having more landed property, having more land property."
+    },
+    {
+      "start": 408.01,
+      "end": 414.01,
+      "text": "Second one, having wealth and granary, having a lot of money and property."
+    },
+    {
+      "start": 414.01,
+      "end": 420.01,
+      "text": "But of course you must know how to use it properly, otherwise it would not be good."
+    },
+    {
+      "start": 420.01,
+      "end": 424.01,
+      "text": "Then number three, child and wife, having a lot of children."
+    },
+    {
+      "start": 424.01,
+      "end": 428.01,
+      "text": "And maybe a lot of wives or so, during the Buddha's time."
+    },
+    {
+      "start": 428.01,
+      "end": 432.01,
+      "text": "Because at that time, they were not monogamous."
+    },
+    {
+      "start": 432.01,
+      "end": 436.01,
+      "text": "A man could have as many wives as he could support."
+    },
+    {
+      "start": 436.01,
+      "end": 442.01,
+      "text": "Then number four, slaves and workers."
+    },
+    {
+      "start": 442.01,
+      "end": 451.01,
+      "text": "Then number five is four-footed beasts, animal property, cattle and pigs and all that."
+    },
+    {
+      "start": 451.01,
+      "end": 455.01,
+      "text": "Number six, having faith, having more faith."
+    },
+    {
+      "start": 455.01,
+      "end": 458.01,
+      "text": "Number seven, virtue or moral conduct."
+    },
+    {
+      "start": 458.01,
+      "end": 466.01,
+      "text": "Number eight, love or loving kindness, metta."
+    },
+    {
+      "start": 466.01,
+      "end": 469.01,
+      "text": "Number nine, generosity or charity."
+    },
+    {
+      "start": 469.01,
+      "end": 471.01,
+      "text": "Number ten, wisdom."
+    },
+    {
+      "start": 471.01,
+      "end": 477.01,
+      "text": "So these are good qualities to acquire, good things to acquire for lay people."
+    },
+    {
+      "start": 477.01,
+      "end": 485.66,
+      "text": "Now we come to sutta number 10.99."
+    },
+    {
+      "start": 485.66,
+      "end": 492.81,
+      "text": "I skip some suttas because I try to finish this book."
+    },
+    {
+      "start": 492.81,
+      "end": 497.81,
+      "text": "Read the important suttas."
+    },
+    {
+      "start": 497.81,
+      "end": 499.81,
+      "text": "10.99."
+    },
+    {
+      "start": 499.81,
+      "end": 504.81,
+      "text": "Now the verbal upali came to the exalted one, paid homage and said to one side."
+    },
+    {
+      "start": 504.81,
+      "end": 508.81,
+      "text": "Seated to one side, he said to the exalted one,"
+    },
+    {
+      "start": 508.81,
+      "end": 515.81,
+      "text": "Sir, I desire to frequent woodland haunts in the forest to be a lodger in solitude."
+    },
+    {
+      "start": 515.81,
+      "end": 524.81,
+      "text": "And the Buddha said upali, to frequent woodland haunts in the forest and to be a lodger in solitude are things hard to do."
+    },
+    {
+      "start": 524.81,
+      "end": 528.81,
+      "text": "A hard thing it is to dwell secluded."
+    },
+    {
+      "start": 528.81,
+      "end": 531.81,
+      "text": "It is hard to find delight in living alone."
+    },
+    {
+      "start": 531.81,
+      "end": 533.81,
+      "text": "The woods strain the mind."
+    },
+    {
+      "start": 533.81,
+      "end": 537.81,
+      "text": "I think of a monk who has not one concentration of mind."
+    },
+    {
+      "start": 537.81,
+      "end": 542.81,
+      "text": "Whoso upali should say, though I have not one concentration of mind,"
+    },
+    {
+      "start": 542.81,
+      "end": 545.81,
+      "text": "yet I will frequent woodland haunts in the forest."
+    },
+    {
+      "start": 545.81,
+      "end": 548.81,
+      "text": "I will be a lodger in solitude."
+    },
+    {
+      "start": 548.81,
+      "end": 555.81,
+      "text": "Of him, it is to be expected that either he will sing to the bottom or float on the surface."
+    },
+    {
+      "start": 555.81,
+      "end": 560.81,
+      "text": "Suppose upali, a great pool of, there is a great pool of water."
+    },
+    {
+      "start": 560.81,
+      "end": 565.81,
+      "text": "Then comes a bull elephant, seven or eight cubits in height."
+    },
+    {
+      "start": 565.81,
+      "end": 572.81,
+      "text": "Stop here for a moment. Here cubit is the length of a forearm, slightly more than a foot."
+    },
+    {
+      "start": 572.81,
+      "end": 576.81,
+      "text": "So this elephant is seven or eight cubits in height."
+    },
+    {
+      "start": 576.81,
+      "end": 580.81,
+      "text": "And he thinks thus, suppose I plunge into this pool of water"
+    },
+    {
+      "start": 580.81,
+      "end": 586.81,
+      "text": "and amuse myself with the sport of squirting water into my ears or over my back."
+    },
+    {
+      "start": 586.81,
+      "end": 591.81,
+      "text": "When I have enjoyed this sport and washed and drunk and come out again,"
+    },
+    {
+      "start": 591.81,
+      "end": 595.81,
+      "text": "suppose I go wither so ever it pleases me."
+    },
+    {
+      "start": 595.81,
+      "end": 601.81,
+      "text": "So in he goes and thus so comes out again and goes wither so ever it pleases him."
+    },
+    {
+      "start": 601.81,
+      "end": 603.81,
+      "text": "How can he do it?"
+    },
+    {
+      "start": 603.81,
+      "end": 608.81,
+      "text": "The great bulk of his person upali finds a footing in deep water."
+    },
+    {
+      "start": 608.81,
+      "end": 614.81,
+      "text": "But suppose a hare, there is a rabbit or a cat, should come and say to itself,"
+    },
+    {
+      "start": 614.81,
+      "end": 617.81,
+      "text": "what difference is there between myself and the bull elephant?"
+    },
+    {
+      "start": 617.81,
+      "end": 624.81,
+      "text": "Suppose I plunge into this pool of water and amuse myself with the sport of squirting water into my eyes"
+    },
+    {
+      "start": 624.81,
+      "end": 627.81,
+      "text": "or into my ears or over my back."
+    },
+    {
+      "start": 627.81,
+      "end": 631.81,
+      "text": "When I have enjoyed this sport and washed and drunk and come out again,"
+    },
+    {
+      "start": 631.81,
+      "end": 634.81,
+      "text": "suppose I go wither so ever it pleases me."
+    },
+    {
+      "start": 634.81,
+      "end": 639.81,
+      "text": "So he springs into that pool of water hastily and without consideration."
+    },
+    {
+      "start": 639.81,
+      "end": 642.81,
+      "text": "Then this is to be expected of him."
+    },
+    {
+      "start": 642.81,
+      "end": 645.81,
+      "text": "Either he will sink to the bottom or float on the surface."
+    },
+    {
+      "start": 645.81,
+      "end": 652.81,
+      "text": "Why so? The smallness of his person upali finds no footing in deep water."
+    },
+    {
+      "start": 652.81,
+      "end": 656.81,
+      "text": "Just in the same way upali, who so should say,"
+    },
+    {
+      "start": 656.81,
+      "end": 662.81,
+      "text": "though I have not one concentration of mine, yet I will frequent woodland haunts in the forest."
+    },
+    {
+      "start": 662.81,
+      "end": 664.81,
+      "text": "I will be a lodger in solitude."
+    },
+    {
+      "start": 664.81,
+      "end": 671.81,
+      "text": "Of him it is to be expected that either he will sink to the bottom or float on the surface."
+    },
+    {
+      "start": 671.81,
+      "end": 674.81,
+      "text": "I will stop here for a moment to comment."
+    },
+    {
+      "start": 674.81,
+      "end": 684.81,
+      "text": "This monk upali is not the famous upali who was the most learned in the Vinaya."
+    },
+    {
+      "start": 684.81,
+      "end": 690.81,
+      "text": "This was another monk. This upali is not well known."
+    },
+    {
+      "start": 690.81,
+      "end": 697.81,
+      "text": "So the Buddha told him that if he wants to stay in the forest and stay alone in the deep forest,"
+    },
+    {
+      "start": 697.81,
+      "end": 700.81,
+      "text": "he must at least get some concentration."
+    },
+    {
+      "start": 700.81,
+      "end": 704.81,
+      "text": "Otherwise he won't be able to practice."
+    },
+    {
+      "start": 704.81,
+      "end": 710.81,
+      "text": "Because if our mind is not steady, we have not tamed the mind by attaining concentration."
+    },
+    {
+      "start": 710.81,
+      "end": 713.81,
+      "text": "When we live alone, it can disturb us a lot."
+    },
+    {
+      "start": 713.81,
+      "end": 720.81,
+      "text": "We can feel a lot of thoughts disturbing us and we won't be able to practice."
+    },
+    {
+      "start": 720.81,
+      "end": 725.81,
+      "text": "And a lot of other things, if your mind is not steady,"
+    },
+    {
+      "start": 725.81,
+      "end": 732.81,
+      "text": "you have a lot of hardship, nobody to confide in, nobody to consult,"
+    },
+    {
+      "start": 732.81,
+      "end": 736.81,
+      "text": "then you also cannot stand."
+    },
+    {
+      "start": 736.81,
+      "end": 741.81,
+      "text": "Sometimes you might not get enough food to eat or sometimes in the evening."
+    },
+    {
+      "start": 741.81,
+      "end": 746.81,
+      "text": "You might not feel very well also and nobody to comfort you."
+    },
+    {
+      "start": 746.81,
+      "end": 748.81,
+      "text": "You are staying all by yourself."
+    },
+    {
+      "start": 748.81,
+      "end": 750.81,
+      "text": "So you need to have a fairly strong mind."
+    },
+    {
+      "start": 750.81,
+      "end": 755.81,
+      "text": "Why not many monks are capable of staying alone?"
+    },
+    {
+      "start": 755.81,
+      "end": 759.81,
+      "text": "Especially if you are staying alone long."
+    },
+    {
+      "start": 759.81,
+      "end": 765.81,
+      "text": "Some monks can stay alone for one or two weeks or three weeks or even three months."
+    },
+    {
+      "start": 765.81,
+      "end": 772.81,
+      "text": "But if you ask them to stay year after year alone, it is very difficult for most people."
+    },
+    {
+      "start": 772.81,
+      "end": 774.81,
+      "text": "Then the Buddha said,"
+    },
+    {
+      "start": 774.81,
+      "end": 779.81,
+      "text": "Again, Upali, suppose a tender boy child, feeble and lying on his back"
+    },
+    {
+      "start": 779.81,
+      "end": 781.81,
+      "text": "and playing with his own excrement."
+    },
+    {
+      "start": 781.81,
+      "end": 783.81,
+      "text": "What think you, Upali?"
+    },
+    {
+      "start": 783.81,
+      "end": 787.81,
+      "text": "Does not this childish sport come to completion and fullness?"
+    },
+    {
+      "start": 787.81,
+      "end": 789.81,
+      "text": "And he said, it does, sir."
+    },
+    {
+      "start": 789.81,
+      "end": 795.81,
+      "text": "Well then, Upali, that boy child on another occasion when he has grown older,"
+    },
+    {
+      "start": 795.81,
+      "end": 798.81,
+      "text": "following on the ripening of the sense faculties,"
+    },
+    {
+      "start": 798.81,
+      "end": 804.81,
+      "text": "plays with whatever may be the playthings of such children such as a toy plow,"
+    },
+    {
+      "start": 804.81,
+      "end": 811.81,
+      "text": "tip cat, somersaults, windmills, leaf panikins, toy carts and toy bows."
+    },
+    {
+      "start": 811.81,
+      "end": 813.81,
+      "text": "Now what think you, Upali?"
+    },
+    {
+      "start": 813.81,
+      "end": 817.81,
+      "text": "Does not this game come to be finer and more valued than the former?"
+    },
+    {
+      "start": 817.81,
+      "end": 820.81,
+      "text": "And he said, it does, sir."
+    },
+    {
+      "start": 820.81,
+      "end": 824.81,
+      "text": "Well, Upali, that child later on when he has grown older,"
+    },
+    {
+      "start": 824.81,
+      "end": 830.81,
+      "text": "owing to the ripening of his sense faculties and has come into possession of the five sense pleasures"
+    },
+    {
+      "start": 830.81,
+      "end": 832.81,
+      "text": "and is possessed by them,"
+    },
+    {
+      "start": 832.81,
+      "end": 836.81,
+      "text": "he becomes a prey to them, to objects cognisable by the eye,"
+    },
+    {
+      "start": 836.81,
+      "end": 840.81,
+      "text": "objects desirable, agreeable, fascinating, attractive,"
+    },
+    {
+      "start": 840.81,
+      "end": 845.81,
+      "text": "to sounds, to odours, tastes, touch, etc."
+    },
+    {
+      "start": 845.81,
+      "end": 849.81,
+      "text": "Things concerned with sensual desires and passionate."
+    },
+    {
+      "start": 849.81,
+      "end": 851.81,
+      "text": "Now what think you, Upali?"
+    },
+    {
+      "start": 851.81,
+      "end": 855.81,
+      "text": "Does not this game come to be finer and more valuable than the former?"
+    },
+    {
+      "start": 855.81,
+      "end": 858.81,
+      "text": "And he said, it does, sir."
+    },
+    {
+      "start": 858.81,
+      "end": 860.81,
+      "text": "Now look you, Upali."
+    },
+    {
+      "start": 860.81,
+      "end": 863.81,
+      "text": "A tata gata arises in the world,"
+    },
+    {
+      "start": 863.81,
+      "end": 866.81,
+      "text": "an arahan, a perfectly enlightened one,"
+    },
+    {
+      "start": 866.81,
+      "end": 871.28,
+      "text": "endowed with knowledge and conduct, etc."
+    },
+    {
+      "start": 871.28,
+      "end": 875.28,
+      "text": "He makes known this world with its devas, its maras, its brahmas,"
+    },
+    {
+      "start": 875.28,
+      "end": 879.28,
+      "text": "its recluses and brahmins, its host of devas and mankind,"
+    },
+    {
+      "start": 879.28,
+      "end": 882.28,
+      "text": "himself realising it by his own comprehension."
+    },
+    {
+      "start": 882.28,
+      "end": 887.28,
+      "text": "He teaches dhamma, lovely in the beginning, lovely in the middle, lovely in the end,"
+    },
+    {
+      "start": 887.28,
+      "end": 889.28,
+      "text": "both in its meaning and its letter."
+    },
+    {
+      "start": 889.28,
+      "end": 894.28,
+      "text": "He shows the holy life utterly fulfilled and purified."
+    },
+    {
+      "start": 894.28,
+      "end": 898.28,
+      "text": "Then a householder, or householder's son,"
+    },
+    {
+      "start": 898.28,
+      "end": 901.28,
+      "text": "or one reborn in some family or other hears that dhamma."
+    },
+    {
+      "start": 901.28,
+      "end": 905.28,
+      "text": "On hearing that dhamma, he wins faith in the tata gata."
+    },
+    {
+      "start": 905.28,
+      "end": 909.28,
+      "text": "In possession of that faith which he has won, he ponders thus."
+    },
+    {
+      "start": 909.28,
+      "end": 912.28,
+      "text": "Oppressive is the home life, a way of thus."
+    },
+    {
+      "start": 912.28,
+      "end": 915.28,
+      "text": "The way of going forth is of the open air."
+    },
+    {
+      "start": 915.28,
+      "end": 918.28,
+      "text": "It is no easy thing for one living the household life"
+    },
+    {
+      "start": 918.28,
+      "end": 921.28,
+      "text": "to practice the holy life in all its completeness,"
+    },
+    {
+      "start": 921.28,
+      "end": 924.28,
+      "text": "in utter purity like a polished shell."
+    },
+    {
+      "start": 924.28,
+      "end": 928.28,
+      "text": "What if I were to get the hair of my beard,"
+    },
+    {
+      "start": 928.28,
+      "end": 933.28,
+      "text": "shorn, get my hair and my beard shorn,"
+    },
+    {
+      "start": 933.28,
+      "end": 935.28,
+      "text": "and donning the saffron robe,"
+    },
+    {
+      "start": 935.28,
+      "end": 938.28,
+      "text": "were to go forth from home to the homeless life."
+    },
+    {
+      "start": 938.28,
+      "end": 942.28,
+      "text": "Then he, sometime later on, abandoning the whole mass of his wealth,"
+    },
+    {
+      "start": 942.28,
+      "end": 946.28,
+      "text": "whether small or great, abandoning his circle of relatives,"
+    },
+    {
+      "start": 946.28,
+      "end": 950.28,
+      "text": "whether small or great, gets his hair and his beard shorn,"
+    },
+    {
+      "start": 950.28,
+      "end": 952.28,
+      "text": "and dons the saffron robes,"
+    },
+    {
+      "start": 952.28,
+      "end": 955.28,
+      "text": "and goes forth from the home to the homeless life."
+    },
+    {
+      "start": 955.28,
+      "end": 957.28,
+      "text": "Stop here for a moment."
+    },
+    {
+      "start": 957.28,
+      "end": 962.28,
+      "text": "You see normally for a person to go forth, he hears the dhamma."
+    },
+    {
+      "start": 962.28,
+      "end": 966.28,
+      "text": "After hearing the dhamma, he understands the meaning of the dhamma."
+    },
+    {
+      "start": 966.28,
+      "end": 970.28,
+      "text": "And then he sees anicha, impermanence in life,"
+    },
+    {
+      "start": 970.28,
+      "end": 973.28,
+      "text": "that we all grow old and die."
+    },
+    {
+      "start": 973.28,
+      "end": 978.28,
+      "text": "Then he goes forth."
+    },
+    {
+      "start": 978.28,
+      "end": 980.28,
+      "text": "And then the Buddha continues,"
+    },
+    {
+      "start": 980.28,
+      "end": 982.28,
+      "text": "he having thus gone forth,"
+    },
+    {
+      "start": 982.28,
+      "end": 986.28,
+      "text": "having entered upon the way of life in the training followed by the monks,"
+    },
+    {
+      "start": 986.28,
+      "end": 989.28,
+      "text": "abandoning the slaying of creatures, abstains therefrom."
+    },
+    {
+      "start": 989.28,
+      "end": 991.28,
+      "text": "He lives as one who has laid down the rod,"
+    },
+    {
+      "start": 991.28,
+      "end": 994.28,
+      "text": "who has laid down the knife, who has scruples,"
+    },
+    {
+      "start": 994.28,
+      "end": 999.28,
+      "text": "he is kind and compassionate for every living being."
+    },
+    {
+      "start": 999.28,
+      "end": 1003.28,
+      "text": "Abandoning the taking of what is not given, he abstains therefrom."
+    },
+    {
+      "start": 1003.28,
+      "end": 1006.28,
+      "text": "He lives as one who takes only what is given,"
+    },
+    {
+      "start": 1006.28,
+      "end": 1008.28,
+      "text": "who waits for what is given."
+    },
+    {
+      "start": 1008.28,
+      "end": 1012.28,
+      "text": "He lives with a self that has become pure, not by self."
+    },
+    {
+      "start": 1012.28,
+      "end": 1017.28,
+      "text": "Abandoning the unchaste life, he lives a life aloof,"
+    },
+    {
+      "start": 1017.28,
+      "end": 1020.28,
+      "text": "abstaining from the sexual act, from dealings with women."
+    },
+    {
+      "start": 1020.28,
+      "end": 1023.28,
+      "text": "Abandoning falsehood, he abstains therefrom."
+    },
+    {
+      "start": 1023.28,
+      "end": 1026.28,
+      "text": "He speaks the truth, joins truth to truth,"
+    },
+    {
+      "start": 1026.28,
+      "end": 1029.28,
+      "text": "unswerving, reliable, no deceiver of the world."
+    },
+    {
+      "start": 1029.28,
+      "end": 1032.28,
+      "text": "Abandoning slanderous speech, he abstains therefrom."
+    },
+    {
+      "start": 1032.28,
+      "end": 1034.28,
+      "text": "When he hears something at one place,"
+    },
+    {
+      "start": 1034.28,
+      "end": 1037.28,
+      "text": "he spreads it not abroad elsewhere,"
+    },
+    {
+      "start": 1037.28,
+      "end": 1039.28,
+      "text": "to cause dissension among those folk."
+    },
+    {
+      "start": 1039.28,
+      "end": 1041.28,
+      "text": "When he hears something at another place,"
+    },
+    {
+      "start": 1041.28,
+      "end": 1043.28,
+      "text": "he spreads it not abroad elsewhere,"
+    },
+    {
+      "start": 1043.28,
+      "end": 1046.28,
+      "text": "to cause dissension among these folk."
+    },
+    {
+      "start": 1046.28,
+      "end": 1049.28,
+      "text": "Thus he reconciles those who are at variance"
+    },
+    {
+      "start": 1049.28,
+      "end": 1051.28,
+      "text": "and confirms the friendly."
+    },
+    {
+      "start": 1051.28,
+      "end": 1054.28,
+      "text": "He delights in harmony, finds pleasure therein,"
+    },
+    {
+      "start": 1054.28,
+      "end": 1058.28,
+      "text": "rejoices in harmony and utters words that make for harmony."
+    },
+    {
+      "start": 1058.28,
+      "end": 1061.28,
+      "text": "Abandoning bitter speech, he abstains therefrom."
+    },
+    {
+      "start": 1061.28,
+      "end": 1065.28,
+      "text": "Whatever speech is blameless, pleasing to the ear, affectionate."
+    },
+    {
+      "start": 1065.28,
+      "end": 1069.28,
+      "text": "Speech that goes to the heart is obeying, delights many folk."
+    },
+    {
+      "start": 1069.28,
+      "end": 1071.28,
+      "text": "Such speech does he utter."
+    },
+    {
+      "start": 1071.28,
+      "end": 1074.28,
+      "text": "Abandoning idle gossip, he abstains therefrom."
+    },
+    {
+      "start": 1074.28,
+      "end": 1077.28,
+      "text": "He is one who speaks in season, speaks of facts,"
+    },
+    {
+      "start": 1077.28,
+      "end": 1080.28,
+      "text": "speaks sense, speaks according to dhamma,"
+    },
+    {
+      "start": 1080.28,
+      "end": 1084.28,
+      "text": "according to the discipline."
+    },
+    {
+      "start": 1084.28,
+      "end": 1086.28,
+      "text": "He speaks words worth treasuring up,"
+    },
+    {
+      "start": 1086.28,
+      "end": 1089.28,
+      "text": "words seasonable, reasonable, discriminating"
+    },
+    {
+      "start": 1089.28,
+      "end": 1091.28,
+      "text": "and concerned with benefit."
+    },
+    {
+      "start": 1091.28,
+      "end": 1095.28,
+      "text": "He is one who abstains from injury to seed life and plant life."
+    },
+    {
+      "start": 1095.28,
+      "end": 1099.28,
+      "text": "He lives on one meal a day, refrains from food at night"
+    },
+    {
+      "start": 1099.28,
+      "end": 1102.28,
+      "text": "and at unseasonable hours."
+    },
+    {
+      "start": 1102.28,
+      "end": 1106.28,
+      "text": "From flowers, scents, anguans, adornments and finery."
+    },
+    {
+      "start": 1106.28,
+      "end": 1109.28,
+      "text": "He abstains from shows of dancing and singing."
+    },
+    {
+      "start": 1109.28,
+      "end": 1111.28,
+      "text": "From beds high and broad."
+    },
+    {
+      "start": 1111.28,
+      "end": 1114.28,
+      "text": "From taking gifts of gold and silver, that is money."
+    },
+    {
+      "start": 1114.28,
+      "end": 1118.28,
+      "text": "From gifts of uncooked grain, gifts of uncooked flesh."
+    },
+    {
+      "start": 1118.28,
+      "end": 1122.28,
+      "text": "From gifts of women and girls, female and male slaves."
+    },
+    {
+      "start": 1122.28,
+      "end": 1128.28,
+      "text": "Of goats and sheep, fowls and pigs, elephants, cattle, horses and mares."
+    },
+    {
+      "start": 1128.28,
+      "end": 1132.28,
+      "text": "He abstains from gifts of fields, cultivated or waste."
+    },
+    {
+      "start": 1132.28,
+      "end": 1134.28,
+      "text": "From buying and selling."
+    },
+    {
+      "start": 1134.28,
+      "end": 1138.28,
+      "text": "Abstains from sending messages or going as such."
+    },
+    {
+      "start": 1138.28,
+      "end": 1141.28,
+      "text": "From cheating with scales, copper vessels or measures."
+    },
+    {
+      "start": 1141.28,
+      "end": 1144.28,
+      "text": "From taking bribes to pervert justice."
+    },
+    {
+      "start": 1144.28,
+      "end": 1146.28,
+      "text": "From cheating and crooked ways."
+    },
+    {
+      "start": 1146.28,
+      "end": 1149.28,
+      "text": "He abstains from cutting, flogging, binding, highway robbery,"
+    },
+    {
+      "start": 1149.28,
+      "end": 1151.28,
+      "text": "plundering and deeds of violence."
+    },
+    {
+      "start": 1151.28,
+      "end": 1153.28,
+      "text": "Let's stop here for a moment."
+    },
+    {
+      "start": 1153.28,
+      "end": 1155.28,
+      "text": "This is all a description of moral conduct."
+    },
+    {
+      "start": 1155.28,
+      "end": 1158.28,
+      "text": "Sela for monks."
+    },
+    {
+      "start": 1158.28,
+      "end": 1160.28,
+      "text": "Then the Buddha continues."
+    },
+    {
+      "start": 1160.28,
+      "end": 1163.28,
+      "text": "He is content with the robe, sufficient to protect the body."
+    },
+    {
+      "start": 1163.28,
+      "end": 1167.28,
+      "text": "With arms, food, sufficient for his belly's needs."
+    },
+    {
+      "start": 1167.28,
+      "end": 1170.28,
+      "text": "Wherever he may go, he takes these with him."
+    },
+    {
+      "start": 1170.28,
+      "end": 1174.28,
+      "text": "Just as for instance, a bird upon the wing, wherever it may fly,"
+    },
+    {
+      "start": 1174.28,
+      "end": 1176.28,
+      "text": "flies with the load of its wings."
+    },
+    {
+      "start": 1176.28,
+      "end": 1180.28,
+      "text": "Even so, a monk is content with the robe, with arms, food"
+    },
+    {
+      "start": 1180.28,
+      "end": 1182.28,
+      "text": "and takes these with him."
+    },
+    {
+      "start": 1182.28,
+      "end": 1184.28,
+      "text": "Possessed of this Aryan mass of morals,"
+    },
+    {
+      "start": 1184.28,
+      "end": 1188.28,
+      "text": "he experiences in himself the bliss of blamelessness."
+    },
+    {
+      "start": 1188.28,
+      "end": 1190.28,
+      "text": "Let's stop here for a moment."
+    },
+    {
+      "start": 1190.28,
+      "end": 1193.28,
+      "text": "This is a description of contentment."
+    },
+    {
+      "start": 1193.28,
+      "end": 1196.28,
+      "text": "A monk does not want many things."
+    },
+    {
+      "start": 1196.28,
+      "end": 1198.28,
+      "text": "Then the Buddha continues."
+    },
+    {
+      "start": 1226.28,
+      "end": 1230.28,
+      "text": "He is not misled by their outer view or by their lesser details."
+    },
+    {
+      "start": 1230.28,
+      "end": 1234.28,
+      "text": "But since coveting and dejection, evil and profitable states"
+    },
+    {
+      "start": 1234.28,
+      "end": 1236.28,
+      "text": "might flow in upon one who lives,"
+    },
+    {
+      "start": 1236.28,
+      "end": 1242.28,
+      "text": "thus he sets a guard over his sense faculties,"
+    },
+    {
+      "start": 1242.28,
+      "end": 1244.28,
+      "text": "attains control thereof."
+    },
+    {
+      "start": 1244.28,
+      "end": 1247.28,
+      "text": "Thus possessed of this Aryan restraint of faculties,"
+    },
+    {
+      "start": 1247.28,
+      "end": 1250.28,
+      "text": "he experiences in himself unadulterated bliss."
+    },
+    {
+      "start": 1250.28,
+      "end": 1252.28,
+      "text": "Let's stop here for a moment."
+    },
+    {
+      "start": 1252.28,
+      "end": 1255.28,
+      "text": "This refers to the guarding of the sense faculties."
+    },
+    {
+      "start": 1256.28,
+      "end": 1258.28,
+      "text": "For a monk."
+    },
+    {
+      "start": 1258.28,
+      "end": 1260.28,
+      "text": "And then to continue."
+    },
+    {
+      "start": 1260.28,
+      "end": 1263.28,
+      "text": "In his goings out and his coming in,"
+    },
+    {
+      "start": 1263.28,
+      "end": 1265.28,
+      "text": "he acts composately,"
+    },
+    {
+      "start": 1265.28,
+      "end": 1267.28,
+      "text": "in looking in front and looking behind,"
+    },
+    {
+      "start": 1267.28,
+      "end": 1270.28,
+      "text": "in bending or relaxing, in wearing his robe"
+    },
+    {
+      "start": 1270.28,
+      "end": 1272.28,
+      "text": "and bearing outer robe and bowl,"
+    },
+    {
+      "start": 1272.28,
+      "end": 1274.28,
+      "text": "in eating, drinking, chewing and tasting,"
+    },
+    {
+      "start": 1274.28,
+      "end": 1276.28,
+      "text": "in easing in himself,"
+    },
+    {
+      "start": 1276.28,
+      "end": 1279.28,
+      "text": "in going, standing, sitting, sleeping, waking,"
+    },
+    {
+      "start": 1279.28,
+      "end": 1281.28,
+      "text": "in speaking and keeping silence,"
+    },
+    {
+      "start": 1281.28,
+      "end": 1283.28,
+      "text": "he acts composately."
+    },
+    {
+      "start": 1283.28,
+      "end": 1291.82,
+      "text": "This one, this refers to awareness,"
+    },
+    {
+      "start": 1291.82,
+      "end": 1296.82,
+      "text": "sampajanya, a mindfulness in whatever he does."
+    },
+    {
+      "start": 1296.82,
+      "end": 1298.82,
+      "text": "Let me continue."
+    },
+    {
+      "start": 1298.82,
+      "end": 1300.82,
+      "text": "Possessed of this Aryan mess or morals"
+    },
+    {
+      "start": 1300.82,
+      "end": 1304.82,
+      "text": "and this Aryan restraint of the sense faculties and composure,"
+    },
+    {
+      "start": 1304.82,
+      "end": 1306.82,
+      "text": "he resorts to a secluded lodging place,"
+    },
+    {
+      "start": 1306.82,
+      "end": 1309.82,
+      "text": "a forest, the root of a tree, a hill,"
+    },
+    {
+      "start": 1309.82,
+      "end": 1313.82,
+      "text": "ravine, grotto or cave, a chano field or cemetery."
+    },
+    {
+      "start": 1313.82,
+      "end": 1316.82,
+      "text": "A jungle path and open space, a heap of straw."
+    },
+    {
+      "start": 1316.82,
+      "end": 1320.82,
+      "text": "Thus gone to the forest or root of a tree or a lonely place,"
+    },
+    {
+      "start": 1320.82,
+      "end": 1323.82,
+      "text": "he sits down cross-legged, keeping his body erect"
+    },
+    {
+      "start": 1323.82,
+      "end": 1326.82,
+      "text": "and fixing attention in front of him."
+    },
+    {
+      "start": 1326.82,
+      "end": 1329.82,
+      "text": "Then abandoning the hankering after the world,"
+    },
+    {
+      "start": 1329.82,
+      "end": 1331.82,
+      "text": "he abides with heart-free therefrom."
+    },
+    {
+      "start": 1331.82,
+      "end": 1333.82,
+      "text": "He cleanses his heart of hankering,"
+    },
+    {
+      "start": 1333.82,
+      "end": 1335.82,
+      "text": "abandoning the taint of ill-will."
+    },
+    {
+      "start": 1335.82,
+      "end": 1337.82,
+      "text": "With heart-free from ill-will,"
+    },
+    {
+      "start": 1337.82,
+      "end": 1339.82,
+      "text": "he abides having regard for the welfare"
+    },
+    {
+      "start": 1339.82,
+      "end": 1342.82,
+      "text": "and feeling compassion for every living being."
+    },
+    {
+      "start": 1342.82,
+      "end": 1345.82,
+      "text": "He cleanses his heart of the taint of ill-will."
+    },
+    {
+      "start": 1345.82,
+      "end": 1347.82,
+      "text": "Abandoning sloth and topper,"
+    },
+    {
+      "start": 1347.82,
+      "end": 1349.82,
+      "text": "he remains free therefrom,"
+    },
+    {
+      "start": 1349.82,
+      "end": 1351.82,
+      "text": "wide awake, mindful, composed"
+    },
+    {
+      "start": 1351.82,
+      "end": 1353.82,
+      "text": "and cleanses his heart of sloth and topper."
+    },
+    {
+      "start": 1353.82,
+      "end": 1355.82,
+      "text": "Abandoning restlessness and worry,"
+    },
+    {
+      "start": 1355.82,
+      "end": 1359.82,
+      "text": "he abides restful at heart in the inner self."
+    },
+    {
+      "start": 1359.82,
+      "end": 1362.82,
+      "text": "He cleanses his heart of restlessness and worry."
+    },
+    {
+      "start": 1362.82,
+      "end": 1364.82,
+      "text": "Abandoning doubt and wavering,"
+    },
+    {
+      "start": 1364.82,
+      "end": 1366.82,
+      "text": "he abides as one who has transcended them,"
+    },
+    {
+      "start": 1366.82,
+      "end": 1369.82,
+      "text": "no longer questioning this or that in things profitable."
+    },
+    {
+      "start": 1369.82,
+      "end": 1372.82,
+      "text": "He cleanses his heart of doubt and wavering."
+    },
+    {
+      "start": 1372.82,
+      "end": 1374.82,
+      "text": "Let's stop here for a moment."
+    },
+    {
+      "start": 1374.82,
+      "end": 1377.82,
+      "text": "This going to a secluded lodging place"
+    },
+    {
+      "start": 1377.82,
+      "end": 1379.82,
+      "text": "is not going to the deep forest,"
+    },
+    {
+      "start": 1379.82,
+      "end": 1382.82,
+      "text": "going to a quiet place,"
+    },
+    {
+      "start": 1382.82,
+      "end": 1384.82,
+      "text": "not so deep into the forest"
+    },
+    {
+      "start": 1384.82,
+      "end": 1388.82,
+      "text": "where he can come out easily."
+    },
+    {
+      "start": 1388.82,
+      "end": 1390.82,
+      "text": "Then to continue,"
+    },
+    {
+      "start": 1390.82,
+      "end": 1392.82,
+      "text": "thus abandoning these five hindrances,"
+    },
+    {
+      "start": 1392.82,
+      "end": 1394.82,
+      "text": "these taints of the heart"
+    },
+    {
+      "start": 1394.82,
+      "end": 1396.82,
+      "text": "which cause the weakening of wisdom,"
+    },
+    {
+      "start": 1396.82,
+      "end": 1398.82,
+      "text": "aloof from sense desires,"
+    },
+    {
+      "start": 1398.82,
+      "end": 1400.82,
+      "text": "aloof from unprofitable states,"
+    },
+    {
+      "start": 1400.82,
+      "end": 1403.82,
+      "text": "he enters into the first jhana"
+    },
+    {
+      "start": 1403.82,
+      "end": 1405.82,
+      "text": "which is accompanied by thought,"
+    },
+    {
+      "start": 1405.82,
+      "end": 1407.82,
+      "text": "directed and sustained, born of seclusion,"
+    },
+    {
+      "start": 1407.82,
+      "end": 1409.82,
+      "text": "delightful and easeful,"
+    },
+    {
+      "start": 1409.82,
+      "end": 1411.82,
+      "text": "and so abides."
+    },
+    {
+      "start": 1411.82,
+      "end": 1412.82,
+      "text": "Now what think you Upali?"
+    },
+    {
+      "start": 1412.82,
+      "end": 1414.82,
+      "text": "It's not this way of living more excellent"
+    },
+    {
+      "start": 1414.82,
+      "end": 1416.82,
+      "text": "and choice than his former ways."
+    },
+    {
+      "start": 1416.82,
+      "end": 1418.82,
+      "text": "And he said, it is so."
+    },
+    {
+      "start": 1418.82,
+      "end": 1420.82,
+      "text": "Now Upali, my disciple is coming"
+    },
+    {
+      "start": 1420.82,
+      "end": 1422.82,
+      "text": "to see this dhamma in the cell,"
+    },
+    {
+      "start": 1422.82,
+      "end": 1424.82,
+      "text": "follow after woodland haunts in the forest"
+    },
+    {
+      "start": 1424.82,
+      "end": 1426.82,
+      "text": "and solitary lodging,"
+    },
+    {
+      "start": 1426.82,
+      "end": 1428.82,
+      "text": "but not if they have attained their own good."
+    },
+    {
+      "start": 1428.82,
+      "end": 1430.82,
+      "text": "Do they dwell there?"
+    },
+    {
+      "start": 1430.82,
+      "end": 1432.82,
+      "text": "Let's stop here for a moment."
+    },
+    {
+      "start": 1432.82,
+      "end": 1434.82,
+      "text": "So here the Buddha is saying,"
+    },
+    {
+      "start": 1434.82,
+      "end": 1437.82,
+      "text": "if a monk attains the first jhana,"
+    },
+    {
+      "start": 1437.82,
+      "end": 1440.82,
+      "text": "then he can go into the deep forest"
+    },
+    {
+      "start": 1440.82,
+      "end": 1443.82,
+      "text": "and stay alone by himself."
+    },
+    {
+      "start": 1443.82,
+      "end": 1445.82,
+      "text": "And the Buddha continues,"
+    },
+    {
+      "start": 1445.82,
+      "end": 1447.82,
+      "text": "again Upali, a monk by coming down,"
+    },
+    {
+      "start": 1447.82,
+      "end": 1449.82,
+      "text": "thought directed and sustained,"
+    },
+    {
+      "start": 1449.82,
+      "end": 1451.82,
+      "text": "attains the second jhana."
+    },
+    {
+      "start": 1451.82,
+      "end": 1453.82,
+      "text": "Now what think you Upali?"
+    },
+    {
+      "start": 1453.82,
+      "end": 1455.82,
+      "text": "It's not this way of living more excellent"
+    },
+    {
+      "start": 1455.82,
+      "end": 1457.82,
+      "text": "and choice than his former ways of living."
+    },
+    {
+      "start": 1457.82,
+      "end": 1459.82,
+      "text": "It is, indeed,"
+    },
+    {
+      "start": 1459.82,
+      "end": 1461.82,
+      "text": "Upali, my disciple is coming"
+    },
+    {
+      "start": 1461.82,
+      "end": 1463.82,
+      "text": "to see this dhamma in the cell,"
+    },
+    {
+      "start": 1463.82,
+      "end": 1465.82,
+      "text": "follow after woodland haunts in the forest"
+    },
+    {
+      "start": 1465.82,
+      "end": 1467.82,
+      "text": "and solitary lodging,"
+    },
+    {
+      "start": 1467.82,
+      "end": 1469.82,
+      "text": "but not if they have attained their own good."
+    },
+    {
+      "start": 1469.82,
+      "end": 1471.82,
+      "text": "Do they dwell there?"
+    },
+    {
+      "start": 1471.82,
+      "end": 1473.82,
+      "text": "Similarly, the Buddha goes into"
+    },
+    {
+      "start": 1473.82,
+      "end": 1475.82,
+      "text": "the third jhana, fourth jhana,"
+    },
+    {
+      "start": 1475.82,
+      "end": 1477.82,
+      "text": "and then the"
+    },
+    {
+      "start": 1478.82,
+      "end": 1481.82,
+      "text": "formless jhanas,"
+    },
+    {
+      "start": 1481.82,
+      "end": 1483.82,
+      "text": "the base of infinite space,"
+    },
+    {
+      "start": 1483.82,
+      "end": 1485.82,
+      "text": "the base of infinite consciousness,"
+    },
+    {
+      "start": 1485.82,
+      "end": 1487.82,
+      "text": "the base of nothingness,"
+    },
+    {
+      "start": 1487.82,
+      "end": 1489.82,
+      "text": "and the base of neither perception"
+    },
+    {
+      "start": 1489.82,
+      "end": 1491.82,
+      "text": "nor non-perception."
+    },
+    {
+      "start": 1491.82,
+      "end": 1493.82,
+      "text": "And then passing beyond that,"
+    },
+    {
+      "start": 1493.82,
+      "end": 1495.82,
+      "text": "he attains a cessation of perception"
+    },
+    {
+      "start": 1495.82,
+      "end": 1497.82,
+      "text": "and feeling and so abides."
+    },
+    {
+      "start": 1497.82,
+      "end": 1499.82,
+      "text": "And by insight beholding it,"
+    },
+    {
+      "start": 1499.82,
+      "end": 1501.82,
+      "text": "he knows that in himself the asavas are destroyed."
+    },
+    {
+      "start": 1501.82,
+      "end": 1503.82,
+      "text": "Now what think you Upali?"
+    },
+    {
+      "start": 1503.82,
+      "end": 1505.82,
+      "text": "In each of these stages,"
+    },
+    {
+      "start": 1505.82,
+      "end": 1507.82,
+      "text": "it's not this way of living more excellent"
+    },
+    {
+      "start": 1507.82,
+      "end": 1509.82,
+      "text": "and choice than his former ways."
+    },
+    {
+      "start": 1509.82,
+      "end": 1511.82,
+      "text": "And he said, it is, sir."
+    },
+    {
+      "start": 1511.82,
+      "end": 1513.82,
+      "text": "And the Buddha said, my disciple is Upali,"
+    },
+    {
+      "start": 1513.82,
+      "end": 1515.82,
+      "text": "because they behold this dhamma in the cell,"
+    },
+    {
+      "start": 1515.82,
+      "end": 1517.82,
+      "text": "follow after woodland haunts"
+    },
+    {
+      "start": 1517.82,
+      "end": 1519.82,
+      "text": "in the forest and solitary lodging,"
+    },
+    {
+      "start": 1519.82,
+      "end": 1521.82,
+      "text": "but not if they have attained"
+    },
+    {
+      "start": 1521.82,
+      "end": 1523.82,
+      "text": "their own good. Do they dwell there?"
+    },
+    {
+      "start": 1523.82,
+      "end": 1525.82,
+      "text": "Come then, Upali, do you dwell"
+    },
+    {
+      "start": 1525.82,
+      "end": 1527.82,
+      "text": "with the sangha,"
+    },
+    {
+      "start": 1527.82,
+      "end": 1529.82,
+      "text": "or the dwelling with the sangha"
+    },
+    {
+      "start": 1529.82,
+      "end": 1531.82,
+      "text": "will be pleasant for you."
+    },
+    {
+      "start": 1531.82,
+      "end": 1533.82,
+      "text": "So that's the end of the sutta."
+    },
+    {
+      "start": 1533.82,
+      "end": 1535.82,
+      "text": "So here the Buddha is telling this man"
+    },
+    {
+      "start": 1535.82,
+      "end": 1537.82,
+      "text": "that he should not go"
+    },
+    {
+      "start": 1537.82,
+      "end": 1539.82,
+      "text": "into the forest because"
+    },
+    {
+      "start": 1539.82,
+      "end": 1541.82,
+      "text": "he has not attained"
+    },
+    {
+      "start": 1541.82,
+      "end": 1543.82,
+      "text": "sufficient concentration"
+    },
+    {
+      "start": 1543.82,
+      "end": 1545.82,
+      "text": "to"
+    },
+    {
+      "start": 1545.82,
+      "end": 1547.82,
+      "text": "support him."
+    },
+    {
+      "start": 1547.82,
+      "end": 1549.82,
+      "text": "So the Buddha says,"
+    },
+    {
+      "start": 1549.82,
+      "end": 1551.82,
+      "text": "only after a man attains the first jhana,"
+    },
+    {
+      "start": 1551.82,
+      "end": 1553.82,
+      "text": "then"
+    },
+    {
+      "start": 1553.82,
+      "end": 1555.82,
+      "text": "he is encouraged"
+    },
+    {
+      "start": 1555.82,
+      "end": 1557.82,
+      "text": "to go into the deep forest"
+    },
+    {
+      "start": 1557.82,
+      "end": 1559.82,
+      "text": "and live alone,"
+    },
+    {
+      "start": 1559.82,
+      "end": 1561.82,
+      "text": "but not otherwise."
+    },
+    {
+      "start": 1561.82,
+      "end": 1563.82,
+      "text": "Now we go to the next sutta,"
+    },
+    {
+      "start": 1563.82,
+      "end": 1565.82,
+      "text": "10.101."
+    },
+    {
+      "start": 1565.82,
+      "end": 1567.82,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 1567.82,
+      "end": 1569.82,
+      "text": "monks, three ideas"
+    },
+    {
+      "start": 1569.82,
+      "end": 1571.82,
+      "text": "of a recluse, if made to grow,"
+    },
+    {
+      "start": 1571.82,
+      "end": 1573.82,
+      "text": "made much of,"
+    },
+    {
+      "start": 1573.82,
+      "end": 1575.82,
+      "text": "complete seven other conditions."
+    },
+    {
+      "start": 1575.82,
+      "end": 1577.82,
+      "text": "What three?"
+    },
+    {
+      "start": 1577.82,
+      "end": 1579.82,
+      "text": "One, I am now come to a state"
+    },
+    {
+      "start": 1579.82,
+      "end": 1581.82,
+      "text": "of being an outcast."
+    },
+    {
+      "start": 1581.82,
+      "end": 1583.82,
+      "text": "Two, my life is dependent"
+    },
+    {
+      "start": 1583.82,
+      "end": 1585.82,
+      "text": "upon others."
+    },
+    {
+      "start": 1585.82,
+      "end": 1587.82,
+      "text": "Number three, I must now conduct"
+    },
+    {
+      "start": 1587.82,
+      "end": 1589.82,
+      "text": "myself differently."
+    },
+    {
+      "start": 1589.82,
+      "end": 1591.82,
+      "text": "These three ideas of a recluse,"
+    },
+    {
+      "start": 1591.82,
+      "end": 1593.82,
+      "text": "if made to grow,"
+    },
+    {
+      "start": 1593.82,
+      "end": 1595.82,
+      "text": "made much of, complete seven"
+    },
+    {
+      "start": 1595.82,
+      "end": 1597.82,
+      "text": "other conditions."
+    },
+    {
+      "start": 1597.82,
+      "end": 1599.82,
+      "text": "What seven?"
+    },
+    {
+      "start": 1599.82,
+      "end": 1601.82,
+      "text": "One, he is one"
+    },
+    {
+      "start": 1601.82,
+      "end": 1603.82,
+      "text": "who ever and always makes"
+    },
+    {
+      "start": 1603.82,
+      "end": 1605.82,
+      "text": "no pause in action"
+    },
+    {
+      "start": 1605.82,
+      "end": 1607.82,
+      "text": "or practice of virtue."
+    },
+    {
+      "start": 1607.82,
+      "end": 1609.82,
+      "text": "He does no harm"
+    },
+    {
+      "start": 1609.82,
+      "end": 1611.82,
+      "text": "to anyone. He is without"
+    },
+    {
+      "start": 1611.82,
+      "end": 1613.82,
+      "text": "self-conceit."
+    },
+    {
+      "start": 1613.82,
+      "end": 1615.82,
+      "text": "He is eager for the training."
+    },
+    {
+      "start": 1615.82,
+      "end": 1617.82,
+      "text": "As regards the necessaries"
+    },
+    {
+      "start": 1617.82,
+      "end": 1619.82,
+      "text": "of life, he thinks, this is my"
+    },
+    {
+      "start": 1619.82,
+      "end": 1621.82,
+      "text": "object."
+    },
+    {
+      "start": 1621.82,
+      "end": 1623.82,
+      "text": "He dwells ardent in energy."
+    },
+    {
+      "start": 1623.82,
+      "end": 1625.82,
+      "text": "Thus monks, these three ideas"
+    },
+    {
+      "start": 1625.82,
+      "end": 1627.82,
+      "text": "of a recluse, if made to grow,"
+    },
+    {
+      "start": 1627.82,
+      "end": 1629.82,
+      "text": "made much of, complete"
+    },
+    {
+      "start": 1629.82,
+      "end": 1631.82,
+      "text": "these seven conditions."
+    },
+    {
+      "start": 1631.82,
+      "end": 1633.82,
+      "text": "So, that is the end of the sutta."
+    },
+    {
+      "start": 1633.82,
+      "end": 1635.82,
+      "text": "So here the Buddha is saying that"
+    },
+    {
+      "start": 1635.82,
+      "end": 1637.82,
+      "text": "a monk should contemplate"
+    },
+    {
+      "start": 1637.82,
+      "end": 1639.82,
+      "text": "these three important things."
+    },
+    {
+      "start": 1639.82,
+      "end": 1641.82,
+      "text": "First, that he has come,"
+    },
+    {
+      "start": 1641.82,
+      "end": 1643.82,
+      "text": "he has now come to the state"
+    },
+    {
+      "start": 1643.82,
+      "end": 1645.82,
+      "text": "of being an outcast. That means"
+    },
+    {
+      "start": 1645.82,
+      "end": 1647.82,
+      "text": "society."
+    },
+    {
+      "start": 1647.82,
+      "end": 1649.82,
+      "text": "A person who is not"
+    },
+    {
+      "start": 1649.82,
+      "end": 1651.82,
+      "text": "somebody in society."
+    },
+    {
+      "start": 1651.82,
+      "end": 1653.82,
+      "text": "So, he must always"
+    },
+    {
+      "start": 1653.82,
+      "end": 1655.82,
+      "text": "remember that. Because if he"
+    },
+    {
+      "start": 1655.82,
+      "end": 1657.82,
+      "text": "remembers that, then"
+    },
+    {
+      "start": 1657.82,
+      "end": 1659.82,
+      "text": "he will act"
+    },
+    {
+      "start": 1659.82,
+      "end": 1661.82,
+      "text": "quite different."
+    },
+    {
+      "start": 1661.82,
+      "end": 1663.82,
+      "text": "Number two, he must remember"
+    },
+    {
+      "start": 1663.82,
+      "end": 1665.82,
+      "text": "my life is dependent"
+    },
+    {
+      "start": 1665.82,
+      "end": 1667.82,
+      "text": "upon others."
+    },
+    {
+      "start": 1667.82,
+      "end": 1669.82,
+      "text": "Number three, I must now"
+    },
+    {
+      "start": 1669.82,
+      "end": 1671.82,
+      "text": "conduct myself differently."
+    },
+    {
+      "start": 1671.82,
+      "end": 1673.82,
+      "text": "If a monk"
+    },
+    {
+      "start": 1673.82,
+      "end": 1675.82,
+      "text": "understands these three things, then"
+    },
+    {
+      "start": 1675.82,
+      "end": 1677.82,
+      "text": "he humbles himself."
+    },
+    {
+      "start": 1677.82,
+      "end": 1679.82,
+      "text": "He knows that his life"
+    },
+    {
+      "start": 1679.82,
+      "end": 1681.82,
+      "text": "is in the hands of lay"
+    },
+    {
+      "start": 1681.82,
+      "end": 1683.82,
+      "text": "supporters. Then he"
+    },
+    {
+      "start": 1683.82,
+      "end": 1685.82,
+      "text": "will behave quite differently."
+    },
+    {
+      "start": 1685.82,
+      "end": 1687.82,
+      "text": "So, these"
+    },
+    {
+      "start": 1687.82,
+      "end": 1689.82,
+      "text": "seven things the Buddha says,"
+    },
+    {
+      "start": 1689.82,
+      "end": 1691.82,
+      "text": "he will"
+    },
+    {
+      "start": 1691.82,
+      "end": 1693.82,
+      "text": "practice. Number one,"
+    },
+    {
+      "start": 1693.82,
+      "end": 1695.82,
+      "text": "he makes no pause"
+    },
+    {
+      "start": 1695.82,
+      "end": 1697.82,
+      "text": "in action."
+    },
+    {
+      "start": 1697.82,
+      "end": 1699.82,
+      "text": "Here action is"
+    },
+    {
+      "start": 1699.82,
+      "end": 1701.82,
+      "text": "chattatakari."
+    },
+    {
+      "start": 1701.82,
+      "end": 1703.82,
+      "text": "He makes no pause"
+    },
+    {
+      "start": 1703.82,
+      "end": 1705.82,
+      "text": "in action."
+    },
+    {
+      "start": 1705.82,
+      "end": 1707.82,
+      "text": "I don't know whether that means"
+    },
+    {
+      "start": 1707.82,
+      "end": 1709.82,
+      "text": "he is very energetic"
+    },
+    {
+      "start": 1709.82,
+      "end": 1711.82,
+      "text": "in striving. Number"
+    },
+    {
+      "start": 1711.82,
+      "end": 1713.82,
+      "text": "two, he makes"
+    },
+    {
+      "start": 1713.82,
+      "end": 1715.82,
+      "text": "no pause in the practice of virtue"
+    },
+    {
+      "start": 1715.82,
+      "end": 1717.82,
+      "text": "in his"
+    },
+    {
+      "start": 1717.82,
+      "end": 1719.82,
+      "text": "precepts."
+    },
+    {
+      "start": 1719.82,
+      "end": 1721.82,
+      "text": "He remembers to uphold his precepts."
+    },
+    {
+      "start": 1721.82,
+      "end": 1723.82,
+      "text": "Number three,"
+    },
+    {
+      "start": 1723.82,
+      "end": 1725.82,
+      "text": "he does no harm to anyone."
+    },
+    {
+      "start": 1725.82,
+      "end": 1727.82,
+      "text": "Number four, he is without"
+    },
+    {
+      "start": 1727.82,
+      "end": 1729.82,
+      "text": "self-conceit."
+    },
+    {
+      "start": 1729.82,
+      "end": 1731.82,
+      "text": "He becomes a"
+    },
+    {
+      "start": 1731.82,
+      "end": 1733.82,
+      "text": "humble person."
+    },
+    {
+      "start": 1733.82,
+      "end": 1735.82,
+      "text": "Number five, he is eager for the training."
+    },
+    {
+      "start": 1735.82,
+      "end": 1737.82,
+      "text": "The training is the Buddha's"
+    },
+    {
+      "start": 1737.82,
+      "end": 1739.82,
+      "text": "training in the Noble Eightfold"
+    },
+    {
+      "start": 1739.82,
+      "end": 1741.82,
+      "text": "Path of Sila Samadhi Pannia."
+    },
+    {
+      "start": 1741.82,
+      "end": 1743.82,
+      "text": "And number six,"
+    },
+    {
+      "start": 1743.82,
+      "end": 1745.82,
+      "text": "as regards the necessities"
+    },
+    {
+      "start": 1745.82,
+      "end": 1747.82,
+      "text": "of life, he thinks this is my"
+    },
+    {
+      "start": 1747.82,
+      "end": 1749.82,
+      "text": "object. In other words, he thinks"
+    },
+    {
+      "start": 1749.82,
+      "end": 1751.82,
+      "text": "my object is practicing the holy life."
+    },
+    {
+      "start": 1751.82,
+      "end": 1753.82,
+      "text": "As far as the requisites of life,"
+    },
+    {
+      "start": 1753.82,
+      "end": 1755.82,
+      "text": "they are not so important."
+    },
+    {
+      "start": 1755.82,
+      "end": 1757.82,
+      "text": "They get a good rope,"
+    },
+    {
+      "start": 1757.82,
+      "end": 1759.82,
+      "text": "eat good food, or sleep"
+    },
+    {
+      "start": 1759.82,
+      "end": 1761.82,
+      "text": "in a very comfortable bed or something,"
+    },
+    {
+      "start": 1761.82,
+      "end": 1763.82,
+      "text": "not so important."
+    },
+    {
+      "start": 1763.82,
+      "end": 1765.82,
+      "text": "Number seven, he dwells"
+    },
+    {
+      "start": 1765.82,
+      "end": 1767.82,
+      "text": "ardent in energy."
+    },
+    {
+      "start": 1767.82,
+      "end": 1769.82,
+      "text": "That means he is"
+    },
+    {
+      "start": 1769.82,
+      "end": 1771.82,
+      "text": "very energetic"
+    },
+    {
+      "start": 1771.82,
+      "end": 1773.82,
+      "text": "in cultivating the holy life."
+    },
+    {
+      "start": 1773.82,
+      "end": 1775.82,
+      "text": "So these"
+    },
+    {
+      "start": 1775.82,
+      "end": 1777.82,
+      "text": "three conditions"
+    },
+    {
+      "start": 1777.82,
+      "end": 1779.82,
+      "text": "are very good for a monk to remember."
+    }
+  ]
+}

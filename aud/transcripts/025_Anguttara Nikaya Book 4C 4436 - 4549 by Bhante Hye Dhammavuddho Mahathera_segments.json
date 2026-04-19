@@ -1,0 +1,2130 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1642.161625,
+  "segments": [
+    {
+      "start": 2.7,
+      "end": 9.7,
+      "text": "And the next Uttara is 4.4.36."
+    },
+    {
+      "start": 9.7,
+      "end": 16.7,
+      "text": "On a certain occasion, the Exalted One was journeying along the high road between Uqatta and Satabhya."
+    },
+    {
+      "start": 16.7,
+      "end": 21.7,
+      "text": "Now the Brahmin donor was also journeying along the high road between Uqatta and Satabhya."
+    },
+    {
+      "start": 21.7,
+      "end": 25.7,
+      "text": "Then the Brahmin donor beheld on the footprints of the Exalted One,"
+    },
+    {
+      "start": 25.7,
+      "end": 31.7,
+      "text": "the wheel marks with a thousand spokes, with their rims and hubs and all their attributes complete."
+    },
+    {
+      "start": 31.7,
+      "end": 36.7,
+      "text": "On seeing these, he thought thus, it is wonderful indeed, it is marvellous indeed,"
+    },
+    {
+      "start": 36.7,
+      "end": 40.7,
+      "text": "these will not be the footprints of one in human form."
+    },
+    {
+      "start": 40.7,
+      "end": 45.7,
+      "text": "Just then the Exalted One stepped aside from the high road and sat down at the root of a certain tree,"
+    },
+    {
+      "start": 45.7,
+      "end": 51.7,
+      "text": "sitting cross-legged, beholding his body upright and setting up mindfulness in front of him."
+    },
+    {
+      "start": 51.7,
+      "end": 55.7,
+      "text": "Then the Brahmin donor, following up the Exalted One's footprints,"
+    },
+    {
+      "start": 55.7,
+      "end": 59.7,
+      "text": "beheld the Exalted One seated at the foot of a certain tree."
+    },
+    {
+      "start": 59.7,
+      "end": 64.7,
+      "text": "Seeing him, calmly, faith-inspiring, with senses calm, tranquil of mind,"
+    },
+    {
+      "start": 64.7,
+      "end": 70.7,
+      "text": "in the attainment of composure by masterly control, like a tamed, alert, perfectly trained elephant,"
+    },
+    {
+      "start": 70.7,
+      "end": 74.7,
+      "text": "he approached the Exalted One and drawing near to him said this,"
+    },
+    {
+      "start": 74.7,
+      "end": 77.7,
+      "text": "your worship will be a deva, and the Buddha said,"
+    },
+    {
+      "start": 77.7,
+      "end": 80.7,
+      "text": "no indeed Brahmin, I am not a deva."
+    },
+    {
+      "start": 80.7,
+      "end": 85.7,
+      "text": "Then your worship will be a Gandhava, no indeed Brahmin, I am not a Gandhava."
+    },
+    {
+      "start": 85.7,
+      "end": 89.7,
+      "text": "A Yaka then, no indeed Brahmin, not a Yaka."
+    },
+    {
+      "start": 89.7,
+      "end": 94.7,
+      "text": "Then your worship will be a human being, no indeed Brahmin, I am not a human being."
+    },
+    {
+      "start": 94.7,
+      "end": 101.7,
+      "text": "Then the Brahmin said, when questioned thus, your worship will be a deva, a Gandhava, a Yaka, a human being."
+    },
+    {
+      "start": 101.7,
+      "end": 107.7,
+      "text": "You reply, not so Brahmin, I am not a deva, a Gandhava, a Yaka, I am not a human being."
+    },
+    {
+      "start": 107.7,
+      "end": 110.7,
+      "text": "Who then pray will your worship be?"
+    },
+    {
+      "start": 110.7,
+      "end": 116.7,
+      "text": "The Buddha said, Brahmin, those Asavas, whereby if they were not abandoned, I should become a deva."
+    },
+    {
+      "start": 116.7,
+      "end": 122.7,
+      "text": "Those Asavas in me are abandoned, cut off at the root, made like a palm tree stump, made non-existent,"
+    },
+    {
+      "start": 122.7,
+      "end": 125.7,
+      "text": "of a nature not to arise again in future time."
+    },
+    {
+      "start": 125.7,
+      "end": 131.7,
+      "text": "Those Asavas whereby if they were not abandoned, I should become a Gandhava, a Yaka, a human being."
+    },
+    {
+      "start": 131.7,
+      "end": 136.7,
+      "text": "Those Asavas in me are abandoned, not to arise again in future time."
+    },
+    {
+      "start": 136.7,
+      "end": 141.7,
+      "text": "Just as Brahmin, a lotus, blue, red, or white, though born in the water, grown up in the water,"
+    },
+    {
+      "start": 141.7,
+      "end": 145.7,
+      "text": "when it reaches the surface, stands there unsoiled by the water."
+    },
+    {
+      "start": 145.7,
+      "end": 150.7,
+      "text": "Just so Brahmin, though born in the world, grown up in the world, having overcome the world,"
+    },
+    {
+      "start": 150.7,
+      "end": 153.7,
+      "text": "I abide unsoiled by the world."
+    },
+    {
+      "start": 153.7,
+      "end": 156.7,
+      "text": "Take it that I am a Buddha, Brahmin."
+    },
+    {
+      "start": 156.7,
+      "end": 164.7,
+      "text": "This one of those well-known suttas, where this man, because of seeing the footprints of the Buddha,"
+    },
+    {
+      "start": 164.7,
+      "end": 170.7,
+      "text": "these Brahmins, they like to observe all these marks of the human body, you know,"
+    },
+    {
+      "start": 170.7,
+      "end": 176.7,
+      "text": "and from observing the footprints of the Buddha, he said there must be something special about this person."
+    },
+    {
+      "start": 176.7,
+      "end": 182.7,
+      "text": "So he asked the Buddha whether he was a deva, a heavenly being, and whether he was a Gandhava,"
+    },
+    {
+      "start": 182.7,
+      "end": 189.7,
+      "text": "a tree spirit, a Yaka, another type of spiritual being, a human being, etc."
+    },
+    {
+      "start": 189.7,
+      "end": 192.7,
+      "text": "And the Buddha said he was not any one of those."
+    },
+    {
+      "start": 192.7,
+      "end": 197.7,
+      "text": "What the Buddha meant is that the Buddha has no more ego, no more self."
+    },
+    {
+      "start": 197.7,
+      "end": 202.7,
+      "text": "And because he has no more self, he does not see himself as a human being."
+    },
+    {
+      "start": 202.7,
+      "end": 205.7,
+      "text": "He sees all beings as one with him."
+    },
+    {
+      "start": 205.7,
+      "end": 210.7,
+      "text": "And in fact, he sees the whole world like a dream."
+    },
+    {
+      "start": 210.7,
+      "end": 213.7,
+      "text": "He's mentioned somewhere else."
+    },
+    {
+      "start": 213.7,
+      "end": 216.7,
+      "text": "Buddha comes from the word buddhi."
+    },
+    {
+      "start": 216.7,
+      "end": 218.7,
+      "text": "He means knowledge or wisdom."
+    },
+    {
+      "start": 218.7,
+      "end": 226.9,
+      "text": "So the Buddha is an enlightened one, no more self, no more ego."
+    },
+    {
+      "start": 226.9,
+      "end": 238.62,
+      "text": "Now we are on the chapter of the fourth sutta, number 4.4.37."
+    },
+    {
+      "start": 238.62,
+      "end": 243.62,
+      "text": "The Buddha said, monks possessed of four qualities."
+    },
+    {
+      "start": 243.62,
+      "end": 246.62,
+      "text": "A man is incapable of falling away."
+    },
+    {
+      "start": 246.62,
+      "end": 249.62,
+      "text": "He is near to nibbana."
+    },
+    {
+      "start": 249.62,
+      "end": 251.62,
+      "text": "What are the four?"
+    },
+    {
+      "start": 251.62,
+      "end": 254.62,
+      "text": "Hearing a monk is perfect in virtue."
+    },
+    {
+      "start": 254.62,
+      "end": 258.62,
+      "text": "He is guarded as to the doors of the sense faculties."
+    },
+    {
+      "start": 258.62,
+      "end": 261.62,
+      "text": "He is moderate in eating."
+    },
+    {
+      "start": 261.62,
+      "end": 265.62,
+      "text": "He is given to watchfulness or wakefulness."
+    },
+    {
+      "start": 265.62,
+      "end": 269.62,
+      "text": "And in what way is a monk perfect in virtue?"
+    },
+    {
+      "start": 269.62,
+      "end": 271.62,
+      "text": "Hearing a monk is virtuous."
+    },
+    {
+      "start": 271.62,
+      "end": 275.62,
+      "text": "He dwells restrained with the restraint of the patimokha."
+    },
+    {
+      "start": 275.62,
+      "end": 279.62,
+      "text": "The quote of precepts for a monk."
+    },
+    {
+      "start": 279.62,
+      "end": 281.62,
+      "text": "Perfect in the practice of right conduct,"
+    },
+    {
+      "start": 281.62,
+      "end": 285.62,
+      "text": "he sees danger in the slightest faults."
+    },
+    {
+      "start": 285.62,
+      "end": 289.62,
+      "text": "He takes up and trains himself in the stages of training."
+    },
+    {
+      "start": 289.62,
+      "end": 293.62,
+      "text": "Thus a monk is perfect in virtue."
+    },
+    {
+      "start": 293.62,
+      "end": 298.62,
+      "text": "And how is a monk guarded as to the doors of the sense faculties?"
+    },
+    {
+      "start": 298.62,
+      "end": 302.62,
+      "text": "Hearing a monk seeing an object with the eye"
+    },
+    {
+      "start": 302.62,
+      "end": 307.62,
+      "text": "does not grasp at the general features or at the details thereof."
+    },
+    {
+      "start": 307.62,
+      "end": 309.62,
+      "text": "Since coveting and dejection,"
+    },
+    {
+      "start": 309.62,
+      "end": 313.62,
+      "text": "evil unprofitable states might flow in upon one"
+    },
+    {
+      "start": 313.62,
+      "end": 317.62,
+      "text": "who dwells with the faculty of the eye unrestrained."
+    },
+    {
+      "start": 317.62,
+      "end": 320.62,
+      "text": "He applies himself to such restraint."
+    },
+    {
+      "start": 320.62,
+      "end": 323.62,
+      "text": "He sets a guard over the faculty of the eye,"
+    },
+    {
+      "start": 323.62,
+      "end": 326.62,
+      "text": "attains restraint thereof."
+    },
+    {
+      "start": 326.62,
+      "end": 328.62,
+      "text": "When he hears a sound with the ear,"
+    },
+    {
+      "start": 328.62,
+      "end": 331.62,
+      "text": "or with the nose smells a scent,"
+    },
+    {
+      "start": 331.62,
+      "end": 334.62,
+      "text": "or with the tongue tastes a flavor,"
+    },
+    {
+      "start": 334.62,
+      "end": 337.62,
+      "text": "or with the body contacts tangibles."
+    },
+    {
+      "start": 337.62,
+      "end": 340.62,
+      "text": "When with the mind he cognizes mental states,"
+    },
+    {
+      "start": 340.62,
+      "end": 344.62,
+      "text": "he does not grasp at the general features or details thereof."
+    },
+    {
+      "start": 344.62,
+      "end": 347.62,
+      "text": "But since coveting and dejection,"
+    },
+    {
+      "start": 347.62,
+      "end": 351.62,
+      "text": "evil unprofitable states might flow in upon one"
+    },
+    {
+      "start": 351.62,
+      "end": 354.62,
+      "text": "who dwells with the senses unrestrained."
+    },
+    {
+      "start": 354.62,
+      "end": 357.62,
+      "text": "He applies himself to such restraint."
+    },
+    {
+      "start": 357.62,
+      "end": 361.62,
+      "text": "He sets a guard over the sense doors,"
+    },
+    {
+      "start": 361.62,
+      "end": 363.62,
+      "text": "attains restraint thereof."
+    },
+    {
+      "start": 363.62,
+      "end": 368.62,
+      "text": "That is how a monk has the doors of the sense faculties guarded."
+    },
+    {
+      "start": 368.62,
+      "end": 371.62,
+      "text": "And how is a monk moderate in eating?"
+    },
+    {
+      "start": 371.62,
+      "end": 375.62,
+      "text": "Hearing a monk takes his food thoughtfully and prudently,"
+    },
+    {
+      "start": 375.62,
+      "end": 378.62,
+      "text": "not for sport, not for indulgence,"
+    },
+    {
+      "start": 378.62,
+      "end": 381.62,
+      "text": "not for personal charm or adornment,"
+    },
+    {
+      "start": 381.62,
+      "end": 383.62,
+      "text": "but just enough for the support,"
+    },
+    {
+      "start": 383.62,
+      "end": 385.62,
+      "text": "for the continuance of the body,"
+    },
+    {
+      "start": 385.62,
+      "end": 387.62,
+      "text": "for its resting unharmed,"
+    },
+    {
+      "start": 387.62,
+      "end": 390.62,
+      "text": "to help the living of the holy life."
+    },
+    {
+      "start": 390.62,
+      "end": 393.62,
+      "text": "With this thought, my former feeling I checked"
+    },
+    {
+      "start": 393.62,
+      "end": 396.62,
+      "text": "and I said going no new feeling."
+    },
+    {
+      "start": 396.62,
+      "end": 398.62,
+      "text": "Thus maintenance shall be mine,"
+    },
+    {
+      "start": 398.62,
+      "end": 401.62,
+      "text": "blamelessness and comfort in life."
+    },
+    {
+      "start": 401.62,
+      "end": 404.62,
+      "text": "Thus is a monk moderate in eating."
+    },
+    {
+      "start": 404.62,
+      "end": 408.62,
+      "text": "And how is a monk given to watchfulness or wakefulness?"
+    },
+    {
+      "start": 408.62,
+      "end": 412.62,
+      "text": "By day a monk walks up and down and then sits,"
+    },
+    {
+      "start": 412.62,
+      "end": 416.62,
+      "text": "thus cleansing his heart of conditions that should be checked."
+    },
+    {
+      "start": 416.62,
+      "end": 419.62,
+      "text": "By night for the first watch he does likewise."
+    },
+    {
+      "start": 419.62,
+      "end": 423.62,
+      "text": "In the middle watch of the night, lying on his right side,"
+    },
+    {
+      "start": 423.62,
+      "end": 428.62,
+      "text": "he takes up the lion posture, resting one foot on the other,"
+    },
+    {
+      "start": 428.62,
+      "end": 434.62,
+      "text": "and thus collected and composed, fixes his thoughts on rising up again."
+    },
+    {
+      "start": 434.62,
+      "end": 437.62,
+      "text": "In the last watch of the night, at early dawn,"
+    },
+    {
+      "start": 437.62,
+      "end": 440.62,
+      "text": "he walks up and down, then sits,"
+    },
+    {
+      "start": 440.62,
+      "end": 445.62,
+      "text": "and so cleanses his heart of conditions that should be checked."
+    },
+    {
+      "start": 445.62,
+      "end": 448.62,
+      "text": "That is how a monk is given to watchfulness."
+    },
+    {
+      "start": 449.62,
+      "end": 451.62,
+      "text": "Possess of these four qualities,"
+    },
+    {
+      "start": 451.62,
+      "end": 454.62,
+      "text": "a monk is incapable of falling away."
+    },
+    {
+      "start": 454.62,
+      "end": 457.93,
+      "text": "He is near to nibbana."
+    },
+    {
+      "start": 457.93,
+      "end": 464.93,
+      "text": "So in this uttara, we see the Buddha is stressing on four practices,"
+    },
+    {
+      "start": 464.93,
+      "end": 467.93,
+      "text": "four very important practices,"
+    },
+    {
+      "start": 467.93,
+      "end": 470.93,
+      "text": "which if a monk practices,"
+    },
+    {
+      "start": 470.93,
+      "end": 474.93,
+      "text": "then he is not likely to fall away,"
+    },
+    {
+      "start": 474.93,
+      "end": 480.93,
+      "text": "or to disrupt or to break the precepts, etc.,"
+    },
+    {
+      "start": 480.93,
+      "end": 482.93,
+      "text": "the major precepts."
+    },
+    {
+      "start": 482.93,
+      "end": 486.93,
+      "text": "And these four practices,"
+    },
+    {
+      "start": 486.93,
+      "end": 489.93,
+      "text": "the first one is perfect in virtue,"
+    },
+    {
+      "start": 489.93,
+      "end": 492.93,
+      "text": "the second one is guarding the doors of the sense faculties,"
+    },
+    {
+      "start": 492.93,
+      "end": 495.93,
+      "text": "the third one is moderation in eating,"
+    },
+    {
+      "start": 495.93,
+      "end": 500.93,
+      "text": "the fourth one is devoted to watchfulness or wakefulness."
+    },
+    {
+      "start": 500.93,
+      "end": 504.93,
+      "text": "I think some of you, if you were here in the previous Sutta reading,"
+    },
+    {
+      "start": 504.93,
+      "end": 508.93,
+      "text": "you had heard the Buddha talking about the sure course, the sure way,"
+    },
+    {
+      "start": 508.93,
+      "end": 512.93,
+      "text": "and three practices were mentioned in there."
+    },
+    {
+      "start": 512.93,
+      "end": 515.93,
+      "text": "And those three practices are also mentioned here,"
+    },
+    {
+      "start": 515.93,
+      "end": 519.93,
+      "text": "namely guarding the doors of the sense faculties,"
+    },
+    {
+      "start": 519.93,
+      "end": 521.93,
+      "text": "moderation in eating,"
+    },
+    {
+      "start": 521.93,
+      "end": 524.93,
+      "text": "and given to wakefulness or watchfulness."
+    },
+    {
+      "start": 524.93,
+      "end": 530.34,
+      "text": "So these three very important practices,"
+    },
+    {
+      "start": 530.34,
+      "end": 534.34,
+      "text": "which make up what is known as Charana."
+    },
+    {
+      "start": 534.34,
+      "end": 539.34,
+      "text": "The Buddha is said to be perfect in knowledge and conduct,"
+    },
+    {
+      "start": 539.34,
+      "end": 542.34,
+      "text": "Vija, Charana, Sampanno."
+    },
+    {
+      "start": 542.34,
+      "end": 546.34,
+      "text": "And in this conduct, Charana,"
+    },
+    {
+      "start": 546.34,
+      "end": 550.34,
+      "text": "there's a series of practices which make up the holy life."
+    },
+    {
+      "start": 550.34,
+      "end": 557.34,
+      "text": "And these three, the Buddha always points out as being very important,"
+    },
+    {
+      "start": 558.34,
+      "end": 561.34,
+      "text": "namely the guarding of the sense doors,"
+    },
+    {
+      "start": 561.34,
+      "end": 565.34,
+      "text": "moderation in eating, and devotion to wakefulness."
+    },
+    {
+      "start": 565.34,
+      "end": 570.34,
+      "text": "And the first one mentioned in this Sutta is perfect in virtue,"
+    },
+    {
+      "start": 570.34,
+      "end": 575.34,
+      "text": "that means for a man to be restrained by the Patimokka,"
+    },
+    {
+      "start": 575.34,
+      "end": 578.34,
+      "text": "and he sees danger in the slightest faults,"
+    },
+    {
+      "start": 578.34,
+      "end": 581.34,
+      "text": "and he trains himself in the precepts,"
+    },
+    {
+      "start": 581.34,
+      "end": 583.34,
+      "text": "that is perfect in virtue."
+    },
+    {
+      "start": 583.34,
+      "end": 588.34,
+      "text": "Guarding the sense doors among seeing an object with the eye"
+    },
+    {
+      "start": 588.34,
+      "end": 590.34,
+      "text": "does not grasp at the general details,"
+    },
+    {
+      "start": 590.34,
+      "end": 593.34,
+      "text": "or at the general features or the details thereof."
+    },
+    {
+      "start": 593.34,
+      "end": 597.34,
+      "text": "This I mentioned before, this word grasp means to take up,"
+    },
+    {
+      "start": 597.34,
+      "end": 600.34,
+      "text": "to seize, or even just to accept."
+    },
+    {
+      "start": 600.34,
+      "end": 604.34,
+      "text": "So in other words, what the Buddha is saying is that"
+    },
+    {
+      "start": 604.34,
+      "end": 610.34,
+      "text": "the six sense doors, we try not to take notice of the objects"
+    },
+    {
+      "start": 610.34,
+      "end": 613.34,
+      "text": "of the six sense doors, rather to go into our mind,"
+    },
+    {
+      "start": 613.34,
+      "end": 616.34,
+      "text": "because it is mentioned elsewhere,"
+    },
+    {
+      "start": 616.34,
+      "end": 621.34,
+      "text": "that especially the five sense doors of the world are Mara's playground."
+    },
+    {
+      "start": 621.34,
+      "end": 625.34,
+      "text": "If we go out and notice the things in the world,"
+    },
+    {
+      "start": 625.34,
+      "end": 629.34,
+      "text": "then we are likely to be caught by Mara."
+    },
+    {
+      "start": 629.34,
+      "end": 631.34,
+      "text": "So that is guarding the sense doors,"
+    },
+    {
+      "start": 631.34,
+      "end": 634.34,
+      "text": "and then the other one is moderation in eating."
+    },
+    {
+      "start": 634.34,
+      "end": 638.34,
+      "text": "We eat just enough to support our body,"
+    },
+    {
+      "start": 638.34,
+      "end": 640.34,
+      "text": "not to make it beautiful,"
+    },
+    {
+      "start": 640.34,
+      "end": 646.34,
+      "text": "not to make it charming, etc., donning the body."
+    },
+    {
+      "start": 646.34,
+      "end": 649.34,
+      "text": "And then the last one is given to wakefulness."
+    },
+    {
+      "start": 649.34,
+      "end": 656.34,
+      "text": "The first watch, meaning normally is like 6 p.m. to 10 p.m.,"
+    },
+    {
+      "start": 656.34,
+      "end": 657.34,
+      "text": "that's the first watch,"
+    },
+    {
+      "start": 657.34,
+      "end": 662.34,
+      "text": "and then the Buddha says he should sit in meditation"
+    },
+    {
+      "start": 662.34,
+      "end": 664.34,
+      "text": "or walk up and down,"
+    },
+    {
+      "start": 664.34,
+      "end": 667.34,
+      "text": "checking the mind of unwholesome states,"
+    },
+    {
+      "start": 667.34,
+      "end": 670.34,
+      "text": "trying to get rid of unwholesome states in the mind"
+    },
+    {
+      "start": 670.34,
+      "end": 673.34,
+      "text": "and to develop wholesome states in the mind."
+    },
+    {
+      "start": 673.34,
+      "end": 678.34,
+      "text": "And similarly, for the middle watch of the night,"
+    },
+    {
+      "start": 678.34,
+      "end": 681.34,
+      "text": "he takes a rest, middle watch of the night,"
+    },
+    {
+      "start": 681.34,
+      "end": 684.34,
+      "text": "normally meaning 10 p.m. to 2 a.m."
+    },
+    {
+      "start": 684.34,
+      "end": 689.34,
+      "text": "And then the third watch is 2 a.m. to 6 p.m."
+    },
+    {
+      "start": 689.34,
+      "end": 692.34,
+      "text": "He gets up and he practices meditation"
+    },
+    {
+      "start": 692.34,
+      "end": 694.34,
+      "text": "and walking meditation."
+    },
+    {
+      "start": 694.34,
+      "end": 696.34,
+      "text": "And then the rest of the day, also,"
+    },
+    {
+      "start": 696.34,
+      "end": 700.34,
+      "text": "he is supposed to be practicing sitting and walking."
+    },
+    {
+      "start": 700.34,
+      "end": 708.34,
+      "text": "So these four things are said by the Buddha"
+    },
+    {
+      "start": 708.34,
+      "end": 710.34,
+      "text": "to be very important."
+    },
+    {
+      "start": 710.34,
+      "end": 715.34,
+      "text": "Now we come to another sutra, 4.5.41."
+    },
+    {
+      "start": 715.34,
+      "end": 718.34,
+      "text": "This is quite an important sutra."
+    },
+    {
+      "start": 718.34,
+      "end": 720.34,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 720.34,
+      "end": 725.34,
+      "text": "There are these four ways of development of concentration,"
+    },
+    {
+      "start": 725.34,
+      "end": 728.34,
+      "text": "samadhi-bhavana."
+    },
+    {
+      "start": 728.34,
+      "end": 729.34,
+      "text": "What for?"
+    },
+    {
+      "start": 729.34,
+      "end": 733.34,
+      "text": "There is monks, the development of concentration"
+    },
+    {
+      "start": 733.34,
+      "end": 736.34,
+      "text": "which, when developed and made much of,"
+    },
+    {
+      "start": 736.34,
+      "end": 740.34,
+      "text": "conduces to happy living in this very life."
+    },
+    {
+      "start": 740.34,
+      "end": 743.34,
+      "text": "There is monks, the development of concentration"
+    },
+    {
+      "start": 743.34,
+      "end": 746.34,
+      "text": "which, when developed and made much of,"
+    },
+    {
+      "start": 746.34,
+      "end": 752.34,
+      "text": "conduces to winning knowledge and insight."
+    },
+    {
+      "start": 752.34,
+      "end": 755.34,
+      "text": "There is monks, the development of concentration"
+    },
+    {
+      "start": 755.34,
+      "end": 759.34,
+      "text": "which, conduces to mindfulness and well-awareness."
+    },
+    {
+      "start": 759.34,
+      "end": 763.34,
+      "text": "There is monks, that which, when developed and made much of,"
+    },
+    {
+      "start": 763.34,
+      "end": 766.34,
+      "text": "conduces to the destruction of the asavas."
+    },
+    {
+      "start": 766.34,
+      "end": 770.34,
+      "text": "Now monks, what sort of development of concentration"
+    },
+    {
+      "start": 770.34,
+      "end": 774.34,
+      "text": "conduces to happy living in this very life?"
+    },
+    {
+      "start": 774.34,
+      "end": 778.34,
+      "text": "Hearing a monk, aloof from sense desires, etc.,"
+    },
+    {
+      "start": 778.34,
+      "end": 780.34,
+      "text": "attains the first jhana."
+    },
+    {
+      "start": 780.34,
+      "end": 783.34,
+      "text": "By calming down of thought directed and sustained,"
+    },
+    {
+      "start": 783.34,
+      "end": 786.34,
+      "text": "he attains the second jhana."
+    },
+    {
+      "start": 786.34,
+      "end": 789.34,
+      "text": "By the fading out of delight, etc.,"
+    },
+    {
+      "start": 789.34,
+      "end": 791.34,
+      "text": "he attains the third jhana."
+    },
+    {
+      "start": 791.34,
+      "end": 794.34,
+      "text": "By abandonment of pleasure and pain, etc.,"
+    },
+    {
+      "start": 794.34,
+      "end": 798.34,
+      "text": "he attains the fourth jhana and abides therein."
+    },
+    {
+      "start": 798.34,
+      "end": 801.34,
+      "text": "This is called the development of concentration"
+    },
+    {
+      "start": 801.34,
+      "end": 805.34,
+      "text": "which conduces to happy living in this very life."
+    },
+    {
+      "start": 805.34,
+      "end": 807.34,
+      "text": "This stopped for a while to make a comment."
+    },
+    {
+      "start": 807.34,
+      "end": 812.34,
+      "text": "Here, out of the four developments of concentration,"
+    },
+    {
+      "start": 812.34,
+      "end": 815.34,
+      "text": "the first one, conduces to happy living,"
+    },
+    {
+      "start": 815.34,
+      "end": 818.34,
+      "text": "to blissful living, happy abiding,"
+    },
+    {
+      "start": 818.34,
+      "end": 821.34,
+      "text": "is attaining the janas."
+    },
+    {
+      "start": 821.34,
+      "end": 824.34,
+      "text": "Some of you might have heard a previous sutra"
+    },
+    {
+      "start": 824.34,
+      "end": 827.34,
+      "text": "where the Buddha talked about the different kinds of cultures"
+    },
+    {
+      "start": 827.34,
+      "end": 829.34,
+      "text": "that he can attain."
+    },
+    {
+      "start": 829.34,
+      "end": 832.34,
+      "text": "He said that when he comes out of the fourth jhana,"
+    },
+    {
+      "start": 832.34,
+      "end": 835.34,
+      "text": "if he walks, he is walking in bliss."
+    },
+    {
+      "start": 835.34,
+      "end": 838.34,
+      "text": "If he lies down, he is lying down in bliss."
+    },
+    {
+      "start": 838.34,
+      "end": 840.34,
+      "text": "If he sits, he is sitting in bliss."
+    },
+    {
+      "start": 840.34,
+      "end": 842.34,
+      "text": "If he is standing, he is standing in bliss, etc.,"
+    },
+    {
+      "start": 842.34,
+      "end": 845.34,
+      "text": "because when a person comes out of the fourth jhana,"
+    },
+    {
+      "start": 845.34,
+      "end": 848.34,
+      "text": "the effect of the jhana is still there."
+    },
+    {
+      "start": 848.34,
+      "end": 852.34,
+      "text": "It still feels a strong effect, the bliss"
+    },
+    {
+      "start": 852.34,
+      "end": 857.34,
+      "text": "and the attenuation of the hindrances."
+    },
+    {
+      "start": 857.34,
+      "end": 861.34,
+      "text": "It makes him very blissful."
+    },
+    {
+      "start": 861.34,
+      "end": 865.34,
+      "text": "This is what the Buddha calls in certain sutras,"
+    },
+    {
+      "start": 865.34,
+      "end": 867.34,
+      "text": "the bliss of enunciation,"
+    },
+    {
+      "start": 867.34,
+      "end": 871.34,
+      "text": "attaining the bliss of samadhi."
+    },
+    {
+      "start": 871.34,
+      "end": 874.34,
+      "text": "Then, to continue, the Buddha said,"
+    },
+    {
+      "start": 874.34,
+      "end": 879.34,
+      "text": "What sort is that which conduces to winning knowledge and insight?"
+    },
+    {
+      "start": 879.34,
+      "end": 883.34,
+      "text": "Hearing among pays attention to consciousness of light."
+    },
+    {
+      "start": 883.34,
+      "end": 886.34,
+      "text": "He concentrates on consciousness of daylight."
+    },
+    {
+      "start": 886.34,
+      "end": 891.34,
+      "text": "As by day, so by night, as by night, so by day."
+    },
+    {
+      "start": 891.34,
+      "end": 895.34,
+      "text": "Thus, with which unalert, with which unhampered,"
+    },
+    {
+      "start": 895.34,
+      "end": 898.34,
+      "text": "he cultivates the mind to brilliance."
+    },
+    {
+      "start": 898.34,
+      "end": 901.34,
+      "text": "This monks is called the development of concentration,"
+    },
+    {
+      "start": 901.34,
+      "end": 904.34,
+      "text": "which when developed and made much of,"
+    },
+    {
+      "start": 904.34,
+      "end": 907.34,
+      "text": "conduces to winning knowledge and insight."
+    },
+    {
+      "start": 907.34,
+      "end": 910.34,
+      "text": "I'll just stop here again to comment."
+    },
+    {
+      "start": 910.34,
+      "end": 913.34,
+      "text": "This one, the Buddha says, the condition"
+    },
+    {
+      "start": 913.34,
+      "end": 917.34,
+      "text": "which conduces to winning knowledge and insight"
+    },
+    {
+      "start": 917.34,
+      "end": 921.34,
+      "text": "is to cultivate the mind until it becomes bright."
+    },
+    {
+      "start": 921.34,
+      "end": 924.34,
+      "text": "And how do you cultivate the mind until it becomes bright?"
+    },
+    {
+      "start": 924.34,
+      "end": 927.34,
+      "text": "It's only by attaining the jhanas,"
+    },
+    {
+      "start": 927.34,
+      "end": 932.34,
+      "text": "because the jhanas means state of mental incandescence."
+    },
+    {
+      "start": 932.34,
+      "end": 934.34,
+      "text": "The mind becomes bright."
+    },
+    {
+      "start": 934.34,
+      "end": 939.34,
+      "text": "That's why people who attain jhana and dwell constantly in jhana,"
+    },
+    {
+      "start": 939.34,
+      "end": 942.34,
+      "text": "when they are reborn into the jhana plane,"
+    },
+    {
+      "start": 942.34,
+      "end": 944.34,
+      "text": "they are beings of light."
+    },
+    {
+      "start": 944.34,
+      "end": 946.34,
+      "text": "They radiate a lot of light,"
+    },
+    {
+      "start": 946.34,
+      "end": 951.81,
+      "text": "because the mind is so strong, it becomes bright."
+    },
+    {
+      "start": 951.81,
+      "end": 955.81,
+      "text": "And the mind normally is dark because of defilements."
+    },
+    {
+      "start": 955.81,
+      "end": 959.81,
+      "text": "And the defilements are because our energies"
+    },
+    {
+      "start": 959.81,
+      "end": 961.81,
+      "text": "go out to the sixth sense doors."
+    },
+    {
+      "start": 961.81,
+      "end": 964.81,
+      "text": "And our energies go out to the sixth sense doors."
+    },
+    {
+      "start": 964.81,
+      "end": 966.81,
+      "text": "Our energy is scattered."
+    },
+    {
+      "start": 966.81,
+      "end": 968.81,
+      "text": "So there's one Sutta where the Buddha said,"
+    },
+    {
+      "start": 968.81,
+      "end": 973.81,
+      "text": "the mind is not scattered."
+    },
+    {
+      "start": 973.81,
+      "end": 975.81,
+      "text": "When the mind is not scattered,"
+    },
+    {
+      "start": 975.81,
+      "end": 979.81,
+      "text": "the brightness of the mind manifests."
+    },
+    {
+      "start": 979.81,
+      "end": 982.81,
+      "text": "The mind is naturally bright."
+    },
+    {
+      "start": 982.81,
+      "end": 988.81,
+      "text": "It's only because it is defiled by the sense doors,"
+    },
+    {
+      "start": 988.81,
+      "end": 990.81,
+      "text": "the objects of the senses,"
+    },
+    {
+      "start": 990.81,
+      "end": 993.81,
+      "text": "that the mind becomes scattered and dull."
+    },
+    {
+      "start": 993.81,
+      "end": 997.81,
+      "text": "So here you see, this is a very important passage here,"
+    },
+    {
+      "start": 997.81,
+      "end": 1001.81,
+      "text": "which is to say, that's why a lot of people don't understand."
+    },
+    {
+      "start": 1001.81,
+      "end": 1007.81,
+      "text": "How come Samadhi can give us knowledge and insight?"
+    },
+    {
+      "start": 1007.81,
+      "end": 1011.81,
+      "text": "How can Samadhi by itself give us wisdom?"
+    },
+    {
+      "start": 1011.81,
+      "end": 1013.81,
+      "text": "This is the point here the Buddha is trying to make,"
+    },
+    {
+      "start": 1013.81,
+      "end": 1017.81,
+      "text": "that by cultivating our mind until it's so strong,"
+    },
+    {
+      "start": 1017.81,
+      "end": 1020.81,
+      "text": "that it's so bright, that is the type of mind"
+    },
+    {
+      "start": 1020.81,
+      "end": 1025.81,
+      "text": "that is very sharp, that can see very clearly,"
+    },
+    {
+      "start": 1025.81,
+      "end": 1027.81,
+      "text": "can see things as they really are."
+    },
+    {
+      "start": 1027.81,
+      "end": 1029.81,
+      "text": "Because the Buddha said elsewhere,"
+    },
+    {
+      "start": 1029.81,
+      "end": 1036.06,
+      "text": "that the condition for Yatha Bhutaniana Dasana,"
+    },
+    {
+      "start": 1036.06,
+      "end": 1039.06,
+      "text": "seeing things as they really are,"
+    },
+    {
+      "start": 1039.06,
+      "end": 1043.06,
+      "text": "is Samadhi."
+    },
+    {
+      "start": 1043.06,
+      "end": 1045.06,
+      "text": "The condition for seeing things as they really are,"
+    },
+    {
+      "start": 1045.06,
+      "end": 1046.06,
+      "text": "is strong Samadhi."
+    },
+    {
+      "start": 1046.06,
+      "end": 1050.06,
+      "text": "So here, especially if the mind is bright,"
+    },
+    {
+      "start": 1050.06,
+      "end": 1055.06,
+      "text": "is very, very strong, very, very concentrated,"
+    },
+    {
+      "start": 1055.06,
+      "end": 1059.06,
+      "text": "that is the best condition for Nyaana Dasana,"
+    },
+    {
+      "start": 1059.06,
+      "end": 1066.39,
+      "text": "attaining knowledge and insight to continue the Buddha said."
+    },
+    {
+      "start": 1066.39,
+      "end": 1069.39,
+      "text": "And what sort of development of concentration"
+    },
+    {
+      "start": 1069.39,
+      "end": 1072.39,
+      "text": "conduces to mindfulness and well-awareness?"
+    },
+    {
+      "start": 1072.39,
+      "end": 1074.39,
+      "text": "Sati Sampajanya."
+    },
+    {
+      "start": 1074.39,
+      "end": 1077.39,
+      "text": "Here in monks, the feelings which arise in a monk"
+    },
+    {
+      "start": 1077.39,
+      "end": 1079.39,
+      "text": "are evident to him."
+    },
+    {
+      "start": 1079.39,
+      "end": 1083.39,
+      "text": "The feelings which abide with him are evident to him."
+    },
+    {
+      "start": 1083.39,
+      "end": 1087.39,
+      "text": "The feelings which come to an end in him are evident to him."
+    },
+    {
+      "start": 1087.39,
+      "end": 1093.39,
+      "text": "The perceptions, Sanya, which arise in him are evident, etc."
+    },
+    {
+      "start": 1093.39,
+      "end": 1097.39,
+      "text": "The trains of thought, Vittaka, which arise, which abide with him,"
+    },
+    {
+      "start": 1097.39,
+      "end": 1099.39,
+      "text": "which come to an end in him are evident."
+    },
+    {
+      "start": 1099.39,
+      "end": 1104.39,
+      "text": "This monks is called the development of concentration,"
+    },
+    {
+      "start": 1104.39,
+      "end": 1108.39,
+      "text": "which conduces to mindfulness and well-awareness."
+    },
+    {
+      "start": 1108.39,
+      "end": 1112.39,
+      "text": "Stop here for a while."
+    },
+    {
+      "start": 1112.39,
+      "end": 1114.39,
+      "text": "So here the Buddha is saying,"
+    },
+    {
+      "start": 1114.39,
+      "end": 1120.39,
+      "text": "if we want to have Sati Sampajanya,"
+    },
+    {
+      "start": 1120.39,
+      "end": 1124.39,
+      "text": "mindful and clear comprehension or well-awareness,"
+    },
+    {
+      "start": 1124.39,
+      "end": 1127.39,
+      "text": "then we should be always looking into our mind,"
+    },
+    {
+      "start": 1127.39,
+      "end": 1129.39,
+      "text": "always watching these three things,"
+    },
+    {
+      "start": 1129.39,
+      "end": 1133.39,
+      "text": "Vedana, the feelings, Sanya, the perceptions,"
+    },
+    {
+      "start": 1133.39,
+      "end": 1135.39,
+      "text": "and the thoughts Vittaka."
+    },
+    {
+      "start": 1135.39,
+      "end": 1138.39,
+      "text": "If we keep on watching our mind,"
+    },
+    {
+      "start": 1138.39,
+      "end": 1142.39,
+      "text": "that is conduces to mindfulness and well-awareness."
+    },
+    {
+      "start": 1142.39,
+      "end": 1145.39,
+      "text": "So here you see mindfulness and well-awareness"
+    },
+    {
+      "start": 1145.39,
+      "end": 1147.39,
+      "text": "is the practice of watching the mind."
+    },
+    {
+      "start": 1147.39,
+      "end": 1150.39,
+      "text": "It is not the practice of seeing outside objects,"
+    },
+    {
+      "start": 1150.39,
+      "end": 1153.39,
+      "text": "not to be aware of sight, sound, smells, etc."
+    },
+    {
+      "start": 1153.39,
+      "end": 1156.39,
+      "text": "but to be aware of our working of the mind,"
+    },
+    {
+      "start": 1156.39,
+      "end": 1159.39,
+      "text": "because the problem is in our mind."
+    },
+    {
+      "start": 1159.39,
+      "end": 1161.39,
+      "text": "Where does the ego arise?"
+    },
+    {
+      "start": 1161.39,
+      "end": 1163.39,
+      "text": "Ego arises in the mind."
+    },
+    {
+      "start": 1163.39,
+      "end": 1167.39,
+      "text": "So that is why we must always be watching the mind."
+    },
+    {
+      "start": 1168.39,
+      "end": 1170.39,
+      "text": "And then to continue."
+    },
+    {
+      "start": 1170.39,
+      "end": 1172.39,
+      "text": "And what sort of development of concentration"
+    },
+    {
+      "start": 1172.39,
+      "end": 1175.39,
+      "text": "if developed and made much of conduces"
+    },
+    {
+      "start": 1175.39,
+      "end": 1177.39,
+      "text": "to the destruction of the Asavas?"
+    },
+    {
+      "start": 1177.39,
+      "end": 1181.39,
+      "text": "Herein, among dwells observing the rise and fall"
+    },
+    {
+      "start": 1181.39,
+      "end": 1183.39,
+      "text": "in the five aggregates of grasping."
+    },
+    {
+      "start": 1183.39,
+      "end": 1188.39,
+      "text": "Thus, such is body, such is the arising of body,"
+    },
+    {
+      "start": 1188.39,
+      "end": 1191.39,
+      "text": "such is its vanishing, such is feeling,"
+    },
+    {
+      "start": 1191.39,
+      "end": 1194.39,
+      "text": "such is perception, such is volition."
+    },
+    {
+      "start": 1195.39,
+      "end": 1199.39,
+      "text": "The arising of volition, the vanishing of volition,"
+    },
+    {
+      "start": 1199.39,
+      "end": 1202.39,
+      "text": "such is consciousness, such is the arising of consciousness,"
+    },
+    {
+      "start": 1202.39,
+      "end": 1204.39,
+      "text": "such is the vanishing of consciousness."
+    },
+    {
+      "start": 1204.39,
+      "end": 1207.39,
+      "text": "This monks is called the development of concentration,"
+    },
+    {
+      "start": 1207.39,
+      "end": 1212.39,
+      "text": "which conduces to the destruction of the Asavas."
+    },
+    {
+      "start": 1212.39,
+      "end": 1215.39,
+      "text": "These are the four forms of it."
+    },
+    {
+      "start": 1215.39,
+      "end": 1219.39,
+      "text": "So the last one, if we want to destroy the Asavas,"
+    },
+    {
+      "start": 1219.39,
+      "end": 1222.39,
+      "text": "we should always look into the five aggregates."
+    },
+    {
+      "start": 1222.39,
+      "end": 1224.39,
+      "text": "And what are these five aggregates?"
+    },
+    {
+      "start": 1224.39,
+      "end": 1228.39,
+      "text": "Body, first one, second one is feeling,"
+    },
+    {
+      "start": 1228.39,
+      "end": 1231.39,
+      "text": "perception, volition, and consciousness."
+    },
+    {
+      "start": 1231.39,
+      "end": 1234.39,
+      "text": "And these five things, if we break them down,"
+    },
+    {
+      "start": 1234.39,
+      "end": 1235.39,
+      "text": "is basically two things."
+    },
+    {
+      "start": 1235.39,
+      "end": 1239.39,
+      "text": "The first one is body, and the other four is mind."
+    },
+    {
+      "start": 1239.39,
+      "end": 1242.39,
+      "text": "The active mind, the working mind."
+    },
+    {
+      "start": 1242.39,
+      "end": 1246.39,
+      "text": "So if we want to destroy the Asavas,"
+    },
+    {
+      "start": 1246.39,
+      "end": 1248.39,
+      "text": "to attain Arahant Hoodna,"
+    },
+    {
+      "start": 1248.39,
+      "end": 1250.39,
+      "text": "we look into our body and mind,"
+    },
+    {
+      "start": 1250.39,
+      "end": 1254.39,
+      "text": "we should always be observant of our body and mind."
+    },
+    {
+      "start": 1254.39,
+      "end": 1259.39,
+      "text": "And why basically do we want to observe the body and mind?"
+    },
+    {
+      "start": 1259.39,
+      "end": 1265.39,
+      "text": "Because the Buddha said that if we have any idea about the self,"
+    },
+    {
+      "start": 1265.39,
+      "end": 1267.39,
+      "text": "the clinging to the self,"
+    },
+    {
+      "start": 1267.39,
+      "end": 1270.39,
+      "text": "this self that we cling to, what do we associate with?"
+    },
+    {
+      "start": 1270.39,
+      "end": 1273.39,
+      "text": "It's always with these two things, body and mind."
+    },
+    {
+      "start": 1273.39,
+      "end": 1276.39,
+      "text": "We always associate with the self, with the body and mind."
+    },
+    {
+      "start": 1276.39,
+      "end": 1280.39,
+      "text": "So that's why we should always be observing the nature of our body,"
+    },
+    {
+      "start": 1280.39,
+      "end": 1285.39,
+      "text": "how our body depends on food, how our body depends on the conditions."
+    },
+    {
+      "start": 1285.39,
+      "end": 1287.39,
+      "text": "If the weather is too hot, we get sick."
+    },
+    {
+      "start": 1287.39,
+      "end": 1290.39,
+      "text": "If it's too cold, we can't stand."
+    },
+    {
+      "start": 1290.39,
+      "end": 1296.39,
+      "text": "If we don't get food, we feel weak, we feel sick."
+    },
+    {
+      "start": 1296.39,
+      "end": 1301.39,
+      "text": "So the body needs to be sustained by food, by good conditions."
+    },
+    {
+      "start": 1301.39,
+      "end": 1306.39,
+      "text": "So in the same way, we watch the other factors of our mind,"
+    },
+    {
+      "start": 1306.39,
+      "end": 1309.39,
+      "text": "how feeling arises through contact."
+    },
+    {
+      "start": 1309.39,
+      "end": 1313.39,
+      "text": "When there is contact through the sixth sense doors, feeling arises."
+    },
+    {
+      "start": 1313.39,
+      "end": 1315.39,
+      "text": "And how it disappears also."
+    },
+    {
+      "start": 1315.39,
+      "end": 1320.39,
+      "text": "And similarly with perception, also it needs contact at the sixth sense doors."
+    },
+    {
+      "start": 1320.39,
+      "end": 1324.39,
+      "text": "Then only feeling arises followed by perception."
+    },
+    {
+      "start": 1324.39,
+      "end": 1326.39,
+      "text": "And then volition the same way."
+    },
+    {
+      "start": 1326.39,
+      "end": 1329.39,
+      "text": "Because of contact, there is feeling, there is perception."
+    },
+    {
+      "start": 1329.39,
+      "end": 1333.39,
+      "text": "And then there is thinking, and then you decide what to do."
+    },
+    {
+      "start": 1333.39,
+      "end": 1336.39,
+      "text": "So all these are conditioned the same with consciousness."
+    },
+    {
+      "start": 1336.39,
+      "end": 1340.39,
+      "text": "Consciousness arises because of our sense object,"
+    },
+    {
+      "start": 1340.39,
+      "end": 1348.39,
+      "text": "and our sense organ, and the sense object which arises at our sense organs,"
+    },
+    {
+      "start": 1348.39,
+      "end": 1350.39,
+      "text": "which makes the consciousness arise."
+    },
+    {
+      "start": 1350.39,
+      "end": 1353.39,
+      "text": "The seeing consciousness, hearing consciousness, etc."
+    },
+    {
+      "start": 1353.39,
+      "end": 1355.39,
+      "text": "So all these depend on conditions."
+    },
+    {
+      "start": 1355.39,
+      "end": 1358.39,
+      "text": "So we see how they arise and pass away, arise and pass away."
+    },
+    {
+      "start": 1358.39,
+      "end": 1361.39,
+      "text": "How they are so entirely dependent on conditions, slowly."
+    },
+    {
+      "start": 1361.39,
+      "end": 1366.39,
+      "text": "We try to dissociate ourselves from these five things,"
+    },
+    {
+      "start": 1366.39,
+      "end": 1369.39,
+      "text": "which are basically body and mind."
+    },
+    {
+      "start": 1369.39,
+      "end": 1374.39,
+      "text": "So this is a Sutta which talks about Samadhi Bhavana,"
+    },
+    {
+      "start": 1374.39,
+      "end": 1377.39,
+      "text": "development of Samadhi concentration,"
+    },
+    {
+      "start": 1377.39,
+      "end": 1379.39,
+      "text": "the different types of Samadhi Bhavana."
+    },
+    {
+      "start": 1379.39,
+      "end": 1382.39,
+      "text": "First one, conduces to happy living."
+    },
+    {
+      "start": 1382.39,
+      "end": 1385.39,
+      "text": "Second one, conduces to winning knowledge and insight."
+    },
+    {
+      "start": 1385.39,
+      "end": 1389.39,
+      "text": "This one is very important, how we must develop our mind until it is clear."
+    },
+    {
+      "start": 1389.39,
+      "end": 1393.39,
+      "text": "And then we see things very, we have a very alert mind,"
+    },
+    {
+      "start": 1393.39,
+      "end": 1397.39,
+      "text": "not the mind that is hampered by the five hindrances."
+    },
+    {
+      "start": 1397.39,
+      "end": 1400.39,
+      "text": "If our mind is not developed, if we don't have Samadhi,"
+    },
+    {
+      "start": 1400.39,
+      "end": 1405.39,
+      "text": "it is always enveloped by the five hindrances which block us,"
+    },
+    {
+      "start": 1405.39,
+      "end": 1408.39,
+      "text": "which hinder us from seeing things as they really are."
+    },
+    {
+      "start": 1408.39,
+      "end": 1412.39,
+      "text": "We see things as they seem to be, just like a person with dark specs,"
+    },
+    {
+      "start": 1412.39,
+      "end": 1416.39,
+      "text": "when you wear dark specs, whatever you see, the colour you see,"
+    },
+    {
+      "start": 1416.39,
+      "end": 1419.39,
+      "text": "it's always a perversion, it's not the real thing."
+    },
+    {
+      "start": 1419.39,
+      "end": 1423.39,
+      "text": "But you will swear, but that is what you see."
+    },
+    {
+      "start": 1423.39,
+      "end": 1425.39,
+      "text": "That is only what it seems to you."
+    },
+    {
+      "start": 1425.39,
+      "end": 1428.39,
+      "text": "It's only when you remove the dark specs, dark glasses,"
+    },
+    {
+      "start": 1428.39,
+      "end": 1430.39,
+      "text": "that you see things in the correct perspective."
+    },
+    {
+      "start": 1430.39,
+      "end": 1433.39,
+      "text": "Similarly, if we have the five hindrances,"
+    },
+    {
+      "start": 1433.39,
+      "end": 1439.39,
+      "text": "we see things not as they really are, but as they seem to be to us."
+    },
+    {
+      "start": 1439.39,
+      "end": 1444.39,
+      "text": "Then the third one is the Samadhi Bhavana that conduces to mindfulness"
+    },
+    {
+      "start": 1444.39,
+      "end": 1450.39,
+      "text": "and well-awareness, and that is to, the practice of it is to watch the mind."
+    },
+    {
+      "start": 1450.39,
+      "end": 1454.39,
+      "text": "And the last one, conducive to the destruction of the Asavas,"
+    },
+    {
+      "start": 1454.39,
+      "end": 1457.39,
+      "text": "is to watch the five aggregates, how they arise,"
+    },
+    {
+      "start": 1457.39,
+      "end": 1461.39,
+      "text": "they pass away, how they depend on conditions."
+    },
+    {
+      "start": 1461.39,
+      "end": 1466.39,
+      "text": "So that is quite an important sutta for people who are interested in meditation."
+    },
+    {
+      "start": 1466.39,
+      "end": 1470.39,
+      "text": "That is why it's very important to study the suttas,"
+    },
+    {
+      "start": 1470.39,
+      "end": 1474.39,
+      "text": "to investigate the suttas if we want to meditate in the right way,"
+    },
+    {
+      "start": 1474.39,
+      "end": 1477.39,
+      "text": "because all the Buddha's instructions are in the suttas,"
+    },
+    {
+      "start": 1477.39,
+      "end": 1480.39,
+      "text": "including instructions on meditation."
+    },
+    {
+      "start": 1480.39,
+      "end": 1485.39,
+      "text": "Now the next sutta is 4.5, 0.49."
+    },
+    {
+      "start": 1485.39,
+      "end": 1489.39,
+      "text": "Mangs, there are these four perversions of perception,"
+    },
+    {
+      "start": 1489.39,
+      "end": 1494.39,
+      "text": "four perversions of thought, four perversions of view."
+    },
+    {
+      "start": 1494.39,
+      "end": 1501.39,
+      "text": "What for? These perversions are called lipalasa in Pali."
+    },
+    {
+      "start": 1501.39,
+      "end": 1505.39,
+      "text": "What for? To hold that in the impermanent,"
+    },
+    {
+      "start": 1505.39,
+      "end": 1509.39,
+      "text": "there is permanence, is a perversion of perception, thought, and view."
+    },
+    {
+      "start": 1509.39,
+      "end": 1513.39,
+      "text": "To hold that in the ill, there is not ill,"
+    },
+    {
+      "start": 1513.39,
+      "end": 1518.39,
+      "text": "ill is dukkha, is a perversion of perception, thought, and view."
+    },
+    {
+      "start": 1518.39,
+      "end": 1522.39,
+      "text": "To hold that in the not-cell, there is self-attah,"
+    },
+    {
+      "start": 1522.39,
+      "end": 1529.39,
+      "text": "is a perversion of perception, thought, and view."
+    },
+    {
+      "start": 1529.39,
+      "end": 1534.39,
+      "text": "To hold that in the repulsive, there is the attractive suma,"
+    },
+    {
+      "start": 1534.39,
+      "end": 1537.39,
+      "text": "is a perversion of perception, thought and view."
+    },
+    {
+      "start": 1537.39,
+      "end": 1542.39,
+      "text": "These are the four perversions of perception, thought, and view."
+    },
+    {
+      "start": 1542.39,
+      "end": 1547.39,
+      "text": "Mangs, there are these 4 non-perversions of perception, thought, and view."
+    },
+    {
+      "start": 1547.39,
+      "end": 1557.39,
+      "text": "To hold that in the impermanence there is impermanence, that in the ill is ill, that in the not self is not self, that in the repulsive is the repulsive."
+    },
+    {
+      "start": 1557.39,
+      "end": 1562.39,
+      "text": "These are the non-perversions of perception, thought and view."
+    },
+    {
+      "start": 1563.39,
+      "end": 1580.39,
+      "text": "This uttah concerns the three characteristics of existence, which are the impermanence, anicha, dukkha and anatta."
+    },
+    {
+      "start": 1580.39,
+      "end": 1595.39,
+      "text": "We have perversion of perception, thought and view, if we think that things in the world are different from these three characteristics of impermanence, dukkha and anatta."
+    },
+    {
+      "start": 1595.39,
+      "end": 1614.39,
+      "text": "The last one is in the repulsive, we think that it is attractive, and this one mainly concerns the human body to see in another human body the attraction, especially of the opposite sex, not to see things in the right perspective."
+    },
+    {
+      "start": 1614.39,
+      "end": 1638.39,
+      "text": "That's why sometimes the Buddha asks us to meditate on the 32 parts of the body so that we can see a body in the right perspective, not only the outside form of it, but to view the inside also with all its intestines and heart and lungs and excrements and urine and blood etc."
+    },
+    {
+      "start": 1638.39,
+      "end": 1641.39,
+      "text": "So these are the four perversions."
+    }
+  ]
+}

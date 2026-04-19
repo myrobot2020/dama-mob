@@ -1,0 +1,3490 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2203.15575,
+  "segments": [
+    {
+      "start": 0.91,
+      "end": 5.61,
+      "text": "The next Uta is 7.6.59. The Buddha said,"
+    },
+    {
+      "start": 5.61,
+      "end": 8.91,
+      "text": "monks, be not afraid of deeds of merit."
+    },
+    {
+      "start": 8.91,
+      "end": 13.41,
+      "text": "It is a name for happiness, that is, meritorious deeds."
+    },
+    {
+      "start": 13.41,
+      "end": 18.91,
+      "text": "For well I know, monks, that deeds of merit done for a long time"
+    },
+    {
+      "start": 18.91,
+      "end": 22.21,
+      "text": "have a ripening, a blossoming, which is pleasing,"
+    },
+    {
+      "start": 22.21,
+      "end": 25.41,
+      "text": "joyous and lovely for a long time."
+    },
+    {
+      "start": 25.41,
+      "end": 29.91,
+      "text": "For seven years I fostered thoughts of Mehta,"
+    },
+    {
+      "start": 29.91,
+      "end": 32.41,
+      "text": "loving kindness or goodwill."
+    },
+    {
+      "start": 32.41,
+      "end": 37.41,
+      "text": "And then for seven ages of the worlds rolling on and rolling back,"
+    },
+    {
+      "start": 37.41,
+      "end": 40.41,
+      "text": "I came not again to this world."
+    },
+    {
+      "start": 40.41,
+      "end": 44.91,
+      "text": "Then when the world rolled on, I reached the sphere of radiance."
+    },
+    {
+      "start": 44.91,
+      "end": 52.41,
+      "text": "Then when the world rolled back, I went to Brahma's empty palace."
+    },
+    {
+      "start": 52.41,
+      "end": 58.41,
+      "text": "Then, monks, I became Brahma, great Brahma, the conqueror, unconquered,"
+    },
+    {
+      "start": 58.41,
+      "end": 60.91,
+      "text": "all seeing, all powerful."
+    },
+    {
+      "start": 60.91,
+      "end": 64.91,
+      "text": "Thirty-six times I was Sakadeva Raja."
+    },
+    {
+      "start": 64.91,
+      "end": 69.91,
+      "text": "Many times seven was I, a wheel turning Raja, just, righteous,"
+    },
+    {
+      "start": 69.91,
+      "end": 72.41,
+      "text": "conquering the four ends of the earth,"
+    },
+    {
+      "start": 72.41,
+      "end": 76.91,
+      "text": "bringing stability to the country, possessing the seven gems."
+    },
+    {
+      "start": 76.91,
+      "end": 81.41,
+      "text": "Monks, these were my seven gems, the wheel gem, the elephant gem,"
+    },
+    {
+      "start": 81.41,
+      "end": 84.91,
+      "text": "the horse gem, precious stone gem, woman gem,"
+    },
+    {
+      "start": 84.91,
+      "end": 87.91,
+      "text": "house father gem and minister gem."
+    },
+    {
+      "start": 87.91,
+      "end": 89.91,
+      "text": "And I had more than a thousand sons,"
+    },
+    {
+      "start": 89.91,
+      "end": 93.41,
+      "text": "valiant, vigorous, precious of enemy hosts."
+    },
+    {
+      "start": 93.41,
+      "end": 97.91,
+      "text": "And when I had conquered it, I dwelt within this sea-bodied country,"
+    },
+    {
+      "start": 97.91,
+      "end": 102.91,
+      "text": "ruling righteously, not needing broad or sword."
+    },
+    {
+      "start": 102.91,
+      "end": 108.57,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 108.57,
+      "end": 111.57,
+      "text": "And here the Buddha is saying that"
+    },
+    {
+      "start": 111.57,
+      "end": 114.57,
+      "text": "we should not be afraid of doing good."
+    },
+    {
+      "start": 114.57,
+      "end": 119.07,
+      "text": "And the Buddha said he practiced Mehta,"
+    },
+    {
+      "start": 119.07,
+      "end": 124.07,
+      "text": "Mehta meditation for seven years."
+    },
+    {
+      "start": 124.07,
+      "end": 130.07,
+      "text": "And then he, for seven ages,"
+    },
+    {
+      "start": 130.07,
+      "end": 133.07,
+      "text": "or seven aeons, or world cycles,"
+    },
+    {
+      "start": 133.07,
+      "end": 136.07,
+      "text": "he came not again to this world."
+    },
+    {
+      "start": 136.07,
+      "end": 142.07,
+      "text": "The world rolling on is the growing or the developing of the world."
+    },
+    {
+      "start": 142.07,
+      "end": 146.57,
+      "text": "And the world rolling back is the decay of the world."
+    },
+    {
+      "start": 146.57,
+      "end": 148.57,
+      "text": "This is what I presume."
+    },
+    {
+      "start": 148.57,
+      "end": 152.57,
+      "text": "So the world rolled on and rolled back."
+    },
+    {
+      "start": 152.57,
+      "end": 158.57,
+      "text": "And the world cycle, they are four stages."
+    },
+    {
+      "start": 158.57,
+      "end": 162.57,
+      "text": "First, there is a void, emptiness."
+    },
+    {
+      "start": 162.57,
+      "end": 165.57,
+      "text": "Then there is the developing of the world,"
+    },
+    {
+      "start": 165.57,
+      "end": 167.57,
+      "text": "the formation of the world."
+    },
+    {
+      "start": 167.57,
+      "end": 169.57,
+      "text": "This takes a long time."
+    },
+    {
+      "start": 169.57,
+      "end": 176.07,
+      "text": "And once the world has formed, then it exists for a long time."
+    },
+    {
+      "start": 176.07,
+      "end": 179.07,
+      "text": "And then later it will decay."
+    },
+    {
+      "start": 179.07,
+      "end": 182.07,
+      "text": "And that decay also takes a long time."
+    },
+    {
+      "start": 182.07,
+      "end": 185.07,
+      "text": "And after it's finally completely decayed,"
+    },
+    {
+      "start": 185.07,
+      "end": 187.07,
+      "text": "then there's void again."
+    },
+    {
+      "start": 187.07,
+      "end": 194.07,
+      "text": "So there's four things in the world cycle."
+    },
+    {
+      "start": 194.07,
+      "end": 198.07,
+      "text": "Then the Buddha said he wanted a sphere of radiance."
+    },
+    {
+      "start": 198.07,
+      "end": 203.07,
+      "text": "That means his Mehta meditation,"
+    },
+    {
+      "start": 203.07,
+      "end": 206.07,
+      "text": "in his type of meditation,"
+    },
+    {
+      "start": 206.07,
+      "end": 212.07,
+      "text": "he has attained the Jhana so that he can radiate Mehta,"
+    },
+    {
+      "start": 212.07,
+      "end": 217.07,
+      "text": "loving kindness or good will to all beings around."
+    },
+    {
+      "start": 217.07,
+      "end": 220.07,
+      "text": "That's why he was born in the Jhana planes."
+    },
+    {
+      "start": 220.07,
+      "end": 223.07,
+      "text": "And from there he came down to the Brahma,"
+    },
+    {
+      "start": 223.07,
+      "end": 227.07,
+      "text": "became Mahabrahma, great Brahma."
+    },
+    {
+      "start": 227.07,
+      "end": 230.07,
+      "text": "And later after that, 36 times,"
+    },
+    {
+      "start": 230.07,
+      "end": 235.07,
+      "text": "he was reborn as Saka, a deva king."
+    },
+    {
+      "start": 235.07,
+      "end": 239.07,
+      "text": "And after that when he came back as a human being,"
+    },
+    {
+      "start": 239.07,
+      "end": 243.07,
+      "text": "many, many times he was the wheel turning king."
+    },
+    {
+      "start": 243.07,
+      "end": 248.07,
+      "text": "Wheel turning king is a king who rules the whole world."
+    },
+    {
+      "start": 248.07,
+      "end": 250.07,
+      "text": "So from this Sutta you find,"
+    },
+    {
+      "start": 250.07,
+      "end": 253.07,
+      "text": "the Buddha was talking about his past life."
+    },
+    {
+      "start": 253.07,
+      "end": 256.07,
+      "text": "And in his past life he had already practiced Mehta."
+    },
+    {
+      "start": 256.07,
+      "end": 260.07,
+      "text": "So from the Suttas you find these Brahma viharas,"
+    },
+    {
+      "start": 260.07,
+      "end": 265.07,
+      "text": "the four things for attaining rebirth in the Brahma realm."
+    },
+    {
+      "start": 265.07,
+      "end": 269.07,
+      "text": "That means Mehta, good will or loving kindness,"
+    },
+    {
+      "start": 269.07,
+      "end": 275.07,
+      "text": "then Karuna, compassion, then Modita, joy,"
+    },
+    {
+      "start": 275.07,
+      "end": 278.07,
+      "text": "and Upeka, equanimity."
+    },
+    {
+      "start": 278.07,
+      "end": 281.07,
+      "text": "These were not created by the Buddha."
+    },
+    {
+      "start": 281.07,
+      "end": 283.07,
+      "text": "They were practiced long before the Buddha."
+    },
+    {
+      "start": 283.07,
+      "end": 289.15,
+      "text": "And the next Sutta is 7.6.59b."
+    },
+    {
+      "start": 289.15,
+      "end": 293.15,
+      "text": "This now was 59a, this is 59b."
+    },
+    {
+      "start": 293.15,
+      "end": 297.15,
+      "text": "Once the exalted one was dwelling near Sabati at Jeta Grove"
+    },
+    {
+      "start": 297.15,
+      "end": 299.15,
+      "text": "in Anathapindika's Park."
+    },
+    {
+      "start": 299.15,
+      "end": 302.15,
+      "text": "And early one morning after robing himself,"
+    },
+    {
+      "start": 302.15,
+      "end": 305.15,
+      "text": "the exalted one, taking bowl and cloak,"
+    },
+    {
+      "start": 305.15,
+      "end": 308.15,
+      "text": "went to the home of Anathapindika, the householder."
+    },
+    {
+      "start": 308.15,
+      "end": 310.15,
+      "text": "And when he had arrived,"
+    },
+    {
+      "start": 310.15,
+      "end": 312.15,
+      "text": "he sat down on the seat made ready."
+    },
+    {
+      "start": 312.15,
+      "end": 315.15,
+      "text": "Now at that time the people of the house"
+    },
+    {
+      "start": 315.15,
+      "end": 317.15,
+      "text": "were making a great noise and clatter."
+    },
+    {
+      "start": 317.15,
+      "end": 320.15,
+      "text": "And when Anathapindika had come and saluted him"
+    },
+    {
+      "start": 320.15,
+      "end": 322.15,
+      "text": "and had sat down at one side,"
+    },
+    {
+      "start": 322.15,
+      "end": 324.15,
+      "text": "the exalted one said,"
+    },
+    {
+      "start": 324.15,
+      "end": 328.15,
+      "text": "Why, housefather, do the people of your house"
+    },
+    {
+      "start": 328.15,
+      "end": 330.15,
+      "text": "make all this din and uproar?"
+    },
+    {
+      "start": 330.15,
+      "end": 335.15,
+      "text": "It is just like fishermen with a great haul, it seems."
+    },
+    {
+      "start": 335.15,
+      "end": 337.15,
+      "text": "And Anathapindika said,"
+    },
+    {
+      "start": 337.15,
+      "end": 341.15,
+      "text": "Lord, it is Sujata, my daughter-in-law"
+    },
+    {
+      "start": 341.15,
+      "end": 343.15,
+      "text": "who lives with us. She is rich"
+    },
+    {
+      "start": 343.15,
+      "end": 346.15,
+      "text": "and has been brought here from a wealthy family."
+    },
+    {
+      "start": 346.15,
+      "end": 349.15,
+      "text": "She pays no heed to her mother-in-law,"
+    },
+    {
+      "start": 349.15,
+      "end": 353.15,
+      "text": "nor to her father-in-law, nor to her husband."
+    },
+    {
+      "start": 353.15,
+      "end": 356.15,
+      "text": "Neither does she venerate, honour, reverence,"
+    },
+    {
+      "start": 356.15,
+      "end": 358.15,
+      "text": "nor respect the exalted one."
+    },
+    {
+      "start": 358.15,
+      "end": 361.15,
+      "text": "Then the exalted one called to her saying,"
+    },
+    {
+      "start": 361.15,
+      "end": 362.15,
+      "text": "Come Sujata."
+    },
+    {
+      "start": 362.15,
+      "end": 364.15,
+      "text": "Yes Lord, she replied,"
+    },
+    {
+      "start": 364.15,
+      "end": 367.15,
+      "text": "and came and saluted the exalted one"
+    },
+    {
+      "start": 367.15,
+      "end": 369.15,
+      "text": "and sat down at one side."
+    },
+    {
+      "start": 369.15,
+      "end": 372.15,
+      "text": "Then she said the exalted one, Sujata,"
+    },
+    {
+      "start": 372.15,
+      "end": 375.15,
+      "text": "a man may have these seven kinds of wives."
+    },
+    {
+      "start": 375.15,
+      "end": 376.15,
+      "text": "What seven?"
+    },
+    {
+      "start": 376.15,
+      "end": 379.15,
+      "text": "One like a slayer, one like a robber,"
+    },
+    {
+      "start": 379.15,
+      "end": 382.15,
+      "text": "one like a mistress, one like a mother,"
+    },
+    {
+      "start": 382.15,
+      "end": 386.15,
+      "text": "one like a sister, one like a companion,"
+    },
+    {
+      "start": 386.15,
+      "end": 388.15,
+      "text": "and one like a handmaid."
+    },
+    {
+      "start": 388.15,
+      "end": 390.15,
+      "text": "These Sujata are the seven."
+    },
+    {
+      "start": 390.15,
+      "end": 393.15,
+      "text": "And which of them are you?"
+    },
+    {
+      "start": 393.15,
+      "end": 395.15,
+      "text": "And she said, Lord,"
+    },
+    {
+      "start": 395.15,
+      "end": 398.15,
+      "text": "I do not fully understand what the exalted one"
+    },
+    {
+      "start": 398.15,
+      "end": 400.15,
+      "text": "has put so briefly."
+    },
+    {
+      "start": 400.15,
+      "end": 402.15,
+      "text": "Well, word for me, Lord,"
+    },
+    {
+      "start": 402.15,
+      "end": 404.15,
+      "text": "if the exalted one would teach me dharma"
+    },
+    {
+      "start": 404.15,
+      "end": 407.15,
+      "text": "so that I may understand the meaning of the words"
+    },
+    {
+      "start": 407.15,
+      "end": 409.15,
+      "text": "spoken so tersely,"
+    },
+    {
+      "start": 409.15,
+      "end": 412.15,
+      "text": "or so briefly by the exalted one,"
+    },
+    {
+      "start": 412.15,
+      "end": 413.15,
+      "text": "and the Buddha said,"
+    },
+    {
+      "start": 413.15,
+      "end": 416.15,
+      "text": "then pay heed, listen, I will speak Sujata."
+    },
+    {
+      "start": 416.15,
+      "end": 418.15,
+      "text": "Yes, Lord, she replied,"
+    },
+    {
+      "start": 418.15,
+      "end": 420.15,
+      "text": "and the exalted one said,"
+    },
+    {
+      "start": 420.15,
+      "end": 423.15,
+      "text": "Whoso is pitiless, corrupt in mind,"
+    },
+    {
+      "start": 423.15,
+      "end": 426.15,
+      "text": "neglecting husband and unamiable,"
+    },
+    {
+      "start": 426.15,
+      "end": 429.15,
+      "text": "blame by other men, a prostitute,"
+    },
+    {
+      "start": 429.15,
+      "end": 434.15,
+      "text": "on murder-bent, let her be called a slayer and a wife."
+    },
+    {
+      "start": 434.15,
+      "end": 438.15,
+      "text": "Whoso would rob her husband of his gains,"
+    },
+    {
+      "start": 438.15,
+      "end": 441.15,
+      "text": "though little be the profit that he makes,"
+    },
+    {
+      "start": 441.15,
+      "end": 444.15,
+      "text": "whether by craftsmanship or from his trade,"
+    },
+    {
+      "start": 444.15,
+      "end": 449.15,
+      "text": "or by the plow, let her be called a robber and a wife."
+    },
+    {
+      "start": 449.15,
+      "end": 452.15,
+      "text": "The slothful glutton bent on doing nothing,"
+    },
+    {
+      "start": 452.15,
+      "end": 455.15,
+      "text": "a gossip and a shrew with strident voice,"
+    },
+    {
+      "start": 455.15,
+      "end": 460.15,
+      "text": "who brings to low account her husband's zeal and industry,"
+    },
+    {
+      "start": 460.15,
+      "end": 463.15,
+      "text": "let her be called a mistress and a wife."
+    },
+    {
+      "start": 463.15,
+      "end": 466.15,
+      "text": "Whoever, and with loving sympathy,"
+    },
+    {
+      "start": 466.15,
+      "end": 469.15,
+      "text": "just as a mother for her only son,"
+    },
+    {
+      "start": 469.15,
+      "end": 472.15,
+      "text": "for husband cares, and over his stored-up wealth"
+    },
+    {
+      "start": 472.15,
+      "end": 474.15,
+      "text": "keeps watch and ward,"
+    },
+    {
+      "start": 474.15,
+      "end": 477.15,
+      "text": "let her be called a mother and a wife."
+    },
+    {
+      "start": 477.15,
+      "end": 480.15,
+      "text": "Who holds her husband in the same regard"
+    },
+    {
+      "start": 480.15,
+      "end": 483.15,
+      "text": "as younger sister holds the elder bond,"
+    },
+    {
+      "start": 483.15,
+      "end": 488.15,
+      "text": "the meek in heart, who in his every wish her husband serves,"
+    },
+    {
+      "start": 488.15,
+      "end": 492.15,
+      "text": "let her be called a sister and a wife."
+    },
+    {
+      "start": 492.15,
+      "end": 495.15,
+      "text": "And she who is as glad her Lord to see"
+    },
+    {
+      "start": 495.15,
+      "end": 498.15,
+      "text": "as boon companions long apart to meet,"
+    },
+    {
+      "start": 498.15,
+      "end": 501.15,
+      "text": "a gracious character of gentle birth,"
+    },
+    {
+      "start": 501.15,
+      "end": 506.15,
+      "text": "a fond helpmate, let her be called a companion and a wife."
+    },
+    {
+      "start": 506.15,
+      "end": 509.15,
+      "text": "If fearless of the lash and stick unmoved,"
+    },
+    {
+      "start": 509.15,
+      "end": 512.15,
+      "text": "all things enduring, calm and pure in heart,"
+    },
+    {
+      "start": 512.15,
+      "end": 515.15,
+      "text": "she bears obedience to her husband's word,"
+    },
+    {
+      "start": 515.15,
+      "end": 520.15,
+      "text": "from anger free, let her be called a handmaid and a wife."
+    },
+    {
+      "start": 520.15,
+      "end": 524.15,
+      "text": "Now she who's called a mistress slayer thief,"
+    },
+    {
+      "start": 524.15,
+      "end": 527.15,
+      "text": "who's harsh, immoral, lacking in respect,"
+    },
+    {
+      "start": 527.15,
+      "end": 531.15,
+      "text": "when death comes will wander in the miseries of hell,"
+    },
+    {
+      "start": 531.15,
+      "end": 534.15,
+      "text": "but mother, sister or companion, slave,"
+    },
+    {
+      "start": 534.15,
+      "end": 538.15,
+      "text": "in precept long established and restrained,"
+    },
+    {
+      "start": 538.15,
+      "end": 542.15,
+      "text": "when death comes will wander in the happy heaven world."
+    },
+    {
+      "start": 542.15,
+      "end": 547.15,
+      "text": "These wujata are the seven kinds of wives a man may have."
+    },
+    {
+      "start": 547.15,
+      "end": 549.15,
+      "text": "And which of them are you?"
+    },
+    {
+      "start": 549.15,
+      "end": 553.15,
+      "text": "And she said, Lord, let the exalted one think of me"
+    },
+    {
+      "start": 553.15,
+      "end": 557.15,
+      "text": "as a handmaid and a wife from this day forth."
+    },
+    {
+      "start": 557.15,
+      "end": 559.15,
+      "text": "That's the end of the sutra."
+    },
+    {
+      "start": 559.15,
+      "end": 564.15,
+      "text": "So here you find the Buddha is trying to teach this young lady,"
+    },
+    {
+      "start": 564.15,
+      "end": 570.15,
+      "text": "who will be a good wife and told her all the different types of wife,"
+    },
+    {
+      "start": 570.15,
+      "end": 574.15,
+      "text": "lady, woman can be."
+    },
+    {
+      "start": 574.15,
+      "end": 577.15,
+      "text": "And so she, from that day on she said,"
+    },
+    {
+      "start": 577.15,
+      "end": 582.15,
+      "text": "she wants to be known as a handmaid and a wife."
+    },
+    {
+      "start": 582.15,
+      "end": 589.16,
+      "text": "So probably from that day onwards she changed her character."
+    },
+    {
+      "start": 589.16,
+      "end": 592.16,
+      "text": "The next sutra is 7.6.60."
+    },
+    {
+      "start": 592.16,
+      "end": 594.16,
+      "text": "The Buddha said,"
+    },
+    {
+      "start": 594.16,
+      "end": 598.16,
+      "text": "there are these seven conditions fostered by rivals,"
+    },
+    {
+      "start": 598.16,
+      "end": 603.16,
+      "text": "causing rivals which come upon an angry woman or man."
+    },
+    {
+      "start": 603.16,
+      "end": 604.16,
+      "text": "What's 7?"
+    },
+    {
+      "start": 604.16,
+      "end": 609.16,
+      "text": "There is the case of the rival who wishes thus of a rival."
+    },
+    {
+      "start": 609.16,
+      "end": 611.16,
+      "text": "Would that he were ugly?"
+    },
+    {
+      "start": 611.16,
+      "end": 612.16,
+      "text": "And why?"
+    },
+    {
+      "start": 612.16,
+      "end": 616.16,
+      "text": "A rival monk does not like a handsome rival."
+    },
+    {
+      "start": 616.16,
+      "end": 621.16,
+      "text": "This sort of person being angry is overwhelmed by anger."
+    },
+    {
+      "start": 621.16,
+      "end": 627.16,
+      "text": "He is subverted by anger and however well he be bathed,"
+    },
+    {
+      "start": 627.16,
+      "end": 630.16,
+      "text": "anointed, trimmed as to the hair and beard,"
+    },
+    {
+      "start": 630.16,
+      "end": 632.16,
+      "text": "clad in spotless linen."
+    },
+    {
+      "start": 632.16,
+      "end": 638.16,
+      "text": "Yet for all that he is ugly, being overwhelmed by anger."
+    },
+    {
+      "start": 638.16,
+      "end": 642.16,
+      "text": "Monks, this is the first condition fostered by rivals,"
+    },
+    {
+      "start": 642.16,
+      "end": 647.16,
+      "text": "causing rivals which comes upon an angry woman or man."
+    },
+    {
+      "start": 647.16,
+      "end": 652.16,
+      "text": "Again, there is the case of the rival who wishes thus of a rival."
+    },
+    {
+      "start": 652.16,
+      "end": 655.16,
+      "text": "Would that he might sleep badly?"
+    },
+    {
+      "start": 655.16,
+      "end": 656.16,
+      "text": "And why?"
+    },
+    {
+      "start": 656.16,
+      "end": 660.16,
+      "text": "A rival monk does not like a rival to sleep well."
+    },
+    {
+      "start": 660.16,
+      "end": 663.16,
+      "text": "Monks, this is the sort of person being angry,"
+    },
+    {
+      "start": 663.16,
+      "end": 665.16,
+      "text": "is overwhelmed by anger,"
+    },
+    {
+      "start": 665.16,
+      "end": 667.16,
+      "text": "he is subverted by anger"
+    },
+    {
+      "start": 667.16,
+      "end": 670.16,
+      "text": "and in spite of his lying on a couch,"
+    },
+    {
+      "start": 670.16,
+      "end": 672.16,
+      "text": "spread with a fleecy cover,"
+    },
+    {
+      "start": 672.16,
+      "end": 674.16,
+      "text": "spread with a white blanket,"
+    },
+    {
+      "start": 674.16,
+      "end": 676.16,
+      "text": "spread with a woollen coverlet,"
+    },
+    {
+      "start": 676.16,
+      "end": 678.16,
+      "text": "flower embroidered,"
+    },
+    {
+      "start": 678.16,
+      "end": 681.16,
+      "text": "covered with rocks of antelope skins,"
+    },
+    {
+      "start": 681.16,
+      "end": 683.16,
+      "text": "with awnings above,"
+    },
+    {
+      "start": 683.16,
+      "end": 687.16,
+      "text": "all on a sofa with crimson cushions at either end."
+    },
+    {
+      "start": 687.16,
+      "end": 690.16,
+      "text": "Yet for all that he lies in discomfort,"
+    },
+    {
+      "start": 690.16,
+      "end": 692.16,
+      "text": "being overwhelmed by anger."
+    },
+    {
+      "start": 692.16,
+      "end": 694.16,
+      "text": "Monks, this is the second condition."
+    },
+    {
+      "start": 694.16,
+      "end": 699.16,
+      "text": "Again, there is the case of the rival who wishes thus of a rival."
+    },
+    {
+      "start": 699.16,
+      "end": 701.16,
+      "text": "Would that he might not prosper?"
+    },
+    {
+      "start": 701.16,
+      "end": 702.16,
+      "text": "And why?"
+    },
+    {
+      "start": 702.16,
+      "end": 705.16,
+      "text": "A rival monk does not like a rival to prosper."
+    },
+    {
+      "start": 705.16,
+      "end": 708.16,
+      "text": "Monks, this is the sort of person being angry,"
+    },
+    {
+      "start": 708.16,
+      "end": 710.16,
+      "text": "is overwhelmed by anger,"
+    },
+    {
+      "start": 710.16,
+      "end": 712.16,
+      "text": "is subverted by anger,"
+    },
+    {
+      "start": 712.16,
+      "end": 713.16,
+      "text": "making a loss he thinks,"
+    },
+    {
+      "start": 713.16,
+      "end": 715.16,
+      "text": "I have made a profit,"
+    },
+    {
+      "start": 715.16,
+      "end": 718.16,
+      "text": "making a profit he thinks I have made a loss."
+    },
+    {
+      "start": 718.16,
+      "end": 719.16,
+      "text": "Overwhelmed by anger,"
+    },
+    {
+      "start": 719.16,
+      "end": 723.16,
+      "text": "these things cause enmity towards others."
+    },
+    {
+      "start": 723.16,
+      "end": 727.16,
+      "text": "They conduce to his ill and misfortune for many a day."
+    },
+    {
+      "start": 727.16,
+      "end": 729.16,
+      "text": "Monks, this is the third condition."
+    },
+    {
+      "start": 729.16,
+      "end": 733.16,
+      "text": "Again, there is the case of the rival who wishes thus of a rival."
+    },
+    {
+      "start": 733.16,
+      "end": 735.16,
+      "text": "Would that he had no wealth?"
+    },
+    {
+      "start": 735.16,
+      "end": 736.16,
+      "text": "And why?"
+    },
+    {
+      "start": 736.16,
+      "end": 740.16,
+      "text": "A rival monk does not like a rival to be wealthy."
+    },
+    {
+      "start": 740.16,
+      "end": 743.16,
+      "text": "Monks, this sort of person being angry,"
+    },
+    {
+      "start": 743.16,
+      "end": 745.16,
+      "text": "is overwhelmed by anger,"
+    },
+    {
+      "start": 745.16,
+      "end": 747.16,
+      "text": "is subverted by anger."
+    },
+    {
+      "start": 747.16,
+      "end": 748.16,
+      "text": "And whatever his possessions,"
+    },
+    {
+      "start": 748.16,
+      "end": 750.16,
+      "text": "earned by vigorous industry,"
+    },
+    {
+      "start": 750.16,
+      "end": 753.16,
+      "text": "got together by the strength of his arm,"
+    },
+    {
+      "start": 753.16,
+      "end": 755.16,
+      "text": "piled up by the sweat of his brow,"
+    },
+    {
+      "start": 755.16,
+      "end": 757.16,
+      "text": "gotten righteously and lawfully,"
+    },
+    {
+      "start": 757.16,
+      "end": 760.16,
+      "text": "rajas will order them to be sent to the royal treasury,"
+    },
+    {
+      "start": 760.16,
+      "end": 763.16,
+      "text": "cause he is overwhelmed by anger."
+    },
+    {
+      "start": 763.16,
+      "end": 765.16,
+      "text": "Monks, this is the fourth condition."
+    },
+    {
+      "start": 765.16,
+      "end": 769.16,
+      "text": "Again, there is the case of the rival who wishes thus of a rival."
+    },
+    {
+      "start": 769.16,
+      "end": 772.16,
+      "text": "Would that he were without fame?"
+    },
+    {
+      "start": 772.16,
+      "end": 773.16,
+      "text": "And why?"
+    },
+    {
+      "start": 773.16,
+      "end": 776.16,
+      "text": "A rival monk does not like a rival to be famous."
+    },
+    {
+      "start": 776.16,
+      "end": 779.16,
+      "text": "Monks, this sort of person being angry,"
+    },
+    {
+      "start": 779.16,
+      "end": 781.16,
+      "text": "is overwhelmed by anger,"
+    },
+    {
+      "start": 781.16,
+      "end": 783.16,
+      "text": "is subverted by anger."
+    },
+    {
+      "start": 783.16,
+      "end": 784.16,
+      "text": "And whatever his fame,"
+    },
+    {
+      "start": 784.16,
+      "end": 786.16,
+      "text": "intelligently earned,"
+    },
+    {
+      "start": 786.16,
+      "end": 789.16,
+      "text": "it falls away from him because of his anger."
+    },
+    {
+      "start": 789.16,
+      "end": 791.16,
+      "text": "Monks, this is the fifth condition."
+    },
+    {
+      "start": 791.16,
+      "end": 793.16,
+      "text": "Again, there is the case of the rival"
+    },
+    {
+      "start": 793.16,
+      "end": 795.16,
+      "text": "who wishes thus of a rival."
+    },
+    {
+      "start": 795.16,
+      "end": 797.16,
+      "text": "Would that he were without friends?"
+    },
+    {
+      "start": 797.16,
+      "end": 798.16,
+      "text": "And why?"
+    },
+    {
+      "start": 798.16,
+      "end": 802.16,
+      "text": "A rival monk does not like a rival to have friendships."
+    },
+    {
+      "start": 802.16,
+      "end": 805.16,
+      "text": "Monks, this sort of person being angry,"
+    },
+    {
+      "start": 805.16,
+      "end": 806.16,
+      "text": "is overwhelmed by anger,"
+    },
+    {
+      "start": 806.16,
+      "end": 808.16,
+      "text": "is subverted by anger."
+    },
+    {
+      "start": 808.16,
+      "end": 809.16,
+      "text": "Whatever friends,"
+    },
+    {
+      "start": 809.16,
+      "end": 813.16,
+      "text": "intimates, relations and kinsmen he may have,"
+    },
+    {
+      "start": 813.16,
+      "end": 816.16,
+      "text": "they will avoid and keep far away from him"
+    },
+    {
+      "start": 816.16,
+      "end": 818.16,
+      "text": "because he is overwhelmed by anger."
+    },
+    {
+      "start": 818.16,
+      "end": 821.16,
+      "text": "Monks, this is the sixth condition."
+    },
+    {
+      "start": 821.16,
+      "end": 823.16,
+      "text": "Again, there is the case of the rival"
+    },
+    {
+      "start": 823.16,
+      "end": 825.16,
+      "text": "who wishes thus of a rival."
+    },
+    {
+      "start": 825.16,
+      "end": 828.16,
+      "text": "Would that on the breaking up of the body after death,"
+    },
+    {
+      "start": 828.16,
+      "end": 830.16,
+      "text": "he might be reborn in the untoward way,"
+    },
+    {
+      "start": 830.16,
+      "end": 833.16,
+      "text": "the ill way, the abyss, hell."
+    },
+    {
+      "start": 833.16,
+      "end": 834.16,
+      "text": "And why?"
+    },
+    {
+      "start": 834.16,
+      "end": 837.16,
+      "text": "A rival monk does not like a rival to go to heaven."
+    },
+    {
+      "start": 837.16,
+      "end": 840.16,
+      "text": "Monks, this sort of person being angry,"
+    },
+    {
+      "start": 840.16,
+      "end": 841.16,
+      "text": "is overwhelmed by anger."
+    },
+    {
+      "start": 841.16,
+      "end": 843.16,
+      "text": "He is subverted by anger."
+    },
+    {
+      "start": 843.16,
+      "end": 847.16,
+      "text": "And he misconducts himself in deep word and thought."
+    },
+    {
+      "start": 847.16,
+      "end": 849.16,
+      "text": "So living, so speaking, so thinking,"
+    },
+    {
+      "start": 849.16,
+      "end": 852.16,
+      "text": "on the breaking up of the body after death,"
+    },
+    {
+      "start": 852.16,
+      "end": 854.16,
+      "text": "he is reborn in the untoward way,"
+    },
+    {
+      "start": 854.16,
+      "end": 856.16,
+      "text": "the ill way, the abyss, hell."
+    },
+    {
+      "start": 856.16,
+      "end": 858.16,
+      "text": "Monks, this is the seventh condition,"
+    },
+    {
+      "start": 858.16,
+      "end": 860.16,
+      "text": "fostered by rivals,"
+    },
+    {
+      "start": 860.16,
+      "end": 863.16,
+      "text": "causing rivals which comes upon an angry woman or man."
+    },
+    {
+      "start": 863.16,
+      "end": 866.16,
+      "text": "Apparently, Monks, these are the seven conditions"
+    },
+    {
+      "start": 866.16,
+      "end": 868.16,
+      "text": "fostered by rivals,"
+    },
+    {
+      "start": 868.16,
+      "end": 872.16,
+      "text": "causing rivals which comes upon an angry woman or man."
+    },
+    {
+      "start": 872.16,
+      "end": 874.16,
+      "text": "At the end of the sutta."
+    },
+    {
+      "start": 874.16,
+      "end": 877.16,
+      "text": "So this sutta is telling us,"
+    },
+    {
+      "start": 877.16,
+      "end": 879.16,
+      "text": "if we have a lot of anger,"
+    },
+    {
+      "start": 879.16,
+      "end": 884.16,
+      "text": "then we get all these losses."
+    },
+    {
+      "start": 884.16,
+      "end": 886.16,
+      "text": "We suffer all these seven things."
+    },
+    {
+      "start": 886.16,
+      "end": 889.16,
+      "text": "Just as a rival would wish you,"
+    },
+    {
+      "start": 889.16,
+      "end": 892.16,
+      "text": "an enemy would wish you to have all these things."
+    },
+    {
+      "start": 892.16,
+      "end": 895.16,
+      "text": "You would get all these things because of too much anger."
+    },
+    {
+      "start": 895.16,
+      "end": 899.16,
+      "text": "The first one is a person because of anger becomes ugly."
+    },
+    {
+      "start": 899.16,
+      "end": 903.16,
+      "text": "Every time we get angry, we become fierce."
+    },
+    {
+      "start": 903.16,
+      "end": 904.16,
+      "text": "And we are fierce."
+    },
+    {
+      "start": 904.16,
+      "end": 906.16,
+      "text": "We contort our face."
+    },
+    {
+      "start": 906.16,
+      "end": 909.16,
+      "text": "And it shows on the face,"
+    },
+    {
+      "start": 909.16,
+      "end": 912.16,
+      "text": "and every day we do it, it becomes a habit."
+    },
+    {
+      "start": 912.16,
+      "end": 915.16,
+      "text": "And the face becomes fierce and ugly."
+    },
+    {
+      "start": 915.16,
+      "end": 918.16,
+      "text": "The second one, if you have too much anger,"
+    },
+    {
+      "start": 918.16,
+      "end": 919.16,
+      "text": "we cannot sleep well."
+    },
+    {
+      "start": 919.16,
+      "end": 922.16,
+      "text": "Even if you lie on a very comfortable bed,"
+    },
+    {
+      "start": 922.16,
+      "end": 924.16,
+      "text": "you'll be tossing and turning on the bed."
+    },
+    {
+      "start": 924.16,
+      "end": 928.16,
+      "text": "You can't let go of some angry feeling."
+    },
+    {
+      "start": 928.16,
+      "end": 930.16,
+      "text": "Somebody did something to you,"
+    },
+    {
+      "start": 930.16,
+      "end": 933.16,
+      "text": "you get so angry, you can't sleep."
+    },
+    {
+      "start": 933.16,
+      "end": 934.16,
+      "text": "So that's the second one."
+    },
+    {
+      "start": 934.16,
+      "end": 937.16,
+      "text": "The third one, you cannot prosper."
+    },
+    {
+      "start": 937.16,
+      "end": 940.16,
+      "text": "If you have too much anger,"
+    },
+    {
+      "start": 940.16,
+      "end": 943.16,
+      "text": "it conduces to your misfortune,"
+    },
+    {
+      "start": 943.16,
+      "end": 946.16,
+      "text": "whatever business or whatever job you do,"
+    },
+    {
+      "start": 946.16,
+      "end": 948.16,
+      "text": "you cannot prosper."
+    },
+    {
+      "start": 948.16,
+      "end": 951.16,
+      "text": "And the fourth one,"
+    },
+    {
+      "start": 951.16,
+      "end": 954.16,
+      "text": "you can't be wealthy"
+    },
+    {
+      "start": 954.16,
+      "end": 958.16,
+      "text": "because if you have too much anger,"
+    },
+    {
+      "start": 958.16,
+      "end": 964.16,
+      "text": "then you might make enemies of other people"
+    },
+    {
+      "start": 964.16,
+      "end": 965.16,
+      "text": "like the Raja,"
+    },
+    {
+      "start": 965.16,
+      "end": 969.16,
+      "text": "and the Raja might seize your property."
+    },
+    {
+      "start": 969.16,
+      "end": 972.16,
+      "text": "This is a long time ago."
+    },
+    {
+      "start": 972.16,
+      "end": 974.16,
+      "text": "And then another condition,"
+    },
+    {
+      "start": 974.16,
+      "end": 977.16,
+      "text": "you cannot be famous."
+    },
+    {
+      "start": 977.16,
+      "end": 980.16,
+      "text": "Whatever fame you have,"
+    },
+    {
+      "start": 980.16,
+      "end": 985.16,
+      "text": "reduces it, it wears away because of your anger."
+    },
+    {
+      "start": 985.16,
+      "end": 988.16,
+      "text": "And then another sixth condition is,"
+    },
+    {
+      "start": 988.16,
+      "end": 990.16,
+      "text": "you won't have much friends,"
+    },
+    {
+      "start": 990.16,
+      "end": 992.16,
+      "text": "whatever friends you have,"
+    },
+    {
+      "start": 992.16,
+      "end": 994.16,
+      "text": "and even relations,"
+    },
+    {
+      "start": 994.16,
+      "end": 997.16,
+      "text": "they will avoid and keep far away from you"
+    },
+    {
+      "start": 997.16,
+      "end": 999.16,
+      "text": "if you have too much anger."
+    },
+    {
+      "start": 999.16,
+      "end": 1002.16,
+      "text": "And the last one, if you have too much anger,"
+    },
+    {
+      "start": 1002.16,
+      "end": 1005.16,
+      "text": "then we condone ourselves wrongly"
+    },
+    {
+      "start": 1005.16,
+      "end": 1009.16,
+      "text": "in bodily condone, in speech,"
+    },
+    {
+      "start": 1009.16,
+      "end": 1012.16,
+      "text": "and in mind."
+    },
+    {
+      "start": 1012.16,
+      "end": 1013.16,
+      "text": "And because of that,"
+    },
+    {
+      "start": 1013.16,
+      "end": 1018.16,
+      "text": "we will be reborn in the woeful plane of rebirth,"
+    },
+    {
+      "start": 1018.16,
+      "end": 1020.16,
+      "text": "suffer."
+    },
+    {
+      "start": 1020.16,
+      "end": 1022.16,
+      "text": "So these are the disadvantages"
+    },
+    {
+      "start": 1022.16,
+      "end": 1024.16,
+      "text": "of having too much anger."
+    },
+    {
+      "start": 1024.16,
+      "end": 1028.02,
+      "text": "Now we come to another Sutta,"
+    },
+    {
+      "start": 1028.02,
+      "end": 1030.02,
+      "text": "which is another very interesting Sutta,"
+    },
+    {
+      "start": 1030.02,
+      "end": 1033.02,
+      "text": "7.7.62."
+    },
+    {
+      "start": 1033.02,
+      "end": 1035.02,
+      "text": "Once the exalted one was dwelling"
+    },
+    {
+      "start": 1035.02,
+      "end": 1038.02,
+      "text": "in Ambapali's Grove near Vaisali."
+    },
+    {
+      "start": 1038.02,
+      "end": 1040.02,
+      "text": "I'll stop here for a moment."
+    },
+    {
+      "start": 1040.02,
+      "end": 1044.02,
+      "text": "This Ambapali is mentioned in some"
+    },
+    {
+      "start": 1044.02,
+      "end": 1047.02,
+      "text": "Mother Sutta and Vinaya."
+    },
+    {
+      "start": 1047.02,
+      "end": 1051.02,
+      "text": "She was a very beautiful courtesan."
+    },
+    {
+      "start": 1051.02,
+      "end": 1054.02,
+      "text": "Courtesan is a nice-sounding word."
+    },
+    {
+      "start": 1054.02,
+      "end": 1058.02,
+      "text": "It means a high-class prostitute."
+    },
+    {
+      "start": 1058.02,
+      "end": 1060.02,
+      "text": "In the days of the Buddha,"
+    },
+    {
+      "start": 1060.02,
+      "end": 1062.02,
+      "text": "learning or looking as a prostitute"
+    },
+    {
+      "start": 1062.02,
+      "end": 1064.02,
+      "text": "was not really considered wrong."
+    },
+    {
+      "start": 1064.02,
+      "end": 1068.02,
+      "text": "And she was very beautiful."
+    },
+    {
+      "start": 1069.02,
+      "end": 1076.02,
+      "text": "And she gave a piece of land"
+    },
+    {
+      "start": 1076.02,
+      "end": 1082.02,
+      "text": "to the Buddha to make into a monastery."
+    },
+    {
+      "start": 1082.02,
+      "end": 1085.02,
+      "text": "And later in life,"
+    },
+    {
+      "start": 1085.02,
+      "end": 1088.02,
+      "text": "she renounced and became a nun."
+    },
+    {
+      "start": 1088.02,
+      "end": 1093.02,
+      "text": "And in the Therigata verses of the Arahants,"
+    },
+    {
+      "start": 1093.02,
+      "end": 1096.02,
+      "text": "she described her life and she described"
+    },
+    {
+      "start": 1096.02,
+      "end": 1099.02,
+      "text": "how when she was young she was so beautiful"
+    },
+    {
+      "start": 1099.02,
+      "end": 1103.02,
+      "text": "and the hair was jet black and curly"
+    },
+    {
+      "start": 1103.02,
+      "end": 1108.02,
+      "text": "and she described skin was white and soft"
+    },
+    {
+      "start": 1108.02,
+      "end": 1110.02,
+      "text": "and all that and all the different parts"
+    },
+    {
+      "start": 1110.02,
+      "end": 1112.02,
+      "text": "of the body and then when she was older"
+    },
+    {
+      "start": 1112.02,
+      "end": 1115.02,
+      "text": "she described how the body has become"
+    },
+    {
+      "start": 1115.02,
+      "end": 1120.02,
+      "text": "and the way she described was quite moving"
+    },
+    {
+      "start": 1120.02,
+      "end": 1124.02,
+      "text": "and how she became an Arahant and all that."
+    },
+    {
+      "start": 1124.02,
+      "end": 1127.02,
+      "text": "So that's Amrapali."
+    },
+    {
+      "start": 1127.02,
+      "end": 1132.02,
+      "text": "Then the Sutta continues."
+    },
+    {
+      "start": 1132.02,
+      "end": 1134.02,
+      "text": "There the exalted one addressed the monks,"
+    },
+    {
+      "start": 1134.02,
+      "end": 1136.02,
+      "text": "saying,"
+    },
+    {
+      "start": 1136.02,
+      "end": 1137.02,
+      "text": "Lord, they replied,"
+    },
+    {
+      "start": 1137.02,
+      "end": 1139.02,
+      "text": "and the exalted one said,"
+    },
+    {
+      "start": 1139.02,
+      "end": 1142.02,
+      "text": "impermanent monks are conditioners,"
+    },
+    {
+      "start": 1142.02,
+      "end": 1143.02,
+      "text": "sankara,"
+    },
+    {
+      "start": 1143.02,
+      "end": 1146.02,
+      "text": "unstable monks are conditioners,"
+    },
+    {
+      "start": 1146.02,
+      "end": 1149.02,
+      "text": "insecure monks are conditioners."
+    },
+    {
+      "start": 1149.02,
+      "end": 1152.02,
+      "text": "So monks, be you dissatisfied"
+    },
+    {
+      "start": 1152.02,
+      "end": 1154.02,
+      "text": "with all things of this world,"
+    },
+    {
+      "start": 1154.02,
+      "end": 1156.02,
+      "text": "be you repelled by them,"
+    },
+    {
+      "start": 1156.02,
+      "end": 1159.02,
+      "text": "be you utterly free from them."
+    },
+    {
+      "start": 1159.02,
+      "end": 1161.02,
+      "text": "Let's stop here for a moment."
+    },
+    {
+      "start": 1161.02,
+      "end": 1163.02,
+      "text": "This word sankara,"
+    },
+    {
+      "start": 1163.02,
+      "end": 1167.02,
+      "text": "here we translate as conditioners."
+    },
+    {
+      "start": 1167.02,
+      "end": 1169.02,
+      "text": "Some other books,"
+    },
+    {
+      "start": 1169.02,
+      "end": 1173.02,
+      "text": "they translate as condition things."
+    },
+    {
+      "start": 1173.02,
+      "end": 1177.02,
+      "text": "But the actual word for condition things is sankata."
+    },
+    {
+      "start": 1177.02,
+      "end": 1180.02,
+      "text": "So sankara,"
+    },
+    {
+      "start": 1180.02,
+      "end": 1183.02,
+      "text": "we prefer to translate this as conditioners."
+    },
+    {
+      "start": 1183.02,
+      "end": 1185.02,
+      "text": "Conditioners are those things"
+    },
+    {
+      "start": 1185.02,
+      "end": 1187.02,
+      "text": "that condition something else."
+    },
+    {
+      "start": 1187.02,
+      "end": 1190.02,
+      "text": "But anything in the world,"
+    },
+    {
+      "start": 1190.02,
+      "end": 1193.02,
+      "text": "everything in the world are conditioners"
+    },
+    {
+      "start": 1193.02,
+      "end": 1196.02,
+      "text": "in the sense that they condition other things,"
+    },
+    {
+      "start": 1196.02,
+      "end": 1198.02,
+      "text": "but they are also condition things"
+    },
+    {
+      "start": 1198.02,
+      "end": 1201.02,
+      "text": "because they depend on other conditions."
+    },
+    {
+      "start": 1201.02,
+      "end": 1204.02,
+      "text": "So conditioners are also, in a way,"
+    },
+    {
+      "start": 1204.02,
+      "end": 1206.02,
+      "text": "condition things."
+    },
+    {
+      "start": 1206.02,
+      "end": 1208.02,
+      "text": "But the reason the Buddha, we feel,"
+    },
+    {
+      "start": 1208.02,
+      "end": 1212.02,
+      "text": "when I use it in the sense of conditioners"
+    },
+    {
+      "start": 1212.02,
+      "end": 1214.02,
+      "text": "is because in some other sutra,"
+    },
+    {
+      "start": 1214.02,
+      "end": 1218.02,
+      "text": "the Buddha said that all conditioners are impermanent."
+    },
+    {
+      "start": 1218.02,
+      "end": 1221.02,
+      "text": "If everything that conditions,"
+    },
+    {
+      "start": 1221.02,
+      "end": 1224.02,
+      "text": "say for example, your body or your mind,"
+    },
+    {
+      "start": 1224.02,
+      "end": 1226.02,
+      "text": "are impermanent,"
+    },
+    {
+      "start": 1226.02,
+      "end": 1229.02,
+      "text": "then if those things that condition you are impermanent,"
+    },
+    {
+      "start": 1229.02,
+      "end": 1232.02,
+      "text": "then all the more are you impermanent."
+    },
+    {
+      "start": 1232.02,
+      "end": 1234.02,
+      "text": "Just like for example,"
+    },
+    {
+      "start": 1234.02,
+      "end": 1237.02,
+      "text": "a shadow of a tree,"
+    },
+    {
+      "start": 1237.02,
+      "end": 1239.02,
+      "text": "the shadow of a tree depends on the tree,"
+    },
+    {
+      "start": 1239.02,
+      "end": 1241.02,
+      "text": "but the tree is impermanent."
+    },
+    {
+      "start": 1241.02,
+      "end": 1245.02,
+      "text": "Therefore, the shadow must be even more impermanent."
+    },
+    {
+      "start": 1245.02,
+      "end": 1249.02,
+      "text": "So that's the difference."
+    },
+    {
+      "start": 1249.02,
+      "end": 1251.02,
+      "text": "Now the Buddha continued,"
+    },
+    {
+      "start": 1251.02,
+      "end": 1254.02,
+      "text": "monks, the Simmeru, king of mountains,"
+    },
+    {
+      "start": 1254.02,
+      "end": 1257.02,
+      "text": "is 84,000 leeks in length,"
+    },
+    {
+      "start": 1257.02,
+      "end": 1259.02,
+      "text": "84,000 leeks in breath,"
+    },
+    {
+      "start": 1259.02,
+      "end": 1263.02,
+      "text": "84,000 leeks immersed in the great ocean."
+    },
+    {
+      "start": 1263.02,
+      "end": 1266.02,
+      "text": "It stands out above the waters of the ocean,"
+    },
+    {
+      "start": 1266.02,
+      "end": 1268.02,
+      "text": "84,000 leeks."
+    },
+    {
+      "start": 1268.02,
+      "end": 1271.02,
+      "text": "Monks, there comes a time when for many years,"
+    },
+    {
+      "start": 1271.02,
+      "end": 1273.02,
+      "text": "for many hundreds of years,"
+    },
+    {
+      "start": 1273.02,
+      "end": 1275.02,
+      "text": "for many thousands of years,"
+    },
+    {
+      "start": 1275.02,
+      "end": 1278.02,
+      "text": "for many hundreds of thousands of years,"
+    },
+    {
+      "start": 1278.02,
+      "end": 1280.02,
+      "text": "there is no rain."
+    },
+    {
+      "start": 1280.02,
+      "end": 1282.02,
+      "text": "And when the rains come,"
+    },
+    {
+      "start": 1282.02,
+      "end": 1284.02,
+      "text": "not all seed life and vegetation,"
+    },
+    {
+      "start": 1284.02,
+      "end": 1287.02,
+      "text": "all trees that yield medicine,"
+    },
+    {
+      "start": 1287.02,
+      "end": 1289.02,
+      "text": "palms and giants of the jungle,"
+    },
+    {
+      "start": 1289.02,
+      "end": 1293.02,
+      "text": "become parched and dried up and are no more."
+    },
+    {
+      "start": 1293.02,
+      "end": 1295.02,
+      "text": "Thus impermanent, thus unstable,"
+    },
+    {
+      "start": 1295.02,
+      "end": 1298.02,
+      "text": "thus insecure are all conditioners."
+    },
+    {
+      "start": 1298.02,
+      "end": 1300.02,
+      "text": "Be you dissatisfied with them,"
+    },
+    {
+      "start": 1300.02,
+      "end": 1302.02,
+      "text": "be you repelled by them,"
+    },
+    {
+      "start": 1302.02,
+      "end": 1305.02,
+      "text": "be you utterly free from them."
+    },
+    {
+      "start": 1305.02,
+      "end": 1307.02,
+      "text": "I'll just stop here for a moment."
+    },
+    {
+      "start": 1307.02,
+      "end": 1310.02,
+      "text": "In some other sutra, the Buddha mentioned,"
+    },
+    {
+      "start": 1310.02,
+      "end": 1316.02,
+      "text": "that life depends on water."
+    },
+    {
+      "start": 1316.02,
+      "end": 1319.02,
+      "text": "In other words, life depends on rain."
+    },
+    {
+      "start": 1319.02,
+      "end": 1323.02,
+      "text": "All life on our planet is sustained by rain."
+    },
+    {
+      "start": 1323.02,
+      "end": 1325.02,
+      "text": "If there were no rain,"
+    },
+    {
+      "start": 1325.02,
+      "end": 1329.02,
+      "text": "then life forms slowly will disappear."
+    },
+    {
+      "start": 1329.02,
+      "end": 1331.02,
+      "text": "So here it's mentioned,"
+    },
+    {
+      "start": 1331.02,
+      "end": 1334.02,
+      "text": "when there's no rain for thousands and thousands of years,"
+    },
+    {
+      "start": 1334.02,
+      "end": 1338.02,
+      "text": "then all the plants all die up."
+    },
+    {
+      "start": 1338.02,
+      "end": 1340.02,
+      "text": "And when the plants die,"
+    },
+    {
+      "start": 1340.02,
+      "end": 1345.02,
+      "text": "other life that depends on the plants also will die."
+    },
+    {
+      "start": 1345.02,
+      "end": 1350.02,
+      "text": "And this fact that the Buddha said,"
+    },
+    {
+      "start": 1350.02,
+      "end": 1353.02,
+      "text": "life depends on water."
+    },
+    {
+      "start": 1353.02,
+      "end": 1357.02,
+      "text": "Now science begins to realize this."
+    },
+    {
+      "start": 1357.02,
+      "end": 1364.02,
+      "text": "That's why when they send these satellites to other planets,"
+    },
+    {
+      "start": 1364.02,
+      "end": 1369.02,
+      "text": "they try to find out whether there's any water on the other planets"
+    },
+    {
+      "start": 1369.02,
+      "end": 1371.02,
+      "text": "because now scientists, they realize,"
+    },
+    {
+      "start": 1371.02,
+      "end": 1375.02,
+      "text": "if there's any water at all in the other planets,"
+    },
+    {
+      "start": 1375.02,
+      "end": 1379.02,
+      "text": "that means there must have been life there."
+    },
+    {
+      "start": 1379.02,
+      "end": 1381.02,
+      "text": "Now the Buddha continues,"
+    },
+    {
+      "start": 1381.02,
+      "end": 1384.02,
+      "text": "monks, there comes a time when in some age,"
+    },
+    {
+      "start": 1384.02,
+      "end": 1386.02,
+      "text": "at the end of some vast period,"
+    },
+    {
+      "start": 1386.02,
+      "end": 1388.02,
+      "text": "a second sun appears."
+    },
+    {
+      "start": 1388.02,
+      "end": 1390.02,
+      "text": "When the second sun appears,"
+    },
+    {
+      "start": 1390.02,
+      "end": 1393.02,
+      "text": "all the streams and the ponds become past"
+    },
+    {
+      "start": 1393.02,
+      "end": 1396.02,
+      "text": "and dried up and are no more."
+    },
+    {
+      "start": 1396.02,
+      "end": 1398.02,
+      "text": "Thus impermanent, thus unstable,"
+    },
+    {
+      "start": 1398.02,
+      "end": 1401.02,
+      "text": "thus insecure are all conditioners."
+    },
+    {
+      "start": 1401.02,
+      "end": 1404.02,
+      "text": "Be you utterly free from them."
+    },
+    {
+      "start": 1404.02,
+      "end": 1407.02,
+      "text": "Monks, there comes a time when in some age,"
+    },
+    {
+      "start": 1407.02,
+      "end": 1409.02,
+      "text": "at the end of some vast period,"
+    },
+    {
+      "start": 1409.02,
+      "end": 1411.02,
+      "text": "a third sun appears."
+    },
+    {
+      "start": 1411.02,
+      "end": 1413.02,
+      "text": "When the third sun appears,"
+    },
+    {
+      "start": 1413.02,
+      "end": 1417.02,
+      "text": "all the great rivers become past and dried up"
+    },
+    {
+      "start": 1417.02,
+      "end": 1418.02,
+      "text": "and are no more."
+    },
+    {
+      "start": 1418.02,
+      "end": 1421.02,
+      "text": "That is to say, the Ganges, the Yamuna,"
+    },
+    {
+      "start": 1421.02,
+      "end": 1424.02,
+      "text": "the Achiravati, the Sarabhu and the Mahi."
+    },
+    {
+      "start": 1424.02,
+      "end": 1427.02,
+      "text": "Thus impermanent, thus unstable,"
+    },
+    {
+      "start": 1427.02,
+      "end": 1429.02,
+      "text": "thus insecure are all conditioners."
+    },
+    {
+      "start": 1429.02,
+      "end": 1432.02,
+      "text": "Be you utterly free from them."
+    },
+    {
+      "start": 1432.02,
+      "end": 1435.02,
+      "text": "Monks, there comes a time when in some age,"
+    },
+    {
+      "start": 1435.02,
+      "end": 1437.02,
+      "text": "at the end of some vast period,"
+    },
+    {
+      "start": 1437.02,
+      "end": 1439.02,
+      "text": "a fourth sun appears."
+    },
+    {
+      "start": 1439.02,
+      "end": 1441.02,
+      "text": "When the fourth sun appears,"
+    },
+    {
+      "start": 1441.02,
+      "end": 1444.02,
+      "text": "all the great lakes from where these great rivers flow"
+    },
+    {
+      "start": 1444.02,
+      "end": 1447.02,
+      "text": "become past and dried up and are no more."
+    },
+    {
+      "start": 1447.02,
+      "end": 1451.02,
+      "text": "That is to say, the Anotata, the Sihapapata,"
+    },
+    {
+      "start": 1451.02,
+      "end": 1454.02,
+      "text": "the Ratakara, the Kanamunda,"
+    },
+    {
+      "start": 1454.02,
+      "end": 1457.02,
+      "text": "the Kunala, the Chaddanta,"
+    },
+    {
+      "start": 1457.02,
+      "end": 1459.02,
+      "text": "and the Mandakini."
+    },
+    {
+      "start": 1459.02,
+      "end": 1461.02,
+      "text": "Thus impermanent, thus unstable,"
+    },
+    {
+      "start": 1461.02,
+      "end": 1463.02,
+      "text": "thus insecure are all conditioners."
+    },
+    {
+      "start": 1463.02,
+      "end": 1465.02,
+      "text": "Be you utterly free from them."
+    },
+    {
+      "start": 1465.02,
+      "end": 1468.02,
+      "text": "Monks, there comes a time when in some age,"
+    },
+    {
+      "start": 1468.02,
+      "end": 1470.02,
+      "text": "at the end of some vast period,"
+    },
+    {
+      "start": 1470.02,
+      "end": 1472.02,
+      "text": "a fifth sun appears."
+    },
+    {
+      "start": 1472.02,
+      "end": 1473.02,
+      "text": "When the fifth sun appears,"
+    },
+    {
+      "start": 1473.02,
+      "end": 1475.02,
+      "text": "the waters of the mighty ocean"
+    },
+    {
+      "start": 1475.02,
+      "end": 1477.02,
+      "text": "recede a hundred leaks."
+    },
+    {
+      "start": 1477.02,
+      "end": 1479.02,
+      "text": "The waters recede two hundred leaks,"
+    },
+    {
+      "start": 1479.02,
+      "end": 1483.02,
+      "text": "three, four, five, six, and seven hundred leaks."
+    },
+    {
+      "start": 1483.02,
+      "end": 1485.02,
+      "text": "The waters of the mighty ocean remain"
+    },
+    {
+      "start": 1485.02,
+      "end": 1488.02,
+      "text": "at a depth of seven palm trees,"
+    },
+    {
+      "start": 1488.02,
+      "end": 1491.02,
+      "text": "of six, five, four, three, two,"
+    },
+    {
+      "start": 1491.02,
+      "end": 1493.02,
+      "text": "of merely one palm tree."
+    },
+    {
+      "start": 1493.02,
+      "end": 1495.02,
+      "text": "The waters of the mighty ocean"
+    },
+    {
+      "start": 1495.02,
+      "end": 1498.02,
+      "text": "remain at a depth of seven men's stature"
+    },
+    {
+      "start": 1498.02,
+      "end": 1502.02,
+      "text": "of height, of six, five, four, three, two,"
+    },
+    {
+      "start": 1502.02,
+      "end": 1504.02,
+      "text": "of merely one man's height,"
+    },
+    {
+      "start": 1504.02,
+      "end": 1506.02,
+      "text": "of just half a man,"
+    },
+    {
+      "start": 1506.02,
+      "end": 1508.02,
+      "text": "of merely up to a man's hip,"
+    },
+    {
+      "start": 1508.02,
+      "end": 1510.02,
+      "text": "of merely up to his knee,"
+    },
+    {
+      "start": 1510.02,
+      "end": 1512.02,
+      "text": "of merely up to his ankle."
+    },
+    {
+      "start": 1512.02,
+      "end": 1515.02,
+      "text": "Monks, just as in the autumn time,"
+    },
+    {
+      "start": 1515.02,
+      "end": 1518.02,
+      "text": "and the rain deva sheds big drops of rain"
+    },
+    {
+      "start": 1518.02,
+      "end": 1520.02,
+      "text": "here and there."
+    },
+    {
+      "start": 1520.02,
+      "end": 1522.02,
+      "text": "In the footprints of cows,"
+    },
+    {
+      "start": 1522.02,
+      "end": 1525.02,
+      "text": "there are puddles, even so monks,"
+    },
+    {
+      "start": 1525.02,
+      "end": 1529.02,
+      "text": "as mere puddles in a cow's footprints"
+    },
+    {
+      "start": 1529.02,
+      "end": 1531.02,
+      "text": "are the waters of the mighty ocean"
+    },
+    {
+      "start": 1531.02,
+      "end": 1533.02,
+      "text": "here and there."
+    },
+    {
+      "start": 1533.02,
+      "end": 1535.02,
+      "text": "Thus impermanent, thus unstable,"
+    },
+    {
+      "start": 1535.02,
+      "end": 1538.02,
+      "text": "thus insecure are all conditioners,"
+    },
+    {
+      "start": 1538.02,
+      "end": 1540.02,
+      "text": "be you utterly free from them."
+    },
+    {
+      "start": 1540.02,
+      "end": 1542.02,
+      "text": "Monks, there comes a time when,"
+    },
+    {
+      "start": 1542.02,
+      "end": 1545.02,
+      "text": "in some age, at the end of some vast period,"
+    },
+    {
+      "start": 1545.02,
+      "end": 1547.02,
+      "text": "a sixth sun appears."
+    },
+    {
+      "start": 1547.02,
+      "end": 1549.02,
+      "text": "When the sixth sun appears,"
+    },
+    {
+      "start": 1549.02,
+      "end": 1552.02,
+      "text": "this earth and Simeru, king of mountains,"
+    },
+    {
+      "start": 1552.02,
+      "end": 1555.02,
+      "text": "emit smoke, disgorge smoke,"
+    },
+    {
+      "start": 1555.02,
+      "end": 1557.02,
+      "text": "belch forth clouds of smoke."
+    },
+    {
+      "start": 1557.02,
+      "end": 1559.02,
+      "text": "Monks, just as a potter's oven,"
+    },
+    {
+      "start": 1559.02,
+      "end": 1561.02,
+      "text": "when first lighted, emit smoke,"
+    },
+    {
+      "start": 1561.02,
+      "end": 1565.02,
+      "text": "disgorge smoke, belches forth clouds of smoke,"
+    },
+    {
+      "start": 1565.02,
+      "end": 1568.02,
+      "text": "even so monks, when the sixth sun appears,"
+    },
+    {
+      "start": 1568.02,
+      "end": 1571.02,
+      "text": "both this great earth and Simeru,"
+    },
+    {
+      "start": 1571.02,
+      "end": 1573.02,
+      "text": "king of mountains, emit smoke,"
+    },
+    {
+      "start": 1573.02,
+      "end": 1577.02,
+      "text": "disgorge smoke, and belch forth clouds of smoke."
+    },
+    {
+      "start": 1577.02,
+      "end": 1579.02,
+      "text": "Thus impermanent, thus unstable,"
+    },
+    {
+      "start": 1579.02,
+      "end": 1582.02,
+      "text": "thus insecure are all conditioners,"
+    },
+    {
+      "start": 1582.02,
+      "end": 1585.02,
+      "text": "be you utterly free from them."
+    },
+    {
+      "start": 1585.02,
+      "end": 1587.02,
+      "text": "Monks, there comes a time when,"
+    },
+    {
+      "start": 1587.02,
+      "end": 1590.02,
+      "text": "in some age, at the end of some vast period,"
+    },
+    {
+      "start": 1590.02,
+      "end": 1592.02,
+      "text": "a seventh sun appears."
+    },
+    {
+      "start": 1592.02,
+      "end": 1594.02,
+      "text": "When the seventh sun appears,"
+    },
+    {
+      "start": 1594.02,
+      "end": 1596.02,
+      "text": "this great earth and Simeru,"
+    },
+    {
+      "start": 1596.02,
+      "end": 1599.02,
+      "text": "king of mountains, burst into flames,"
+    },
+    {
+      "start": 1599.02,
+      "end": 1602.02,
+      "text": "blaze up and become a single sheet of flame,"
+    },
+    {
+      "start": 1602.02,
+      "end": 1606.02,
+      "text": "and the fiery beam of the blaze"
+    },
+    {
+      "start": 1606.02,
+      "end": 1610.02,
+      "text": "and the burn of the great earth and of Mount Simeru,"
+    },
+    {
+      "start": 1610.02,
+      "end": 1612.02,
+      "text": "thrown up by the winds,"
+    },
+    {
+      "start": 1612.02,
+      "end": 1615.02,
+      "text": "reaches even to Brahma's world."
+    },
+    {
+      "start": 1615.02,
+      "end": 1617.02,
+      "text": "The peaks of Mount Simeru,"
+    },
+    {
+      "start": 1617.02,
+      "end": 1621.02,
+      "text": "measuring one, two, three, four, and five hundred leaks,"
+    },
+    {
+      "start": 1621.02,
+      "end": 1623.02,
+      "text": "as it blazes and burns,"
+    },
+    {
+      "start": 1623.02,
+      "end": 1627.02,
+      "text": "vanquished and overwhelmed by the vastness of the fiery mass,"
+    },
+    {
+      "start": 1627.02,
+      "end": 1629.02,
+      "text": "crumbled away."
+    },
+    {
+      "start": 1629.02,
+      "end": 1631.02,
+      "text": "Out of the blaze and the burn of the great earth"
+    },
+    {
+      "start": 1631.02,
+      "end": 1632.02,
+      "text": "and Mount Simeru,"
+    },
+    {
+      "start": 1632.02,
+      "end": 1635.02,
+      "text": "there is neither cinder nor ash to be found."
+    },
+    {
+      "start": 1635.02,
+      "end": 1639.02,
+      "text": "Monks, just as out of blazing, burning ghee or oil,"
+    },
+    {
+      "start": 1639.02,
+      "end": 1641.02,
+      "text": "no cinder or ash is found."
+    },
+    {
+      "start": 1641.02,
+      "end": 1643.02,
+      "text": "Even so, monks,"
+    },
+    {
+      "start": 1643.02,
+      "end": 1646.02,
+      "text": "out of the blaze and burn of the great earth and Mount Simeru,"
+    },
+    {
+      "start": 1646.02,
+      "end": 1649.02,
+      "text": "neither cinder nor ash is to be found."
+    },
+    {
+      "start": 1649.02,
+      "end": 1652.02,
+      "text": "Thus impermanent monks are conditioners."
+    },
+    {
+      "start": 1652.02,
+      "end": 1654.02,
+      "text": "Thus unstable monks are conditioners."
+    },
+    {
+      "start": 1654.02,
+      "end": 1657.02,
+      "text": "Thus insecure monks are conditioners."
+    },
+    {
+      "start": 1657.02,
+      "end": 1659.02,
+      "text": "Wherefore, monks, be you dissatisfied"
+    },
+    {
+      "start": 1659.02,
+      "end": 1661.02,
+      "text": "with all things of this world."
+    },
+    {
+      "start": 1661.02,
+      "end": 1663.02,
+      "text": "Be you repelled by them."
+    },
+    {
+      "start": 1663.02,
+      "end": 1665.02,
+      "text": "Be you utterly free from them."
+    },
+    {
+      "start": 1665.02,
+      "end": 1668.02,
+      "text": "I'll just stop here for a moment."
+    },
+    {
+      "start": 1668.02,
+      "end": 1671.02,
+      "text": "You see, this sutra is very interesting."
+    },
+    {
+      "start": 1671.02,
+      "end": 1673.02,
+      "text": "It describes very clearly"
+    },
+    {
+      "start": 1673.02,
+      "end": 1677.02,
+      "text": "how the world is going to be destroyed in the future."
+    },
+    {
+      "start": 1677.02,
+      "end": 1682.02,
+      "text": "And this is the only sutra in the Nikaya"
+    },
+    {
+      "start": 1682.02,
+      "end": 1684.02,
+      "text": "which has this description"
+    },
+    {
+      "start": 1684.02,
+      "end": 1688.02,
+      "text": "of how the world is going to be destroyed by fire."
+    },
+    {
+      "start": 1688.02,
+      "end": 1691.02,
+      "text": "So when people talk about the end of the world,"
+    },
+    {
+      "start": 1691.02,
+      "end": 1695.02,
+      "text": "we don't have to worry because the second sun has not appeared."
+    },
+    {
+      "start": 1695.02,
+      "end": 1698.02,
+      "text": "First, the rains must stop."
+    },
+    {
+      "start": 1698.02,
+      "end": 1702.02,
+      "text": "The rains must stop for thousands and thousands of years."
+    },
+    {
+      "start": 1702.02,
+      "end": 1706.02,
+      "text": "And then, when that happens, then slowly,"
+    },
+    {
+      "start": 1706.02,
+      "end": 1712.02,
+      "text": "the trees start to die off."
+    },
+    {
+      "start": 1712.02,
+      "end": 1716.02,
+      "text": "And then after a long time, the second sun appears."
+    },
+    {
+      "start": 1716.02,
+      "end": 1718.02,
+      "text": "And when the second sun appears,"
+    },
+    {
+      "start": 1718.02,
+      "end": 1720.02,
+      "text": "the streams and the ponds dry up."
+    },
+    {
+      "start": 1720.02,
+      "end": 1723.02,
+      "text": "And then after a long time, the third sun appears."
+    },
+    {
+      "start": 1723.02,
+      "end": 1726.02,
+      "text": "And when the third sun appears, the big rivers,"
+    },
+    {
+      "start": 1726.02,
+      "end": 1729.02,
+      "text": "the Ganges, etc., all also will dry up."
+    },
+    {
+      "start": 1729.02,
+      "end": 1732.02,
+      "text": "And then after a long time, the fourth sun appears."
+    },
+    {
+      "start": 1732.02,
+      "end": 1734.02,
+      "text": "And when the fourth sun appears,"
+    },
+    {
+      "start": 1734.02,
+      "end": 1740.02,
+      "text": "the great lakes behind, even those behind the Himalayas,"
+    },
+    {
+      "start": 1740.02,
+      "end": 1743.02,
+      "text": "they will dry up."
+    },
+    {
+      "start": 1743.02,
+      "end": 1746.02,
+      "text": "And then after a long time, the fifth sun appears."
+    },
+    {
+      "start": 1746.02,
+      "end": 1749.02,
+      "text": "And when the fifth sun appears,"
+    },
+    {
+      "start": 1749.02,
+      "end": 1752.02,
+      "text": "the waters of the ocean begin to dry up,"
+    },
+    {
+      "start": 1752.02,
+      "end": 1758.02,
+      "text": "and dry up until they become just puddles of water here and there."
+    },
+    {
+      "start": 1758.02,
+      "end": 1760.02,
+      "text": "And then when the sixth sun appears,"
+    },
+    {
+      "start": 1760.02,
+      "end": 1763.02,
+      "text": "the earth starts to emit smoke."
+    },
+    {
+      "start": 1763.02,
+      "end": 1765.02,
+      "text": "A lot of smoke starts to come out."
+    },
+    {
+      "start": 1765.02,
+      "end": 1767.02,
+      "text": "And then when the seventh sun appears,"
+    },
+    {
+      "start": 1767.02,
+      "end": 1769.02,
+      "text": "the earth will start to burn,"
+    },
+    {
+      "start": 1769.02,
+      "end": 1771.02,
+      "text": "and burn up to the heavens,"
+    },
+    {
+      "start": 1771.02,
+      "end": 1773.02,
+      "text": "burn up to the Brahma's world."
+    },
+    {
+      "start": 1773.02,
+      "end": 1776.02,
+      "text": "So this is very interesting"
+    },
+    {
+      "start": 1776.02,
+      "end": 1779.02,
+      "text": "because other religions also talk about"
+    },
+    {
+      "start": 1779.02,
+      "end": 1782.02,
+      "text": "the fact that the world will be destroyed by fire,"
+    },
+    {
+      "start": 1782.02,
+      "end": 1786.02,
+      "text": "but they don't give such a clear description as the Buddha."
+    },
+    {
+      "start": 1786.02,
+      "end": 1788.02,
+      "text": "Now the Buddha continued,"
+    },
+    {
+      "start": 1788.02,
+      "end": 1790.02,
+      "text": "Now where is the sage?"
+    },
+    {
+      "start": 1790.02,
+      "end": 1792.02,
+      "text": "Where is the believer who thinks"
+    },
+    {
+      "start": 1792.02,
+      "end": 1795.02,
+      "text": "this great earth and Mount Sumeru will be burnt up,"
+    },
+    {
+      "start": 1795.02,
+      "end": 1798.02,
+      "text": "will utterly perish and be no more,"
+    },
+    {
+      "start": 1798.02,
+      "end": 1802.02,
+      "text": "safe or accept among those who have seen the goal?"
+    },
+    {
+      "start": 1802.02,
+      "end": 1804.02,
+      "text": "In days gone by in monks,"
+    },
+    {
+      "start": 1804.02,
+      "end": 1807.02,
+      "text": "there was a teacher named Suneta,"
+    },
+    {
+      "start": 1807.02,
+      "end": 1811.02,
+      "text": "a core satter who was free from all lustful passions."
+    },
+    {
+      "start": 1811.02,
+      "end": 1813.02,
+      "text": "Now he had many hundreds of disciples"
+    },
+    {
+      "start": 1813.02,
+      "end": 1816.02,
+      "text": "to whom he taught the doctrine of fellowship"
+    },
+    {
+      "start": 1816.02,
+      "end": 1818.02,
+      "text": "in Brahma's world."
+    },
+    {
+      "start": 1818.02,
+      "end": 1821.02,
+      "text": "And all they who grasped the word taught by Suneta"
+    },
+    {
+      "start": 1821.02,
+      "end": 1823.02,
+      "text": "in its fullness,"
+    },
+    {
+      "start": 1823.02,
+      "end": 1825.02,
+      "text": "on the breaking up of the body after death,"
+    },
+    {
+      "start": 1825.02,
+      "end": 1828.02,
+      "text": "will reborn in the realm of bliss, the Brahma world."
+    },
+    {
+      "start": 1828.02,
+      "end": 1831.02,
+      "text": "But of those who did not grasp the word in full,"
+    },
+    {
+      "start": 1831.02,
+      "end": 1833.02,
+      "text": "some after death,"
+    },
+    {
+      "start": 1833.02,
+      "end": 1836.02,
+      "text": "will reborn into the fellowship of the devas"
+    },
+    {
+      "start": 1836.02,
+      "end": 1839.02,
+      "text": "who have power over other's creations,"
+    },
+    {
+      "start": 1839.02,
+      "end": 1842.02,
+      "text": "some among the devas who delight in creating,"
+    },
+    {
+      "start": 1842.02,
+      "end": 1845.02,
+      "text": "some among the Tussita devas,"
+    },
+    {
+      "start": 1845.02,
+      "end": 1847.02,
+      "text": "some among the Yama devas,"
+    },
+    {
+      "start": 1847.02,
+      "end": 1851.02,
+      "text": "some among the devas of the 33"
+    },
+    {
+      "start": 1851.02,
+      "end": 1853.02,
+      "text": "Ottava Timsa heaven,"
+    },
+    {
+      "start": 1853.02,
+      "end": 1856.02,
+      "text": "some in the company of the four royal devas,"
+    },
+    {
+      "start": 1856.02,
+      "end": 1858.02,
+      "text": "some among wealthy nobles,"
+    },
+    {
+      "start": 1858.02,
+      "end": 1860.02,
+      "text": "some among wealthy Brahmins,"
+    },
+    {
+      "start": 1860.02,
+      "end": 1862.02,
+      "text": "and some among wealthy householders."
+    },
+    {
+      "start": 1862.02,
+      "end": 1865.02,
+      "text": "Now Suneta, the teacher, taught thus,"
+    },
+    {
+      "start": 1865.02,
+      "end": 1867.02,
+      "text": "it is not simply that I should have"
+    },
+    {
+      "start": 1867.02,
+      "end": 1869.02,
+      "text": "precisely the same mode of existence"
+    },
+    {
+      "start": 1869.02,
+      "end": 1871.02,
+      "text": "as my disciples after death."
+    },
+    {
+      "start": 1871.02,
+      "end": 1874.02,
+      "text": "What if I were to make Mehta,"
+    },
+    {
+      "start": 1874.02,
+      "end": 1876.02,
+      "text": "or good will,"
+    },
+    {
+      "start": 1876.02,
+      "end": 1878.02,
+      "text": "become to a perfect degree?"
+    },
+    {
+      "start": 1878.02,
+      "end": 1880.02,
+      "text": "And Suneta, the teacher,"
+    },
+    {
+      "start": 1880.02,
+      "end": 1883.02,
+      "text": "cultivated the thought of Mehta for seven years."
+    },
+    {
+      "start": 1883.02,
+      "end": 1885.02,
+      "text": "And then for seven world cycles"
+    },
+    {
+      "start": 1885.02,
+      "end": 1887.02,
+      "text": "returned not to this world."
+    },
+    {
+      "start": 1887.02,
+      "end": 1889.02,
+      "text": "He arose in the sphere of radiance,"
+    },
+    {
+      "start": 1889.02,
+      "end": 1891.02,
+      "text": "that means in the Jhana planes,"
+    },
+    {
+      "start": 1891.02,
+      "end": 1893.02,
+      "text": "in Brahma's sphere,"
+    },
+    {
+      "start": 1893.02,
+      "end": 1896.02,
+      "text": "as Mahabrahma, as Saka Devaraja,"
+    },
+    {
+      "start": 1896.02,
+      "end": 1898.02,
+      "text": "as the real turning king,"
+    },
+    {
+      "start": 1898.02,
+      "end": 1900.02,
+      "text": "endowed with the seven gems."
+    },
+    {
+      "start": 1900.02,
+      "end": 1903.02,
+      "text": "Yet monks, although Suneta lived so long"
+    },
+    {
+      "start": 1903.02,
+      "end": 1905.02,
+      "text": "and lasted such a time,"
+    },
+    {
+      "start": 1905.02,
+      "end": 1907.02,
+      "text": "he was not freed from birth,"
+    },
+    {
+      "start": 1907.02,
+      "end": 1909.02,
+      "text": "from aging, from dying,"
+    },
+    {
+      "start": 1909.02,
+      "end": 1912.02,
+      "text": "from sorrow, lamentation, pain, grief and despair."
+    },
+    {
+      "start": 1912.02,
+      "end": 1915.02,
+      "text": "He was not freed from dukkha, I say."
+    },
+    {
+      "start": 1915.02,
+      "end": 1917.02,
+      "text": "And what is the reason?"
+    },
+    {
+      "start": 1917.02,
+      "end": 1920.02,
+      "text": "It was by not being awake to,"
+    },
+    {
+      "start": 1920.02,
+      "end": 1922.02,
+      "text": "by not penetrating four conditions."
+    },
+    {
+      "start": 1922.02,
+      "end": 1924.02,
+      "text": "What four?"
+    },
+    {
+      "start": 1924.02,
+      "end": 1928.02,
+      "text": "Monks, it was by not being awake to,"
+    },
+    {
+      "start": 1928.02,
+      "end": 1931.02,
+      "text": "by not penetrating Aryan right conduct."
+    },
+    {
+      "start": 1931.02,
+      "end": 1934.02,
+      "text": "It was by not being awake to,"
+    },
+    {
+      "start": 1934.02,
+      "end": 1937.02,
+      "text": "by not penetrating Aryan concentration."
+    },
+    {
+      "start": 1937.02,
+      "end": 1939.02,
+      "text": "It was by not being awake to,"
+    },
+    {
+      "start": 1939.02,
+      "end": 1942.02,
+      "text": "by not penetrating Aryan wisdom."
+    },
+    {
+      "start": 1942.02,
+      "end": 1944.02,
+      "text": "And it was by not being awake to,"
+    },
+    {
+      "start": 1944.02,
+      "end": 1951.22,
+      "text": "awake to by not penetrating Aryan release, monks, it is justice. When Aryan right conduct"
+    },
+    {
+      "start": 1951.22,
+      "end": 1959.9,
+      "text": "is awakened and penetrated, when Aryan concentration is awakened and penetrated, when Aryan wisdom"
+    },
+    {
+      "start": 1959.9,
+      "end": 1966.22,
+      "text": "is awakened and penetrated, and when Aryan release is awakened and penetrated, the craving"
+    },
+    {
+      "start": 1966.22,
+      "end": 1971.86,
+      "text": "for life is cut off, the chord that binds one to becoming is destroyed, and there is"
+    },
+    {
+      "start": 1971.86,
+      "end": 1978.42,
+      "text": "no more coming to be at the end of the sutta. So in this last part, the Buddha is talking"
+    },
+    {
+      "start": 1978.42,
+      "end": 1984.3,
+      "text": "about suneta, a cause-setter. A cause-setter means one of those religious leaders who"
+    },
+    {
+      "start": 1984.3,
+      "end": 1998.1,
+      "text": "start a new sect. In Chinese, I think it's called kaitao-sir, one who starts a new religion."
+    },
+    {
+      "start": 1998.1,
+      "end": 2004.78,
+      "text": "One is mentioned here that he was freed from all lustful passions, freed from all lustful"
+    },
+    {
+      "start": 2004.78,
+      "end": 2012.98,
+      "text": "passions even though this man suneta, he had not become an Arya. Yet the sutta says that"
+    },
+    {
+      "start": 2012.98,
+      "end": 2019.74,
+      "text": "he was freed from all lustful passions, and this shows that this man, because he cultivated"
+    },
+    {
+      "start": 2019.74,
+      "end": 2026.74,
+      "text": "the janas, he cultivated the Brahma viharas to attain rebirth in the Brahma world, so he"
+    },
+    {
+      "start": 2026.86,
+      "end": 2033.86,
+      "text": "had attained the janas. So just by attaining janas, one becomes freed of all lustful passions,"
+    },
+    {
+      "start": 2034.3,
+      "end": 2039.98,
+      "text": "that means the hindrances are abandoned. This is one of the suttas that confirms that"
+    },
+    {
+      "start": 2039.98,
+      "end": 2046.98,
+      "text": "when one attains the janas, the hindrances are abandoned, that means cut down. Although"
+    },
+    {
+      "start": 2048.34,
+      "end": 2054.84,
+      "text": "the roots are not pulled up yet, it's just like a tall grass, you cut down the tall grass"
+    },
+    {
+      "start": 2055.44,
+      "end": 2062.44,
+      "text": "completely even though the roots are not pulled up. Now the other thing mentioned here is"
+    },
+    {
+      "start": 2063.36,
+      "end": 2070.2,
+      "text": "that an all day who grasped the world taught by suneta in its fullness, on the breaking"
+    },
+    {
+      "start": 2070.2,
+      "end": 2075.84,
+      "text": "up of the body after death, were reborn in the realm of bliss, the Brahma world. But"
+    },
+    {
+      "start": 2075.84,
+      "end": 2081.28,
+      "text": "of those who did not grasp the world in full, some after death were reborn into the fellowship"
+    },
+    {
+      "start": 2081.28,
+      "end": 2088.28,
+      "text": "of the devas who have power over others' creation, some among the devas who delight in creating,"
+    },
+    {
+      "start": 2088.68,
+      "end": 2095.68,
+      "text": "some among the tussita devas, etc., etc., the lower devas. So here it shows that grasping"
+    },
+    {
+      "start": 2097.08,
+      "end": 2103.76,
+      "text": "the word of the teacher is very important. Those who grasp the word of the teacher, then"
+    },
+    {
+      "start": 2103.76,
+      "end": 2109.6,
+      "text": "they get reborn into the highest state. So in the same way, the word of the Buddha is"
+    },
+    {
+      "start": 2109.64,
+      "end": 2115.72,
+      "text": "very important to us. It is very, very important to understand the Buddha's words very, very"
+    },
+    {
+      "start": 2115.72,
+      "end": 2122.72,
+      "text": "well. If you understand the sutras 100%, then you will get 100% of the result of the Buddha's"
+    },
+    {
+      "start": 2125.4,
+      "end": 2132.4,
+      "text": "teachings. If you don't understand the word of the Buddha, then we would get nothing out"
+    },
+    {
+      "start": 2132.8,
+      "end": 2139.8,
+      "text": "of being a Buddhist. So it is very important to listen to the discourses of the Buddha and"
+    },
+    {
+      "start": 2140.0,
+      "end": 2147.0,
+      "text": "understand them. So in the last part of the sutra, the Buddha said, it is by cultivating"
+    },
+    {
+      "start": 2149.24,
+      "end": 2155.52,
+      "text": "three things, are in right conduct, are in concentration, are in wisdom, and are in release,"
+    },
+    {
+      "start": 2155.52,
+      "end": 2162.52,
+      "text": "that a person ends the round of rebirths and destroys dukkha or suffering. Actually the"
+    },
+    {
+      "start": 2166.72,
+      "end": 2171.68,
+      "text": "last part, are in release, is the result of attaining the first three. So it is the first"
+    },
+    {
+      "start": 2171.68,
+      "end": 2178.68,
+      "text": "three that is important, sila, samadhi and panya, moral conduct, concentration and wisdom."
+    },
+    {
+      "start": 2179.68,
+      "end": 2186.68,
+      "text": "And these three things are also the noble eightfold path or the Aryan eightfold path taught"
+    },
+    {
+      "start": 2188.0,
+      "end": 2195.0,
+      "text": "by the Buddha. So if we cultivate the Aryan eightfold path or this sila, samadhi and panya,"
+    },
+    {
+      "start": 2196.68,
+      "end": 2201.68,
+      "text": "fully, then we attain full awakening, full liberation."
+    }
+  ]
+}

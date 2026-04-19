@@ -1,0 +1,1510 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2180.3073125,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.48,
+      "text": "Now we come to Sutta 4.16.159. On a certain occasion, the venerable Ananda was"
+    },
+    {
+      "start": 9.48,
+      "end": 14.88,
+      "text": "staying at Gosambi in Gosita Park. Now on that occasion, a certain nun addressed"
+    },
+    {
+      "start": 14.88,
+      "end": 20.72,
+      "text": "her monk saying, Come, you good fellow, go to Master Ananda, and on coming to him"
+    },
+    {
+      "start": 20.72,
+      "end": 26.36,
+      "text": "in my name, worship with your head the feet of the worthy Ananda, and say, Sir, Ananda"
+    },
+    {
+      "start": 26.36,
+      "end": 31.64,
+      "text": "named so-and-so is sick in pain, stricken with a sore disease. She worships with her"
+    },
+    {
+      "start": 31.64,
+      "end": 36.84,
+      "text": "head the feet of the worthy Ananda. And you say this, it would be a good thing, Sir,"
+    },
+    {
+      "start": 36.84,
+      "end": 41.88,
+      "text": "if the worthy Ananda would visit the nun's lodging where that nun is, out of compassion"
+    },
+    {
+      "start": 41.88,
+      "end": 47.44,
+      "text": "for her. Yes, lady replied that man and went to the venerable Ananda and did as he was told."
+    },
+    {
+      "start": 47.44,
+      "end": 52.72,
+      "text": "Then the venerable Ananda, robbing himself and taking bowl and outer rope, went to visit"
+    },
+    {
+      "start": 52.72,
+      "end": 58.36,
+      "text": "that nun. Now that nun saw the venerable Ananda from far as he was coming, and on"
+    },
+    {
+      "start": 58.36,
+      "end": 63.96,
+      "text": "seeing him, she covered her head and lay down on a couch. Then the venerable Ananda came"
+    },
+    {
+      "start": 63.96,
+      "end": 69.64,
+      "text": "to where she was, and on reaching her, sat down on a seat made ready. As he sat there,"
+    },
+    {
+      "start": 69.64,
+      "end": 74.8,
+      "text": "the venerable Ananda said this to that nun, Sister, this body has come into being through"
+    },
+    {
+      "start": 74.8,
+      "end": 80.56,
+      "text": "food, is dependent on food. The food must be abandoned. Sister, this body has come into"
+    },
+    {
+      "start": 80.56,
+      "end": 86.32,
+      "text": "being through craving, is dependent on craving. Craving must be abandoned. Sister, this body"
+    },
+    {
+      "start": 86.32,
+      "end": 91.76,
+      "text": "has come into being through pride, is dependent on pride. Pride must be abandoned. Sister,"
+    },
+    {
+      "start": 91.76,
+      "end": 96.76,
+      "text": "this body has come into being through sexual intercourse. Sexual intercourse must be abandoned."
+    },
+    {
+      "start": 96.76,
+      "end": 100.84,
+      "text": "The breaking down of the bridge which is in sexual intercourse has been spoken of by the"
+    },
+    {
+      "start": 100.84,
+      "end": 106.44,
+      "text": "exalted one. Sister, as to this saying, this body has come into being through food, is"
+    },
+    {
+      "start": 106.44,
+      "end": 112.44,
+      "text": "dependent on food. The food must be abandoned. It was said in this connection. Herein, Sister,"
+    },
+    {
+      "start": 112.44,
+      "end": 117.4,
+      "text": "a monk takes food with reflection and judgment, not for sport, not for indulgence, not for"
+    },
+    {
+      "start": 117.4,
+      "end": 122.48,
+      "text": "personal charm, not for beautifying, but just enough for the support, for the upkeep of body,"
+    },
+    {
+      "start": 122.48,
+      "end": 127.88,
+      "text": "for its resting and harm, for living the holy life. He takes food with a thought. Thus do"
+    },
+    {
+      "start": 127.88,
+      "end": 132.48,
+      "text": "I check my former feelings and set going, no new feeling. Thus maintainers shall be"
+    },
+    {
+      "start": 132.48,
+      "end": 137.8,
+      "text": "mine, blamelessness and comfort in life. Then sometime later, though dependent on food,"
+    },
+    {
+      "start": 137.8,
+      "end": 142.44,
+      "text": "he abandons food. As to this saying, that body has come into being through food, whatever"
+    },
+    {
+      "start": 142.44,
+      "end": 147.8,
+      "text": "was thus said, was said in this connection. Sister, as to this saying, this body has come"
+    },
+    {
+      "start": 147.8,
+      "end": 152.32,
+      "text": "into being through craving, is dependent on craving. Craving must be abandoned. It was"
+    },
+    {
+      "start": 152.32,
+      "end": 156.84,
+      "text": "said in this connection. Herein, Sister, a monk hears it said. They say that such and"
+    },
+    {
+      "start": 156.84,
+      "end": 162.68,
+      "text": "such a monk, by destroying the asavas himself in this life, thoroughly comprehending it,"
+    },
+    {
+      "start": 162.68,
+      "end": 167.56,
+      "text": "realises the release by mind, the release by wisdom, which is free from the asavas,"
+    },
+    {
+      "start": 167.56,
+      "end": 172.56,
+      "text": "and having attained it, abides therein. To him it occurs. Surely, I too, by destroying"
+    },
+    {
+      "start": 172.56,
+      "end": 177.68,
+      "text": "the asavas, etc., having attained it, shall abide therein. Then sometime later, though"
+    },
+    {
+      "start": 177.68,
+      "end": 182.48,
+      "text": "dependent on craving, he abandons craving. As to the saying, Sister, that body has come"
+    },
+    {
+      "start": 182.52,
+      "end": 187.0,
+      "text": "into being through craving, is dependent on craving. Craving must be abandoned. Whatever"
+    },
+    {
+      "start": 187.0,
+      "end": 191.92,
+      "text": "was said thus, was said in this connection. Sister, as to the saying, this body has come"
+    },
+    {
+      "start": 191.92,
+      "end": 196.2,
+      "text": "into being through pride, is dependent on pride. Pride must be abandoned. It was said"
+    },
+    {
+      "start": 196.2,
+      "end": 200.76,
+      "text": "in this connection. In this case, Sister, a monk hears it said. They say that such and"
+    },
+    {
+      "start": 200.76,
+      "end": 205.88,
+      "text": "such a monk, by destroying the asavas, etc., having attained the release by wisdom, abides"
+    },
+    {
+      "start": 205.88,
+      "end": 211.36,
+      "text": "therein. To him it occurs thus. That one, by destroying the asavas, can realise and attain"
+    },
+    {
+      "start": 211.36,
+      "end": 216.96,
+      "text": "and abide in the release by wisdom. Then why not I? Then sometime later, though dependent"
+    },
+    {
+      "start": 216.96,
+      "end": 221.36,
+      "text": "on pride, he abandons pride. Sister, as to the saying, this body has come into being"
+    },
+    {
+      "start": 221.36,
+      "end": 226.16,
+      "text": "through pride, is dependent on pride. Pride must be abandoned. It was said in this connection."
+    },
+    {
+      "start": 226.16,
+      "end": 230.2,
+      "text": "Sister, as to the saying, this body has come into being through sexual intercourse, is dependent"
+    },
+    {
+      "start": 230.2,
+      "end": 234.28,
+      "text": "on sexual intercourse. Sexual intercourse must be abandoned. The breaking down of the"
+    },
+    {
+      "start": 234.28,
+      "end": 239.72,
+      "text": "bridge which is in sexual intercourse has been spoken by the exalted one. Thereupon,"
+    },
+    {
+      "start": 239.72,
+      "end": 245.72,
+      "text": "the nun rose from the couch, put her upper rope on one shoulder, fell with her head at"
+    },
+    {
+      "start": 245.72,
+      "end": 252.2,
+      "text": "the feet of the venerable Ananda and said, O Sir, my fault overcame me who am so foolish,"
+    },
+    {
+      "start": 252.2,
+      "end": 259.0,
+      "text": "so stupid, so wrong that I acted thus. O Sir, let Master Ananda acknowledge my fault as such"
+    },
+    {
+      "start": 259.0,
+      "end": 265.96,
+      "text": "for my restraint in future time. Ananda said, Verily, Sister, your fault overcame you, thus"
+    },
+    {
+      "start": 266.04,
+      "end": 271.4,
+      "text": "foolish, thus stupid, thus wrong that you acted thus. But inasmuch as you, Sister, have seen"
+    },
+    {
+      "start": 271.4,
+      "end": 276.84,
+      "text": "your fault as such and have confessed it as it is right, we do acknowledge it of you. This,"
+    },
+    {
+      "start": 276.84,
+      "end": 281.48,
+      "text": "indeed, Sister, is growth in the discipline of the Aryan. When seeing his fault as such,"
+    },
+    {
+      "start": 281.48,
+      "end": 286.92,
+      "text": "one makes confession as is right and comes to restrain in future time. This one of the"
+    },
+    {
+      "start": 286.92,
+      "end": 294.92,
+      "text": "suttas, we shows the danger of the holy life, the attraction for the opposite sex, and this"
+    },
+    {
+      "start": 295.24,
+      "end": 300.76,
+      "text": "nun had evil intentions when she asked Ananda, available Ananda, to visit him. That's why the"
+    },
+    {
+      "start": 300.76,
+      "end": 307.0,
+      "text": "Buddha said it's advisable for a monk to talk with a woman, with another person present,"
+    },
+    {
+      "start": 308.28,
+      "end": 316.44,
+      "text": "with another person present, if possible. And perhaps, available Ananda knew the intentions"
+    },
+    {
+      "start": 316.52,
+      "end": 326.12,
+      "text": "of this nun. That's why he chose this topic to talk. And so, it had its effect on the nun,"
+    },
+    {
+      "start": 326.12,
+      "end": 333.88,
+      "text": "and the nun realized her fault. So, again, as I said, this shows the danger of the holy life,"
+    },
+    {
+      "start": 333.88,
+      "end": 346.86,
+      "text": "and most monks disrupt because of some woman. Today, we come to 4.16.160. And this sutta,"
+    },
+    {
+      "start": 347.02,
+      "end": 351.34,
+      "text": "I won't read out the whole sutta, just a portion of it. The Buddha said,"
+    },
+    {
+      "start": 352.3,
+      "end": 361.1,
+      "text": "monks, these 4 things conduce to the confusion, to the vanishing away of sattvamma, true dhamma."
+    },
+    {
+      "start": 361.74,
+      "end": 369.34,
+      "text": "What for? In this case, monks, the monks get by heart a text that is wrongly taken,"
+    },
+    {
+      "start": 369.34,
+      "end": 376.7,
+      "text": "with words and sense that are wrongly arranged. Now, monks, if words and sense are wrongly arranged,"
+    },
+    {
+      "start": 376.94,
+      "end": 383.34,
+      "text": "the meaning also is misleading. This is the first thing which conduces to the confusion,"
+    },
+    {
+      "start": 383.34,
+      "end": 390.78,
+      "text": "to the vanishing away of sattvamma, true dhamma. Then again, the monks are difficult to speak to,"
+    },
+    {
+      "start": 391.42,
+      "end": 398.22,
+      "text": "possessed of qualities which make them difficult to speak to. They are stubborn, incapable of"
+    },
+    {
+      "start": 398.22,
+      "end": 405.9,
+      "text": "being instructed. This monks is the second thing. Then again, those monks who are widely learned,"
+    },
+    {
+      "start": 406.7,
+      "end": 413.5,
+      "text": "versed in the doctrines, who know dhamma by heart, who know vinaya by heart, who know the"
+    },
+    {
+      "start": 413.5,
+      "end": 421.82,
+      "text": "summaries by heart, these do not dutifully hand on a text to another. Thus, when they pass away,"
+    },
+    {
+      "start": 421.82,
+      "end": 427.58,
+      "text": "the text is cut down at the root. It has nothing to stand on. This is the third thing."
+    },
+    {
+      "start": 427.9,
+      "end": 436.46,
+      "text": "Yet again, the elder monks live in abundance. They are lax, taking the lead in backsliding,"
+    },
+    {
+      "start": 437.26,
+      "end": 443.66,
+      "text": "shirking the burden of the secluded life. They set going no effort to attain the unattained,"
+    },
+    {
+      "start": 444.22,
+      "end": 452.94,
+      "text": "to win the goal not one, to realize the unrealized. So, the generation that follows comes to follow"
+    },
+    {
+      "start": 453.58,
+      "end": 461.26,
+      "text": "their view. That generation also lives in abundance. Its lax takes the lead in backsliding"
+    },
+    {
+      "start": 461.26,
+      "end": 468.54,
+      "text": "to the worldly life, shirking the burden of the secluded life. They set going no effort to attain"
+    },
+    {
+      "start": 468.54,
+      "end": 475.82,
+      "text": "the unattained, to win the goal not one, to realize the unrealized. This monks is the fourth thing"
+    },
+    {
+      "start": 475.82,
+      "end": 483.42,
+      "text": "which conduces to the confusion, to the vanishing away of saddhamma, true dhamma. That's the end"
+    },
+    {
+      "start": 483.42,
+      "end": 491.1,
+      "text": "of what I want to read in this sutra. So, here this is one of the few sutras where the Buddha gives"
+    },
+    {
+      "start": 491.1,
+      "end": 500.06,
+      "text": "the reasons why the true dhamma would vanish away in the future. The first one is the words and sense"
+    },
+    {
+      "start": 501.02,
+      "end": 507.1,
+      "text": "of the dhamma are wrongly arranged and the meaning also is misleading."
+    },
+    {
+      "start": 509.82,
+      "end": 521.02,
+      "text": "This one could refer to the wrong teachings that the Buddha predicted would appear 500 years after"
+    },
+    {
+      "start": 521.02,
+      "end": 534.22,
+      "text": "the Buddha's Parinibbana and because of what the Buddha calls counterfeit teachings, false teachings"
+    },
+    {
+      "start": 534.22,
+      "end": 542.94,
+      "text": "that appear and multiplied. So, this is one reason for the vanishing of the way of the true dhamma."
+    },
+    {
+      "start": 543.66,
+      "end": 554.62,
+      "text": "So, we have to study the dhamma and know which are the wrong teachings. It is not easy because"
+    },
+    {
+      "start": 554.62,
+      "end": 560.46,
+      "text": "we have to study quite a lot to know which teachings are contradictory, which teachings are"
+    },
+    {
+      "start": 560.46,
+      "end": 569.18,
+      "text": "consistent and if we do that, we find that the earliest four nikayas, those are the books which"
+    },
+    {
+      "start": 569.74,
+      "end": 574.46,
+      "text": "are very consistent whereas later books, there are contradictions in the later books."
+    },
+    {
+      "start": 576.54,
+      "end": 581.82,
+      "text": "And the second reason is that the monks are not interested in the training. The Buddha always"
+    },
+    {
+      "start": 581.82,
+      "end": 588.94,
+      "text": "talked about the training for a monk, sikha padha, the practice of the holy life and there are some"
+    },
+    {
+      "start": 588.94,
+      "end": 594.78,
+      "text": "monks who are stubborn and they refuse to change their bad habits. They won't take instructions"
+    },
+    {
+      "start": 595.74,
+      "end": 603.9,
+      "text": "and so because of that, they cause people to lose faith in the sangha and when people lose"
+    },
+    {
+      "start": 603.9,
+      "end": 614.06,
+      "text": "faith in the sangha, they turn away from the religion. So, that is why in the"
+    },
+    {
+      "start": 615.9,
+      "end": 623.26,
+      "text": "Buddhist tradition in Thailand, they don't ordain somebody very easily. Somebody who wants to"
+    },
+    {
+      "start": 623.26,
+      "end": 629.98,
+      "text": "ordain as a monk, first they come in as what they call a pakao, one who wears the white cloth"
+    },
+    {
+      "start": 631.18,
+      "end": 635.9,
+      "text": "and that is eight precepts. They keep the eight precepts for a minimum of six months"
+    },
+    {
+      "start": 636.7,
+      "end": 644.54,
+      "text": "and then after that only they are given the samanera precepts and then after at least six"
+    },
+    {
+      "start": 644.54,
+      "end": 652.22,
+      "text": "months as a samanera, then they ordain in the higher ordination. So, this gives time to"
+    },
+    {
+      "start": 653.58,
+      "end": 659.02,
+      "text": "examine the candidate to see whether that person is really suitable for the higher ordination."
+    },
+    {
+      "start": 660.06,
+      "end": 665.98,
+      "text": "Then the third reason is that the senior monks who are learned in the Dhamma Vinaya,"
+    },
+    {
+      "start": 665.98,
+      "end": 673.66,
+      "text": "they don't hand the text to another. In the earlier days, the Dhamma, the suttas, was not"
+    },
+    {
+      "start": 673.66,
+      "end": 681.9,
+      "text": "put down in writing so it was transmitted from the verbally from one monk to another. So, if the"
+    },
+    {
+      "start": 681.9,
+      "end": 688.7,
+      "text": "earlier monks, they became, if they were lazy and they did not take the trouble to memorize the"
+    },
+    {
+      "start": 688.7,
+      "end": 698.79,
+      "text": "suttas and hand down from one generation to another, the suttas would have disappeared. So, now the"
+    },
+    {
+      "start": 698.79,
+      "end": 708.07,
+      "text": "suttas are in writing but now we have to take the trouble to teach the Dhamma Vinaya, the suttas"
+    },
+    {
+      "start": 708.07,
+      "end": 716.07,
+      "text": "and the Vinaya so that they are well propagated so that people know the true teachings of the Buddha."
+    },
+    {
+      "start": 716.71,
+      "end": 723.91,
+      "text": "So, people are not confused with wrong teachings. So, it is our duty to teach and also to spread"
+    },
+    {
+      "start": 723.91,
+      "end": 732.63,
+      "text": "by perhaps printing of books, by tapes, etc. Then the fourth reason for the disappearance of the"
+    },
+    {
+      "start": 732.63,
+      "end": 740.15,
+      "text": "true Dhamma is the senior monks, they live in abundance, they are lax, they take the lead in"
+    },
+    {
+      "start": 740.15,
+      "end": 747.67,
+      "text": "backsliding and they don't make any effort to attain the goal of the holy life which is to"
+    },
+    {
+      "start": 749.51,
+      "end": 756.31,
+      "text": "end our suffering, to end the round of rebirth. So, because the senior monks set their example,"
+    },
+    {
+      "start": 756.31,
+      "end": 764.23,
+      "text": "the junior monks also follow them and become lax, live in luxury, etc. So, this is another"
+    },
+    {
+      "start": 764.23,
+      "end": 774.07,
+      "text": "reason why the true Dhamma would pass away. So, we have to be careful of these reasons and try to"
+    },
+    {
+      "start": 777.27,
+      "end": 784.39,
+      "text": "lead our life and conduct ourselves so that we can preserve the true Dhamma."
+    },
+    {
+      "start": 787.21,
+      "end": 794.73,
+      "text": "Now, we come to sutta number 4.17.162. The Buddha said,"
+    },
+    {
+      "start": 794.73,
+      "end": 803.37,
+      "text": "monks, there are these four modes of progress. What four? The painful mode of progress with sluggish,"
+    },
+    {
+      "start": 803.37,
+      "end": 811.29,
+      "text": "higher knowledge, Abhinaya. The painful mode with swift, higher knowledge. The pleasant mode of"
+    },
+    {
+      "start": 811.29,
+      "end": 817.77,
+      "text": "progress with sluggish, higher knowledge. The pleasant mode of progress with swift, higher"
+    },
+    {
+      "start": 817.77,
+      "end": 824.01,
+      "text": "knowledge. These are the four modes of progress. And of what sort, monks, is the mode of progress"
+    },
+    {
+      "start": 824.01,
+      "end": 832.57,
+      "text": "that is painful with sluggish, higher knowledge. In this case, a certain one is by nature passionately"
+    },
+    {
+      "start": 832.57,
+      "end": 839.37,
+      "text": "lustful. He experiences the perpetual pain and dejection that are born of lust, raga."
+    },
+    {
+      "start": 840.17,
+      "end": 846.49,
+      "text": "Likewise, he is by nature malicious. He experiences the perpetual pain and dejection"
+    },
+    {
+      "start": 846.49,
+      "end": 855.05,
+      "text": "that are born of ill will, dosa. Likewise, he is by nature deluded. He experiences the"
+    },
+    {
+      "start": 855.05,
+      "end": 862.25,
+      "text": "perpetual pain and dejection that are born of delusion, moha. In such a one, these five"
+    },
+    {
+      "start": 862.25,
+      "end": 870.97,
+      "text": "controlling faculties are dali manifested, namely the controlling faculty of faith, of energy,"
+    },
+    {
+      "start": 870.97,
+      "end": 878.17,
+      "text": "of mindfulness, concentration, and the controlling faculty of wisdom. Thus, owing to the dullness"
+    },
+    {
+      "start": 878.17,
+      "end": 886.33,
+      "text": "of these five faculties, sluggish is his attainment of the concentration that follows on for the"
+    },
+    {
+      "start": 886.33,
+      "end": 892.81,
+      "text": "destruction of the asavas. This monks is called the progress that is painful with sluggish, higher"
+    },
+    {
+      "start": 892.81,
+      "end": 898.97,
+      "text": "knowledge. And of what sort, monks, is the mode of progress that is painful, but with swift,"
+    },
+    {
+      "start": 898.97,
+      "end": 905.61,
+      "text": "higher knowledge. In this case, a certain one is by nature passionately lustful, malicious,"
+    },
+    {
+      "start": 905.61,
+      "end": 912.89,
+      "text": "and deluded. And he experiences the perpetual pain and dejection that are born of lust, ill will,"
+    },
+    {
+      "start": 912.89,
+      "end": 920.57,
+      "text": "and delusion. In such a one, these five controlling faculties are manifested in abundance, namely"
+    },
+    {
+      "start": 920.57,
+      "end": 926.97,
+      "text": "the controlling faculty of faith, energy, mindfulness, concentration, and wisdom. Thus,"
+    },
+    {
+      "start": 926.97,
+      "end": 933.53,
+      "text": "owing to the preponderance of these five faculties, swift is his attainment of the concentration"
+    },
+    {
+      "start": 933.53,
+      "end": 940.33,
+      "text": "that follows on for the destruction of the asavas. This monks is called the progress that is painful,"
+    },
+    {
+      "start": 940.33,
+      "end": 946.97,
+      "text": "but with swift, higher knowledge. And of what sort, monks, is the mode of progress that is pleasant,"
+    },
+    {
+      "start": 946.97,
+      "end": 953.85,
+      "text": "but with sluggish, higher knowledge. In this case, a certain one is not by nature passionately lustful."
+    },
+    {
+      "start": 954.49,
+      "end": 960.89,
+      "text": "He does not experience the perpetual pain and dejection that are born of lust, nor is he by"
+    },
+    {
+      "start": 960.89,
+      "end": 967.21,
+      "text": "nature passionately malicious. He does not experience the perpetual pain and dejection"
+    },
+    {
+      "start": 967.21,
+      "end": 974.41,
+      "text": "that are born of ill will, nor is he by nature deluded. He does not experience the perpetual"
+    },
+    {
+      "start": 974.41,
+      "end": 981.69,
+      "text": "pain and dejection that are born of delusion. But in such a one, these five controlling faculties"
+    },
+    {
+      "start": 981.69,
+      "end": 989.13,
+      "text": "are doubly manifested, namely the controlling faculty of faith, energy, mindfulness, concentration,"
+    },
+    {
+      "start": 989.13,
+      "end": 996.09,
+      "text": "and wisdom. Thus, owing to the dullness of the five faculties, sluggish is his attainment of"
+    },
+    {
+      "start": 996.09,
+      "end": 1002.09,
+      "text": "the concentration that follows on for the destruction of the asavas. This monks is called"
+    },
+    {
+      "start": 1002.09,
+      "end": 1008.09,
+      "text": "the mode of progress that is pleasant, but with sluggish, higher knowledge. And of what sort,"
+    },
+    {
+      "start": 1008.09,
+      "end": 1013.53,
+      "text": "monks, is the mode of progress that is both pleasant and accompanied by swift, higher knowledge."
+    },
+    {
+      "start": 1014.33,
+      "end": 1020.41,
+      "text": "In this case, a certain one is not by nature passionately lustful, malicious, or deluded."
+    },
+    {
+      "start": 1021.37,
+      "end": 1027.53,
+      "text": "In such a one, these five controlling faculties are manifested in abundance, namely the controlling"
+    },
+    {
+      "start": 1027.53,
+      "end": 1033.61,
+      "text": "faculty of faith, energy, mindfulness, concentration, and wisdom. Thus, owing to the preponderance of"
+    },
+    {
+      "start": 1033.61,
+      "end": 1039.61,
+      "text": "the five faculties, swift is his attainment of the concentration that follows on for the destruction"
+    },
+    {
+      "start": 1039.61,
+      "end": 1045.85,
+      "text": "of the asavas. This monks is called the mode of progress that is both pleasant and accompanied by"
+    },
+    {
+      "start": 1045.85,
+      "end": 1051.85,
+      "text": "swift, higher knowledge. So, these are the four modes of progress at the end of the sutta."
+    },
+    {
+      "start": 1052.49,
+      "end": 1057.29,
+      "text": "This sutta, the Buddha is trying to say that when we cultivate the holy path,"
+    },
+    {
+      "start": 1058.17,
+      "end": 1065.77,
+      "text": "we practice to get out of samsara. There are four types of progress. You can either have a painful"
+    },
+    {
+      "start": 1065.77,
+      "end": 1074.33,
+      "text": "or a pleasant type, and also with either sluggish attainment of the higher knowledges or swift"
+    },
+    {
+      "start": 1074.33,
+      "end": 1080.81,
+      "text": "attainment of the higher knowledges. And what is the cause of painful progress?"
+    },
+    {
+      "start": 1081.53,
+      "end": 1089.69,
+      "text": "Painful progress is to be found in a person who has these three weaknesses, lust,"
+    },
+    {
+      "start": 1090.97,
+      "end": 1098.81,
+      "text": "anger, or ill will, or hatred. And the third one is delusion. If these three qualities are very"
+    },
+    {
+      "start": 1098.81,
+      "end": 1111.77,
+      "text": "strong in a person, he experiences the pain and dejection due to these three things."
+    },
+    {
+      "start": 1112.73,
+      "end": 1118.81,
+      "text": "So, because of these, these three things are always bothering him. So, his progress is always"
+    },
+    {
+      "start": 1118.81,
+      "end": 1126.01,
+      "text": "painful. But then there are certain suttas where the Buddha said, when a monk is cultivating the"
+    },
+    {
+      "start": 1126.97,
+      "end": 1133.05,
+      "text": "holy path, sometimes it can be very painful. There can be a lot of frustration. There can be a lot of"
+    },
+    {
+      "start": 1134.25,
+      "end": 1139.45,
+      "text": "mental suffering in addition to the physical suffering. And the Buddha said, in spite of all"
+    },
+    {
+      "start": 1139.45,
+      "end": 1147.61,
+      "text": "that, the Buddha said, the monk should grit his teeth and bathe, bathe and continue to strive."
+    },
+    {
+      "start": 1147.61,
+      "end": 1154.97,
+      "text": "And then one day he will pass that station. So, this is painful progress in the holy life"
+    },
+    {
+      "start": 1154.97,
+      "end": 1164.25,
+      "text": "due to these three factors, lust, hatred, or ill will, and delusion. And if a person does not have"
+    },
+    {
+      "start": 1164.25,
+      "end": 1173.13,
+      "text": "these three things to bother him, then he makes pleasant progress. If a person does not have strong"
+    },
+    {
+      "start": 1173.13,
+      "end": 1181.61,
+      "text": "lust, or a lot of ill will, or a lot of delusion, then the holy life is not so painful. It is in"
+    },
+    {
+      "start": 1181.61,
+      "end": 1187.69,
+      "text": "fact can be quite pleasant if he knows how to practice and attain the bliss of meditation."
+    },
+    {
+      "start": 1188.49,
+      "end": 1194.09,
+      "text": "And then sluggish attainment of the higher knowledges or swift attainment of the higher"
+    },
+    {
+      "start": 1194.09,
+      "end": 1201.77,
+      "text": "knowledges depends on the five controlling faculties. How much, how strong these five things are in"
+    },
+    {
+      "start": 1201.77,
+      "end": 1210.81,
+      "text": "that monk, faith, energy, mindfulness, concentration, and wisdom. So, if these are strong, there's a"
+    },
+    {
+      "start": 1210.81,
+      "end": 1217.61,
+      "text": "lot of stress, there's a lot of effort to cultivate these five things, then the monk will attain the"
+    },
+    {
+      "start": 1217.61,
+      "end": 1226.49,
+      "text": "concentration very fast. If these five things, especially the energy, the mindfulness, the"
+    },
+    {
+      "start": 1226.49,
+      "end": 1231.21,
+      "text": "energy and the mindfulness, if he puts a lot of energy and mindfulness in his practice,"
+    },
+    {
+      "start": 1231.77,
+      "end": 1241.61,
+      "text": "then concentration will come quite quickly. And it is said here that the concentration that"
+    },
+    {
+      "start": 1241.61,
+      "end": 1248.57,
+      "text": "follows on for the destruction of the asavas. So, here it is very clear that for the destruction"
+    },
+    {
+      "start": 1248.57,
+      "end": 1255.13,
+      "text": "of the asavas, you need very good concentration, very strong concentration, a perfect concentration,"
+    },
+    {
+      "start": 1255.21,
+      "end": 1263.13,
+      "text": "which is defined in the sutras as one-pointedness of mind, attainment of the janas or sometimes"
+    },
+    {
+      "start": 1263.13,
+      "end": 1269.77,
+      "text": "is stated as the four janas. So, it's very clear here that concentration is a very important"
+    },
+    {
+      "start": 1269.77,
+      "end": 1279.21,
+      "text": "quality for the destruction of the asavas. So, that's the sutra. Now, we come to another sutra"
+    },
+    {
+      "start": 1279.21,
+      "end": 1291.77,
+      "text": "to see how this applied. 4.17.167. The Venerable Sariputta went to visit the Venerable Mogulana,"
+    },
+    {
+      "start": 1291.77,
+      "end": 1297.21,
+      "text": "the great Mahamogulana, and on coming to him greeted him courteously, and after the exchange of"
+    },
+    {
+      "start": 1297.21,
+      "end": 1303.53,
+      "text": "greetings and courtesy sat down at one side. So, seated the Venerable Sariputta, said to the Venerable"
+    },
+    {
+      "start": 1303.53,
+      "end": 1310.49,
+      "text": "Mahamogulana, Mogulana, your reverence, there are these four modes of progress. What for? The mode"
+    },
+    {
+      "start": 1310.49,
+      "end": 1316.57,
+      "text": "of progress that is painful with sluggish, higher intuition, etc., as before. Now, your reverence,"
+    },
+    {
+      "start": 1317.29,
+      "end": 1323.29,
+      "text": "by way of which of these four modes of progress was your heart released from the asavas without"
+    },
+    {
+      "start": 1323.29,
+      "end": 1330.81,
+      "text": "grasping? And the Mahamogulana, the arahan said, Sariputta, your reverence, there are, as you say,"
+    },
+    {
+      "start": 1330.81,
+      "end": 1337.45,
+      "text": "these four modes of progress. Now, of these four, the one I followed was the mode of progress"
+    },
+    {
+      "start": 1337.45,
+      "end": 1344.33,
+      "text": "that is painful but with swift, higher intuition. By way of this mode of progress was by mind released"
+    },
+    {
+      "start": 1344.33,
+      "end": 1351.29,
+      "text": "from the asavas without grasping. That's the end of the sutra. So, in this sutra, I purposely"
+    },
+    {
+      "start": 1351.29,
+      "end": 1358.09,
+      "text": "read this sutra to let you know that Mahamogulana, one of the greatest disciples of the Buddha,"
+    },
+    {
+      "start": 1358.97,
+      "end": 1367.21,
+      "text": "in his cultivation of the holy path, the holy life, he was having a lot of"
+    },
+    {
+      "start": 1370.87,
+      "end": 1378.39,
+      "text": "he had an abundance of greed, hatred and delusion, lust, hatred and delusion. And these"
+    },
+    {
+      "start": 1379.03,
+      "end": 1386.07,
+      "text": "hindered his progress. His progress was painful. He was continually bothered by these things."
+    },
+    {
+      "start": 1386.07,
+      "end": 1394.55,
+      "text": "But in spite of that, he made a lot of effort and then he became an arahan. So, from this,"
+    },
+    {
+      "start": 1394.55,
+      "end": 1402.63,
+      "text": "we can get inspiration, we can get consolation to know that even somebody so great like Mahamogulana,"
+    },
+    {
+      "start": 1403.43,
+      "end": 1413.27,
+      "text": "his progress in the holy life was painful because of strong lust, hatred and delusion. So, if we"
+    },
+    {
+      "start": 1413.27,
+      "end": 1424.87,
+      "text": "cultivate the holy life and we find sort of, we feel that the practice of the holy life is so"
+    },
+    {
+      "start": 1424.87,
+      "end": 1432.07,
+      "text": "difficult and we are not getting inspired, then we should think of somebody like Mahamogulana."
+    },
+    {
+      "start": 1432.07,
+      "end": 1436.63,
+      "text": "If we follow his example and strive, one day we will also come to distinction."
+    },
+    {
+      "start": 1437.59,
+      "end": 1446.07,
+      "text": "And then, Sutta 4.17.168, now the venerable Mahamogulana went to visit the venerable Sariputta,"
+    },
+    {
+      "start": 1446.79,
+      "end": 1452.39,
+      "text": "etc., etc., and said this to him, Sariputta, your reverence, there are these four modes of progress"
+    },
+    {
+      "start": 1453.19,
+      "end": 1459.03,
+      "text": "as before. Now your reverence, by way of which of these four was your heart released from the"
+    },
+    {
+      "start": 1459.03,
+      "end": 1466.39,
+      "text": "Asavas without grasping? And venerable Sariputta answered, Mogulana, your reverence, there are as"
+    },
+    {
+      "start": 1466.39,
+      "end": 1472.23,
+      "text": "you say these four modes of progress. Now these four, the one I followed was the mode of progress"
+    },
+    {
+      "start": 1472.23,
+      "end": 1478.15,
+      "text": "that is pleasant with swift higher knowledge. By way of this mode of progress was my heart"
+    },
+    {
+      "start": 1478.15,
+      "end": 1485.83,
+      "text": "released from the Asavas without grasping. So, in this Sutta, you find that the venerable Sariputta,"
+    },
+    {
+      "start": 1485.83,
+      "end": 1492.63,
+      "text": "he had what we say stronger Paramis, stronger, better, higher"
+    },
+    {
+      "start": 1495.27,
+      "end": 1503.03,
+      "text": "perfections of character, so that he was not very much disturbed by lust, hatred, and delusion."
+    },
+    {
+      "start": 1503.03,
+      "end": 1508.71,
+      "text": "So, his progress was pleasant and because he made great effort, it was also very swift."
+    },
+    {
+      "start": 1509.11,
+      "end": 1518.63,
+      "text": "Now, we come to Sutta number 4.17.169. This is quite an important Sutta."
+    },
+    {
+      "start": 1519.43,
+      "end": 1525.91,
+      "text": "Monks, these four persons are found existing in the world. What for? Here in monks,"
+    },
+    {
+      "start": 1525.91,
+      "end": 1533.43,
+      "text": "a certain person in this very life is set free but with some effort. Again, another person is set"
+    },
+    {
+      "start": 1533.43,
+      "end": 1540.63,
+      "text": "free when body breaks up with some effort. Here in again monks, a certain person is set free in"
+    },
+    {
+      "start": 1540.63,
+      "end": 1547.67,
+      "text": "this very life but without effort. Yet again, another person is set free when body breaks up"
+    },
+    {
+      "start": 1547.67,
+      "end": 1556.23,
+      "text": "without effort. Now monks, how is a person one who in this very life is set free but with some effort?"
+    },
+    {
+      "start": 1557.11,
+      "end": 1564.15,
+      "text": "In this case, a monk lives contemplating the loathesomeness of body, aware of the repulsiveness"
+    },
+    {
+      "start": 1564.15,
+      "end": 1571.35,
+      "text": "of food, aware of his distaste for all the world, aware of impermanence in all the conditioners,"
+    },
+    {
+      "start": 1571.35,
+      "end": 1579.59,
+      "text": "sankaras. Thus, awareness of death is well implanted in the very self. He lives dependent"
+    },
+    {
+      "start": 1579.59,
+      "end": 1587.35,
+      "text": "on these five powers of a pupil, the power of faith, that of conscience, that means the fear"
+    },
+    {
+      "start": 1587.35,
+      "end": 1595.99,
+      "text": "to do wrong, remorse, means a sense of shame of having done wrong, and energy and the power of"
+    },
+    {
+      "start": 1595.99,
+      "end": 1603.99,
+      "text": "wisdom. In him, these five controlling faculties are also manifested in abundance, namely the"
+    },
+    {
+      "start": 1603.99,
+      "end": 1612.07,
+      "text": "controlling faculty of faith, energy, recollection of mindfulness, concentration, and wisdom."
+    },
+    {
+      "start": 1612.79,
+      "end": 1618.15,
+      "text": "Thus, by the preponderance of these five controlling faculties in this very life,"
+    },
+    {
+      "start": 1618.15,
+      "end": 1625.27,
+      "text": "he is set free but with some effort. And how monks is a person again set free when body"
+    },
+    {
+      "start": 1625.27,
+      "end": 1631.83,
+      "text": "breaks up with some effort? In this case, a monk lives contemplating the loathesomeness of body,"
+    },
+    {
+      "start": 1632.39,
+      "end": 1637.11,
+      "text": "aware of the repulsiveness of food, aware of his distaste for all the world,"
+    },
+    {
+      "start": 1637.11,
+      "end": 1643.19,
+      "text": "aware of impermanence in all the conditioners. Thus, awareness of death is well planted in the"
+    },
+    {
+      "start": 1643.19,
+      "end": 1649.75,
+      "text": "very self. He lives dependent on these five powers of a pupil, namely the power of faith,"
+    },
+    {
+      "start": 1649.75,
+      "end": 1656.31,
+      "text": "conscience, remorse, energy, wisdom. But in him, these five controlling faculties are"
+    },
+    {
+      "start": 1656.31,
+      "end": 1663.59,
+      "text": "duly manifested, namely the controlling faculty of faith, energy, recollection of mindfulness,"
+    },
+    {
+      "start": 1663.59,
+      "end": 1669.83,
+      "text": "concentration, and wisdom. Thus, by the dullness of these faculties, he is set free but with"
+    },
+    {
+      "start": 1669.83,
+      "end": 1676.23,
+      "text": "some effort when body breaks up. And how monks is a person set free in this very life but without"
+    },
+    {
+      "start": 1676.23,
+      "end": 1684.23,
+      "text": "effort? In this case, a monk aloof from sense desires, etc, etc, enters and abides in the first"
+    },
+    {
+      "start": 1684.23,
+      "end": 1691.27,
+      "text": "jana, the second jana, third jana, fourth jana. He lives dependent on these five powers of a pupil,"
+    },
+    {
+      "start": 1691.27,
+      "end": 1697.19,
+      "text": "that is faith, conscience, remorse, energy, and wisdom. In him, the five controlling faculties"
+    },
+    {
+      "start": 1697.19,
+      "end": 1703.91,
+      "text": "are manifested in abundance, that is faith, energy, recollection, concentration, wisdom."
+    },
+    {
+      "start": 1704.55,
+      "end": 1710.55,
+      "text": "Thus, by the preponderance of these five controlling faculties, he is set free in this very life"
+    },
+    {
+      "start": 1710.55,
+      "end": 1716.71,
+      "text": "without effort. And how monks is a person again one who is set free without effort when body"
+    },
+    {
+      "start": 1716.71,
+      "end": 1724.31,
+      "text": "breaks up? In this case, a monk aloof from sense desires, etc, enters on the four janas and abides"
+    },
+    {
+      "start": 1724.31,
+      "end": 1731.27,
+      "text": "therein. He lives dependent on the five powers of a pupil. But in him, the five controlling faculties"
+    },
+    {
+      "start": 1731.27,
+      "end": 1738.31,
+      "text": "are duly manifested. Owing to the dullness of these five faculties, it is not till body breaks up that"
+    },
+    {
+      "start": 1738.31,
+      "end": 1743.91,
+      "text": "he is set free without effort. So, these are the four persons found existing in the world."
+    },
+    {
+      "start": 1745.03,
+      "end": 1752.87,
+      "text": "Here, this uttah is about the arahan, how they attain arahanhood. So, here we find there are"
+    },
+    {
+      "start": 1752.87,
+      "end": 1764.95,
+      "text": "different conditions. There is one who is set free before he is dying. He attains arahanhood"
+    },
+    {
+      "start": 1764.95,
+      "end": 1773.59,
+      "text": "before he dies. And it can be with effort or it can be without effort. And then there's another"
+    },
+    {
+      "start": 1773.59,
+      "end": 1783.35,
+      "text": "type who only attains arahanhood on his death bed when he is dying. And that also with effort or"
+    },
+    {
+      "start": 1783.35,
+      "end": 1793.19,
+      "text": "without effort. Then we find the first one, the one who is set free before death with some effort,"
+    },
+    {
+      "start": 1793.91,
+      "end": 1800.79,
+      "text": "he does not have the four janas but the five faculties are strong. Because the five faculties,"
+    },
+    {
+      "start": 1801.43,
+      "end": 1807.83,
+      "text": "five controlling faculties are strong, then he is set free before death. The second one is set free"
+    },
+    {
+      "start": 1807.83,
+      "end": 1815.91,
+      "text": "at death but with some effort, with effort. Also, he does not have the four janas but"
+    },
+    {
+      "start": 1815.91,
+      "end": 1825.19,
+      "text": "he has the five faculties in quite weak. His five faculties are weak and then he is set free only"
+    },
+    {
+      "start": 1825.19,
+      "end": 1833.11,
+      "text": "when at the time of dying. And the third one, he is set free before death but without effort."
+    },
+    {
+      "start": 1833.67,
+      "end": 1840.15,
+      "text": "And this one possesses the four janas and the faculties are also very strong. And the last one"
+    },
+    {
+      "start": 1840.23,
+      "end": 1849.03,
+      "text": "is set free only at the death and without effort. He possesses the four janas but the faculties are"
+    },
+    {
+      "start": 1849.03,
+      "end": 1859.43,
+      "text": "weak. So when a person possesses the four janas, you can see from here that he attains arahanhood"
+    },
+    {
+      "start": 1860.15,
+      "end": 1869.51,
+      "text": "without effort. So with the four janas, he attains arahanhood without effort. Whereas without the"
+    },
+    {
+      "start": 1869.51,
+      "end": 1877.03,
+      "text": "four janas, he needs effort. But this does not mean that he does not have any jana because in all"
+    },
+    {
+      "start": 1877.03,
+      "end": 1885.19,
+      "text": "these cases, he has the five faculties. And in the five faculties, you'll notice the five faculties"
+    },
+    {
+      "start": 1885.19,
+      "end": 1892.31,
+      "text": "are faith, energy, recollection or mindfulness, concentration and wisdom. So one of the faculties"
+    },
+    {
+      "start": 1892.31,
+      "end": 1899.27,
+      "text": "is concentration. And concentration, perfect concentration even for the faculties are the"
+    },
+    {
+      "start": 1899.27,
+      "end": 1906.87,
+      "text": "four janas. So when you say that the faculties are weak, it means probably that he has only one"
+    },
+    {
+      "start": 1906.87,
+      "end": 1913.19,
+      "text": "jana, one jana or two janas, probably one. And then when the faculties are strong,"
+    },
+    {
+      "start": 1913.75,
+      "end": 1921.43,
+      "text": "probably has two or three janas, two or three janas. Whereas when the faculties are perfect,"
+    },
+    {
+      "start": 1921.43,
+      "end": 1928.23,
+      "text": "then he has all the four janas. Because in the earliest uttas, we read that an arahan and an"
+    },
+    {
+      "start": 1928.23,
+      "end": 1937.51,
+      "text": "anagami must possess the janas to attain anagami and arahanhood. So that's about the the janas. And"
+    },
+    {
+      "start": 1937.51,
+      "end": 1944.15,
+      "text": "then you notice that all of them, they are, they contemplate the lotesomeness of the body,"
+    },
+    {
+      "start": 1944.71,
+      "end": 1950.55,
+      "text": "aware of the repulsiveness of food, aware of the distaste for the world, aware of impermanence in"
+    },
+    {
+      "start": 1950.55,
+      "end": 1959.19,
+      "text": "all the conditioners. Thus awareness of death is well planted in the very self. So this awareness"
+    },
+    {
+      "start": 1959.19,
+      "end": 1965.67,
+      "text": "of death is one thing that is very important. If we practice the holy life, we should always"
+    },
+    {
+      "start": 1965.67,
+      "end": 1971.91,
+      "text": "contemplate death. Always remember that death is very near. Anytime we can pass away. Firstly,"
+    },
+    {
+      "start": 1971.91,
+      "end": 1979.27,
+      "text": "it gives us a sense of urgency. And secondly, because of that, as a result of that, now we are"
+    },
+    {
+      "start": 1979.27,
+      "end": 1988.95,
+      "text": "more mindful. Our sapti is stronger. Sapti is very important for concentration and concentration is"
+    },
+    {
+      "start": 1988.95,
+      "end": 1996.23,
+      "text": "very important for the destruction of the asa-vasa. So that's the one thing you have to remember."
+    },
+    {
+      "start": 1996.23,
+      "end": 2002.79,
+      "text": "These few things, lotesomeness of the body, repulsiveness of food, distaste for the world,"
+    },
+    {
+      "start": 2002.79,
+      "end": 2007.19,
+      "text": "impermanence in all the conditioners, all the conditioners and the conditioned things,"
+    },
+    {
+      "start": 2008.15,
+      "end": 2014.23,
+      "text": "then awareness of death. And the second thing we want to note is the five powers of a pupil."
+    },
+    {
+      "start": 2015.99,
+      "end": 2027.19,
+      "text": "Pupil is one who is cultivating the holy life. And these five powers of a pupil are faith. Faith"
+    },
+    {
+      "start": 2027.19,
+      "end": 2032.39,
+      "text": "is quite important. That means having trust or confidence in the Buddha's teachings, especially"
+    },
+    {
+      "start": 2033.11,
+      "end": 2039.59,
+      "text": "normally we say in the triple gem, basically it is the dhamma. And then conscience,"
+    },
+    {
+      "start": 2039.59,
+      "end": 2046.47,
+      "text": "conscience is the fear to do wrong. That means before you do any wrong, you have that fear of"
+    },
+    {
+      "start": 2046.47,
+      "end": 2053.67,
+      "text": "doing wrong. And then that is hiri. Then the third one is remorse. Remorse is a sense of shame,"
+    },
+    {
+      "start": 2054.95,
+      "end": 2060.95,
+      "text": "sense of shame. If we have done anything wrong, we regret it. That is otapal."
+    },
+    {
+      "start": 2061.75,
+      "end": 2068.07,
+      "text": "These two things, conscience and remorse, hiri, otapa, they are quite important qualities for"
+    },
+    {
+      "start": 2068.07,
+      "end": 2075.75,
+      "text": "a person on the spiritual path. And then energy and wisdom, these are the five powers of a pupil."
+    },
+    {
+      "start": 2075.75,
+      "end": 2082.71,
+      "text": "And then the five controlling faculties are faith, energy, recollection or mindfulness,"
+    },
+    {
+      "start": 2083.43,
+      "end": 2090.47,
+      "text": "concentration and wisdom. These five things are also very important. These are part of the"
+    },
+    {
+      "start": 2090.95,
+      "end": 2099.59,
+      "text": "37 bodhipakya dhammas. And the Buddha said that when the noble eightfold path is perfected,"
+    },
+    {
+      "start": 2099.59,
+      "end": 2107.83,
+      "text": "all the 37 bodhipakya dhammas are perfected. The faculties, the powers, the bojanga,"
+    },
+    {
+      "start": 2109.67,
+      "end": 2117.67,
+      "text": "the Aryan eightfold path, etc. So you can see that for liberation in this life,"
+    },
+    {
+      "start": 2118.63,
+      "end": 2124.95,
+      "text": "these few things are important. The constant contemplation of death, then the five powers of"
+    },
+    {
+      "start": 2124.95,
+      "end": 2132.95,
+      "text": "a pupil, the five controlling faculties and the janas. If you have the janas, then we don't need"
+    },
+    {
+      "start": 2132.95,
+      "end": 2141.59,
+      "text": "so much effort. But then we have seen in some earlier sutra that the janas are important if"
+    },
+    {
+      "start": 2141.59,
+      "end": 2148.71,
+      "text": "we want to attain anagami or arahan hood and some people because we find attaining the janas"
+    },
+    {
+      "start": 2148.71,
+      "end": 2156.95,
+      "text": "are so difficult. Then we can concentrate on listening to the sutras because the sotapanna"
+    },
+    {
+      "start": 2156.95,
+      "end": 2163.59,
+      "text": "and the sakha dagami, we don't need the janas. And in the sutras, we find that a lot of people enter"
+    },
+    {
+      "start": 2163.59,
+      "end": 2170.39,
+      "text": "the stream from listening to the sutras. So it is good. We put a lot more effort now on learning"
+    },
+    {
+      "start": 2170.39,
+      "end": 2186.31,
+      "text": "the sutras. Once we have this foundation later, we can concentrate on attaining concentration."
+    }
+  ]
+}

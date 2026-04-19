@@ -1,0 +1,1930 @@
+{
+  "source": "faster-whisper",
+  "model": "tiny",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "en",
+  "duration": 1488.4455625,
+  "segments": [
+    {
+      "start": 0.91,
+      "end": 5.91,
+      "text": "There's a tie, three point, ten, one, one, two, one."
+    },
+    {
+      "start": 5.91,
+      "end": 10.91,
+      "text": "On a certain occasion, the exalted one was staying at Kusinaara in the wood up of rings,"
+    },
+    {
+      "start": 10.91,
+      "end": 13.91,
+      "text": "and the exalted one addressed the man, saying, man,"
+    },
+    {
+      "start": 13.91,
+      "end": 17.91,
+      "text": "his Lord replied those man, so the exalted one said,"
+    },
+    {
+      "start": 17.91,
+      "end": 21.91,
+      "text": "suppose now a man lives dependent on some village or district,"
+    },
+    {
+      "start": 21.91,
+      "end": 24.91,
+      "text": "then a house father or his son comes to visit him,"
+    },
+    {
+      "start": 24.91,
+      "end": 27.91,
+      "text": "and invites him to take his meal for the day."
+    },
+    {
+      "start": 27.91,
+      "end": 30.91,
+      "text": "If he's willing to do so, the man can sense,"
+    },
+    {
+      "start": 30.91,
+      "end": 33.91,
+      "text": "then when the night has passed, he robs himself in good time"
+    },
+    {
+      "start": 33.91,
+      "end": 37.91,
+      "text": "and taking a bowl and out a row sets out for the house of that house"
+    },
+    {
+      "start": 37.91,
+      "end": 40.91,
+      "text": "father or house father's son and the stop for a while."
+    },
+    {
+      "start": 40.91,
+      "end": 42.91,
+      "text": "Here you see the Buddha is saying,"
+    },
+    {
+      "start": 42.91,
+      "end": 47.91,
+      "text": "if he's willing to do so, the man can sense the Buddha did not see"
+    },
+    {
+      "start": 47.91,
+      "end": 52.91,
+      "text": "that if lay people in the house, the man to the house,"
+    },
+    {
+      "start": 52.91,
+      "end": 57.91,
+      "text": "he must go or be seen, the Buddha allowed,"
+    },
+    {
+      "start": 57.91,
+      "end": 59.91,
+      "text": "because there are some man who are more ascetic,"
+    },
+    {
+      "start": 59.91,
+      "end": 62.91,
+      "text": "they rather go in the bath, arms round,"
+    },
+    {
+      "start": 62.91,
+      "end": 65.91,
+      "text": "and they do have to accept house invitation,"
+    },
+    {
+      "start": 65.91,
+      "end": 68.91,
+      "text": "the Buddha said, it is allowable, so it's up to the man,"
+    },
+    {
+      "start": 68.91,
+      "end": 73.91,
+      "text": "but he wants to go to somebody's house for a meal and not."
+    },
+    {
+      "start": 73.91,
+      "end": 76.91,
+      "text": "Then to continue on getting there,"
+    },
+    {
+      "start": 76.91,
+      "end": 79.91,
+      "text": "he sits down on a seat made ready,"
+    },
+    {
+      "start": 79.91,
+      "end": 82.91,
+      "text": "and then that house father or house father's son"
+    },
+    {
+      "start": 82.91,
+      "end": 85.91,
+      "text": "serves him with choice food, both hard and so on."
+    },
+    {
+      "start": 85.91,
+      "end": 88.91,
+      "text": "His own hands, two years eaten his food,"
+    },
+    {
+      "start": 88.91,
+      "end": 92.91,
+      "text": "now it occurs to him, a good thing in truth for me"
+    },
+    {
+      "start": 92.91,
+      "end": 95.91,
+      "text": "to be thus served by a house father or house father's son."
+    },
+    {
+      "start": 95.91,
+      "end": 98.91,
+      "text": "Then he thinks, I should indeed be glad"
+    },
+    {
+      "start": 98.91,
+      "end": 100.91,
+      "text": "to have this house father or house father's son"
+    },
+    {
+      "start": 100.91,
+      "end": 102.91,
+      "text": "serve me like man in the future,"
+    },
+    {
+      "start": 102.91,
+      "end": 105.91,
+      "text": "thus he enjoys the arms giving an insetracted by"
+    },
+    {
+      "start": 105.91,
+      "end": 107.91,
+      "text": "infatuated with him attached to him."
+    },
+    {
+      "start": 107.91,
+      "end": 109.91,
+      "text": "He sees not danger therein,"
+    },
+    {
+      "start": 109.91,
+      "end": 111.91,
+      "text": "he's blind to the escape therefrom."
+    },
+    {
+      "start": 111.91,
+      "end": 114.91,
+      "text": "The result is that the stream of thought is sensual,"
+    },
+    {
+      "start": 114.91,
+      "end": 116.91,
+      "text": "malevolent and harmful to others."
+    },
+    {
+      "start": 116.91,
+      "end": 118.91,
+      "text": "Now man, I declare that what is given to such a man"
+    },
+    {
+      "start": 118.91,
+      "end": 122.91,
+      "text": "has no great food, why so, because the man lives them is,"
+    },
+    {
+      "start": 122.91,
+      "end": 124.91,
+      "text": "can't take the opposite case where a man lives"
+    },
+    {
+      "start": 124.91,
+      "end": 127.91,
+      "text": "dependent on a village or a district, etc."
+    },
+    {
+      "start": 127.91,
+      "end": 130.91,
+      "text": "Then he has eaten his food."
+    },
+    {
+      "start": 130.91,
+      "end": 133.91,
+      "text": "Now no such thought occurred to him as these,"
+    },
+    {
+      "start": 133.91,
+      "end": 136.91,
+      "text": "a good thing for me,"
+    },
+    {
+      "start": 136.91,
+      "end": 140.91,
+      "text": "that means he enjoys the food and then he's thinking"
+    },
+    {
+      "start": 140.91,
+      "end": 142.91,
+      "text": "of enjoying the food again."
+    },
+    {
+      "start": 142.91,
+      "end": 145.91,
+      "text": "But this man, he enjoys the arms giving"
+    },
+    {
+      "start": 145.91,
+      "end": 147.91,
+      "text": "without being attracted by infatuated with it"
+    },
+    {
+      "start": 147.91,
+      "end": 148.91,
+      "text": "or attached to him."
+    },
+    {
+      "start": 148.91,
+      "end": 150.91,
+      "text": "He sees the danger therein,"
+    },
+    {
+      "start": 150.91,
+      "end": 152.91,
+      "text": "blind to the escape therefrom."
+    },
+    {
+      "start": 152.91,
+      "end": 155.91,
+      "text": "The result is that the stream of thought is dispassionate,"
+    },
+    {
+      "start": 155.91,
+      "end": 157.91,
+      "text": "not malevolent but harmless to others."
+    },
+    {
+      "start": 157.91,
+      "end": 160.91,
+      "text": "Now man, I declare that what is given to such a man"
+    },
+    {
+      "start": 160.91,
+      "end": 162.91,
+      "text": "as this great food."
+    },
+    {
+      "start": 162.91,
+      "end": 163.91,
+      "text": "Why so?"
+    },
+    {
+      "start": 163.91,
+      "end": 165.91,
+      "text": "Because the man lives a village."
+    },
+    {
+      "start": 165.91,
+      "end": 168.91,
+      "text": "So here, the Buddha is talking about two types of man."
+    },
+    {
+      "start": 168.91,
+      "end": 172.91,
+      "text": "One is enjoys all the offerings that he gives."
+    },
+    {
+      "start": 172.91,
+      "end": 176.91,
+      "text": "And he indulges in the demores, the other one,"
+    },
+    {
+      "start": 176.91,
+      "end": 178.91,
+      "text": "and knows the danger from them."
+    },
+    {
+      "start": 178.91,
+      "end": 182.91,
+      "text": "And he's not too attached to his offerings."
+    },
+    {
+      "start": 182.91,
+      "end": 184.91,
+      "text": "And he's also a pleasure in this world."
+    },
+    {
+      "start": 184.91,
+      "end": 188.91,
+      "text": "It's also danger for one who is walking the holy life."
+    },
+    {
+      "start": 188.91,
+      "end": 194.25,
+      "text": "And we're still on the first book,"
+    },
+    {
+      "start": 194.25,
+      "end": 196.25,
+      "text": "the chapter of the trees."
+    },
+    {
+      "start": 196.25,
+      "end": 198.25,
+      "text": "Now we come to this with the number three,"
+    },
+    {
+      "start": 198.25,
+      "end": 202.25,
+      "text": "point 13, point 124."
+    },
+    {
+      "start": 202.25,
+      "end": 206.25,
+      "text": "On a certain occasion, the exalted one was going"
+    },
+    {
+      "start": 206.25,
+      "end": 208.25,
+      "text": "his rounds among the co-osulans"
+    },
+    {
+      "start": 208.25,
+      "end": 211.25,
+      "text": "and came to Kapilovatu."
+    },
+    {
+      "start": 211.25,
+      "end": 214.25,
+      "text": "Now Mahanama, the Sakin, heard the news."
+    },
+    {
+      "start": 214.25,
+      "end": 218.25,
+      "text": "They say the exalted one has reached Kapilovatu."
+    },
+    {
+      "start": 218.25,
+      "end": 222.25,
+      "text": "So Mahanama, the Sakin, went to see the exalted one."
+    },
+    {
+      "start": 222.25,
+      "end": 227.25,
+      "text": "And on coming to him, paid homage and stood at one side."
+    },
+    {
+      "start": 227.25,
+      "end": 231.25,
+      "text": "As he does stood there, the exalted one said this to him."
+    },
+    {
+      "start": 231.25,
+      "end": 235.25,
+      "text": "Go you Mahanama and find out some lodging"
+    },
+    {
+      "start": 235.25,
+      "end": 238.25,
+      "text": "where I may spend this one night."
+    },
+    {
+      "start": 238.25,
+      "end": 243.25,
+      "text": "I'll just stop here to make some comments."
+    },
+    {
+      "start": 244.25,
+      "end": 251.25,
+      "text": "This please Kapilovatu is the hometown of our Buddha."
+    },
+    {
+      "start": 251.25,
+      "end": 253.25,
+      "text": "He was a layman."
+    },
+    {
+      "start": 253.25,
+      "end": 256.25,
+      "text": "That's the place where his parents lived."
+    },
+    {
+      "start": 256.25,
+      "end": 261.25,
+      "text": "And Mahanama was the cousin of the Buddha,"
+    },
+    {
+      "start": 261.25,
+      "end": 264.25,
+      "text": "supposed to be cousin."
+    },
+    {
+      "start": 264.25,
+      "end": 268.25,
+      "text": "And he was also supposed to be quite well to do a rich man"
+    },
+    {
+      "start": 268.25,
+      "end": 272.25,
+      "text": "and quite well known person in Kapilovatu."
+    },
+    {
+      "start": 272.25,
+      "end": 275.25,
+      "text": "And to continue."
+    },
+    {
+      "start": 275.25,
+      "end": 278.25,
+      "text": "Very well Lord replied Mahanama the Sakin."
+    },
+    {
+      "start": 278.25,
+      "end": 283.25,
+      "text": "And when to Kapilovatu, where though he searched all through the town,"
+    },
+    {
+      "start": 283.25,
+      "end": 286.25,
+      "text": "he could not find a proper lodging for the exalted one"
+    },
+    {
+      "start": 286.25,
+      "end": 289.25,
+      "text": "in which to spend that one night."
+    },
+    {
+      "start": 289.25,
+      "end": 293.25,
+      "text": "So he returned to where the exalted one was and said,"
+    },
+    {
+      "start": 293.25,
+      "end": 299.25,
+      "text": "Lord, there is no proper lodging where in the exalted one may spend this one night."
+    },
+    {
+      "start": 300.25,
+      "end": 304.25,
+      "text": "But here is Barandu, the Kalaman,"
+    },
+    {
+      "start": 304.25,
+      "end": 310.25,
+      "text": "who was once a cold disciple in the holy life with the exalted one."
+    },
+    {
+      "start": 310.25,
+      "end": 315.25,
+      "text": "Let the exalted one spend this one night in his hermitage."
+    },
+    {
+      "start": 315.25,
+      "end": 317.25,
+      "text": "And just stop here for a while."
+    },
+    {
+      "start": 317.25,
+      "end": 321.25,
+      "text": "This Barandu was a renunciant friend of the Buddha."
+    },
+    {
+      "start": 321.25,
+      "end": 328.25,
+      "text": "When the Buddha was following the external Sakin called Alara Kalama"
+    },
+    {
+      "start": 328.25,
+      "end": 331.25,
+      "text": "and he cultivated the Janas."
+    },
+    {
+      "start": 331.25,
+      "end": 337.25,
+      "text": "So I suppose this Barandu was probably was a good meditation"
+    },
+    {
+      "start": 337.25,
+      "end": 343.25,
+      "text": "because he is supposed to be quite well known as Sakin."
+    },
+    {
+      "start": 343.25,
+      "end": 350.25,
+      "text": "In that town it seems that he used to get a lot of arms food"
+    },
+    {
+      "start": 350.25,
+      "end": 354.25,
+      "text": "and well provided for."
+    },
+    {
+      "start": 354.25,
+      "end": 359.25,
+      "text": "And then the Buddha said, go then Mahanama, spread a mat for me there."
+    },
+    {
+      "start": 359.25,
+      "end": 364.25,
+      "text": "Very well Lord replied, Mahanama, the Sakin and went off to the hermitage of Barandu,"
+    },
+    {
+      "start": 364.25,
+      "end": 365.25,
+      "text": "the Kalaman."
+    },
+    {
+      "start": 365.25,
+      "end": 369.25,
+      "text": "On getting there he spread a mat, said, water ready for feet washing"
+    },
+    {
+      "start": 369.25,
+      "end": 371.25,
+      "text": "and returned to the exalted one."
+    },
+    {
+      "start": 371.25,
+      "end": 373.25,
+      "text": "On coming to him he said,"
+    },
+    {
+      "start": 373.25,
+      "end": 378.25,
+      "text": "Lord, the mat is spread, water is said for feet washing"
+    },
+    {
+      "start": 378.25,
+      "end": 382.25,
+      "text": "that the exalted one do as his deem seasonable."
+    },
+    {
+      "start": 382.25,
+      "end": 386.25,
+      "text": "So the exalted one went to the hermitage of Barandu, the Kalaman."
+    },
+    {
+      "start": 386.25,
+      "end": 390.25,
+      "text": "On arriving there he sat down on a seat made ready"
+    },
+    {
+      "start": 390.25,
+      "end": 393.25,
+      "text": "and so sitting at his feet washed."
+    },
+    {
+      "start": 393.25,
+      "end": 396.25,
+      "text": "Now this thought occurred to Mahanama the Sakin."
+    },
+    {
+      "start": 396.25,
+      "end": 399.25,
+      "text": "It is unseasonable to wait upon the exalted one now."
+    },
+    {
+      "start": 399.25,
+      "end": 401.25,
+      "text": "He is weary."
+    },
+    {
+      "start": 401.25,
+      "end": 403.25,
+      "text": "Tomorrow I will wait upon him."
+    },
+    {
+      "start": 403.25,
+      "end": 407.25,
+      "text": "So saluting the exalted one by the right he departed."
+    },
+    {
+      "start": 408.25,
+      "end": 413.25,
+      "text": "Now when the night was gone Mahanama the Sakin went to the exalted one."
+    },
+    {
+      "start": 413.25,
+      "end": 418.25,
+      "text": "On coming to him he saluted him and sat down at one side."
+    },
+    {
+      "start": 418.25,
+      "end": 421.25,
+      "text": "As he does said the exalted one said this to him."
+    },
+    {
+      "start": 421.25,
+      "end": 426.25,
+      "text": "Mahanama, there are these three teachers found existing in the world."
+    },
+    {
+      "start": 426.25,
+      "end": 428.25,
+      "text": "What three?"
+    },
+    {
+      "start": 428.25,
+      "end": 434.25,
+      "text": "Here in Mahanama, the teacher preaches full comprehension of the sense desires"
+    },
+    {
+      "start": 434.25,
+      "end": 438.25,
+      "text": "but not of the objects of sense, no of feelings."
+    },
+    {
+      "start": 438.25,
+      "end": 445.25,
+      "text": "Here in again Mahanama, a certain teacher preaches full comprehension of sense desires"
+    },
+    {
+      "start": 445.25,
+      "end": 448.25,
+      "text": "and of the objects of sense but not of feelings."
+    },
+    {
+      "start": 448.25,
+      "end": 453.25,
+      "text": "While yet another teacher preaches the full comprehension of all three."
+    },
+    {
+      "start": 453.25,
+      "end": 457.25,
+      "text": "These are the three teachers found existing in the world."
+    },
+    {
+      "start": 457.25,
+      "end": 463.25,
+      "text": "Now these three Mahanama is the conclusion one and the same or is it different."
+    },
+    {
+      "start": 463.25,
+      "end": 469.62,
+      "text": "At these words, barandu the Kalaman said to Mahanama the Sakin."
+    },
+    {
+      "start": 469.62,
+      "end": 473.62,
+      "text": "See it is one and the same Mahanama."
+    },
+    {
+      "start": 473.62,
+      "end": 479.62,
+      "text": "Where at the exalted one said to Mahanama, see it is different Mahanama."
+    },
+    {
+      "start": 479.62,
+      "end": 485.62,
+      "text": "Then a second time barandu said, see it is one and the same Mahanama."
+    },
+    {
+      "start": 485.62,
+      "end": 490.62,
+      "text": "Again the exalted one said, see it is different Mahanama."
+    },
+    {
+      "start": 490.62,
+      "end": 493.62,
+      "text": "Likewise the third time he said the same."
+    },
+    {
+      "start": 493.62,
+      "end": 497.62,
+      "text": "Where a pawn it occurred to barandu the Kalaman."
+    },
+    {
+      "start": 497.62,
+      "end": 502.62,
+      "text": "Here my even to the third time slighted my gota mother recluse."
+    },
+    {
+      "start": 502.62,
+      "end": 507.62,
+      "text": "In the presence of Mahanama the Sakin, a man agreed in importance."
+    },
+    {
+      "start": 507.62,
+      "end": 509.62,
+      "text": "I had better leave Kapilavatu."
+    },
+    {
+      "start": 509.62,
+      "end": 513.62,
+      "text": "So barandu the Kalaman left Kapilavatu."
+    },
+    {
+      "start": 513.62,
+      "end": 519.62,
+      "text": "And in thus departing from Kapilavatu, he was gone for good and came not back anymore."
+    },
+    {
+      "start": 519.62,
+      "end": 524.62,
+      "text": "This is one of the peculiar sutras."
+    },
+    {
+      "start": 524.62,
+      "end": 527.62,
+      "text": "There is not very much dama teaching."
+    },
+    {
+      "start": 527.62,
+      "end": 531.62,
+      "text": "But I give you an insight."
+    },
+    {
+      "start": 531.62,
+      "end": 537.62,
+      "text": "I give you a little knowledge about the Buddha's character."
+    },
+    {
+      "start": 537.62,
+      "end": 541.62,
+      "text": "See when the Buddha asked the question of Mahanama,"
+    },
+    {
+      "start": 541.62,
+      "end": 544.62,
+      "text": "this barandu the ascetic and the intervening."
+    },
+    {
+      "start": 544.62,
+      "end": 546.62,
+      "text": "He gave his opinion."
+    },
+    {
+      "start": 546.62,
+      "end": 548.62,
+      "text": "He prompted this Mahanama."
+    },
+    {
+      "start": 548.62,
+      "end": 552.62,
+      "text": "But the Buddha contradicted him."
+    },
+    {
+      "start": 552.62,
+      "end": 557.62,
+      "text": "And this happened three times until he felt he was slighted."
+    },
+    {
+      "start": 557.62,
+      "end": 560.62,
+      "text": "Because the Buddha had a great reputation."
+    },
+    {
+      "start": 560.62,
+      "end": 566.62,
+      "text": "So he felt that he was slighted in front of Mahanama."
+    },
+    {
+      "start": 566.62,
+      "end": 572.62,
+      "text": "So he got a shame and he left and he came back anymore."
+    },
+    {
+      "start": 572.62,
+      "end": 578.62,
+      "text": "So he would wonder why the Buddha behaved like this."
+    },
+    {
+      "start": 578.62,
+      "end": 589.62,
+      "text": "Is it out of an oins with this barandu that he contradicted him?"
+    },
+    {
+      "start": 589.62,
+      "end": 593.62,
+      "text": "Or is it to tease him?"
+    },
+    {
+      "start": 593.62,
+      "end": 596.62,
+      "text": "Or this is a joke."
+    },
+    {
+      "start": 596.62,
+      "end": 604.62,
+      "text": "So it is different people would have different interpretations about it."
+    },
+    {
+      "start": 604.62,
+      "end": 609.62,
+      "text": "But this is one of the things that I feel."
+    },
+    {
+      "start": 609.62,
+      "end": 616.62,
+      "text": "It is some booksy that the Buddha is quite different from the other hands that he does not have."
+    },
+    {
+      "start": 616.62,
+      "end": 627.62,
+      "text": "So if any sort of personality treats from the layman days,"
+    },
+    {
+      "start": 627.62,
+      "end": 632.62,
+      "text": "but in the sutras we find that even though the Buddha was enlightened,"
+    },
+    {
+      "start": 632.62,
+      "end": 638.62,
+      "text": "sometimes in one of the previous sutras he could joke a bit."
+    },
+    {
+      "start": 638.62,
+      "end": 645.62,
+      "text": "So I feel that this one of his kind of habits from the real days."
+    },
+    {
+      "start": 645.62,
+      "end": 657.38,
+      "text": "So this barandu after he felt that he was slighted he left."
+    },
+    {
+      "start": 657.38,
+      "end": 665.38,
+      "text": "But actually I think the property for him to have done was to ask the Buddha for an explanation."
+    },
+    {
+      "start": 665.38,
+      "end": 669.38,
+      "text": "Why did the Buddha contradict him or something?"
+    },
+    {
+      "start": 669.38,
+      "end": 677.38,
+      "text": "And because he left in that frame of mind he could imagine probably he was angry with the Buddha."
+    },
+    {
+      "start": 677.38,
+      "end": 684.38,
+      "text": "And that sometimes happens with monks or so and lay people."
+    },
+    {
+      "start": 684.38,
+      "end": 686.38,
+      "text": "I am even up to now."
+    },
+    {
+      "start": 686.38,
+      "end": 690.38,
+      "text": "Sometimes if you do not understand the actions of a monk,"
+    },
+    {
+      "start": 690.38,
+      "end": 697.38,
+      "text": "it is better to talk to the monk and ask for an explanation rather than to get angry."
+    },
+    {
+      "start": 697.38,
+      "end": 700.38,
+      "text": "Because sometimes there might be a misunderstanding."
+    },
+    {
+      "start": 700.38,
+      "end": 708.08,
+      "text": "Now he comes to the next sutra, three point, thirteen point, one, two, five."
+    },
+    {
+      "start": 708.08,
+      "end": 714.08,
+      "text": "On a certain occasion the exalted one was taking years of arti in an atapindika spa."
+    },
+    {
+      "start": 714.08,
+      "end": 718.08,
+      "text": "Now atataka, son of a diva, the night was reigning."
+    },
+    {
+      "start": 718.08,
+      "end": 723.62,
+      "text": "That means the morning was still dark."
+    },
+    {
+      "start": 723.62,
+      "end": 728.62,
+      "text": "The whole of Jita grew with exceeding great splend and approached the exalted one."
+    },
+    {
+      "start": 728.62,
+      "end": 734.96,
+      "text": "On coming to him he thought, I will stand the presence of the exalted one."
+    },
+    {
+      "start": 734.96,
+      "end": 738.96,
+      "text": "But he sang down, collapsed, could not stand upright."
+    },
+    {
+      "start": 738.96,
+      "end": 744.96,
+      "text": "Just as butter or oil went pour upon sand, sings down, sings in, cannot abide."
+    },
+    {
+      "start": 744.96,
+      "end": 751.96,
+      "text": "Even so was atataka son of a diva, thinking to stand in the presence of the exalted one."
+    },
+    {
+      "start": 751.96,
+      "end": 756.96,
+      "text": "Unable to do so, but sang down, collapsed and could not stand upright."
+    },
+    {
+      "start": 756.96,
+      "end": 760.96,
+      "text": "I just stopped here to see something about atataka."
+    },
+    {
+      "start": 760.96,
+      "end": 767.96,
+      "text": "Atataka was a lady disciple of the Buddha when he was in the human form."
+    },
+    {
+      "start": 767.96,
+      "end": 774.96,
+      "text": "And he attained an agarmin, the third stage of Arya Hutna, the third fusion."
+    },
+    {
+      "start": 774.96,
+      "end": 778.96,
+      "text": "And so he was reborn in the fine realm."
+    },
+    {
+      "start": 778.96,
+      "end": 787.96,
+      "text": "So when he came back to see the Buddha, his body was so this earth was not suitable for his body."
+    },
+    {
+      "start": 787.96,
+      "end": 791.96,
+      "text": "So he thought of standing by his body, just couldn't stand."
+    },
+    {
+      "start": 791.96,
+      "end": 795.96,
+      "text": "And because he was a new diva, he didn't know what to do."
+    },
+    {
+      "start": 795.96,
+      "end": 800.96,
+      "text": "Then to continue, then the exalted one said to Atataka son of a diva,"
+    },
+    {
+      "start": 800.96,
+      "end": 804.96,
+      "text": "create a gross body form atataka."
+    },
+    {
+      "start": 804.96,
+      "end": 809.96,
+      "text": "I will not reply atataka, and doing as he was bid."
+    },
+    {
+      "start": 809.96,
+      "end": 813.96,
+      "text": "Paid homage to the exalted one and stood at one side."
+    },
+    {
+      "start": 813.96,
+      "end": 816.96,
+      "text": "As he does stood, the exalted one said this to him."
+    },
+    {
+      "start": 816.96,
+      "end": 823.96,
+      "text": "Well atataka, two things go on just the same now as before when you and human form."
+    },
+    {
+      "start": 823.96,
+      "end": 825.96,
+      "text": "Yes Lord they do."
+    },
+    {
+      "start": 825.96,
+      "end": 830.96,
+      "text": "But there are also things going on which I did not experience when I was in human form."
+    },
+    {
+      "start": 830.96,
+      "end": 835.96,
+      "text": "This as Lord, the exalted one now dwells around it by monks and nuns,"
+    },
+    {
+      "start": 835.96,
+      "end": 841.96,
+      "text": "by lay followers male and female, by rulers and royal ministers, by sectarians and their followers,"
+    },
+    {
+      "start": 841.96,
+      "end": 845.96,
+      "text": "even so do I dwells around it by diva sons."
+    },
+    {
+      "start": 845.96,
+      "end": 849.96,
+      "text": "Even from a distance Lord, to diva sons come saying,"
+    },
+    {
+      "start": 849.96,
+      "end": 853.96,
+      "text": "we will hear dhamma from the lips of Atataka, the diva son."
+    },
+    {
+      "start": 853.96,
+      "end": 857.96,
+      "text": "Of three things Lord, I never had enough."
+    },
+    {
+      "start": 857.96,
+      "end": 859.96,
+      "text": "I died regretful of three things."
+    },
+    {
+      "start": 859.96,
+      "end": 860.96,
+      "text": "What three?"
+    },
+    {
+      "start": 860.96,
+      "end": 863.96,
+      "text": "I never had enough of beholding the exalted one."
+    },
+    {
+      "start": 863.96,
+      "end": 865.96,
+      "text": "I died regretting it."
+    },
+    {
+      "start": 865.96,
+      "end": 868.96,
+      "text": "I never had enough of hearing true dhamma."
+    },
+    {
+      "start": 868.96,
+      "end": 870.96,
+      "text": "I died regretting it."
+    },
+    {
+      "start": 870.96,
+      "end": 874.96,
+      "text": "I never had enough of serving the Sangha, the order of monks."
+    },
+    {
+      "start": 874.96,
+      "end": 875.96,
+      "text": "I died regretting it."
+    },
+    {
+      "start": 875.96,
+      "end": 878.96,
+      "text": "These are the three things Lord."
+    },
+    {
+      "start": 878.96,
+      "end": 881.96,
+      "text": "Let's see, I know the suta."
+    },
+    {
+      "start": 881.96,
+      "end": 887.96,
+      "text": "So this atataka, he is saying that in heaven,"
+    },
+    {
+      "start": 887.96,
+      "end": 892.96,
+      "text": "I quite similar as the human world."
+    },
+    {
+      "start": 892.96,
+      "end": 901.96,
+      "text": "But because he was a person who was very knowledgeable in the dhamma."
+    },
+    {
+      "start": 901.96,
+      "end": 906.96,
+      "text": "So people, the other divas would come to him for a dhamma teaching."
+    },
+    {
+      "start": 906.96,
+      "end": 909.96,
+      "text": "And this is in the human realm."
+    },
+    {
+      "start": 909.96,
+      "end": 912.96,
+      "text": "People flock around the Buddha to hear the dhamma."
+    },
+    {
+      "start": 912.96,
+      "end": 919.96,
+      "text": "So he said, wherever he went, the other divas asked him to teach the dhamma."
+    },
+    {
+      "start": 919.96,
+      "end": 925.96,
+      "text": "These three things that he said that he regretted when he died."
+    },
+    {
+      "start": 925.96,
+      "end": 933.96,
+      "text": "The first one that he never had enough of looking at the Sangha, the Buddha."
+    },
+    {
+      "start": 933.96,
+      "end": 939.85,
+      "text": "This shows during the Buddha's time."
+    },
+    {
+      "start": 939.85,
+      "end": 943.85,
+      "text": "His disciples, not only had respect for the Buddha,"
+    },
+    {
+      "start": 943.85,
+      "end": 947.85,
+      "text": "but they had a lot of love for the Buddha."
+    },
+    {
+      "start": 947.85,
+      "end": 952.85,
+      "text": "And so that's why he said he never had enough of seeing the Buddha."
+    },
+    {
+      "start": 952.85,
+      "end": 957.85,
+      "text": "And the second thing was he said he didn't have enough hearing of the true dhamma,"
+    },
+    {
+      "start": 957.85,
+      "end": 963.85,
+      "text": "true dhamma, saddhamma, the original teachings of the Buddha"
+    },
+    {
+      "start": 963.85,
+      "end": 968.85,
+      "text": "because somebody who has an affinity for the Buddha,"
+    },
+    {
+      "start": 968.85,
+      "end": 974.85,
+      "text": "for the dhamma, somebody who has become an area."
+    },
+    {
+      "start": 974.85,
+      "end": 979.85,
+      "text": "The love for hearing the dhamma is very strong."
+    },
+    {
+      "start": 979.85,
+      "end": 984.85,
+      "text": "And the third one is serving the Sangha, serving the order of monks."
+    },
+    {
+      "start": 984.85,
+      "end": 991.85,
+      "text": "As a layman, that the Buddha said a lay person's duty is to provide for the Sangha."
+    },
+    {
+      "start": 991.85,
+      "end": 995.85,
+      "text": "And so he was one of those who served the Sangha a lot,"
+    },
+    {
+      "start": 995.85,
+      "end": 997.85,
+      "text": "and he loved doing it."
+    },
+    {
+      "start": 997.85,
+      "end": 1003.1,
+      "text": "Now, now this is the three point thirteen point one, two, six."
+    },
+    {
+      "start": 1003.1,
+      "end": 1009.1,
+      "text": "On a certain occasion, the exalted one was staying near bananas at E.C. Patana in Antelope Park."
+    },
+    {
+      "start": 1009.1,
+      "end": 1012.1,
+      "text": "Then the exalted one, roving himself in good time,"
+    },
+    {
+      "start": 1012.1,
+      "end": 1017.1,
+      "text": "and taking bowl and outer rope, set out to quest for arms in bananas."
+    },
+    {
+      "start": 1017.1,
+      "end": 1023.1,
+      "text": "Now the exalted one, who are roaming for arms near the fig tree at the cattle gathering,"
+    },
+    {
+      "start": 1023.1,
+      "end": 1027.1,
+      "text": "saw a certain monk whose delight was in the empty outer joys of sense,"
+    },
+    {
+      "start": 1027.1,
+      "end": 1035.1,
+      "text": "lacking concentration and steady, not composed of flighty mind, with senses uncontrolled."
+    },
+    {
+      "start": 1035.1,
+      "end": 1040.1,
+      "text": "On seeing him, he said this to that monk, monk, monk."
+    },
+    {
+      "start": 1040.1,
+      "end": 1044.1,
+      "text": "On him, who is corrupt, and wreaks with the stench of scaring,"
+    },
+    {
+      "start": 1044.1,
+      "end": 1047.1,
+      "text": "the flies will surely settle and attack him."
+    },
+    {
+      "start": 1047.1,
+      "end": 1049.1,
+      "text": "They cannot feel to do so."
+    },
+    {
+      "start": 1049.1,
+      "end": 1055.1,
+      "text": "Then that monk thus admonished by the exalted one with this warning for strong Easter."
+    },
+    {
+      "start": 1055.1,
+      "end": 1060.1,
+      "text": "When the exalted one had gone, his rounds for arms in bananas"
+    },
+    {
+      "start": 1060.1,
+      "end": 1064.1,
+      "text": "and had returned and eaten his meal, he addressed the monk saying,"
+    },
+    {
+      "start": 1064.1,
+      "end": 1069.1,
+      "text": "monks, after roving myself in good time and taking bowl and outer rope,"
+    },
+    {
+      "start": 1069.1,
+      "end": 1074.1,
+      "text": "etc, I saw a certain monk, and he told them all that happened."
+    },
+    {
+      "start": 1074.1,
+      "end": 1079.1,
+      "text": "And that monk thus admonished by me with that warning was strong Easter."
+    },
+    {
+      "start": 1079.1,
+      "end": 1083.1,
+      "text": "Had these words a certain monk said to the exalted one,"
+    },
+    {
+      "start": 1083.1,
+      "end": 1089.1,
+      "text": "pray a lot, what is corrupt, what is the stench of scaring, what are flies?"
+    },
+    {
+      "start": 1089.1,
+      "end": 1096.1,
+      "text": "Green monk is corrupt, melis is the stench of scaring, evil and profitable ways"
+    },
+    {
+      "start": 1096.1,
+      "end": 1098.1,
+      "text": "of thought of flies."
+    },
+    {
+      "start": 1098.1,
+      "end": 1102.1,
+      "text": "On him, who is corrupt and wreaks with the stench of scaring,"
+    },
+    {
+      "start": 1102.1,
+      "end": 1105.1,
+      "text": "the flies will surely settle and attack him."
+    },
+    {
+      "start": 1105.1,
+      "end": 1108.1,
+      "text": "They cannot feel to do so."
+    },
+    {
+      "start": 1108.1,
+      "end": 1110.1,
+      "text": "And that's the end of the sutta."
+    },
+    {
+      "start": 1110.1,
+      "end": 1115.1,
+      "text": "Buddha is saying that even monk, his mind is not developed."
+    },
+    {
+      "start": 1115.1,
+      "end": 1119.1,
+      "text": "His mind is not concentrated."
+    },
+    {
+      "start": 1119.1,
+      "end": 1126.1,
+      "text": "Then he only seeks for enjoying happiness in the outer world."
+    },
+    {
+      "start": 1126.1,
+      "end": 1129.1,
+      "text": "And then these are the things that these two appear."
+    },
+    {
+      "start": 1129.1,
+      "end": 1133.1,
+      "text": "One is greed, otherwise melis or ill will anger."
+    },
+    {
+      "start": 1133.1,
+      "end": 1139.82,
+      "text": "And because of that, he will have a lot of evil and profitable thoughts."
+    },
+    {
+      "start": 1139.82,
+      "end": 1143.82,
+      "text": "Now the next two ties three point thirteen point one two eight."
+    },
+    {
+      "start": 1143.82,
+      "end": 1147.82,
+      "text": "Now the variable anuruda went to see the variable sari putta."
+    },
+    {
+      "start": 1147.82,
+      "end": 1152.82,
+      "text": "On coming to him, he greeted him curtiously and after the exchange of greetings and curtices"
+    },
+    {
+      "start": 1152.82,
+      "end": 1154.82,
+      "text": "sat down at one side."
+    },
+    {
+      "start": 1154.82,
+      "end": 1157.82,
+      "text": "So seated, the variable anuruda said this."
+    },
+    {
+      "start": 1157.82,
+      "end": 1164.82,
+      "text": "Here in this world a friend sari putta put the deva side, purified and surpassing that of men."
+    },
+    {
+      "start": 1164.82,
+      "end": 1167.82,
+      "text": "I can see the thousand-fold world system."
+    },
+    {
+      "start": 1168.82,
+      "end": 1171.82,
+      "text": "Strainers and unshaken is my energy."
+    },
+    {
+      "start": 1171.82,
+      "end": 1174.82,
+      "text": "Mindfulness is set up in me and trouble."
+    },
+    {
+      "start": 1174.82,
+      "end": 1176.82,
+      "text": "My body is calmed, nor perturbed."
+    },
+    {
+      "start": 1176.82,
+      "end": 1179.82,
+      "text": "My mind is collected, one pointed."
+    },
+    {
+      "start": 1179.82,
+      "end": 1184.82,
+      "text": "Yet for all that my heart is not released from the asavas without grasping."
+    },
+    {
+      "start": 1184.82,
+      "end": 1190.2,
+      "text": "And then remember sari putta said, well anuruda,"
+    },
+    {
+      "start": 1190.2,
+      "end": 1194.2,
+      "text": "as to your statement about seeing the thousand-fold world system,"
+    },
+    {
+      "start": 1194.2,
+      "end": 1196.2,
+      "text": "that is just your conceit."
+    },
+    {
+      "start": 1196.2,
+      "end": 1200.2,
+      "text": "It is to your statement about being stranness and unshaken and so forth."
+    },
+    {
+      "start": 1200.2,
+      "end": 1202.2,
+      "text": "That is just arrogance."
+    },
+    {
+      "start": 1202.2,
+      "end": 1206.2,
+      "text": "As to your statement about your heart not being released from the asavas,"
+    },
+    {
+      "start": 1206.2,
+      "end": 1208.2,
+      "text": "that is just worrying."
+    },
+    {
+      "start": 1208.2,
+      "end": 1211.2,
+      "text": "It would indeed be well for the venerable anuruda."
+    },
+    {
+      "start": 1211.2,
+      "end": 1214.2,
+      "text": "If he were to abandon these three conditions,"
+    },
+    {
+      "start": 1214.2,
+      "end": 1216.2,
+      "text": "if he were not to think about them,"
+    },
+    {
+      "start": 1216.2,
+      "end": 1220.2,
+      "text": "but were to focus his mind on the deathless element."
+    },
+    {
+      "start": 1220.2,
+      "end": 1224.2,
+      "text": "So later on the venerable anuruda abandoned these three conditions,"
+    },
+    {
+      "start": 1224.2,
+      "end": 1228.2,
+      "text": "they no attention to them but focused his mind on the deathless element."
+    },
+    {
+      "start": 1228.2,
+      "end": 1231.2,
+      "text": "That he came to pass that the venerable anuruda,"
+    },
+    {
+      "start": 1231.2,
+      "end": 1235.2,
+      "text": "living alone, secluded, earnest, ardent and aspiring."
+    },
+    {
+      "start": 1235.2,
+      "end": 1239.2,
+      "text": "In no long time attained a goal supreme of the holy life,"
+    },
+    {
+      "start": 1239.2,
+      "end": 1243.2,
+      "text": "for which the clansmen rightly go forth from home to the homeless."
+    },
+    {
+      "start": 1243.2,
+      "end": 1248.2,
+      "text": "Even in this very life he himself by his own intrusional powers,"
+    },
+    {
+      "start": 1248.2,
+      "end": 1251.2,
+      "text": "realized it and having attained it and dropped therein,"
+    },
+    {
+      "start": 1252.2,
+      "end": 1254.2,
+      "text": "for he knew birth is destroyed,"
+    },
+    {
+      "start": 1254.2,
+      "end": 1256.2,
+      "text": "lived is the holy life,"
+    },
+    {
+      "start": 1256.2,
+      "end": 1260.2,
+      "text": "that is my task for me there is no more being."
+    },
+    {
+      "start": 1260.2,
+      "end": 1264.2,
+      "text": "And the venerable anuruda was another of the other hands."
+    },
+    {
+      "start": 1264.2,
+      "end": 1268.2,
+      "text": "And this is what you find that our venerable anuruda,"
+    },
+    {
+      "start": 1268.2,
+      "end": 1271.2,
+      "text": "even before he had destroyed the asavas,"
+    },
+    {
+      "start": 1271.2,
+      "end": 1274.2,
+      "text": "these asavas are the uncontrolled mental outflows,"
+    },
+    {
+      "start": 1274.2,
+      "end": 1277.2,
+      "text": "including our consciousness,"
+    },
+    {
+      "start": 1277.2,
+      "end": 1280.2,
+      "text": "and which makes up the whole world."
+    },
+    {
+      "start": 1280.2,
+      "end": 1283.2,
+      "text": "And before he had attained to our handhood,"
+    },
+    {
+      "start": 1283.2,
+      "end": 1286.2,
+      "text": "now he had already developed great psychic power."
+    },
+    {
+      "start": 1286.2,
+      "end": 1291.2,
+      "text": "Whenever anuruda is famous for his deva vision,"
+    },
+    {
+      "start": 1291.2,
+      "end": 1295.2,
+      "text": "he was supposed to be able to see the whole world system,"
+    },
+    {
+      "start": 1295.2,
+      "end": 1297.2,
+      "text": "like in the palm of his hand,"
+    },
+    {
+      "start": 1297.2,
+      "end": 1299.2,
+      "text": "this thousand four world system probably,"
+    },
+    {
+      "start": 1299.2,
+      "end": 1302.2,
+      "text": "like a gay-like scene."
+    },
+    {
+      "start": 1302.2,
+      "end": 1306.2,
+      "text": "And this uta also shows the great wisdom of Sariputa,"
+    },
+    {
+      "start": 1306.2,
+      "end": 1308.2,
+      "text": "Sariputa,"
+    },
+    {
+      "start": 1308.2,
+      "end": 1310.2,
+      "text": "the budasidna,"
+    },
+    {
+      "start": 1310.2,
+      "end": 1314.2,
+      "text": "just like a king has a son,"
+    },
+    {
+      "start": 1314.2,
+      "end": 1318.2,
+      "text": "who is like a wise royal,"
+    },
+    {
+      "start": 1318.2,
+      "end": 1324.2,
+      "text": "this the budasidna, Sariputa is like the son of the dama king,"
+    },
+    {
+      "start": 1324.2,
+      "end": 1329.2,
+      "text": "and he turns the dama we will exactly like the buda."
+    },
+    {
+      "start": 1329.2,
+      "end": 1335.2,
+      "text": "And so here we can see the wisdom of the Sariputa,"
+    },
+    {
+      "start": 1335.2,
+      "end": 1338.2,
+      "text": "in guiding our variable anuruda,"
+    },
+    {
+      "start": 1338.2,
+      "end": 1344.2,
+      "text": "to attain the attain our handhood."
+    },
+    {
+      "start": 1344.2,
+      "end": 1347.2,
+      "text": "And this is one of the sutras,"
+    },
+    {
+      "start": 1347.2,
+      "end": 1351.2,
+      "text": "which also contradicts the Mahayana books."
+    },
+    {
+      "start": 1351.2,
+      "end": 1354.2,
+      "text": "We see that Sariputa,"
+    },
+    {
+      "start": 1354.2,
+      "end": 1358.2,
+      "text": "as of every inferior wisdom."
+    },
+    {
+      "start": 1358.2,
+      "end": 1360.2,
+      "text": "Now he comes to another sutra,"
+    },
+    {
+      "start": 1360.2,
+      "end": 1363.2,
+      "text": "3.13.129."
+    },
+    {
+      "start": 1364.2,
+      "end": 1365.2,
+      "text": "Mons,"
+    },
+    {
+      "start": 1365.2,
+      "end": 1368.2,
+      "text": "There are these three things which are practiced in secret,"
+    },
+    {
+      "start": 1368.2,
+      "end": 1369.2,
+      "text": "not openly."
+    },
+    {
+      "start": 1369.2,
+      "end": 1370.2,
+      "text": "What are they?"
+    },
+    {
+      "start": 1370.2,
+      "end": 1374.2,
+      "text": "The ways of women full as secret, not open."
+    },
+    {
+      "start": 1374.2,
+      "end": 1378.2,
+      "text": "Brahmins, practice the mantras in secret, not openly."
+    },
+    {
+      "start": 1378.2,
+      "end": 1380.2,
+      "text": "Those of wrong or perverse views,"
+    },
+    {
+      "start": 1380.2,
+      "end": 1383.2,
+      "text": "all the views secretly, not openly."
+    },
+    {
+      "start": 1383.2,
+      "end": 1385.2,
+      "text": "These are the three things."
+    },
+    {
+      "start": 1385.2,
+      "end": 1386.2,
+      "text": "Mons,"
+    },
+    {
+      "start": 1386.2,
+      "end": 1389.2,
+      "text": "There are these three things we shine forth for all to see,"
+    },
+    {
+      "start": 1389.2,
+      "end": 1391.2,
+      "text": "which are not hidden."
+    },
+    {
+      "start": 1391.2,
+      "end": 1392.2,
+      "text": "What three?"
+    },
+    {
+      "start": 1392.2,
+      "end": 1394.2,
+      "text": "The this of the moon shines for all to see,"
+    },
+    {
+      "start": 1394.2,
+      "end": 1395.2,
+      "text": "it is not hidden."
+    },
+    {
+      "start": 1395.2,
+      "end": 1398.2,
+      "text": "The this of the sun does likewise."
+    },
+    {
+      "start": 1398.2,
+      "end": 1402.2,
+      "text": "The dama venaya of the tatagata or the buda,"
+    },
+    {
+      "start": 1402.2,
+      "end": 1404.2,
+      "text": "shines for all to see,"
+    },
+    {
+      "start": 1404.2,
+      "end": 1405.2,
+      "text": "it is not hidden."
+    },
+    {
+      "start": 1405.2,
+      "end": 1407.2,
+      "text": "These are the three things."
+    },
+    {
+      "start": 1407.2,
+      "end": 1410.2,
+      "text": "So in this sutra, the buda said,"
+    },
+    {
+      "start": 1410.2,
+      "end": 1414.2,
+      "text": "the most important thing here is that the dama venaya,"
+    },
+    {
+      "start": 1414.2,
+      "end": 1417.2,
+      "text": "that means the teachings of the buda,"
+    },
+    {
+      "start": 1417.2,
+      "end": 1419.2,
+      "text": "are not secret."
+    },
+    {
+      "start": 1419.2,
+      "end": 1422.2,
+      "text": "It is open for all to see,"
+    },
+    {
+      "start": 1422.2,
+      "end": 1424.2,
+      "text": "and the dama venaya,"
+    },
+    {
+      "start": 1424.2,
+      "end": 1426.2,
+      "text": "dama is the sutras."
+    },
+    {
+      "start": 1426.2,
+      "end": 1427.2,
+      "text": "We finally,"
+    },
+    {
+      "start": 1427.2,
+      "end": 1429.2,
+      "text": "and the chapter of the fours,"
+    },
+    {
+      "start": 1429.2,
+      "end": 1430.2,
+      "text": "and the buda said,"
+    },
+    {
+      "start": 1430.2,
+      "end": 1432.2,
+      "text": "dama refers to the sutras."
+    },
+    {
+      "start": 1432.2,
+      "end": 1436.2,
+      "text": "Vinaya refers to the monastic and disciplinary court,"
+    },
+    {
+      "start": 1436.2,
+      "end": 1438.2,
+      "text": "for the monks and nuns."
+    },
+    {
+      "start": 1438.2,
+      "end": 1440.2,
+      "text": "So this dama venaya,"
+    },
+    {
+      "start": 1440.2,
+      "end": 1443.2,
+      "text": "are the complete teachings of the buda,"
+    },
+    {
+      "start": 1443.2,
+      "end": 1445.2,
+      "text": "the word triptaka,"
+    },
+    {
+      "start": 1445.2,
+      "end": 1446.2,
+      "text": "or triptaka,"
+    },
+    {
+      "start": 1446.2,
+      "end": 1448.2,
+      "text": "and develop later after the budas time."
+    },
+    {
+      "start": 1448.2,
+      "end": 1451.2,
+      "text": "So here,"
+    },
+    {
+      "start": 1451.2,
+      "end": 1455.2,
+      "text": "the buda is saying that the budas teachings are not secret."
+    },
+    {
+      "start": 1455.2,
+      "end": 1457.2,
+      "text": "There's nothing secret about the budas teachings."
+    },
+    {
+      "start": 1457.2,
+      "end": 1461.2,
+      "text": "It's only later that people"
+    },
+    {
+      "start": 1461.2,
+      "end": 1465.2,
+      "text": "practice secret teachings in,"
+    },
+    {
+      "start": 1465.2,
+      "end": 1467.2,
+      "text": "in so called budism,"
+    },
+    {
+      "start": 1467.2,
+      "end": 1469.2,
+      "text": "like even mantras,"
+    },
+    {
+      "start": 1469.2,
+      "end": 1471.2,
+      "text": "mantras are come from the Brahmins,"
+    },
+    {
+      "start": 1471.2,
+      "end": 1473.2,
+      "text": "they're not come from the buda,"
+    },
+    {
+      "start": 1473.2,
+      "end": 1476.2,
+      "text": "according to our teravada teachings."
+    },
+    {
+      "start": 1476.2,
+      "end": 1479.2,
+      "text": "And so we have to be careful of any secret teachings."
+    },
+    {
+      "start": 1479.2,
+      "end": 1484.2,
+      "text": "Anything that is secret done is,"
+    },
+    {
+      "start": 1484.2,
+      "end": 1487.2,
+      "text": "we have to be wary of it."
+    }
+  ]
+}

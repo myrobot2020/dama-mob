@@ -1,0 +1,2420 @@
+{
+  "source": "faster-whisper",
+  "model": "tiny",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "en",
+  "duration": 1650.1493125,
+  "segments": [
+    {
+      "start": 0.91,
+      "end": 4.41,
+      "text": "The next you've done is three point eleven point one-of-five."
+    },
+    {
+      "start": 4.41,
+      "end": 8.67,
+      "text": "Now, I'm not happy in Dekla, the house father came to see the exalted one."
+    },
+    {
+      "start": 8.67,
+      "end": 12.71,
+      "text": "When coming to him, he salute to the exalted one and said down at one side."
+    },
+    {
+      "start": 12.71,
+      "end": 16.21,
+      "text": "As he said, the exalted one said this to him."
+    },
+    {
+      "start": 16.21,
+      "end": 20.31,
+      "text": "How father went to Thorn, Chittar, his unguarded,"
+    },
+    {
+      "start": 20.31,
+      "end": 22.91,
+      "text": "bodily action also is unguarded."
+    },
+    {
+      "start": 22.91,
+      "end": 26.91,
+      "text": "Speech and mental action also are unguarded."
+    },
+    {
+      "start": 26.91,
+      "end": 30.91,
+      "text": "In him who's bodily action speech and mental action are unguarded,"
+    },
+    {
+      "start": 30.91,
+      "end": 32.91,
+      "text": "they are saturated with lust."
+    },
+    {
+      "start": 32.91,
+      "end": 36.41,
+      "text": "When these are thus saturated with lust, they are rotten."
+    },
+    {
+      "start": 36.41,
+      "end": 39.91,
+      "text": "When they are rotten, rotten one's death is not auspicious."
+    },
+    {
+      "start": 39.91,
+      "end": 41.91,
+      "text": "One has no happy ending."
+    },
+    {
+      "start": 41.91,
+      "end": 44.91,
+      "text": "Now, how's father?"
+    },
+    {
+      "start": 44.91,
+      "end": 49.41,
+      "text": "Just as when a peaked house is unthessed, the peat is not protected."
+    },
+    {
+      "start": 49.41,
+      "end": 52.91,
+      "text": "The roof peams are not protected. The wall is not protected."
+    },
+    {
+      "start": 52.91,
+      "end": 55.91,
+      "text": "The peat, roof peams and walls are saturated."
+    },
+    {
+      "start": 55.91,
+      "end": 56.91,
+      "text": "The rotten."
+    },
+    {
+      "start": 56.91,
+      "end": 62.91,
+      "text": "This so went forward is unguarded, bodily action is unguarded."
+    },
+    {
+      "start": 62.91,
+      "end": 65.91,
+      "text": "Speech and mental action also are unguarded."
+    },
+    {
+      "start": 65.91,
+      "end": 69.91,
+      "text": "In him who's bodily action speech and mental action are unguarded."
+    },
+    {
+      "start": 69.91,
+      "end": 71.91,
+      "text": "They are saturated with lust."
+    },
+    {
+      "start": 71.91,
+      "end": 74.91,
+      "text": "When these are thus saturated with lust, they are rotten."
+    },
+    {
+      "start": 74.91,
+      "end": 76.91,
+      "text": "When they are rotten, one's death is not auspicious."
+    },
+    {
+      "start": 76.91,
+      "end": 79.91,
+      "text": "One has no happy ending."
+    },
+    {
+      "start": 80.91,
+      "end": 83.91,
+      "text": "And then vice versa."
+    },
+    {
+      "start": 83.91,
+      "end": 87.91,
+      "text": "It's merely for the conversal."
+    },
+    {
+      "start": 87.91,
+      "end": 92.91,
+      "text": "And they should have the Buddha saying, when the thorn or chitta is unguarded."
+    },
+    {
+      "start": 92.91,
+      "end": 102.91,
+      "text": "And the three kamas, the bodily karma, the speech and mental karma are unguarded."
+    },
+    {
+      "start": 102.91,
+      "end": 104.91,
+      "text": "They are saturated with lust."
+    },
+    {
+      "start": 104.91,
+      "end": 109.91,
+      "text": "And this, as I was saying, just now, that in the early years of that,"
+    },
+    {
+      "start": 109.91,
+      "end": 114.91,
+      "text": "that the thorn or chitta is different from the mental karma,"
+    },
+    {
+      "start": 114.91,
+      "end": 118.91,
+      "text": "the mental karma is malo karma, the thorn or chitta."
+    },
+    {
+      "start": 118.91,
+      "end": 122.91,
+      "text": "It's just a thought, there's not a volition."
+    },
+    {
+      "start": 122.91,
+      "end": 124.91,
+      "text": "It's not intention."
+    },
+    {
+      "start": 124.91,
+      "end": 128.91,
+      "text": "Like in the Dharma, father, verse number one,"
+    },
+    {
+      "start": 128.91,
+      "end": 131.91,
+      "text": "Buddha says, the mind is the four-runner of all."
+    },
+    {
+      "start": 131.91,
+      "end": 134.91,
+      "text": "He will say, the mind is chief, mind-made at the,"
+    },
+    {
+      "start": 134.91,
+      "end": 137.91,
+      "text": "he wants peace or acts with a wicked mind."
+    },
+    {
+      "start": 137.91,
+      "end": 140.91,
+      "text": "Because of that suffering, follows one, even as the will,"
+    },
+    {
+      "start": 140.91,
+      "end": 143.91,
+      "text": "follows the hoof of the drop of ox."
+    },
+    {
+      "start": 143.91,
+      "end": 149.91,
+      "text": "So, this is the thought, the chitta."
+    },
+    {
+      "start": 149.91,
+      "end": 156.91,
+      "text": "Before we add true body and speech or thought,"
+    },
+    {
+      "start": 156.91,
+      "end": 158.91,
+      "text": "we think this."
+    },
+    {
+      "start": 158.91,
+      "end": 163.91,
+      "text": "So, this is why the mind and the thinking is very important."
+    },
+    {
+      "start": 163.91,
+      "end": 168.91,
+      "text": "And so, if we are trying to practice as spiritual life,"
+    },
+    {
+      "start": 168.91,
+      "end": 171.91,
+      "text": "we must always God, our mind."
+    },
+    {
+      "start": 171.91,
+      "end": 174.91,
+      "text": "We don't listen to our mind, whatever happens in our mind."
+    },
+    {
+      "start": 174.91,
+      "end": 176.91,
+      "text": "We try to remain indifferent."
+    },
+    {
+      "start": 176.91,
+      "end": 179.91,
+      "text": "We may need one image, just like an observer."
+    },
+    {
+      "start": 179.91,
+      "end": 183.91,
+      "text": "We know that the mind is impermanent, whatever."
+    },
+    {
+      "start": 183.91,
+      "end": 188.91,
+      "text": "However, it wants to react."
+    },
+    {
+      "start": 188.91,
+      "end": 192.91,
+      "text": "Sometimes it can react, but strongly,"
+    },
+    {
+      "start": 192.91,
+      "end": 195.91,
+      "text": "we just try to remain calm and embodiment."
+    },
+    {
+      "start": 195.91,
+      "end": 199.22,
+      "text": "It's observable."
+    },
+    {
+      "start": 199.22,
+      "end": 202.22,
+      "text": "The next two guys, three, point eleven, point one,"
+    },
+    {
+      "start": 202.22,
+      "end": 203.22,
+      "text": "one, one, one, one."
+    },
+    {
+      "start": 203.22,
+      "end": 204.22,
+      "text": "Who does it?"
+    },
+    {
+      "start": 204.22,
+      "end": 207.22,
+      "text": "Man, there are these three courses of the original actions."
+    },
+    {
+      "start": 207.22,
+      "end": 208.22,
+      "text": "What three?"
+    },
+    {
+      "start": 208.22,
+      "end": 211.22,
+      "text": "This is generated for things in the past,"
+    },
+    {
+      "start": 211.22,
+      "end": 213.22,
+      "text": "based on desire."
+    },
+    {
+      "start": 213.22,
+      "end": 218.22,
+      "text": "For the like things in the future, as well as things of the present time,"
+    },
+    {
+      "start": 218.22,
+      "end": 219.22,
+      "text": "based on desire."
+    },
+    {
+      "start": 219.22,
+      "end": 223.22,
+      "text": "And how monks is this desire generated, what things in the past?"
+    },
+    {
+      "start": 223.22,
+      "end": 228.22,
+      "text": "When remembers and turns over in his mind, thoughts about things,"
+    },
+    {
+      "start": 228.22,
+      "end": 230.22,
+      "text": "based on desire in the past."
+    },
+    {
+      "start": 230.22,
+      "end": 233.22,
+      "text": "As he does so, desire is generated."
+    },
+    {
+      "start": 233.22,
+      "end": 238.22,
+      "text": "Becoming, becoming desires he is affected by those things."
+    },
+    {
+      "start": 238.22,
+      "end": 241.22,
+      "text": "I call this a fatter monks, that heart full of lust."
+    },
+    {
+      "start": 242.22,
+      "end": 246.22,
+      "text": "That is how desires generated for things in the past,"
+    },
+    {
+      "start": 246.22,
+      "end": 247.22,
+      "text": "based on desire."
+    },
+    {
+      "start": 247.22,
+      "end": 251.22,
+      "text": "And how monks is this desire generated for things in the future."
+    },
+    {
+      "start": 251.22,
+      "end": 254.22,
+      "text": "One thing about, and turns over, in his mind,"
+    },
+    {
+      "start": 254.22,
+      "end": 257.22,
+      "text": "they thought of things based on desire in the future."
+    },
+    {
+      "start": 257.22,
+      "end": 261.22,
+      "text": "And see, does so desires generated, et cetera?"
+    },
+    {
+      "start": 261.22,
+      "end": 264.22,
+      "text": "And how monks is this desire generated in the present."
+    },
+    {
+      "start": 264.22,
+      "end": 268.22,
+      "text": "One thing is about things in the present, based on desire."
+    },
+    {
+      "start": 268.22,
+      "end": 273.02,
+      "text": "the sole desire is generated, becoming desire is affected by those things."
+    },
+    {
+      "start": 273.02,
+      "end": 276.22,
+      "text": "I call this a factor amongst that heart full of lust."
+    },
+    {
+      "start": 276.22,
+      "end": 279.72,
+      "text": "That is how desire is generated, but things in the present"
+    },
+    {
+      "start": 279.72,
+      "end": 281.42,
+      "text": "base upon design."
+    },
+    {
+      "start": 281.42,
+      "end": 285.72,
+      "text": "These months are the three causes of the original actions."
+    },
+    {
+      "start": 285.72,
+      "end": 287.22,
+      "text": "And this is a tab here."
+    },
+    {
+      "start": 287.22,
+      "end": 294.22,
+      "text": "The Buddha is saying that because of thinking, remembering, for example,"
+    },
+    {
+      "start": 295.22,
+      "end": 300.22,
+      "text": "things in the past, thoughts about things in the past, which gives us pleasure,"
+    },
+    {
+      "start": 300.22,
+      "end": 302.22,
+      "text": "which gives us happiness."
+    },
+    {
+      "start": 302.22,
+      "end": 308.22,
+      "text": "And then thinking about it, desire is generated again for those things in the past."
+    },
+    {
+      "start": 308.22,
+      "end": 318.22,
+      "text": "And similarly for future things based on our past experience of happiness and pleasure,"
+    },
+    {
+      "start": 318.22,
+      "end": 323.22,
+      "text": "we project into the future, we want to experience those things again in the future."
+    },
+    {
+      "start": 323.22,
+      "end": 330.22,
+      "text": "And also in the present, if we see something, or we hear something which reminds us of the pleasure"
+    },
+    {
+      "start": 330.22,
+      "end": 338.22,
+      "text": "that we experienced before, then again, the desire arises immediately in the present."
+    },
+    {
+      "start": 338.22,
+      "end": 345.22,
+      "text": "So it is a thinking that causes the desire, and the desire leads to craving and actions,"
+    },
+    {
+      "start": 345.22,
+      "end": 349.22,
+      "text": "and that world caused the rebirth."
+    },
+    {
+      "start": 350.22,
+      "end": 353.22,
+      "text": "Now the next chapter is also connected with this."
+    },
+    {
+      "start": 353.22,
+      "end": 357.22,
+      "text": "The next chapter is three point eleven point hundred and ten."
+    },
+    {
+      "start": 357.22,
+      "end": 358.22,
+      "text": "A good as a month."
+    },
+    {
+      "start": 358.22,
+      "end": 362.22,
+      "text": "There are these three causes which prevent arising of actions."
+    },
+    {
+      "start": 362.22,
+      "end": 364.22,
+      "text": "What three?"
+    },
+    {
+      "start": 364.22,
+      "end": 369.22,
+      "text": "Desire for things in the past, based on desire is not generated."
+    },
+    {
+      "start": 369.22,
+      "end": 376.22,
+      "text": "Desire for the light things in the future, as well as at the present time, is not generated."
+    },
+    {
+      "start": 376.22,
+      "end": 382.22,
+      "text": "And how months is desire for things in the past, based on desire not generated?"
+    },
+    {
+      "start": 382.22,
+      "end": 388.22,
+      "text": "One fully understands the future result of things which in the past, for based on desire."
+    },
+    {
+      "start": 388.22,
+      "end": 395.22,
+      "text": "For seeing this result, one turns away from it, and so doing, conceiving, no desire for it in the heart."
+    },
+    {
+      "start": 395.22,
+      "end": 401.22,
+      "text": "One penetrated by insight, and sees it play, that is how desire is not generated."
+    },
+    {
+      "start": 401.22,
+      "end": 405.22,
+      "text": "And how months is desire for things in the future not generated?"
+    },
+    {
+      "start": 405.22,
+      "end": 410.22,
+      "text": "One fully understands the future result of things yet to come, which are based on desire."
+    },
+    {
+      "start": 410.22,
+      "end": 413.22,
+      "text": "For seeing this result, etc."
+    },
+    {
+      "start": 413.22,
+      "end": 418.22,
+      "text": "And how months is desire for things in the present, which are based on desire not generated?"
+    },
+    {
+      "start": 418.22,
+      "end": 423.22,
+      "text": "One fully understands the future result of present things based on desire."
+    },
+    {
+      "start": 423.22,
+      "end": 430.22,
+      "text": "For seeing this result, one turns away from it, and so doing, conceiving, no desire for it in the heart."
+    },
+    {
+      "start": 430.22,
+      "end": 433.22,
+      "text": "One penetrated by insight, and sees it play."
+    },
+    {
+      "start": 433.22,
+      "end": 438.22,
+      "text": "That is how desire for things of the present, which are based on desire is not generated."
+    },
+    {
+      "start": 438.22,
+      "end": 443.22,
+      "text": "These are the three causes which prevent the arising of actions."
+    },
+    {
+      "start": 443.22,
+      "end": 459.22,
+      "text": "And this should die, something to do with the previous, and it's saying that when we think about the future results of things based on desire,"
+    },
+    {
+      "start": 459.22,
+      "end": 463.22,
+      "text": "we can see that the bringers look up."
+    },
+    {
+      "start": 463.22,
+      "end": 468.22,
+      "text": "So this basically, like every person, our practice, our contemplation and practice,"
+    },
+    {
+      "start": 468.22,
+      "end": 476.22,
+      "text": "we think about those things, that initially we think that it's going to,"
+    },
+    {
+      "start": 476.22,
+      "end": 486.22,
+      "text": "that most people, one, most people desire for, we, when we contemplate and we realize that these things,"
+    },
+    {
+      "start": 486.22,
+      "end": 494.82,
+      "text": "that they give us pain, we obtain the things, we cannot be contented,"
+    },
+    {
+      "start": 494.82,
+      "end": 498.82,
+      "text": "we cannot be really contented only very temporarily."
+    },
+    {
+      "start": 498.82,
+      "end": 504.82,
+      "text": "And if we don't obtain those things, then we get a lot of suffering."
+    },
+    {
+      "start": 504.82,
+      "end": 509.82,
+      "text": "So then we realize this better to let go of our desires."
+    },
+    {
+      "start": 509.82,
+      "end": 514.82,
+      "text": "So whether it's a future or the present things,"
+    },
+    {
+      "start": 514.82,
+      "end": 522.82,
+      "text": "then we decide to let go of them, because thinking of them,"
+    },
+    {
+      "start": 522.82,
+      "end": 527.82,
+      "text": "what do we think that we know that they bring us pain."
+    },
+    {
+      "start": 527.82,
+      "end": 532.82,
+      "text": "So that is the basis of non-action."
+    },
+    {
+      "start": 532.82,
+      "end": 538.82,
+      "text": "Now that's just like to mention, as Uttar, the organic ion number 21, called the Sakha Panhas Uttar."
+    },
+    {
+      "start": 538.82,
+      "end": 543.82,
+      "text": "That's actually, although it's a concern in Sakha Diva Raja."
+    },
+    {
+      "start": 543.82,
+      "end": 550.82,
+      "text": "It's a very important principle in that Suta, and like to just go to the Gisavita,"
+    },
+    {
+      "start": 550.82,
+      "end": 554.82,
+      "text": "in that Suta, Sakha Diva Raja, asked Buddha,"
+    },
+    {
+      "start": 554.82,
+      "end": 561.82,
+      "text": "he said, in this world, being Sakha Diva Raja, like to live in peace, like to live in harmony."
+    },
+    {
+      "start": 561.82,
+      "end": 567.82,
+      "text": "Even though the living peace and harmony, there's a lot of hostility,"
+    },
+    {
+      "start": 567.82,
+      "end": 571.82,
+      "text": "malice, hatred, and mitia, fighting, quarrel, etc."
+    },
+    {
+      "start": 571.82,
+      "end": 575.82,
+      "text": "I'm living beings and asked Buddha, why this is so?"
+    },
+    {
+      "start": 575.82,
+      "end": 580.82,
+      "text": "Then the Buddha said, oh, it's because of covetous and jealousy,"
+    },
+    {
+      "start": 580.82,
+      "end": 586.82,
+      "text": "or you can see greed and jealousy, and then Sakha Diva Raja agreed."
+    },
+    {
+      "start": 586.82,
+      "end": 591.82,
+      "text": "Then he asked, what is the cause of this greed and jealousy?"
+    },
+    {
+      "start": 591.82,
+      "end": 595.82,
+      "text": "Then the Buddha said, like, and this like, how discriminating mind,"
+    },
+    {
+      "start": 595.82,
+      "end": 600.82,
+      "text": "I can dislike, and then again, Sakha Diva Raja asked, what is the cause of this like,"
+    },
+    {
+      "start": 600.82,
+      "end": 604.82,
+      "text": "and the Buddha said, desire, what is the cause of this idea?"
+    },
+    {
+      "start": 604.82,
+      "end": 607.82,
+      "text": "Thinking, what is the cause of thinking?"
+    },
+    {
+      "start": 607.82,
+      "end": 612.82,
+      "text": "The tendency to proliferation of thoughts in our mind."
+    },
+    {
+      "start": 612.82,
+      "end": 617.82,
+      "text": "Then the Buddha said, to stop the tendency for proliferation of thoughts in the mind,"
+    },
+    {
+      "start": 617.82,
+      "end": 621.82,
+      "text": "we have to realize that there are two kinds of happiness."
+    },
+    {
+      "start": 621.82,
+      "end": 623.82,
+      "text": "The Buddha said, to rise of happiness."
+    },
+    {
+      "start": 623.82,
+      "end": 626.82,
+      "text": "One is the happiness that we get from thinking."
+    },
+    {
+      "start": 626.82,
+      "end": 631.82,
+      "text": "The second one is the happiness which is devoid of thinking."
+    },
+    {
+      "start": 631.82,
+      "end": 635.82,
+      "text": "So unless we get attained the happiness which is devoid of thinking,"
+    },
+    {
+      "start": 635.82,
+      "end": 638.82,
+      "text": "we cannot let go of the happiness due to thinking."
+    },
+    {
+      "start": 638.82,
+      "end": 644.82,
+      "text": "So the happiness which is devoid of thinking is basically the jarnas,"
+    },
+    {
+      "start": 644.82,
+      "end": 651.82,
+      "text": "the one point in the mind, that the concentration that is attained,"
+    },
+    {
+      "start": 651.82,
+      "end": 657.82,
+      "text": "then only we can let go of the tendency to proliferation of thoughts."
+    },
+    {
+      "start": 657.82,
+      "end": 661.82,
+      "text": "Then we can let go of thinking, we can let go of desire,"
+    },
+    {
+      "start": 661.82,
+      "end": 666.82,
+      "text": "and let go, like, and dislike, and finally let go of greed and jealousy."
+    },
+    {
+      "start": 666.82,
+      "end": 674.2,
+      "text": "So that is very important principle."
+    },
+    {
+      "start": 674.2,
+      "end": 678.2,
+      "text": "So basically, you see, like we, in the previous utari,"
+    },
+    {
+      "start": 678.2,
+      "end": 684.2,
+      "text": "we remember that desire is generated because we think."
+    },
+    {
+      "start": 684.2,
+      "end": 689.2,
+      "text": "So we have to stop the thinking that is from cultivating our mind."
+    },
+    {
+      "start": 689.2,
+      "end": 697.2,
+      "text": "Until that it learns to be at peace, to be to realize that peace and happiness is to,"
+    },
+    {
+      "start": 697.2,
+      "end": 702.2,
+      "text": "is obtainable from within us, not in outside things, not in worldly things,"
+    },
+    {
+      "start": 702.2,
+      "end": 704.2,
+      "text": "because we will eat things."
+    },
+    {
+      "start": 704.2,
+      "end": 706.2,
+      "text": "The Buddha said, I'm not to be indulging."
+    },
+    {
+      "start": 706.2,
+      "end": 712.2,
+      "text": "If we indulge in worldly things and sensual pleasures, things of the six senses,"
+    },
+    {
+      "start": 712.2,
+      "end": 715.2,
+      "text": "then they will give us pain eventually."
+    },
+    {
+      "start": 715.2,
+      "end": 720.2,
+      "text": "But if we indulge in our own mind, what is within us,"
+    },
+    {
+      "start": 720.2,
+      "end": 723.2,
+      "text": "that is dependent on outside our consciousness,"
+    },
+    {
+      "start": 723.2,
+      "end": 726.2,
+      "text": "then the Buddha said, that is allowable."
+    },
+    {
+      "start": 726.2,
+      "end": 730.2,
+      "text": "Why so? Because the Buddha said, it results in four things,"
+    },
+    {
+      "start": 730.2,
+      "end": 733.2,
+      "text": "attaining of the four solutions, sort of bananas,"
+    },
+    {
+      "start": 733.2,
+      "end": 737.2,
+      "text": "like the Gami, and the Gami, and Rahaal Buddha."
+    },
+    {
+      "start": 737.2,
+      "end": 740.2,
+      "text": "They were stated by the Buddha and the Dikary Kaya."
+    },
+    {
+      "start": 740.2,
+      "end": 746.2,
+      "text": "So it's a meditation initially here."
+    },
+    {
+      "start": 746.2,
+      "end": 751.2,
+      "text": "We have to use our contemplating mind that we pass it apart."
+    },
+    {
+      "start": 751.2,
+      "end": 757.2,
+      "text": "By eventually, we have to come to a state where we have to let go of the thinking."
+    },
+    {
+      "start": 757.2,
+      "end": 761.2,
+      "text": "And that is that only we can get that from the Samatha practice."
+    },
+    {
+      "start": 761.2,
+      "end": 765.2,
+      "text": "That's why in one two times, I'm returning Kaya."
+    },
+    {
+      "start": 765.2,
+      "end": 768.2,
+      "text": "Remember, and then that said, there's only four ways to attaining our handwood."
+    },
+    {
+      "start": 768.2,
+      "end": 771.2,
+      "text": "One is we practice Samatha first, followed by Vipassana."
+    },
+    {
+      "start": 771.2,
+      "end": 774.2,
+      "text": "The second one is Vipassana first, followed by Samatha."
+    },
+    {
+      "start": 774.2,
+      "end": 777.2,
+      "text": "The third one is Samatha and Vipassana together."
+    },
+    {
+      "start": 777.2,
+      "end": 780.2,
+      "text": "The fourth one is contemplating on the self,"
+    },
+    {
+      "start": 780.2,
+      "end": 782.2,
+      "text": "until the mind becomes one-pointed."
+    },
+    {
+      "start": 782.2,
+      "end": 786.2,
+      "text": "Then he will know the way for himself."
+    },
+    {
+      "start": 786.2,
+      "end": 791.2,
+      "text": "So the next two times, three-point, twelve-point,"
+    },
+    {
+      "start": 791.2,
+      "end": 794.2,
+      "text": "and one-point, eleven, the Buddha said,"
+    },
+    {
+      "start": 794.2,
+      "end": 798.2,
+      "text": "these three persons are doomed to the downfall to help."
+    },
+    {
+      "start": 798.2,
+      "end": 802.2,
+      "text": "Unless they abandon this habit, which three,"
+    },
+    {
+      "start": 802.2,
+      "end": 806.2,
+      "text": "he who living in purely claims to live the holy life."
+    },
+    {
+      "start": 806.2,
+      "end": 810.2,
+      "text": "He who fallsly charges with immorality,"
+    },
+    {
+      "start": 810.2,
+      "end": 814.2,
+      "text": "one who is living the pure holy life, the utterly pure holy life."
+    },
+    {
+      "start": 815.2,
+      "end": 818.2,
+      "text": "Three, he who preaching and holding the view,"
+    },
+    {
+      "start": 818.2,
+      "end": 820.2,
+      "text": "that there is no fault in sensuality,"
+    },
+    {
+      "start": 820.2,
+      "end": 823.2,
+      "text": "comes to be intoxicated with his lust."
+    },
+    {
+      "start": 823.2,
+      "end": 826.2,
+      "text": "These are the three who are doomed to the downfall to help."
+    },
+    {
+      "start": 826.2,
+      "end": 829.2,
+      "text": "Unless they abandon this habit."
+    },
+    {
+      "start": 829.2,
+      "end": 834.2,
+      "text": "These two times, saying that firstly,"
+    },
+    {
+      "start": 834.2,
+      "end": 837.2,
+      "text": "among who claims to be among,"
+    },
+    {
+      "start": 837.2,
+      "end": 842.2,
+      "text": "but he is, actually, a very corrupt person."
+    },
+    {
+      "start": 842.2,
+      "end": 846.2,
+      "text": "And he breaks the major precepts."
+    },
+    {
+      "start": 846.2,
+      "end": 849.2,
+      "text": "Which, therefore, major precepts are the practicals,"
+    },
+    {
+      "start": 849.2,
+      "end": 851.2,
+      "text": "which a monk is not allowed to break."
+    },
+    {
+      "start": 851.2,
+      "end": 854.2,
+      "text": "Even monk breaks any of these four precepts,"
+    },
+    {
+      "start": 854.2,
+      "end": 856.2,
+      "text": "and the practicals, he is no more a monk."
+    },
+    {
+      "start": 856.2,
+      "end": 859.2,
+      "text": "The Buddha said, even though he was the wrong person."
+    },
+    {
+      "start": 859.2,
+      "end": 861.2,
+      "text": "One is the engages in sexual intercourse."
+    },
+    {
+      "start": 861.2,
+      "end": 865.2,
+      "text": "The second one is he steals something valuable."
+    },
+    {
+      "start": 865.2,
+      "end": 868.2,
+      "text": "That means something that more than fifty,"
+    },
+    {
+      "start": 868.2,
+      "end": 872.2,
+      "text": "a human being, or encourages somebody to kill a human being."
+    },
+    {
+      "start": 872.2,
+      "end": 877.2,
+      "text": "Even to the extent of encouraging a woman to have an abortion."
+    },
+    {
+      "start": 877.2,
+      "end": 879.2,
+      "text": "And the fourth one is he has not."
+    },
+    {
+      "start": 879.2,
+      "end": 881.2,
+      "text": "He does not have supernormal attainment."
+    },
+    {
+      "start": 881.2,
+      "end": 884.2,
+      "text": "He claims to have supernormal attainment."
+    },
+    {
+      "start": 884.2,
+      "end": 889.2,
+      "text": "And then these are the four ways of picking up."
+    },
+    {
+      "start": 889.2,
+      "end": 891.2,
+      "text": "The third one is,"
+    },
+    {
+      "start": 891.2,
+      "end": 894.2,
+      "text": "he does not have supernormal attainment."
+    },
+    {
+      "start": 894.2,
+      "end": 899.2,
+      "text": "And these are the four ways of picking up the major precepts."
+    },
+    {
+      "start": 899.2,
+      "end": 902.2,
+      "text": "So if a monk breaks any one of these,"
+    },
+    {
+      "start": 902.2,
+      "end": 905.2,
+      "text": "that means he is basically implying,"
+    },
+    {
+      "start": 905.2,
+      "end": 910.2,
+      "text": "but he tries to put a front that is pure monk."
+    },
+    {
+      "start": 910.2,
+      "end": 913.2,
+      "text": "Then he is liable to go down to hell for him."
+    },
+    {
+      "start": 913.2,
+      "end": 917.2,
+      "text": "The second one is a person that means generally a person"
+    },
+    {
+      "start": 917.2,
+      "end": 924.2,
+      "text": "and a person who is angry and of a monk."
+    },
+    {
+      "start": 924.2,
+      "end": 928.2,
+      "text": "And he charges, he makes a charge,"
+    },
+    {
+      "start": 928.2,
+      "end": 930.2,
+      "text": "that the monk is immoral,"
+    },
+    {
+      "start": 930.2,
+      "end": 932.2,
+      "text": "that the monk is impure,"
+    },
+    {
+      "start": 932.2,
+      "end": 934.2,
+      "text": "when in fact the monk is a good monk."
+    },
+    {
+      "start": 934.2,
+      "end": 938.2,
+      "text": "Then that person is liable to go down to hell."
+    },
+    {
+      "start": 938.2,
+      "end": 946.76,
+      "text": "So he is very dangerous for a person to develop hatred for a monk."
+    },
+    {
+      "start": 946.76,
+      "end": 951.76,
+      "text": "Sometimes a monk reaches some teaching and some people"
+    },
+    {
+      "start": 951.76,
+      "end": 953.76,
+      "text": "because of their bias,"
+    },
+    {
+      "start": 953.76,
+      "end": 955.76,
+      "text": "because their prejudice,"
+    },
+    {
+      "start": 955.76,
+      "end": 957.76,
+      "text": "because of their way they have been taught."
+    },
+    {
+      "start": 957.76,
+      "end": 960.76,
+      "text": "He thinks that the monk is a wrong view or something."
+    },
+    {
+      "start": 960.76,
+      "end": 962.76,
+      "text": "He developed a lot of hatred for the monk."
+    },
+    {
+      "start": 962.76,
+      "end": 964.76,
+      "text": "That is very dangerous,"
+    },
+    {
+      "start": 964.76,
+      "end": 969.76,
+      "text": "because when he might come to know that the monk is actually preaching the right teaching."
+    },
+    {
+      "start": 969.76,
+      "end": 973.76,
+      "text": "Then he is a great lost lady."
+    },
+    {
+      "start": 973.76,
+      "end": 979.76,
+      "text": "That one is a person who teaches that there is no for essential pleasures."
+    },
+    {
+      "start": 979.76,
+      "end": 983.76,
+      "text": "And he indulges in central pleasures."
+    },
+    {
+      "start": 983.76,
+      "end": 987.76,
+      "text": "And he is liable to go down to hell also for a little."
+    },
+    {
+      "start": 987.76,
+      "end": 992.76,
+      "text": "This is particularly true during the Buddha's time of certain wondrous aesthetics."
+    },
+    {
+      "start": 992.76,
+      "end": 996.76,
+      "text": "Because during the Buddha's time there were a lot of aesthetics."
+    },
+    {
+      "start": 996.76,
+      "end": 1000.76,
+      "text": "And he practiced the nakedness."
+    },
+    {
+      "start": 1000.76,
+      "end": 1005.76,
+      "text": "So he had men, naked aesthetics and women, naked aesthetics."
+    },
+    {
+      "start": 1005.76,
+      "end": 1007.76,
+      "text": "And sometimes they will,"
+    },
+    {
+      "start": 1007.76,
+      "end": 1009.76,
+      "text": "because their minds are not developed."
+    },
+    {
+      "start": 1009.76,
+      "end": 1011.76,
+      "text": "They look at each other and then last,"
+    },
+    {
+      "start": 1011.76,
+      "end": 1015.76,
+      "text": "they develop in the mind that they engage in sexual conduct."
+    },
+    {
+      "start": 1015.76,
+      "end": 1017.76,
+      "text": "And they say, let's not go wrong with it."
+    },
+    {
+      "start": 1017.76,
+      "end": 1020.76,
+      "text": "Because they don't harm anybody."
+    },
+    {
+      "start": 1020.76,
+      "end": 1022.76,
+      "text": "But the problem is they don't harm anybody."
+    },
+    {
+      "start": 1022.76,
+      "end": 1024.76,
+      "text": "They have themselves."
+    },
+    {
+      "start": 1024.76,
+      "end": 1026.76,
+      "text": "So they have the three things."
+    },
+    {
+      "start": 1026.76,
+      "end": 1032.1,
+      "text": "Now the next Buddha is three point twelve point hundred and twelve."
+    },
+    {
+      "start": 1032.1,
+      "end": 1037.1,
+      "text": "The Buddha said, monks, the appearance of three persons is hard to find in the world."
+    },
+    {
+      "start": 1037.1,
+      "end": 1038.1,
+      "text": "What three?"
+    },
+    {
+      "start": 1038.1,
+      "end": 1040.1,
+      "text": "The appearance of the tatagata."
+    },
+    {
+      "start": 1040.1,
+      "end": 1042.1,
+      "text": "And Arahan, who is fully enlightened,"
+    },
+    {
+      "start": 1042.1,
+      "end": 1044.1,
+      "text": "is hard to find in the world."
+    },
+    {
+      "start": 1044.1,
+      "end": 1050.1,
+      "text": "Secondly, the appearance of the person who can expound the Dhamma Vinaya taught by the tatagata."
+    },
+    {
+      "start": 1050.1,
+      "end": 1054.1,
+      "text": "And the third one is a person who is mindful and grateful."
+    },
+    {
+      "start": 1054.1,
+      "end": 1056.1,
+      "text": "It's hard to be found in the world."
+    },
+    {
+      "start": 1056.1,
+      "end": 1059.1,
+      "text": "These are the three persons hard to find in the world."
+    },
+    {
+      "start": 1059.1,
+      "end": 1062.1,
+      "text": "And this is also an interesting subject."
+    },
+    {
+      "start": 1062.1,
+      "end": 1066.1,
+      "text": "The first one is some of some Buddha is hard to find in the world."
+    },
+    {
+      "start": 1066.1,
+      "end": 1069.61,
+      "text": "That we, we quite realize."
+    },
+    {
+      "start": 1069.61,
+      "end": 1074.61,
+      "text": "Like in one Sutta, the Buddha said, he looked into the past 91 world cycles."
+    },
+    {
+      "start": 1074.61,
+      "end": 1076.61,
+      "text": "And he found only six Buddhas."
+    },
+    {
+      "start": 1076.61,
+      "end": 1080.61,
+      "text": "In our Sutta, the Buddha only mentions six Buddhas."
+    },
+    {
+      "start": 1080.61,
+      "end": 1085.61,
+      "text": "His only little books are good talk about 24 Buddhas and 28 Buddhas."
+    },
+    {
+      "start": 1085.61,
+      "end": 1089.61,
+      "text": "And all that, but as we are now original Sutta,"
+    },
+    {
+      "start": 1089.61,
+      "end": 1092.61,
+      "text": "the Buddha only mentions six Buddhas."
+    },
+    {
+      "start": 1092.61,
+      "end": 1095.61,
+      "text": "He only saw six Buddhas in the past."
+    },
+    {
+      "start": 1095.61,
+      "end": 1100.61,
+      "text": "And there was by looking over a long period of 91 world cycles."
+    },
+    {
+      "start": 1100.61,
+      "end": 1103.61,
+      "text": "Then the second one, the interesting one,"
+    },
+    {
+      "start": 1103.61,
+      "end": 1106.61,
+      "text": "is that the person who can teach the Dhamma Vinaya,"
+    },
+    {
+      "start": 1106.61,
+      "end": 1110.61,
+      "text": "that means the teachings of the Buddha who can teach correctly."
+    },
+    {
+      "start": 1110.61,
+      "end": 1114.61,
+      "text": "And the teachings of the Buddha is very hard to find in the world."
+    },
+    {
+      "start": 1114.61,
+      "end": 1118.61,
+      "text": "There are a lot of people who teach the,"
+    },
+    {
+      "start": 1118.61,
+      "end": 1123.62,
+      "text": "but they might not teach correctly."
+    },
+    {
+      "start": 1123.62,
+      "end": 1125.62,
+      "text": "And the teachings of the Buddha."
+    },
+    {
+      "start": 1125.62,
+      "end": 1133.62,
+      "text": "That is why it is very important to take the original discourses of the Buddha as our guide."
+    },
+    {
+      "start": 1133.62,
+      "end": 1136.62,
+      "text": "We stick by the original teachings of the Buddha,"
+    },
+    {
+      "start": 1136.62,
+      "end": 1139.62,
+      "text": "because we find that there is no contradiction in them."
+    },
+    {
+      "start": 1139.62,
+      "end": 1141.62,
+      "text": "The present are the books."
+    },
+    {
+      "start": 1141.62,
+      "end": 1143.62,
+      "text": "You can find a lot of contradiction."
+    },
+    {
+      "start": 1143.62,
+      "end": 1146.62,
+      "text": "So we stick to the original teachings,"
+    },
+    {
+      "start": 1146.62,
+      "end": 1148.62,
+      "text": "the original discourses of the Buddha."
+    },
+    {
+      "start": 1148.62,
+      "end": 1151.62,
+      "text": "And then that is the right Dhamma."
+    },
+    {
+      "start": 1151.62,
+      "end": 1153.62,
+      "text": "So here the Buddha is saying,"
+    },
+    {
+      "start": 1153.62,
+      "end": 1159.62,
+      "text": "it is to find somebody who can teach exactly or similar to the original teachings of the Buddha."
+    },
+    {
+      "start": 1159.62,
+      "end": 1161.62,
+      "text": "It is not easy to find."
+    },
+    {
+      "start": 1161.62,
+      "end": 1165.62,
+      "text": "The third one, a person who is grateful in this world."
+    },
+    {
+      "start": 1165.62,
+      "end": 1170.62,
+      "text": "Most people are ungrateful to find somebody who is grateful and is very rare."
+    },
+    {
+      "start": 1170.62,
+      "end": 1176.03,
+      "text": "Now the next time I saw a tree point 12.113,"
+    },
+    {
+      "start": 1176.03,
+      "end": 1178.03,
+      "text": "the Buddha said,"
+    },
+    {
+      "start": 1178.03,
+      "end": 1182.03,
+      "text": "these three sorts of persons are hard to be found in the world."
+    },
+    {
+      "start": 1182.03,
+      "end": 1185.03,
+      "text": "But three, he who is easily measured,"
+    },
+    {
+      "start": 1185.03,
+      "end": 1190.03,
+      "text": "he who is hardly measured, he who is imaginable."
+    },
+    {
+      "start": 1191.03,
+      "end": 1194.03,
+      "text": "And what sort of man is he who is easily measured?"
+    },
+    {
+      "start": 1194.03,
+      "end": 1198.03,
+      "text": "Here in a certain person is frivolous, empty-headed,"
+    },
+    {
+      "start": 1198.03,
+      "end": 1201.03,
+      "text": "a busy body of harsh, speech, loose in top,"
+    },
+    {
+      "start": 1201.03,
+      "end": 1206.03,
+      "text": "lacking concentration and steady, not composed of flighty mind,"
+    },
+    {
+      "start": 1206.03,
+      "end": 1208.03,
+      "text": "but senses uncontrolled."
+    },
+    {
+      "start": 1208.03,
+      "end": 1210.03,
+      "text": "This one is called easily measured."
+    },
+    {
+      "start": 1210.03,
+      "end": 1214.03,
+      "text": "And what sort of man is the person who is hard to be measured?"
+    },
+    {
+      "start": 1214.03,
+      "end": 1217.03,
+      "text": "In this case, as a person is not frivolous, not empty-headed,"
+    },
+    {
+      "start": 1217.03,
+      "end": 1221.03,
+      "text": "no busy body, not of harsh, speech, not loose in top,"
+    },
+    {
+      "start": 1221.03,
+      "end": 1225.03,
+      "text": "but concentrated, steady composed of one pointed mind,"
+    },
+    {
+      "start": 1225.03,
+      "end": 1227.03,
+      "text": "which senses well controlled."
+    },
+    {
+      "start": 1227.03,
+      "end": 1230.03,
+      "text": "This one is called hardly measured."
+    },
+    {
+      "start": 1230.03,
+      "end": 1233.03,
+      "text": "And what sort of man is the person who is imaginable?"
+    },
+    {
+      "start": 1233.03,
+      "end": 1236.03,
+      "text": "In this case, we have a man in whom the answer was a destroyed."
+    },
+    {
+      "start": 1236.03,
+      "end": 1238.03,
+      "text": "This one is called imaginable."
+    },
+    {
+      "start": 1238.03,
+      "end": 1242.03,
+      "text": "These are the three sorts of person found places in the world."
+    },
+    {
+      "start": 1242.03,
+      "end": 1245.03,
+      "text": "So these two types talking about the person,"
+    },
+    {
+      "start": 1245.03,
+      "end": 1247.03,
+      "text": "whose mind is not developed."
+    },
+    {
+      "start": 1247.03,
+      "end": 1249.03,
+      "text": "And the second one, the second one, the second one,"
+    },
+    {
+      "start": 1249.03,
+      "end": 1250.03,
+      "text": "the second one is developed."
+    },
+    {
+      "start": 1250.03,
+      "end": 1253.03,
+      "text": "And the third one is the Arahan,"
+    },
+    {
+      "start": 1253.03,
+      "end": 1256.03,
+      "text": "whose mind is perfectly developed."
+    },
+    {
+      "start": 1256.03,
+      "end": 1261.03,
+      "text": "And the next one is 3.2.114,"
+    },
+    {
+      "start": 1261.03,
+      "end": 1263.03,
+      "text": "the Buddha said,"
+    },
+    {
+      "start": 1263.03,
+      "end": 1267.03,
+      "text": "these three sorts of persons are found places in the world."
+    },
+    {
+      "start": 1267.03,
+      "end": 1270.03,
+      "text": "But three, here in months, a certain person,"
+    },
+    {
+      "start": 1270.03,
+      "end": 1273.03,
+      "text": "by utterly transcending consciousness of form,"
+    },
+    {
+      "start": 1273.03,
+      "end": 1276.03,
+      "text": "by the disappearance of consciousness of resistance,"
+    },
+    {
+      "start": 1276.03,
+      "end": 1279.03,
+      "text": "by paying no heed to the diversity of consciousness,"
+    },
+    {
+      "start": 1279.03,
+      "end": 1281.03,
+      "text": "regarding species,"
+    },
+    {
+      "start": 1281.03,
+      "end": 1285.03,
+      "text": "which is up to in the bites in the sphere of infinite space."
+    },
+    {
+      "start": 1285.03,
+      "end": 1287.03,
+      "text": "He enjoys it, long, sorry,"
+    },
+    {
+      "start": 1287.03,
+      "end": 1289.03,
+      "text": "and finds happiness there,"
+    },
+    {
+      "start": 1289.03,
+      "end": 1291.03,
+      "text": "and establish there in, given there,"
+    },
+    {
+      "start": 1291.03,
+      "end": 1294.03,
+      "text": "to generally spending his time there in,"
+    },
+    {
+      "start": 1294.03,
+      "end": 1296.03,
+      "text": "and not falling away there from."
+    },
+    {
+      "start": 1297.03,
+      "end": 1298.03,
+      "text": "And he makes an end."
+    },
+    {
+      "start": 1298.03,
+      "end": 1300.03,
+      "text": "He's reborn in the company of the Devas,"
+    },
+    {
+      "start": 1300.03,
+      "end": 1303.03,
+      "text": "who have reached the sphere of infinite space,"
+    },
+    {
+      "start": 1303.03,
+      "end": 1304.03,
+      "text": "no months."
+    },
+    {
+      "start": 1304.03,
+      "end": 1308.03,
+      "text": "The life of those Devas is 20,000 world cycles."
+    },
+    {
+      "start": 1308.03,
+      "end": 1310.03,
+      "text": "There in the ordinary man's days,"
+    },
+    {
+      "start": 1310.03,
+      "end": 1314.03,
+      "text": "and spends his lifetime according to the lifespan of those Devas."
+    },
+    {
+      "start": 1314.03,
+      "end": 1316.03,
+      "text": "And he goes to,"
+    },
+    {
+      "start": 1316.03,
+      "end": 1317.03,
+      "text": "then he goes to hell,"
+    },
+    {
+      "start": 1317.03,
+      "end": 1319.03,
+      "text": "or to the womb of an animal,"
+    },
+    {
+      "start": 1319.03,
+      "end": 1321.03,
+      "text": "or to the realm of ghosts."
+    },
+    {
+      "start": 1321.03,
+      "end": 1324.03,
+      "text": "But the disciple of the exalted one,"
+    },
+    {
+      "start": 1324.03,
+      "end": 1327.03,
+      "text": "after staying there and spending his lifetime,"
+    },
+    {
+      "start": 1327.03,
+      "end": 1330.03,
+      "text": "according to the lifespan of those Devas,"
+    },
+    {
+      "start": 1330.03,
+      "end": 1333.03,
+      "text": "finally passes away in that very state."
+    },
+    {
+      "start": 1333.03,
+      "end": 1337.03,
+      "text": "Such months is the distinction,"
+    },
+    {
+      "start": 1337.03,
+      "end": 1338.03,
+      "text": "the specific feature,"
+    },
+    {
+      "start": 1338.03,
+      "end": 1341.03,
+      "text": "the difference between the educated Aryan,"
+    },
+    {
+      "start": 1341.03,
+      "end": 1342.03,
+      "text": "disciple,"
+    },
+    {
+      "start": 1342.03,
+      "end": 1347.03,
+      "text": "and the uneducated ordinary man in the matter of destiny and rebirth."
+    },
+    {
+      "start": 1347.03,
+      "end": 1350.03,
+      "text": "Again, months, here we have a certain person"
+    },
+    {
+      "start": 1351.03,
+      "end": 1354.03,
+      "text": "who, by utterly transcending the sphere of infinite space,"
+    },
+    {
+      "start": 1354.03,
+      "end": 1356.03,
+      "text": "regarding consciousness as infinite,"
+    },
+    {
+      "start": 1356.03,
+      "end": 1360.03,
+      "text": "reaches up to and abides in the sphere of infinite consciousness,"
+    },
+    {
+      "start": 1360.03,
+      "end": 1362.03,
+      "text": "enjoys it long for it,"
+    },
+    {
+      "start": 1362.03,
+      "end": 1364.03,
+      "text": "and finds happiness there,"
+    },
+    {
+      "start": 1364.03,
+      "end": 1366.03,
+      "text": "established there in,"
+    },
+    {
+      "start": 1366.03,
+      "end": 1369.03,
+      "text": "given there to generally spending his time there in,"
+    },
+    {
+      "start": 1369.03,
+      "end": 1371.03,
+      "text": "and not falling away there from."
+    },
+    {
+      "start": 1371.03,
+      "end": 1372.03,
+      "text": "And he makes an end."
+    },
+    {
+      "start": 1372.03,
+      "end": 1373.03,
+      "text": "He's reborn,"
+    },
+    {
+      "start": 1373.03,
+      "end": 1374.03,
+      "text": "the company of the Devas,"
+    },
+    {
+      "start": 1374.03,
+      "end": 1377.03,
+      "text": "who have reached the sphere of infinite consciousness,"
+    },
+    {
+      "start": 1377.03,
+      "end": 1378.03,
+      "text": "the months,"
+    },
+    {
+      "start": 1378.03,
+      "end": 1382.03,
+      "text": "the life of those Devas is 40,000 will cycles."
+    },
+    {
+      "start": 1382.03,
+      "end": 1384.03,
+      "text": "There in the ordinary man's days,"
+    },
+    {
+      "start": 1384.03,
+      "end": 1387.03,
+      "text": "and spends his time according to the lifespan of those Devas,"
+    },
+    {
+      "start": 1387.03,
+      "end": 1390.03,
+      "text": "then he goes to hell or the animal,"
+    },
+    {
+      "start": 1390.03,
+      "end": 1392.03,
+      "text": "where a mother goes from."
+    },
+    {
+      "start": 1392.03,
+      "end": 1394.03,
+      "text": "As in as before,"
+    },
+    {
+      "start": 1394.03,
+      "end": 1395.03,
+      "text": "again, months,"
+    },
+    {
+      "start": 1395.03,
+      "end": 1397.03,
+      "text": "we have a certain person who,"
+    },
+    {
+      "start": 1397.03,
+      "end": 1400.03,
+      "text": "by utterly transcending the sphere of infinite consciousness,"
+    },
+    {
+      "start": 1400.03,
+      "end": 1403.03,
+      "text": "with the idea of nothing exists,"
+    },
+    {
+      "start": 1403.03,
+      "end": 1406.03,
+      "text": "which is up to and abides in the sphere of nothingness,"
+    },
+    {
+      "start": 1406.03,
+      "end": 1408.03,
+      "text": "and he makes an end."
+    },
+    {
+      "start": 1408.03,
+      "end": 1411.03,
+      "text": "He's reborn in the company of those Devas."
+    },
+    {
+      "start": 1411.03,
+      "end": 1415.03,
+      "text": "Now the lifespan of those Devas is 60,000 will cycles."
+    },
+    {
+      "start": 1415.03,
+      "end": 1417.03,
+      "text": "There in the ordinary man's days,"
+    },
+    {
+      "start": 1417.03,
+      "end": 1420.03,
+      "text": "then he goes to hell or the womb of an animal,"
+    },
+    {
+      "start": 1420.03,
+      "end": 1422.03,
+      "text": "or to the realm of course,"
+    },
+    {
+      "start": 1422.03,
+      "end": 1425.03,
+      "text": "but the disciple of the exalted one,"
+    },
+    {
+      "start": 1425.03,
+      "end": 1428.03,
+      "text": "finally passes away in that very state."
+    },
+    {
+      "start": 1428.03,
+      "end": 1430.03,
+      "text": "Such months is the distinction,"
+    },
+    {
+      "start": 1430.03,
+      "end": 1431.03,
+      "text": "the specific feature,"
+    },
+    {
+      "start": 1431.03,
+      "end": 1433.03,
+      "text": "the difference between the educated,"
+    },
+    {
+      "start": 1433.03,
+      "end": 1434.03,
+      "text": "are in disciple,"
+    },
+    {
+      "start": 1434.03,
+      "end": 1436.03,
+      "text": "and the uneducated, ordinary man,"
+    },
+    {
+      "start": 1436.03,
+      "end": 1439.03,
+      "text": "in the matter of destiny and rebirth."
+    },
+    {
+      "start": 1439.03,
+      "end": 1440.03,
+      "text": "These months,"
+    },
+    {
+      "start": 1440.03,
+      "end": 1444.03,
+      "text": "are the three sorts of person found existing in the world."
+    },
+    {
+      "start": 1444.03,
+      "end": 1445.03,
+      "text": "Here in the Buddha,"
+    },
+    {
+      "start": 1445.03,
+      "end": 1449.03,
+      "text": "he's talking about the persons who can attain"
+    },
+    {
+      "start": 1449.03,
+      "end": 1451.03,
+      "text": "their group of genres,"
+    },
+    {
+      "start": 1451.03,
+      "end": 1456.03,
+      "text": "states of mental incandesence,"
+    },
+    {
+      "start": 1456.03,
+      "end": 1462.03,
+      "text": "and the lifetimes of the Devas mentioned here,"
+    },
+    {
+      "start": 1462.03,
+      "end": 1469.03,
+      "text": "like 20,000 kappa, 20,000 will cycles of 20,000 ayons,"
+    },
+    {
+      "start": 1469.03,
+      "end": 1471.03,
+      "text": "and then the other one is 40,000,"
+    },
+    {
+      "start": 1471.03,
+      "end": 1473.03,
+      "text": "the other one is 60,000."
+    },
+    {
+      "start": 1473.03,
+      "end": 1475.03,
+      "text": "This is in the sutras,"
+    },
+    {
+      "start": 1475.03,
+      "end": 1477.03,
+      "text": "and also, I think, in the Abidama,"
+    },
+    {
+      "start": 1477.03,
+      "end": 1479.03,
+      "text": "but we look at the commentary here,"
+    },
+    {
+      "start": 1479.03,
+      "end": 1483.03,
+      "text": "and we talk about 20,000 asantkiya kappa,"
+    },
+    {
+      "start": 1483.03,
+      "end": 1485.03,
+      "text": "which is mistaken."
+    },
+    {
+      "start": 1485.03,
+      "end": 1490.03,
+      "text": "That's a problem with some time,"
+    },
+    {
+      "start": 1490.03,
+      "end": 1492.03,
+      "text": "and times we get a contradiction,"
+    },
+    {
+      "start": 1492.03,
+      "end": 1493.03,
+      "text": "saying,"
+    },
+    {
+      "start": 1493.03,
+      "end": 1494.03,
+      "text": "describe and cease,"
+    },
+    {
+      "start": 1494.03,
+      "end": 1497.03,
+      "text": "we talk about 20,000 asantkiya kappa,"
+    },
+    {
+      "start": 1497.03,
+      "end": 1499.03,
+      "text": "asantkiya means,"
+    },
+    {
+      "start": 1499.03,
+      "end": 1502.03,
+      "text": "ah, countless, countless."
+    },
+    {
+      "start": 1502.03,
+      "end": 1507.03,
+      "text": "So, this seems to be a stable."
+    },
+    {
+      "start": 1507.03,
+      "end": 1510.03,
+      "text": "Here you see,"
+    },
+    {
+      "start": 1510.03,
+      "end": 1514.03,
+      "text": "that those people who attain the genres"
+    },
+    {
+      "start": 1514.03,
+      "end": 1516.03,
+      "text": "and they abide in these genres,"
+    },
+    {
+      "start": 1516.03,
+      "end": 1517.03,
+      "text": "and long for it,"
+    },
+    {
+      "start": 1517.03,
+      "end": 1520.03,
+      "text": "and a lot of time in these genres,"
+    },
+    {
+      "start": 1520.03,
+      "end": 1522.03,
+      "text": "when they pass away,"
+    },
+    {
+      "start": 1522.03,
+      "end": 1526.03,
+      "text": "and they have a born into those realms of genre,"
+    },
+    {
+      "start": 1526.03,
+      "end": 1528.03,
+      "text": "the genre realms,"
+    },
+    {
+      "start": 1528.03,
+      "end": 1530.03,
+      "text": "but there's a difference,"
+    },
+    {
+      "start": 1530.03,
+      "end": 1532.03,
+      "text": "two types of persons,"
+    },
+    {
+      "start": 1532.03,
+      "end": 1534.03,
+      "text": "one is a person,"
+    },
+    {
+      "start": 1534.03,
+      "end": 1536.03,
+      "text": "like those external aesthetics,"
+    },
+    {
+      "start": 1536.03,
+      "end": 1539.03,
+      "text": "who do not know the Dhamma,"
+    },
+    {
+      "start": 1539.03,
+      "end": 1542.03,
+      "text": "and then the,"
+    },
+    {
+      "start": 1542.03,
+      "end": 1546.03,
+      "text": "they have not attained the stages of Aria Hutna,"
+    },
+    {
+      "start": 1546.03,
+      "end": 1548.03,
+      "text": "so because of it,"
+    },
+    {
+      "start": 1548.03,
+      "end": 1550.03,
+      "text": "because they have not attained the stages of Aria Hutna,"
+    },
+    {
+      "start": 1550.03,
+      "end": 1552.03,
+      "text": "after they pass away from the Dhamma,"
+    },
+    {
+      "start": 1552.03,
+      "end": 1555.03,
+      "text": "and they fall down to the lower realms,"
+    },
+    {
+      "start": 1555.03,
+      "end": 1556.03,
+      "text": "to the poor place,"
+    },
+    {
+      "start": 1556.03,
+      "end": 1559.03,
+      "text": "and it's possible for them to fall to the poor place."
+    },
+    {
+      "start": 1559.03,
+      "end": 1560.03,
+      "text": "Maybe not immediately,"
+    },
+    {
+      "start": 1560.03,
+      "end": 1562.03,
+      "text": "but they might take a few steps"
+    },
+    {
+      "start": 1562.03,
+      "end": 1564.03,
+      "text": "and fall into the poor place,"
+    },
+    {
+      "start": 1564.03,
+      "end": 1565.03,
+      "text": "eventually."
+    },
+    {
+      "start": 1565.03,
+      "end": 1567.03,
+      "text": "But the disciples of the Buddha"
+    },
+    {
+      "start": 1567.03,
+      "end": 1569.03,
+      "text": "do not do so,"
+    },
+    {
+      "start": 1569.03,
+      "end": 1570.03,
+      "text": "because disciples of the Buddha"
+    },
+    {
+      "start": 1570.03,
+      "end": 1572.03,
+      "text": "call Savaka, Savaka,"
+    },
+    {
+      "start": 1572.03,
+      "end": 1573.03,
+      "text": "and listen,"
+    },
+    {
+      "start": 1573.03,
+      "end": 1575.03,
+      "text": "people like you,"
+    },
+    {
+      "start": 1575.03,
+      "end": 1576.03,
+      "text": "as Savaka,"
+    },
+    {
+      "start": 1576.03,
+      "end": 1578.03,
+      "text": "listen to the Sutras,"
+    },
+    {
+      "start": 1578.03,
+      "end": 1580.03,
+      "text": "so because you listen to the Sutras,"
+    },
+    {
+      "start": 1580.03,
+      "end": 1582.03,
+      "text": "and you understand the Sutras,"
+    },
+    {
+      "start": 1582.03,
+      "end": 1585.03,
+      "text": "then even when you reach the,"
+    },
+    {
+      "start": 1585.03,
+      "end": 1587.03,
+      "text": "a brain of genre,"
+    },
+    {
+      "start": 1587.03,
+      "end": 1590.03,
+      "text": "you don't fall back into the poor place,"
+    },
+    {
+      "start": 1590.03,
+      "end": 1594.03,
+      "text": "because you have transcended any Aria or the Aria,"
+    },
+    {
+      "start": 1594.03,
+      "end": 1597.03,
+      "text": "and never reborn into the poor place,"
+    },
+    {
+      "start": 1597.03,
+      "end": 1600.03,
+      "text": "you'll never go down to the poor place,"
+    },
+    {
+      "start": 1600.03,
+      "end": 1601.03,
+      "text": "and at the lower,"
+    },
+    {
+      "start": 1601.03,
+      "end": 1602.03,
+      "text": "you'll go,"
+    },
+    {
+      "start": 1602.03,
+      "end": 1603.03,
+      "text": "it's the human realm,"
+    },
+    {
+      "start": 1603.03,
+      "end": 1604.03,
+      "text": "come back to the human realm,"
+    },
+    {
+      "start": 1604.03,
+      "end": 1605.03,
+      "text": "like the Sutra-Bana,"
+    },
+    {
+      "start": 1605.03,
+      "end": 1607.03,
+      "text": "and the Saka-Dagami,"
+    },
+    {
+      "start": 1607.03,
+      "end": 1608.03,
+      "text": "and after that,"
+    },
+    {
+      "start": 1608.03,
+      "end": 1611.03,
+      "text": "they get out of the Saksaran,"
+    },
+    {
+      "start": 1611.03,
+      "end": 1613.03,
+      "text": "so sometimes people,"
+    },
+    {
+      "start": 1613.03,
+      "end": 1615.03,
+      "text": "out of prejudice,"
+    },
+    {
+      "start": 1615.03,
+      "end": 1616.03,
+      "text": "they like to see that,"
+    },
+    {
+      "start": 1616.03,
+      "end": 1619.03,
+      "text": "and what's the point of cultivating Jana,"
+    },
+    {
+      "start": 1619.03,
+      "end": 1620.03,
+      "text": "after he attained Jana,"
+    },
+    {
+      "start": 1620.03,
+      "end": 1622.03,
+      "text": "you come down to the poor place again,"
+    },
+    {
+      "start": 1622.03,
+      "end": 1625.03,
+      "text": "but there's only true of external set,"
+    },
+    {
+      "start": 1625.03,
+      "end": 1626.03,
+      "text": "and Satix,"
+    },
+    {
+      "start": 1626.03,
+      "end": 1627.03,
+      "text": "who do not know the Dhamma,"
+    },
+    {
+      "start": 1627.03,
+      "end": 1629.03,
+      "text": "those of us who know the Dhamma,"
+    },
+    {
+      "start": 1629.03,
+      "end": 1634.03,
+      "text": "even if we have attained the genres that,"
+    },
+    {
+      "start": 1634.03,
+      "end": 1637.03,
+      "text": "which means our mind is very clear,"
+    },
+    {
+      "start": 1637.03,
+      "end": 1641.03,
+      "text": "and we could combine with the knowledge of the Sutra-Bana,"
+    },
+    {
+      "start": 1641.03,
+      "end": 1643.03,
+      "text": "and knowledge of the Dhamma,"
+    },
+    {
+      "start": 1643.03,
+      "end": 1644.03,
+      "text": "the Dhamma-Bana,"
+    },
+    {
+      "start": 1644.03,
+      "end": 1649.03,
+      "text": "and it's not likely that we will fall into the poor place."
+    }
+  ]
+}

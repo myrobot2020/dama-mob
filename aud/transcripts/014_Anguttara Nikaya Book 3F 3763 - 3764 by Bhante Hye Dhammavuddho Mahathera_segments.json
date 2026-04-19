@@ -1,0 +1,1150 @@
+{
+  "source": "faster-whisper",
+  "model": "tiny",
+  "device": "cpu",
+  "compute_type": "int8",
+  "language": "en",
+  "duration": 1592.2851875,
+  "segments": [
+    {
+      "start": 0.21,
+      "end": 8.97,
+      "text": "Now, another Sutta we come to is 3.7.63. On a certain occasion, the resulted one was"
+    },
+    {
+      "start": 8.97,
+      "end": 15.61,
+      "text": "uning about among the Goseulans, attended by a great company of monks, and he came to"
+    },
+    {
+      "start": 15.61,
+      "end": 23.29,
+      "text": "Venaga, Pura, a Brahmin village of the Goseulans. Now the Brahmin housemothers of Venaga,"
+    },
+    {
+      "start": 23.29,
+      "end": 29.37,
+      "text": "Pura, heard the news that go to mother recluse. Son of the Suckins, who went forth as a"
+    },
+    {
+      "start": 29.37,
+      "end": 36.97,
+      "text": "wanderer from the Suckins clan, had come to Venaga Pura. Today, a fair report was"
+    },
+    {
+      "start": 36.97,
+      "end": 48.81,
+      "text": "spread about Goseulans. The recluse that the exalted one is thus. It is he that Arahan, who is a"
+    },
+    {
+      "start": 48.81,
+      "end": 54.85,
+      "text": "fully enlightened one, built back in knowledge and practice, well-fared, well-known, unsupposed,"
+    },
+    {
+      "start": 54.85,
+      "end": 61.49,
+      "text": "charioteer of men to be tamed, teacher of devas and mankind, a Buddha and exalted one. He makes"
+    },
+    {
+      "start": 61.49,
+      "end": 66.85,
+      "text": "note this world together with the world of devas, maras and Brahmas, together with the"
+    },
+    {
+      "start": 66.85,
+      "end": 73.65,
+      "text": "most of recluse and Brahmin's, both of devas and mankind, having himself come to know it thoroughly"
+    },
+    {
+      "start": 73.65,
+      "end": 79.41,
+      "text": "for himself. He teaches Dhamma that is lovely in the beginning, lovely in the middle, lovely in"
+    },
+    {
+      "start": 79.41,
+      "end": 85.89,
+      "text": "the end, both in the letter and spirit, in all its fullness he preaches the holy life that is"
+    },
+    {
+      "start": 85.89,
+      "end": 93.09,
+      "text": "utterly pure, well indeed for us if we could get the sight of Arahan such as these. Then the"
+    },
+    {
+      "start": 93.09,
+      "end": 99.57,
+      "text": "Brahmin housefathers of Venaga Pura came to see the exalted one, but coming to see to him some"
+    },
+    {
+      "start": 99.57,
+      "end": 105.73,
+      "text": "saluted the exalted one, and sat down at one side, some greeted the exalted one, and after the"
+    },
+    {
+      "start": 105.73,
+      "end": 111.89,
+      "text": "exchange of greetings and courtesy sat down at one side, some raised the joint palms to their"
+    },
+    {
+      "start": 111.89,
+      "end": 117.97,
+      "text": "foreheads in respect to the exalted one and sat down at one side, some proclaimed the name and"
+    },
+    {
+      "start": 117.97,
+      "end": 125.92,
+      "text": "clan and did the same, well others without saying anything just sat down at one side, just"
+    },
+    {
+      "start": 125.92,
+      "end": 133.28,
+      "text": "offer a word to comment. You see these people when they come to see the Buddha, they behave in different"
+    },
+    {
+      "start": 133.28,
+      "end": 141.92,
+      "text": "ways, some draw a lot of respect for the Buddha, then they sit down to one side, some people not"
+    },
+    {
+      "start": 141.92,
+      "end": 148.48,
+      "text": "so much respect and sit down to one side, some of this see the name and clan and sit down to one"
+    },
+    {
+      "start": 148.48,
+      "end": 153.52,
+      "text": "side, but you notice here that all of them sit down to one side, and when they want to speak"
+    },
+    {
+      "start": 153.52,
+      "end": 160.88,
+      "text": "to the Buddha, this is a kind of Indian tradition, and actually reminds me that I heard sometimes"
+    },
+    {
+      "start": 160.88,
+      "end": 169.28,
+      "text": "in the West, some of our Asians, they go and see a monk like it heard, the ties would go and sit"
+    },
+    {
+      "start": 169.28,
+      "end": 175.52,
+      "text": "lower than the monks, and I see that the three lanterns when they talk to a monk out of respect,"
+    },
+    {
+      "start": 175.52,
+      "end": 183.52,
+      "text": "they will stand, I'll sit down, they stand, and of course to the ties, it's quite different."
+    },
+    {
+      "start": 185.36,
+      "end": 193.84,
+      "text": "So just now we sit at the three lanterns stand out of respect when they talk to a monk,"
+    },
+    {
+      "start": 193.84,
+      "end": 201.2,
+      "text": "why do they stand? Because if you look into the Sutras, you find when the divas come to see the Buddha,"
+    },
+    {
+      "start": 202.16,
+      "end": 208.16,
+      "text": "the divas out of respect, they stand all the divas stand up and they talk to the Buddha."
+    },
+    {
+      "start": 209.52,
+      "end": 220.96,
+      "text": "So different people have different ways of showing respect now to continue on, then as he does"
+    },
+    {
+      "start": 220.96,
+      "end": 229.04,
+      "text": "said, watch a goatah, the brahmin of an Agapura said this to the exalted one. It is wonderful master"
+    },
+    {
+      "start": 229.04,
+      "end": 235.84,
+      "text": "Goatama, it is marvelous master Goatama, how serene is the worthy Goatama's heir, how clear and"
+    },
+    {
+      "start": 235.84,
+      "end": 243.36,
+      "text": "translucent his complexion. Just as the yellow due to be fruit in autumn is clear and translucent,"
+    },
+    {
+      "start": 243.36,
+      "end": 250.0,
+      "text": "even so is the worthy Goatama's complexion. Even as a palm tree fruit just used to be from the"
+    },
+    {
+      "start": 250.0,
+      "end": 257.6,
+      "text": "stock is clear and translucent, even so is the worthy Goatama's complexion. Just as a drinker"
+    },
+    {
+      "start": 257.68,
+      "end": 265.04,
+      "text": "of red gold brought in a crucible by a clever goldsmith, definitely beaten and laid on a yellow"
+    },
+    {
+      "start": 265.04,
+      "end": 272.48,
+      "text": "crop, shines and blazes and glitters, even so the worthy Goatama senses account, his complexion"
+    },
+    {
+      "start": 272.48,
+      "end": 280.8,
+      "text": "is clear and translucent. Now master Goatama, as to those couches both high and broad, such as"
+    },
+    {
+      "start": 280.8,
+      "end": 288.96,
+      "text": "the sofa, the divine or divine, together with the couplets of goats hair, of diverse colors,"
+    },
+    {
+      "start": 289.68,
+      "end": 297.44,
+      "text": "white couplets, couplets of wool, decorated with flowers, quilts of cotton wool, embroidered"
+    },
+    {
+      "start": 297.44,
+      "end": 305.44,
+      "text": "counterparts and rocks, heard on both sides, rocks heard on one side, couplets, gems studied and"
+    },
+    {
+      "start": 305.52,
+      "end": 313.2,
+      "text": "of silk, dances, carpets, rocks for elephants, horse and chariot, rocks of antelope,"
+    },
+    {
+      "start": 313.2,
+      "end": 319.36,
+      "text": "skins, floor spreads of the height of the katali deer, couches with awnings and a red"
+    },
+    {
+      "start": 319.36,
+      "end": 326.16,
+      "text": "boasts to at each end, all such seats both high and low, doubtless the worthy Goatama can get"
+    },
+    {
+      "start": 326.16,
+      "end": 330.64,
+      "text": "as he pleases, can get them without tall and trouble, and the Buddha said,"
+    },
+    {
+      "start": 331.36,
+      "end": 338.16,
+      "text": "from it, as to all these things, indeed, we wondrous get them hardly, that is how we get them,"
+    },
+    {
+      "start": 338.16,
+      "end": 343.92,
+      "text": "that if cotton, they are not to be made use of, I just talk here to say,"
+    },
+    {
+      "start": 343.92,
+      "end": 351.12,
+      "text": "that here you find that the Buddha is saying that wondrous the word is paribachaka, wondrous,"
+    },
+    {
+      "start": 351.12,
+      "end": 360.96,
+      "text": "renunciants, hardly get these luxurious things, couches and rocks and animal skins and all"
+    },
+    {
+      "start": 360.96,
+      "end": 365.44,
+      "text": "then, and the Buddha is saying that even if they get them, they are not to be made"
+    },
+    {
+      "start": 365.44,
+      "end": 371.84,
+      "text": "use of, in other words, the Buddha is not allowed his monks to use luxurious items,"
+    },
+    {
+      "start": 373.04,
+      "end": 379.84,
+      "text": "some of these items during those times, the Buddha's times were considered very luxurious,"
+    },
+    {
+      "start": 379.84,
+      "end": 385.68,
+      "text": "but some of the things are nowadays and might not be considered luxurious, so it depends on"
+    },
+    {
+      "start": 385.68,
+      "end": 393.36,
+      "text": "the times also, and then the Buddha said, now Brahmin, there are these three couches both high"
+    },
+    {
+      "start": 393.36,
+      "end": 399.84,
+      "text": "and broad, which I can get both here and now as I please, without tall and trouble, but are the three,"
+    },
+    {
+      "start": 400.0,
+      "end": 408.0,
+      "text": "here the high broad couches, so let's deal, that which is sublime, and high broad couches of the"
+    },
+    {
+      "start": 408.0,
+      "end": 413.68,
+      "text": "harians, these are the three couches I can get here and now as I please, without tall and"
+    },
+    {
+      "start": 413.68,
+      "end": 420.16,
+      "text": "trouble, and the Brahmin asks, pretty must go to Mah, or what sort is that high broad couches,"
+    },
+    {
+      "start": 420.16,
+      "end": 425.76,
+      "text": "so let's deal, which the word ego to Mah gets here and now as he pleases without tall and trouble,"
+    },
+    {
+      "start": 426.4,
+      "end": 432.16,
+      "text": "and the Buddha said, in this case Brahmin, when I am living dependent on a certain village or"
+    },
+    {
+      "start": 432.16,
+      "end": 439.68,
+      "text": "suburb, I get myself roped in the morning, taking bold and outer rope, I enter that village or"
+    },
+    {
+      "start": 439.68,
+      "end": 447.44,
+      "text": "suburb to bang, when I return from my arms round and I am eaten my meal, I make for the age of a forest,"
+    },
+    {
+      "start": 448.16,
+      "end": 454.88,
+      "text": "there I gather together whatever grasses or leaves, there are into one place and sit down cross"
+    },
+    {
+      "start": 455.52,
+      "end": 461.68,
+      "text": "holding my body straight and setting my coolness in front of me, that's a lieu from sense"
+    },
+    {
+      "start": 461.68,
+      "end": 468.72,
+      "text": "desires, a lieu from unprofitable states of mind, I enter on the first jhana, which is accompanied"
+    },
+    {
+      "start": 468.72,
+      "end": 475.68,
+      "text": "by thought directed and sustained, born of seclusion, delightful and pleasurable, and abide therein,"
+    },
+    {
+      "start": 475.68,
+      "end": 481.04,
+      "text": "I just stop for a while to make some comment, you see the Buddha, he and his disciples,"
+    },
+    {
+      "start": 482.0,
+      "end": 488.88,
+      "text": "he generally go for arms round, and arms round is one of those things in the Buddha's teaching,"
+    },
+    {
+      "start": 488.88,
+      "end": 496.08,
+      "text": "which is very good for a monk, because in this ritual path, we are supposed to cut off our ego,"
+    },
+    {
+      "start": 496.08,
+      "end": 502.48,
+      "text": "eliminate our ego, and when we go on arms round, it is a very good practice for that purpose,"
+    },
+    {
+      "start": 502.48,
+      "end": 507.68,
+      "text": "because you have to make a, you feel very humble when you go on arms round,"
+    },
+    {
+      "start": 507.84,
+      "end": 512.88,
+      "text": "that's why it's not an easy thing to do, so that nowadays, not many monks also do that,"
+    },
+    {
+      "start": 514.16,
+      "end": 519.2,
+      "text": "the other thing is you see that the Buddha, when he, he sees he makes up his meal,"
+    },
+    {
+      "start": 519.2,
+      "end": 526.16,
+      "text": "he goes to the age of a forest, the Buddha is disciples and generally and not allowed to stay deep into"
+    },
+    {
+      "start": 526.16,
+      "end": 533.6,
+      "text": "the forest, because they are not allowed to live on the fruits or whatever trees and leaves,"
+    },
+    {
+      "start": 533.6,
+      "end": 542.0,
+      "text": "and all that in the forest, they are supposed to live dependent on lay people, to allow lay people,"
+    },
+    {
+      "start": 542.0,
+      "end": 547.76,
+      "text": "the chance to make merit, that's why they go to lay people's houses for their food, and after that,"
+    },
+    {
+      "start": 547.76,
+      "end": 553.28,
+      "text": "they go to the age of the forest, not deep into the forest to meditate, and then here you can see the Buddha,"
+    },
+    {
+      "start": 553.28,
+      "end": 559.52,
+      "text": "what he does, he sees he catches the grasses and the leaves together, makes them into a"
+    },
+    {
+      "start": 559.52,
+      "end": 565.84,
+      "text": "comfortable pile and then he sits on it, then to continue, then by calming down thought,"
+    },
+    {
+      "start": 565.84,
+      "end": 572.64,
+      "text": "directed and sustained, I enter on the inward calm, that zingleness of mind, apart from thought,"
+    },
+    {
+      "start": 572.64,
+      "end": 578.32,
+      "text": "directed and sustained, more non-concentration, delightful and pleasurable, which is the second"
+    },
+    {
+      "start": 578.32,
+      "end": 585.36,
+      "text": "genre, and abide therein, then by the fading out of delight, I become equanimous, to remain"
+    },
+    {
+      "start": 585.44,
+      "end": 591.6,
+      "text": "mindful and composed, and experience with the body, that happiness of which the RN say,"
+    },
+    {
+      "start": 592.4,
+      "end": 598.4,
+      "text": "the equanimous mindful man lives happily, and I enter on the third genre and abide therein,"
+    },
+    {
+      "start": 599.84,
+      "end": 604.64,
+      "text": "then abandoning pleasure and pain and light, by the coming to an end of the joint sorrow which I"
+    },
+    {
+      "start": 604.64,
+      "end": 610.96,
+      "text": "had before, I enter and abide in the fourth genre, free of pain and free of pleasure, a state"
+    },
+    {
+      "start": 610.96,
+      "end": 619.04,
+      "text": "of perfect purity of mindfulness and equanimity. Now Brahmin, when I have reached in such a state,"
+    },
+    {
+      "start": 619.04,
+      "end": 625.76,
+      "text": "if I walk up and down, as such time my walking is to me celestial, if I stand, at such time,"
+    },
+    {
+      "start": 625.76,
+      "end": 633.52,
+      "text": "my standing is celestial, if I sit, my sitting is to me celestial, if I lie down celestial is the high"
+    },
+    {
+      "start": 633.52,
+      "end": 641.04,
+      "text": "broad couch I lie on, that Brahmin is what I mean when I speak of the high broad couch celestial,"
+    },
+    {
+      "start": 641.04,
+      "end": 647.76,
+      "text": "which I get as I please without dawn and trouble, in the Brahmin's head, one who must go tomorrow,"
+    },
+    {
+      "start": 647.76,
+      "end": 654.4,
+      "text": "marvelous, must go tomorrow, who but the worthy go tomorrow could get a high broad couch celestial such"
+    },
+    {
+      "start": 654.4,
+      "end": 660.96,
+      "text": "as he pleases without dawn and trouble, I just stop here for a moment, here the Buddha is talking"
+    },
+    {
+      "start": 660.96,
+      "end": 668.64,
+      "text": "about a four, four genres that he attains, one by one, and you find in the sutrasana, the Buddha"
+    },
+    {
+      "start": 668.64,
+      "end": 677.68,
+      "text": "is very often talking about genres, genres are states of mental concentration, where the mind goes"
+    },
+    {
+      "start": 677.68,
+      "end": 687.44,
+      "text": "deep into itself and deep bliss arises, so the four genres is a very high state where the"
+    },
+    {
+      "start": 687.44,
+      "end": 694.64,
+      "text": "breath is supposed to stop all together, and here you can see the Buddha says that when he"
+    },
+    {
+      "start": 694.64,
+      "end": 702.0,
+      "text": "comes out of the four genres, he's in such bliss that if he walks, he appears like he's walking"
+    },
+    {
+      "start": 702.0,
+      "end": 709.04,
+      "text": "in heaven, if he's standing, if he's like he's standing in heaven, sit and lie down, etc. So"
+    },
+    {
+      "start": 709.04,
+      "end": 713.6,
+      "text": "this only shows that when the person comes out of genres, the hindrances are still"
+    },
+    {
+      "start": 714.48,
+      "end": 722.8,
+      "text": "very low, when a person that is janna, the hindrances naturally come to a very low level"
+    },
+    {
+      "start": 723.68,
+      "end": 728.8,
+      "text": "that hindrances are the five, which is the first one essential desire, second one is"
+    },
+    {
+      "start": 728.8,
+      "end": 737.6,
+      "text": "illogular anger, third one is sloth and top, fourth one is restlessness, restlessness and remorse,"
+    },
+    {
+      "start": 737.6,
+      "end": 743.84,
+      "text": "third one is down, so because the hindrances have become so low and in fact some of the"
+    },
+    {
+      "start": 743.84,
+      "end": 750.24,
+      "text": "sutras you can find the Buddha says that when a person that is janna, the hindrances are abandoned,"
+    },
+    {
+      "start": 752.48,
+      "end": 760.88,
+      "text": "so here he's abandoned but not for a person that is in janna or normal person unless he's"
+    },
+    {
+      "start": 760.88,
+      "end": 767.36,
+      "text": "in arahan, hindrances are abandoned but not totally rooted out, not totally eliminated,"
+    },
+    {
+      "start": 767.36,
+      "end": 774.64,
+      "text": "only in the arahan, hindrances are totally rooted out, but still the here, the Buddha is saying"
+    },
+    {
+      "start": 774.64,
+      "end": 778.8,
+      "text": "that when he attained the fourth janna and comes out of it, now he's in high bliss,"
+    },
+    {
+      "start": 779.84,
+      "end": 787.92,
+      "text": "but the bliss of sometime can weigh over, now to continue the Brahmin asked,"
+    },
+    {
+      "start": 787.92,
+      "end": 794.64,
+      "text": "but master goodama, what is that high broad couch supply, the Buddha replied, here in Brahmin"
+    },
+    {
+      "start": 794.64,
+      "end": 798.88,
+      "text": "when I'm living dependent on a certain village, I said try to say try to be born,"
+    },
+    {
+      "start": 799.68,
+      "end": 805.68,
+      "text": "then setting mindfulness in front of me, I abide, suffusing one quarter of the world with a heart,"
+    },
+    {
+      "start": 805.68,
+      "end": 812.32,
+      "text": "possessed of goodwill, beta, likewise the second, third, and both waters, and in like manner,"
+    },
+    {
+      "start": 812.32,
+      "end": 817.12,
+      "text": "above below across everywhere, broad thoughts and conditions, the whole world,"
+    },
+    {
+      "start": 817.12,
+      "end": 822.8,
+      "text": "do I abide, suffusing with a heart possessed of goodwill, beta, that is widespread,"
+    },
+    {
+      "start": 822.8,
+      "end": 828.56,
+      "text": "grown great and boundless, free from enmity and untrubble, and I do likewise with a heart"
+    },
+    {
+      "start": 828.56,
+      "end": 835.92,
+      "text": "possessed of compassion and similarly with a heart of joy, modita possessed of equity,"
+    },
+    {
+      "start": 835.92,
+      "end": 843.2,
+      "text": "that is widespread and untrubble, and trouble, is of the poor Brahmin, the others, and then the Buddha"
+    },
+    {
+      "start": 843.84,
+      "end": 848.96,
+      "text": "now Brahmin, when I have reached such a condition, if I walk up and down, my walking is to"
+    },
+    {
+      "start": 848.96,
+      "end": 855.2,
+      "text": "me sublime, my standing, my sitting, my lying down is to me sublime, that is what I mean,"
+    },
+    {
+      "start": 855.2,
+      "end": 860.4,
+      "text": "when I speak of the sublime high broad couch, which I can get here and now is at peace without"
+    },
+    {
+      "start": 860.4,
+      "end": 866.32,
+      "text": "tall and in trouble, and the Brahmin said, wonderful master goodama, marvelous master goodama,"
+    },
+    {
+      "start": 866.32,
+      "end": 871.92,
+      "text": "who else but worthy goodama could be the high broad couch sublime, I stop here in the moment,"
+    },
+    {
+      "start": 872.88,
+      "end": 882.56,
+      "text": "to say that this cultivation of the poor Brahmin, we haras and poor supreme abiding,"
+    },
+    {
+      "start": 882.56,
+      "end": 892.96,
+      "text": "and also to do with jada, because these states also states of jada, when he can refuse the world"
+    },
+    {
+      "start": 893.04,
+      "end": 904.48,
+      "text": "with these poor Brahmin, we haras which is metah, karuna, modita, and uplica, good will, compassion,"
+    },
+    {
+      "start": 905.36,
+      "end": 916.13,
+      "text": "joy, and equity, to continue with the Brahmin asked, but pre master gothama, what is that"
+    },
+    {
+      "start": 916.13,
+      "end": 921.17,
+      "text": "Aryan, high broad couch, and the Buddha said, here in Brahmin, when I am living dependent on some"
+    },
+    {
+      "start": 921.17,
+      "end": 927.41,
+      "text": "village, etc., then setting mindfulness in front of me, I know that for certain, passion is"
+    },
+    {
+      "start": 927.41,
+      "end": 934.61,
+      "text": "abandoned by me, it is cut off at the root, made like a palm tree, stop, made such as not to grow again,"
+    },
+    {
+      "start": 934.61,
+      "end": 941.25,
+      "text": "unable to sprout again in the future time, hatred is abandoned by me, delusion is abandoned by me,"
+    },
+    {
+      "start": 941.25,
+      "end": 946.45,
+      "text": "made unable to sprout again in the future time, that Brahmin is the Aryan couch, broad and high,"
+    },
+    {
+      "start": 946.45,
+      "end": 952.21,
+      "text": "which I can get. Now Brahmin, when I have agreed, but I have reached such a condition,"
+    },
+    {
+      "start": 952.21,
+      "end": 957.01,
+      "text": "if I walk up and down, my standing, my sitting, my lying down is to be Aryan,"
+    },
+    {
+      "start": 957.01,
+      "end": 961.73,
+      "text": "that is what I mean when I speak of the Aryan, high broad couch, which I can get here and now,"
+    },
+    {
+      "start": 961.73,
+      "end": 967.25,
+      "text": "as I please, without tomorrow and trouble, and the Brahmin said, wonderful master gothama,"
+    },
+    {
+      "start": 967.25,
+      "end": 972.77,
+      "text": "marvelous master gothama, who else, but the worthy gothama could do so, excellent master gothama,"
+    },
+    {
+      "start": 972.77,
+      "end": 978.85,
+      "text": "excellent master gothama, this is one reason what is overtroed or holds up a light in the darkness,"
+    },
+    {
+      "start": 978.85,
+      "end": 985.41,
+      "text": "even so in diverse ways as damma been set forth by the worthy gothama, be here, do go for"
+    },
+    {
+      "start": 985.41,
+      "end": 990.53,
+      "text": "refuge, the worthy gothama, do damma, do the order of monks, be the worthy gothama,"
+    },
+    {
+      "start": 990.53,
+      "end": 997.25,
+      "text": "except as a leaf, follow from this leaf, or alive, last, who have so thick and refuge,"
+    },
+    {
+      "start": 999.65,
+      "end": 1006.53,
+      "text": "so that's the end of the sutra, so here you can see that the holy life,"
+    },
+    {
+      "start": 1007.33,
+      "end": 1015.01,
+      "text": "these are some of the fruits of the holy life, there is deep happiness and bliss, that can be"
+    },
+    {
+      "start": 1015.01,
+      "end": 1020.53,
+      "text": "caught from the holy life, if a person practices, if they are going not such this happiness,"
+    },
+    {
+      "start": 1020.53,
+      "end": 1026.69,
+      "text": "who would want to practice the holy life, because when we practice the holy life, they are material"
+    },
+    {
+      "start": 1026.77,
+      "end": 1034.85,
+      "text": "discomforts, there are some suffering, the physical sense, but because there is happiness in this"
+    },
+    {
+      "start": 1034.85,
+      "end": 1040.77,
+      "text": "spiritual sense, that it compensates about the physical suffering that the monk undergoes,"
+    },
+    {
+      "start": 1042.45,
+      "end": 1048.29,
+      "text": "and playing this spiritual happiness that the monk gets, or a person practices the holy path,"
+    },
+    {
+      "start": 1048.29,
+      "end": 1060.61,
+      "text": "gets something that lasts, not like the worldly things that are so short, lived, and then the"
+    },
+    {
+      "start": 1060.61,
+      "end": 1065.41,
+      "text": "end of the sutra, here again, you see that the person takes refuge with the Buddha, damma, and the"
+    },
+    {
+      "start": 1065.41,
+      "end": 1076.26,
+      "text": "Bikku Sangga, and the sutra is 3.7.64, that's how I heard, most of all the sutra,"
+    },
+    {
+      "start": 1076.26,
+      "end": 1081.86,
+      "text": "this does have I heard, that sometimes it's missed out, there is no good. On a certain occasion,"
+    },
+    {
+      "start": 1081.86,
+      "end": 1088.5,
+      "text": "the exalted one was staying near Rajagaha, on the waltsis peak, now at that time, Sarabha,"
+    },
+    {
+      "start": 1089.38,
+      "end": 1095.62,
+      "text": "so called the one who had not long since deserted this damma binaya, also thus speaking in the"
+    },
+    {
+      "start": 1095.62,
+      "end": 1105.49,
+      "text": "company at Rajagaha, and he said, I understand the damma of the reclusors who are suckin sons,"
+    },
+    {
+      "start": 1105.49,
+      "end": 1111.33,
+      "text": "it is because I understand it that I have deserted the damma binaya. I'll stop here while to"
+    },
+    {
+      "start": 1111.33,
+      "end": 1118.13,
+      "text": "comment, what is this damma binaya? You find in the sutra that the Buddha's teachings, the Buddha"
+    },
+    {
+      "start": 1118.13,
+      "end": 1124.69,
+      "text": "calls the damma binaya. The Buddha never calls his teachings to be darker or to be darker,"
+    },
+    {
+      "start": 1124.77,
+      "end": 1134.21,
+      "text": "he always in the sutra, he calls it damma binaya. And damma is defined in the Angutranikaya as the sutras."
+    },
+    {
+      "start": 1134.21,
+      "end": 1141.09,
+      "text": "I think in the chapter of the fours, I'll put on the fours in the Angutranikaya, the Buddha says,"
+    },
+    {
+      "start": 1141.09,
+      "end": 1151.33,
+      "text": "damma is sutras, and Vinaya is the disciplinary court for monks and nuns. So in this case,"
+    },
+    {
+      "start": 1151.33,
+      "end": 1160.21,
+      "text": "there is this monk called Svapas. He had been a monk before under the Buddha, but he disrobe and left"
+    },
+    {
+      "start": 1162.21,
+      "end": 1172.77,
+      "text": "the Buddha's monks and he joined the external sacachetics. So this shows that even during the Buddha's"
+    },
+    {
+      "start": 1172.77,
+      "end": 1179.65,
+      "text": "time, even when the Buddha was alive, there were certain people who could not follow the Buddha's teachings,"
+    },
+    {
+      "start": 1179.73,
+      "end": 1185.01,
+      "text": "even the Buddha was unable to teach such people. That's why, in the sutras, the Buddha said,"
+    },
+    {
+      "start": 1185.01,
+      "end": 1190.69,
+      "text": "I only teach him a movement, because there are some men who are not timetable, who would allow themselves"
+    },
+    {
+      "start": 1190.69,
+      "end": 1200.21,
+      "text": "to be tame. So even those kind of persons, the Buddha cannot change. So we have to be careful"
+    },
+    {
+      "start": 1200.21,
+      "end": 1209.49,
+      "text": "that the Buddha cannot liberate all beings in only those that are ready to be tame."
+    },
+    {
+      "start": 1209.49,
+      "end": 1215.57,
+      "text": "The Buddha can't help. That's a continue. Then the number of monks having moved themselves,"
+    },
+    {
+      "start": 1216.37,
+      "end": 1222.37,
+      "text": "taking bull and outer rope entered Raja Gaha to back, and those monks heard Sarabha, the"
+    },
+    {
+      "start": 1222.37,
+      "end": 1230.21,
+      "text": "wanderer, speaking in the company at Raja Gaha. These words, so when they had done their"
+    },
+    {
+      "start": 1230.21,
+      "end": 1235.65,
+      "text": "backing rounds and had returned and eaten their meal, they went to the exalted one, and on coming"
+    },
+    {
+      "start": 1235.65,
+      "end": 1241.73,
+      "text": "to him, saluted him, they respite to him and sat down at one side, so seated, they said this to the"
+    },
+    {
+      "start": 1241.73,
+      "end": 1249.65,
+      "text": "exalted one. Lord, Sarabha, the wanderer, has not long since deserted this Dharma vinyan. At Raja Gaha,"
+    },
+    {
+      "start": 1249.65,
+      "end": 1255.17,
+      "text": "he is speaking thus to the company. By understand the Dharma of the reclusives who are"
+    },
+    {
+      "start": 1255.17,
+      "end": 1260.05,
+      "text": "sucking sons, it is because I understand it that I have deserted that Dharma vinyan."
+    },
+    {
+      "start": 1261.33,
+      "end": 1266.29,
+      "text": "Lord, it would be well that the exalted one were to go to snake riverbank to the wondrous"
+    },
+    {
+      "start": 1266.29,
+      "end": 1273.89,
+      "text": "park, where Sarabha the wondrous is out of compassion for him, and he exalted one consented my"
+    },
+    {
+      "start": 1273.97,
+      "end": 1280.45,
+      "text": "silence. So the exalted one rising up from his solitary meditation in the evening,"
+    },
+    {
+      "start": 1280.45,
+      "end": 1285.73,
+      "text": "went to snake riverbank to visit Sarabha the wondrous in the wondrous park,"
+    },
+    {
+      "start": 1285.73,
+      "end": 1290.05,
+      "text": "reaching him, and reaching there he sat down on the seat made ready."
+    },
+    {
+      "start": 1291.01,
+      "end": 1294.53,
+      "text": "Having done so, the exalted one said this to Sarabha the wondrous."
+    },
+    {
+      "start": 1295.57,
+      "end": 1300.77,
+      "text": "Is it true I hear Sarabha that you say, I understand the Dharma of the reclusives who are"
+    },
+    {
+      "start": 1300.85,
+      "end": 1305.89,
+      "text": "sucking sons, it is because I understand it that I have deserted that Dharma vinyan."
+    },
+    {
+      "start": 1307.57,
+      "end": 1313.41,
+      "text": "At these words Sarabha the wondrous was silent. Then a second time they exalted one spoke to Sarabha"
+    },
+    {
+      "start": 1313.41,
+      "end": 1318.93,
+      "text": "the wondrous. Speak Sarabha, how is it that you have understood the Dharma of the reclusives who are"
+    },
+    {
+      "start": 1318.93,
+      "end": 1324.85,
+      "text": "sucking sons? If your knowledge is incomplete I will complete it for you. If it is complete,"
+    },
+    {
+      "start": 1324.85,
+      "end": 1330.05,
+      "text": "I shall receive it gladly. And the second time Sarabha the wondrous was silent."
+    },
+    {
+      "start": 1330.77,
+      "end": 1334.29,
+      "text": "And for the third time the exalted one spoke to Sarabha the wondrous."
+    },
+    {
+      "start": 1335.33,
+      "end": 1341.49,
+      "text": "Sarabha, it is by me that the Dharma of the sucking sons who are reclusives have been reviewed."
+    },
+    {
+      "start": 1341.49,
+      "end": 1347.09,
+      "text": "Speak Sarabha, how is it that you have understood the Dharma of the reclusives who are sucking sons?"
+    },
+    {
+      "start": 1347.89,
+      "end": 1353.41,
+      "text": "If your knowledge is incomplete I will complete it for you. If it is complete I shall receive it gladly."
+    },
+    {
+      "start": 1354.61,
+      "end": 1359.97,
+      "text": "And the third time Sarabha the wondrous silent. They are upon the wondrous of Radhaka-ha,"
+    },
+    {
+      "start": 1359.97,
+      "end": 1365.73,
+      "text": "said this to the Sarabha the wondrous. Friend, whatever you may have to ask"
+    },
+    {
+      "start": 1365.73,
+      "end": 1371.81,
+      "text": "what the Dharma the reclusives gives you the opportunity to do so. Speak reverence Sarabha."
+    },
+    {
+      "start": 1371.81,
+      "end": 1376.29,
+      "text": "If your knowledge is incomplete go to the Dharma of the Dharma, the Dharma of the Dharma will"
+    },
+    {
+      "start": 1376.29,
+      "end": 1380.61,
+      "text": "complete it for you. If it is complete he will receive it gladly."
+    },
+    {
+      "start": 1381.97,
+      "end": 1387.81,
+      "text": "At these words Sarabha the wondrous remains silent, confused, hanging his head looking down"
+    },
+    {
+      "start": 1388.45,
+      "end": 1394.05,
+      "text": "at this appointed man unable to make reply. So the exalted one, seeing him in this"
+    },
+    {
+      "start": 1394.05,
+      "end": 1401.01,
+      "text": "condition said to those wondrous. Wondrous, if anyone should say to me you have not perfect"
+    },
+    {
+      "start": 1401.01,
+      "end": 1406.69,
+      "text": "knowledge of these things, though you claim to be fully enlightened. I should closely examine"
+    },
+    {
+      "start": 1406.69,
+      "end": 1413.49,
+      "text": "him, question him and talk with him. He does closely examine, question and talk with,"
+    },
+    {
+      "start": 1413.49,
+      "end": 1420.21,
+      "text": "would surely and inevitably be reduced to one or three conditions. Either he would show the"
+    },
+    {
+      "start": 1420.21,
+      "end": 1426.53,
+      "text": "question by another and direct the talk to an alien subject or he would display anger,"
+    },
+    {
+      "start": 1427.81,
+      "end": 1434.45,
+      "text": "melis and salkiness or he would sit silent, confused, hanging his head, looking down"
+    },
+    {
+      "start": 1434.45,
+      "end": 1440.13,
+      "text": "words at this appointed man and able to make reply. This has now Sarabha the wondrous."
+    },
+    {
+      "start": 1440.53,
+      "end": 1448.37,
+      "text": "Wondrous, if anyone were to say to me the Dharma preached by you for the purpose of utterly"
+    },
+    {
+      "start": 1448.37,
+      "end": 1456.29,
+      "text": "destroying Dukha, does not lead those who act accordingly to such a goal. I should do likewise"
+    },
+    {
+      "start": 1456.29,
+      "end": 1462.61,
+      "text": "and he would be reduced to the same condition as Sarabha the wondrous. Then the exalted one,"
+    },
+    {
+      "start": 1462.61,
+      "end": 1468.69,
+      "text": "having tries, uttered his lines draw in the wondrous path on the bank of Sting River,"
+    },
+    {
+      "start": 1468.69,
+      "end": 1475.57,
+      "text": "departed through the air. Now not long after the departure of the exalted one,"
+    },
+    {
+      "start": 1475.57,
+      "end": 1481.89,
+      "text": "those wondrous assels Sarabha the wondrous on all sides with a torrent of abuse and poking fun"
+    },
+    {
+      "start": 1481.89,
+      "end": 1489.17,
+      "text": "at him said, friends Sarabha, even as a decrepit jackal in the great forest, thinking to utter"
+    },
+    {
+      "start": 1489.25,
+      "end": 1496.29,
+      "text": "a lion's roar can only let out just a jackal's scream. So you rent Sarabha, thinking to utter"
+    },
+    {
+      "start": 1496.29,
+      "end": 1502.93,
+      "text": "the lion's roar which not but go to the mother recluse can utter. You give just such a jackal's scream."
+    },
+    {
+      "start": 1504.13,
+      "end": 1510.45,
+      "text": "Friends Sarabha, just as a poor little hand, things to grow like a cock, and after all let's out,"
+    },
+    {
+      "start": 1510.45,
+      "end": 1517.49,
+      "text": "let's out just a poor little hand's cackle. So you thinking to utter the cock crow that none"
+    },
+    {
+      "start": 1517.49,
+      "end": 1524.61,
+      "text": "but go to mother recluse can utter, let out just a poor little hand's cackle. Friends Sarabha,"
+    },
+    {
+      "start": 1524.61,
+      "end": 1530.53,
+      "text": "just as a young bull cock, when the cock and his empty, things he values deeply,"
+    },
+    {
+      "start": 1530.53,
+      "end": 1537.41,
+      "text": "that can all bull. So to you two friends Sarabha, think to utter the deep value that none but go"
+    },
+    {
+      "start": 1537.41,
+      "end": 1543.97,
+      "text": "to mother recluse can utter. Thus did those wondrous assels Sarabha, the wondrous with a torrent of"
+    },
+    {
+      "start": 1543.97,
+      "end": 1551.33,
+      "text": "a few spooking fun that him. This is the end of the sutta. This is the interesting sutta because"
+    },
+    {
+      "start": 1551.33,
+      "end": 1565.89,
+      "text": "it shows the Buddha's character, he found that his Sassana is religion was spoken bad of by"
+    },
+    {
+      "start": 1565.89,
+      "end": 1578.29,
+      "text": "this Sarabha, so he went to defend it and he saw this Sarabha apart. And also it's interesting"
+    },
+    {
+      "start": 1578.29,
+      "end": 1587.01,
+      "text": "after speaking to Sarabha, he departed by a flying off. This one of the revocations,"
+    },
+    {
+      "start": 1587.01,
+      "end": 1593.65,
+      "text": "as well as the Buddha, showed his sackle power."
+    }
+  ]
+}

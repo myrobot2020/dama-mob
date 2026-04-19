@@ -1,0 +1,1540 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2101.313,
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 10.95,
+      "text": "of Sutta number 20, 10.20. Once the exalted one was staying among the"
+    },
+    {
+      "start": 10.95,
+      "end": 18.27,
+      "text": "Kurus at Kama Saddhamma, a township of the Kurus. On that occasion, the exalted"
+    },
+    {
+      "start": 18.27,
+      "end": 24.35,
+      "text": "one addressed the monks saying, monks, there are these 10 ways of Aryan living"
+    },
+    {
+      "start": 24.35,
+      "end": 32.19,
+      "text": "or abiding. According to which Aryans have lived, do live and shall live. What"
+    },
+    {
+      "start": 32.19,
+      "end": 39.67,
+      "text": "10. Herein, a monk has abandoned five factors, is possessed of six factors,"
+    },
+    {
+      "start": 39.67,
+      "end": 48.75,
+      "text": "God's one factor, observes the four basis or supports, has got rid of individual"
+    },
+    {
+      "start": 48.75,
+      "end": 57.99,
+      "text": "beliefs or views, has utterly given up longings, his thoughts are unclouded, his"
+    },
+    {
+      "start": 57.99,
+      "end": 65.07,
+      "text": "body conditioner is tranquilized, he is well released by mind, he is well released"
+    },
+    {
+      "start": 65.07,
+      "end": 71.23,
+      "text": "by wisdom. These are the 10 ways of Aryan living, according to which Aryans"
+    },
+    {
+      "start": 71.23,
+      "end": 81.56,
+      "text": "have lived, do live and shall live. I'll just stop here for a moment. So here, what"
+    },
+    {
+      "start": 81.56,
+      "end": 88.68,
+      "text": "the Buddha is saying is that Aryans practice these 10 things. But this, but"
+    },
+    {
+      "start": 88.68,
+      "end": 96.32,
+      "text": "it doesn't mean that all Aryans possess these 10 things. The highest Aryan,"
+    },
+    {
+      "start": 96.32,
+      "end": 104.88,
+      "text": "which is the Arahant, would possess all these 10 qualities. But other Aryans, for"
+    },
+    {
+      "start": 104.88,
+      "end": 112.84,
+      "text": "example, the Suttapanna or Sakatagamin or Anagamin, they would have slightly, they"
+    },
+    {
+      "start": 112.84,
+      "end": 117.96,
+      "text": "may have slightly less than all these 10 qualities. Just like the Noble Eightfold"
+    },
+    {
+      "start": 118.04,
+      "end": 127.08,
+      "text": "Path, if a monk possess the Noble Eightfold Path completely, then he is an"
+    },
+    {
+      "start": 127.08,
+      "end": 135.28,
+      "text": "Arahant. But other Aryans do not possess the Noble Eightfold Path completely or"
+    },
+    {
+      "start": 135.28,
+      "end": 148.07,
+      "text": "perfectly. And then the Buddha continued, and how is a monk, one who has abandoned"
+    },
+    {
+      "start": 148.07,
+      "end": 155.95,
+      "text": "five factors? Hearing a monk has abandoned sensual desire, ill will, sloth"
+    },
+    {
+      "start": 155.95,
+      "end": 162.91,
+      "text": "and torpor, restlessness and worry, doubt and wavering. Thus, he is one who has"
+    },
+    {
+      "start": 162.91,
+      "end": 169.03,
+      "text": "abandoned five factors. And how is a monk, one who is possessed of six factors?"
+    },
+    {
+      "start": 169.03,
+      "end": 175.31,
+      "text": "Hearing a monk seeing an object with the eye is not elated or depressed, but"
+    },
+    {
+      "start": 175.39,
+      "end": 181.79,
+      "text": "dwells equanimous, mindful and collected. Hearing a sound with the ear, smelling a"
+    },
+    {
+      "start": 181.79,
+      "end": 187.47,
+      "text": "scent with the nose, tasting a flavor with the tongue, contacting an object with"
+    },
+    {
+      "start": 187.47,
+      "end": 195.43,
+      "text": "the body. With mind cognizing mental states, he is not elated or depressed, but"
+    },
+    {
+      "start": 195.43,
+      "end": 201.51,
+      "text": "dwells equanimous, mindful and collected. Thus is a monk possessed of six factors."
+    },
+    {
+      "start": 202.47,
+      "end": 209.31,
+      "text": "And how does a monk guard one factor? By guarding recollection, or sometimes they"
+    },
+    {
+      "start": 209.31,
+      "end": 215.99,
+      "text": "translate as mindfulness, he is composed or collected. Thus he guards one"
+    },
+    {
+      "start": 215.99,
+      "end": 222.83,
+      "text": "factor. And how does a monk observe the four bases? Hearing a monk deliberately"
+    },
+    {
+      "start": 222.83,
+      "end": 230.35,
+      "text": "develops one thing, deliberately nurtures or promotes another thing, restrains one"
+    },
+    {
+      "start": 230.35,
+      "end": 237.71,
+      "text": "thing, abandons or suppresses another thing. Thus a monk observes the four"
+    },
+    {
+      "start": 237.71,
+      "end": 244.03,
+      "text": "bases. And how is a monk one who has got rid of individual beliefs or views?"
+    },
+    {
+      "start": 244.03,
+      "end": 250.71,
+      "text": "Hearing monks whatsoever individual views generally prevail among recluses and"
+    },
+    {
+      "start": 250.71,
+      "end": 256.75,
+      "text": "Brahmins, namely the world is eternal, the world is not eternal, the world is"
+    },
+    {
+      "start": 256.75,
+      "end": 262.55,
+      "text": "finite, it is infinite, the soul and the body are the same, the soul and the body"
+    },
+    {
+      "start": 262.55,
+      "end": 270.51,
+      "text": "are different. A Tata Gata exists after death, a Tata Gata exists not after"
+    },
+    {
+      "start": 270.51,
+      "end": 276.91,
+      "text": "death, or he both exists and yet exists not, or he neither exists nor exists not"
+    },
+    {
+      "start": 276.91,
+      "end": 283.63,
+      "text": "after death. All these views are shaken off, put away, given up, let go, abandoned"
+    },
+    {
+      "start": 283.63,
+      "end": 290.67,
+      "text": "and dismissed. Thus is a monk one who has got rid of individual views. And how"
+    },
+    {
+      "start": 290.67,
+      "end": 295.79,
+      "text": "is a monk one who has utterly given up longings? Hearing in a monk longing for"
+    },
+    {
+      "start": 295.79,
+      "end": 301.91,
+      "text": "things sensual is abandoned, longing for existence is abandoned, longing for"
+    },
+    {
+      "start": 301.91,
+      "end": 307.35,
+      "text": "practicing the holy life has calmed down. Thus is a monk one who has utterly"
+    },
+    {
+      "start": 307.35,
+      "end": 313.71,
+      "text": "given up longings. And how are a monk's thoughts unclouded? Hearing a monk has"
+    },
+    {
+      "start": 313.71,
+      "end": 319.27,
+      "text": "abandoned thoughts sensual, thoughts malicious, thoughts of harming. Thus are"
+    },
+    {
+      "start": 319.27,
+      "end": 325.59,
+      "text": "his thoughts unclouded. And how is a monk's body conditioner tranquilized? Hearing"
+    },
+    {
+      "start": 325.59,
+      "end": 331.99,
+      "text": "a monk by abandoning pleasure and pain, by coming to an end of the ease and"
+    },
+    {
+      "start": 331.99,
+      "end": 336.63,
+      "text": "discomfort that which he had before, attains and abides in the state of neither"
+    },
+    {
+      "start": 336.71,
+      "end": 348.27,
+      "text": "pain nor pleasure. And utter equanimity, which is the fourth jhana, thus his"
+    },
+    {
+      "start": 348.27,
+      "end": 353.83,
+      "text": "body conditioner is tranquilized. And how is a monk well released by mind? Hearing"
+    },
+    {
+      "start": 353.83,
+      "end": 360.39,
+      "text": "a monk's mind is released from passion, hate and delusion, or greed, hatred and"
+    },
+    {
+      "start": 360.39,
+      "end": 365.75,
+      "text": "delusion. And how is a monk well released by wisdom? Hearing a monk knows for"
+    },
+    {
+      "start": 365.75,
+      "end": 371.55,
+      "text": "certain. Greed or passion is abandoned in me, cut off at the root, made like a"
+    },
+    {
+      "start": 371.55,
+      "end": 376.91,
+      "text": "palm tree stump, made not to become again of a nature not to arise again in"
+    },
+    {
+      "start": 376.91,
+      "end": 384.03,
+      "text": "future. Hatred, delusion is abandoned in me, not to arise again in future time."
+    },
+    {
+      "start": 384.23,
+      "end": 389.99,
+      "text": "Thus is a monk well released by wisdom. Monks whatsoever, Aryans have in the"
+    },
+    {
+      "start": 389.99,
+      "end": 395.27,
+      "text": "past lived according to the Aryan living. All of them lived according to these"
+    },
+    {
+      "start": 395.27,
+      "end": 400.67,
+      "text": "10 ways of Aryan living. Whatsoever Aryans shall in future time so live,"
+    },
+    {
+      "start": 401.07,
+      "end": 406.79,
+      "text": "whatsoever Aryans do now so live, all of them shall live and do live according"
+    },
+    {
+      "start": 406.79,
+      "end": 412.19,
+      "text": "to these 10 ways of Aryan living. These monks are the 10 ways of Aryan living."
+    },
+    {
+      "start": 413.35,
+      "end": 418.11,
+      "text": "And that's the end of the sutta. Now I just explain the first one. A monk has"
+    },
+    {
+      "start": 418.11,
+      "end": 423.63,
+      "text": "abandoned five factors. They mean sensual desire, ill will, sloth and topper,"
+    },
+    {
+      "start": 423.63,
+      "end": 430.51,
+      "text": "restlessness and doubt. Now these five things are called the five hindrances,"
+    },
+    {
+      "start": 430.83,
+      "end": 438.55,
+      "text": "pancha, nibbarana. And these are the things that obstruct wisdom. The Buddha"
+    },
+    {
+      "start": 438.55,
+      "end": 449.23,
+      "text": "said these are evil things. Only when you get rid of these five hindrances can"
+    },
+    {
+      "start": 449.31,
+      "end": 457.63,
+      "text": "you have wisdom because they obstruct you from seeing things clearly, from seeing"
+    },
+    {
+      "start": 457.63,
+      "end": 464.67,
+      "text": "things as they really are. Now how to get rid of these five hindrances in a"
+    },
+    {
+      "start": 464.67,
+      "end": 470.15,
+      "text": "sutta in the Majima Nikaya? The Buddha did explain that you must attain the"
+    },
+    {
+      "start": 470.15,
+      "end": 478.79,
+      "text": "jhana to get rid of the five hindrances. So the first one is to abandon the five"
+    },
+    {
+      "start": 478.83,
+      "end": 486.03,
+      "text": "hindrances. The second one among is possessed of six factors. Seeing an object"
+    },
+    {
+      "start": 486.03,
+      "end": 491.39,
+      "text": "with the eye is not elated or depressed but dwells, equanimous, mindful and"
+    },
+    {
+      "start": 491.39,
+      "end": 498.51,
+      "text": "collected. And similarly with hearing a sound, smelling a smell, etc. So here it"
+    },
+    {
+      "start": 498.51,
+      "end": 508.35,
+      "text": "means guarding mindful of the six sense doors and practicing here in Pali is"
+    },
+    {
+      "start": 508.35,
+      "end": 517.59,
+      "text": "called sattva, sampajano. Sattva refers to satti, having recollection. And"
+    },
+    {
+      "start": 517.59,
+      "end": 523.07,
+      "text": "sampajano means mindfulness or full awareness, full awareness. These two"
+    },
+    {
+      "start": 523.07,
+      "end": 530.63,
+      "text": "terms tend to come together because when you practice mindfulness and then you"
+    },
+    {
+      "start": 530.71,
+      "end": 538.91,
+      "text": "tend to have sattva. Sampajano or sampajanya means having full awareness or"
+    },
+    {
+      "start": 538.91,
+      "end": 546.51,
+      "text": "mindfulness. And satti is to remember to put your mind in the right direction at"
+    },
+    {
+      "start": 546.51,
+      "end": 554.98,
+      "text": "the four objects of sattva. Then the matri is to guard one factor. Here this"
+    },
+    {
+      "start": 555.06,
+      "end": 564.98,
+      "text": "factor is also satti, satti recollection. This is guarding one factor. Satti is"
+    },
+    {
+      "start": 564.98,
+      "end": 571.38,
+      "text": "quite important for a man who is practicing putting the mind on the body,"
+    },
+    {
+      "start": 571.38,
+      "end": 583.54,
+      "text": "the feelings, the mind and the dhamma. And number four, how is to observe the"
+    },
+    {
+      "start": 583.54,
+      "end": 590.7,
+      "text": "four bases? These four bases are the four right efforts. Deliberately develop"
+    },
+    {
+      "start": 590.7,
+      "end": 596.86,
+      "text": "one thing. Deliberately nurture or promote another thing. Restrain or avoid"
+    },
+    {
+      "start": 596.86,
+      "end": 603.78,
+      "text": "one thing. Abandon or suppress another thing. This refers to wholesome states"
+    },
+    {
+      "start": 603.78,
+      "end": 611.3,
+      "text": "and unwholesome states. The first one is wholesome states. Wholesome states that"
+    },
+    {
+      "start": 611.38,
+      "end": 616.86,
+      "text": "have not developed, you must develop it. They have not arisen. You have to"
+    },
+    {
+      "start": 616.86,
+      "end": 622.26,
+      "text": "develop it so that it arises. And then wholesome states that have already arisen,"
+    },
+    {
+      "start": 622.26,
+      "end": 628.9,
+      "text": "you should nurture or promote it so that it continues to arise. Then unwholesome"
+    },
+    {
+      "start": 628.9,
+      "end": 635.34,
+      "text": "states that have not arisen, you should avoid or restrain it from arising. And"
+    },
+    {
+      "start": 635.34,
+      "end": 640.06,
+      "text": "unwholesome states which have already arisen, you try to suppress it or"
+    },
+    {
+      "start": 640.06,
+      "end": 646.54,
+      "text": "abandon it. So these are the four right efforts. And number five, the monk has"
+    },
+    {
+      "start": 646.54,
+      "end": 653.86,
+      "text": "got rid of individual views. All kinds of views exist in the world. That the"
+    },
+    {
+      "start": 653.86,
+      "end": 658.02,
+      "text": "world is eternal, the world is not eternal, the world is finite or infinite,"
+    },
+    {
+      "start": 658.02,
+      "end": 665.74,
+      "text": "etc. These all have to do with an ego. Once you have a view of a self, then you"
+    },
+    {
+      "start": 665.74,
+      "end": 671.5,
+      "text": "tend to think about all these things. So the monk has got rid of all these views."
+    },
+    {
+      "start": 671.5,
+      "end": 681.07,
+      "text": "Number six is to have given up longings. Here longings refers to sensual"
+    },
+    {
+      "start": 681.07,
+      "end": 688.39,
+      "text": "longings, longing for existence and longing for practicing the holy life"
+    },
+    {
+      "start": 688.39,
+      "end": 695.95,
+      "text": "has calmed down. The first one you can understand, sensual objects, longing for"
+    },
+    {
+      "start": 695.95,
+      "end": 701.47,
+      "text": "sensual things, you abandon. Longing for existence also you abandon when you"
+    },
+    {
+      "start": 701.47,
+      "end": 706.91,
+      "text": "become an Arya. But the third one, longing for practicing the holy life has calmed"
+    },
+    {
+      "start": 706.91,
+      "end": 713.87,
+      "text": "down. This one looks a bit strange. In the first sutra of the Sanyuta Nikhaya,"
+    },
+    {
+      "start": 713.87,
+      "end": 722.11,
+      "text": "the Buddha said that some deva asked him, how did you cross the flood? And the"
+    },
+    {
+      "start": 722.11,
+      "end": 731.27,
+      "text": "Buddha said, not striving and not standing still, I crossed the flood. The"
+    },
+    {
+      "start": 731.27,
+      "end": 739.07,
+      "text": "Buddha said, when I strove, I was swirled about. When I stood still, I sang. Thus,"
+    },
+    {
+      "start": 739.07,
+      "end": 746.35,
+      "text": "without striving, without standing still, I crossed the flood. But the Buddha was"
+    },
+    {
+      "start": 746.35,
+      "end": 754.63,
+      "text": "man. If he made too much effort, then he was swirled around. If you make too"
+    },
+    {
+      "start": 754.63,
+      "end": 761.59,
+      "text": "much effort, but if you make no effort at all, also that means he sang in the"
+    },
+    {
+      "start": 761.59,
+      "end": 766.71,
+      "text": "middle of the... suppose a person is trying to cross the river, he make too"
+    },
+    {
+      "start": 766.71,
+      "end": 772.31,
+      "text": "much effort, he'll go in a circle. So if he made no effort, he'll sing in"
+    },
+    {
+      "start": 772.31,
+      "end": 778.11,
+      "text": "the water. So the Buddha said, neither striving nor standing still, he crossed"
+    },
+    {
+      "start": 778.11,
+      "end": 783.87,
+      "text": "the flood. In other words, to have an equanimous mind. If you have too much"
+    },
+    {
+      "start": 783.87,
+      "end": 790.59,
+      "text": "desire to get liberated for a monk, that is also bad. Having no desire to get"
+    },
+    {
+      "start": 790.59,
+      "end": 801.07,
+      "text": "liberated, also bad. So the mind must be equanimous. And then on here, he could"
+    },
+    {
+      "start": 801.31,
+      "end": 808.75,
+      "text": "cross the flood. Number seven, how are amongst thoughts unclouded? Among"
+    },
+    {
+      "start": 808.75,
+      "end": 812.19,
+      "text": "abandoned thoughts, sensual thoughts, malicious thoughts and thoughts of"
+    },
+    {
+      "start": 812.19,
+      "end": 819.79,
+      "text": "harming. These are the wrong thoughts. So he has abandoned wrong thoughts and so"
+    },
+    {
+      "start": 819.79,
+      "end": 824.35,
+      "text": "his thoughts are unclouded. And number nine, his body condition is"
+    },
+    {
+      "start": 824.35,
+      "end": 835.19,
+      "text": "tranquilized. This one, Kaya Sankara. Kaya Sankara refers to the body"
+    },
+    {
+      "start": 835.19,
+      "end": 840.47,
+      "text": "condition, refers to the breath, because the breath is conditioned by the..."
+    },
+    {
+      "start": 840.47,
+      "end": 846.27,
+      "text": "sorry, the body is conditioned by the breath. And the body exists because of"
+    },
+    {
+      "start": 846.27,
+      "end": 852.35,
+      "text": "the breath. So the body condition refers to the breath."
+    },
+    {
+      "start": 852.35,
+      "end": 858.59,
+      "text": "And here, it means the breath has stopped, because when the person attains"
+    },
+    {
+      "start": 858.59,
+      "end": 867.39,
+      "text": "the fourth jhana, the breath stops. So here, this Aryan has attained the fourth"
+    },
+    {
+      "start": 867.39,
+      "end": 873.75,
+      "text": "jhana. And normally, that is a condition for an Anagamin and an"
+    },
+    {
+      "start": 873.75,
+      "end": 879.79,
+      "text": "Arahant. He must an Anagami, a third fruition and an"
+    },
+    {
+      "start": 879.79,
+      "end": 886.55,
+      "text": "Arahant. Fourth fruition, Arya, he must attain the fourth jhana. And then number"
+    },
+    {
+      "start": 886.55,
+      "end": 893.63,
+      "text": "nine, a monk is released by mind. Here, he is released from greed, hatred and"
+    },
+    {
+      "start": 893.63,
+      "end": 898.91,
+      "text": "delusion, or passion, hatred and delusion. And then, how is a monk released by"
+    },
+    {
+      "start": 898.91,
+      "end": 906.11,
+      "text": "wisdom? Also, he is released from passion or greed, hatred and delusion. So these"
+    },
+    {
+      "start": 906.15,
+      "end": 916.15,
+      "text": "are the ten things that Aryans practice and all they attain to become Aryans."
+    },
+    {
+      "start": 916.15,
+      "end": 923.63,
+      "text": "Some of them, you find, is refers only to the Arahant. For example, the last two"
+    },
+    {
+      "start": 923.63,
+      "end": 930.15,
+      "text": "release or liberated by mind and release or liberated by wisdom. This only refers"
+    },
+    {
+      "start": 930.19,
+      "end": 943.88,
+      "text": "to the Arahant. Now, the next sutra is number 27, ten point twenty-seven. Once"
+    },
+    {
+      "start": 943.88,
+      "end": 948.68,
+      "text": "the exalted one was staying near Savati at Jeter Grove in Anathapindika's"
+    },
+    {
+      "start": 948.68,
+      "end": 954.36,
+      "text": "Park, then a great number of monks robing themselves in the morning and"
+    },
+    {
+      "start": 954.36,
+      "end": 961.04,
+      "text": "taking bowl and rope, set out for Savati, questing for arms, food. Now, it occurred"
+    },
+    {
+      "start": 961.08,
+      "end": 967.0,
+      "text": "to those monks thus, it is too early yet to range Savati for arms, food. Suppose"
+    },
+    {
+      "start": 967.0,
+      "end": 971.88,
+      "text": "we visit the Park of the Wanderers holding other views. Accordingly, they did"
+    },
+    {
+      "start": 971.88,
+      "end": 978.28,
+      "text": "so, and on getting there, greeted them courteously. And after the exchange of"
+    },
+    {
+      "start": 978.28,
+      "end": 984.56,
+      "text": "greetings and reminiscent talk, sat down at one side. So seated, those wanderers of"
+    },
+    {
+      "start": 984.56,
+      "end": 990.48,
+      "text": "other views said this to them. Your reverences, Gotama, the recluse, thus"
+    },
+    {
+      "start": 990.52,
+      "end": 997.2,
+      "text": "teaches Dhamma. Come, you monks, do you thoroughly grasp all Dhamma? Do you dwell"
+    },
+    {
+      "start": 997.2,
+      "end": 1003.8,
+      "text": "ever and always thoroughly grasping all Dhamma? Now, your reverences, we also thus"
+    },
+    {
+      "start": 1003.8,
+      "end": 1009.4,
+      "text": "teach Dhamma to our followers. Come, your reverences, do you thoroughly grasp all"
+    },
+    {
+      "start": 1009.4,
+      "end": 1016.12,
+      "text": "Dhamma? Do you ever and always dwell thoroughly grasping all Dhamma? Here in"
+    },
+    {
+      "start": 1016.12,
+      "end": 1022.92,
+      "text": "your reverences, pray or please, what is the distinction? What is the specific"
+    },
+    {
+      "start": 1022.92,
+      "end": 1028.44,
+      "text": "feature? What is the difference between Gotama, the recluse and ourselves? That"
+    },
+    {
+      "start": 1028.44,
+      "end": 1033.88,
+      "text": "is, between his teaching of Dhamma and ours, or his way of instruction and"
+    },
+    {
+      "start": 1033.88,
+      "end": 1040.68,
+      "text": "ours. Thereupon, those monks made no reply, either of approval or of"
+    },
+    {
+      "start": 1040.68,
+      "end": 1045.92,
+      "text": "disapproval to those wanderers holding other views. But without expressing"
+    },
+    {
+      "start": 1045.92,
+      "end": 1051.68,
+      "text": "either approval or disapproval, they rose up and went away, saying, We will learn"
+    },
+    {
+      "start": 1051.68,
+      "end": 1057.28,
+      "text": "the meaning of this saying in the company of the exalted one. So those monks,"
+    },
+    {
+      "start": 1057.28,
+      "end": 1062.92,
+      "text": "after ranging Savati for arms food, on returning from their arms round, and"
+    },
+    {
+      "start": 1062.92,
+      "end": 1067.8,
+      "text": "after eating their meal, went to see the exalted one, and on coming to him,"
+    },
+    {
+      "start": 1067.8,
+      "end": 1074.4,
+      "text": "saluted him and sat down at one side. Saluted here means paying homage. So"
+    },
+    {
+      "start": 1074.4,
+      "end": 1079.96,
+      "text": "seated, they said this to the exalted one. Sir, here in the morning, we robe"
+    },
+    {
+      "start": 1079.96,
+      "end": 1086.24,
+      "text": "ourselves, etc., etc., and they related the entire incident and how they went"
+    },
+    {
+      "start": 1086.24,
+      "end": 1092.6,
+      "text": "away without answering the wanderers. And the Buddha said, Monks, when"
+    },
+    {
+      "start": 1092.6,
+      "end": 1099.6,
+      "text": "wanderers holding other views speak thus, they should be spoken to thus. The one"
+    },
+    {
+      "start": 1099.6,
+      "end": 1104.92,
+      "text": "question, the one statement, the one explanation, the two questions, the two"
+    },
+    {
+      "start": 1104.92,
+      "end": 1111.72,
+      "text": "statements, the two explanations, the three, the four, the five, etc., up to the"
+    },
+    {
+      "start": 1111.72,
+      "end": 1118.68,
+      "text": "ten questions, the ten statements, the ten explanations. Thus, question monks, the"
+    },
+    {
+      "start": 1118.68,
+      "end": 1124.04,
+      "text": "wanderers holding other views, will fail to answer and further will come to"
+    },
+    {
+      "start": 1124.04,
+      "end": 1132.56,
+      "text": "discomfort or uncomfortableness. Why so? Because monks, that is beyond their"
+    },
+    {
+      "start": 1132.56,
+      "end": 1139.64,
+      "text": "scope. Monks, I behold not in the world with his devas, its maras, its brahmas, its"
+    },
+    {
+      "start": 1139.64,
+      "end": 1145.52,
+      "text": "host of recluses and brahmins, together with his devas and mankind. I behold not"
+    },
+    {
+      "start": 1145.52,
+      "end": 1151.12,
+      "text": "one who could convince the mind with an explanation to these questions, save only"
+    },
+    {
+      "start": 1151.4,
+      "end": 1157.28,
+      "text": "the Wayfarer or one of his disciples, or one who has heard it from that source."
+    },
+    {
+      "start": 1157.28,
+      "end": 1163.48,
+      "text": "Let me just stop a moment. The Wayfarer must be referring the translation for the"
+    },
+    {
+      "start": 1163.48,
+      "end": 1170.2,
+      "text": "Tathagata. As now we also read the word Tathagata is one of the names of the"
+    },
+    {
+      "start": 1170.2,
+      "end": 1176.44,
+      "text": "Buddha. And then the Buddha continued, as to the saying, the one question, the one"
+    },
+    {
+      "start": 1176.44,
+      "end": 1183.92,
+      "text": "statement, the one explanation. Owing to what was it said? Monks, if in one thing"
+    },
+    {
+      "start": 1183.92,
+      "end": 1190.08,
+      "text": "a monk rightly feels revulsion, rightly feels fading interest in the world,"
+    },
+    {
+      "start": 1190.08,
+      "end": 1196.6,
+      "text": "rightly be released, rightly have sight to the furthest bounds and rightly"
+    },
+    {
+      "start": 1196.6,
+      "end": 1203.12,
+      "text": "comprehend the meaning of things, then in this same visible state or same"
+    },
+    {
+      "start": 1203.16,
+      "end": 1210.8,
+      "text": "lifetime, he makes an end of ill or dukkha. In what one thing? In this, namely,"
+    },
+    {
+      "start": 1210.8,
+      "end": 1220.8,
+      "text": "all beings are persisted by food, or all beings subsist by food, or new"
+    },
+    {
+      "start": 1220.8,
+      "end": 1227.36,
+      "text": "treatment. In this one thing, monks, if a monk rightly feels revulsion, rightly"
+    },
+    {
+      "start": 1227.36,
+      "end": 1234.92,
+      "text": "feel fading interest, etc., he makes an end of ill. The one question, the one"
+    },
+    {
+      "start": 1234.92,
+      "end": 1241.88,
+      "text": "statement, the one explanation was said because of this. As to the saying, the two"
+    },
+    {
+      "start": 1241.88,
+      "end": 1247.6,
+      "text": "questions, the two statements, the two explanations, owing to what was it said?"
+    },
+    {
+      "start": 1247.6,
+      "end": 1254.96,
+      "text": "Monks, if in two things, among rightly feel revulsion, rightly feel fading"
+    },
+    {
+      "start": 1254.96,
+      "end": 1261.48,
+      "text": "interest, etc., then in this same visible state, he makes an end of ill. In what"
+    },
+    {
+      "start": 1261.48,
+      "end": 1270.48,
+      "text": "two things? In mentality, materiality, nama, rupa. In these two things, if a monk"
+    },
+    {
+      "start": 1270.48,
+      "end": 1275.36,
+      "text": "rightly feels revulsion, he makes an end of ill. The two questions, the two"
+    },
+    {
+      "start": 1275.36,
+      "end": 1281.44,
+      "text": "statements, the two explanations was said because of this. As to the saying, the"
+    },
+    {
+      "start": 1281.44,
+      "end": 1287.2,
+      "text": "three questions, the three statements, the three explanations, owing to what was"
+    },
+    {
+      "start": 1287.2,
+      "end": 1294.56,
+      "text": "it said? Monks, if in three things, among rightly feel revulsion, feel fading"
+    },
+    {
+      "start": 1294.56,
+      "end": 1301.28,
+      "text": "interest, etc., he makes an end of ill. In what three things? The three feelings,"
+    },
+    {
+      "start": 1301.28,
+      "end": 1308.04,
+      "text": "Vedana. In these three things, if a monk rightly feels revulsion, etc., he makes an"
+    },
+    {
+      "start": 1308.04,
+      "end": 1314.52,
+      "text": "end of ill. As to the saying, the four questions, the four statements, the four"
+    },
+    {
+      "start": 1314.52,
+      "end": 1321.24,
+      "text": "explanations, owing to what was it said? Monks, if in four things, among rightly"
+    },
+    {
+      "start": 1321.24,
+      "end": 1329.08,
+      "text": "feel revulsion, etc., he makes an end of ill. In what four things? The four"
+    },
+    {
+      "start": 1329.08,
+      "end": 1336.84,
+      "text": "nutrients are sustenance, substances of food, ahara. If in these four things, among"
+    },
+    {
+      "start": 1336.84,
+      "end": 1342.04,
+      "text": "rightly feel revulsion, he makes an end of ill. As to the saying, the five"
+    },
+    {
+      "start": 1342.04,
+      "end": 1347.48,
+      "text": "questions, the five statements, the five explanations, owing to what was it said?"
+    },
+    {
+      "start": 1347.48,
+      "end": 1352.84,
+      "text": "Monks, if in five things, among rightly feel revulsion, etc., he makes an end of"
+    },
+    {
+      "start": 1352.84,
+      "end": 1359.96,
+      "text": "ill. What five things? The five aggregates of attachment. If in these five things,"
+    },
+    {
+      "start": 1359.96,
+      "end": 1365.88,
+      "text": "among rightly feel revulsion, he makes an end of ill. As to the saying, the six"
+    },
+    {
+      "start": 1365.96,
+      "end": 1370.52,
+      "text": "questions, the six statements, the six explanations, owing to what was it said?"
+    },
+    {
+      "start": 1370.52,
+      "end": 1377.48,
+      "text": "Monks, if in six things, among rightly feel revulsion, etc., he makes an end of"
+    },
+    {
+      "start": 1377.48,
+      "end": 1384.04,
+      "text": "ill. What six things? The six fears in the self, that means the six internal"
+    },
+    {
+      "start": 1384.04,
+      "end": 1389.96,
+      "text": "bases. If in these six things, among rightly feel revulsion, he makes an end of"
+    },
+    {
+      "start": 1389.96,
+      "end": 1394.28,
+      "text": "ill. As to the saying, the seven questions, the seven statements, the seven"
+    },
+    {
+      "start": 1394.28,
+      "end": 1400.44,
+      "text": "explanations, owing to what was it said? Monks, if in seven things, among rightly"
+    },
+    {
+      "start": 1400.44,
+      "end": 1406.04,
+      "text": "feel revulsion, etc., he makes an end of ill. What seven things? The seven"
+    },
+    {
+      "start": 1406.04,
+      "end": 1411.4,
+      "text": "stations of consciousness. As to the saying, the eight questions, the eight"
+    },
+    {
+      "start": 1411.4,
+      "end": 1417.64,
+      "text": "statements, the eight explanations, owing to what was it said? Monks, if in eight"
+    },
+    {
+      "start": 1417.64,
+      "end": 1423.48,
+      "text": "things, among rightly feel revulsion, etc., he makes an end of ill. What eight"
+    },
+    {
+      "start": 1423.48,
+      "end": 1431.8,
+      "text": "things? The eight worldly conditions. As to the saying, the nine questions, the nine"
+    },
+    {
+      "start": 1431.8,
+      "end": 1437.88,
+      "text": "statements, the nine explanations, owing to what was it said? Monks, if in nine"
+    },
+    {
+      "start": 1437.88,
+      "end": 1443.96,
+      "text": "things, among rightly feel revulsion, etc., he makes an end of ill. What nine"
+    },
+    {
+      "start": 1443.96,
+      "end": 1450.68,
+      "text": "things? The nine abodes of beings. As to the saying, the ten questions, the ten"
+    },
+    {
+      "start": 1450.68,
+      "end": 1456.92,
+      "text": "statements, the ten explanations, owing to what was it said? Monks, if in ten"
+    },
+    {
+      "start": 1456.92,
+      "end": 1461.96,
+      "text": "things, among rightly feel revulsion, rightly feel fading interest in the"
+    },
+    {
+      "start": 1461.96,
+      "end": 1467.0,
+      "text": "world, rightly be released, rightly have sight to the furthest bounds, and rightly"
+    },
+    {
+      "start": 1467.0,
+      "end": 1471.32,
+      "text": "comprehend the meaning of things, then in the same visible state, he makes an end"
+    },
+    {
+      "start": 1471.32,
+      "end": 1479.34,
+      "text": "of ill. What ten things? The ten wrong ways of action or karma. And that's the"
+    },
+    {
+      "start": 1479.34,
+      "end": 1486.86,
+      "text": "end of the sutra. So here in this sutra, you find sometimes, like in here, these"
+    },
+    {
+      "start": 1486.86,
+      "end": 1494.78,
+      "text": "external ascetics, they think that their teaching and the Buddha's teaching is"
+    },
+    {
+      "start": 1494.78,
+      "end": 1503.34,
+      "text": "basically the same. So when they ask these Buddha's disciples, the Buddha's"
+    },
+    {
+      "start": 1503.34,
+      "end": 1509.98,
+      "text": "disciples could not answer them. But the Buddha said, you should ask them these"
+    },
+    {
+      "start": 1509.98,
+      "end": 1517.34,
+      "text": "ten things. If you ask them these ten things, they surely will not be able to"
+    },
+    {
+      "start": 1517.34,
+      "end": 1524.82,
+      "text": "explain it. So what are these ten things? The Buddha said, if among feels"
+    },
+    {
+      "start": 1524.82,
+      "end": 1532.86,
+      "text": "revulsion, feels fading interest in these ten things, then he will be released"
+    },
+    {
+      "start": 1532.9,
+      "end": 1538.7,
+      "text": "from dukkha. The first one is all being subsist by food or"
+    },
+    {
+      "start": 1538.7,
+      "end": 1547.14,
+      "text": "nutriment. So if a person understands that we continue to live because of food,"
+    },
+    {
+      "start": 1547.14,
+      "end": 1559.94,
+      "text": "then he will start to feel not so obsessed with passion or greed for food."
+    },
+    {
+      "start": 1562.18,
+      "end": 1568.22,
+      "text": "So here it's interesting that all beings subsist by food because some people"
+    },
+    {
+      "start": 1568.22,
+      "end": 1573.26,
+      "text": "think once you become a heavenly being, you don't need any food. It's not true."
+    },
+    {
+      "start": 1573.26,
+      "end": 1580.26,
+      "text": "All beings need some kind of food. After later and talk about four things, you"
+    },
+    {
+      "start": 1580.26,
+      "end": 1587.66,
+      "text": "will find what are these, what this food refers to. The two things, two"
+    },
+    {
+      "start": 1587.7,
+      "end": 1593.58,
+      "text": "things is mentality, materiality, nama rupa. Nama rupa, it is said in the"
+    },
+    {
+      "start": 1593.58,
+      "end": 1598.78,
+      "text": "sutras that nama rupa arises together with consciousness. Whenever"
+    },
+    {
+      "start": 1598.78,
+      "end": 1604.9,
+      "text": "consciousness arises, nama rupa must arise. And when consciousness seizes, nama"
+    },
+    {
+      "start": 1604.9,
+      "end": 1610.58,
+      "text": "rupa also seizes. So nama rupa is actually the object of consciousness"
+    },
+    {
+      "start": 1610.58,
+      "end": 1617.58,
+      "text": "vinyana. So being the object of consciousness, it is called phenomena,"
+    },
+    {
+      "start": 1617.58,
+      "end": 1623.38,
+      "text": "phenomena, whatever consciousness is conscious of. And there are two parts"
+    },
+    {
+      "start": 1623.38,
+      "end": 1627.62,
+      "text": "here. One is the mental part, which is called mentality. The other is the"
+    },
+    {
+      "start": 1627.62,
+      "end": 1632.58,
+      "text": "physical part, which is called materiality. So everything in this world,"
+    },
+    {
+      "start": 1632.58,
+      "end": 1639.5,
+      "text": "our external world and our internal world, consists of these two things, the"
+    },
+    {
+      "start": 1639.5,
+      "end": 1646.26,
+      "text": "mental part and the material part. So basically it is the whole world. So if"
+    },
+    {
+      "start": 1646.26,
+      "end": 1653.74,
+      "text": "you are tired of the world, you are tired of mentality and materiality. And the"
+    },
+    {
+      "start": 1653.74,
+      "end": 1660.18,
+      "text": "third one refers to the three feelings, the free feelings, the Buddha said, all"
+    },
+    {
+      "start": 1660.18,
+      "end": 1666.26,
+      "text": "feelings are dukkha. Even sukkha feelings are dukkha in a way, in a sense. In"
+    },
+    {
+      "start": 1666.26,
+      "end": 1671.42,
+      "text": "what sense? Because it is impermanent. Because whatever sukkha feelings we"
+    },
+    {
+      "start": 1671.42,
+      "end": 1676.82,
+      "text": "have, we tend to cling to it. Happy feelings or pleasant feelings, we tend"
+    },
+    {
+      "start": 1676.82,
+      "end": 1682.34,
+      "text": "to cling to it. But because it is impermanent, it is a source of dukkha. It"
+    },
+    {
+      "start": 1682.34,
+      "end": 1688.82,
+      "text": "will fade and you cannot hold on to it. So it is also a source of dukkha. And of"
+    },
+    {
+      "start": 1688.82,
+      "end": 1694.3,
+      "text": "course, the other two feelings are dukkha itself, unpleasant feelings. And the"
+    },
+    {
+      "start": 1694.3,
+      "end": 1703.78,
+      "text": "third one is neither sukkha nor dukkha, neither pleasant or unpleasant feelings."
+    },
+    {
+      "start": 1703.78,
+      "end": 1717.0,
+      "text": "So all these three feelings are unsatisfactory. So four things, four"
+    },
+    {
+      "start": 1717.08,
+      "end": 1726.28,
+      "text": "things here refers to the four nutriments, ahara. The four nutriments that are being"
+    },
+    {
+      "start": 1726.28,
+      "end": 1732.44,
+      "text": "subsist on, the first one is solid food, like we take solid food. The second one"
+    },
+    {
+      "start": 1732.44,
+      "end": 1738.68,
+      "text": "is contact. Because of contact, then you have feeling, your perception, etc. So"
+    },
+    {
+      "start": 1738.68,
+      "end": 1747.08,
+      "text": "contact is considered a nutriment, a source of nutriment, a kind of nutriment."
+    },
+    {
+      "start": 1747.08,
+      "end": 1753.6,
+      "text": "The third one is mental intention or volition. For example, the will to live,"
+    },
+    {
+      "start": 1753.6,
+      "end": 1761.28,
+      "text": "that is a kind of nutriment. Then the fourth one is consciousness. Consciousness"
+    },
+    {
+      "start": 1761.28,
+      "end": 1768.52,
+      "text": "is another kind of nutriment. So the five things refers to the five aggregates,"
+    },
+    {
+      "start": 1768.8,
+      "end": 1775.72,
+      "text": "of attachment, pancha upadana kanda. Five aggregates of attachment refers to the"
+    },
+    {
+      "start": 1775.72,
+      "end": 1783.6,
+      "text": "body, feeling, perception, volition and consciousness. These five things, we take,"
+    },
+    {
+      "start": 1783.6,
+      "end": 1788.96,
+      "text": "these five aggregates, we take either to be the self, or as belonging to the self,"
+    },
+    {
+      "start": 1788.96,
+      "end": 1794.96,
+      "text": "or as being in the self, or the self as being in the five aggregates. So whenever"
+    },
+    {
+      "start": 1795.04,
+      "end": 1805.48,
+      "text": "we refer to our self, we always refer to the five aggregates. So if a person feels"
+    },
+    {
+      "start": 1805.48,
+      "end": 1812.56,
+      "text": "revulsion for these five aggregates, then slowly he will make an end of ill, he"
+    },
+    {
+      "start": 1812.56,
+      "end": 1818.52,
+      "text": "will be liberated. The sixth things refers to the six internal bases. Six"
+    },
+    {
+      "start": 1818.52,
+      "end": 1824.4,
+      "text": "internal bases, the eye, ear, nose, tongue, body and mind. If you feel"
+    },
+    {
+      "start": 1824.44,
+      "end": 1832.36,
+      "text": "revulsion for these six internal bases of the body and mind, then you will also make"
+    },
+    {
+      "start": 1832.36,
+      "end": 1837.52,
+      "text": "an end of ill, become liberated. The seven things refers to the seven stations of"
+    },
+    {
+      "start": 1837.52,
+      "end": 1843.6,
+      "text": "consciousness. What are these seven stations of consciousness? These are the"
+    },
+    {
+      "start": 1843.6,
+      "end": 1850.96,
+      "text": "seven stations of consciousness where beings can exist. The first one is, is"
+    },
+    {
+      "start": 1850.96,
+      "end": 1861.48,
+      "text": "where beings have, are similar in, in body and similar in perception. Another"
+    },
+    {
+      "start": 1861.48,
+      "end": 1867.88,
+      "text": "one is, another type is the beings are similar in body and different in"
+    },
+    {
+      "start": 1867.88,
+      "end": 1875.44,
+      "text": "perception. Another, another type is where the beings are different in body and"
+    },
+    {
+      "start": 1875.56,
+      "end": 1883.56,
+      "text": "different in perception. Another one is where the beings are different in body"
+    },
+    {
+      "start": 1883.56,
+      "end": 1890.28,
+      "text": "and same similar in perception. So that makes for four. Then the fifth one is the"
+    },
+    {
+      "start": 1890.28,
+      "end": 1896.6,
+      "text": "base of boundless space. Then the sixth is the base of boundless consciousness. The"
+    },
+    {
+      "start": 1896.6,
+      "end": 1901.28,
+      "text": "seventh is the base of nothingness. So these are the seven stations of"
+    },
+    {
+      "start": 1901.28,
+      "end": 1906.2,
+      "text": "consciousness where beings exist. So if you become tired of these things,"
+    },
+    {
+      "start": 1906.2,
+      "end": 1911.36,
+      "text": "slowly you will make an end of ill. The eight things refers to the eight"
+    },
+    {
+      "start": 1911.36,
+      "end": 1925.96,
+      "text": "worldly conditions. That means pleasure and pain, gain and loss, fame and ill"
+    },
+    {
+      "start": 1926.08,
+      "end": 1934.2,
+      "text": "repute. And then praise and blame. These are the eight worldly conditions that"
+    },
+    {
+      "start": 1934.2,
+      "end": 1941.12,
+      "text": "move beings. Now we want one and we, we don't want the second type. For example,"
+    },
+    {
+      "start": 1941.12,
+      "end": 1946.6,
+      "text": "we want gain and we don't want loss. We want pleasure. We don't want pain. We want"
+    },
+    {
+      "start": 1946.6,
+      "end": 1951.08,
+      "text": "to be famous. We don't want to have a bad reputation. We want to be praised. We"
+    },
+    {
+      "start": 1951.08,
+      "end": 1956.04,
+      "text": "don't want to be blamed. So if you are tired of all these worldly conditions,"
+    },
+    {
+      "start": 1956.04,
+      "end": 1962.92,
+      "text": "if you revulsion for it, slowly you are on your way out of samsara. The nine"
+    },
+    {
+      "start": 1962.92,
+      "end": 1967.96,
+      "text": "things refers to the nine abodes of beings. Just now we heard the seven"
+    },
+    {
+      "start": 1967.96,
+      "end": 1974.56,
+      "text": "stations of consciousness plus two other abodes of beings is the sphere of"
+    },
+    {
+      "start": 1974.56,
+      "end": 1981.16,
+      "text": "neither perception nor non-perception and the asaniya sattva. Asaniya sattva"
+    },
+    {
+      "start": 1981.16,
+      "end": 1986.12,
+      "text": "refers to those beings without perception. If a being does not have"
+    },
+    {
+      "start": 1986.12,
+      "end": 1992.8,
+      "text": "perception, basically he has, he has also no consciousness. This is the type of"
+    },
+    {
+      "start": 1992.8,
+      "end": 1999.52,
+      "text": "being in the fourth jhana plane. So these are the nine abodes of beings. If you"
+    },
+    {
+      "start": 1999.52,
+      "end": 2004.36,
+      "text": "are tired of it, also you are on your way out of samsara. Then the last one is the"
+    },
+    {
+      "start": 2004.36,
+      "end": 2010.08,
+      "text": "ten wrong ways of action or kamma. That means the three wrong ways of body"
+    },
+    {
+      "start": 2010.08,
+      "end": 2015.92,
+      "text": "kamma, the four wrong ways of verbal kamma, and the three wrong ways of mental"
+    },
+    {
+      "start": 2015.92,
+      "end": 2023.92,
+      "text": "kamma. What are the three wrong body kammas or evil body kamma? Killing, stealing,"
+    },
+    {
+      "start": 2023.92,
+      "end": 2030.24,
+      "text": "committing adultery. These are the three wrong body kammas. The four verbal ones"
+    },
+    {
+      "start": 2030.24,
+      "end": 2043.96,
+      "text": "is lying, carrying tales so that as to make people quarrel and fight. That means"
+    },
+    {
+      "start": 2043.96,
+      "end": 2050.04,
+      "text": "you hear somebody say, talk bad about some person and you repeat it elsewhere"
+    },
+    {
+      "start": 2050.04,
+      "end": 2057.88,
+      "text": "and you cause people to quarrel and fight. Then the third one is cause speech or"
+    },
+    {
+      "start": 2057.88,
+      "end": 2068.68,
+      "text": "rough speech. And then the fourth one is gossip or unbeneficial talk, pointless"
+    },
+    {
+      "start": 2068.68,
+      "end": 2076.4,
+      "text": "talk. And then the three mental evil kamma is coverlessness, excessive greed,"
+    },
+    {
+      "start": 2076.4,
+      "end": 2087.08,
+      "text": "excessive hatred, and having wrong view. So these are the ten wrong kammas. So"
+    },
+    {
+      "start": 2087.84,
+      "end": 2096.64,
+      "text": "if a person feels revulsion for these things described, then he is on his way out of"
+    },
+    {
+      "start": 2096.64,
+      "end": 2099.36,
+      "text": "samsara, out of the round of the birds."
+    }
+  ]
+}

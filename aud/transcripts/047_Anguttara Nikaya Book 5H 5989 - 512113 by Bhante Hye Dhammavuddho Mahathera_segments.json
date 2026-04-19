@@ -1,0 +1,2405 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2004.810875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.0,
+      "text": "Another sutta is 5.9.89. Buddha said, monks, these five conditions lead to the decline of a monk in training."
+    },
+    {
+      "start": 11.0,
+      "end": 19.0,
+      "text": "What five? Delight in work or activity. Delight in gossip. Delight in sleeping. Delight in company."
+    },
+    {
+      "start": 19.0,
+      "end": 25.0,
+      "text": "And he does not reflect on the mind as free monks. These are the five conditions."
+    },
+    {
+      "start": 25.0,
+      "end": 37.0,
+      "text": "This is a very interesting sutta, in fact, a very important sutta where these five things can obstruct a monk from his cultivation."
+    },
+    {
+      "start": 37.0,
+      "end": 48.0,
+      "text": "The first one is having too much work or activity, which means the monk is very much involved in teaching, in writing books, in administration,"
+    },
+    {
+      "start": 48.0,
+      "end": 56.0,
+      "text": "in supervising others in the construction of the temple, supervising the construction of the temple, planning, etc."
+    },
+    {
+      "start": 56.0,
+      "end": 62.0,
+      "text": "And all these too much work can obstruct a monk's spiritual cultivation."
+    },
+    {
+      "start": 62.0,
+      "end": 73.0,
+      "text": "Second one is delight in gossip, talking un-beneficial talk. The Buddha said, if we want to talk, especially monks, if monks want to talk,"
+    },
+    {
+      "start": 73.0,
+      "end": 83.0,
+      "text": "then we should engage in beneficial talk. And beneficial talk is talk concerned with wanting little few ones,"
+    },
+    {
+      "start": 83.0,
+      "end": 96.0,
+      "text": "concerned with contentment, seclusion, aloofness from society, arousing energy, virtue, concentration, wisdom, liberation, knowledge and vision of liberation, etc."
+    },
+    {
+      "start": 96.0,
+      "end": 109.0,
+      "text": "These are beneficial talk. And what is useless talk, or un-beneficial talk, is what is mentioned in the sutta as tirachana katha."
+    },
+    {
+      "start": 109.0,
+      "end": 122.0,
+      "text": "Tirachana katha literally means animal talk. And it means low talk, base talk, concerned with politics, sports, entertainment, travelling,"
+    },
+    {
+      "start": 122.0,
+      "end": 132.0,
+      "text": "depart, etc., etc. That is un-beneficial. And the third one is delight in sleeping."
+    },
+    {
+      "start": 132.0,
+      "end": 142.0,
+      "text": "Sleeping is one of the pleasures people get. If we sleep too much, our mind, every time we sleep, our mind is like a computer."
+    },
+    {
+      "start": 142.0,
+      "end": 153.0,
+      "text": "Every time we sleep, we switch off many of the circuits in the mind. Later to activate them is not so easy because normally in a normal day,"
+    },
+    {
+      "start": 153.0,
+      "end": 166.0,
+      "text": "we don't use so many circuits in our computer up there. So when we meditate a lot, we find slowly the circuits in our brain start to activate."
+    },
+    {
+      "start": 166.0,
+      "end": 176.0,
+      "text": "That's why sometimes in meditation, we get tingling sensation in the brain. It's like the circuits that are normally not used in the brain start to activate."
+    },
+    {
+      "start": 176.0,
+      "end": 183.0,
+      "text": "So when we sleep too much, we shut off a lot of the circuits in our mind. It's not good."
+    },
+    {
+      "start": 183.0,
+      "end": 195.0,
+      "text": "Fourth one is delight in company. That means the monk likes to keep in company, talk with other people, other monks or lay people."
+    },
+    {
+      "start": 195.0,
+      "end": 202.0,
+      "text": "The opposite is aloofness that even though a monk stays in a monastery with other monks, he tries to be aloof."
+    },
+    {
+      "start": 202.0,
+      "end": 207.0,
+      "text": "If it's necessary to talk, he talks. If it's not necessary, he does not talk."
+    },
+    {
+      "start": 207.0,
+      "end": 212.0,
+      "text": "The last one, he does not reflect on the mind as free. This is quite interesting."
+    },
+    {
+      "start": 212.0,
+      "end": 223.0,
+      "text": "It's a very interesting statement because it reminds us something like I mentioned in the yoga teachings, basically, or Zen teachings."
+    },
+    {
+      "start": 223.0,
+      "end": 233.0,
+      "text": "Basically, our mind is freed. It's only the active mind, the active mind, the active consciousness, the sixth consciousness,"
+    },
+    {
+      "start": 233.0,
+      "end": 239.0,
+      "text": "which makes us see ourselves as human beings in this world of samsara."
+    },
+    {
+      "start": 239.0,
+      "end": 250.0,
+      "text": "And there's a part of us that is immortal, there's a part of us that is freed, and it's there all the time."
+    },
+    {
+      "start": 250.0,
+      "end": 255.0,
+      "text": "And they think we have to realize it. So that's the end of the sutra."
+    },
+    {
+      "start": 255.0,
+      "end": 260.6,
+      "text": "The next sutra is 5.9.90."
+    },
+    {
+      "start": 260.6,
+      "end": 269.19,
+      "text": "Monks, these five conditions lead to the decline of a monk in training. What five?"
+    },
+    {
+      "start": 269.19,
+      "end": 275.19,
+      "text": "Take the case of a monk in training who is always busy and has much to do and is clever at work."
+    },
+    {
+      "start": 275.19,
+      "end": 282.19,
+      "text": "He lets the time for going apart slip by, nor does he apply himself to calming the heart within."
+    },
+    {
+      "start": 282.19,
+      "end": 287.19,
+      "text": "This monk is the first condition that leads to the decline of a monk in training."
+    },
+    {
+      "start": 287.19,
+      "end": 296.19,
+      "text": "Again, he spends the day doing small things and lets the time for going apart slip by. This monk is the second condition."
+    },
+    {
+      "start": 296.19,
+      "end": 303.19,
+      "text": "Or he lives in company with householders and those gone forth in layman's company which is not fit."
+    },
+    {
+      "start": 303.19,
+      "end": 309.19,
+      "text": "This monk is the third condition. Or he enters the village too early or leaves it too late."
+    },
+    {
+      "start": 309.19,
+      "end": 317.19,
+      "text": "This monk is the fourth condition. Moreover, monks such talk as his austere and a help to liberating the mind."
+    },
+    {
+      "start": 317.19,
+      "end": 328.19,
+      "text": "Talk on wanting little, on contentment, on seclusion, on aloofness, on arousing energy, on virtue, concentration, wisdom, on liberation,"
+    },
+    {
+      "start": 328.19,
+      "end": 336.19,
+      "text": "and on the knowledge and vision of liberation that the monk in training cannot obtain at will easily and without difficulty."
+    },
+    {
+      "start": 336.19,
+      "end": 343.19,
+      "text": "And he lets the time for going apart slip by, nor does he apply himself to calming the mind within."
+    },
+    {
+      "start": 343.19,
+      "end": 348.19,
+      "text": "This monk is the fifth condition that leads to the decline of a monk in training."
+    },
+    {
+      "start": 348.19,
+      "end": 353.19,
+      "text": "Monks, these are the five conditions that lead to a decline of a monk in training."
+    },
+    {
+      "start": 353.19,
+      "end": 358.19,
+      "text": "This basically is quite similar to the previous sutra."
+    },
+    {
+      "start": 358.19,
+      "end": 367.19,
+      "text": "The first one and two is the monk is busy in doing work, doing small things, unimportant things."
+    },
+    {
+      "start": 367.19,
+      "end": 373.19,
+      "text": "The third one is he lives in company with householders and those gone forth."
+    },
+    {
+      "start": 373.19,
+      "end": 378.19,
+      "text": "He likes to mix company. The fourth one, he enters the village too early and leaves it too late."
+    },
+    {
+      "start": 378.19,
+      "end": 386.19,
+      "text": "This one is concerned with in the Buddha's days, a monk would enter the village too big for his food and arms round."
+    },
+    {
+      "start": 386.19,
+      "end": 391.19,
+      "text": "And sometimes a monk who likes to chat, he will stay in the lay people's house"
+    },
+    {
+      "start": 391.19,
+      "end": 401.19,
+      "text": "and he'll maybe even eat there and take a long time to talk there and leave the village too late."
+    },
+    {
+      "start": 401.19,
+      "end": 404.19,
+      "text": "This is not encouraged by the Buddha."
+    },
+    {
+      "start": 404.19,
+      "end": 414.19,
+      "text": "And then the last one, beneficial talk, he's not able to obtain these other things that hinder a monk."
+    },
+    {
+      "start": 414.19,
+      "end": 418.19,
+      "text": "The next sutra is 5.10.96."
+    },
+    {
+      "start": 418.19,
+      "end": 424.19,
+      "text": "Monks, possessed of five qualities, a monk practicing awareness in breathing in and breathing out,"
+    },
+    {
+      "start": 424.19,
+      "end": 428.19,
+      "text": "will in no long time penetrate the immovable."
+    },
+    {
+      "start": 428.19,
+      "end": 430.19,
+      "text": "Of what five?"
+    },
+    {
+      "start": 430.19,
+      "end": 437.19,
+      "text": "He is set on little with few duties, easily supported, well content with life's necessities."
+    },
+    {
+      "start": 437.19,
+      "end": 443.19,
+      "text": "Taking food in little, he serves not his own belly."
+    },
+    {
+      "start": 443.19,
+      "end": 447.19,
+      "text": "Slothful in little, he is heatful in wakefulness."
+    },
+    {
+      "start": 447.19,
+      "end": 451.19,
+      "text": "He is much learned with a retentive and well stored mind."
+    },
+    {
+      "start": 451.19,
+      "end": 455.19,
+      "text": "Those teachings, lovely in the beginning, lovely in the middle and lovely in the end,"
+    },
+    {
+      "start": 455.19,
+      "end": 461.19,
+      "text": "which sets forth in spirit and letter the holy life of purity, perfect in its entirety."
+    },
+    {
+      "start": 461.19,
+      "end": 468.19,
+      "text": "Those teachings are much heard by him, remembered, verbally recited, carefully pondered over in mind,"
+    },
+    {
+      "start": 468.19,
+      "end": 473.19,
+      "text": "fully understood in theory, and he reflects on the mind as free."
+    },
+    {
+      "start": 473.19,
+      "end": 479.19,
+      "text": "Monks, possessed of these five qualities, a monk practicing awareness in breathing in and breathing out,"
+    },
+    {
+      "start": 479.19,
+      "end": 483.19,
+      "text": "will in no long time penetrate the immovable."
+    },
+    {
+      "start": 483.19,
+      "end": 485.19,
+      "text": "That's the end of the sutra."
+    },
+    {
+      "start": 485.19,
+      "end": 491.19,
+      "text": "So here this sutra says that when we practice anapanasati, mindfulness of the breath,"
+    },
+    {
+      "start": 491.19,
+      "end": 493.19,
+      "text": "these few things are very helpful."
+    },
+    {
+      "start": 493.19,
+      "end": 500.19,
+      "text": "First one, he has few duties and he is easily supported, contented."
+    },
+    {
+      "start": 500.19,
+      "end": 508.19,
+      "text": "Second one, he takes little food, moderate food and does not overeat"
+    },
+    {
+      "start": 508.19,
+      "end": 512.19,
+      "text": "because when he eats too much, he becomes sleepy, it's difficult to meditate."
+    },
+    {
+      "start": 512.19,
+      "end": 516.19,
+      "text": "Third one, he is heatful in wakefulness."
+    },
+    {
+      "start": 516.19,
+      "end": 521.19,
+      "text": "That means he does not sleep too much, tries to maintain wakefulness."
+    },
+    {
+      "start": 522.19,
+      "end": 524.19,
+      "text": "Fourth one, he is much learned."
+    },
+    {
+      "start": 524.19,
+      "end": 528.19,
+      "text": "Much learned is stressed quite often."
+    },
+    {
+      "start": 528.19,
+      "end": 532.19,
+      "text": "That means we are much learned in the suttas, the saddhamma."
+    },
+    {
+      "start": 532.19,
+      "end": 536.19,
+      "text": "Saddhamma refers to the discourses of the Buddha."
+    },
+    {
+      "start": 536.19,
+      "end": 542.19,
+      "text": "We have much knowledge of these discourses of the Buddha."
+    },
+    {
+      "start": 542.19,
+      "end": 548.19,
+      "text": "Then the fifth one, he reflects on the mind as free."
+    },
+    {
+      "start": 548.19,
+      "end": 554.98,
+      "text": "So these five qualities are helpful to obtain liberation."
+    },
+    {
+      "start": 554.98,
+      "end": 559.98,
+      "text": "The next sutra is 5.10.99."
+    },
+    {
+      "start": 559.98,
+      "end": 564.98,
+      "text": "Mangs, in the evening the lion, king of beasts, leaves his lair."
+    },
+    {
+      "start": 564.98,
+      "end": 566.98,
+      "text": "He stretches himself."
+    },
+    {
+      "start": 566.98,
+      "end": 568.98,
+      "text": "He looks around on the four quarters."
+    },
+    {
+      "start": 568.98,
+      "end": 571.98,
+      "text": "Three times he roars his lion roar."
+    },
+    {
+      "start": 571.98,
+      "end": 574.98,
+      "text": "Then he goes forth to hunt."
+    },
+    {
+      "start": 574.98,
+      "end": 577.98,
+      "text": "Mangs, if he strike a blow at an elephant,"
+    },
+    {
+      "start": 577.98,
+      "end": 581.98,
+      "text": "he strikes verily with care, not without care."
+    },
+    {
+      "start": 581.98,
+      "end": 586.98,
+      "text": "If he strike a blow at a buffalo, at an ox, at a leopard,"
+    },
+    {
+      "start": 586.98,
+      "end": 591.98,
+      "text": "if he strike a blow at any small creature, be it but a hare or cat,"
+    },
+    {
+      "start": 591.98,
+      "end": 594.98,
+      "text": "he strikes with care, not without care."
+    },
+    {
+      "start": 594.98,
+      "end": 595.98,
+      "text": "And why?"
+    },
+    {
+      "start": 595.98,
+      "end": 599.98,
+      "text": "He thinks, let not my skill fail me."
+    },
+    {
+      "start": 599.98,
+      "end": 605.98,
+      "text": "A lion mangs, that is a name for the Tathagata, Arahan Samasambuddha."
+    },
+    {
+      "start": 605.98,
+      "end": 609.98,
+      "text": "Verily mangs, when a Tathagata teaches Dhamma in assembly,"
+    },
+    {
+      "start": 609.98,
+      "end": 611.98,
+      "text": "that is his lion roar."
+    },
+    {
+      "start": 611.98,
+      "end": 616.98,
+      "text": "And if he teach Dhamma to the mangs, he teaches with care, not without care."
+    },
+    {
+      "start": 616.98,
+      "end": 621.98,
+      "text": "If he teach Dhamma to the nuns, to lay men, to lay women, disciples,"
+    },
+    {
+      "start": 621.98,
+      "end": 624.98,
+      "text": "if the Tathagata teach Dhamma to the many folk,"
+    },
+    {
+      "start": 624.98,
+      "end": 627.98,
+      "text": "be they but foulers who go about with grain."
+    },
+    {
+      "start": 627.98,
+      "end": 630.98,
+      "text": "He teaches with care, not without care."
+    },
+    {
+      "start": 630.98,
+      "end": 631.98,
+      "text": "And why?"
+    },
+    {
+      "start": 631.98,
+      "end": 635.98,
+      "text": "Fill with respect for Dhamma is the Tathagata mangs."
+    },
+    {
+      "start": 635.98,
+      "end": 638.98,
+      "text": "Fill with reverence for Dhamma."
+    },
+    {
+      "start": 638.98,
+      "end": 640.98,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 640.98,
+      "end": 646.98,
+      "text": "So here the Buddha is saying, just as a lion, when he goes out to hunt,"
+    },
+    {
+      "start": 646.98,
+      "end": 649.98,
+      "text": "he takes a lot of care."
+    },
+    {
+      "start": 649.98,
+      "end": 652.98,
+      "text": "Make sure every time he makes a kill."
+    },
+    {
+      "start": 652.98,
+      "end": 657.98,
+      "text": "So in the same way the Buddha said, when the Buddha teaches the Dhamma,"
+    },
+    {
+      "start": 657.98,
+      "end": 661.98,
+      "text": "he also, like the lion, takes a lot of care."
+    },
+    {
+      "start": 661.98,
+      "end": 666.98,
+      "text": "Make sure his message strikes home."
+    },
+    {
+      "start": 666.98,
+      "end": 673.98,
+      "text": "So that's about teaching Dhamma."
+    },
+    {
+      "start": 673.98,
+      "end": 677.98,
+      "text": "In one of the Suttas later, we'll find the Buddha says,"
+    },
+    {
+      "start": 677.98,
+      "end": 680.98,
+      "text": "that even the Buddha has a Raja."
+    },
+    {
+      "start": 680.98,
+      "end": 686.98,
+      "text": "And the Raja of the Buddha, or the Dhamma king, is the Dhamma."
+    },
+    {
+      "start": 686.98,
+      "end": 693.98,
+      "text": "And in another Sutta, the Buddha, immediately after he was enlightened,"
+    },
+    {
+      "start": 693.98,
+      "end": 699.98,
+      "text": "he contemplated whether there is another being higher than him in wisdom, etc.,"
+    },
+    {
+      "start": 699.98,
+      "end": 701.98,
+      "text": "that he should respect."
+    },
+    {
+      "start": 701.98,
+      "end": 705.98,
+      "text": "And when he looked around, he saw that there's no higher being than himself."
+    },
+    {
+      "start": 705.98,
+      "end": 708.98,
+      "text": "Then he wanted to himself, whom should he respect?"
+    },
+    {
+      "start": 708.98,
+      "end": 710.98,
+      "text": "Or what should he respect?"
+    },
+    {
+      "start": 710.98,
+      "end": 711.98,
+      "text": "Then he reflected."
+    },
+    {
+      "start": 711.98,
+      "end": 718.98,
+      "text": "He thought Dhamma is that which he should venerate and respect."
+    },
+    {
+      "start": 718.98,
+      "end": 722.98,
+      "text": "So because of veneration of the Dhamma,"
+    },
+    {
+      "start": 722.98,
+      "end": 727.98,
+      "text": "whenever the Buddha or his monks teach the Dhamma,"
+    },
+    {
+      "start": 727.98,
+      "end": 732.98,
+      "text": "they should do so with great care, not carelessly."
+    },
+    {
+      "start": 732.98,
+      "end": 737.98,
+      "text": "So it is very good for a monk every time he prepares a talk."
+    },
+    {
+      "start": 737.98,
+      "end": 742.98,
+      "text": "I mean every time he gives a talk or something to prepare it."
+    },
+    {
+      "start": 742.98,
+      "end": 749.36,
+      "text": "And because of that also, of respect for the Dhamma,"
+    },
+    {
+      "start": 749.36,
+      "end": 753.36,
+      "text": "the Buddha has made it part of the Vinaya rules,"
+    },
+    {
+      "start": 753.36,
+      "end": 756.36,
+      "text": "that when a monk teaches Dhamma to lay people,"
+    },
+    {
+      "start": 756.36,
+      "end": 760.36,
+      "text": "they must be worthy of being taught the Dhamma."
+    },
+    {
+      "start": 760.36,
+      "end": 761.36,
+      "text": "They have to show the respect."
+    },
+    {
+      "start": 761.36,
+      "end": 764.36,
+      "text": "That's why when lay people listen to the Dhamma,"
+    },
+    {
+      "start": 764.36,
+      "end": 767.36,
+      "text": "they should not sit higher than a monk."
+    },
+    {
+      "start": 767.36,
+      "end": 772.36,
+      "text": "They should either sit lower or on the same level, but not higher."
+    },
+    {
+      "start": 772.36,
+      "end": 776.36,
+      "text": "And also they should not, for example, wear a hat."
+    },
+    {
+      "start": 776.36,
+      "end": 782.36,
+      "text": "And they should also not hold the knees together, sit properly."
+    },
+    {
+      "start": 782.36,
+      "end": 790.36,
+      "text": "And they should not carry an umbrella or carry a stick or carry a weapon."
+    },
+    {
+      "start": 790.36,
+      "end": 793.36,
+      "text": "These are all part of the Vinaya rules,"
+    },
+    {
+      "start": 793.36,
+      "end": 798.36,
+      "text": "that we should, out of respect for the Dhamma,"
+    },
+    {
+      "start": 798.36,
+      "end": 801.36,
+      "text": "be quite respectful when we hear the Dhamma,"
+    },
+    {
+      "start": 801.36,
+      "end": 806.36,
+      "text": "because there's nothing more helpful to us than the Dhamma."
+    },
+    {
+      "start": 806.36,
+      "end": 809.36,
+      "text": "We will realize this as we grow older."
+    },
+    {
+      "start": 809.36,
+      "end": 818.28,
+      "text": "There is no, no, nothing of such great value in the world as the Dhamma."
+    },
+    {
+      "start": 818.28,
+      "end": 822.28,
+      "text": "The next one is 5.10.100."
+    },
+    {
+      "start": 822.28,
+      "end": 827.28,
+      "text": "Now the exalted one was one staying near Kusambi in Gosita Park."
+    },
+    {
+      "start": 827.28,
+      "end": 833.28,
+      "text": "And at that time, Kakuda, a Kulian, the venerable Mahamogalana's attendant,"
+    },
+    {
+      "start": 833.28,
+      "end": 838.28,
+      "text": "had just died and was reborn in a mind-created body."
+    },
+    {
+      "start": 838.28,
+      "end": 844.28,
+      "text": "And the form that he took was such that it filled two or three Magadan village fields."
+    },
+    {
+      "start": 844.28,
+      "end": 849.28,
+      "text": "Yet that form caused suffering neither to him nor to another."
+    },
+    {
+      "start": 849.28,
+      "end": 854.28,
+      "text": "Kakuda Deva visited the venerable Mahamogalana,"
+    },
+    {
+      "start": 854.28,
+      "end": 857.28,
+      "text": "saluted him and stood at one side."
+    },
+    {
+      "start": 857.28,
+      "end": 861.28,
+      "text": "And so standing, he spoke thus to the venerable one."
+    },
+    {
+      "start": 861.28,
+      "end": 865.28,
+      "text": "Sir, in Devadatta has arisen this longing."
+    },
+    {
+      "start": 865.28,
+      "end": 868.28,
+      "text": "It is I who will lead the order of monks."
+    },
+    {
+      "start": 868.28,
+      "end": 871.28,
+      "text": "And sir, with the arising of that thought,"
+    },
+    {
+      "start": 871.28,
+      "end": 874.28,
+      "text": "Devadatta's psychic power has declined."
+    },
+    {
+      "start": 874.28,
+      "end": 877.28,
+      "text": "Thus spoke the Deva Kakuda."
+    },
+    {
+      "start": 877.28,
+      "end": 881.28,
+      "text": "Having spoken so, he saluted the venerable Mahamogalana"
+    },
+    {
+      "start": 881.28,
+      "end": 885.28,
+      "text": "and keeping him on his right disappeared tense."
+    },
+    {
+      "start": 885.28,
+      "end": 889.28,
+      "text": "Then when the venerable Mahamogalana to the exalted one"
+    },
+    {
+      "start": 889.28,
+      "end": 892.28,
+      "text": "and saluting him sat down at one side,"
+    },
+    {
+      "start": 892.28,
+      "end": 896.98,
+      "text": "and he told the exalted one all that had occurred,"
+    },
+    {
+      "start": 896.98,
+      "end": 900.98,
+      "text": "and the exalted one said,"
+    },
+    {
+      "start": 900.98,
+      "end": 907.98,
+      "text": "One Mogalana, have you with your mind so compassed the mind of Kakuda Deva"
+    },
+    {
+      "start": 907.98,
+      "end": 911.98,
+      "text": "so as to know whatsoever Kakuda Deva says,"
+    },
+    {
+      "start": 911.98,
+      "end": 917.98,
+      "text": "all that is just, thus and not otherwise."
+    },
+    {
+      "start": 917.98,
+      "end": 919.98,
+      "text": "Lord, I have so compassed his mind,"
+    },
+    {
+      "start": 919.98,
+      "end": 922.98,
+      "text": "so as to know that the mind of Kakuda,"
+    },
+    {
+      "start": 922.98,
+      "end": 926.98,
+      "text": "so as to know on that whatsoever Kakuda Deva says,"
+    },
+    {
+      "start": 926.98,
+      "end": 929.98,
+      "text": "all that is just, thus and not otherwise."
+    },
+    {
+      "start": 929.98,
+      "end": 931.98,
+      "text": "Then the Buddha said,"
+    },
+    {
+      "start": 931.98,
+      "end": 934.98,
+      "text": "Then watch your words Mogalana, watch your words,"
+    },
+    {
+      "start": 934.98,
+      "end": 939.98,
+      "text": "for even now the foolish fellow will betray himself."
+    },
+    {
+      "start": 939.98,
+      "end": 943.98,
+      "text": "Mogalana, these are five teachers found in the world."
+    },
+    {
+      "start": 943.98,
+      "end": 945.98,
+      "text": "What five?"
+    },
+    {
+      "start": 945.98,
+      "end": 949.98,
+      "text": "Take the case Mogalana of some teacher whose ways are impure,"
+    },
+    {
+      "start": 949.98,
+      "end": 952.98,
+      "text": "but he thinks I am pure."
+    },
+    {
+      "start": 952.98,
+      "end": 955.98,
+      "text": "Pure are my ways, clean and stainless."
+    },
+    {
+      "start": 955.98,
+      "end": 960.98,
+      "text": "But his disciples know this worthy teacher is impure in his ways,"
+    },
+    {
+      "start": 960.98,
+      "end": 963.98,
+      "text": "but things just otherwise."
+    },
+    {
+      "start": 963.98,
+      "end": 967.98,
+      "text": "If we tell the householders he will not like it,"
+    },
+    {
+      "start": 967.98,
+      "end": 971.98,
+      "text": "and how can we do what he will not like?"
+    },
+    {
+      "start": 971.98,
+      "end": 974.98,
+      "text": "And he is honoured by gifts of the requisites,"
+    },
+    {
+      "start": 974.98,
+      "end": 977.98,
+      "text": "the robes, arms, lodging and medicines."
+    },
+    {
+      "start": 977.98,
+      "end": 985.42,
+      "text": "What the self shall do, even by that, shall the self be known."
+    },
+    {
+      "start": 985.42,
+      "end": 989.42,
+      "text": "Mogalana, the disciples protect such a teacher in his ways,"
+    },
+    {
+      "start": 989.42,
+      "end": 993.42,
+      "text": "and such a teacher expects this protection of his disciples."
+    },
+    {
+      "start": 993.42,
+      "end": 998.42,
+      "text": "Again Mogalana, some teacher's mode of livelihood is not pure,"
+    },
+    {
+      "start": 998.42,
+      "end": 1001.42,
+      "text": "or his dhamma teaching is not pure,"
+    },
+    {
+      "start": 1001.42,
+      "end": 1006.42,
+      "text": "or his exposition, or his knowledge and insight are not pure,"
+    },
+    {
+      "start": 1006.42,
+      "end": 1008.42,
+      "text": "and his disciples know."
+    },
+    {
+      "start": 1008.42,
+      "end": 1014.14,
+      "text": "Mogalana, the disciples protect such a teacher,"
+    },
+    {
+      "start": 1014.14,
+      "end": 1018.14,
+      "text": "and such a teacher expects this protection of his disciples."
+    },
+    {
+      "start": 1018.14,
+      "end": 1022.14,
+      "text": "These Mogalana are five teachers found in the world."
+    },
+    {
+      "start": 1022.14,
+      "end": 1027.14,
+      "text": "But I, Mogalana, am pure in ways, and know that I am pure."
+    },
+    {
+      "start": 1027.14,
+      "end": 1030.14,
+      "text": "I know that my ways are pure, clean and stainless."
+    },
+    {
+      "start": 1030.14,
+      "end": 1033.14,
+      "text": "My disciples protect not my ways,"
+    },
+    {
+      "start": 1033.14,
+      "end": 1037.14,
+      "text": "nor do I expect this protection of my disciples."
+    },
+    {
+      "start": 1037.14,
+      "end": 1041.14,
+      "text": "I am pure in my mode of livelihood, in dhamma teaching,"
+    },
+    {
+      "start": 1041.14,
+      "end": 1045.14,
+      "text": "in exposition, in knowledge and insight, and I know that I am pure."
+    },
+    {
+      "start": 1045.14,
+      "end": 1049.14,
+      "text": "I know that these things are pure within me, clean and stainless."
+    },
+    {
+      "start": 1049.14,
+      "end": 1052.14,
+      "text": "Not as to them, do my disciples protect me,"
+    },
+    {
+      "start": 1052.14,
+      "end": 1057.14,
+      "text": "nor do I expect this of my disciples as the end of the sutta."
+    },
+    {
+      "start": 1057.14,
+      "end": 1062.14,
+      "text": "This sutta reveals a few things."
+    },
+    {
+      "start": 1062.14,
+      "end": 1068.14,
+      "text": "Firstly, that the Mahamogalana is the man,"
+    },
+    {
+      "start": 1068.14,
+      "end": 1072.14,
+      "text": "the disciple of the Buddha with the greatest psychic power."
+    },
+    {
+      "start": 1072.14,
+      "end": 1077.14,
+      "text": "And yet here, you can see that the Deva, his former attendant,"
+    },
+    {
+      "start": 1077.14,
+      "end": 1081.14,
+      "text": "former monk attendant, I think, came to visit him"
+    },
+    {
+      "start": 1081.14,
+      "end": 1086.14,
+      "text": "and told him that the Deva data is planning"
+    },
+    {
+      "start": 1086.14,
+      "end": 1090.14,
+      "text": "that he wants to lead the Sangha of monks."
+    },
+    {
+      "start": 1090.14,
+      "end": 1095.14,
+      "text": "Now, this is interesting because you can see from here"
+    },
+    {
+      "start": 1095.14,
+      "end": 1100.14,
+      "text": "and other suttas that the Arhans, including the Buddha,"
+    },
+    {
+      "start": 1100.14,
+      "end": 1103.14,
+      "text": "they generally spend their time in meditation."
+    },
+    {
+      "start": 1103.14,
+      "end": 1105.14,
+      "text": "Even though they had psychic power,"
+    },
+    {
+      "start": 1105.14,
+      "end": 1107.14,
+      "text": "they didn't go around trying to be inquisitive"
+    },
+    {
+      "start": 1107.14,
+      "end": 1109.14,
+      "text": "and find out what this guy is thinking,"
+    },
+    {
+      "start": 1109.14,
+      "end": 1113.14,
+      "text": "what that fellow is thinking, what this fellow is planning and all that."
+    },
+    {
+      "start": 1113.14,
+      "end": 1117.14,
+      "text": "Because if they did that, then they would be very busy"
+    },
+    {
+      "start": 1117.14,
+      "end": 1123.14,
+      "text": "and they would be still having attachment to what's going on in the world."
+    },
+    {
+      "start": 1123.14,
+      "end": 1126.14,
+      "text": "And it's because the Buddha and his disciples,"
+    },
+    {
+      "start": 1126.14,
+      "end": 1132.14,
+      "text": "they are enlightened and they see this world as appearing only in consciousness,"
+    },
+    {
+      "start": 1132.14,
+      "end": 1139.14,
+      "text": "a bit like a dream, that is why they are not so concerned with what's going on in the world."
+    },
+    {
+      "start": 1139.14,
+      "end": 1142.14,
+      "text": "And the other thing that's interesting here is that,"
+    },
+    {
+      "start": 1142.14,
+      "end": 1145.14,
+      "text": "you see this Deva data is one of the disciples,"
+    },
+    {
+      "start": 1145.14,
+      "end": 1148.14,
+      "text": "one of the well-known disciples of the Buddha"
+    },
+    {
+      "start": 1148.14,
+      "end": 1150.14,
+      "text": "and also a relation of the Buddha."
+    },
+    {
+      "start": 1150.14,
+      "end": 1152.14,
+      "text": "And he had, according to the Vinaya,"
+    },
+    {
+      "start": 1152.14,
+      "end": 1156.14,
+      "text": "he had obtained all the eight psychic powers,"
+    },
+    {
+      "start": 1156.14,
+      "end": 1162.14,
+      "text": "sorry, all the eight jhanas, the four rupa jhanas and the four arupa jhanas."
+    },
+    {
+      "start": 1162.14,
+      "end": 1165.14,
+      "text": "And because of that, he had psychic power"
+    },
+    {
+      "start": 1165.14,
+      "end": 1168.14,
+      "text": "and he had great psychic power."
+    },
+    {
+      "start": 1168.14,
+      "end": 1176.14,
+      "text": "But because he still had this greed, very strong greed,"
+    },
+    {
+      "start": 1176.14,
+      "end": 1179.14,
+      "text": "his ego was still very strong,"
+    },
+    {
+      "start": 1179.14,
+      "end": 1182.14,
+      "text": "he wanted to take the place of the Buddha."
+    },
+    {
+      "start": 1182.14,
+      "end": 1184.14,
+      "text": "So because of that, he was planning"
+    },
+    {
+      "start": 1184.14,
+      "end": 1187.14,
+      "text": "how to take the Buddha's place."
+    },
+    {
+      "start": 1187.14,
+      "end": 1191.14,
+      "text": "In fact, in our Vinaya books, we find that one day, he approached the Buddha"
+    },
+    {
+      "start": 1191.14,
+      "end": 1192.14,
+      "text": "and told the Buddha,"
+    },
+    {
+      "start": 1192.14,
+      "end": 1195.14,
+      "text": "Bhagawan, now you are old, why don't you step down,"
+    },
+    {
+      "start": 1195.14,
+      "end": 1198.14,
+      "text": "let me take over and lead the Sangha."
+    },
+    {
+      "start": 1198.14,
+      "end": 1203.14,
+      "text": "And he said that three times in our Vinaya books"
+    },
+    {
+      "start": 1203.14,
+      "end": 1205.14,
+      "text": "and then the Buddha scolded him,"
+    },
+    {
+      "start": 1205.14,
+      "end": 1207.14,
+      "text": "sort of scolded him in front of the Sangha,"
+    },
+    {
+      "start": 1207.14,
+      "end": 1211.14,
+      "text": "saying that he's like spit,"
+    },
+    {
+      "start": 1211.14,
+      "end": 1213.14,
+      "text": "something that you spit away"
+    },
+    {
+      "start": 1213.14,
+      "end": 1216.14,
+      "text": "and yet you think you want to lead the Sangha."
+    },
+    {
+      "start": 1216.14,
+      "end": 1219.14,
+      "text": "From there, he had a hatred for the Buddha,"
+    },
+    {
+      "start": 1219.14,
+      "end": 1223.14,
+      "text": "increased and then he planned to kill the Buddha."
+    },
+    {
+      "start": 1223.14,
+      "end": 1227.14,
+      "text": "So here, the deva is telling Mahamogalana"
+    },
+    {
+      "start": 1227.14,
+      "end": 1232.14,
+      "text": "that because of this greedy thought to lead the Sangha,"
+    },
+    {
+      "start": 1232.14,
+      "end": 1235.14,
+      "text": "his psychic power immediately declined."
+    },
+    {
+      "start": 1235.14,
+      "end": 1240.42,
+      "text": "And the Buddha was saying,"
+    },
+    {
+      "start": 1240.42,
+      "end": 1243.42,
+      "text": "watch your words, Mahamogalana, watch your words."
+    },
+    {
+      "start": 1243.42,
+      "end": 1246.42,
+      "text": "Even now, the foolish fellow will betray himself."
+    },
+    {
+      "start": 1246.42,
+      "end": 1249.42,
+      "text": "That means the Buddha is saying,"
+    },
+    {
+      "start": 1249.42,
+      "end": 1253.42,
+      "text": "mark your words, what you are saying,"
+    },
+    {
+      "start": 1253.42,
+      "end": 1260.42,
+      "text": "because the deva Dutta will show his true colours very soon."
+    },
+    {
+      "start": 1260.42,
+      "end": 1265.42,
+      "text": "Then the Buddha talked about the five types of impure teachers."
+    },
+    {
+      "start": 1265.42,
+      "end": 1269.42,
+      "text": "This is quite interesting"
+    },
+    {
+      "start": 1269.42,
+      "end": 1272.42,
+      "text": "because they are teachers who are impure"
+    },
+    {
+      "start": 1272.42,
+      "end": 1274.42,
+      "text": "and they try to hide the fact"
+    },
+    {
+      "start": 1274.42,
+      "end": 1277.42,
+      "text": "and the disciples also try to protect the teacher"
+    },
+    {
+      "start": 1277.42,
+      "end": 1281.42,
+      "text": "because this is concerned with the personality cult."
+    },
+    {
+      "start": 1281.42,
+      "end": 1285.42,
+      "text": "Some people, they hero worship the teacher"
+    },
+    {
+      "start": 1285.42,
+      "end": 1288.42,
+      "text": "and because of that, they think the teacher is famous"
+    },
+    {
+      "start": 1288.42,
+      "end": 1293.42,
+      "text": "and so because if they are a disciple of a famous teacher,"
+    },
+    {
+      "start": 1293.42,
+      "end": 1295.42,
+      "text": "they are also like that, great."
+    },
+    {
+      "start": 1295.42,
+      "end": 1298.42,
+      "text": "If the teacher is great, they are also great."
+    },
+    {
+      "start": 1298.42,
+      "end": 1302.42,
+      "text": "For that, they want to protect the image of the teacher."
+    },
+    {
+      "start": 1302.42,
+      "end": 1307.42,
+      "text": "In that way, they are indirectly protecting their own reputation"
+    },
+    {
+      "start": 1307.42,
+      "end": 1311.08,
+      "text": "and it's clear in the Buddha's teachings"
+    },
+    {
+      "start": 1311.08,
+      "end": 1317.08,
+      "text": "that we don't take refuge with anybody."
+    },
+    {
+      "start": 1317.08,
+      "end": 1322.08,
+      "text": "We only take refuge with the Buddha, Dharma and Sangha."
+    },
+    {
+      "start": 1322.08,
+      "end": 1326.08,
+      "text": "We always remember we take refuge with the Buddha, Dharma and Sangha"
+    },
+    {
+      "start": 1326.08,
+      "end": 1329.08,
+      "text": "and whatever the teacher tells us."
+    },
+    {
+      "start": 1329.08,
+      "end": 1332.08,
+      "text": "We have to compare it with the Buddha's discourses,"
+    },
+    {
+      "start": 1332.08,
+      "end": 1334.08,
+      "text": "whether it's consistent with the Buddha's discourses."
+    },
+    {
+      "start": 1334.08,
+      "end": 1336.08,
+      "text": "If it's consistent, we accept it."
+    },
+    {
+      "start": 1336.08,
+      "end": 1340.08,
+      "text": "If it's not consistent, the Buddha says in the Angutra Nikaya"
+    },
+    {
+      "start": 1340.08,
+      "end": 1342.08,
+      "text": "that we don't accept it"
+    },
+    {
+      "start": 1342.08,
+      "end": 1345.08,
+      "text": "because nowadays there's a lot of personality cults around."
+    },
+    {
+      "start": 1345.08,
+      "end": 1349.26,
+      "text": "We have to be cautious."
+    },
+    {
+      "start": 1349.26,
+      "end": 1355.26,
+      "text": "Next Buddha is 5.11.102."
+    },
+    {
+      "start": 1355.26,
+      "end": 1357.26,
+      "text": "The Buddha said monks."
+    },
+    {
+      "start": 1357.26,
+      "end": 1362.26,
+      "text": "A monk who follows after 5 things is mistrusted and suspected."
+    },
+    {
+      "start": 1362.26,
+      "end": 1365.26,
+      "text": "He is thought of as an evil monk,"
+    },
+    {
+      "start": 1365.26,
+      "end": 1368.26,
+      "text": "even if he has one to the immovable."
+    },
+    {
+      "start": 1368.26,
+      "end": 1369.26,
+      "text": "What 5?"
+    },
+    {
+      "start": 1369.26,
+      "end": 1374.26,
+      "text": "Here in monks, a monk who frequents a prostitute's house,"
+    },
+    {
+      "start": 1374.26,
+      "end": 1377.26,
+      "text": "he frequents a widow's house,"
+    },
+    {
+      "start": 1377.26,
+      "end": 1381.26,
+      "text": "he frequents the house of some unmarried woman"
+    },
+    {
+      "start": 1381.26,
+      "end": 1385.26,
+      "text": "or where a eunuch stays."
+    },
+    {
+      "start": 1385.26,
+      "end": 1388.26,
+      "text": "Or he frequents the nun's quarters."
+    },
+    {
+      "start": 1388.26,
+      "end": 1390.26,
+      "text": "Where are the monks?"
+    },
+    {
+      "start": 1390.26,
+      "end": 1394.26,
+      "text": "A monk who follows after these 5 things is mistrusted and suspected."
+    },
+    {
+      "start": 1394.26,
+      "end": 1397.26,
+      "text": "He is thought of as an evil monk,"
+    },
+    {
+      "start": 1397.26,
+      "end": 1400.26,
+      "text": "even if he has one to the immovable."
+    },
+    {
+      "start": 1400.26,
+      "end": 1402.26,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 1402.26,
+      "end": 1406.26,
+      "text": "This Sutta is talking about the wrong resource"
+    },
+    {
+      "start": 1406.26,
+      "end": 1409.26,
+      "text": "of a monk called the Agochara."
+    },
+    {
+      "start": 1409.26,
+      "end": 1412.26,
+      "text": "Five types of places a monk should not go often."
+    },
+    {
+      "start": 1412.26,
+      "end": 1415.26,
+      "text": "He can go once or twice if necessary,"
+    },
+    {
+      "start": 1415.26,
+      "end": 1417.26,
+      "text": "but he keeps going there."
+    },
+    {
+      "start": 1417.26,
+      "end": 1423.26,
+      "text": "People will suspect him of being an evil monk."
+    },
+    {
+      "start": 1423.26,
+      "end": 1426.26,
+      "text": "Even if he has one to the immovable,"
+    },
+    {
+      "start": 1426.26,
+      "end": 1428.26,
+      "text": "according to the commentary,"
+    },
+    {
+      "start": 1428.26,
+      "end": 1432.26,
+      "text": "this means that even if he is an arahant,"
+    },
+    {
+      "start": 1432.26,
+      "end": 1436.26,
+      "text": "if he keeps going to these few types of places,"
+    },
+    {
+      "start": 1436.26,
+      "end": 1439.26,
+      "text": "people will suspect him to have evil intentions."
+    },
+    {
+      "start": 1439.26,
+      "end": 1442.26,
+      "text": "The first one is a prostitute's house."
+    },
+    {
+      "start": 1442.26,
+      "end": 1444.26,
+      "text": "That is quite obvious."
+    },
+    {
+      "start": 1444.26,
+      "end": 1447.26,
+      "text": "The second one is a widow's house."
+    },
+    {
+      "start": 1447.26,
+      "end": 1450.26,
+      "text": "The third one is some unmarried woman."
+    },
+    {
+      "start": 1450.26,
+      "end": 1454.26,
+      "text": "That means someone of middle age also unmarried."
+    },
+    {
+      "start": 1454.26,
+      "end": 1458.26,
+      "text": "The third one is a eunuch or a homosexual."
+    },
+    {
+      "start": 1458.26,
+      "end": 1460.26,
+      "text": "If somebody is known to be a homosexual"
+    },
+    {
+      "start": 1460.26,
+      "end": 1462.26,
+      "text": "and a monk keeps going there,"
+    },
+    {
+      "start": 1462.26,
+      "end": 1465.26,
+      "text": "people will naturally suspect something wrong."
+    },
+    {
+      "start": 1465.26,
+      "end": 1468.26,
+      "text": "Or he keeps going to the nun's quarters."
+    },
+    {
+      "start": 1468.26,
+      "end": 1472.11,
+      "text": "That is also something wrong."
+    },
+    {
+      "start": 1472.11,
+      "end": 1478.22,
+      "text": "So, let's see another suit."
+    },
+    {
+      "start": 1478.22,
+      "end": 1483.22,
+      "text": "The next one is 5.12.111."
+    },
+    {
+      "start": 1483.22,
+      "end": 1487.22,
+      "text": "Monks, pursuing five courses,"
+    },
+    {
+      "start": 1487.22,
+      "end": 1490.22,
+      "text": "a clan going monk becomes a monk-clan folk,"
+    },
+    {
+      "start": 1490.22,
+      "end": 1493.22,
+      "text": "neither dear nor loved nor revered,"
+    },
+    {
+      "start": 1493.22,
+      "end": 1495.22,
+      "text": "nor what he ought to become."
+    },
+    {
+      "start": 1495.22,
+      "end": 1496.22,
+      "text": "What five?"
+    },
+    {
+      "start": 1496.22,
+      "end": 1500.22,
+      "text": "He is intimate with those who are unfamiliar."
+    },
+    {
+      "start": 1500.22,
+      "end": 1503.22,
+      "text": "Interfering without warrant,"
+    },
+    {
+      "start": 1503.22,
+      "end": 1506.22,
+      "text": "frequents the society of dissenters,"
+    },
+    {
+      "start": 1506.22,
+      "end": 1510.22,
+      "text": "whispers in the ear and asks too much."
+    },
+    {
+      "start": 1510.22,
+      "end": 1513.22,
+      "text": "Monks, pursuing these five courses,"
+    },
+    {
+      "start": 1513.22,
+      "end": 1518.22,
+      "text": "a clan going is not dear nor loved nor revered"
+    },
+    {
+      "start": 1518.22,
+      "end": 1520.22,
+      "text": "to clan folk."
+    },
+    {
+      "start": 1520.22,
+      "end": 1522.22,
+      "text": "That is the end of the sutta."
+    },
+    {
+      "start": 1522.22,
+      "end": 1524.22,
+      "text": "That means a monk should be careful"
+    },
+    {
+      "start": 1524.22,
+      "end": 1527.22,
+      "text": "not to do these few things."
+    },
+    {
+      "start": 1527.22,
+      "end": 1531.22,
+      "text": "The first one is to be too intimate,"
+    },
+    {
+      "start": 1531.22,
+      "end": 1534.22,
+      "text": "too friendly with those who are unfamiliar,"
+    },
+    {
+      "start": 1534.22,
+      "end": 1536.22,
+      "text": "probably newcomers."
+    },
+    {
+      "start": 1536.22,
+      "end": 1541.22,
+      "text": "Too close, too friendly with newcomers,"
+    },
+    {
+      "start": 1541.22,
+      "end": 1543.22,
+      "text": "those who are unfamiliar,"
+    },
+    {
+      "start": 1543.22,
+      "end": 1545.22,
+      "text": "people will suspect something wrong."
+    },
+    {
+      "start": 1545.22,
+      "end": 1548.22,
+      "text": "Second one, interfering without warrant."
+    },
+    {
+      "start": 1548.22,
+      "end": 1552.22,
+      "text": "That means interfering probably in laypeople's affairs"
+    },
+    {
+      "start": 1552.22,
+      "end": 1556.22,
+      "text": "without good reason."
+    },
+    {
+      "start": 1556.22,
+      "end": 1561.22,
+      "text": "They are not asked among interfering in laypeople's affairs"
+    },
+    {
+      "start": 1561.22,
+      "end": 1563.22,
+      "text": "even if it's not asked."
+    },
+    {
+      "start": 1563.22,
+      "end": 1566.22,
+      "text": "Third one, frequents the society of dissenters."
+    },
+    {
+      "start": 1566.22,
+      "end": 1568.22,
+      "text": "That means those of wrong views,"
+    },
+    {
+      "start": 1568.22,
+      "end": 1570.22,
+      "text": "those of other views,"
+    },
+    {
+      "start": 1570.22,
+      "end": 1574.22,
+      "text": "a monk keeps going to them also."
+    },
+    {
+      "start": 1574.22,
+      "end": 1576.22,
+      "text": "People think there's something wrong."
+    },
+    {
+      "start": 1576.22,
+      "end": 1579.22,
+      "text": "The fourth one, whispers in the ear."
+    },
+    {
+      "start": 1579.22,
+      "end": 1582.22,
+      "text": "That means especially if a monk talks to a woman"
+    },
+    {
+      "start": 1582.22,
+      "end": 1585.22,
+      "text": "and he talks and whispers very softly and all that,"
+    },
+    {
+      "start": 1585.22,
+      "end": 1589.22,
+      "text": "people will think he's saying some things"
+    },
+    {
+      "start": 1589.22,
+      "end": 1591.22,
+      "text": "that he should not be saying"
+    },
+    {
+      "start": 1591.22,
+      "end": 1593.22,
+      "text": "and that he doesn't want other people to hear"
+    },
+    {
+      "start": 1593.22,
+      "end": 1596.22,
+      "text": "and people will suspect."
+    },
+    {
+      "start": 1596.22,
+      "end": 1604.22,
+      "text": "He's saying words that are indecent or improper."
+    },
+    {
+      "start": 1604.22,
+      "end": 1608.22,
+      "text": "And the fifth one, he asks too much."
+    },
+    {
+      "start": 1608.22,
+      "end": 1611.22,
+      "text": "That means he asks the laypeople"
+    },
+    {
+      "start": 1611.22,
+      "end": 1618.66,
+      "text": "to give him things much more than is reasonable."
+    },
+    {
+      "start": 1618.66,
+      "end": 1622.66,
+      "text": "And the next one is 5.12.112."
+    },
+    {
+      "start": 1622.66,
+      "end": 1627.66,
+      "text": "Monks acting in five ways, recluse or a monk,"
+    },
+    {
+      "start": 1627.66,
+      "end": 1630.66,
+      "text": "ought not to be taken to walk behind."
+    },
+    {
+      "start": 1630.66,
+      "end": 1634.66,
+      "text": "What five? He keeps too far behind or too near."
+    },
+    {
+      "start": 1634.66,
+      "end": 1638.66,
+      "text": "He takes not the arms laden bowl."
+    },
+    {
+      "start": 1638.66,
+      "end": 1643.66,
+      "text": "He strains not his speech which borders on being an offence."
+    },
+    {
+      "start": 1643.66,
+      "end": 1646.66,
+      "text": "He interrupts one time and again in speaking"
+    },
+    {
+      "start": 1646.66,
+      "end": 1649.66,
+      "text": "and is dull-witted, stupid and idiot."
+    },
+    {
+      "start": 1649.66,
+      "end": 1652.66,
+      "text": "Monks acting in these five ways,"
+    },
+    {
+      "start": 1652.66,
+      "end": 1656.66,
+      "text": "recluse or ought not to be taken to walk behind."
+    },
+    {
+      "start": 1656.66,
+      "end": 1658.66,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 1658.66,
+      "end": 1660.66,
+      "text": "This sutta is more like a Vinaya,"
+    },
+    {
+      "start": 1660.66,
+      "end": 1665.66,
+      "text": "a concerned disciplinary rule of monks"
+    },
+    {
+      "start": 1665.66,
+      "end": 1669.66,
+      "text": "because recluse ought not to be taken to walk behind."
+    },
+    {
+      "start": 1669.66,
+      "end": 1673.66,
+      "text": "That means he should not be taken as a disciple."
+    },
+    {
+      "start": 1673.66,
+      "end": 1677.66,
+      "text": "When a monk follows a senior monk,"
+    },
+    {
+      "start": 1677.66,
+      "end": 1680.66,
+      "text": "he becomes sort of a disciple."
+    },
+    {
+      "start": 1680.66,
+      "end": 1685.66,
+      "text": "So here, a lot of this refers to body language."
+    },
+    {
+      "start": 1685.66,
+      "end": 1688.66,
+      "text": "The first one, he keeps too far behind or too near."
+    },
+    {
+      "start": 1688.66,
+      "end": 1691.66,
+      "text": "That means when they go on arms round, the junior monk,"
+    },
+    {
+      "start": 1691.66,
+      "end": 1694.66,
+      "text": "he either walks too far behind or he walks too near"
+    },
+    {
+      "start": 1694.66,
+      "end": 1698.66,
+      "text": "and steps on your heels or something."
+    },
+    {
+      "start": 1698.66,
+      "end": 1703.66,
+      "text": "So from this, you can see that that junior monk"
+    },
+    {
+      "start": 1703.66,
+      "end": 1710.66,
+      "text": "is not respectful if he walks too far or too near"
+    },
+    {
+      "start": 1710.66,
+      "end": 1712.66,
+      "text": "instead of keeping a proper distance"
+    },
+    {
+      "start": 1712.66,
+      "end": 1717.66,
+      "text": "because this is one of the ways a senior monk can tell"
+    },
+    {
+      "start": 1717.66,
+      "end": 1721.66,
+      "text": "whether the junior monk is respectful to him or not."
+    },
+    {
+      "start": 1721.66,
+      "end": 1726.66,
+      "text": "The second one, he takes not the arms laden bowl."
+    },
+    {
+      "start": 1726.66,
+      "end": 1730.66,
+      "text": "This is nowadays not much seen"
+    },
+    {
+      "start": 1730.66,
+      "end": 1734.66,
+      "text": "except like in the forest tradition in Thailand"
+    },
+    {
+      "start": 1734.66,
+      "end": 1736.66,
+      "text": "where the monks go on arms round"
+    },
+    {
+      "start": 1736.66,
+      "end": 1739.66,
+      "text": "and then out of respect for the senior monk,"
+    },
+    {
+      "start": 1739.66,
+      "end": 1742.66,
+      "text": "usually the junior monk will volunteer"
+    },
+    {
+      "start": 1742.66,
+      "end": 1745.66,
+      "text": "to take the senior monk's bowl."
+    },
+    {
+      "start": 1745.66,
+      "end": 1747.66,
+      "text": "That means when he comes back on arms round,"
+    },
+    {
+      "start": 1747.66,
+      "end": 1749.66,
+      "text": "he's already got his bowl full"
+    },
+    {
+      "start": 1749.66,
+      "end": 1752.66,
+      "text": "and then he takes the senior monk's bowl again,"
+    },
+    {
+      "start": 1752.66,
+      "end": 1758.66,
+      "text": "puts it on his neck, the strap on his neck,"
+    },
+    {
+      "start": 1758.66,
+      "end": 1760.66,
+      "text": "so he carries two bowls."
+    },
+    {
+      "start": 1760.66,
+      "end": 1766.66,
+      "text": "If you go to Thailand, you can see these junior monks"
+    },
+    {
+      "start": 1766.66,
+      "end": 1768.66,
+      "text": "taking the senior monk's bowl"
+    },
+    {
+      "start": 1768.66,
+      "end": 1771.66,
+      "text": "and on top of that, they hurry back to the monastery."
+    },
+    {
+      "start": 1771.66,
+      "end": 1774.66,
+      "text": "They arrive in the monastery before the senior monk"
+    },
+    {
+      "start": 1774.66,
+      "end": 1777.66,
+      "text": "and get the water ready for washing the feet"
+    },
+    {
+      "start": 1777.66,
+      "end": 1779.66,
+      "text": "so that when the senior monks come back,"
+    },
+    {
+      "start": 1779.66,
+      "end": 1782.66,
+      "text": "they wash their feet, wash the feet of the senior monk."
+    },
+    {
+      "start": 1782.66,
+      "end": 1785.66,
+      "text": "This is all part of the training"
+    },
+    {
+      "start": 1785.66,
+      "end": 1790.66,
+      "text": "because especially when a person is new in monkhood,"
+    },
+    {
+      "start": 1790.66,
+      "end": 1794.66,
+      "text": "we have a lot of our own bad habits."
+    },
+    {
+      "start": 1794.66,
+      "end": 1797.66,
+      "text": "We hold fixed ways of thinking"
+    },
+    {
+      "start": 1797.66,
+      "end": 1801.66,
+      "text": "and when we train as a monk, we're trying to cut our ego."
+    },
+    {
+      "start": 1801.66,
+      "end": 1804.66,
+      "text": "So it's all very good training for a junior monk"
+    },
+    {
+      "start": 1804.66,
+      "end": 1807.66,
+      "text": "to wash the feet of a senior monk"
+    },
+    {
+      "start": 1807.66,
+      "end": 1810.66,
+      "text": "to see when he comes back as madi and all that."
+    },
+    {
+      "start": 1810.66,
+      "end": 1814.66,
+      "text": "And then after that, when the monk steps into the hall,"
+    },
+    {
+      "start": 1814.66,
+      "end": 1818.66,
+      "text": "the junior monks will take the towel and all that"
+    },
+    {
+      "start": 1818.66,
+      "end": 1820.66,
+      "text": "and wipe his feet clean."
+    },
+    {
+      "start": 1820.66,
+      "end": 1822.66,
+      "text": "If you're not used to it,"
+    },
+    {
+      "start": 1822.66,
+      "end": 1824.66,
+      "text": "you think it's a bit humiliating to do all this thing,"
+    },
+    {
+      "start": 1824.66,
+      "end": 1828.66,
+      "text": "but it's all very good training."
+    },
+    {
+      "start": 1828.66,
+      "end": 1831.66,
+      "text": "And then the third one, his restraints, not his speech,"
+    },
+    {
+      "start": 1831.66,
+      "end": 1833.66,
+      "text": "which borders on being an offence."
+    },
+    {
+      "start": 1833.66,
+      "end": 1838.66,
+      "text": "That means this guy doesn't watch his speech,"
+    },
+    {
+      "start": 1838.66,
+      "end": 1844.66,
+      "text": "he talks things which almost breaks the precepts."
+    },
+    {
+      "start": 1844.66,
+      "end": 1847.66,
+      "text": "And the fourth one, he interrupts the senior monk."
+    },
+    {
+      "start": 1847.66,
+      "end": 1850.66,
+      "text": "Again and again, when the senior monk is speaking,"
+    },
+    {
+      "start": 1850.66,
+      "end": 1853.66,
+      "text": "he says something to interrupt the senior monk."
+    },
+    {
+      "start": 1853.66,
+      "end": 1855.66,
+      "text": "This is not being respectful."
+    },
+    {
+      "start": 1855.66,
+      "end": 1859.66,
+      "text": "And the last one, this junior monk is a fool."
+    },
+    {
+      "start": 1859.66,
+      "end": 1865.66,
+      "text": "So if this junior monk is such,"
+    },
+    {
+      "start": 1865.66,
+      "end": 1868.66,
+      "text": "then the senior monk can ask him to leave."
+    },
+    {
+      "start": 1868.66,
+      "end": 1871.66,
+      "text": "He's not showing enough respect."
+    },
+    {
+      "start": 1871.66,
+      "end": 1874.66,
+      "text": "If you go to a good monastery,"
+    },
+    {
+      "start": 1874.66,
+      "end": 1876.66,
+      "text": "a good Thai Buddhist monastery,"
+    },
+    {
+      "start": 1876.66,
+      "end": 1879.66,
+      "text": "you find there's a lot of discipline"
+    },
+    {
+      "start": 1879.66,
+      "end": 1883.66,
+      "text": "and a lot of ways of behaviour,"
+    },
+    {
+      "start": 1883.66,
+      "end": 1886.66,
+      "text": "which a lay person generally is not used to."
+    },
+    {
+      "start": 1886.66,
+      "end": 1888.66,
+      "text": "He takes some getting used to,"
+    },
+    {
+      "start": 1888.66,
+      "end": 1890.66,
+      "text": "but it's all very good training."
+    },
+    {
+      "start": 1890.66,
+      "end": 1894.66,
+      "text": "That's why you see senior forest monks,"
+    },
+    {
+      "start": 1894.66,
+      "end": 1897.66,
+      "text": "when they go anywhere, there is a junior monk"
+    },
+    {
+      "start": 1897.66,
+      "end": 1899.66,
+      "text": "who accompanies them, who serves them,"
+    },
+    {
+      "start": 1899.66,
+      "end": 1901.66,
+      "text": "does everything for them."
+    },
+    {
+      "start": 1901.66,
+      "end": 1903.66,
+      "text": "When they're about to sit down,"
+    },
+    {
+      "start": 1903.66,
+      "end": 1905.66,
+      "text": "he puts the sitting cloth for the senior monk to sit."
+    },
+    {
+      "start": 1905.66,
+      "end": 1907.66,
+      "text": "When the senior monk wants to go on arms round,"
+    },
+    {
+      "start": 1907.66,
+      "end": 1910.66,
+      "text": "he brings the rope for the senior monk to wear,"
+    },
+    {
+      "start": 1910.66,
+      "end": 1915.39,
+      "text": "and brings the bowl, etc."
+    },
+    {
+      "start": 1915.39,
+      "end": 1919.39,
+      "text": "The sutta is 5.12 by 113."
+    },
+    {
+      "start": 1919.39,
+      "end": 1922.39,
+      "text": "Monks possessed of five qualities,"
+    },
+    {
+      "start": 1922.39,
+      "end": 1925.39,
+      "text": "a monk cannot enter and abide in right concentration."
+    },
+    {
+      "start": 1925.39,
+      "end": 1927.39,
+      "text": "What five?"
+    },
+    {
+      "start": 1927.39,
+      "end": 1931.39,
+      "text": "Hearing monks, a monk cannot endure sights, sounds,"
+    },
+    {
+      "start": 1931.39,
+      "end": 1934.39,
+      "text": "smell, taste, and touches."
+    },
+    {
+      "start": 1934.39,
+      "end": 1936.39,
+      "text": "Monks possessed of these five qualities,"
+    },
+    {
+      "start": 1936.39,
+      "end": 1940.39,
+      "text": "a monk cannot enter and abide in right concentration."
+    },
+    {
+      "start": 1940.39,
+      "end": 1942.39,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 1942.39,
+      "end": 1945.39,
+      "text": "Here, the sutta is saying that"
+    },
+    {
+      "start": 1945.39,
+      "end": 1949.39,
+      "text": "if a monk cannot endure sights, sounds, smell, taste, and touches,"
+    },
+    {
+      "start": 1949.39,
+      "end": 1952.39,
+      "text": "then he cannot compose his mind."
+    },
+    {
+      "start": 1952.39,
+      "end": 1955.39,
+      "text": "Why? Because these sights, sounds, etc."
+    },
+    {
+      "start": 1955.39,
+      "end": 1958.39,
+      "text": "can distract him, either distract him,"
+    },
+    {
+      "start": 1958.39,
+      "end": 1961.39,
+      "text": "he's so distracted, he cannot compose his mind,"
+    },
+    {
+      "start": 1961.39,
+      "end": 1966.39,
+      "text": "or they discomfort him so much that he can't bear the discomfort,"
+    },
+    {
+      "start": 1966.39,
+      "end": 1971.39,
+      "text": "and he's so agitated by it that he cannot compose his mind."
+    },
+    {
+      "start": 1971.39,
+      "end": 1975.39,
+      "text": "The first jhana, for a person to enter the first jhana,"
+    },
+    {
+      "start": 1975.39,
+      "end": 1977.39,
+      "text": "in the definition of the first jhana,"
+    },
+    {
+      "start": 1977.39,
+      "end": 1981.39,
+      "text": "the Buddha said secluded from sense desires,"
+    },
+    {
+      "start": 1981.39,
+      "end": 1984.39,
+      "text": "secluded from unwholesome conditions"
+    },
+    {
+      "start": 1984.39,
+      "end": 1987.39,
+      "text": "among enters and abides in the first jhana."
+    },
+    {
+      "start": 1987.39,
+      "end": 1993.39,
+      "text": "So, a person has to be able to"
+    },
+    {
+      "start": 1993.39,
+      "end": 1996.39,
+      "text": "become aloof from the world of the five senses,"
+    },
+    {
+      "start": 1996.39,
+      "end": 1999.39,
+      "text": "sight, sounds, smell, taste, and touches"
+    },
+    {
+      "start": 1999.39,
+      "end": 2003.39,
+      "text": "before he can enter the jhana."
+    }
+  ]
+}

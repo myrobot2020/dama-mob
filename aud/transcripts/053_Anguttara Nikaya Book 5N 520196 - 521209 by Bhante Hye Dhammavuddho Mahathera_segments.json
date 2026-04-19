@@ -1,0 +1,1180 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1569.4831875,
+  "segments": [
+    {
+      "start": 1.01,
+      "end": 9.29,
+      "text": "So when the next Sutta is 5.20.196 the Buddha said monks to the Tathagatha"
+    },
+    {
+      "start": 9.29,
+      "end": 18.61,
+      "text": "arahan samasambuddha before his full awakening when he was not yet wholly"
+    },
+    {
+      "start": 18.61,
+      "end": 26.45,
+      "text": "awakened but a being awakening there came five great dreams what five monks"
+    },
+    {
+      "start": 26.45,
+      "end": 33.85,
+      "text": "the Tathagatha arahan samasambuddha before his full awakening when he was"
+    },
+    {
+      "start": 33.85,
+      "end": 40.05,
+      "text": "not yet wholly awakened and but a being awakening dream that this mighty world"
+    },
+    {
+      "start": 40.05,
+      "end": 46.13,
+      "text": "was his bed of state the mountain king Himalaya his pillow that his left hand"
+    },
+    {
+      "start": 46.13,
+      "end": 51.53,
+      "text": "rested on the eastern sea his right on the western sea and that both his feet"
+    },
+    {
+      "start": 51.53,
+      "end": 57.49,
+      "text": "rested on the southern sea monks to the Tathagatha arahan samasambuddha before"
+    },
+    {
+      "start": 57.49,
+      "end": 62.81,
+      "text": "his full awakening when he was not yet wholly awakened and but a being awakening"
+    },
+    {
+      "start": 62.81,
+      "end": 68.25,
+      "text": "this first great dream came again he dreamed that they went out from his"
+    },
+    {
+      "start": 68.25,
+      "end": 74.45,
+      "text": "naval Tyria grass and it stopped not until it touched the clouds monks to the"
+    },
+    {
+      "start": 74.45,
+      "end": 80.13,
+      "text": "Tathagatha before his full awakening and this second dream came again he dream"
+    },
+    {
+      "start": 80.13,
+      "end": 85.57,
+      "text": "that white worms with black heads crept up over his feet as far as his knees"
+    },
+    {
+      "start": 85.57,
+      "end": 92.37,
+      "text": "and covered them monks to him this third dream came again he dreamed that there"
+    },
+    {
+      "start": 92.37,
+      "end": 97.89,
+      "text": "came four birds of varied colors from the four quarters of the world and they"
+    },
+    {
+      "start": 97.89,
+      "end": 104.49,
+      "text": "fell at his feet and became all white monks to him this fourth dream came again"
+    },
+    {
+      "start": 104.49,
+      "end": 109.21,
+      "text": "he dreamed that he walked to and fro on a great mountain of dung and was"
+    },
+    {
+      "start": 109.25,
+      "end": 115.81,
+      "text": "unbismirred with dung monks to him this fifth dream came monks when indeed to"
+    },
+    {
+      "start": 115.81,
+      "end": 120.49,
+      "text": "the Tathagatha arahan samasambuddha before his full awakening when he was not"
+    },
+    {
+      "start": 120.49,
+      "end": 125.53,
+      "text": "yet fully awakened and but a being awakening there came the dream that"
+    },
+    {
+      "start": 125.53,
+      "end": 131.17,
+      "text": "this great world was his bed of state monks by the Tathagatha arahan fully"
+    },
+    {
+      "start": 131.17,
+      "end": 136.13,
+      "text": "awake to the highest and unsurpassed full awakening to the highest was wholly"
+    },
+    {
+      "start": 136.29,
+      "end": 142.33,
+      "text": "awakened within him to him wholly awakening this first dream came when to"
+    },
+    {
+      "start": 142.33,
+      "end": 147.77,
+      "text": "him there came the dream that grass went out from his navel monks by the"
+    },
+    {
+      "start": 147.77,
+      "end": 152.89,
+      "text": "Tathagatha the Aryan eightfold way was wholly awakened within him and well"
+    },
+    {
+      "start": 152.89,
+      "end": 158.61,
+      "text": "proclaimed as far as devas and men exist to him wholly awakening this second"
+    },
+    {
+      "start": 158.61,
+      "end": 164.33,
+      "text": "dream came when to him there came the dream that white worms with black heads"
+    },
+    {
+      "start": 164.69,
+      "end": 170.65,
+      "text": "crept up to his knees months many white robe householders found life long"
+    },
+    {
+      "start": 170.65,
+      "end": 177.33,
+      "text": "refuge in the Tathagatha to him wholly awakening this third dream came when to"
+    },
+    {
+      "start": 177.33,
+      "end": 182.17,
+      "text": "him there came the dream that the four birds of the four quarters fell white"
+    },
+    {
+      "start": 182.17,
+      "end": 189.49,
+      "text": "at his feet these four cars noble Brahmin merchants and laborers went forth"
+    },
+    {
+      "start": 189.77,
+      "end": 194.09,
+      "text": "from the home to the homeless life into that dhamma Vinaya taught by the"
+    },
+    {
+      "start": 194.09,
+      "end": 200.29,
+      "text": "Tathagatha and realized unsurpassed liberation to him wholly awakening this"
+    },
+    {
+      "start": 200.29,
+      "end": 206.45,
+      "text": "fourth dream came when he dreamed that he walked on the mountain of dung monks"
+    },
+    {
+      "start": 206.45,
+      "end": 212.61,
+      "text": "the Tathagatha received the requisites robes arms lodging and medicines and in"
+    },
+    {
+      "start": 212.61,
+      "end": 218.61,
+      "text": "them the Tathagatha found enjoyment yet was not tied trust nor attached there"
+    },
+    {
+      "start": 218.73,
+      "end": 223.57,
+      "text": "to seeing the danger wise as to the escape there from to him wholly"
+    },
+    {
+      "start": 223.57,
+      "end": 229.65,
+      "text": "awakening this fifth dream came months to the Tathagatha Arahan Samasambuddha"
+    },
+    {
+      "start": 229.65,
+      "end": 234.57,
+      "text": "before his full awakening when he know when he was not yet fully awakened and"
+    },
+    {
+      "start": 234.57,
+      "end": 240.09,
+      "text": "was but a being awakening there came these five great dreams as the end of"
+    },
+    {
+      "start": 240.09,
+      "end": 246.33,
+      "text": "the sutta this sutta is saying that the before the Buddha was enlightened these"
+    },
+    {
+      "start": 246.37,
+      "end": 253.01,
+      "text": "five dreams came to tell him that what was about to happen dreams are quite"
+    },
+    {
+      "start": 253.01,
+      "end": 262.33,
+      "text": "interesting sometimes it explains our problem in quite clearly sometimes we"
+    },
+    {
+      "start": 262.33,
+      "end": 268.09,
+      "text": "have some problem and we dream if we analyze the dream it is trying to tell"
+    },
+    {
+      "start": 268.09,
+      "end": 272.37,
+      "text": "us something so in this case or so sometimes now what is going to happen"
+    },
+    {
+      "start": 272.37,
+      "end": 278.05,
+      "text": "also it can tell us so in this case the Buddha had five interesting dreams the"
+    },
+    {
+      "start": 278.05,
+      "end": 283.41,
+      "text": "first one was he slept over the whole world the whole world was like was like"
+    },
+    {
+      "start": 283.41,
+      "end": 288.37,
+      "text": "his bed and what this dream was trying to tell him was that he was going to be"
+    },
+    {
+      "start": 288.37,
+      "end": 292.89,
+      "text": "like the king of the world the highest in the world that means he was going to"
+    },
+    {
+      "start": 292.89,
+      "end": 297.29,
+      "text": "become enlightened that was the meaning of the first dream the second one from"
+    },
+    {
+      "start": 297.29,
+      "end": 306.65,
+      "text": "his navel from his navel from his tummy there the grass came out and it spread"
+    },
+    {
+      "start": 306.65,
+      "end": 312.73,
+      "text": "until it touched the clouds in the sky and this man that he was going to"
+    },
+    {
+      "start": 312.73,
+      "end": 320.09,
+      "text": "proclaim the Aryan Eightfold Way out of samsara up to the heavens and devas and"
+    },
+    {
+      "start": 320.09,
+      "end": 325.67,
+      "text": "men would come to know of this the third one he dream that white worms with"
+    },
+    {
+      "start": 325.67,
+      "end": 330.55,
+      "text": "black heads crept up his knees and covered his his legs up to his knees"
+    },
+    {
+      "start": 330.55,
+      "end": 337.43,
+      "text": "this man that lay people many many lay people would take refuge in him with"
+    },
+    {
+      "start": 337.43,
+      "end": 343.35,
+      "text": "him and become his disciples the fourth one that the four birds of different"
+    },
+    {
+      "start": 343.35,
+      "end": 351.83,
+      "text": "colors fell at his feet and became white these men that the four casts would"
+    },
+    {
+      "start": 351.83,
+      "end": 362.27,
+      "text": "go forth under him and become monks and attain liberation and the last one that"
+    },
+    {
+      "start": 362.27,
+      "end": 371.87,
+      "text": "he walked on a mountain of excrement or down man that he he looked at these"
+    },
+    {
+      "start": 371.87,
+      "end": 380.23,
+      "text": "requisites as similar to down but it could be enjoyed but if you become"
+    },
+    {
+      "start": 380.23,
+      "end": 385.79,
+      "text": "attached to it then it becomes like excrement and because it will dirty you"
+    },
+    {
+      "start": 385.79,
+      "end": 391.19,
+      "text": "but he was able to walk on them without the thing his body which means that he"
+    },
+    {
+      "start": 391.19,
+      "end": 397.23,
+      "text": "was not attached to them this quite interesting because monks not only"
+    },
+    {
+      "start": 397.23,
+      "end": 403.27,
+      "text": "monks lay people also these things in the world that come to us and we make use"
+    },
+    {
+      "start": 403.27,
+      "end": 411.27,
+      "text": "of them if you are wise we know how to enjoy them without getting dirty sometimes"
+    },
+    {
+      "start": 411.27,
+      "end": 419.23,
+      "text": "you can you can see some people and they inherit property and then they change"
+    },
+    {
+      "start": 419.23,
+      "end": 426.27,
+      "text": "for the worse and or they work very hard and they become very rich and then they"
+    },
+    {
+      "start": 426.27,
+      "end": 433.75,
+      "text": "become so attached to their property and wealth that this this wealth dirties"
+    },
+    {
+      "start": 433.75,
+      "end": 441.15,
+      "text": "them just like makes them unclean they have become defiled by these wealth and"
+    },
+    {
+      "start": 441.15,
+      "end": 447.63,
+      "text": "property so in that case the wealth and property is like excrement and down so"
+    },
+    {
+      "start": 447.63,
+      "end": 453.75,
+      "text": "that is a warning that we should treat these things in the world very carefully"
+    },
+    {
+      "start": 453.75,
+      "end": 458.51,
+      "text": "if we know how to use them wisely and we are not dirty we are not defiled by"
+    },
+    {
+      "start": 458.51,
+      "end": 465.23,
+      "text": "them but if we become too attached to them then they drag us down they defile"
+    },
+    {
+      "start": 465.23,
+      "end": 472.91,
+      "text": "us there's one Sutta Pratapala Sutta in the Madhima Nikaya where son of a very"
+    },
+    {
+      "start": 472.91,
+      "end": 478.47,
+      "text": "rich family he went for and after becoming an arahan he came back to his"
+    },
+    {
+      "start": 478.47,
+      "end": 484.19,
+      "text": "house and his parents were still trying to persuade him to come back to the lay"
+    },
+    {
+      "start": 484.19,
+      "end": 491.95,
+      "text": "life to take back all his property and he told his his parents he said the best"
+    },
+    {
+      "start": 491.95,
+      "end": 497.07,
+      "text": "thing to do with all this money and all this property is to throw in the river"
+    },
+    {
+      "start": 497.07,
+      "end": 502.67,
+      "text": "throw in a way because otherwise he's gonna drag you down the attachment to"
+    },
+    {
+      "start": 502.67,
+      "end": 509.35,
+      "text": "this property is going to drag you down to a bad rebirth so that also shows how"
+    },
+    {
+      "start": 509.35,
+      "end": 516.57,
+      "text": "we should be careful of all these wealth and property in the world the next"
+    },
+    {
+      "start": 516.57,
+      "end": 525.17,
+      "text": "Sutta is five point twenty point one nine eight the Buddha said monks if a word"
+    },
+    {
+      "start": 525.17,
+      "end": 531.21,
+      "text": "have five marks it is well spoken not ill-spoken nor is it blame worthy nor"
+    },
+    {
+      "start": 531.25,
+      "end": 538.29,
+      "text": "blameable by the wise it is spoken in season or timely it is spoken in truth"
+    },
+    {
+      "start": 538.29,
+      "end": 544.01,
+      "text": "it is spoken softly it is spoken about the beneficial it is spoken with the"
+    },
+    {
+      "start": 544.01,
+      "end": 549.21,
+      "text": "heart of goodwill fairly monks if a word have these five marks it is well"
+    },
+    {
+      "start": 549.21,
+      "end": 555.41,
+      "text": "spoken not ill-spoken nor is it blame worthy nor blameable by the wise as the"
+    },
+    {
+      "start": 555.41,
+      "end": 559.97,
+      "text": "end of the Sutta here the Buddha is saying that good speech have five"
+    },
+    {
+      "start": 560.01,
+      "end": 567.57,
+      "text": "qualities the first one it is timely spoken very timely sometimes we have"
+    },
+    {
+      "start": 567.57,
+      "end": 575.09,
+      "text": "something to say sometimes to advise some body but we must know the proper"
+    },
+    {
+      "start": 575.09,
+      "end": 580.25,
+      "text": "time to tell that person if that person is very upset or very angry and we"
+    },
+    {
+      "start": 580.25,
+      "end": 584.65,
+      "text": "choose that time to tell that person that person might not accept it so"
+    },
+    {
+      "start": 584.73,
+      "end": 591.21,
+      "text": "speaking in the right time is important the second one it what you speak"
+    },
+    {
+      "start": 591.21,
+      "end": 598.53,
+      "text": "should be truthful should be truthful the third one it should be spoken"
+    },
+    {
+      "start": 598.53,
+      "end": 606.93,
+      "text": "gently not harshly spoken gently and then people can accept it better the"
+    },
+    {
+      "start": 606.93,
+      "end": 612.61,
+      "text": "fourth one it should be beneficial and the fifth one is will be spoken with a"
+    },
+    {
+      "start": 612.65,
+      "end": 617.57,
+      "text": "heart of goodwill with a good intention these are the marks of a good"
+    },
+    {
+      "start": 617.57,
+      "end": 624.85,
+      "text": "speech the next Sutta is five point twenty point one nine nine monks when"
+    },
+    {
+      "start": 624.85,
+      "end": 631.21,
+      "text": "virtuous world renunciants approach a family men there in five ways beget great"
+    },
+    {
+      "start": 631.21,
+      "end": 638.29,
+      "text": "merit in what five monks when virtuous world renunciants approach men seeing"
+    },
+    {
+      "start": 638.29,
+      "end": 644.01,
+      "text": "them make calm their hearts monks that leads heavenward and the family then"
+    },
+    {
+      "start": 644.01,
+      "end": 650.45,
+      "text": "has stepped a step along the way or when they approach men stand up salute and"
+    },
+    {
+      "start": 650.45,
+      "end": 656.29,
+      "text": "offer a seat monks that leads to birth in higher rank and the family then has"
+    },
+    {
+      "start": 656.29,
+      "end": 661.77,
+      "text": "stepped a step along the way or they rid themselves of all stain of meanness"
+    },
+    {
+      "start": 661.77,
+      "end": 667.37,
+      "text": "monks that leads to great power and the family then has stepped a step along the"
+    },
+    {
+      "start": 667.41,
+      "end": 674.53,
+      "text": "way or they share their food as means and power allow monks that leads to great"
+    },
+    {
+      "start": 674.53,
+      "end": 679.73,
+      "text": "wealth and the family then has stepped a step along the way or when virtuous"
+    },
+    {
+      "start": 679.73,
+      "end": 685.53,
+      "text": "world renunciants approach men ask make question about and listen to dumb"
+    },
+    {
+      "start": 685.53,
+      "end": 691.25,
+      "text": "monks that leads to great wisdom and the family then has stepped a step along"
+    },
+    {
+      "start": 691.25,
+      "end": 697.73,
+      "text": "the way when virtuous world renunciants approach a family men there in these"
+    },
+    {
+      "start": 697.73,
+      "end": 704.57,
+      "text": "five ways beget great merit that's the end of the Sutta the Sutta saying when"
+    },
+    {
+      "start": 704.57,
+      "end": 710.21,
+      "text": "renunciant real renunciant approaches and people are respectful in the"
+    },
+    {
+      "start": 710.21,
+      "end": 717.49,
+      "text": "different ways they great they get great merit I think earlier you remember one"
+    },
+    {
+      "start": 717.53,
+      "end": 723.37,
+      "text": "of the suttas we read was that there are four fields of merit and also four"
+    },
+    {
+      "start": 723.37,
+      "end": 727.89,
+      "text": "fields of demerit this one is a Buddha but the Buddha is no more with us the"
+    },
+    {
+      "start": 727.89,
+      "end": 732.57,
+      "text": "second one is disciples of the Buddha meaning monks and nuns third one is"
+    },
+    {
+      "start": 732.57,
+      "end": 737.89,
+      "text": "mother the fourth one is father so these four persons we should be very careful"
+    },
+    {
+      "start": 737.89,
+      "end": 747.13,
+      "text": "in our conduct towards them so in this case like if we we have we have proper"
+    },
+    {
+      "start": 747.17,
+      "end": 754.81,
+      "text": "conduct towards renunciants then we get great merit there's also another Sutta"
+    },
+    {
+      "start": 754.81,
+      "end": 762.01,
+      "text": "where devas different groups of devas came to see the Buddha at at different"
+    },
+    {
+      "start": 762.01,
+      "end": 772.21,
+      "text": "times and they told the Buddha that when monks approach some of them in like"
+    },
+    {
+      "start": 772.77,
+      "end": 782.37,
+      "text": "they were very happy to see monks and then or the first one that perhaps they"
+    },
+    {
+      "start": 782.37,
+      "end": 789.97,
+      "text": "were not happy to see monks and but because of other good deeds that they"
+    },
+    {
+      "start": 789.97,
+      "end": 795.93,
+      "text": "had done they were reborn in the heavens but because they were not happy to see"
+    },
+    {
+      "start": 795.97,
+      "end": 802.65,
+      "text": "monks they were deficient in certain qualities because devas some of them"
+    },
+    {
+      "start": 802.65,
+      "end": 807.77,
+      "text": "they are brighter their body shines brighter than others some are darker"
+    },
+    {
+      "start": 807.77,
+      "end": 813.09,
+      "text": "some are brighter depending on how much merit they have and and that that"
+    },
+    {
+      "start": 813.09,
+      "end": 819.57,
+      "text": "brightness in a way denotes how much power they have and so like this deva"
+    },
+    {
+      "start": 819.57,
+      "end": 824.25,
+      "text": "they come they said that because they were not happy to see monks so they"
+    },
+    {
+      "start": 824.29,
+      "end": 830.77,
+      "text": "suffered as a result they were less powerful in the heavenly realm and then"
+    },
+    {
+      "start": 830.77,
+      "end": 835.53,
+      "text": "another group of devas came to to see the Buddha and they said when they saw"
+    },
+    {
+      "start": 835.53,
+      "end": 841.25,
+      "text": "monks they they were not not happy they they received the monks but they did"
+    },
+    {
+      "start": 841.25,
+      "end": 845.81,
+      "text": "not they were not respectful so because they were not respectful towards the"
+    },
+    {
+      "start": 845.81,
+      "end": 849.57,
+      "text": "monks also when they were born in heaven they were also deficient in certain"
+    },
+    {
+      "start": 849.61,
+      "end": 855.57,
+      "text": "qualities and so they regretted and then and later another group of devas came"
+    },
+    {
+      "start": 855.57,
+      "end": 859.81,
+      "text": "to see the Buddha and they said when they saw monks they were happy they were"
+    },
+    {
+      "start": 859.81,
+      "end": 868.73,
+      "text": "respectful but they did not like share the food with the monks and because they"
+    },
+    {
+      "start": 868.73,
+      "end": 873.69,
+      "text": "did not give food to the monks when they were reborn in the deva realm but they"
+    },
+    {
+      "start": 873.69,
+      "end": 880.53,
+      "text": "also were deficient in certain qualities and they regretted that and another"
+    },
+    {
+      "start": 880.53,
+      "end": 884.21,
+      "text": "group said that they did all these things but they did not ask about dhamma they"
+    },
+    {
+      "start": 884.21,
+      "end": 888.89,
+      "text": "did not bother to learn about dhamma and also they regretted and then finally"
+    },
+    {
+      "start": 888.89,
+      "end": 892.97,
+      "text": "some other group said that they did all these things they they were happy to see"
+    },
+    {
+      "start": 892.97,
+      "end": 897.17,
+      "text": "the monks they were respectful towards the monks they offered food they listen"
+    },
+    {
+      "start": 897.17,
+      "end": 902.53,
+      "text": "to dhamma etc and when they were born in the heavens they had great power had"
+    },
+    {
+      "start": 902.53,
+      "end": 909.89,
+      "text": "great qualities and so they were very happy and so the the the Buddha"
+    },
+    {
+      "start": 909.89,
+      "end": 919.45,
+      "text": "confirmed all that so you can see depending on our kamma we are reborn"
+    },
+    {
+      "start": 919.45,
+      "end": 929.68,
+      "text": "according to our kamma now the sutra 5.21.201 once when the exalted one"
+    },
+    {
+      "start": 929.68,
+      "end": 935.84,
+      "text": "was dwelling near kimbila in the bamboo grove the variable kimbila visited him"
+    },
+    {
+      "start": 935.84,
+      "end": 940.8,
+      "text": "and after saluting sat down at one side so seated he spoke thus to the exalted"
+    },
+    {
+      "start": 940.8,
+      "end": 945.96,
+      "text": "one Lord what is the cause what is the reason whereby when the exalted one has"
+    },
+    {
+      "start": 945.96,
+      "end": 951.52,
+      "text": "passed away completely through dhamma saddhamma does not become long-lasting"
+    },
+    {
+      "start": 951.52,
+      "end": 957.84,
+      "text": "the Buddha said suppose kimbila after the tathagata has passed away completely the"
+    },
+    {
+      "start": 957.84,
+      "end": 963.68,
+      "text": "monks and nuns lay disciples both men and women live without reverence without"
+    },
+    {
+      "start": 963.68,
+      "end": 970.56,
+      "text": "heed without respect for the teacher without respect without heed for dhamma"
+    },
+    {
+      "start": 970.56,
+      "end": 977.88,
+      "text": "without respect without heed for sangha for the training without respect without"
+    },
+    {
+      "start": 977.88,
+      "end": 982.2,
+      "text": "heed for one another this is the cause this is the reason whereby when the"
+    },
+    {
+      "start": 982.2,
+      "end": 987.08,
+      "text": "tathagata has passed away completely true dhamma does not become long-lasting"
+    },
+    {
+      "start": 987.08,
+      "end": 992.24,
+      "text": "and what Lord is the cause the reason whereby after the tathagata has passed"
+    },
+    {
+      "start": 992.24,
+      "end": 998.44,
+      "text": "away true dhamma becomes long-lasting suppose kimbila monks and nuns lay men"
+    },
+    {
+      "start": 998.44,
+      "end": 1003.84,
+      "text": "and lay women disciples respect and give heed to the teacher the dhamma the"
+    },
+    {
+      "start": 1003.84,
+      "end": 1008.92,
+      "text": "sangha the training we veer and give heed to one another this is the cause the"
+    },
+    {
+      "start": 1008.92,
+      "end": 1014.32,
+      "text": "reason whereby when the tathagata has passed away true dhamma becomes long-lasting"
+    },
+    {
+      "start": 1014.32,
+      "end": 1020.44,
+      "text": "that's the end of the sutta this is one of the sutras which tries to say why the"
+    },
+    {
+      "start": 1020.44,
+      "end": 1025.4,
+      "text": "true dhamma the discourses of the Buddha and does not last long here is saying"
+    },
+    {
+      "start": 1025.4,
+      "end": 1031.0,
+      "text": "that the first three and without respect for the the Buddha the dhamma and the"
+    },
+    {
+      "start": 1031.0,
+      "end": 1037.56,
+      "text": "sangha without respect for the Buddha means probably that instead of falling"
+    },
+    {
+      "start": 1037.96,
+      "end": 1046.4,
+      "text": "recognizing our Buddha people revere other Buddhas instead of acknowledging"
+    },
+    {
+      "start": 1046.4,
+      "end": 1054.64,
+      "text": "our teacher is the Buddha we look to others other other beings to respect"
+    },
+    {
+      "start": 1054.64,
+      "end": 1060.32,
+      "text": "us the teacher without reverence for the dhamma is that we don't take the dhamma"
+    },
+    {
+      "start": 1060.32,
+      "end": 1064.64,
+      "text": "vinaya as our teacher in the sutras the Buddha said now we should take the"
+    },
+    {
+      "start": 1064.64,
+      "end": 1070.88,
+      "text": "dhamma vinaya as our teacher we should always try to learn what is in the"
+    },
+    {
+      "start": 1070.88,
+      "end": 1078.36,
+      "text": "dhamma and the vinaya and be heedful of the teachings there the third one is no"
+    },
+    {
+      "start": 1078.36,
+      "end": 1086.24,
+      "text": "respect for the sangha there might be some reason for this perhaps some people"
+    },
+    {
+      "start": 1086.36,
+      "end": 1097.0,
+      "text": "they the the sangha perhaps might not be practicing well might not keep the"
+    },
+    {
+      "start": 1097.0,
+      "end": 1101.44,
+      "text": "precepts very well and people lose respect for the sangha and that would"
+    },
+    {
+      "start": 1101.44,
+      "end": 1108.16,
+      "text": "cause a decline but we have to remember we lay people are supposed to support"
+    },
+    {
+      "start": 1108.16,
+      "end": 1113.52,
+      "text": "the sangha to keep the satsana Buddha satsana going so the Buddha said if in"
+    },
+    {
+      "start": 1113.52,
+      "end": 1118.88,
+      "text": "the future even if those who wear the yellow robes are corrupt still if you"
+    },
+    {
+      "start": 1118.88,
+      "end": 1123.36,
+      "text": "support the sangha then the merit is still very great because you help to"
+    },
+    {
+      "start": 1123.36,
+      "end": 1128.48,
+      "text": "perpetuate the sangha by helping to perpetuate the sangha even if at a"
+    },
+    {
+      "start": 1128.48,
+      "end": 1133.08,
+      "text": "certain time the sangha is corrupt this possible later on that our hands will"
+    },
+    {
+      "start": 1133.08,
+      "end": 1137.88,
+      "text": "still be around whereas if you don't support the sangha the sangha is"
+    },
+    {
+      "start": 1137.88,
+      "end": 1143.4,
+      "text": "terminated cut off then and there is no possible for good monks to appear later"
+    },
+    {
+      "start": 1143.4,
+      "end": 1149.24,
+      "text": "no reverence for the training is a training of the monks life keeping the"
+    },
+    {
+      "start": 1149.24,
+      "end": 1154.12,
+      "text": "precepts etc and without heed for one another is we don't when we don't live"
+    },
+    {
+      "start": 1154.12,
+      "end": 1160.68,
+      "text": "in harmony if we don't live in harmony that is one cause for the true dhamma to"
+    },
+    {
+      "start": 1161.24,
+      "end": 1169.4,
+      "text": "pass away there are other reasons given in other sutras but this they just stop here for the moment"
+    },
+    {
+      "start": 1172.2,
+      "end": 1178.92,
+      "text": "sutra number five point twenty one point two zero two the Buddha said"
+    },
+    {
+      "start": 1179.8,
+      "end": 1186.44,
+      "text": "monks there are these five advantages from hearing dhamma one five"
+    },
+    {
+      "start": 1187.4,
+      "end": 1196.92,
+      "text": "he hears things not heard purges things hurt dispels doubt make straight his view"
+    },
+    {
+      "start": 1197.64,
+      "end": 1204.2,
+      "text": "and his heart becomes calm verily monks these are the five advantages from"
+    },
+    {
+      "start": 1204.2,
+      "end": 1211.83,
+      "text": "hearing dhamma the end of the sutra the first one he hears things not heard and"
+    },
+    {
+      "start": 1212.07,
+      "end": 1221.35,
+      "text": "means he learns the truth or the reality of existence purges things hurt that"
+    },
+    {
+      "start": 1221.35,
+      "end": 1228.31,
+      "text": "means he gets rid of wrong views dispels doubt makes straight his view that means"
+    },
+    {
+      "start": 1228.31,
+      "end": 1235.19,
+      "text": "he gets right view and his heart becomes calm because from the joy of listening to"
+    },
+    {
+      "start": 1235.19,
+      "end": 1244.07,
+      "text": "dhamma joy joy arises and then the mind becomes tranquil so these are the five advantages from"
+    },
+    {
+      "start": 1244.07,
+      "end": 1253.91,
+      "text": "hearing dhamma now in the samyuta nikaya 46.4.8 and the sutra the Buddha said that when one listens"
+    },
+    {
+      "start": 1253.91,
+      "end": 1261.59,
+      "text": "to dhamma attentively the five hindrances exist not and the seven bojanga factors of enlightenment"
+    },
+    {
+      "start": 1261.59,
+      "end": 1270.15,
+      "text": "are complete which means that when one listens to dhamma attentively one can become an aria"
+    },
+    {
+      "start": 1271.11,
+      "end": 1276.15,
+      "text": "because the five hindrances not existing and the seven bojanga being complete"
+    },
+    {
+      "start": 1276.15,
+      "end": 1285.59,
+      "text": "are conditions for attainment of aria hood and also in the madhima nikaya number 43"
+    },
+    {
+      "start": 1286.39,
+      "end": 1293.75,
+      "text": "it is stated that there are two conditions for attaining right view listening to dhamma and"
+    },
+    {
+      "start": 1293.75,
+      "end": 1303.19,
+      "text": "having proper attention the attainment of right view in the one of the sutras in angutra nikaya"
+    },
+    {
+      "start": 1303.19,
+      "end": 1309.91,
+      "text": "means that a person understands the four arian truths and which means that when a person gets"
+    },
+    {
+      "start": 1310.63,
+      "end": 1317.59,
+      "text": "person attains right view he also becomes an aria so this again confirms that listening to dhamma"
+    },
+    {
+      "start": 1317.59,
+      "end": 1325.99,
+      "text": "one can become an aria and then in the angutra nikaya 5.25 it is said that if right view is"
+    },
+    {
+      "start": 1325.99,
+      "end": 1335.27,
+      "text": "assisted by five things it leads to liberation or attainment of arahan hood moral conduct listening"
+    },
+    {
+      "start": 1335.27,
+      "end": 1343.59,
+      "text": "to dhamma discussion of dhamma samatha and vipassana that means tranquilization and contemplation"
+    },
+    {
+      "start": 1345.03,
+      "end": 1353.19,
+      "text": "so tranquilization and contemplation are the two aspects of meditation and on in addition to"
+    },
+    {
+      "start": 1353.19,
+      "end": 1360.95,
+      "text": "meditation you must have moral conduct dhamma listening to the dhamma and discussion of dhamma"
+    },
+    {
+      "start": 1361.51,
+      "end": 1369.51,
+      "text": "to attain liberation this again shows the importance of listening to dhamma and in another"
+    },
+    {
+      "start": 1369.51,
+      "end": 1376.95,
+      "text": "sutra angutra nikaya 5.26 that it is stated there are five ways to attain aria hood listening to"
+    },
+    {
+      "start": 1376.95,
+      "end": 1384.63,
+      "text": "dhamma teaching the dhamma repeating dhamma reflecting on dhamma and reflecting on the"
+    },
+    {
+      "start": 1384.71,
+      "end": 1392.31,
+      "text": "object of concentration that means during meditation so that again shows that listening"
+    },
+    {
+      "start": 1392.31,
+      "end": 1406.28,
+      "text": "to dhamma is very important and the next sutra is 5.21.207 the Buddha said monks there are these"
+    },
+    {
+      "start": 1406.28,
+      "end": 1415.8,
+      "text": "five advantages from gruel or rise for richer what five the checks hunger keeps of thirst regulates"
+    },
+    {
+      "start": 1415.8,
+      "end": 1424.36,
+      "text": "win cleanses the bladder and digest raw remnants of food barely monks these are the five advantages"
+    },
+    {
+      "start": 1424.36,
+      "end": 1435.04,
+      "text": "of gruel or rise for rich in the monks vinaya the buddha taught his disciples his monks to take"
+    },
+    {
+      "start": 1435.04,
+      "end": 1442.88,
+      "text": "one meal a day and it's one main meal but he did give certain allowances that monks could take in"
+    },
+    {
+      "start": 1442.88,
+      "end": 1451.6,
+      "text": "the morning which did not constitute a meal things like taking milk taking this rice porridge"
+    },
+    {
+      "start": 1455.16,
+      "end": 1465.64,
+      "text": "and other medicinal kinds of food that was condition considered medicinal of medicinal"
+    },
+    {
+      "start": 1465.64,
+      "end": 1473.48,
+      "text": "value so because rice porridge had some advantages that's why the Buddha allowed"
+    },
+    {
+      "start": 1473.48,
+      "end": 1485.43,
+      "text": "it to be taken in the morning for even for a one meal a day monk the next sutra is 5.21.209"
+    },
+    {
+      "start": 1486.15,
+      "end": 1491.27,
+      "text": "monks there are these five disadvantages to one preaching dhamma in a long"
+    },
+    {
+      "start": 1491.99,
+      "end": 1499.27,
+      "text": "long drawn plain song voice what five he's either carried away himself by the sound"
+    },
+    {
+      "start": 1499.83,
+      "end": 1507.75,
+      "text": "or others are carried away thereby or householders are offended and say just as we sing for sure"
+    },
+    {
+      "start": 1507.75,
+      "end": 1515.99,
+      "text": "these recluse sakyam sun sing or as he strives after purity of sound there is a break in concentration"
+    },
+    {
+      "start": 1517.11,
+      "end": 1524.31,
+      "text": "and folk coming after fall into the way of wrong views or fall into the same views"
+    },
+    {
+      "start": 1524.31,
+      "end": 1532.39,
+      "text": "now early monks these are the five disadvantages to one preaching dhamma in a long drawn plain song"
+    },
+    {
+      "start": 1532.39,
+      "end": 1542.23,
+      "text": "voice so this sutra shows that in the Theravada tradition monks are not supposed to chant in a"
+    },
+    {
+      "start": 1543.43,
+      "end": 1551.35,
+      "text": "in a long drawn plain song voice that means not in a like in a singing way"
+    },
+    {
+      "start": 1552.23,
+      "end": 1559.83,
+      "text": "although this is done in Mahayana tradition it is not allowed in the Theravada tradition that's why"
+    },
+    {
+      "start": 1559.83,
+      "end": 1567.43,
+      "text": "the Theravada chants are quite monotonous and it is for these because of this sutra like this"
+    }
+  ]
+}

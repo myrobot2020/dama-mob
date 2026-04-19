@@ -1,0 +1,2335 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2263.1096875,
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 4.94,
+      "text": "An exotai is 8 points, 6.59."
+    },
+    {
+      "start": 4.94,
+      "end": 12.5,
+      "text": "Mangs, there are these eight persons worthy of offerings, worthy of gifts, worthy of oblations,"
+    },
+    {
+      "start": 12.5,
+      "end": 17.7,
+      "text": "deserving to be reverently saluted, the world's peerless field for merit."
+    },
+    {
+      "start": 17.7,
+      "end": 21.5,
+      "text": "One eighth, the stream winner."
+    },
+    {
+      "start": 21.5,
+      "end": 22.7,
+      "text": "That's number one."
+    },
+    {
+      "start": 22.7,
+      "end": 29.3,
+      "text": "Number two, he who has entered the path for the realization of the fruit of stream-winning."
+    },
+    {
+      "start": 29.5,
+      "end": 33.82,
+      "text": "Number three, the once-returner, or Sakadagami."
+    },
+    {
+      "start": 33.82,
+      "end": 43.33,
+      "text": "Number four, he who attains to the path for the realization thereof."
+    },
+    {
+      "start": 43.33,
+      "end": 47.97,
+      "text": "Number five, the non-returner, or anagamin."
+    },
+    {
+      "start": 47.97,
+      "end": 58.57,
+      "text": "Number six, he who attains, who he who has entered the path for the realization of the fruit of non-returning."
+    },
+    {
+      "start": 58.57,
+      "end": 61.61,
+      "text": "Number seven, the arahan."
+    },
+    {
+      "start": 61.61,
+      "end": 67.29,
+      "text": "And number eight, he who has entered on the path to arahanship."
+    },
+    {
+      "start": 67.29,
+      "end": 70.33,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 70.33,
+      "end": 76.61,
+      "text": "So here the Buddha is talking about eight persons who are aryas."
+    },
+    {
+      "start": 76.61,
+      "end": 82.81,
+      "text": "And you notice it is eight persons, not four persons."
+    },
+    {
+      "start": 82.85,
+      "end": 94.81,
+      "text": "Because in the avidama, the path attainment is supposed to be followed immediately the next moment by the fruition."
+    },
+    {
+      "start": 94.81,
+      "end": 98.21,
+      "text": "But this is not so in the suttas."
+    },
+    {
+      "start": 98.21,
+      "end": 109.69,
+      "text": "In the suttas you have eight persons, which means that the path attainer actually exists for you to make offerings to."
+    },
+    {
+      "start": 109.69,
+      "end": 120.09,
+      "text": "So it does appear in the suttas that path attainment and fruition attainment can take quite some time."
+    },
+    {
+      "start": 120.09,
+      "end": 127.37,
+      "text": "They are a partner, quite some time apart, not necessarily one following the other immediately."
+    },
+    {
+      "start": 127.37,
+      "end": 136.05,
+      "text": "The other thing you notice is that these terms sutta-panna, sakadagamin, anagamin and arahan are all fruition attainers."
+    },
+    {
+      "start": 136.05,
+      "end": 137.77,
+      "text": "They're all fruition attainers."
+    },
+    {
+      "start": 137.77,
+      "end": 151.57,
+      "text": "Here in this book they have translated wrongly, they have translated the stream-winner and he who attains to the realization of the fruit of stream-winning."
+    },
+    {
+      "start": 151.57,
+      "end": 158.73,
+      "text": "So from this translation it appears like the stream-winner, sutta-panna is a path attainer."
+    },
+    {
+      "start": 158.81,
+      "end": 163.45,
+      "text": "But actually I checked the Pali translation."
+    },
+    {
+      "start": 163.45,
+      "end": 172.54,
+      "text": "I find that the terms sutta-panna, sakadagamin, anagamin and arahan are fruition attainers."
+    },
+    {
+      "start": 172.54,
+      "end": 180.02,
+      "text": "The next sutta is 8.7.62 mounds, possessed of six qualities."
+    },
+    {
+      "start": 180.02,
+      "end": 183.7,
+      "text": "A mound is enough for self, enough for others."
+    },
+    {
+      "start": 183.7,
+      "end": 191.18,
+      "text": "What six? Herein a mound is quick to grasp the subtle doctrines or dhamma."
+    },
+    {
+      "start": 191.18,
+      "end": 193.7,
+      "text": "Number two, he remembers those hurt."
+    },
+    {
+      "start": 193.7,
+      "end": 198.02,
+      "text": "Number three, he reflects on the meaning of those remembered."
+    },
+    {
+      "start": 198.02,
+      "end": 203.82,
+      "text": "Number four, knowing both the letter and the spirit, he walks in conformity with dhamma."
+    },
+    {
+      "start": 203.82,
+      "end": 213.66,
+      "text": "Number five, he has a pleasant voice, a good enunciation, is obeying in speech, distinct, free from hoarseness and informative."
+    },
+    {
+      "start": 214.1,
+      "end": 223.42,
+      "text": "Number six, he is one who instructs, incites, rouses and gladdens his companions in the holy life."
+    },
+    {
+      "start": 223.42,
+      "end": 228.46,
+      "text": "And then possessed of these six, a mound is worth, is enough for self, enough for others."
+    },
+    {
+      "start": 228.46,
+      "end": 232.78,
+      "text": "I just stopped here for a while and just to recapitulate."
+    },
+    {
+      "start": 232.78,
+      "end": 240.78,
+      "text": "There are six qualities which make a mound, which benefits a mound as well as benefits others."
+    },
+    {
+      "start": 240.78,
+      "end": 244.54,
+      "text": "Number one, he is quick to understand the dhamma."
+    },
+    {
+      "start": 244.54,
+      "end": 246.7,
+      "text": "Number two, he remembers the dhamma."
+    },
+    {
+      "start": 246.7,
+      "end": 253.18,
+      "text": "Number three, he reflects on the meaning of the dhamma."
+    },
+    {
+      "start": 253.18,
+      "end": 256.78,
+      "text": "And number four, he walks in conformity with dhamma."
+    },
+    {
+      "start": 256.78,
+      "end": 259.42,
+      "text": "Number five, he has a pleasant voice."
+    },
+    {
+      "start": 259.42,
+      "end": 268.22,
+      "text": "Number six, he is one who instructs and encourages his companions in the holy life."
+    },
+    {
+      "start": 268.22,
+      "end": 277.18,
+      "text": "Now to continue, likewise, possessed of five qualities, a mound is enough for self and enough for others."
+    },
+    {
+      "start": 277.18,
+      "end": 278.54,
+      "text": "What five?"
+    },
+    {
+      "start": 278.54,
+      "end": 285.26,
+      "text": "He is not very quick in grasping the subtle doctrines, but he possesses the other five qualities."
+    },
+    {
+      "start": 285.26,
+      "end": 291.66,
+      "text": "That means he remembers the dhamma heard, he reflects on the meaning of the dhamma remembered."
+    },
+    {
+      "start": 291.66,
+      "end": 295.98,
+      "text": "And then number four, number three, he walks in conformity with dhamma."
+    },
+    {
+      "start": 295.98,
+      "end": 297.9,
+      "text": "Then he has a pleasant voice."
+    },
+    {
+      "start": 297.9,
+      "end": 302.46,
+      "text": "And he instructs and encourages his companions in the holy life."
+    },
+    {
+      "start": 302.46,
+      "end": 307.02,
+      "text": "Possessed of these five, he is enough for self, enough for others."
+    },
+    {
+      "start": 307.02,
+      "end": 312.38,
+      "text": "Possessed of four qualities, a mound is enough for self, but not for others."
+    },
+    {
+      "start": 312.38,
+      "end": 313.74,
+      "text": "What four?"
+    },
+    {
+      "start": 313.74,
+      "end": 317.26,
+      "text": "He is quick to grasp the subtle doctrines."
+    },
+    {
+      "start": 317.26,
+      "end": 322.06,
+      "text": "He remembers those heard, he reflects on those remembered."
+    },
+    {
+      "start": 322.06,
+      "end": 327.34,
+      "text": "Knowing both the letter and the spirit, he walks in conformity with dhamma."
+    },
+    {
+      "start": 327.34,
+      "end": 336.14,
+      "text": "But he does not have a pleasant voice, nor does he instruct, rouse and gladden his companions in the holy life."
+    },
+    {
+      "start": 336.14,
+      "end": 341.26,
+      "text": "With these four, he is enough for self, but not for others."
+    },
+    {
+      "start": 341.26,
+      "end": 346.22,
+      "text": "Possessed of four qualities, he is enough for others, but not for self."
+    },
+    {
+      "start": 346.22,
+      "end": 347.42,
+      "text": "What four?"
+    },
+    {
+      "start": 347.42,
+      "end": 355.26,
+      "text": "He is quick to grasp the subtle doctrines, remembers them, but not he does not reflect on them,"
+    },
+    {
+      "start": 355.26,
+      "end": 358.14,
+      "text": "or walk in conformity with dhamma."
+    },
+    {
+      "start": 358.14,
+      "end": 363.98,
+      "text": "Yet he has a pleasant voice, and he instructs his companions in the holy life."
+    },
+    {
+      "start": 363.98,
+      "end": 369.02,
+      "text": "With these four, he is enough for others, but not for self."
+    },
+    {
+      "start": 369.02,
+      "end": 374.14,
+      "text": "Possessed of three qualities, he is enough for self, but not for others."
+    },
+    {
+      "start": 374.14,
+      "end": 375.1,
+      "text": "What three?"
+    },
+    {
+      "start": 375.1,
+      "end": 382.86,
+      "text": "He is not quick to grasp the subtle doctrines, but he remembers them, he reflects upon them."
+    },
+    {
+      "start": 382.86,
+      "end": 385.5,
+      "text": "He walks in conformity with dhamma."
+    },
+    {
+      "start": 385.5,
+      "end": 391.66,
+      "text": "Yet he has not a pleasant voice, nor does he instruct his fellows in the holy life."
+    },
+    {
+      "start": 391.66,
+      "end": 396.14,
+      "text": "With these three, he is enough for self, but not for others."
+    },
+    {
+      "start": 396.14,
+      "end": 400.78,
+      "text": "Possessed of three qualities, he is enough for others, but not for self."
+    },
+    {
+      "start": 400.78,
+      "end": 401.9,
+      "text": "What three?"
+    },
+    {
+      "start": 401.9,
+      "end": 406.62,
+      "text": "He is not quick to grasp the subtle doctrines, but remembers them."
+    },
+    {
+      "start": 406.62,
+      "end": 411.9,
+      "text": "Yet he does not reflect on them, does not walk in conformity with dhamma."
+    },
+    {
+      "start": 411.9,
+      "end": 417.18,
+      "text": "But he has a pleasant voice, and instructs his companions in the holy life."
+    },
+    {
+      "start": 417.18,
+      "end": 422.14,
+      "text": "With these three, he is enough for others, but not for self."
+    },
+    {
+      "start": 422.14,
+      "end": 426.22,
+      "text": "Possessed of two qualities, he is enough for self, but not for others."
+    },
+    {
+      "start": 426.22,
+      "end": 427.26,
+      "text": "What two?"
+    },
+    {
+      "start": 427.26,
+      "end": 434.14,
+      "text": "He is not quick to grasp the subtle doctrines, does not remember them, but he reflects on them,"
+    },
+    {
+      "start": 434.14,
+      "end": 436.94,
+      "text": "and walks in conformity with dhamma."
+    },
+    {
+      "start": 436.94,
+      "end": 443.74,
+      "text": "Yet he has not a pleasant voice, nor does he instruct and rouse and incite his companions"
+    },
+    {
+      "start": 443.74,
+      "end": 445.02,
+      "text": "in the holy life."
+    },
+    {
+      "start": 445.02,
+      "end": 447.9,
+      "text": "With enough for self, but not for others."
+    },
+    {
+      "start": 447.9,
+      "end": 448.54,
+      "text": "Mounds."
+    },
+    {
+      "start": 448.54,
+      "end": 453.5,
+      "text": "Possessed of two qualities, a monk is enough for others, but not for self."
+    },
+    {
+      "start": 453.5,
+      "end": 454.54,
+      "text": "What two?"
+    },
+    {
+      "start": 454.54,
+      "end": 458.78,
+      "text": "Hearing a monk is not very quick to grasp the subtle doctrines."
+    },
+    {
+      "start": 458.78,
+      "end": 464.46,
+      "text": "He does not remember those heard, nor reflect on the meaning of those remembered."
+    },
+    {
+      "start": 464.46,
+      "end": 469.82,
+      "text": "Knowing neither the letter nor the spirit, he does not walk in conformity with dhamma."
+    },
+    {
+      "start": 469.82,
+      "end": 473.5,
+      "text": "But he has a pleasant voice, a good enunciation."
+    },
+    {
+      "start": 473.5,
+      "end": 478.78,
+      "text": "He is obeying in speech, distinct, free from hoarseness and informative."
+    },
+    {
+      "start": 478.78,
+      "end": 485.5,
+      "text": "He is one who instructs, incites, rouses and gladdens his companions in the holy life."
+    },
+    {
+      "start": 485.5,
+      "end": 491.1,
+      "text": "Possessed of these two qualities, among is enough for others, but not for self."
+    },
+    {
+      "start": 491.1,
+      "end": 492.38,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 494.64,
+      "end": 497.92,
+      "text": "I'm not going to go through those qualities again."
+    },
+    {
+      "start": 497.92,
+      "end": 504.56,
+      "text": "Perhaps if you have the tape or if you remember, then you can reflect on it and slowly understand."
+    },
+    {
+      "start": 507.25,
+      "end": 510.21,
+      "text": "The next sutta is 8.7.63."
+    },
+    {
+      "start": 510.77,
+      "end": 517.57,
+      "text": "A certain monk approached the exalted one, paid homage, etc., and sat down and said,"
+    },
+    {
+      "start": 517.57,
+      "end": 523.89,
+      "text": "Lord, well word for me if the exalted one would teach me dhamma briefly."
+    },
+    {
+      "start": 523.89,
+      "end": 530.21,
+      "text": "After hearing it, I would abide alone, secluded, zealous, earnest, resolved."
+    },
+    {
+      "start": 531.49,
+      "end": 537.09,
+      "text": "And the Buddha said, but this is just how some foolish fellows beg of me."
+    },
+    {
+      "start": 537.09,
+      "end": 542.21,
+      "text": "And when they have heard me preach dhamma, they think I am just the one to be followed."
+    },
+    {
+      "start": 542.21,
+      "end": 548.9,
+      "text": "And the monk said, Lord, let the exalted one teach me dhamma briefly."
+    },
+    {
+      "start": 548.9,
+      "end": 552.26,
+      "text": "Let the welfareer teach me dhamma briefly."
+    },
+    {
+      "start": 552.26,
+      "end": 556.5,
+      "text": "Perhaps I might understand the purpose of the exalted one's word."
+    },
+    {
+      "start": 556.5,
+      "end": 560.98,
+      "text": "Perhaps I might become an heir to the word of the exalted one."
+    },
+    {
+      "start": 561.54,
+      "end": 562.9,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 562.9,
+      "end": 565.62,
+      "text": "Wherefore, monk, you must train yourself thus."
+    },
+    {
+      "start": 566.34,
+      "end": 573.38,
+      "text": "Inwardly, my mind shall become firm and well composed, and evil and unwholesome states,"
+    },
+    {
+      "start": 573.38,
+      "end": 577.62,
+      "text": "which arise and overwhelm the mind, shall find no footing."
+    },
+    {
+      "start": 578.18,
+      "end": 581.7,
+      "text": "Thus indeed, monk, must you train yourself."
+    },
+    {
+      "start": 581.78,
+      "end": 583.22,
+      "text": "I'll just stop here for a moment."
+    },
+    {
+      "start": 583.94,
+      "end": 588.82,
+      "text": "This advice the Buddha gave is a very good advice."
+    },
+    {
+      "start": 588.82,
+      "end": 595.06,
+      "text": "He's telling the monk to make the mind firm and well composed,"
+    },
+    {
+      "start": 595.78,
+      "end": 602.02,
+      "text": "so that the evil and unwholesome states of mind can find no footing to arise."
+    },
+    {
+      "start": 603.14,
+      "end": 607.78,
+      "text": "That is the purpose of samadhi, strong concentration."
+    },
+    {
+      "start": 608.5,
+      "end": 614.82,
+      "text": "And the purpose is that these hindrances, these unwholesome states of mind,"
+    },
+    {
+      "start": 615.54,
+      "end": 619.06,
+      "text": "shall not arise because they have no footing to arise."
+    },
+    {
+      "start": 620.74,
+      "end": 622.42,
+      "text": "Now the Buddha continued,"
+    },
+    {
+      "start": 622.42,
+      "end": 629.46,
+      "text": "When monk, inwardly your mind is firm and well composed, and evil and unwholesome states,"
+    },
+    {
+      "start": 629.46,
+      "end": 633.38,
+      "text": "which arise and overwhelm the mind, find no footing."
+    },
+    {
+      "start": 633.38,
+      "end": 635.94,
+      "text": "Then monk, you must train yourself thus."
+    },
+    {
+      "start": 637.78,
+      "end": 646.18,
+      "text": "Radiation of good will by the mind shall become made become by me, continuously developed,"
+    },
+    {
+      "start": 646.18,
+      "end": 652.74,
+      "text": "made a vehicle of, made a basis, exercised, augmented, thoroughly set going."
+    },
+    {
+      "start": 653.3,
+      "end": 655.94,
+      "text": "Thus indeed, monk, must you train yourself."
+    },
+    {
+      "start": 656.74,
+      "end": 661.46,
+      "text": "When monk, this concentration is thus made become, and when monk,"
+    },
+    {
+      "start": 662.42,
+      "end": 668.66,
+      "text": "and sorry, when monk, this concentration is thus made become, and developed by you,"
+    },
+    {
+      "start": 668.66,
+      "end": 673.86,
+      "text": "then you should make become this concentration with initial and sustained application."
+    },
+    {
+      "start": 675.3,
+      "end": 680.34,
+      "text": "Make it become without initial application, but with sustained application only."
+    },
+    {
+      "start": 680.98,
+      "end": 685.3,
+      "text": "Make it become without either initial or sustained application."
+    },
+    {
+      "start": 686.02,
+      "end": 690.66,
+      "text": "Make it become with rapture or delight, P.T."
+    },
+    {
+      "start": 691.54,
+      "end": 693.46,
+      "text": "Make it become without rapture."
+    },
+    {
+      "start": 694.02,
+      "end": 697.86,
+      "text": "Make it become accompanied by pleasure, Suka."
+    },
+    {
+      "start": 697.86,
+      "end": 700.66,
+      "text": "Make it become accompanied by equanimity."
+    },
+    {
+      "start": 701.38,
+      "end": 706.98,
+      "text": "When monk, this concentration is made become by you, and well made become."
+    },
+    {
+      "start": 706.98,
+      "end": 709.7,
+      "text": "Then monk, you must train yourself thus."
+    },
+    {
+      "start": 710.58,
+      "end": 718.66,
+      "text": "Radiation of compassion, joy, equanimity by the mind shall be made become by me,"
+    },
+    {
+      "start": 718.66,
+      "end": 726.66,
+      "text": "continuously developed, made a vehicle of, made a basis, exercised, augmented, thoroughly set going."
+    },
+    {
+      "start": 726.66,
+      "end": 729.22,
+      "text": "Thus indeed, monk, must you train yourself."
+    },
+    {
+      "start": 729.86,
+      "end": 734.74,
+      "text": "When monk, these concentrations are thus made become, and developed by you,"
+    },
+    {
+      "start": 735.38,
+      "end": 743.38,
+      "text": "then you should make these concentrations become with initial and sustained application etc."
+    },
+    {
+      "start": 743.38,
+      "end": 746.18,
+      "text": "Make them become accompanied by equanimity."
+    },
+    {
+      "start": 748.24,
+      "end": 750.32,
+      "text": "I'll just stop here for a moment."
+    },
+    {
+      "start": 750.32,
+      "end": 757.6,
+      "text": "So here you see the Buddha is advising the monk firstly to make the mind firm and composed."
+    },
+    {
+      "start": 758.4,
+      "end": 765.36,
+      "text": "Then after that he asked the monk to practice radiation of good will by the mind."
+    },
+    {
+      "start": 765.36,
+      "end": 772.32,
+      "text": "Metta, good will or loving kindness to develop the metta."
+    },
+    {
+      "start": 773.12,
+      "end": 780.96,
+      "text": "And then after that to develop the concentration without, sorry, with initial and sustained application"
+    },
+    {
+      "start": 780.96,
+      "end": 787.68,
+      "text": "that is Vittaka and Vichara, then make it become without initial application but with sustained"
+    },
+    {
+      "start": 787.68,
+      "end": 792.96,
+      "text": "application that make it become without either initial or sustained application."
+    },
+    {
+      "start": 793.92,
+      "end": 795.68,
+      "text": "That is the second jhana."
+    },
+    {
+      "start": 795.68,
+      "end": 798.72,
+      "text": "With initial and sustained application is the first jhana."
+    },
+    {
+      "start": 798.72,
+      "end": 803.28,
+      "text": "Without initial and sustained application is the second jhana."
+    },
+    {
+      "start": 803.28,
+      "end": 808.16,
+      "text": "And make it become with delight or rapture, PT."
+    },
+    {
+      "start": 808.16,
+      "end": 811.04,
+      "text": "And then make it without PT."
+    },
+    {
+      "start": 811.04,
+      "end": 814.96,
+      "text": "And then make it accompanied by pleasure, accompanied by equanimity."
+    },
+    {
+      "start": 814.96,
+      "end": 820.96,
+      "text": "These are different stages of jhana going from the first to the second to the third to the fourth"
+    },
+    {
+      "start": 820.96,
+      "end": 825.44,
+      "text": "jhana. Because the fourth jhana is a state of pure equanimity and mindfulness."
+    },
+    {
+      "start": 827.28,
+      "end": 831.76,
+      "text": "And then after that the Buddha advised the monk to practice compassion,"
+    },
+    {
+      "start": 831.76,
+      "end": 833.28,
+      "text": "joy and equanimity."
+    },
+    {
+      "start": 833.28,
+      "end": 837.36,
+      "text": "The other four Brahma viharas, these are all the Brahma viharas."
+    },
+    {
+      "start": 837.36,
+      "end": 844.16,
+      "text": "And after developing the practicing it to practice the concentrations one by one."
+    },
+    {
+      "start": 847.5,
+      "end": 853.98,
+      "text": "Now to continue, when monk, these concentrations are made become by you and made well become,"
+    },
+    {
+      "start": 853.98,
+      "end": 856.7,
+      "text": "then monk, you must train yourself thus."
+    },
+    {
+      "start": 856.7,
+      "end": 863.1,
+      "text": "As to the body, looking upon the body, I will live strenuous, mindful and aware,"
+    },
+    {
+      "start": 863.82,
+      "end": 867.82,
+      "text": "overcoming the hankering and dejection common in this world."
+    },
+    {
+      "start": 868.94,
+      "end": 871.74,
+      "text": "Thus indeed monk, you must train yourself."
+    },
+    {
+      "start": 871.74,
+      "end": 876.54,
+      "text": "When monk, this concentration is thus made become and developed by you,"
+    },
+    {
+      "start": 876.54,
+      "end": 881.5,
+      "text": "then make this concentration become with initial and sustained application."
+    },
+    {
+      "start": 881.5,
+      "end": 886.46,
+      "text": "Without initial application, but with sustained application."
+    },
+    {
+      "start": 886.46,
+      "end": 889.74,
+      "text": "Then without initial and sustained application, etc."
+    },
+    {
+      "start": 890.62,
+      "end": 894.7,
+      "text": "When monk, this concentration is made become by you and well made become."
+    },
+    {
+      "start": 894.7,
+      "end": 897.34,
+      "text": "Then monk, you must train yourself thus."
+    },
+    {
+      "start": 897.34,
+      "end": 900.94,
+      "text": "As to feelings, looking upon feelings, etc."
+    },
+    {
+      "start": 900.94,
+      "end": 905.66,
+      "text": "As to the mind, looking upon mind, as to dhamma, looking upon dhamma,"
+    },
+    {
+      "start": 905.66,
+      "end": 908.62,
+      "text": "I will live strenuous, self-possessed and mindful,"
+    },
+    {
+      "start": 908.62,
+      "end": 912.3,
+      "text": "overcoming the hankering and dejection common in this world."
+    },
+    {
+      "start": 912.3,
+      "end": 914.62,
+      "text": "Thus indeed monk, you must train yourself."
+    },
+    {
+      "start": 915.26,
+      "end": 916.78,
+      "text": "Stop here for a moment."
+    },
+    {
+      "start": 916.78,
+      "end": 921.98,
+      "text": "So here the Buddha is advising the monk after developing the concentration"
+    },
+    {
+      "start": 921.98,
+      "end": 932.38,
+      "text": "to practice the Satipathana mindfulness with regard to contemplating the body,"
+    },
+    {
+      "start": 933.02,
+      "end": 937.34,
+      "text": "contemplating feeling, contemplating mind and contemplating dhamma."
+    },
+    {
+      "start": 937.98,
+      "end": 940.78,
+      "text": "These are the four objects of Satipathana."
+    },
+    {
+      "start": 941.9,
+      "end": 943.58,
+      "text": "Then the Buddha continues."
+    },
+    {
+      "start": 943.58,
+      "end": 948.54,
+      "text": "When monk, this concentration is thus made become and developed by you,"
+    },
+    {
+      "start": 948.54,
+      "end": 953.1,
+      "text": "then you should make this concentration become with initial and sustained application."
+    },
+    {
+      "start": 953.1,
+      "end": 958.22,
+      "text": "Make it become without initial application, but with sustained application only."
+    },
+    {
+      "start": 958.22,
+      "end": 962.06,
+      "text": "Make it become without either initial or sustained application."
+    },
+    {
+      "start": 962.06,
+      "end": 963.9,
+      "text": "Make it become with rapture."
+    },
+    {
+      "start": 963.9,
+      "end": 965.98,
+      "text": "Make it become without rapture."
+    },
+    {
+      "start": 965.98,
+      "end": 968.54,
+      "text": "Make it become accompanied with pleasure."
+    },
+    {
+      "start": 968.54,
+      "end": 971.42,
+      "text": "Make it become accompanied with equanimity."
+    },
+    {
+      "start": 971.42,
+      "end": 977.18,
+      "text": "When monk, this concentration is made become by you and well made become."
+    },
+    {
+      "start": 977.18,
+      "end": 983.58,
+      "text": "Then, monk, just to whatever place you go, you shall go in comfort."
+    },
+    {
+      "start": 983.58,
+      "end": 986.94,
+      "text": "Wherever you stand, you shall stand in comfort."
+    },
+    {
+      "start": 986.94,
+      "end": 990.18,
+      "text": "Wherever you sit, you shall sit in comfort."
+    },
+    {
+      "start": 990.18,
+      "end": 994.68,
+      "text": "And wherever you make your bed, you shall lie down in comfort."
+    },
+    {
+      "start": 994.68,
+      "end": 998.38,
+      "text": "And the monk, roused by the exalted one's exhortation,"
+    },
+    {
+      "start": 998.38,
+      "end": 1005.08,
+      "text": "got up from his seat, saluted the exalted one and departed, passing him by on his right."
+    },
+    {
+      "start": 1005.08,
+      "end": 1010.68,
+      "text": "Now, not long after, dwelling alone, secluded, zealous, earnest, resolved,"
+    },
+    {
+      "start": 1010.68,
+      "end": 1015.78,
+      "text": "that monk attained to and abode in that unsurpassed goal of the holy life,"
+    },
+    {
+      "start": 1015.78,
+      "end": 1019.38,
+      "text": "realizing it by personal knowledge in this life,"
+    },
+    {
+      "start": 1019.38,
+      "end": 1024.38,
+      "text": "for the sake of which clansmen rightly go forth from the home to the homeless life."
+    },
+    {
+      "start": 1024.38,
+      "end": 1030.78,
+      "text": "And he fully realized, birth is destroyed, lift is the holy life, done is what had to be done,"
+    },
+    {
+      "start": 1030.78,
+      "end": 1033.28,
+      "text": "there is no more of this to come."
+    },
+    {
+      "start": 1033.28,
+      "end": 1037.98,
+      "text": "And that monk was numbered among the arahants as the end of the sutta."
+    },
+    {
+      "start": 1037.98,
+      "end": 1051.48,
+      "text": "So, in this last part, the Buddha is again asking the monk to practice the concentrations in stages very systematically."
+    },
+    {
+      "start": 1051.48,
+      "end": 1058.38,
+      "text": "And then the Buddha says, when he has developed up to the concentration accompanied by equanimity,"
+    },
+    {
+      "start": 1058.38,
+      "end": 1062.68,
+      "text": "which is the fourth jhana, then the Buddha says,"
+    },
+    {
+      "start": 1062.68,
+      "end": 1068.48,
+      "text": "when this concentration is made become or developed by you and well-made become,"
+    },
+    {
+      "start": 1068.48,
+      "end": 1072.88,
+      "text": "then monk, just to whatever place you shall go, you shall go in comfort."
+    },
+    {
+      "start": 1072.88,
+      "end": 1075.28,
+      "text": "Wherever you stand, you shall stand in comfort."
+    },
+    {
+      "start": 1075.28,
+      "end": 1077.88,
+      "text": "Wherever you sit, you shall sit in comfort."
+    },
+    {
+      "start": 1077.88,
+      "end": 1081.98,
+      "text": "And whenever you make your bed, you shall lie down in comfort."
+    },
+    {
+      "start": 1081.98,
+      "end": 1086.48,
+      "text": "This is the result of attaining the fourth jhana."
+    },
+    {
+      "start": 1086.58,
+      "end": 1089.48,
+      "text": "Some other sutta, the Buddha has also mentioned this."
+    },
+    {
+      "start": 1089.48,
+      "end": 1094.28,
+      "text": "And it shows that the effect of samadhi lasts for a while."
+    },
+    {
+      "start": 1094.28,
+      "end": 1100.68,
+      "text": "It's not that immediately you come out of samadhi, all the hindrances come back."
+    },
+    {
+      "start": 1100.68,
+      "end": 1105.78,
+      "text": "And it is precisely because the hindrances are in abeyance"
+    },
+    {
+      "start": 1105.78,
+      "end": 1110.28,
+      "text": "that this monk can go everywhere in comfort."
+    },
+    {
+      "start": 1110.28,
+      "end": 1117.28,
+      "text": "In comfort means he is not disturbed by the hindrances, by the defilements of mind."
+    },
+    {
+      "start": 1117.28,
+      "end": 1122.08,
+      "text": "As I mentioned earlier, in another sutta, it was quite plain."
+    },
+    {
+      "start": 1122.08,
+      "end": 1125.08,
+      "text": "The Buddha said, even an external ascetic,"
+    },
+    {
+      "start": 1125.08,
+      "end": 1129.28,
+      "text": "as mentioned by the name of Suneta,"
+    },
+    {
+      "start": 1129.28,
+      "end": 1132.28,
+      "text": "the Buddha said because he had developed the jhanas,"
+    },
+    {
+      "start": 1132.28,
+      "end": 1140.08,
+      "text": "he was free of the passions, which are basically the hindrances."
+    },
+    {
+      "start": 1141.72,
+      "end": 1144.72,
+      "text": "So that's the end of the sutta."
+    },
+    {
+      "start": 1144.72,
+      "end": 1148.72,
+      "text": "You notice that the Buddha is a very systematic teacher."
+    },
+    {
+      "start": 1148.72,
+      "end": 1156.72,
+      "text": "You see, he talks about attaining the jhanas in many different levels."
+    },
+    {
+      "start": 1156.72,
+      "end": 1158.72,
+      "text": "He is very, very systematic."
+    },
+    {
+      "start": 1158.72,
+      "end": 1162.72,
+      "text": "You can see he asked the monk to practice the first stage"
+    },
+    {
+      "start": 1162.72,
+      "end": 1165.72,
+      "text": "with initial and sustained application."
+    },
+    {
+      "start": 1165.72,
+      "end": 1169.72,
+      "text": "Then get rid of the initial application"
+    },
+    {
+      "start": 1169.72,
+      "end": 1173.72,
+      "text": "and go into that state with sustained application only."
+    },
+    {
+      "start": 1173.72,
+      "end": 1178.72,
+      "text": "And then after that, to go to the next stage without initial or sustained application."
+    },
+    {
+      "start": 1178.72,
+      "end": 1181.72,
+      "text": "And then after that, the next stage with piti."
+    },
+    {
+      "start": 1181.72,
+      "end": 1184.72,
+      "text": "And then the next stage without piti."
+    },
+    {
+      "start": 1184.72,
+      "end": 1187.72,
+      "text": "And then the next stage with sukha, pleasure."
+    },
+    {
+      "start": 1187.72,
+      "end": 1191.72,
+      "text": "And then after the next stage after that, after dropping sukha,"
+    },
+    {
+      "start": 1191.72,
+      "end": 1193.72,
+      "text": "then you abide in equanimity."
+    },
+    {
+      "start": 1193.72,
+      "end": 1196.72,
+      "text": "So you can see the Buddha is a very systematic teacher."
+    },
+    {
+      "start": 1196.72,
+      "end": 1198.72,
+      "text": "He practiced very systematically."
+    },
+    {
+      "start": 1198.72,
+      "end": 1201.72,
+      "text": "And he taught very systematically."
+    },
+    {
+      "start": 1201.72,
+      "end": 1207.72,
+      "text": "That is one of the advantages of studying the suttas."
+    },
+    {
+      "start": 1207.72,
+      "end": 1214.72,
+      "text": "We learn to do things very systematically according to the teachings of the Buddha."
+    },
+    {
+      "start": 1214.72,
+      "end": 1221.2,
+      "text": "The next sutta, 8.7.64."
+    },
+    {
+      "start": 1221.2,
+      "end": 1225.2,
+      "text": "Once the exalted one was staying on Gaya head at Gaya."
+    },
+    {
+      "start": 1225.2,
+      "end": 1227.2,
+      "text": "And there he addressed the monk saying,"
+    },
+    {
+      "start": 1227.2,
+      "end": 1230.2,
+      "text": "monks, Lord, they replied."
+    },
+    {
+      "start": 1230.2,
+      "end": 1232.2,
+      "text": "And the exalted one said,"
+    },
+    {
+      "start": 1232.2,
+      "end": 1237.2,
+      "text": "monks, before my awakening, while I was not yet completely awakened,"
+    },
+    {
+      "start": 1237.2,
+      "end": 1240.2,
+      "text": "and but a being awakening,"
+    },
+    {
+      "start": 1240.2,
+      "end": 1245.2,
+      "text": "I perceived auras, but I saw no forms."
+    },
+    {
+      "start": 1245.2,
+      "end": 1248.2,
+      "text": "monks, to me there came the thought,"
+    },
+    {
+      "start": 1248.2,
+      "end": 1252.2,
+      "text": "if I were both to perceive auras and to see forms,"
+    },
+    {
+      "start": 1252.2,
+      "end": 1255.2,
+      "text": "seeing and knowing Nyanadasana,"
+    },
+    {
+      "start": 1255.2,
+      "end": 1258.2,
+      "text": "within me would be thus better purified."
+    },
+    {
+      "start": 1258.2,
+      "end": 1263.2,
+      "text": "monks, later on living zealous, earnest, resolute."
+    },
+    {
+      "start": 1263.2,
+      "end": 1266.2,
+      "text": "I both perceived the auras and saw the forms,"
+    },
+    {
+      "start": 1266.2,
+      "end": 1274.2,
+      "text": "but I did not stand with talk to or engage in conversation any of those devas."
+    },
+    {
+      "start": 1274.2,
+      "end": 1276.2,
+      "text": "I just stopped here for a moment."
+    },
+    {
+      "start": 1276.2,
+      "end": 1283.2,
+      "text": "The Buddha is saying that first he perceived the auras of these devas,"
+    },
+    {
+      "start": 1283.2,
+      "end": 1287.2,
+      "text": "sort of a brightness of the devas,"
+    },
+    {
+      "start": 1287.2,
+      "end": 1291.2,
+      "text": "but he could not see the devas properly."
+    },
+    {
+      "start": 1291.2,
+      "end": 1300.2,
+      "text": "So he decided that if he could both see the auras as well as see the forms of the devas,"
+    },
+    {
+      "start": 1300.2,
+      "end": 1306.2,
+      "text": "then his Nyanadasana seeing and knowing would be better purified."
+    },
+    {
+      "start": 1306.2,
+      "end": 1309.2,
+      "text": "And then the Buddha continues,"
+    },
+    {
+      "start": 1309.2,
+      "end": 1312.2,
+      "text": "monks, to me came the thought,"
+    },
+    {
+      "start": 1312.2,
+      "end": 1316.2,
+      "text": "if I were to perceive the auras, see the forms,"
+    },
+    {
+      "start": 1316.2,
+      "end": 1321.2,
+      "text": "stand with talk to and engage those devas in conversation,"
+    },
+    {
+      "start": 1321.2,
+      "end": 1326.2,
+      "text": "knowledge seeing and knowing within me would thus be better purified."
+    },
+    {
+      "start": 1326.2,
+      "end": 1329.2,
+      "text": "monks, later on living resolute."
+    },
+    {
+      "start": 1329.2,
+      "end": 1334.2,
+      "text": "I did these things, but I knew not of those devas."
+    },
+    {
+      "start": 1334.2,
+      "end": 1338.2,
+      "text": "These devas are from such and such a deva community."
+    },
+    {
+      "start": 1338.2,
+      "end": 1340.2,
+      "text": "Monks, to me came the thought,"
+    },
+    {
+      "start": 1340.2,
+      "end": 1345.2,
+      "text": "if I were to perceive the auras and to know that these,"
+    },
+    {
+      "start": 1345.2,
+      "end": 1350.2,
+      "text": "if I were to perceive the auras, see the forms of the devas,"
+    },
+    {
+      "start": 1350.2,
+      "end": 1355.2,
+      "text": "be able to talk to and engage the devas in conversation,"
+    },
+    {
+      "start": 1355.2,
+      "end": 1359.2,
+      "text": "and to know that these devas are from such and such a community,"
+    },
+    {
+      "start": 1359.2,
+      "end": 1364.2,
+      "text": "seeing and knowing within me would be better purified."
+    },
+    {
+      "start": 1364.2,
+      "end": 1366.2,
+      "text": "Monks, later on living resolute."
+    },
+    {
+      "start": 1366.2,
+      "end": 1369.2,
+      "text": "I did all these things,"
+    },
+    {
+      "start": 1369.2,
+      "end": 1371.2,
+      "text": "but I knew not of those devas."
+    },
+    {
+      "start": 1371.2,
+      "end": 1381.2,
+      "text": "These devas are the result of their deeds passed away from here and arose there."
+    },
+    {
+      "start": 1381.2,
+      "end": 1383.2,
+      "text": "These devas also does."
+    },
+    {
+      "start": 1383.2,
+      "end": 1386.2,
+      "text": "I knew not such is the food of these devas,"
+    },
+    {
+      "start": 1386.2,
+      "end": 1388.2,
+      "text": "such their experiences,"
+    },
+    {
+      "start": 1388.2,
+      "end": 1394.2,
+      "text": "such their pleasure and pain of those devas also."
+    },
+    {
+      "start": 1394.2,
+      "end": 1397.2,
+      "text": "I knew not these devas live so long."
+    },
+    {
+      "start": 1397.2,
+      "end": 1402.2,
+      "text": "They have a lifespan of such length, those devas also."
+    },
+    {
+      "start": 1402.2,
+      "end": 1406.2,
+      "text": "I knew not whether I had worked with those devas formally or not."
+    },
+    {
+      "start": 1406.2,
+      "end": 1409.2,
+      "text": "Monks, to me came the thought,"
+    },
+    {
+      "start": 1409.2,
+      "end": 1413.2,
+      "text": "if I were to perceive the auras, see the forms of the devas,"
+    },
+    {
+      "start": 1413.2,
+      "end": 1417.2,
+      "text": "talk with, engage those devas in conversation,"
+    },
+    {
+      "start": 1417.2,
+      "end": 1420.2,
+      "text": "know they are of such a community,"
+    },
+    {
+      "start": 1420.2,
+      "end": 1424.2,
+      "text": "know their faring on was thus because of their deeds,"
+    },
+    {
+      "start": 1424.2,
+      "end": 1428.2,
+      "text": "their food, experiences, pleasure and pain."
+    },
+    {
+      "start": 1428.2,
+      "end": 1431.2,
+      "text": "The lives and lifespans so long,"
+    },
+    {
+      "start": 1431.2,
+      "end": 1435.2,
+      "text": "know whether I had worked with them before or not."
+    },
+    {
+      "start": 1435.2,
+      "end": 1439.2,
+      "text": "Seeing and knowing within me would be better purified."
+    },
+    {
+      "start": 1439.2,
+      "end": 1443.2,
+      "text": "Monks, later on living zealous, earnest, resolute,"
+    },
+    {
+      "start": 1443.2,
+      "end": 1446.2,
+      "text": "I did and knew all these things."
+    },
+    {
+      "start": 1446.2,
+      "end": 1451.2,
+      "text": "Monks, so long as this eightfold series of seeing and knowing"
+    },
+    {
+      "start": 1451.2,
+      "end": 1455.2,
+      "text": "of the higher devas was not fully purified in me,"
+    },
+    {
+      "start": 1455.2,
+      "end": 1460.2,
+      "text": "I did not realize as one wholly awakened to the highest awakening"
+    },
+    {
+      "start": 1460.2,
+      "end": 1465.2,
+      "text": "unsurpassed in the world of devas with its maras and brahmas"
+    },
+    {
+      "start": 1465.2,
+      "end": 1470.2,
+      "text": "or in the world of mankind with its recluses and brahmins, devas and men,"
+    },
+    {
+      "start": 1470.2,
+      "end": 1474.2,
+      "text": "but when the eightfold series of seeing and knowing of the higher devas"
+    },
+    {
+      "start": 1474.2,
+      "end": 1477.2,
+      "text": "was fully purified in me,"
+    },
+    {
+      "start": 1477.2,
+      "end": 1483.2,
+      "text": "then Monks, I realized as one wholly awakened to the highest awakening, unsurpassed,"
+    },
+    {
+      "start": 1483.2,
+      "end": 1488.2,
+      "text": "then seeing and knowing arose in me, or knowledge and vision,"
+    },
+    {
+      "start": 1488.2,
+      "end": 1493.2,
+      "text": "and I knew, sure is my heart's release, this is my last birth,"
+    },
+    {
+      "start": 1493.2,
+      "end": 1498.2,
+      "text": "there is now no more becoming for me as the end of the sutta."
+    },
+    {
+      "start": 1498.2,
+      "end": 1503.2,
+      "text": "It's quite an interesting sutta because it shows that the Buddha here"
+    },
+    {
+      "start": 1503.2,
+      "end": 1510.2,
+      "text": "is using psychic power as a stepping stone to full awakening,"
+    },
+    {
+      "start": 1510.2,
+      "end": 1521.15,
+      "text": "nyanadasana, and then it is very clear from here"
+    },
+    {
+      "start": 1521.15,
+      "end": 1526.15,
+      "text": "that the Buddha cultivated the psychic powers in stages"
+    },
+    {
+      "start": 1526.15,
+      "end": 1532.15,
+      "text": "and because of that the Buddha said he had the full awakening as a samasambuddha."
+    },
+    {
+      "start": 1532.15,
+      "end": 1541.96,
+      "text": "So this sutta contradicts what some monks say about psychic power,"
+    },
+    {
+      "start": 1541.96,
+      "end": 1548.96,
+      "text": "that psychic power, that you should not cultivate psychic power, etc."
+    },
+    {
+      "start": 1549.96,
+      "end": 1553.96,
+      "text": "that there is a greed, that you might have a greed for psychic power."
+    },
+    {
+      "start": 1553.96,
+      "end": 1560.96,
+      "text": "But here the Buddha is saying that he is using the perfection of the psychic powers"
+    },
+    {
+      "start": 1560.96,
+      "end": 1564.96,
+      "text": "to perfect his seeing and knowing, nyanadasana,"
+    },
+    {
+      "start": 1564.96,
+      "end": 1568.96,
+      "text": "so that he obtained the full enlightenment of a Buddha."
+    },
+    {
+      "start": 1568.96,
+      "end": 1576.96,
+      "text": "So in the Buddha's teachings, psychic powers are part of the higher knowledge,"
+    },
+    {
+      "start": 1577.96,
+      "end": 1581.96,
+      "text": "the Buddha talked about six higher knowledge,"
+    },
+    {
+      "start": 1581.96,
+      "end": 1586.96,
+      "text": "and five of them are psychic powers, different types of psychic powers."
+    },
+    {
+      "start": 1586.96,
+      "end": 1591.96,
+      "text": "Only the last, number six, is the destruction of the asavas."
+    },
+    {
+      "start": 1591.96,
+      "end": 1594.96,
+      "text": "So if psychic powers were not important,"
+    },
+    {
+      "start": 1594.96,
+      "end": 1600.96,
+      "text": "the Buddha would not have mentioned these five psychic powers as the higher knowledge,"
+    },
+    {
+      "start": 1600.96,
+      "end": 1605.96,
+      "text": "but because they are stepping stones to enlightenment to mention them."
+    },
+    {
+      "start": 1605.96,
+      "end": 1612.95,
+      "text": "Now the next sutta is 8.7.65."
+    },
+    {
+      "start": 1612.95,
+      "end": 1617.95,
+      "text": "There are these eight spheres of mastery, abhiba, yattana."
+    },
+    {
+      "start": 1617.95,
+      "end": 1619.95,
+      "text": "What eight?"
+    },
+    {
+      "start": 1619.95,
+      "end": 1623.95,
+      "text": "One, when personally conscious of body,"
+    },
+    {
+      "start": 1623.95,
+      "end": 1626.95,
+      "text": "anyone sees forms exterior to himself,"
+    },
+    {
+      "start": 1626.95,
+      "end": 1629.95,
+      "text": "whether limited, lovely or ugly,"
+    },
+    {
+      "start": 1629.95,
+      "end": 1634.95,
+      "text": "he is thus conscious, having mastered them, I know, I see them."
+    },
+    {
+      "start": 1634.95,
+      "end": 1636.95,
+      "text": "This is the first sphere of mastery."
+    },
+    {
+      "start": 1636.95,
+      "end": 1639.95,
+      "text": "Number two, when personally conscious of body,"
+    },
+    {
+      "start": 1639.95,
+      "end": 1642.95,
+      "text": "anyone sees forms exterior to himself,"
+    },
+    {
+      "start": 1642.95,
+      "end": 1645.95,
+      "text": "whether boundless, lovely or ugly,"
+    },
+    {
+      "start": 1645.95,
+      "end": 1649.95,
+      "text": "he is thus conscious, having mastered them, I know, I see them."
+    },
+    {
+      "start": 1649.95,
+      "end": 1652.95,
+      "text": "This is the second sphere of mastery."
+    },
+    {
+      "start": 1652.95,
+      "end": 1655.95,
+      "text": "Number three, when personally unconscious of body,"
+    },
+    {
+      "start": 1655.95,
+      "end": 1659.95,
+      "text": "anyone sees forms exterior to himself,"
+    },
+    {
+      "start": 1659.95,
+      "end": 1662.95,
+      "text": "whether limited, lovely or ugly,"
+    },
+    {
+      "start": 1662.95,
+      "end": 1665.95,
+      "text": "he is thus conscious, having mastered them, I know, I see them."
+    },
+    {
+      "start": 1665.95,
+      "end": 1668.95,
+      "text": "This is the third sphere of mastery."
+    },
+    {
+      "start": 1668.95,
+      "end": 1671.95,
+      "text": "Number four, when personally unconscious of body,"
+    },
+    {
+      "start": 1671.95,
+      "end": 1674.95,
+      "text": "anyone sees forms exterior to himself,"
+    },
+    {
+      "start": 1674.95,
+      "end": 1678.95,
+      "text": "whether boundless, lovely or ugly, he is thus conscious,"
+    },
+    {
+      "start": 1678.95,
+      "end": 1681.95,
+      "text": "having mastered them, I know, I see them."
+    },
+    {
+      "start": 1681.95,
+      "end": 1683.95,
+      "text": "This is the fourth sphere of mastery."
+    },
+    {
+      "start": 1683.95,
+      "end": 1687.95,
+      "text": "Number five, when personally unconscious of body,"
+    },
+    {
+      "start": 1687.95,
+      "end": 1690.95,
+      "text": "anyone sees forms exterior to himself,"
+    },
+    {
+      "start": 1690.95,
+      "end": 1693.95,
+      "text": "blue, blue in color, blue in appearance,"
+    },
+    {
+      "start": 1693.95,
+      "end": 1696.95,
+      "text": "reflecting blue, he is thus conscious,"
+    },
+    {
+      "start": 1696.95,
+      "end": 1698.95,
+      "text": "having mastered them, I know, I see them."
+    },
+    {
+      "start": 1698.95,
+      "end": 1701.95,
+      "text": "This is the fifth sphere of mastery."
+    },
+    {
+      "start": 1701.95,
+      "end": 1704.95,
+      "text": "Number six, when personally unconscious of body,"
+    },
+    {
+      "start": 1704.95,
+      "end": 1707.95,
+      "text": "anyone sees forms exterior to himself, yellow."
+    },
+    {
+      "start": 1707.95,
+      "end": 1711.95,
+      "text": "He is thus conscious, having mastered them, I know, I see them."
+    },
+    {
+      "start": 1711.95,
+      "end": 1713.95,
+      "text": "This is the sixth sphere of mastery."
+    },
+    {
+      "start": 1713.95,
+      "end": 1716.95,
+      "text": "Number seven, when personally unconscious of body,"
+    },
+    {
+      "start": 1716.95,
+      "end": 1720.95,
+      "text": "anyone sees forms exterior to himself, red."
+    },
+    {
+      "start": 1720.95,
+      "end": 1724.95,
+      "text": "He is thus conscious, having mastered them, I know, I see them."
+    },
+    {
+      "start": 1724.95,
+      "end": 1726.95,
+      "text": "This is the seventh sphere of mastery."
+    },
+    {
+      "start": 1726.95,
+      "end": 1729.95,
+      "text": "Number eight, when personally unconscious of body,"
+    },
+    {
+      "start": 1729.95,
+      "end": 1733.95,
+      "text": "anyone sees forms exterior to himself, white, white in color,"
+    },
+    {
+      "start": 1733.95,
+      "end": 1735.95,
+      "text": "white in appearance, reflecting white."
+    },
+    {
+      "start": 1735.95,
+      "end": 1739.95,
+      "text": "He is thus conscious, having mastered them, I know, I see them."
+    },
+    {
+      "start": 1739.95,
+      "end": 1741.95,
+      "text": "This is the eighth sphere of mastery."
+    },
+    {
+      "start": 1741.95,
+      "end": 1744.95,
+      "text": "These are the eighth spheres of mastery."
+    },
+    {
+      "start": 1744.95,
+      "end": 1749.95,
+      "text": "These are called the abhiba yathana, the first one."
+    },
+    {
+      "start": 1749.95,
+      "end": 1755.95,
+      "text": "Conscious of body, he sees external forms which are limited."
+    },
+    {
+      "start": 1755.95,
+      "end": 1762.95,
+      "text": "Number two, conscious of body, he sees external forms boundless."
+    },
+    {
+      "start": 1762.95,
+      "end": 1768.95,
+      "text": "Number three, unconscious of body, he sees external forms limited."
+    },
+    {
+      "start": 1768.95,
+      "end": 1775.95,
+      "text": "Number four, unconscious of body, he sees external forms boundless."
+    },
+    {
+      "start": 1775.95,
+      "end": 1783.95,
+      "text": "Number five, unconscious of body, he sees external forms blue, all blue."
+    },
+    {
+      "start": 1783.95,
+      "end": 1789.95,
+      "text": "Number six, unconscious of body, he sees external forms yellow."
+    },
+    {
+      "start": 1789.95,
+      "end": 1796.95,
+      "text": "Number seven, unconscious of body, he sees external forms red, all red."
+    },
+    {
+      "start": 1796.95,
+      "end": 1802.95,
+      "text": "And the last one is unconscious of body, he sees external forms all white."
+    },
+    {
+      "start": 1803.95,
+      "end": 1809.95,
+      "text": "These four colours are the four colours in the casino meditations."
+    },
+    {
+      "start": 1809.95,
+      "end": 1817.95,
+      "text": "And these are the four out of the ten casino meditations, meditation on colours."
+    },
+    {
+      "start": 1817.95,
+      "end": 1827.9,
+      "text": "And these particular colours are useful for that type of meditation, blue, yellow, red and white."
+    },
+    {
+      "start": 1827.9,
+      "end": 1830.9,
+      "text": "The next sutra is 8.7.69."
+    },
+    {
+      "start": 1830.9,
+      "end": 1834.9,
+      "text": "Monks, there are these eight assemblies, one eight."
+    },
+    {
+      "start": 1834.9,
+      "end": 1845.9,
+      "text": "Assemblies of nobles, of Brahmins, of householders, of recluses, of devas, of the four royal devas, of the thirty-three devas, of Maharas and of Brahmas."
+    },
+    {
+      "start": 1845.9,
+      "end": 1859.9,
+      "text": "Now, monks, I call to mind having visited many hundreds of times and assembly of nobles, of Brahmins, of householders, of recluses, of the four royal devas, of devas, of the thirty-three."
+    },
+    {
+      "start": 1860.9,
+      "end": 1862.9,
+      "text": "Of Maharas, of Brahmas."
+    },
+    {
+      "start": 1862.9,
+      "end": 1875.9,
+      "text": "And before even I had seated myself among them or had spoken to them or had engaged them in conversation, whatever their colour, that I became, whatever their language, that became mine."
+    },
+    {
+      "start": 1875.9,
+      "end": 1881.9,
+      "text": "And I instructed them, incited them, roused them and gladdened them with dharma discourse."
+    },
+    {
+      "start": 1882.9,
+      "end": 1887.9,
+      "text": "And they knew me not when I spoke, but reasoned among themselves, saying,"
+    },
+    {
+      "start": 1887.9,
+      "end": 1890.9,
+      "text": "Who is this who speaks, man or deva?"
+    },
+    {
+      "start": 1890.9,
+      "end": 1897.9,
+      "text": "Then when I instructed, incited, roused and gladdened them with dharma discourse, I vanished."
+    },
+    {
+      "start": 1897.9,
+      "end": 1901.9,
+      "text": "And they knew me not when I was gone, but questioned each other."
+    },
+    {
+      "start": 1901.9,
+      "end": 1904.9,
+      "text": "Who is this who has vanished, man or deva?"
+    },
+    {
+      "start": 1904.9,
+      "end": 1908.9,
+      "text": "Monks, these are the eight assemblies at the end of the sutta."
+    },
+    {
+      "start": 1908.9,
+      "end": 1918.9,
+      "text": "This is another interesting sutta where the Buddha shows that he uses psychic power to visit various types of devas and men."
+    },
+    {
+      "start": 1918.9,
+      "end": 1927.9,
+      "text": "And he assumed their form and he spoke their language and he gave them dharma teachings."
+    },
+    {
+      "start": 1927.9,
+      "end": 1931.9,
+      "text": "And then after that he just vanished and they were surprised."
+    },
+    {
+      "start": 1931.9,
+      "end": 1937.9,
+      "text": "They were wondering who he was and he just disappeared."
+    },
+    {
+      "start": 1937.9,
+      "end": 1945.11,
+      "text": "The next sutta is 8.8.74."
+    },
+    {
+      "start": 1945.11,
+      "end": 1951.11,
+      "text": "It was at Nadika in the brick hall and the exalted one addressed the monk saying,"
+    },
+    {
+      "start": 1951.11,
+      "end": 1958.11,
+      "text": "Mindfulness of death monks when made become, when developed, is very fruitful of great advantage,"
+    },
+    {
+      "start": 1958.11,
+      "end": 1961.11,
+      "text": "merging and ending in the deathless."
+    },
+    {
+      "start": 1961.11,
+      "end": 1963.11,
+      "text": "And how monks is it so?"
+    },
+    {
+      "start": 1963.11,
+      "end": 1970.11,
+      "text": "Take the case of a monk who, when the day declines and night sets in, he reflects thus,"
+    },
+    {
+      "start": 1970.11,
+      "end": 1973.11,
+      "text": "many indeed are the chances of death for me."
+    },
+    {
+      "start": 1973.11,
+      "end": 1978.11,
+      "text": "A snake or a scorpion or a centipede might bite me and cause my death."
+    },
+    {
+      "start": 1978.11,
+      "end": 1980.11,
+      "text": "That would be a hindrance to me."
+    },
+    {
+      "start": 1980.11,
+      "end": 1982.11,
+      "text": "I might stumble and fall."
+    },
+    {
+      "start": 1982.11,
+      "end": 1985.11,
+      "text": "The food I have eaten might make me ill."
+    },
+    {
+      "start": 1985.11,
+      "end": 1987.11,
+      "text": "Bile might convulse me."
+    },
+    {
+      "start": 1987.11,
+      "end": 1989.11,
+      "text": "Flam choked me."
+    },
+    {
+      "start": 1989.11,
+      "end": 1994.11,
+      "text": "Winds within me with their scissor-like cuts give me a shivering fit."
+    },
+    {
+      "start": 1994.11,
+      "end": 1999.11,
+      "text": "Or men or non-humans might attack me and might cause my death."
+    },
+    {
+      "start": 1999.11,
+      "end": 2001.11,
+      "text": "That would be a hindrance to me."
+    },
+    {
+      "start": 2001.11,
+      "end": 2007.11,
+      "text": "Monks, that monk must reflect thus, are there any evil and wrong states within me"
+    },
+    {
+      "start": 2007.11,
+      "end": 2013.11,
+      "text": "that have not been put away and that would be a hindrance to me were I to die tonight?"
+    },
+    {
+      "start": 2013.11,
+      "end": 2018.11,
+      "text": "If monks, on consideration, he realized that there are such states,"
+    },
+    {
+      "start": 2018.11,
+      "end": 2023.11,
+      "text": "then to put away in just those evil and wrong states an intense resolution,"
+    },
+    {
+      "start": 2023.11,
+      "end": 2030.11,
+      "text": "effort, endeavor, exertion, struggle, mindfulness and awareness must be made by that monk."
+    },
+    {
+      "start": 2030.11,
+      "end": 2036.11,
+      "text": "Monks, just as a man who's turban is on fire or whose hair is burning"
+    },
+    {
+      "start": 2036.11,
+      "end": 2042.11,
+      "text": "would make an intense resolution, effort, endeavor, exertion, struggle, mindfulness and awareness"
+    },
+    {
+      "start": 2042.11,
+      "end": 2045.11,
+      "text": "to put out his burning turban or hair."
+    },
+    {
+      "start": 2045.11,
+      "end": 2051.11,
+      "text": "Even so, monks, an intense resolution, effort, endeavor, exertion, struggle, mindfulness"
+    },
+    {
+      "start": 2051.11,
+      "end": 2056.11,
+      "text": "and awareness must be made by that monk to put away just those evil and wrong states."
+    },
+    {
+      "start": 2056.11,
+      "end": 2061.11,
+      "text": "But if that monk, on review, realized that there are no such states within him"
+    },
+    {
+      "start": 2061.11,
+      "end": 2068.11,
+      "text": "that have not been put away, which would be a hindrance to him were he to die that night,"
+    },
+    {
+      "start": 2068.11,
+      "end": 2074.11,
+      "text": "then let that monk live verily in joy and gladness, training himself day and night"
+    },
+    {
+      "start": 2074.11,
+      "end": 2077.11,
+      "text": "in the ways of righteousness or wholesomeness."
+    },
+    {
+      "start": 2077.11,
+      "end": 2083.11,
+      "text": "Take the case, monks, of a monk who reflects likewise when the night is spent and day breaks."
+    },
+    {
+      "start": 2083.11,
+      "end": 2088.11,
+      "text": "He must reflect in the same way and if he finds evil and wrong states,"
+    },
+    {
+      "start": 2088.11,
+      "end": 2091.11,
+      "text": "he must make an effort to put them away."
+    },
+    {
+      "start": 2091.11,
+      "end": 2097.11,
+      "text": "But if he discover no such states, let him live in joy and gladness, training himself."
+    },
+    {
+      "start": 2097.11,
+      "end": 2104.11,
+      "text": "Monks, mindfulness of death when so made become so developed is very fruitful of great advantage,"
+    },
+    {
+      "start": 2104.11,
+      "end": 2107.11,
+      "text": "merging and ending in the deathless."
+    },
+    {
+      "start": 2107.11,
+      "end": 2109.11,
+      "text": "That's the end of the sutra."
+    },
+    {
+      "start": 2109.11,
+      "end": 2116.11,
+      "text": "So this is one of the ways in which we practice mindfulness of death."
+    },
+    {
+      "start": 2117.11,
+      "end": 2126.11,
+      "text": "For a monk, because in the Buddha's days, monks used to live in the forest, in the caves,"
+    },
+    {
+      "start": 2126.11,
+      "end": 2128.11,
+      "text": "in the open air, etc."
+    },
+    {
+      "start": 2128.11,
+      "end": 2136.11,
+      "text": "At night, sometimes he might think there might be danger from wild animals around."
+    },
+    {
+      "start": 2136.11,
+      "end": 2141.11,
+      "text": "There might be danger of non-humans, especially at night."
+    },
+    {
+      "start": 2141.11,
+      "end": 2150.11,
+      "text": "So he can very well think that there is a possibility that he might be killed at night"
+    },
+    {
+      "start": 2150.11,
+      "end": 2156.11,
+      "text": "or even some sickness might make him die."
+    },
+    {
+      "start": 2156.11,
+      "end": 2163.11,
+      "text": "So he would have to reflect whether there are any evil and unwholesome states in him"
+    },
+    {
+      "start": 2163.11,
+      "end": 2168.11,
+      "text": "that he has not put away, then he should make an effort to put them away."
+    },
+    {
+      "start": 2168.11,
+      "end": 2176.11,
+      "text": "Or during the daytime, then the chances of being killed are not so much from non-humans,"
+    },
+    {
+      "start": 2176.11,
+      "end": 2179.11,
+      "text": "but from humans and animals, etc."
+    },
+    {
+      "start": 2179.11,
+      "end": 2182.11,
+      "text": "And he can make the same contemplation."
+    },
+    {
+      "start": 2182.11,
+      "end": 2189.11,
+      "text": "So in the same way, even though we don't have that type of dangers, there are other dangers."
+    },
+    {
+      "start": 2189.11,
+      "end": 2193.11,
+      "text": "Of course, life nowadays is much more secure than before."
+    },
+    {
+      "start": 2193.11,
+      "end": 2197.11,
+      "text": "But still, as we go on the streets, we might get knocked down in a car,"
+    },
+    {
+      "start": 2197.11,
+      "end": 2202.11,
+      "text": "or we drive a car, might get involved in an accident and die."
+    },
+    {
+      "start": 2202.11,
+      "end": 2205.11,
+      "text": "So we still can make such contemplation."
+    },
+    {
+      "start": 2205.11,
+      "end": 2214.11,
+      "text": "The point here is that we must examine ourselves and see whether we have any unwholesome states in us,"
+    },
+    {
+      "start": 2214.11,
+      "end": 2216.11,
+      "text": "which have to be got rid of."
+    },
+    {
+      "start": 2216.11,
+      "end": 2225.11,
+      "text": "Otherwise, if we were to die, then these unwholesome states would pull us down to woeful pains of existence."
+    },
+    {
+      "start": 2225.11,
+      "end": 2233.11,
+      "text": "So sometimes, to understand our unwholesome states, we have to see how people treat us sometimes."
+    },
+    {
+      "start": 2233.11,
+      "end": 2241.11,
+      "text": "If we have conflicts with other people, then that is a good chance to learn our unwholesome states,"
+    },
+    {
+      "start": 2241.11,
+      "end": 2249.11,
+      "text": "because sometimes it's not easy for us to admit the unwholesome states, the defects in our character."
+    },
+    {
+      "start": 2249.11,
+      "end": 2251.11,
+      "text": "But other people can see them."
+    },
+    {
+      "start": 2251.11,
+      "end": 2257.11,
+      "text": "When other people see them and don't like it, then they cause problems for us."
+    },
+    {
+      "start": 2257.11,
+      "end": 2261.11,
+      "text": "Then that is a good way to understand our weaknesses."
+    }
+  ]
+}

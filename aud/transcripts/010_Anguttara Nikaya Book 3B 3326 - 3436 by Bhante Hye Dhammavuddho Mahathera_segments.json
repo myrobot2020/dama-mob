@@ -1,0 +1,1430 @@
+{
+  "source": "faster-whisper",
+  "model": "tiny",
+  "device": "cuda",
+  "compute_type": "int8",
+  "language": "en",
+  "duration": 1897.4418125,
+  "segments": [
+    {
+      "start": 0.75,
+      "end": 10.19,
+      "text": "Another Sutai is 3.3.26, these 3 persons are found existing in the world, but 3, there"
+    },
+    {
+      "start": 10.19,
+      "end": 15.75,
+      "text": "is a person who is not to be followed, not to be served, not to be honored."
+    },
+    {
+      "start": 15.75,
+      "end": 20.27,
+      "text": "Then there is a person who should be followed, served and honored, and then there is"
+    },
+    {
+      "start": 20.27,
+      "end": 25.07,
+      "text": "the one who is to be followed, served and honored with worship and reverence."
+    },
+    {
+      "start": 25.07,
+      "end": 29.63,
+      "text": "Now what sort monks is the one who is not to be followed?"
+    },
+    {
+      "start": 29.63,
+      "end": 35.43,
+      "text": "In this case a certain person is inferior to oneself in moral conduct, concentration"
+    },
+    {
+      "start": 35.43,
+      "end": 36.43,
+      "text": "and wisdom."
+    },
+    {
+      "start": 36.43,
+      "end": 39.35,
+      "text": "Let me see, la samadhi and panya."
+    },
+    {
+      "start": 39.35,
+      "end": 45.29,
+      "text": "Such a one monks is not to be followed, served or honored, except out of consideration,"
+    },
+    {
+      "start": 45.29,
+      "end": 47.03,
+      "text": "out of compassion for him."
+    },
+    {
+      "start": 47.03,
+      "end": 51.15,
+      "text": "Now what sort monks is the one who should be followed?"
+    },
+    {
+      "start": 51.15,
+      "end": 58.15,
+      "text": "In this case a certain one is like oneself, in moral conduct, concentration and wisdom."
+    },
+    {
+      "start": 58.15,
+      "end": 61.31,
+      "text": "Such a one should be followed, served and honored."
+    },
+    {
+      "start": 61.31,
+      "end": 62.31,
+      "text": "Why?"
+    },
+    {
+      "start": 62.31,
+      "end": 69.31,
+      "text": "With this idea, as we are both proficient in moral conduct, our talk will be of morality, and it"
+    },
+    {
+      "start": 69.31,
+      "end": 74.15,
+      "text": "will continue to our prophet, and that will be to our comfort."
+    },
+    {
+      "start": 74.15,
+      "end": 80.79,
+      "text": "As we are both proficient in concentration, in wisdom, our talk will be of these subjects,"
+    },
+    {
+      "start": 80.79,
+      "end": 85.23,
+      "text": "and it will continue to our prophet, and that will be to our comfort."
+    },
+    {
+      "start": 85.23,
+      "end": 89.23,
+      "text": "Therefore such a person should be followed, served and honored."
+    },
+    {
+      "start": 89.23,
+      "end": 94.39,
+      "text": "And of what sort monks is the one who is to be followed, served and honored with worship"
+    },
+    {
+      "start": 94.39,
+      "end": 95.39,
+      "text": "and reverence."
+    },
+    {
+      "start": 95.39,
+      "end": 102.63,
+      "text": "In this case a certain person is superior to oneself, in moral conduct, concentration and"
+    },
+    {
+      "start": 102.63,
+      "end": 103.63,
+      "text": "wisdom."
+    },
+    {
+      "start": 103.63,
+      "end": 108.75,
+      "text": "Such a one should first be worshipped and revered, then followed, served and honored."
+    },
+    {
+      "start": 108.75,
+      "end": 109.75,
+      "text": "Why so?"
+    },
+    {
+      "start": 109.75,
+      "end": 114.71,
+      "text": "With this idea, in this way I shall complete the sum to all two of,"
+    },
+    {
+      "start": 115.27,
+      "end": 118.27,
+      "text": "morality not yet complete."
+    },
+    {
+      "start": 118.27,
+      "end": 123.43,
+      "text": "Or by wisdom I shall supplement it here and there when it is complete."
+    },
+    {
+      "start": 123.43,
+      "end": 127.99,
+      "text": "Or I shall complete the sum to all two of my concentration not yet complete."
+    },
+    {
+      "start": 127.99,
+      "end": 133.75,
+      "text": "Or I shall supplement it by wisdom or insight here and there when it is complete."
+    },
+    {
+      "start": 133.75,
+      "end": 138.47,
+      "text": "Or again I shall complete the sum to all of my wisdom not yet complete."
+    },
+    {
+      "start": 138.47,
+      "end": 144.47,
+      "text": "Or when complete I shall supplement it here and there by insight."
+    },
+    {
+      "start": 144.47,
+      "end": 149.51,
+      "text": "Therefore such a person should be followed, served and honored with worship and reverence."
+    },
+    {
+      "start": 149.51,
+      "end": 153.19,
+      "text": "These monks are the three persons found existing in the world."
+    },
+    {
+      "start": 155.19,
+      "end": 160.63,
+      "text": "Now here the Buddha is talking about three persons and one is inferior to you in"
+    },
+    {
+      "start": 161.91,
+      "end": 166.87,
+      "text": "the treating sila, samadhi and panya, and this kind of person is to be avoided."
+    },
+    {
+      "start": 167.99,
+      "end": 171.51,
+      "text": "Unless you have compassion for that person, you want to help that person."
+    },
+    {
+      "start": 172.07,
+      "end": 176.87,
+      "text": "The second type of person who should be followed and whom you should keep company,"
+    },
+    {
+      "start": 176.87,
+      "end": 183.75,
+      "text": "is somebody who is of the same standard with you in sila, samadhi and panya."
+    },
+    {
+      "start": 184.79,
+      "end": 189.67,
+      "text": "This type of person you can keep company like spiritual friend friend in the damma."
+    },
+    {
+      "start": 190.47,
+      "end": 198.07,
+      "text": "The third one is one whom you should follow and also reveal that is somebody who is superior"
+    },
+    {
+      "start": 198.07,
+      "end": 208.55,
+      "text": "to you in sila, samadhi and panya, because you can teach you to improve, to complete your sila, samadhi and panya."
+    },
+    {
+      "start": 208.55,
+      "end": 213.91,
+      "text": "So that kind of person who can be your teacher, whom you can learn from,"
+    },
+    {
+      "start": 213.91,
+      "end": 215.83,
+      "text": "who should follow him and serve him."
+    },
+    {
+      "start": 217.03,
+      "end": 221.03,
+      "text": "So if you want to find a teacher, there's the kind of teacher you ought to look for,"
+    },
+    {
+      "start": 221.03,
+      "end": 225.19,
+      "text": "one who is superior to you, and in sila, samadhi and panya."
+    },
+    {
+      "start": 226.71,
+      "end": 236.63,
+      "text": "The next sutra is 3.3.30, monks. There are these three persons found existing in the world."
+    },
+    {
+      "start": 237.19,
+      "end": 243.75,
+      "text": "What three? The top-seater we brain, the scatter brain, and the man of comprehensive brain."
+    },
+    {
+      "start": 243.75,
+      "end": 250.87,
+      "text": "Of what sort monks is the top-seater we brain, here in a certain person frequency"
+    },
+    {
+      "start": 250.87,
+      "end": 256.39,
+      "text": "the monastery to hear damma from the lips of the monks. The monk's teaching damma"
+    },
+    {
+      "start": 256.39,
+      "end": 261.67,
+      "text": "that is lovely in the beginning, lovely in the middle, lovely in the end, both in spirit and"
+    },
+    {
+      "start": 261.67,
+      "end": 267.43,
+      "text": "in letter. They make play in the holy life perfectly fulfilled in all its purity."
+    },
+    {
+      "start": 268.31,
+      "end": 274.63,
+      "text": "But as he sits there, he pays no heed to that top in its beginning, pays no heed to its"
+    },
+    {
+      "start": 274.63,
+      "end": 282.47,
+      "text": "middle, pays no heed to its end. Also when he has risen from his seat, he pays no heed there to."
+    },
+    {
+      "start": 283.67,
+      "end": 290.95,
+      "text": "Just as when a pot is turned upside down, the water poured there on, runs off, and does not stay"
+    },
+    {
+      "start": 291.03,
+      "end": 297.99,
+      "text": "in the pot. Even so, in this case, a certain person frequency the monastery, but pays no heed"
+    },
+    {
+      "start": 297.99,
+      "end": 305.19,
+      "text": "to that top. Also when he rises from his seat, he pays no heed there to. This one is called"
+    },
+    {
+      "start": 305.19,
+      "end": 312.87,
+      "text": "the top-seater we brain. And a what sort monks is the scatter brain? In this case, a certain person"
+    },
+    {
+      "start": 312.87,
+      "end": 319.35,
+      "text": "frequency the monastery. As he sits, he pays heed to that top in its beginning, his middle,"
+    },
+    {
+      "start": 319.35,
+      "end": 327.51,
+      "text": "and its end. But when he has risen up from his seat, he pays no heed there to. Just as when in a man's"
+    },
+    {
+      "start": 327.51,
+      "end": 334.47,
+      "text": "lap, diverse kinds of food are piled together, such as sesame, rice, sweet meats, and due to"
+    },
+    {
+      "start": 334.47,
+      "end": 341.11,
+      "text": "be fruits. When he rises from his seat, he scatters all abroad through absent-mindedness."
+    },
+    {
+      "start": 341.83,
+      "end": 347.99,
+      "text": "Even so, monks, in this case, a certain person frequency the monastery. But when he has risen"
+    },
+    {
+      "start": 347.99,
+      "end": 354.55,
+      "text": "from his seat, he pays no heed there to. This one is called the scatter brain. Now what sort"
+    },
+    {
+      "start": 354.55,
+      "end": 360.63,
+      "text": "monks is the man of comprehensive mind? In this case, a certain person frequency the monastery"
+    },
+    {
+      "start": 360.63,
+      "end": 366.23,
+      "text": "to hear dhamma from the lips of the monks. They teach him dhamma that is lovely in the beginning,"
+    },
+    {
+      "start": 366.23,
+      "end": 372.07,
+      "text": "lovely in the middle, lovely in the end, both in its spirit and its letter. They make play in"
+    },
+    {
+      "start": 372.07,
+      "end": 379.19,
+      "text": "the holy life perfectly fulfilled in all its purity. As he sits there, he pays heed to that top"
+    },
+    {
+      "start": 379.19,
+      "end": 384.55,
+      "text": "in its beginning, he pays heed to that top in its middle, he pays heed to its ending."
+    },
+    {
+      "start": 385.83,
+      "end": 391.67,
+      "text": "Also, when he rises from his seat, he still bears it in mind. Just as when a pot is set"
+    },
+    {
+      "start": 391.67,
+      "end": 398.79,
+      "text": "upright, the water poured therein accumulates and does not run away. Even so, in this case, a person"
+    },
+    {
+      "start": 398.95,
+      "end": 405.91,
+      "text": "frequency the monastery and pays heed to that top. Also, when he rises from his seat, he bears"
+    },
+    {
+      "start": 405.91,
+      "end": 412.87,
+      "text": "it in mind, in his beginning, in its middle and in its ending. This one monks is called the man"
+    },
+    {
+      "start": 412.87,
+      "end": 420.31,
+      "text": "of comprehensive mind. Such monks are the three persons found existing in the world. I think this"
+    },
+    {
+      "start": 420.55,
+      "end": 428.15,
+      "text": "tie is quite plain. He can understand the top seat of a brain person. He doesn't pay attention."
+    },
+    {
+      "start": 428.15,
+      "end": 432.87,
+      "text": "His mind is so scattered. When he is sitting there, placing to the top, he cannot concentrate on"
+    },
+    {
+      "start": 432.87,
+      "end": 438.95,
+      "text": "the top. Then when he gets up, after he leaves the monastery, also he is forgotten what the top was all"
+    },
+    {
+      "start": 438.95,
+      "end": 445.59,
+      "text": "about. The second one, he pays attention. When the top is going on, but when he goes back,"
+    },
+    {
+      "start": 445.59,
+      "end": 452.31,
+      "text": "he does not reflect on the top. He is all going in one ear and gone out the other. It is forgotten"
+    },
+    {
+      "start": 452.31,
+      "end": 458.63,
+      "text": "about what was taught instead of reflecting on it. The third one is he pays attention to it"
+    },
+    {
+      "start": 458.63,
+      "end": 463.75,
+      "text": "when the top is delivered and even after the top goes back, he still reflects it in his mind"
+    },
+    {
+      "start": 463.75,
+      "end": 472.63,
+      "text": "and it remembers what was heard. So, he also can examine yourselves and see which category you fall"
+    },
+    {
+      "start": 472.79,
+      "end": 485.18,
+      "text": "into. Now 3.4.31 monks, those families where mother and father are worshiped in the home"
+    },
+    {
+      "start": 485.18,
+      "end": 492.14,
+      "text": "are reckoned like unto Brahma. Those families where mother and father are worshiped in the home"
+    },
+    {
+      "start": 492.14,
+      "end": 499.34,
+      "text": "are ranked with the teachers of all. The worthy of offerings monks are those families where mother and"
+    },
+    {
+      "start": 499.34,
+      "end": 506.54,
+      "text": "father are worshiped in the home. Brahma monks is a term for mother and father. Teachers of all"
+    },
+    {
+      "start": 506.54,
+      "end": 513.66,
+      "text": "monks is a term for mother and father. worthy of offerings monks is a term for mother and father."
+    },
+    {
+      "start": 513.66,
+      "end": 518.94,
+      "text": "Why so? Because mother and father do much for children, they bring them up,"
+    },
+    {
+      "start": 518.94,
+      "end": 527.5,
+      "text": "nourish and introduce them to the world. This is another sulta where the Buddha is teaching us to have"
+    },
+    {
+      "start": 527.58,
+      "end": 536.62,
+      "text": "a lot of love and respect for our parents because we owe a lot to them. If we have a lot of respect"
+    },
+    {
+      "start": 536.62,
+      "end": 543.42,
+      "text": "and love for our parents then even there there was a happy respect for us."
+    },
+    {
+      "start": 545.02,
+      "end": 552.7,
+      "text": "3.4.34, thus have I heard, on a certain occasion the exalted one was staying here"
+    },
+    {
+      "start": 552.7,
+      "end": 561.18,
+      "text": "alive. At Kau Path in Singh Sapa grew, lodging, on the leaves thrown ground. Now Hattaka of"
+    },
+    {
+      "start": 561.18,
+      "end": 567.58,
+      "text": "Alawi was wondering there a foot. And as he went along he saw the exalted one in that place,"
+    },
+    {
+      "start": 567.58,
+      "end": 574.62,
+      "text": "seated on the ground thrown with leaves. On seeing him he approached and saluting him sat down at one side."
+    },
+    {
+      "start": 575.42,
+      "end": 582.86,
+      "text": "So seated Hattaka of Alawi said this to the exalted one. Praise the exalted one, live happily."
+    },
+    {
+      "start": 583.9,
+      "end": 590.14,
+      "text": "On the Buddha replied, yes my leg, I live happily and one of those who live happily in the world."
+    },
+    {
+      "start": 591.9,
+      "end": 598.54,
+      "text": "And then Hattaka said, but sir, the winter nights are cold, the dark half of the month is"
+    },
+    {
+      "start": 598.54,
+      "end": 606.14,
+      "text": "the time of snowfall. Hard is the ground trampled by the hooves of cattle, thin the carpet of"
+    },
+    {
+      "start": 606.14,
+      "end": 612.86,
+      "text": "fallen leaves, sparse are the leaves of the tree, cold are the saffron robs and cold the"
+    },
+    {
+      "start": 612.86,
+      "end": 620.46,
+      "text": "gale of wind that blows. Then they exalted one said, still my leg, I live happily. Of those who live"
+    },
+    {
+      "start": 620.46,
+      "end": 627.5,
+      "text": "happily in the world I am one. Now my leg I will question you about this and you reply as you"
+    },
+    {
+      "start": 627.5,
+      "end": 634.7,
+      "text": "think fit. But think you my leg. Suppose a house father or house father son, as a house with"
+    },
+    {
+      "start": 634.7,
+      "end": 643.02,
+      "text": "a gable roof, plastered inside and out, but well fitting doors and casements. Therein is a couch,"
+    },
+    {
+      "start": 643.02,
+      "end": 650.46,
+      "text": "spread with long, pleased, woolen, rock, a bit spread of white wool, a covenant and broided with"
+    },
+    {
+      "start": 650.46,
+      "end": 657.26,
+      "text": "flowers, spread with a costly skin of antelope. Having a canopy overhead and a scarlet cushion"
+    },
+    {
+      "start": 657.26,
+      "end": 665.5,
+      "text": "at each end. Here is a lamb burning and four wives to wait upon him with all their charms. Now what"
+    },
+    {
+      "start": 665.5,
+      "end": 673.1,
+      "text": "think you my leg? Would he live happily or not? What do you think? And he replied, yes he would sir,"
+    },
+    {
+      "start": 673.1,
+      "end": 678.94,
+      "text": "he is one of those who live happily in the world. And the Buddha said, well now my leg, what do you"
+    },
+    {
+      "start": 678.94,
+      "end": 686.78,
+      "text": "think? Would there not arise in that house father or house father son, to a man's of body or mind?"
+    },
+    {
+      "start": 687.26,
+      "end": 695.1,
+      "text": "There are that aborn of passion, brahga, so that tortured by them he would live unhappy."
+    },
+    {
+      "start": 695.98,
+      "end": 703.26,
+      "text": "And he replied, they would arise. Buddha said, well my leg, as to those torments of body or of"
+    },
+    {
+      "start": 703.26,
+      "end": 710.7,
+      "text": "mind, born of passion, tortured by which he would live unhappy. Then passion has been abandoned by"
+    },
+    {
+      "start": 710.7,
+      "end": 719.18,
+      "text": "the tatagata, cut off at the root, made like a palm, tree, stump, made unable to become again,"
+    },
+    {
+      "start": 719.18,
+      "end": 726.3,
+      "text": "of a nature not to arise again in future. That is why I live happily. Again, would there not"
+    },
+    {
+      "start": 726.3,
+      "end": 735.42,
+      "text": "arise, torments of body or of mind, born of hatred, dosa, so that tortured by them he would live unhappy."
+    },
+    {
+      "start": 735.42,
+      "end": 743.58,
+      "text": "He replied, they would arise, the Buddha said, well my leg, as to those torments, that hatred"
+    },
+    {
+      "start": 743.58,
+      "end": 750.94,
+      "text": "has been abandoned by the tatagata, that is why I live happily. Again, would there not arise,"
+    },
+    {
+      "start": 750.94,
+      "end": 757.42,
+      "text": "torments of body or mind, born of delusion, bhoha, so that tortured by them he would live unhappy."
+    },
+    {
+      "start": 757.42,
+      "end": 765.98,
+      "text": "He would arise, well my leg, as to those torments, etc., etc., that delusion has been abandoned"
+    },
+    {
+      "start": 765.98,
+      "end": 773.9,
+      "text": "by the tatagata, that is why I live happily. Ah, so that is the end of the sutta, so here in"
+    },
+    {
+      "start": 773.9,
+      "end": 780.22,
+      "text": "the sutta, the Buddha is living in the forest, staying on the ground, sitting on the ground,"
+    },
+    {
+      "start": 780.22,
+      "end": 786.06,
+      "text": "sleeping on the ground, and in India they have winters, in tonight's service are so cold,"
+    },
+    {
+      "start": 786.06,
+      "end": 792.14,
+      "text": "and yet the Buddha says he's happy because he's gotten rid of the tree causes of unhappiness,"
+    },
+    {
+      "start": 792.14,
+      "end": 799.42,
+      "text": "that is, passion, raga, ah, hatred, dosa, and delusion, mhoha, these tree things are sometimes"
+    },
+    {
+      "start": 799.42,
+      "end": 808.7,
+      "text": "in the sutta, is mentioned, not raga, dosa and mhoha, but loba, greed, loba, dosa and mhoha,"
+    },
+    {
+      "start": 808.7,
+      "end": 814.38,
+      "text": "here, sometimes is mentioned as raga, dosa and mhoha, raga, is passion or lust,"
+    },
+    {
+      "start": 814.86,
+      "end": 821.42,
+      "text": "instead of loba is greed, so that's why sometimes some people don't understand,"
+    },
+    {
+      "start": 821.42,
+      "end": 831.74,
+      "text": "the thing, why does a person give up his holy life abandoned comforts of the world and become"
+    },
+    {
+      "start": 831.74,
+      "end": 840.3,
+      "text": "unanswered, walking around, ball headed, begging for his food, because as it is plain here,"
+    },
+    {
+      "start": 840.3,
+      "end": 848.78,
+      "text": "even though a monk is not comfortable, physically, but mentally, he's much more comfortable"
+    },
+    {
+      "start": 848.78,
+      "end": 857.1,
+      "text": "than a lot of lay people, so his happiness is within, and the happiness that is within is of a"
+    },
+    {
+      "start": 857.1,
+      "end": 863.82,
+      "text": "deeper nature, as a deeper happiness, then the happiness of a lot of lay people, a lot of lay"
+    },
+    {
+      "start": 864.06,
+      "end": 870.3,
+      "text": "people, the happiness depends on external things, and it's so fragile, you love somebody,"
+    },
+    {
+      "start": 870.3,
+      "end": 877.58,
+      "text": "even that that person says something nasty to you, and you get heartache, just, ah, you picture"
+    },
+    {
+      "start": 877.58,
+      "end": 883.66,
+      "text": "yourself to be opposite, ah, you know, you want people to think, you are such and such,"
+    },
+    {
+      "start": 883.66,
+      "end": 889.1,
+      "text": "you're a piercest and such, when somebody criticizes you, yourself image seems to be shattered"
+    },
+    {
+      "start": 889.18,
+      "end": 894.7,
+      "text": "and you get so unhappy, because external things, if you depend on external things,"
+    },
+    {
+      "start": 894.7,
+      "end": 904.86,
+      "text": "for your happiness, yeah, so fragile, you depend on yourself, on your mind, then it is much"
+    },
+    {
+      "start": 904.86,
+      "end": 915.74,
+      "text": "much more stable happiness, 3.4.35, the good I said, monks, there are these three"
+    },
+    {
+      "start": 915.74,
+      "end": 922.94,
+      "text": "devil messengers, what three? In this connection a certain one lives an immoral life, indeed,"
+    },
+    {
+      "start": 922.94,
+      "end": 930.14,
+      "text": "word and thought, so doing when body breaks up after death, he's reborn in the waste, the"
+    },
+    {
+      "start": 930.14,
+      "end": 938.38,
+      "text": "wolf who claims, the downfall in hell, then monks, the waters of hell, sees him by both arms,"
+    },
+    {
+      "start": 938.38,
+      "end": 945.42,
+      "text": "and bring him before Yama the Lord, saying, sire, this man had no respect for mother and"
+    },
+    {
+      "start": 945.42,
+      "end": 952.22,
+      "text": "father, recluses and brahmanas, he showed no respect to the elders of his clan, let your"
+    },
+    {
+      "start": 952.22,
+      "end": 960.3,
+      "text": "majesty inflict due punishment on him, then monks, Yama the Lord, examines him, closely"
+    },
+    {
+      "start": 960.3,
+      "end": 967.02,
+      "text": "questions him, and addresses him concerning the first devil messengers see, now my good man,"
+    },
+    {
+      "start": 967.02,
+      "end": 972.86,
+      "text": "have you never seen the first devil messengers manifest among men, had you replies,"
+    },
+    {
+      "start": 972.86,
+      "end": 980.7,
+      "text": "I have not seen him sire, then says King Yama to him, one, my good man, have you never seen"
+    },
+    {
+      "start": 980.7,
+      "end": 989.26,
+      "text": "any human being, a woman or a man, 80 or 90 or 100 years of age, broken down, then in words"
+    },
+    {
+      "start": 989.26,
+      "end": 995.9,
+      "text": "like the rafter of a roof, crooked, propped up with a cane, and trembling as he goes along,"
+    },
+    {
+      "start": 995.98,
+      "end": 1002.86,
+      "text": "and ailing creature passes his prime, with broken teeth, grey head or ballless or hairless,"
+    },
+    {
+      "start": 1002.86,
+      "end": 1011.02,
+      "text": "balled with wrinkle-brow and limbs all-bloached and spotted, then the man says, sire, I have seen,"
+    },
+    {
+      "start": 1011.82,
+      "end": 1018.78,
+      "text": "then says Yama, Lord of that to him, my good man, did it never occur to you as a man of intelligence"
+    },
+    {
+      "start": 1018.78,
+      "end": 1025.82,
+      "text": "and fully grown, I too am subject to old age, I have not overpassed old age, come let's"
+    },
+    {
+      "start": 1025.9,
+      "end": 1033.66,
+      "text": "be act nobly indeed word and thought, then the other says, no sire, I could not, I was negligent,"
+    },
+    {
+      "start": 1034.94,
+      "end": 1041.66,
+      "text": "then monks Yama, Lord of that says to him, my good man, it was true negligence that you did not"
+    },
+    {
+      "start": 1041.66,
+      "end": 1048.7,
+      "text": "act nobly indeed word and thought, truthfully they shall do unto you in accordance with your negligence,"
+    },
+    {
+      "start": 1049.34,
+      "end": 1056.38,
+      "text": "that evil action of yours was not done by mother, father, brother, sister, friends, and comrades,"
+    },
+    {
+      "start": 1057.1,
+      "end": 1062.94,
+      "text": "not by kinsman, devers, recluse, and brahmanas, by yourself alone was it done,"
+    },
+    {
+      "start": 1063.58,
+      "end": 1070.86,
+      "text": "it is just you that will experience the fruit thereof, then monks, Yama, Lord of that, having"
+    },
+    {
+      "start": 1070.86,
+      "end": 1076.62,
+      "text": "examined him, closely questioned, and addressed him concerning the first devar messenger,"
+    },
+    {
+      "start": 1076.62,
+      "end": 1083.26,
+      "text": "does likewise concerning the second devar messenger say, my good man, have you never seen the second devar"
+    },
+    {
+      "start": 1083.26,
+      "end": 1090.54,
+      "text": "messenger many faster among men, and he replies, I have never seen him sire, then says Yama, Lord of that"
+    },
+    {
+      "start": 1090.54,
+      "end": 1097.26,
+      "text": "to him, what, my good man have you never seen among human beings, a woman or a man, sick,"
+    },
+    {
+      "start": 1097.26,
+      "end": 1105.5,
+      "text": "afflicted, suffering from a sore disease, lie, warling in his own filth, there's experiment,"
+    },
+    {
+      "start": 1105.5,
+      "end": 1110.78,
+      "text": "by some lifted up by others put to bed, and he says, sire, I have seen,"
+    },
+    {
+      "start": 1111.74,
+      "end": 1118.46,
+      "text": "then king Yama says, then my good man, did it never occur to you as a man of intelligence and fully"
+    },
+    {
+      "start": 1118.46,
+      "end": 1127.82,
+      "text": "grown, I too am subject to disease, I have not overpassed disease, come let me act nobly indeed word and thought,"
+    },
+    {
+      "start": 1130.92,
+      "end": 1138.6,
+      "text": "then says he sire, I could not, I was negligent, then says Yama, Lord of that to him,"
+    },
+    {
+      "start": 1138.6,
+      "end": 1144.36,
+      "text": "my good man, it was true negligence that you did not act nobly indeed word and thought,"
+    },
+    {
+      "start": 1144.36,
+      "end": 1149.48,
+      "text": "merely they shall do unto you according to your negligence, that evil action of yours,"
+    },
+    {
+      "start": 1150.2,
+      "end": 1156.6,
+      "text": "was not done by mother, father, brother, sister, friends and comrades, etc, by yourself alone was"
+    },
+    {
+      "start": 1156.6,
+      "end": 1163.16,
+      "text": "it done, it is just you that will experience the fruit thereof. Paraporn monks Yama, Lord of death,"
+    },
+    {
+      "start": 1163.16,
+      "end": 1168.68,
+      "text": "having examined him closely concerning the second diva messenger, does like wise concerning the third"
+    },
+    {
+      "start": 1168.68,
+      "end": 1175.08,
+      "text": "diva messenger saying, my good man, have you never seen among human beings, a woman or a man,"
+    },
+    {
+      "start": 1175.08,
+      "end": 1181.8,
+      "text": "a cops, one, two or three days dead, swollen, black and blue, and festering,"
+    },
+    {
+      "start": 1182.76,
+      "end": 1190.04,
+      "text": "heavy plies, sire, I have seen, and Yama says, then my good man, did it never occur to you"
+    },
+    {
+      "start": 1190.04,
+      "end": 1197.08,
+      "text": "as a man of intelligence and fully grown, I too am subject to death, I have not overpassed death,"
+    },
+    {
+      "start": 1197.08,
+      "end": 1205.24,
+      "text": "come let me act nobly indeed word and thought, and says he, sire, I could not, I was negligent,"
+    },
+    {
+      "start": 1205.48,
+      "end": 1212.44,
+      "text": "Yama, Lord of death, says to him, my good man, it was true negligence that you did not act"
+    },
+    {
+      "start": 1212.44,
+      "end": 1218.36,
+      "text": "nobly indeed word and thought, where a lead they shall do unto you according to your negligence,"
+    },
+    {
+      "start": 1218.36,
+      "end": 1224.52,
+      "text": "that evil action of yours was not done by mother, father, etc, etc, by yourself alone was"
+    },
+    {
+      "start": 1224.52,
+      "end": 1231.56,
+      "text": "it done, it is just you that will experience the fruit thereof. Ten monks, having examined him closely"
+    },
+    {
+      "start": 1231.56,
+      "end": 1237.64,
+      "text": "concerning the third day of our messenger, Yama, Lord of death, is silent, thereof on monks,"
+    },
+    {
+      "start": 1237.64,
+      "end": 1245.08,
+      "text": "the waters of hell torture him with a five-fold pinion, they drive a hot iron pin through each hand"
+    },
+    {
+      "start": 1245.08,
+      "end": 1250.68,
+      "text": "and foot, and a fifth through the middle of his breath, thereand he suffers grievous,"
+    },
+    {
+      "start": 1250.68,
+      "end": 1257.64,
+      "text": "violent, sharp, and bitter agonies, but he makes not an end, until that evil deed of his has been"
+    },
+    {
+      "start": 1257.64,
+      "end": 1264.84,
+      "text": "worked out. Then the waters of hell lay him down and plain him down with access, thereand he suffers"
+    },
+    {
+      "start": 1264.84,
+      "end": 1271.0,
+      "text": "bitter agonies, to that evil deed of his has been worked out, next they place him with feet up"
+    },
+    {
+      "start": 1271.0,
+      "end": 1278.12,
+      "text": "and head down and plain him with raises, then they bind him to a chariot and drive him up and down,"
+    },
+    {
+      "start": 1278.12,
+      "end": 1283.88,
+      "text": "over a blazing ground, flaming and all the glow, thereand he suffers bitter,"
+    },
+    {
+      "start": 1285.88,
+      "end": 1294.68,
+      "text": "grievous, violent, sharp, and bitter agonies, then they push him up and down a huge burning mountain"
+    },
+    {
+      "start": 1294.68,
+      "end": 1301.08,
+      "text": "of red hot cold, blazing, flaming and all the glow, and he suffers again grievous, violent,"
+    },
+    {
+      "start": 1301.08,
+      "end": 1306.36,
+      "text": "sharp, and bitter agonies, but he makes not an end, until that evil deed of his has been worked out."
+    },
+    {
+      "start": 1307.08,
+      "end": 1312.12,
+      "text": "Then they take him, feet up and head down and plunge him into a burning, brazen"
+    },
+    {
+      "start": 1312.12,
+      "end": 1318.36,
+      "text": "cauldron, blazing, flaming and all the glow, there he is cooked and rises to the surface with"
+    },
+    {
+      "start": 1318.36,
+      "end": 1324.92,
+      "text": "the scum, so doing once he comes up and once he goes down and once he goes across, thereand he"
+    },
+    {
+      "start": 1324.92,
+      "end": 1331.96,
+      "text": "suffers agonies, grievous, violent, sharp, and bitter, yet he makes not an end until that evil deed of"
+    },
+    {
+      "start": 1331.96,
+      "end": 1338.52,
+      "text": "his has been worked out. Thereupon monks, the waters of hell toss him into the great hell."
+    },
+    {
+      "start": 1339.32,
+      "end": 1343.48,
+      "text": "Now, now monks, this great hell is described thus."
+    },
+    {
+      "start": 1344.68,
+      "end": 1351.72,
+      "text": "Four square of the great hell standed with four gates divided and partitioned with the wall of"
+    },
+    {
+      "start": 1351.72,
+      "end": 1359.48,
+      "text": "iron, good, of iron is the roof, its floor of iron too, dazzling and hot and flashing all around"
+    },
+    {
+      "start": 1359.48,
+      "end": 1368.76,
+      "text": "a hundred leeks, stands fast forever immovable. Once upon a time monks, Yama, Lord of Death, thought"
+    },
+    {
+      "start": 1368.76,
+      "end": 1375.88,
+      "text": "thus to himself. True it is I think that they who in the world do evil deeds in diverse ways,"
+    },
+    {
+      "start": 1376.52,
+      "end": 1384.12,
+      "text": "thus suffer attribution. Oh, that, oh, if only I could win both as a human being,"
+    },
+    {
+      "start": 1384.84,
+      "end": 1390.2,
+      "text": "if only a tatagata were born into the world and other hand who is a fully enlightened one."
+    },
+    {
+      "start": 1391.72,
+      "end": 1397.24,
+      "text": "Only I might sit at the feet of that exalted one and then that exalted one would teach me Dhamma,"
+    },
+    {
+      "start": 1397.96,
+      "end": 1405.0,
+      "text": "and then I might learn Dhamma from the exalted one. Now, monks, I see this not hearing it from"
+    },
+    {
+      "start": 1405.0,
+      "end": 1412.6,
+      "text": "some recluse or prominence, lay, but what I myself had known and seen and heard that do I declare"
+    },
+    {
+      "start": 1412.6,
+      "end": 1424.6,
+      "text": "unto you? So this is also quite interesting Sutra where we talk about King Yama, Yen Loh Wang,"
+    },
+    {
+      "start": 1424.6,
+      "end": 1431.56,
+      "text": "Yam Loh Wang, it appears from the Sutra that there are many hells, hells is like a"
+    },
+    {
+      "start": 1432.6,
+      "end": 1438.6,
+      "text": "region, you know, and each region of hell is great hell. There is a King, and that King is"
+    },
+    {
+      "start": 1438.6,
+      "end": 1447.48,
+      "text": "called King Yama, so of the various hells, they are various King Yama. And the King Yama is"
+    },
+    {
+      "start": 1447.48,
+      "end": 1454.2,
+      "text": "addressed as Dhamma by the hell being, you know, because he is in a much better condition than the"
+    },
+    {
+      "start": 1454.2,
+      "end": 1459.48,
+      "text": "other hell beings, so they call him Dhamma. So when the, when the mentioned here the three Dhamma"
+    },
+    {
+      "start": 1459.48,
+      "end": 1464.92,
+      "text": "messages, he might either be the tree heavenly messages or the tree messages from hell,"
+    },
+    {
+      "start": 1467.62,
+      "end": 1474.02,
+      "text": "and you can see from here the type of suffering that a person undergoes in hell, there are some"
+    },
+    {
+      "start": 1474.02,
+      "end": 1480.18,
+      "text": "other sutras, which also mentioned something like this, but even worse, where they suffer from"
+    },
+    {
+      "start": 1480.18,
+      "end": 1485.94,
+      "text": "one hell, the suffer all kinds of approaches, and then they are like a fugitive, you know, trying to run"
+    },
+    {
+      "start": 1485.94,
+      "end": 1490.74,
+      "text": "away because when they are caught and they are caught by these beings in hell. So they are running,"
+    },
+    {
+      "start": 1490.74,
+      "end": 1496.66,
+      "text": "trying to avoid these beings in hell, running, running, and once in a long while, the King"
+    },
+    {
+      "start": 1496.66,
+      "end": 1502.34,
+      "text": "eats of that hell will open. Once in a long while, and when it opens, I know only opens for a short"
+    },
+    {
+      "start": 1502.34,
+      "end": 1509.3,
+      "text": "time, and they rush out, and some of them manage to rush out, some of them are unable to rush out."
+    },
+    {
+      "start": 1510.1,
+      "end": 1514.66,
+      "text": "And after they rush out, they think they have got out of hell, but what happens is that they"
+    },
+    {
+      "start": 1514.66,
+      "end": 1521.22,
+      "text": "fall into another hell, another different kind of hell, and they suffer again, again, like a fugitive,"
+    },
+    {
+      "start": 1521.3,
+      "end": 1528.1,
+      "text": "running, running, and being tortured, and all that. And once in a blue moon, again, the gates of"
+    },
+    {
+      "start": 1528.1,
+      "end": 1532.5,
+      "text": "that hell open, and some of them rush out again, and then they fall into another hell,"
+    },
+    {
+      "start": 1532.5,
+      "end": 1537.46,
+      "text": "by being they fall into a hell, which is like a river, and that river, and it's like I sit,"
+    },
+    {
+      "start": 1537.46,
+      "end": 1544.66,
+      "text": "they are burned in that river. And then they keep going from one hell to another, and then,"
+    },
+    {
+      "start": 1544.66,
+      "end": 1550.26,
+      "text": "finally they come back to the hell where they started. So you see, the undergoes, physical,"
+    },
+    {
+      "start": 1550.26,
+      "end": 1558.58,
+      "text": "torture as well as mental torture. So you can imagine if any kind of you can't find any"
+    },
+    {
+      "start": 1558.58,
+      "end": 1566.18,
+      "text": "worse suffering than to be in that hell. And the great hell here is described as being of"
+    },
+    {
+      "start": 1566.18,
+      "end": 1573.54,
+      "text": "the iron roof, the iron floor, and so hot, and you can't run out of that place. It's like"
+    },
+    {
+      "start": 1573.54,
+      "end": 1583.38,
+      "text": "the oven. And this king Yamaha, even here, the Buddha says, makes a wish that one day he can be"
+    },
+    {
+      "start": 1583.38,
+      "end": 1590.66,
+      "text": "reborn as a human being, so that he can hear the Dhamma, the Buddha's Dhamma, and so that he can"
+    },
+    {
+      "start": 1590.66,
+      "end": 1598.98,
+      "text": "get out of Samsara. So now we are at this point where we are able to hear the Dhamma. Maybe previously,"
+    },
+    {
+      "start": 1598.98,
+      "end": 1605.22,
+      "text": "the Buddha said that most of us are practically all of us have been through Samsara for extremely"
+    },
+    {
+      "start": 1605.22,
+      "end": 1610.02,
+      "text": "long time, and most of the rebirths we have gone through. Maybe at one time we were king Yamaha,"
+    },
+    {
+      "start": 1610.02,
+      "end": 1615.46,
+      "text": "also. Maybe at one time we also wish that one day we get birth as a human being and we might"
+    },
+    {
+      "start": 1615.46,
+      "end": 1621.46,
+      "text": "hear the Dhamma. So now we are at this stage where we are able to hear the Dhamma. We should not"
+    },
+    {
+      "start": 1621.54,
+      "end": 1630.82,
+      "text": "let the chains go up lightly. We should take the trouble to really understand the Dhamma and"
+    },
+    {
+      "start": 1630.82,
+      "end": 1637.06,
+      "text": "practice so that we can get out of hell and never fall into this woeful plains again,"
+    },
+    {
+      "start": 1637.06,
+      "end": 1641.3,
+      "text": "probably many times you have already fallen into the woeful plains. I think some of us now you can"
+    },
+    {
+      "start": 1641.3,
+      "end": 1646.82,
+      "text": "see that in our dreams, we have been through certain places like hell. So in the fact that you can"
+    },
+    {
+      "start": 1646.9,
+      "end": 1653.14,
+      "text": "come up in our dreams maybe, this is from our memory in our past life, and we have been in such places."
+    },
+    {
+      "start": 1654.42,
+      "end": 1662.66,
+      "text": "3.4.36 months on the 8th day of the lunar half-month, the ministers who are counselors of the"
+    },
+    {
+      "start": 1662.66,
+      "end": 1670.26,
+      "text": "four great kings, who are circumambulated this woe, to see whether many four among men,"
+    },
+    {
+      "start": 1670.26,
+      "end": 1675.62,
+      "text": "pay reverence to mother and father, to recluse and prominence, and show reverence to the"
+    },
+    {
+      "start": 1675.62,
+      "end": 1682.18,
+      "text": "elders of the clan, observe the sabbath or Upusata, keep the video and do good works."
+    },
+    {
+      "start": 1682.98,
+      "end": 1688.42,
+      "text": "On the 14th day of the lunar half-month and the four sons of the four great kings,"
+    },
+    {
+      "start": 1688.42,
+      "end": 1693.78,
+      "text": "to accumulate this woe, to see whether many four pay reverence to mother and father, to recluse"
+    },
+    {
+      "start": 1693.78,
+      "end": 1699.06,
+      "text": "and prominence, and show reverence to the elders of the clan, observe the sabbath, keep the"
+    },
+    {
+      "start": 1699.14,
+      "end": 1705.06,
+      "text": "video and do good works. On the 15th day, which is a sabbath, the four great kings in person,"
+    },
+    {
+      "start": 1705.06,
+      "end": 1710.26,
+      "text": "so commemorate this woe, to see whether many four pay reverence to mother and father, to recluse"
+    },
+    {
+      "start": 1710.26,
+      "end": 1715.06,
+      "text": "and prominence, and show reverence to the elders of the clan, observe the sabbath,"
+    },
+    {
+      "start": 1715.06,
+      "end": 1722.34,
+      "text": "keep the video and do good works. Now, monks, if few, be among those men who do these things,"
+    },
+    {
+      "start": 1722.34,
+      "end": 1728.58,
+      "text": "the four great kings report the matter to the devas of the 33, Tabatim Sahebanna,"
+    },
+    {
+      "start": 1728.58,
+      "end": 1732.58,
+      "text": "as they sit in conclave in the hall of righteousness, saying,"
+    },
+    {
+      "start": 1732.58,
+      "end": 1737.94,
+      "text": "my good lords, few among men are they who pay reverence to mother and father, etc."
+    },
+    {
+      "start": 1737.94,
+      "end": 1743.38,
+      "text": "and do good works. Then monks, the devas of the 33 are displeased, and say,"
+    },
+    {
+      "start": 1744.02,
+      "end": 1749.7,
+      "text": "surely says, the deva hosts will diminish and the asura hosts will increase."
+    },
+    {
+      "start": 1750.5,
+      "end": 1755.78,
+      "text": "But monks, if many are they among men who pay reverence to mother and father to recluse and"
+    },
+    {
+      "start": 1755.78,
+      "end": 1760.74,
+      "text": "prominence, who show reverence to the elders of the clan, observe the sabbath,"
+    },
+    {
+      "start": 1760.74,
+      "end": 1765.38,
+      "text": "keep the video and do good works. Then the four great kings report the matter to the devas"
+    },
+    {
+      "start": 1765.38,
+      "end": 1772.1,
+      "text": "of the 33, saying, good, my lords. Many are they among men who pay reverence to mother and father,"
+    },
+    {
+      "start": 1772.1,
+      "end": 1777.78,
+      "text": "etc. Therein monks, the devas of the 33 are glad, and say, surely says,"
+    },
+    {
+      "start": 1777.78,
+      "end": 1781.46,
+      "text": "the deva hosts will increase and the asura hosts will decrease."
+    },
+    {
+      "start": 1782.42,
+      "end": 1789.14,
+      "text": "This and other are quite interesting, so time, which tells us that there are devas who"
+    },
+    {
+      "start": 1789.14,
+      "end": 1795.06,
+      "text": "go around the world and observe us, and we are not aware of it. Just like when we observe ants,"
+    },
+    {
+      "start": 1795.06,
+      "end": 1799.38,
+      "text": "the ants are so small, we look from the top, we see what they are doing, but they don't know."
+    },
+    {
+      "start": 1799.78,
+      "end": 1804.82,
+      "text": "They can't see us then, because the feel of vision is so limited, so near, to in the same way,"
+    },
+    {
+      "start": 1804.82,
+      "end": 1810.58,
+      "text": "our feel of vision, now what we can see is so limited, unless we develop psychic power."
+    },
+    {
+      "start": 1810.9,
+      "end": 1815.06,
+      "text": "So the devas might be looking at us, and we look at the describe that we can't see them."
+    },
+    {
+      "start": 1816.26,
+      "end": 1821.22,
+      "text": "When they talk about the lunar half-month, it's because in India, the calendar is not"
+    },
+    {
+      "start": 1821.22,
+      "end": 1829.3,
+      "text": "monthly in like 30 days, like us, it is fortnightly, fortnightly, and the fortnight can either be 14 days,"
+    },
+    {
+      "start": 1829.38,
+      "end": 1839.06,
+      "text": "or can be 15 days. So on the 8th day, we get an issue, it's a small part, the 8th day of the lunar"
+    },
+    {
+      "start": 1839.06,
+      "end": 1848.58,
+      "text": "month, 15, then the 23rd day, and the 30th day, or the 29th day, that is out there about that"
+    },
+    {
+      "start": 1848.58,
+      "end": 1857.62,
+      "text": "tradition, is the first the 8th, the 15, not sorry, not the first, the 8th, you know, the 8th,"
+    },
+    {
+      "start": 1858.18,
+      "end": 1866.98,
+      "text": "the 8th, then the 15th, the 23rd, and the 30th, or 29th. Now this last day, 29th or 30th,"
+    },
+    {
+      "start": 1867.7,
+      "end": 1875.94,
+      "text": "for the Mayana, there's made it a bit different, they made it the first first of the lunar month."
+    },
+    {
+      "start": 1875.94,
+      "end": 1883.94,
+      "text": "That's why in our television, we either recite the precepts on the partmoca, on the 15th,"
+    },
+    {
+      "start": 1884.02,
+      "end": 1890.34,
+      "text": "lunar day, or the 29th or 30th, rest in Chinese, they always talk about joy,"
+    },
+    {
+      "start": 1890.34,
+      "end": 1895.78,
+      "text": "in television, we don't talk about joy, we start with your part, the 8th day."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+dhamma-light (web UI) — copied without node_modules or build output.
+
+1) Install deps (once):
+   npm install
+
+2) Run dev server:
+   npm run dev
+   Open the Local URL Vite prints (often http://localhost:8080/).
+
+3) Sutta JSON + index:
+   AN corpus (an1…an11/suttas) lives in this project folder by default.
+   Optional: set VITE_DAMA5_ROOT to use a different corpus directory.
+
+4) Chat / reflect /api (optional):
+   Run your FastAPI backend on port 8000 so Vite’s /api proxy works.

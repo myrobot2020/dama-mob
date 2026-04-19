@@ -1,0 +1,1745 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2068.6193125,
+  "segments": [
+    {
+      "start": 0.91,
+      "end": 6.41,
+      "text": "The next Sutta is 8.3.27, the Buddha said."
+    },
+    {
+      "start": 6.41,
+      "end": 9.91,
+      "text": "Mounds, there are these eight attributes."
+    },
+    {
+      "start": 9.91,
+      "end": 10.91,
+      "text": "What is it?"
+    },
+    {
+      "start": 10.91,
+      "end": 16.91,
+      "text": "The attribute of children is crying, of women for scolding,"
+    },
+    {
+      "start": 16.91,
+      "end": 23.91,
+      "text": "of thieves fighting, of rajas ruling, of fools contention,"
+    },
+    {
+      "start": 23.91,
+      "end": 27.91,
+      "text": "of wise men swaviti being smooth,"
+    },
+    {
+      "start": 27.91,
+      "end": 34.91,
+      "text": "of the learned scrutiny, of recruits and religious men, patients."
+    },
+    {
+      "start": 34.91,
+      "end": 38.91,
+      "text": "These monks are the eight attributes."
+    },
+    {
+      "start": 38.91,
+      "end": 45.91,
+      "text": "Because this Sutta, the important point for a monk would be"
+    },
+    {
+      "start": 45.91,
+      "end": 51.86,
+      "text": "that a monk has to practice patience."
+    },
+    {
+      "start": 51.86,
+      "end": 58.86,
+      "text": "The next Sutta is 8.3.29, the Buddha said."
+    },
+    {
+      "start": 58.86,
+      "end": 64.86,
+      "text": "Timely for action is the world."
+    },
+    {
+      "start": 64.86,
+      "end": 68.86,
+      "text": "Thus say the unlearned many folk or ordinary folk."
+    },
+    {
+      "start": 68.86,
+      "end": 72.86,
+      "text": "But they know not when it is timely or untimely."
+    },
+    {
+      "start": 72.86,
+      "end": 75.86,
+      "text": "Mounds, there are these eight untimely,"
+    },
+    {
+      "start": 75.86,
+      "end": 79.86,
+      "text": "unseasonable occasions for living the holy life."
+    },
+    {
+      "start": 79.86,
+      "end": 80.86,
+      "text": "What 8?"
+    },
+    {
+      "start": 80.86,
+      "end": 85.86,
+      "text": "Take the case, monks, when a Tathagata arises in the world"
+    },
+    {
+      "start": 85.86,
+      "end": 88.86,
+      "text": "and a Dharahan, fully awakened one,"
+    },
+    {
+      "start": 88.86,
+      "end": 93.86,
+      "text": "replete with practice and knowledge, a welfareer, world-knower,"
+    },
+    {
+      "start": 93.86,
+      "end": 99.86,
+      "text": "incomparable tamer of tamable men, teacher of devas and men,"
+    },
+    {
+      "start": 99.86,
+      "end": 101.86,
+      "text": "an exalted one."
+    },
+    {
+      "start": 101.86,
+      "end": 104.86,
+      "text": "And Dhamma is taught, which is tranquilizing,"
+    },
+    {
+      "start": 104.86,
+      "end": 109.86,
+      "text": "cooling, leading to awakening, declared by the welfareer."
+    },
+    {
+      "start": 109.86,
+      "end": 112.86,
+      "text": "And suppose a person arises in hell."
+    },
+    {
+      "start": 112.86,
+      "end": 117.86,
+      "text": "This monk is the first untimely, unseasonable occasion"
+    },
+    {
+      "start": 117.86,
+      "end": 119.86,
+      "text": "for living the holy life."
+    },
+    {
+      "start": 119.86,
+      "end": 124.86,
+      "text": "Again suppose a Tathagata arises and Dhamma be taught"
+    },
+    {
+      "start": 124.86,
+      "end": 128.86,
+      "text": "and a person arises in the animal kingdom."
+    },
+    {
+      "start": 128.86,
+      "end": 135.86,
+      "text": "Or among the ghosts, or among the long-lived deva community."
+    },
+    {
+      "start": 135.86,
+      "end": 141.86,
+      "text": "Or in the outlying countries among unintelligent barbarians"
+    },
+    {
+      "start": 141.86,
+      "end": 145.86,
+      "text": "where there is no scope for monks, nuns, for lay disciples,"
+    },
+    {
+      "start": 145.86,
+      "end": 147.86,
+      "text": "male or female."
+    },
+    {
+      "start": 147.86,
+      "end": 151.86,
+      "text": "Or in the middle countries, but he holds wrong views."
+    },
+    {
+      "start": 151.86,
+      "end": 156.86,
+      "text": "His perverted envision and things that gives offerings"
+    },
+    {
+      "start": 156.86,
+      "end": 159.86,
+      "text": "and sacrifices are as not."
+    },
+    {
+      "start": 159.86,
+      "end": 163.86,
+      "text": "That the fruit and result of good and bad deeds done are as not."
+    },
+    {
+      "start": 163.86,
+      "end": 167.86,
+      "text": "That this world does not exist, nor the next world."
+    },
+    {
+      "start": 167.86,
+      "end": 170.86,
+      "text": "That there are neither mothers nor fathers,"
+    },
+    {
+      "start": 170.86,
+      "end": 173.86,
+      "text": "nor beings born spontaneously."
+    },
+    {
+      "start": 173.86,
+      "end": 177.86,
+      "text": "Nor any recluses of holy men in the world"
+    },
+    {
+      "start": 177.86,
+      "end": 180.86,
+      "text": "who have found the highest, who have won to the highest,"
+    },
+    {
+      "start": 180.86,
+      "end": 183.86,
+      "text": "who make declaration of this world and the next"
+    },
+    {
+      "start": 183.86,
+      "end": 187.86,
+      "text": "after realization by personal knowledge."
+    },
+    {
+      "start": 187.86,
+      "end": 191.86,
+      "text": "Or in the middle countries, but he is foolish and dull,"
+    },
+    {
+      "start": 191.86,
+      "end": 195.86,
+      "text": "a witless imbecile, unable to distinguish"
+    },
+    {
+      "start": 195.86,
+      "end": 199.86,
+      "text": "whether a matter has been spoken well or ill."
+    },
+    {
+      "start": 199.86,
+      "end": 203.86,
+      "text": "This monks is the seventh untimely, unseasonable occasion"
+    },
+    {
+      "start": 203.86,
+      "end": 205.86,
+      "text": "for living the holy life."
+    },
+    {
+      "start": 205.86,
+      "end": 210.86,
+      "text": "For over monks, take the case when no Tathagata arises in the world."
+    },
+    {
+      "start": 210.86,
+      "end": 215.86,
+      "text": "Dhamma is not declared and a person is born in the middle country"
+    },
+    {
+      "start": 215.86,
+      "end": 219.86,
+      "text": "and is intelligent and not dull, nor a witless imbecile,"
+    },
+    {
+      "start": 219.86,
+      "end": 224.86,
+      "text": "but able to tell whether a matter has been spoken well or ill."
+    },
+    {
+      "start": 224.86,
+      "end": 228.86,
+      "text": "This monks is the eighth untimely, unseasonable occasion"
+    },
+    {
+      "start": 228.86,
+      "end": 230.86,
+      "text": "for living the holy life."
+    },
+    {
+      "start": 230.86,
+      "end": 233.86,
+      "text": "These monks are the eight occasions."
+    },
+    {
+      "start": 233.86,
+      "end": 237.86,
+      "text": "Monks, there is just one occasion which is timely,"
+    },
+    {
+      "start": 237.86,
+      "end": 239.86,
+      "text": "seasonable for living the holy life."
+    },
+    {
+      "start": 239.86,
+      "end": 244.86,
+      "text": "But one, take the case monks when the Tathagata arises in the world"
+    },
+    {
+      "start": 244.86,
+      "end": 249.86,
+      "text": "and Arhaan, fully awakened one, replete with practice and knowledge,"
+    },
+    {
+      "start": 249.86,
+      "end": 253.86,
+      "text": "welfareer, world-knower, incomparable dhamma of dhammable men,"
+    },
+    {
+      "start": 253.86,
+      "end": 257.86,
+      "text": "teacher of devas and men, an exalted one,"
+    },
+    {
+      "start": 257.86,
+      "end": 261.86,
+      "text": "and dhamma tranquilizing, cooling, leading to awakening"
+    },
+    {
+      "start": 261.86,
+      "end": 264.86,
+      "text": "declared by the welfareer is taught."
+    },
+    {
+      "start": 264.86,
+      "end": 266.86,
+      "text": "And a person is born in the middle country"
+    },
+    {
+      "start": 266.86,
+      "end": 271.86,
+      "text": "and is intelligent, not dull, nor a witless imbecile,"
+    },
+    {
+      "start": 271.86,
+      "end": 275.86,
+      "text": "but can tell whether a matter has been spoken well or ill."
+    },
+    {
+      "start": 275.86,
+      "end": 278.86,
+      "text": "This monks is just the one occasion"
+    },
+    {
+      "start": 278.86,
+      "end": 283.86,
+      "text": "which is timely, seasonable for living the holy life."
+    },
+    {
+      "start": 283.86,
+      "end": 286.86,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 286.86,
+      "end": 294.86,
+      "text": "This sutta, so saying that if the Buddha arises in the world"
+    },
+    {
+      "start": 294.86,
+      "end": 299.86,
+      "text": "and dhamma is taught and available,"
+    },
+    {
+      "start": 299.86,
+      "end": 305.86,
+      "text": "but if a person arises in the wrong places,"
+    },
+    {
+      "start": 305.86,
+      "end": 310.86,
+      "text": "is born in hell or in the animal kingdom"
+    },
+    {
+      "start": 310.86,
+      "end": 315.86,
+      "text": "or among the ghosts or among the long lived devas"
+    },
+    {
+      "start": 315.86,
+      "end": 318.86,
+      "text": "or in the outlying countries,"
+    },
+    {
+      "start": 318.86,
+      "end": 324.86,
+      "text": "then there is no scope for practice of the holy life."
+    },
+    {
+      "start": 324.86,
+      "end": 328.86,
+      "text": "The outlying countries means those countries"
+    },
+    {
+      "start": 328.86,
+      "end": 339.14,
+      "text": "out of the middle region or middle country"
+    },
+    {
+      "start": 339.14,
+      "end": 342.14,
+      "text": "where the dhamma is available."
+    },
+    {
+      "start": 342.14,
+      "end": 347.14,
+      "text": "This middle country, the Pali word is magima padesa,"
+    },
+    {
+      "start": 347.14,
+      "end": 354.14,
+      "text": "and it refers to the area around the Ganges River valley"
+    },
+    {
+      "start": 354.14,
+      "end": 358.14,
+      "text": "because the Buddha used to live"
+    },
+    {
+      "start": 358.14,
+      "end": 365.14,
+      "text": "and travel around this area, the Ganges valley."
+    },
+    {
+      "start": 365.14,
+      "end": 370.14,
+      "text": "If you are born out of this area,"
+    },
+    {
+      "start": 370.14,
+      "end": 374.14,
+      "text": "then you have no chance to know the dhamma."
+    },
+    {
+      "start": 374.14,
+      "end": 377.14,
+      "text": "Or if a person is born in the middle country,"
+    },
+    {
+      "start": 377.14,
+      "end": 379.14,
+      "text": "but he holds wrong view,"
+    },
+    {
+      "start": 379.14,
+      "end": 383.14,
+      "text": "and the wrong view here is stated to mean"
+    },
+    {
+      "start": 384.14,
+      "end": 391.14,
+      "text": "he does not believe that making offerings, gifts and sacrifices"
+    },
+    {
+      "start": 391.14,
+      "end": 393.14,
+      "text": "are of any use,"
+    },
+    {
+      "start": 393.14,
+      "end": 399.14,
+      "text": "that there is no result of good and bad deeds,"
+    },
+    {
+      "start": 399.14,
+      "end": 403.14,
+      "text": "that this world does not exist,"
+    },
+    {
+      "start": 403.14,
+      "end": 406.14,
+      "text": "the next world does not exist."
+    },
+    {
+      "start": 406.14,
+      "end": 411.14,
+      "text": "There are no beings born spontaneously."
+    },
+    {
+      "start": 411.14,
+      "end": 418.14,
+      "text": "There are no holy men who have realized the highest realization, etc."
+    },
+    {
+      "start": 418.14,
+      "end": 421.14,
+      "text": "Or if a person is born in the middle country,"
+    },
+    {
+      "start": 421.14,
+      "end": 423.14,
+      "text": "but he is foolish and dull,"
+    },
+    {
+      "start": 423.14,
+      "end": 425.14,
+      "text": "and cannot understand the dhamma,"
+    },
+    {
+      "start": 425.14,
+      "end": 428.14,
+      "text": "or no Buddha arises in the world,"
+    },
+    {
+      "start": 428.14,
+      "end": 432.14,
+      "text": "and there is no dhamma to be heard,"
+    },
+    {
+      "start": 432.14,
+      "end": 435.14,
+      "text": "even though a person is born in the middle country,"
+    },
+    {
+      "start": 435.14,
+      "end": 439.14,
+      "text": "these conditions are not suitable for living the holy life."
+    },
+    {
+      "start": 439.14,
+      "end": 443.14,
+      "text": "There is this one occasion which is suitable,"
+    },
+    {
+      "start": 443.14,
+      "end": 446.14,
+      "text": "that is when a Buddha arises in the world,"
+    },
+    {
+      "start": 446.14,
+      "end": 448.14,
+      "text": "and dhamma is declared,"
+    },
+    {
+      "start": 448.14,
+      "end": 452.14,
+      "text": "and a person is born in the middle country."
+    },
+    {
+      "start": 452.14,
+      "end": 455.14,
+      "text": "That was spoken during the time of the Buddha,"
+    },
+    {
+      "start": 455.14,
+      "end": 460.14,
+      "text": "but nowadays it is also a very suitable time to live the holy life,"
+    },
+    {
+      "start": 460.14,
+      "end": 463.14,
+      "text": "because a Buddha has a reason in the world,"
+    },
+    {
+      "start": 463.14,
+      "end": 466.14,
+      "text": "and dhamma is available to us,"
+    },
+    {
+      "start": 466.14,
+      "end": 468.14,
+      "text": "especially now,"
+    },
+    {
+      "start": 468.14,
+      "end": 476.14,
+      "text": "almost all of the sutras of the Buddha are available to us in book form,"
+    },
+    {
+      "start": 476.14,
+      "end": 482.14,
+      "text": "and so we can practice the holy life,"
+    },
+    {
+      "start": 482.14,
+      "end": 485.14,
+      "text": "especially like we are in this country,"
+    },
+    {
+      "start": 485.14,
+      "end": 488.14,
+      "text": "where there are monks and nuns and lay supporters,"
+    },
+    {
+      "start": 488.14,
+      "end": 492.14,
+      "text": "and if a person is intelligent enough to understand the dhamma,"
+    },
+    {
+      "start": 492.14,
+      "end": 495.14,
+      "text": "then we can practice the holy life."
+    },
+    {
+      "start": 495.14,
+      "end": 498.14,
+      "text": "So we are considered very lucky,"
+    },
+    {
+      "start": 498.14,
+      "end": 502.14,
+      "text": "we are actually considered to be born during the era,"
+    },
+    {
+      "start": 502.14,
+      "end": 504.14,
+      "text": "the time of the Buddha,"
+    },
+    {
+      "start": 504.14,
+      "end": 506.14,
+      "text": "because the dhamma is still available to us,"
+    },
+    {
+      "start": 506.14,
+      "end": 509.14,
+      "text": "and if we listen to the dhamma or read the books,"
+    },
+    {
+      "start": 509.14,
+      "end": 512.14,
+      "text": "it is as though the Buddha is just at our side,"
+    },
+    {
+      "start": 512.14,
+      "end": 514.14,
+      "text": "speaking the dhamma to us."
+    },
+    {
+      "start": 514.14,
+      "end": 520.8,
+      "text": "The next sutra is also a very good and important sutra,"
+    },
+    {
+      "start": 520.8,
+      "end": 523.8,
+      "text": "8.3.30"
+    },
+    {
+      "start": 523.8,
+      "end": 528.8,
+      "text": "Once the exalted one was staying among the Bagis on Crocodile Hill"
+    },
+    {
+      "start": 528.8,
+      "end": 531.8,
+      "text": "at the deer park in Bay Sakala Grove."
+    },
+    {
+      "start": 531.8,
+      "end": 535.8,
+      "text": "Now at that time, the venerable Anuruda was dwelling among the Chaitis"
+    },
+    {
+      "start": 535.8,
+      "end": 538.8,
+      "text": "in the eastern bamboo forest,"
+    },
+    {
+      "start": 538.8,
+      "end": 543.8,
+      "text": "and there these reflections occurred to him as he dwelt alone and secluded."
+    },
+    {
+      "start": 543.8,
+      "end": 546.8,
+      "text": "This dhamma is for one who wants little,"
+    },
+    {
+      "start": 546.8,
+      "end": 549.8,
+      "text": "this dhamma is not for one who wants much,"
+    },
+    {
+      "start": 549.8,
+      "end": 552.8,
+      "text": "this dhamma is for the contented,"
+    },
+    {
+      "start": 552.8,
+      "end": 554.8,
+      "text": "not for the discontented."
+    },
+    {
+      "start": 554.8,
+      "end": 556.8,
+      "text": "This dhamma is for the aloof,"
+    },
+    {
+      "start": 556.8,
+      "end": 559.8,
+      "text": "not for one formed of society,"
+    },
+    {
+      "start": 559.8,
+      "end": 562.8,
+      "text": "this dhamma is for the energetic,"
+    },
+    {
+      "start": 562.8,
+      "end": 564.8,
+      "text": "not for the lazy."
+    },
+    {
+      "start": 564.8,
+      "end": 567.8,
+      "text": "This dhamma is for one who has set up mindfulness,"
+    },
+    {
+      "start": 567.8,
+      "end": 570.8,
+      "text": "not for the laggard in mindfulness."
+    },
+    {
+      "start": 570.8,
+      "end": 573.8,
+      "text": "This dhamma is for the concentrated,"
+    },
+    {
+      "start": 573.8,
+      "end": 575.8,
+      "text": "not for the unconcentrated."
+    },
+    {
+      "start": 575.8,
+      "end": 577.8,
+      "text": "This dhamma is for the wise,"
+    },
+    {
+      "start": 577.8,
+      "end": 579.8,
+      "text": "not for the unwise."
+    },
+    {
+      "start": 579.8,
+      "end": 590.16,
+      "text": "Now the Exalted One, knowing these reflections of the venerable Anuruddha, as easily as a strong man might stretch forth and bend back his arm,"
+    },
+    {
+      "start": 590.16,
+      "end": 600.2,
+      "text": "disappeared from the deer-pang or besakala-grove and appeared before him, and the Exalted One sat down on the seat which was made ready."
+    },
+    {
+      "start": 600.2,
+      "end": 608.48,
+      "text": "Then the venerable Anuruddha saluted him and sat down at one side, so seated the Exalted One addressed him thus,"
+    },
+    {
+      "start": 608.72,
+      "end": 624.76,
+      "text": "Well done, well done, Anuruddha. Well, have you pondered over the seven thoughts of a great man? That is to say, this Dhamma is for one who wants little, not for one who wants much, for the contented, not for the discontented,"
+    },
+    {
+      "start": 624.76,
+      "end": 636.8,
+      "text": "for the aloof, not for one who is fond of society, for the energetic, not for the lazy, for one who has set up mindfulness, not for the laggard therein,"
+    },
+    {
+      "start": 636.92,
+      "end": 649.52,
+      "text": "for the concentrated, not for the unconcentrated, for the wise, not for the unwise. But Anuruddha, do you also ponder over this eighth thought of a great man?"
+    },
+    {
+      "start": 649.52,
+      "end": 662.56,
+      "text": "Namely, this Dhamma is for the composed, and for one who delights in being composed. This Dhamma is not for the scatterbrained, or for him who delights in being scatterbrained."
+    },
+    {
+      "start": 662.56,
+      "end": 676.84,
+      "text": "When Anuruddha, you ponder over these eight thoughts of a great man, you may, and you will, enter and abide in the first jhana, or in the second jhana, or in the third jhana, or in the fourth jhana."
+    },
+    {
+      "start": 676.84,
+      "end": 688.88,
+      "text": "When Anuruddha, you ponder over these eight thoughts of a great man, and obtain easily, at will and without trouble, these four jhanas of the higher mind."
+    },
+    {
+      "start": 688.88,
+      "end": 711.72,
+      "text": "Bringing comfort both here and now, then will your dust-heaped rope seem to you as seems a closed chest, full of many colored garments, to some householder or to some householder's son, a thing designed to satisfy for joy, for health, for well-being, for faring to the cool."
+    },
+    {
+      "start": 711.72,
+      "end": 728.6,
+      "text": "When you ponder thus, then will your scraps of arm's food seem to you as seems a mess of rice, cleaned of black grains, served with curries and condiments, to some householder or his son, a thing designed to satisfy."
+    },
+    {
+      "start": 728.6,
+      "end": 744.56,
+      "text": "Then will your lodging, at the root of some tree, seem to you as seems a gabled house, all plastered over, with doors barred and shutters closed, draught free to a householder, a thing designed to satisfy."
+    },
+    {
+      "start": 744.56,
+      "end": 766.48,
+      "text": "Then will your bed and seat, bestowed with grass, seem to you as seems a divan or divan, with a fleece-y cover, woolen cloth or coverlet, spread with rugs of deer skins, with awnings over it, with crimson cushions at either end, to a householder, a thing designed to satisfy."
+    },
+    {
+      "start": 766.48,
+      "end": 779.64,
+      "text": "And when an udda, you ponder over these eight thoughts of a great man, and attain easily, at will and without trouble, to these four janas of the higher mind, bringing comfort both here and now."
+    },
+    {
+      "start": 779.64,
+      "end": 800.36,
+      "text": "Then will your medicine of strong-smelling urine, seem to you as seems the varied medicines, butter, fresh and clarified, oil, honey and the juice of sugar, to some householder, a thing designed to satisfy, for joy, for health, for well-being, for faring to the cool."
+    },
+    {
+      "start": 800.84,
+      "end": 813.04,
+      "text": "Wherefore, Anurudha dwell here in this eastern bamboo forest among the chetis during the coming rainy season, and the venerable Anurudha replied, Yes, Lord, to the exalted one."
+    },
+    {
+      "start": 813.16,
+      "end": 831.2,
+      "text": "Then the exalted one, when he had charged the venerable one with this counsel, as a strong man, might bend or stretch forth his arm, vanished from the chetis' eastern bamboo forest, and appeared in the deer park of Besa Kala Grove, on Crocodile Hill among the baghies."
+    },
+    {
+      "start": 831.96,
+      "end": 837.76,
+      "text": "Now the exalted one sat down on the seat which was made ready, and spoke to the monks thus,"
+    },
+    {
+      "start": 838.32,
+      "end": 845.32,
+      "text": "I will make known to you the great, the eight thoughts of a great man, listen, give heed, I will speak."
+    },
+    {
+      "start": 845.32,
+      "end": 848.84,
+      "text": "Yes, Lord, they replied, and the exalted one said,"
+    },
+    {
+      "start": 851.52,
+      "end": 866.52,
+      "text": "This dhamma is for one who wants little, not for one who wants much, for the contented, not for the discontented, for the aloof, not for one who is fallen of society, for the energetic, not for the lazy,"
+    },
+    {
+      "start": 867.28,
+      "end": 886.96,
+      "text": "for one who has set up mindfulness, not for the unmindful, for the concentrated, not for the unconcentrated, for the wise, not for the unwise, for the composed, and for one who delights in being composed, not for the scatterbrained, or for one who delights therein."
+    },
+    {
+      "start": 887.96,
+      "end": 897.96,
+      "text": "Monks, this dhamma is for one who wants little, this dhamma is not for one who wants much, thus it is said, but why is this said?"
+    },
+    {
+      "start": 897.96,
+      "end": 915.96,
+      "text": "Here in monks, a monk wanting little does not wish, may they know me as wanting little, or being contented, or being given, or given to being aloof, or energetic, or mindful, or concentrated,"
+    },
+    {
+      "start": 915.96,
+      "end": 921.96,
+      "text": "or wise, or delighting in being composed, does not wish, may they know me as such."
+    },
+    {
+      "start": 921.96,
+      "end": 931.96,
+      "text": "Monks, this dhamma is for one who wants little, this dhamma is not for one who wants much, so what is said is said on that account."
+    },
+    {
+      "start": 931.96,
+      "end": 941.96,
+      "text": "Monks, this dhamma is for the contented, this dhamma is not for the discontented, thus it is said, but why is this said?"
+    },
+    {
+      "start": 941.96,
+      "end": 952.96,
+      "text": "Here in monks, a monk is contented with each requisite, rope, arms, lodging, the medicines for illness, so what is said is said on that account."
+    },
+    {
+      "start": 952.96,
+      "end": 965.96,
+      "text": "Monks, this monk is for the aloof, this dhamma is for the aloof, this dhamma is not for one who is fond of society, thus it is said."
+    },
+    {
+      "start": 966.96,
+      "end": 979.96,
+      "text": "But why is this said? Here in monks, while a monk dwells in seclusion, there come visitors, namely monks and nuns, lay brothers and lay sisters, rajas and their chief ministers,"
+    },
+    {
+      "start": 980.96,
+      "end": 993.96,
+      "text": "then the monk with heart inclined towards seclusion, leaning towards seclusion, bending towards seclusion, abiding in seclusion and delighting in renunciation,"
+    },
+    {
+      "start": 993.96,
+      "end": 1001.96,
+      "text": "entirely confines his talk to the subject of going apart, so what is said is said on that account."
+    },
+    {
+      "start": 1001.96,
+      "end": 1009.96,
+      "text": "Monks, this dhamma is for the energetic, this dhamma is not for the lazy, thus it is said, but why is this said?"
+    },
+    {
+      "start": 1009.96,
+      "end": 1024.96,
+      "text": "Here in monks, a monk abides stirred to energy to be rid of unwholesome states and to take to wholesome states, form and steadfast, he lays not aside the burden of wholesomeness, so what is said is said on that account."
+    },
+    {
+      "start": 1025.96,
+      "end": 1034.96,
+      "text": "Monks, this dhamma is for one who sets up mindfulness, this dhamma is not for the unmindful, thus it is said, but why is this said?"
+    },
+    {
+      "start": 1034.96,
+      "end": 1050.96,
+      "text": "Here in monks, a monk is mindful, he is endowed in the highest degree with intentness of mind and recollection, he recollects and calls to mind both the doings and the sayings of long ago, so what is said is said on that account."
+    },
+    {
+      "start": 1051.96,
+      "end": 1059.96,
+      "text": "Monks, this dhamma is for the concentrated, this dhamma is not for the unconcentrated, thus it is said, but why is this said?"
+    },
+    {
+      "start": 1059.96,
+      "end": 1072.96,
+      "text": "Here in monks, a monk, aloof from sense desires, etc, enters and abides in the first jhana, in the second, third, fourth jhana, so what is said is said on that account."
+    },
+    {
+      "start": 1072.96,
+      "end": 1080.96,
+      "text": "Monks, this dhamma is for the wise, this dhamma is not for the unwise, thus it is said, but why is this said?"
+    },
+    {
+      "start": 1080.96,
+      "end": 1094.96,
+      "text": "Here in monks, a monk is wise, he is wise as to the way of growth and decay, with Aryan penetration into the way to the complete destruction of dukkha, so what is said is said on that account."
+    },
+    {
+      "start": 1095.96,
+      "end": 1106.96,
+      "text": "Then to continue, the Buddha said, monks, this dhamma is for the composed, and for one who delights in being composed, this dhamma is not for the scatterbrained,"
+    },
+    {
+      "start": 1106.96,
+      "end": 1112.96,
+      "text": "or for him who delights in being scatterbrained, thus it is said, but why is this said?"
+    },
+    {
+      "start": 1112.96,
+      "end": 1121.96,
+      "text": "Here in monks, the heart of a monk leaps up at the thought of the ending of being scattered, becomes calm, composed and free."
+    },
+    {
+      "start": 1121.96,
+      "end": 1134.96,
+      "text": "This dhamma is for the composed, and for one who delights in being composed, this dhamma is not for the scatterbrained, or for him who delights therein, so what is said is said on that account."
+    },
+    {
+      "start": 1134.96,
+      "end": 1142.96,
+      "text": "And the venerable Anuruddha dwelt among the chetis in the eastern bamboo forest for the duration of the rainy season."
+    },
+    {
+      "start": 1142.96,
+      "end": 1147.96,
+      "text": "There dwelling alone secluded earnest zealous resolute."
+    },
+    {
+      "start": 1147.96,
+      "end": 1156.96,
+      "text": "He attained not long after in this world, by his own knowledge, the realization of that unsurpassed consummation of the holy life,"
+    },
+    {
+      "start": 1156.96,
+      "end": 1163.96,
+      "text": "for the sake of which sons of clansmen rightly go forth from their homes to the homeless life."
+    },
+    {
+      "start": 1163.96,
+      "end": 1169.96,
+      "text": "He realized, earth is destroyed, lift is the holy life, done is what had to be done."
+    },
+    {
+      "start": 1169.96,
+      "end": 1172.96,
+      "text": "There is no more of this to come."
+    },
+    {
+      "start": 1172.96,
+      "end": 1178.96,
+      "text": "And the venerable Anuruddha was numbered among the arahants as the end of the sutta."
+    },
+    {
+      "start": 1178.96,
+      "end": 1188.96,
+      "text": "It is a very good sutta for a person to practice the eight thoughts of a great man."
+    },
+    {
+      "start": 1189.96,
+      "end": 1199.96,
+      "text": "In the initial part of the sutta, the Buddha said that if a monk practices, ponders over these eight thoughts of a great man,"
+    },
+    {
+      "start": 1199.96,
+      "end": 1212.96,
+      "text": "and attains the four jhanas and all his requisites, even though they are simple robes or simple scraps of food and lodging under a tree,"
+    },
+    {
+      "start": 1212.96,
+      "end": 1221.96,
+      "text": "all these will become to him as being very comfortable and very satisfying,"
+    },
+    {
+      "start": 1221.96,
+      "end": 1230.96,
+      "text": "because if he attains the four jhanas, then he has a very blissful abiding in this very life."
+    },
+    {
+      "start": 1230.96,
+      "end": 1245.96,
+      "text": "So all these simple things to him becomes as enjoyable as which man enjoys all the things of the household life."
+    },
+    {
+      "start": 1245.96,
+      "end": 1252.96,
+      "text": "And it's mentioned here also that medicine of strong smelling urine, you notice."
+    },
+    {
+      "start": 1252.96,
+      "end": 1257.96,
+      "text": "Here this is one of the places where it's mentioned."
+    },
+    {
+      "start": 1257.96,
+      "end": 1268.96,
+      "text": "But in the Vinaya books for a monk, it is stated that when a monk takes the ordination, he is told by the preceptor that if he were to be sick,"
+    },
+    {
+      "start": 1268.96,
+      "end": 1272.96,
+      "text": "then he has to take urine."
+    },
+    {
+      "start": 1272.96,
+      "end": 1282.96,
+      "text": "Here it is stated to be strong smelling urine, and it is explained in the Vinaya books that a monk is supposed to take his urine"
+    },
+    {
+      "start": 1282.96,
+      "end": 1289.96,
+      "text": "and keep it for seven days with medicinal fruits, some medicinal fruits."
+    },
+    {
+      "start": 1289.96,
+      "end": 1293.96,
+      "text": "You cut them and put them into the urine and keep for seven days."
+    },
+    {
+      "start": 1293.96,
+      "end": 1301.96,
+      "text": "And urine is one thing if you, as soon as it comes out and you drink it, it's not so smelly,"
+    },
+    {
+      "start": 1301.96,
+      "end": 1305.96,
+      "text": "but if you keep it for a few days, it becomes smelly."
+    },
+    {
+      "start": 1305.96,
+      "end": 1312.96,
+      "text": "And urine is a very good medicine which works for most illnesses."
+    },
+    {
+      "start": 1312.96,
+      "end": 1317.96,
+      "text": "For most illnesses we take it, it does work."
+    },
+    {
+      "start": 1317.96,
+      "end": 1324.96,
+      "text": "Then the later part of the sutra talks about how to practice the air thoughts of a great man."
+    },
+    {
+      "start": 1324.96,
+      "end": 1328.96,
+      "text": "A great man is a Mahapurisa."
+    },
+    {
+      "start": 1328.96,
+      "end": 1335.96,
+      "text": "The first one is the dhamma is for one who wants little or few ones."
+    },
+    {
+      "start": 1335.96,
+      "end": 1348.96,
+      "text": "And it is said because a monk has few ones, he does not want people to know that he has a good practice."
+    },
+    {
+      "start": 1348.96,
+      "end": 1352.96,
+      "text": "He's not one who blows his trumpet, he's being modest."
+    },
+    {
+      "start": 1352.96,
+      "end": 1356.96,
+      "text": "So he does not want people to know his accomplishments."
+    },
+    {
+      "start": 1356.96,
+      "end": 1362.96,
+      "text": "There's basically what is meant by a person who, by a monk who has few ones."
+    },
+    {
+      "start": 1362.96,
+      "end": 1367.96,
+      "text": "The second one, he's contented, means he's contented with his requisites, whatever,"
+    },
+    {
+      "start": 1367.96,
+      "end": 1375.96,
+      "text": "rope, arms, food, lodging, medicine that he's given, he's satisfied, contented."
+    },
+    {
+      "start": 1375.96,
+      "end": 1386.96,
+      "text": "And then the practice of aloofness is among wealth usually in seclusion or in a secluded monastery."
+    },
+    {
+      "start": 1386.96,
+      "end": 1393.96,
+      "text": "And when lay people or even monastics come to talk to him, then he limits his talk"
+    },
+    {
+      "start": 1393.96,
+      "end": 1400.96,
+      "text": "so that he can go aside to practice meditation."
+    },
+    {
+      "start": 1400.96,
+      "end": 1403.96,
+      "text": "That is what is meant by being aloof."
+    },
+    {
+      "start": 1403.96,
+      "end": 1407.96,
+      "text": "There are two types of aloofness or seclusion."
+    },
+    {
+      "start": 1407.96,
+      "end": 1409.96,
+      "text": "One is bodily seclusion."
+    },
+    {
+      "start": 1409.96,
+      "end": 1412.96,
+      "text": "In this case, we're talking about bodily seclusion."
+    },
+    {
+      "start": 1412.96,
+      "end": 1421.96,
+      "text": "Another one is mental seclusion where a monk practices to get rid himself of the defilements."
+    },
+    {
+      "start": 1421.96,
+      "end": 1429.96,
+      "text": "And if he rid himself of the defilements, then that is mental seclusion."
+    },
+    {
+      "start": 1429.96,
+      "end": 1433.96,
+      "text": "And then after that, this dhamma is for the energetic."
+    },
+    {
+      "start": 1433.96,
+      "end": 1442.96,
+      "text": "And it's stated here, energetic means he practices to get rid of unwholesome states"
+    },
+    {
+      "start": 1442.96,
+      "end": 1445.96,
+      "text": "and to take the wholesome states."
+    },
+    {
+      "start": 1445.96,
+      "end": 1452.96,
+      "text": "For this wholesome states and unwholesome states refer to the mental states."
+    },
+    {
+      "start": 1452.96,
+      "end": 1458.96,
+      "text": "And if we want to get rid of unwholesome states and to attain the wholesome states,"
+    },
+    {
+      "start": 1458.96,
+      "end": 1461.96,
+      "text": "we have to watch our mind all the time."
+    },
+    {
+      "start": 1461.96,
+      "end": 1467.96,
+      "text": "Watching the mind is more important than watching the body."
+    },
+    {
+      "start": 1467.96,
+      "end": 1474.96,
+      "text": "And the practice of meditation or contemplation is always to watch these two things."
+    },
+    {
+      "start": 1474.96,
+      "end": 1477.96,
+      "text": "Watch the mind and watch the body."
+    },
+    {
+      "start": 1477.96,
+      "end": 1482.96,
+      "text": "But the mind is more important because the ego arises in the mind."
+    },
+    {
+      "start": 1482.96,
+      "end": 1486.96,
+      "text": "And practice on meditation is not to watch outside things,"
+    },
+    {
+      "start": 1486.96,
+      "end": 1491.96,
+      "text": "especially the five sense doors of seeing, hearing, smelling, taste and touch."
+    },
+    {
+      "start": 1491.96,
+      "end": 1496.96,
+      "text": "We're not supposed to watch those stated in the suttas."
+    },
+    {
+      "start": 1496.96,
+      "end": 1501.96,
+      "text": "This dhamma is for one who sets up mindfulness, not for one who is unmindful."
+    },
+    {
+      "start": 1501.96,
+      "end": 1508.96,
+      "text": "And here it is stated, he's endowed in the highest degree with intentness of mind and recollection."
+    },
+    {
+      "start": 1508.96,
+      "end": 1513.96,
+      "text": "He recollects and calls to mind both the doings and sayings of long ago."
+    },
+    {
+      "start": 1514.96,
+      "end": 1524.96,
+      "text": "In the suttas, the definition of sati is always the ability to recall what you have done and said a long time ago."
+    },
+    {
+      "start": 1524.96,
+      "end": 1530.96,
+      "text": "So this word sati, we always know sati as mindfulness."
+    },
+    {
+      "start": 1530.96,
+      "end": 1534.96,
+      "text": "But we have to be very careful because there is only a translation."
+    },
+    {
+      "start": 1534.96,
+      "end": 1539.96,
+      "text": "The real word sati means the ability to remember."
+    },
+    {
+      "start": 1539.96,
+      "end": 1548.96,
+      "text": "And in meditation, what we have to remember is to contemplate the nature of body and mind."
+    },
+    {
+      "start": 1548.96,
+      "end": 1552.96,
+      "text": "That's one aspect, contemplate the nature of body and mind."
+    },
+    {
+      "start": 1552.96,
+      "end": 1557.96,
+      "text": "Not on external things to put your mindfulness on body and mind"
+    },
+    {
+      "start": 1557.96,
+      "end": 1562.96,
+      "text": "because that is the source of the five khandhas."
+    },
+    {
+      "start": 1562.96,
+      "end": 1564.96,
+      "text": "That is one thing."
+    },
+    {
+      "start": 1564.96,
+      "end": 1568.96,
+      "text": "The other thing is when you are contemplating body and mind,"
+    },
+    {
+      "start": 1568.96,
+      "end": 1578.96,
+      "text": "you have to be with the present, stay with the present, not running into the past or into the future by thinking."
+    },
+    {
+      "start": 1578.96,
+      "end": 1583.96,
+      "text": "You're not supposed to be thinking when we are practicing contemplation."
+    },
+    {
+      "start": 1583.96,
+      "end": 1594.96,
+      "text": "And also the other thing we have to remember when we practice sati is to remember that this body and this mind is not I, not mine, not myself."
+    },
+    {
+      "start": 1594.96,
+      "end": 1602.96,
+      "text": "To try to see that the body and mind is not self, basically."
+    },
+    {
+      "start": 1602.96,
+      "end": 1608.96,
+      "text": "And then the next one, this dhamma is for the concentrated, not for the unconcentrated."
+    },
+    {
+      "start": 1608.96,
+      "end": 1615.96,
+      "text": "And here the Buddha defines a person who is concentrated as one who attains the four jhanas."
+    },
+    {
+      "start": 1615.96,
+      "end": 1621.96,
+      "text": "Usually the definition of samadhi concentration is the four jhanas."
+    },
+    {
+      "start": 1621.96,
+      "end": 1628.96,
+      "text": "Sometimes it is said to be one-pointedness of mind, which means even the first jhana."
+    },
+    {
+      "start": 1628.96,
+      "end": 1630.96,
+      "text": "Even the first jhana."
+    },
+    {
+      "start": 1630.96,
+      "end": 1639.96,
+      "text": "But generally the four jhanas are necessary because it is stated in the sutras that when a person attains the fourth jhana,"
+    },
+    {
+      "start": 1639.96,
+      "end": 1644.96,
+      "text": "then things become very clear to him."
+    },
+    {
+      "start": 1644.96,
+      "end": 1655.96,
+      "text": "Yathabhuta, Niyanad, Yathabhuta, Vipa, Sisung, he sees things as they really are."
+    },
+    {
+      "start": 1655.96,
+      "end": 1660.96,
+      "text": "And that is at the state of the fourth jhana."
+    },
+    {
+      "start": 1660.96,
+      "end": 1667.96,
+      "text": "But some people, because they have a lot of wisdom, they are very sharp."
+    },
+    {
+      "start": 1667.96,
+      "end": 1672.96,
+      "text": "Even by attaining the first jhana, they can attain."
+    },
+    {
+      "start": 1672.96,
+      "end": 1675.96,
+      "text": "And then after that, this dhamma is for the wise."
+    },
+    {
+      "start": 1675.96,
+      "end": 1684.96,
+      "text": "And the wise is defined as a person who understands the way, the nature of arising and seizing of everything in the world."
+    },
+    {
+      "start": 1684.96,
+      "end": 1689.96,
+      "text": "Everything in the world arises and passes away because of impermanence."
+    },
+    {
+      "start": 1689.96,
+      "end": 1693.96,
+      "text": "And so he understands the nature of impermanence."
+    },
+    {
+      "start": 1693.96,
+      "end": 1701.96,
+      "text": "And so he understands the nature of dukkha because impermanence brings about dukkha."
+    },
+    {
+      "start": 1701.96,
+      "end": 1706.96,
+      "text": "Then this dhamma is for the compost, not for the scatterbrain."
+    },
+    {
+      "start": 1706.96,
+      "end": 1711.96,
+      "text": "I have used this translation scatterbrain."
+    },
+    {
+      "start": 1711.96,
+      "end": 1715.96,
+      "text": "The Pali word has to do with papancha."
+    },
+    {
+      "start": 1715.96,
+      "end": 1717.96,
+      "text": "It means a proliferation of the mind."
+    },
+    {
+      "start": 1717.96,
+      "end": 1721.96,
+      "text": "It means a person who uses the mind a lot."
+    },
+    {
+      "start": 1721.96,
+      "end": 1725.96,
+      "text": "Because you have one pot and it multiplies."
+    },
+    {
+      "start": 1725.96,
+      "end": 1728.96,
+      "text": "That's the meaning of papancha, proliferation."
+    },
+    {
+      "start": 1728.96,
+      "end": 1737.96,
+      "text": "And to overcome that proliferation of the mind, we have to practice samadhi."
+    },
+    {
+      "start": 1737.96,
+      "end": 1746.96,
+      "text": "Because it is stated in the Saka Panha Sutra, that thinking, there is a happiness associated with thinking."
+    },
+    {
+      "start": 1746.96,
+      "end": 1750.96,
+      "text": "We like to think, generally people like to think and like to imagine."
+    },
+    {
+      "start": 1750.96,
+      "end": 1752.96,
+      "text": "That's why we like to see TV."
+    },
+    {
+      "start": 1752.96,
+      "end": 1756.96,
+      "text": "I like to see shows and all that because there's a story."
+    },
+    {
+      "start": 1756.96,
+      "end": 1762.96,
+      "text": "And so that's because of thinking."
+    },
+    {
+      "start": 1762.96,
+      "end": 1764.96,
+      "text": "We get that delight and happiness."
+    },
+    {
+      "start": 1764.96,
+      "end": 1767.96,
+      "text": "But the Buddha said there is a higher happiness."
+    },
+    {
+      "start": 1767.96,
+      "end": 1774.96,
+      "text": "And the higher happiness is the happiness that comes from a state of no thinking."
+    },
+    {
+      "start": 1774.96,
+      "end": 1779.96,
+      "text": "In the state of no thinking is actually the state of the second jhana."
+    },
+    {
+      "start": 1779.96,
+      "end": 1784.96,
+      "text": "The state of the second jhana is also called the state of the Aryan silence."
+    },
+    {
+      "start": 1784.96,
+      "end": 1787.96,
+      "text": "Where Vittaka and Vichara has ceased."
+    },
+    {
+      "start": 1787.96,
+      "end": 1789.96,
+      "text": "And you have piti and sukha."
+    },
+    {
+      "start": 1789.96,
+      "end": 1795.96,
+      "text": "Piti and sukha is delight and pleasure, which is a higher form of happiness."
+    },
+    {
+      "start": 1795.96,
+      "end": 1803.96,
+      "text": "Then the happiness you get from thinking and imagining and daydreaming, etc."
+    },
+    {
+      "start": 1803.96,
+      "end": 1811.96,
+      "text": "So only then can you let go of that happiness of thinking and you don't think so much."
+    },
+    {
+      "start": 1811.96,
+      "end": 1816.96,
+      "text": "So these are the ways of practicing the eight thoughts of a great man."
+    },
+    {
+      "start": 1816.96,
+      "end": 1821.96,
+      "text": "And they are very practical advice."
+    },
+    {
+      "start": 1821.96,
+      "end": 1828.59,
+      "text": "The next Buddha is 8.4.35 months."
+    },
+    {
+      "start": 1828.59,
+      "end": 1831.59,
+      "text": "There are these eight rebirths due to making gifts."
+    },
+    {
+      "start": 1831.59,
+      "end": 1832.59,
+      "text": "What eight?"
+    },
+    {
+      "start": 1832.59,
+      "end": 1844.59,
+      "text": "Here in monks, a man makes a gift to a recluse of Brahmin in the shape of fruit, drink, clothes, vehicle, flowers, sand, ointment, bedding, dwelling and lights."
+    },
+    {
+      "start": 1844.59,
+      "end": 1847.59,
+      "text": "He gives hoping for a return."
+    },
+    {
+      "start": 1847.59,
+      "end": 1856.59,
+      "text": "He sees wealthy nobles, Brahmins and householders surrounded by, attended by, enjoying the five strands of sensual pleasure."
+    },
+    {
+      "start": 1856.59,
+      "end": 1865.59,
+      "text": "And he thinks, ah, if only I can be reborn among them on the breaking up of the body after death."
+    },
+    {
+      "start": 1865.59,
+      "end": 1872.59,
+      "text": "And he fixes his mind on this thought, directs his attention to it and makes the thought become."
+    },
+    {
+      "start": 1872.59,
+      "end": 1877.59,
+      "text": "His mind set on low things is not made to become for the beyond."
+    },
+    {
+      "start": 1877.59,
+      "end": 1882.59,
+      "text": "And he is reborn after death among the wealthy men."
+    },
+    {
+      "start": 1882.59,
+      "end": 1887.59,
+      "text": "And I say this of the virtuous, not of the vicious monks."
+    },
+    {
+      "start": 1887.59,
+      "end": 1892.59,
+      "text": "The mental aspiration of the virtuous prospers because of its purity."
+    },
+    {
+      "start": 1892.59,
+      "end": 1898.59,
+      "text": "Then again monks, a man making a similar gift and expecting a return,"
+    },
+    {
+      "start": 1898.59,
+      "end": 1907.59,
+      "text": "hearing that the company of the four royal devas, a long lived, beautiful and very happy, might wish to be reborn among them."
+    },
+    {
+      "start": 1907.59,
+      "end": 1911.59,
+      "text": "Or among the devas of the 33 Tava Timsa heaven."
+    },
+    {
+      "start": 1911.59,
+      "end": 1914.59,
+      "text": "Or among the Yama devas."
+    },
+    {
+      "start": 1914.59,
+      "end": 1916.59,
+      "text": "Or among the Tussita devas."
+    },
+    {
+      "start": 1916.59,
+      "end": 1919.59,
+      "text": "Or among the devas who delight in creating."
+    },
+    {
+      "start": 1919.59,
+      "end": 1924.59,
+      "text": "Or among the devas who have power over others' creations."
+    },
+    {
+      "start": 1924.59,
+      "end": 1930.59,
+      "text": "He fixes his mind on this thought, directs his attention to it and makes the thought become."
+    },
+    {
+      "start": 1930.59,
+      "end": 1935.59,
+      "text": "His mind set on low things is not made to become for the beyond."
+    },
+    {
+      "start": 1935.59,
+      "end": 1939.59,
+      "text": "And he is reborn after death among those devas."
+    },
+    {
+      "start": 1939.59,
+      "end": 1944.59,
+      "text": "And I say this of the virtuous, not of the vicious monks."
+    },
+    {
+      "start": 1944.59,
+      "end": 1949.59,
+      "text": "The mental aspiration of the virtuous prospers because of its purity."
+    },
+    {
+      "start": 1949.59,
+      "end": 1955.59,
+      "text": "Or hearing that the devas of Brahma's retinue, a long lived, beautiful and very happy,"
+    },
+    {
+      "start": 1955.59,
+      "end": 1957.59,
+      "text": "he might wish to be reborn among them."
+    },
+    {
+      "start": 1957.59,
+      "end": 1959.59,
+      "text": "And he fixes his mind thereon."
+    },
+    {
+      "start": 1959.59,
+      "end": 1963.59,
+      "text": "And he is reborn after death among those devas."
+    },
+    {
+      "start": 1963.59,
+      "end": 1966.59,
+      "text": "And I say this of the virtuous, not of the vicious."
+    },
+    {
+      "start": 1966.59,
+      "end": 1970.59,
+      "text": "Of him who is rid of lust, not of him who lusts."
+    },
+    {
+      "start": 1970.59,
+      "end": 1976.59,
+      "text": "For the mental aspiration of the virtuous monks, prospers because of its lustlessness."
+    },
+    {
+      "start": 1976.59,
+      "end": 1983.59,
+      "text": "Monks, these are the eight rebirths due to making gifts at the end of the Sutta."
+    },
+    {
+      "start": 1983.59,
+      "end": 1996.59,
+      "text": "So here the Buddha is saying that a person, a virtuous person, makes offerings to recluses and Brahmins."
+    },
+    {
+      "start": 1996.59,
+      "end": 2001.59,
+      "text": "And then he gives hoping to get something in return."
+    },
+    {
+      "start": 2001.59,
+      "end": 2009.59,
+      "text": "And he makes an aspiration to be born as a wealthy man or as a deva."
+    },
+    {
+      "start": 2009.59,
+      "end": 2018.59,
+      "text": "And because he is virtuous, his aspiration subsides and he is born among them."
+    },
+    {
+      "start": 2018.59,
+      "end": 2022.59,
+      "text": "But this the Buddha said, his mind is set on low things."
+    },
+    {
+      "start": 2022.59,
+      "end": 2028.59,
+      "text": "That means low things means he wants to be reborn."
+    },
+    {
+      "start": 2028.59,
+      "end": 2035.59,
+      "text": "So he does not go beyond."
+    },
+    {
+      "start": 2035.59,
+      "end": 2038.59,
+      "text": "Beyond means out of this world."
+    },
+    {
+      "start": 2038.59,
+      "end": 2046.59,
+      "text": "Whereas if a person makes a gift without any selfish thought of getting something in return,"
+    },
+    {
+      "start": 2046.59,
+      "end": 2050.59,
+      "text": "then he practices selflessly."
+    },
+    {
+      "start": 2050.59,
+      "end": 2058.59,
+      "text": "And then there is a chance for him to go to the beyond because the beyond is selfless."
+    },
+    {
+      "start": 2058.59,
+      "end": 2066.59,
+      "text": "So it is not wise when we make an offering, when we make charity to think of getting something in return."
+    }
+  ]
+}

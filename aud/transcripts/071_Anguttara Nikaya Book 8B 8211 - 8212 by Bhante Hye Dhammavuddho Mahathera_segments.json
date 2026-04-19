@@ -1,0 +1,2665 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 2494.612625,
+  "segments": [
+    {
+      "start": 0.91,
+      "end": 4.91,
+      "text": "The next Uttar is 8.2.11."
+    },
+    {
+      "start": 4.91,
+      "end": 12.91,
+      "text": "Once the Exalted One was dwelling near Varanjha at the foot of Naliru's nimba tree,"
+    },
+    {
+      "start": 12.91,
+      "end": 21.91,
+      "text": "there came to Him a Brahmin of Varanjha who, after exchanging the usual complimentary greetings, sat down at one side."
+    },
+    {
+      "start": 21.91,
+      "end": 25.91,
+      "text": "So seated, the Brahmin spoke thus to the Exalted One."
+    },
+    {
+      "start": 25.91,
+      "end": 32.91,
+      "text": "Master Gautama, I have heard that the recluse Gautama neither salutes nor rises up for,"
+    },
+    {
+      "start": 32.91,
+      "end": 40.91,
+      "text": "nor offers a seat to venerable and aged Brahmins who arrive in years old and have attained to seniority."
+    },
+    {
+      "start": 40.91,
+      "end": 43.91,
+      "text": "And this is precisely the case, Master Gautama."
+    },
+    {
+      "start": 43.91,
+      "end": 47.91,
+      "text": "Master Gautama does not salute venerable and aged Brahmins."
+    },
+    {
+      "start": 47.91,
+      "end": 51.91,
+      "text": "This is not right, Master Gautama and the Buddha said."
+    },
+    {
+      "start": 51.91,
+      "end": 62.91,
+      "text": "I see no one in the world of gods with its maras and brahmas or in the world of mankind with its recluses and Brahmins, devas and men,"
+    },
+    {
+      "start": 62.91,
+      "end": 67.91,
+      "text": "whom I should salute, rise up for, or to whom I should offer a seat."
+    },
+    {
+      "start": 67.91,
+      "end": 74.91,
+      "text": "Moreover, Brahmin, whom the Tathagata should salute, rise up for, or to whom he should offer a seat,"
+    },
+    {
+      "start": 74.91,
+      "end": 77.91,
+      "text": "thoroughly his head would split in two."
+    },
+    {
+      "start": 77.91,
+      "end": 81.91,
+      "text": "And the Brahmin said, Master Gautama lacks taste."
+    },
+    {
+      "start": 81.91,
+      "end": 89.91,
+      "text": "And the Buddha said, this is the reason, Brahmin, by which one would be right in saying the recluse Gautama lacks taste."
+    },
+    {
+      "start": 89.91,
+      "end": 98.91,
+      "text": "Brahmin, taste for forms, taste for sounds, taste for smells, taste for flavors, and taste for things tangible."
+    },
+    {
+      "start": 98.91,
+      "end": 104.91,
+      "text": "So these are abandoned by the Tathagata, cut off at the root, made like palm tree stumps,"
+    },
+    {
+      "start": 104.91,
+      "end": 110.91,
+      "text": "made such that they have ceased to be, so that they cannot grow up again in the future."
+    },
+    {
+      "start": 110.91,
+      "end": 117.91,
+      "text": "This is indeed the reason, Brahmin, by which one would be right in saying the recluse Gautama lacks taste,"
+    },
+    {
+      "start": 117.91,
+      "end": 120.91,
+      "text": "but not for sooth in the way you mean."
+    },
+    {
+      "start": 120.91,
+      "end": 125.91,
+      "text": "And the Brahmin said, Master Gautama is against enjoyment."
+    },
+    {
+      "start": 125.91,
+      "end": 132.91,
+      "text": "This is the reason, Brahmin, by which one would be right in saying the recluse Gautama is against enjoyment."
+    },
+    {
+      "start": 132.91,
+      "end": 139.91,
+      "text": "Brahmin, the enjoyment of forms, the enjoyment of sounds, the enjoyment of smells, the enjoyment of flavors,"
+    },
+    {
+      "start": 139.91,
+      "end": 142.91,
+      "text": "and the enjoyment of things tangible."
+    },
+    {
+      "start": 142.91,
+      "end": 148.91,
+      "text": "These by the Tathagata are abandoned, cut off at the root, made like palm tree stumps,"
+    },
+    {
+      "start": 148.91,
+      "end": 153.91,
+      "text": "made such that they have ceased to be, so that they cannot grow up again in the future."
+    },
+    {
+      "start": 153.91,
+      "end": 160.91,
+      "text": "Rightly one might say, the recluse Gautama is against enjoyment, but not in the way you mean."
+    },
+    {
+      "start": 160.91,
+      "end": 165.91,
+      "text": "And the Brahmin said, Master Gautama affirms the theory of inaction."
+    },
+    {
+      "start": 165.91,
+      "end": 173.91,
+      "text": "And the Buddha said, Brahmin, I declare abstinence from action in respect to misconduct in deed, word, and thought."
+    },
+    {
+      "start": 173.91,
+      "end": 177.91,
+      "text": "I proclaim inaction in respect of all evil and sinful conditions."
+    },
+    {
+      "start": 177.91,
+      "end": 184.91,
+      "text": "Rightly one might say, the recluse Gautama affirms the theory of inaction, but not in the way you mean."
+    },
+    {
+      "start": 184.91,
+      "end": 189.91,
+      "text": "And again the Brahmin said, Master Gautama is an annihilationist."
+    },
+    {
+      "start": 189.91,
+      "end": 195.91,
+      "text": "And the Buddha said, Brahmin, I declare the cutting off of lust, hatred, and delusion."
+    },
+    {
+      "start": 195.91,
+      "end": 199.91,
+      "text": "I proclaim the annihilation of all evil and sinful conditions."
+    },
+    {
+      "start": 199.91,
+      "end": 206.91,
+      "text": "Rightly one might say, the recluse Gautama is an annihilationist, but not in the way you mean."
+    },
+    {
+      "start": 207.91,
+      "end": 211.91,
+      "text": "The Brahmin said, Master Gautama feels abhorrence."
+    },
+    {
+      "start": 211.91,
+      "end": 217.91,
+      "text": "And the Buddha said, Brahmin, I abhor misconduct in deed, word, and thought."
+    },
+    {
+      "start": 217.91,
+      "end": 222.91,
+      "text": "I abhor entertaining all evil and sinful conditions."
+    },
+    {
+      "start": 222.91,
+      "end": 228.91,
+      "text": "Rightly one might say, the recluse Gautama feels abhorrence, but not in the way you mean."
+    },
+    {
+      "start": 228.91,
+      "end": 233.91,
+      "text": "The Brahmin said, Master Gautama is an abolitionist."
+    },
+    {
+      "start": 233.91,
+      "end": 239.91,
+      "text": "And the Buddha said, Brahmin, I preach the doctrine of abolishing lust, hatred, and delusion."
+    },
+    {
+      "start": 239.91,
+      "end": 244.91,
+      "text": "I teach the dhamma of abolishing all evil and sinful conditions."
+    },
+    {
+      "start": 244.91,
+      "end": 251.91,
+      "text": "Rightly one may say, the recluse Gautama is an abolitionist, but not in the way you mean."
+    },
+    {
+      "start": 251.91,
+      "end": 256.91,
+      "text": "The Brahmin said, Master Gautama is given to modification."
+    },
+    {
+      "start": 256.91,
+      "end": 262.91,
+      "text": "And the Buddha said, Brahmin, I proclaim that evil and sinful conditions"
+    },
+    {
+      "start": 262.91,
+      "end": 264.91,
+      "text": "should be modified."
+    },
+    {
+      "start": 264.91,
+      "end": 267.91,
+      "text": "Yes, misconduct in deed, word, and thought."
+    },
+    {
+      "start": 267.91,
+      "end": 272.91,
+      "text": "Verily, whosoever has abandoned, rooted out, made by palm tree stumps,"
+    },
+    {
+      "start": 272.91,
+      "end": 276.91,
+      "text": "has caused not to be, has so conditioned that they rise not again."
+    },
+    {
+      "start": 276.91,
+      "end": 279.91,
+      "text": "Evil and sinful conditions which should be modified."
+    },
+    {
+      "start": 279.91,
+      "end": 282.91,
+      "text": "He, I say, is given to modification."
+    },
+    {
+      "start": 282.91,
+      "end": 287.91,
+      "text": "Brahmin, the Tathagata has abandoned, rooted out all such conditions."
+    },
+    {
+      "start": 287.91,
+      "end": 292.91,
+      "text": "Rightly one may say, the recluse Gautama is given to modification,"
+    },
+    {
+      "start": 292.91,
+      "end": 294.91,
+      "text": "but not in the way you mean."
+    },
+    {
+      "start": 294.91,
+      "end": 298.91,
+      "text": "And the Brahmin said, Master Gautama is against rebirth."
+    },
+    {
+      "start": 298.91,
+      "end": 303.91,
+      "text": "And the Buddha said, this is the reason, Brahmin, by which one would be right in saying,"
+    },
+    {
+      "start": 303.91,
+      "end": 306.91,
+      "text": "the recluse Gautama is against rebirth."
+    },
+    {
+      "start": 306.91,
+      "end": 311.91,
+      "text": "Verily, whosoever has abandoned, cut off at the root for the future."
+    },
+    {
+      "start": 311.91,
+      "end": 315.91,
+      "text": "He sent into the womb, renewed, becoming a rebirth."
+    },
+    {
+      "start": 315.91,
+      "end": 317.91,
+      "text": "He, I say, is against rebirth."
+    },
+    {
+      "start": 317.91,
+      "end": 320.91,
+      "text": "The Tathagata Brahmin has already done."
+    },
+    {
+      "start": 320.91,
+      "end": 324.91,
+      "text": "This is indeed the reason, Brahmin, by which one would be right in saying,"
+    },
+    {
+      "start": 324.91,
+      "end": 329.91,
+      "text": "the recluse Gautama is against rebirth, but not in the way you mean."
+    },
+    {
+      "start": 329.91,
+      "end": 334.91,
+      "text": "Brahmin, it is just as if a sitting of eight or ten or a dozen hen's eggs"
+    },
+    {
+      "start": 334.91,
+      "end": 338.91,
+      "text": "were fully set upon, fully warmed, and fully made become."
+    },
+    {
+      "start": 338.91,
+      "end": 342.91,
+      "text": "And of those young chicks, the one which before all the rest,"
+    },
+    {
+      "start": 342.91,
+      "end": 347.91,
+      "text": "broke the egg shell with its spike claws or with its beak and hatched out safely,"
+    },
+    {
+      "start": 347.91,
+      "end": 352.91,
+      "text": "how would you term it the oldest, the eldest or the youngest?"
+    },
+    {
+      "start": 352.91,
+      "end": 355.91,
+      "text": "One would say it was the eldest Master Gautama."
+    },
+    {
+      "start": 355.91,
+      "end": 359.91,
+      "text": "Certainly Master Gautama is the eldest of them."
+    },
+    {
+      "start": 359.91,
+      "end": 362.91,
+      "text": "Even so, Brahmin, when I, for the sake of mankind,"
+    },
+    {
+      "start": 362.91,
+      "end": 368.91,
+      "text": "enveloped in ignorance as it were, egg-borne, had broken the egg shell of ignorance,"
+    },
+    {
+      "start": 368.91,
+      "end": 374.91,
+      "text": "I alone in the world was fully awake to unsurpassed and complete awakening."
+    },
+    {
+      "start": 374.91,
+      "end": 378.91,
+      "text": "Verily, Brahmin, I was the eldest and the best in the world."
+    },
+    {
+      "start": 378.91,
+      "end": 383.91,
+      "text": "Moreover, Brahmin, I was resolute, full of energy, active, upright, intent,"
+    },
+    {
+      "start": 383.91,
+      "end": 390.91,
+      "text": "and not forgetful, tranquil within my being, unperturbed, collected and composed in mind."
+    },
+    {
+      "start": 390.91,
+      "end": 395.91,
+      "text": "Verily, Brahmin, aloof from sense desires, aloof from unwholesome states,"
+    },
+    {
+      "start": 395.91,
+      "end": 400.91,
+      "text": "I entered and abode in the first jhana, which is accompanied by applied and sustained thought,"
+    },
+    {
+      "start": 400.91,
+      "end": 403.91,
+      "text": "with delight and pleasure, born of solitude."
+    },
+    {
+      "start": 403.91,
+      "end": 408.91,
+      "text": "With the stilling of applied and sustained thought, I entered and abode in the second jhana,"
+    },
+    {
+      "start": 408.91,
+      "end": 412.91,
+      "text": "which has internal self-confidence and singleness of mind,"
+    },
+    {
+      "start": 412.91,
+      "end": 418.91,
+      "text": "without applied and sustained thought, with delight and pleasure, born of concentration."
+    },
+    {
+      "start": 418.91,
+      "end": 423.91,
+      "text": "With the fading away of delight, I entered and abode in the third jhana,"
+    },
+    {
+      "start": 423.91,
+      "end": 431.91,
+      "text": "equanimous, mindful and aware, and I experience in my body the pleasure whereof the Aryans declare,"
+    },
+    {
+      "start": 431.91,
+      "end": 435.91,
+      "text": "the equanimous and mindful, as a joyful abiding."
+    },
+    {
+      "start": 435.91,
+      "end": 442.91,
+      "text": "By the abandoning of bodily pleasure and bodily pain, by the passing away of joy and grief,"
+    },
+    {
+      "start": 442.91,
+      "end": 452.91,
+      "text": "I entered and abode in the fourth jhana, a state of utter purity of mindfulness and equanimity."
+    },
+    {
+      "start": 452.91,
+      "end": 458.91,
+      "text": "Free of pain and pleasure, with heart thus serene, purified, cleansed, without blemish,"
+    },
+    {
+      "start": 458.91,
+      "end": 463.91,
+      "text": "devoid of defilement, supple, ready to act, firm and imperturbable,"
+    },
+    {
+      "start": 463.91,
+      "end": 468.91,
+      "text": "I bend the mind so that I might know and call to mind previous lives."
+    },
+    {
+      "start": 468.91,
+      "end": 475.91,
+      "text": "I call to mind diverse, formal lives, that is to say, one birth or two or three or four or five,"
+    },
+    {
+      "start": 475.91,
+      "end": 481.91,
+      "text": "or ten or twenty or thirty or forty or fifty or a hundred or a thousand or a hundred thousand,"
+    },
+    {
+      "start": 481.91,
+      "end": 485.91,
+      "text": "or many an age of rolling on, or many an age of rolling back,"
+    },
+    {
+      "start": 485.91,
+      "end": 489.91,
+      "text": "or many an age of both rolling on and rolling back."
+    },
+    {
+      "start": 489.91,
+      "end": 494.91,
+      "text": "Such a one I was by name, of such a clan, of such a caste, such was my food,"
+    },
+    {
+      "start": 494.91,
+      "end": 499.91,
+      "text": "such my experience of will and war, such was the end of my life."
+    },
+    {
+      "start": 499.91,
+      "end": 502.91,
+      "text": "Passing away then arose in such a place."
+    },
+    {
+      "start": 502.91,
+      "end": 507.91,
+      "text": "There such was my name, such my clan, such my caste, such my food,"
+    },
+    {
+      "start": 507.91,
+      "end": 510.91,
+      "text": "such my experience of will and war, such my end."
+    },
+    {
+      "start": 510.91,
+      "end": 513.91,
+      "text": "Passing away from there I arose here."
+    },
+    {
+      "start": 513.91,
+      "end": 518.91,
+      "text": "Thus many a previous life I call to mind with its circumstances and details."
+    },
+    {
+      "start": 518.91,
+      "end": 523.91,
+      "text": "This Brahmin was the first knowledge attained by me in the first watch of the night."
+    },
+    {
+      "start": 523.91,
+      "end": 526.91,
+      "text": "Ignorance being removed, knowledge arose."
+    },
+    {
+      "start": 526.91,
+      "end": 529.91,
+      "text": "Darkness being removed, light arose."
+    },
+    {
+      "start": 529.91,
+      "end": 532.91,
+      "text": "As a broad, strenuous, earnest and resolute,"
+    },
+    {
+      "start": 532.91,
+      "end": 538.91,
+      "text": "this Brahmin was my first hatching like a young chicks from the egg shell."
+    },
+    {
+      "start": 538.91,
+      "end": 542.91,
+      "text": "With heart thus serene, purified, cleansed, without blemish,"
+    },
+    {
+      "start": 542.91,
+      "end": 547.91,
+      "text": "devoid of defilement, supple, ready to act, firm and imperturbable,"
+    },
+    {
+      "start": 547.91,
+      "end": 552.91,
+      "text": "I bend the mind so that I might discern the passing away and reappearance of beings."
+    },
+    {
+      "start": 552.91,
+      "end": 556.91,
+      "text": "With the deva I, purified and surpassing the human I,"
+    },
+    {
+      "start": 556.91,
+      "end": 560.91,
+      "text": "I saw and I knew beings in cause or fearing on,"
+    },
+    {
+      "start": 560.91,
+      "end": 565.91,
+      "text": "beings lowly and exalted, beautiful and ugly, happy and in war,"
+    },
+    {
+      "start": 565.91,
+      "end": 567.91,
+      "text": "according to their deeds."
+    },
+    {
+      "start": 567.91,
+      "end": 572.91,
+      "text": "And I thought, these wordies were given over to evil practices in deed,"
+    },
+    {
+      "start": 572.91,
+      "end": 575.91,
+      "text": "word and thought, who are the vilest of the Aryans,"
+    },
+    {
+      "start": 575.91,
+      "end": 580.91,
+      "text": "holders of wrong views, men who have acquired this karma from wrong views,"
+    },
+    {
+      "start": 580.91,
+      "end": 583.91,
+      "text": "and on the breaking up of the body after death,"
+    },
+    {
+      "start": 583.91,
+      "end": 587.91,
+      "text": "have arisen in the untoward way, the ill-way, the abyss, hell."
+    },
+    {
+      "start": 587.91,
+      "end": 591.91,
+      "text": "But these good-sers behave rightly in deed, word and thought,"
+    },
+    {
+      "start": 591.91,
+      "end": 594.91,
+      "text": "who are no rivalers of the Aryans,"
+    },
+    {
+      "start": 594.91,
+      "end": 598.91,
+      "text": "hell-right views and have acquired this karma therefrom,"
+    },
+    {
+      "start": 598.91,
+      "end": 601.91,
+      "text": "and on the breaking up of the body after death,"
+    },
+    {
+      "start": 601.91,
+      "end": 604.91,
+      "text": "have arisen in the blissful heaven world."
+    },
+    {
+      "start": 604.91,
+      "end": 609.91,
+      "text": "Thus with the deva I, I saw and knew beings in cause or fearing on,"
+    },
+    {
+      "start": 609.91,
+      "end": 612.91,
+      "text": "this Brahmin was the second knowledge attained by me"
+    },
+    {
+      "start": 612.91,
+      "end": 614.91,
+      "text": "in the second watch of the night."
+    },
+    {
+      "start": 614.91,
+      "end": 617.91,
+      "text": "Ignorance being removed, knowledge arose,"
+    },
+    {
+      "start": 617.91,
+      "end": 620.91,
+      "text": "darkness being removed, light arose,"
+    },
+    {
+      "start": 620.91,
+      "end": 623.91,
+      "text": "as are both strenuous, earnest and resolute."
+    },
+    {
+      "start": 623.91,
+      "end": 628.91,
+      "text": "This Brahmin was my second hatching, like a young chicks from the egg shell."
+    },
+    {
+      "start": 628.91,
+      "end": 633.91,
+      "text": "With heart thus serene, purified, cleansed, spotless, devoid of defilement,"
+    },
+    {
+      "start": 633.91,
+      "end": 636.91,
+      "text": "supple, ready to act, firm and imperturbable,"
+    },
+    {
+      "start": 636.91,
+      "end": 640.91,
+      "text": "I bend the mind so that I might discern the destruction of the asavas."
+    },
+    {
+      "start": 640.91,
+      "end": 644.91,
+      "text": "In its full essence, I comprehended the thought,"
+    },
+    {
+      "start": 644.91,
+      "end": 646.91,
+      "text": "this is dukkha."
+    },
+    {
+      "start": 646.91,
+      "end": 648.91,
+      "text": "In its full essence, I comprehended the thought,"
+    },
+    {
+      "start": 648.91,
+      "end": 650.91,
+      "text": "this is the origin of dukkha."
+    },
+    {
+      "start": 650.91,
+      "end": 652.91,
+      "text": "In its full essence, I comprehended the thought,"
+    },
+    {
+      "start": 652.91,
+      "end": 654.91,
+      "text": "this is the ending of dukkha."
+    },
+    {
+      "start": 654.91,
+      "end": 657.91,
+      "text": "In its full essence, I comprehended the thought,"
+    },
+    {
+      "start": 657.91,
+      "end": 659.91,
+      "text": "this is the way leading to the ending of dukkha."
+    },
+    {
+      "start": 659.91,
+      "end": 662.91,
+      "text": "In its full essence, I comprehended the thought,"
+    },
+    {
+      "start": 662.91,
+      "end": 663.91,
+      "text": "these are the asavas."
+    },
+    {
+      "start": 663.91,
+      "end": 668.91,
+      "text": "Asavas. In its full essence, I comprehended the thought, this is the origin of the Asavas."
+    },
+    {
+      "start": 668.91,
+      "end": 672.91,
+      "text": "In its full essence, I comprehended the thought, this is the ending of the Asavas."
+    },
+    {
+      "start": 672.91,
+      "end": 678.91,
+      "text": "In its full essence, I comprehended the thought, this is the way leading to the ending of the Asavas."
+    },
+    {
+      "start": 678.91,
+      "end": 683.91,
+      "text": "Knowing this, seeing this, my heart was freed from the Asava of sensuality."
+    },
+    {
+      "start": 683.91,
+      "end": 686.91,
+      "text": "My heart was freed from the Asava of becoming."
+    },
+    {
+      "start": 686.91,
+      "end": 689.91,
+      "text": "My heart was freed from the Asava of ignorance."
+    },
+    {
+      "start": 689.91,
+      "end": 693.11,
+      "text": "In my release, there came the knowledge of that release."
+    },
+    {
+      "start": 693.11,
+      "end": 696.61,
+      "text": "I knew both is destroyed and lived is the holy life."
+    },
+    {
+      "start": 696.61,
+      "end": 698.31,
+      "text": "Done is what must be done."
+    },
+    {
+      "start": 698.31,
+      "end": 700.61,
+      "text": "For me, there is no more hereafter."
+    },
+    {
+      "start": 700.61,
+      "end": 705.21,
+      "text": "This Brahmin was the third knowledge attained by me in the third watch of the night."
+    },
+    {
+      "start": 705.21,
+      "end": 708.21,
+      "text": "Ignorance being removed, knowledge arose."
+    },
+    {
+      "start": 708.21,
+      "end": 710.81,
+      "text": "Darkness being removed, light arose."
+    },
+    {
+      "start": 710.81,
+      "end": 713.71,
+      "text": "As I abode strenuous, earnest and resolute."
+    },
+    {
+      "start": 713.71,
+      "end": 718.21,
+      "text": "This Brahmin was my third hatching, like a young chicks from the egg shell."
+    },
+    {
+      "start": 718.61,
+      "end": 723.11,
+      "text": "When he had thus spoken, the Brahmin of Aranya said to the exalted one,"
+    },
+    {
+      "start": 723.11,
+      "end": 725.61,
+      "text": "Master Gautama is indeed the eldest."
+    },
+    {
+      "start": 725.61,
+      "end": 727.91,
+      "text": "Master Gautama is indeed the best."
+    },
+    {
+      "start": 727.91,
+      "end": 730.11,
+      "text": "Wonderful, wonderful Master Gautama,"
+    },
+    {
+      "start": 730.11,
+      "end": 733.81,
+      "text": "just as one might set upright that which has been overturned,"
+    },
+    {
+      "start": 733.81,
+      "end": 737.81,
+      "text": "might reveal the concealed, might point out the way to the blind,"
+    },
+    {
+      "start": 737.81,
+      "end": 740.71,
+      "text": "might bring an oil lamp into the darkness,"
+    },
+    {
+      "start": 740.71,
+      "end": 744.31,
+      "text": "so that those who had eyes might see the forms about them."
+    },
+    {
+      "start": 744.31,
+      "end": 749.11,
+      "text": "Even so has Dhamma been made clear in many a figure by Master Gautama."
+    },
+    {
+      "start": 749.11,
+      "end": 753.51,
+      "text": "To Master Gautama, I go for refuge to the Dhamma and to the Sangha."
+    },
+    {
+      "start": 753.51,
+      "end": 756.31,
+      "text": "Let Master Gautama accept me as a lay disciple,"
+    },
+    {
+      "start": 756.31,
+      "end": 760.21,
+      "text": "as one who has found refuge from this day to life's end."
+    },
+    {
+      "start": 760.21,
+      "end": 764.56,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 764.56,
+      "end": 769.56,
+      "text": "I would just like to commend a few things about this."
+    },
+    {
+      "start": 769.56,
+      "end": 775.46,
+      "text": "Firstly, you notice the Buddha was enlightened at the age of about 35."
+    },
+    {
+      "start": 775.56,
+      "end": 779.06,
+      "text": "At that age, he was comparatively young."
+    },
+    {
+      "start": 779.06,
+      "end": 782.96,
+      "text": "There were many Brahmins and external renunciants"
+    },
+    {
+      "start": 782.96,
+      "end": 786.06,
+      "text": "who were much older than the Buddha at that time."
+    },
+    {
+      "start": 786.06,
+      "end": 789.36,
+      "text": "And because the Buddha was young compared to them,"
+    },
+    {
+      "start": 789.36,
+      "end": 794.86,
+      "text": "they expected the Buddha to pay homage to them, respect them,"
+    },
+    {
+      "start": 794.86,
+      "end": 796.46,
+      "text": "offer them a seat, etc."
+    },
+    {
+      "start": 796.46,
+      "end": 800.86,
+      "text": "But the Buddha did none of these and some of them got annoyed like this Brahmin."
+    },
+    {
+      "start": 800.86,
+      "end": 803.16,
+      "text": "But you notice the Buddha said,"
+    },
+    {
+      "start": 803.16,
+      "end": 807.16,
+      "text": "Brahmin, whom the Tathagata should salute, rise up for,"
+    },
+    {
+      "start": 807.16,
+      "end": 809.26,
+      "text": "or to whom he should offer a seat,"
+    },
+    {
+      "start": 809.26,
+      "end": 812.36,
+      "text": "clearly his head would split in two."
+    },
+    {
+      "start": 812.36,
+      "end": 818.76,
+      "text": "Because of that, the Buddha knew that they did not deserve his respect."
+    },
+    {
+      "start": 818.76,
+      "end": 823.06,
+      "text": "So, I mean his paying homage,"
+    },
+    {
+      "start": 823.06,
+      "end": 827.86,
+      "text": "so he did not salute them, pay homage to them."
+    },
+    {
+      "start": 827.86,
+      "end": 831.66,
+      "text": "And then the other thing you notice was the way the Buddha described"
+    },
+    {
+      "start": 831.76,
+      "end": 833.56,
+      "text": "how he was enlightened."
+    },
+    {
+      "start": 833.56,
+      "end": 839.06,
+      "text": "You notice that he said that he attained the jhanas, the four jhanas,"
+    },
+    {
+      "start": 839.06,
+      "end": 841.76,
+      "text": "one by one he attained the four jhanas."
+    },
+    {
+      "start": 841.76,
+      "end": 846.26,
+      "text": "And using the four jhanas, firstly he recollected the past lives."
+    },
+    {
+      "start": 846.26,
+      "end": 850.36,
+      "text": "Without the jhanas, in states of deep concentration,"
+    },
+    {
+      "start": 850.36,
+      "end": 853.86,
+      "text": "he would not be able to recollect the past lives."
+    },
+    {
+      "start": 853.86,
+      "end": 856.66,
+      "text": "So, the first one he recollected his past lives."
+    },
+    {
+      "start": 856.66,
+      "end": 859.06,
+      "text": "And when he recollected the past lives,"
+    },
+    {
+      "start": 859.06,
+      "end": 863.86,
+      "text": "he knew that before, in the previous life,"
+    },
+    {
+      "start": 863.86,
+      "end": 867.46,
+      "text": "he was a monk, disciple of the Buddha Kasapa."
+    },
+    {
+      "start": 867.46,
+      "end": 870.86,
+      "text": "And from the Buddha Kasapa, he learned the four noble truths."
+    },
+    {
+      "start": 870.86,
+      "end": 872.36,
+      "text": "So, you can imagine,"
+    },
+    {
+      "start": 872.36,
+      "end": 877.76,
+      "text": "if he had not attained the jhanas and recollected the past lives,"
+    },
+    {
+      "start": 877.76,
+      "end": 880.26,
+      "text": "all the dhamma that he had learned before,"
+    },
+    {
+      "start": 880.26,
+      "end": 881.36,
+      "text": "he could not remember."
+    },
+    {
+      "start": 881.36,
+      "end": 883.96,
+      "text": "But because he could remember his past lives,"
+    },
+    {
+      "start": 883.96,
+      "end": 886.16,
+      "text": "all the dhamma that he learned before,"
+    },
+    {
+      "start": 886.16,
+      "end": 890.86,
+      "text": "came back to him, all the four noble truths, etc."
+    },
+    {
+      "start": 890.86,
+      "end": 892.86,
+      "text": "And then secondly, with the deva vision,"
+    },
+    {
+      "start": 892.86,
+      "end": 896.56,
+      "text": "he saw the passing away and re-arising of beings,"
+    },
+    {
+      "start": 896.56,
+      "end": 899.46,
+      "text": "according to kamma."
+    },
+    {
+      "start": 899.46,
+      "end": 903.36,
+      "text": "And then, thirdly, he reflected on the four noble truths"
+    },
+    {
+      "start": 903.36,
+      "end": 906.16,
+      "text": "that he had learned in his previous life."
+    },
+    {
+      "start": 906.16,
+      "end": 908.76,
+      "text": "And then he destroyed the asa-vasa."
+    },
+    {
+      "start": 908.76,
+      "end": 911.46,
+      "text": "These are called the three knowledges."
+    },
+    {
+      "start": 911.46,
+      "end": 917.06,
+      "text": "So, just now, those three were called the three knowledges,"
+    },
+    {
+      "start": 917.06,
+      "end": 919.16,
+      "text": "Tehvija."
+    },
+    {
+      "start": 919.16,
+      "end": 927.95,
+      "text": "And so, you can see that the psychic powers,"
+    },
+    {
+      "start": 927.95,
+      "end": 932.65,
+      "text": "the Buddha used the psychic powers of recollection of past life"
+    },
+    {
+      "start": 932.65,
+      "end": 935.15,
+      "text": "and deva vision,"
+    },
+    {
+      "start": 935.15,
+      "end": 939.95,
+      "text": "and used them to attain to this third knowledge"
+    },
+    {
+      "start": 939.95,
+      "end": 942.85,
+      "text": "of the destruction of the asa-vasa,"
+    },
+    {
+      "start": 942.85,
+      "end": 945.95,
+      "text": "the four noble truths and the destruction of the asa-vasa."
+    },
+    {
+      "start": 945.95,
+      "end": 952.35,
+      "text": "So, you can see that psychic powers have a use in the holy life."
+    },
+    {
+      "start": 952.35,
+      "end": 956.55,
+      "text": "That is why the Buddha actually paid great emphasis"
+    },
+    {
+      "start": 956.55,
+      "end": 960.95,
+      "text": "on these six things that he calls the six abhinaya,"
+    },
+    {
+      "start": 960.95,
+      "end": 962.75,
+      "text": "the higher knowledges."
+    },
+    {
+      "start": 962.75,
+      "end": 966.95,
+      "text": "The higher knowledges, things like this recollection of past life,"
+    },
+    {
+      "start": 966.95,
+      "end": 971.05,
+      "text": "deva vision, deva hearing,"
+    },
+    {
+      "start": 971.05,
+      "end": 975.45,
+      "text": "the ability to read another person's thoughts,"
+    },
+    {
+      "start": 975.45,
+      "end": 978.65,
+      "text": "and other various psychic powers,"
+    },
+    {
+      "start": 978.65,
+      "end": 980.85,
+      "text": "like floating in the air, etc."
+    },
+    {
+      "start": 980.85,
+      "end": 984.65,
+      "text": "And the last one, the sixth one,"
+    },
+    {
+      "start": 984.65,
+      "end": 988.35,
+      "text": "is destruction of the asa-vasa."
+    },
+    {
+      "start": 988.35,
+      "end": 992.45,
+      "text": "So, these you find in the sutras,"
+    },
+    {
+      "start": 992.45,
+      "end": 999.15,
+      "text": "the Buddha put the six knowledges as together usually."
+    },
+    {
+      "start": 999.15,
+      "end": 1003.85,
+      "text": "In other words, he described the other five psychic powers"
+    },
+    {
+      "start": 1003.85,
+      "end": 1008.35,
+      "text": "together with the destruction of the asa-vasa in the same category."
+    },
+    {
+      "start": 1008.35,
+      "end": 1010.55,
+      "text": "And you can see from here,"
+    },
+    {
+      "start": 1010.55,
+      "end": 1014.05,
+      "text": "why to the Buddha they are important"
+    },
+    {
+      "start": 1014.05,
+      "end": 1016.85,
+      "text": "because they are stepping stones to enlightenment."
+    },
+    {
+      "start": 1016.85,
+      "end": 1019.35,
+      "text": "If a person can attain the psychic powers,"
+    },
+    {
+      "start": 1019.35,
+      "end": 1022.35,
+      "text": "that means the person's concentration is so deep,"
+    },
+    {
+      "start": 1022.35,
+      "end": 1026.85,
+      "text": "that the wisdom can come very easily."
+    },
+    {
+      "start": 1026.85,
+      "end": 1030.85,
+      "text": "And when that person uses the psychic powers in the right way,"
+    },
+    {
+      "start": 1030.85,
+      "end": 1035.85,
+      "text": "not for showing off, not for becoming famous or anything,"
+    },
+    {
+      "start": 1035.85,
+      "end": 1038.25,
+      "text": "but like here, like the Buddha has described,"
+    },
+    {
+      "start": 1038.25,
+      "end": 1041.25,
+      "text": "how he used the psychic powers in the right way"
+    },
+    {
+      "start": 1041.25,
+      "end": 1046.75,
+      "text": "to attain the destruction of the asa-vasa."
+    },
+    {
+      "start": 1046.75,
+      "end": 1050.05,
+      "text": "Then they can be seen to be very useful,"
+    },
+    {
+      "start": 1050.05,
+      "end": 1052.75,
+      "text": "and they should not be despised at all."
+    },
+    {
+      "start": 1052.75,
+      "end": 1054.15,
+      "text": "You can see from the sutras,"
+    },
+    {
+      "start": 1054.15,
+      "end": 1059.37,
+      "text": "they are frequently mentioned by the Buddha."
+    },
+    {
+      "start": 1059.37,
+      "end": 1063.97,
+      "text": "The next sutra is 8.2.12."
+    },
+    {
+      "start": 1063.97,
+      "end": 1070.97,
+      "text": "Once the exalted one was dwelling in the Gable Hall in Mahavana, near Vaisali."
+    },
+    {
+      "start": 1070.97,
+      "end": 1075.57,
+      "text": "Now, at that time, a great many lichavi nobles,"
+    },
+    {
+      "start": 1075.57,
+      "end": 1079.77,
+      "text": "notables, were seated, assembled in the moat hall."
+    },
+    {
+      "start": 1079.77,
+      "end": 1083.07,
+      "text": "And in many a figure, they were speaking in praise of the Buddha,"
+    },
+    {
+      "start": 1083.07,
+      "end": 1086.37,
+      "text": "in praise of Dhamma, in praise of the Sangha."
+    },
+    {
+      "start": 1086.37,
+      "end": 1090.47,
+      "text": "And Sihar, the general, the disciple of the nigantas,"
+    },
+    {
+      "start": 1090.47,
+      "end": 1092.57,
+      "text": "was seated in that assembly."
+    },
+    {
+      "start": 1092.57,
+      "end": 1093.67,
+      "text": "And he thought,"
+    },
+    {
+      "start": 1093.67,
+      "end": 1098.07,
+      "text": "surely the exalted one must be Arahan, Samasambuddha."
+    },
+    {
+      "start": 1098.07,
+      "end": 1101.07,
+      "text": "Thus indeed, these many notable lichavis,"
+    },
+    {
+      "start": 1101.07,
+      "end": 1103.47,
+      "text": "assembled and seated in their moat hall,"
+    },
+    {
+      "start": 1103.47,
+      "end": 1108.87,
+      "text": "in many a figure, praise the Buddha, praise Dhamma, praise the Sangha."
+    },
+    {
+      "start": 1108.87,
+      "end": 1116.37,
+      "text": "Now, suppose I were to go and see him, the exalted one, Arahan, Samasambuddha."
+    },
+    {
+      "start": 1116.37,
+      "end": 1120.57,
+      "text": "I'll just stop here for a moment, just to commend."
+    },
+    {
+      "start": 1120.57,
+      "end": 1124.37,
+      "text": "This moat hall, can't find the word moat in the dictionary,"
+    },
+    {
+      "start": 1124.37,
+      "end": 1127.57,
+      "text": "probably something like a town hall."
+    },
+    {
+      "start": 1127.57,
+      "end": 1131.97,
+      "text": "And these lichavis,"
+    },
+    {
+      "start": 1131.97,
+      "end": 1135.37,
+      "text": "it's a race,"
+    },
+    {
+      "start": 1135.37,
+      "end": 1138.77,
+      "text": "and they were praising the triple gem."
+    },
+    {
+      "start": 1138.77,
+      "end": 1143.07,
+      "text": "Now, this Sihar, the general, that means he's a very important man,"
+    },
+    {
+      "start": 1143.07,
+      "end": 1145.47,
+      "text": "the general of the army."
+    },
+    {
+      "start": 1145.47,
+      "end": 1148.27,
+      "text": "He was a disciple of the nigantas."
+    },
+    {
+      "start": 1148.27,
+      "end": 1151.47,
+      "text": "Nigantas are also called the jains."
+    },
+    {
+      "start": 1151.47,
+      "end": 1155.57,
+      "text": "And the leader is known as Nataputta,"
+    },
+    {
+      "start": 1155.57,
+      "end": 1158.37,
+      "text": "that means son of Natta."
+    },
+    {
+      "start": 1158.37,
+      "end": 1161.17,
+      "text": "Natta was probably his mother."
+    },
+    {
+      "start": 1161.17,
+      "end": 1164.17,
+      "text": "He's also sometimes known as Mahavira."
+    },
+    {
+      "start": 1164.17,
+      "end": 1166.47,
+      "text": "His real name was probably Mahavira,"
+    },
+    {
+      "start": 1166.47,
+      "end": 1170.47,
+      "text": "but sometimes he's also called Nataputta."
+    },
+    {
+      "start": 1170.47,
+      "end": 1172.67,
+      "text": "And to continue the sutta,"
+    },
+    {
+      "start": 1172.67,
+      "end": 1177.07,
+      "text": "then Sihar approached the niganta, Nataputta, and said to him,"
+    },
+    {
+      "start": 1177.07,
+      "end": 1181.67,
+      "text": "Sir, I wish to go and see the recluse Gautama."
+    },
+    {
+      "start": 1181.67,
+      "end": 1184.57,
+      "text": "And Nataputta said, Sihar,"
+    },
+    {
+      "start": 1184.57,
+      "end": 1189.17,
+      "text": "how can you, who believe in action, go and see the recluse Gautama,"
+    },
+    {
+      "start": 1189.17,
+      "end": 1191.97,
+      "text": "who affirms the theory of inaction."
+    },
+    {
+      "start": 1191.97,
+      "end": 1195.47,
+      "text": "The recluse Gautama professes the theory of inaction."
+    },
+    {
+      "start": 1195.47,
+      "end": 1198.27,
+      "text": "He teaches the doctrine of inaction,"
+    },
+    {
+      "start": 1198.27,
+      "end": 1202.27,
+      "text": "and in that he trains his disciples."
+    },
+    {
+      "start": 1202.27,
+      "end": 1205.07,
+      "text": "Then whatever inclination Sihar had,"
+    },
+    {
+      "start": 1205.07,
+      "end": 1208.27,
+      "text": "to go and see the exalted one, subsided."
+    },
+    {
+      "start": 1208.27,
+      "end": 1212.07,
+      "text": "On the second occasion, the lichavis were speaking in praise of the Buddha,"
+    },
+    {
+      "start": 1212.07,
+      "end": 1213.87,
+      "text": "Dharma, and the Sangha."
+    },
+    {
+      "start": 1213.87,
+      "end": 1218.97,
+      "text": "And again, Sihar told Nataputta of his desire to go and see the exalted one,"
+    },
+    {
+      "start": 1218.97,
+      "end": 1221.27,
+      "text": "and was again dissuaded."
+    },
+    {
+      "start": 1221.27,
+      "end": 1227.37,
+      "text": "On the third occasion, the lichavis were praising the Buddha, Dharma, and Sangha in like manner."
+    },
+    {
+      "start": 1227.37,
+      "end": 1230.97,
+      "text": "And thought Sihar, and undoubtedly,"
+    },
+    {
+      "start": 1230.97,
+      "end": 1234.77,
+      "text": "that exalted one is Arahant, Samasambuddha,"
+    },
+    {
+      "start": 1234.77,
+      "end": 1239.77,
+      "text": "and so these lichavis speak in praise of him, of the Dharma and the Sangha."
+    },
+    {
+      "start": 1239.77,
+      "end": 1244.37,
+      "text": "What can the nigantas do to me, whether they are consulted or not?"
+    },
+    {
+      "start": 1244.37,
+      "end": 1251.17,
+      "text": "What if I go without the nigantas' leave, and see that exalted one, Arahant, Samasambuddha?"
+    },
+    {
+      "start": 1251.17,
+      "end": 1258.07,
+      "text": "So at noon, Sihar set out from Vaisali with some 500 chariots to see the exalted one,"
+    },
+    {
+      "start": 1258.07,
+      "end": 1261.27,
+      "text": "going by carriage as far as the ground permitted,"
+    },
+    {
+      "start": 1261.27,
+      "end": 1265.07,
+      "text": "and then descending therefrom entered the park on foot."
+    },
+    {
+      "start": 1265.07,
+      "end": 1269.67,
+      "text": "Approaching the exalted one, he saluted him and sat down at one side."
+    },
+    {
+      "start": 1269.67,
+      "end": 1272.57,
+      "text": "So seated, he said to the exalted one,"
+    },
+    {
+      "start": 1272.57,
+      "end": 1275.67,
+      "text": "Lord, I have heard this."
+    },
+    {
+      "start": 1275.67,
+      "end": 1279.37,
+      "text": "The recluse Gotama affirms the theory of inaction."
+    },
+    {
+      "start": 1279.37,
+      "end": 1284.37,
+      "text": "He teaches the doctrine of inaction, and in that he trains his disciples."
+    },
+    {
+      "start": 1284.37,
+      "end": 1286.67,
+      "text": "Lord, those who speak thus,"
+    },
+    {
+      "start": 1286.67,
+      "end": 1290.07,
+      "text": "I presume they report what the exalted one has said,"
+    },
+    {
+      "start": 1290.07,
+      "end": 1293.87,
+      "text": "and do not misrepresent the exalted one by lying."
+    },
+    {
+      "start": 1293.87,
+      "end": 1298.17,
+      "text": "I presume they set forth a doctrine which conforms to Dharma,"
+    },
+    {
+      "start": 1298.17,
+      "end": 1303.67,
+      "text": "and no one, who is a follower of his Dharma, would incur blame for saying this."
+    },
+    {
+      "start": 1303.67,
+      "end": 1308.17,
+      "text": "Lord, I have no wish to accuse the exalted one."
+    },
+    {
+      "start": 1308.17,
+      "end": 1309.47,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 1309.47,
+      "end": 1313.31,
+      "text": "There is one way, Sihar, in which one might say,"
+    },
+    {
+      "start": 1313.31,
+      "end": 1315.67,
+      "text": "If he would speak rightly of me,"
+    },
+    {
+      "start": 1315.67,
+      "end": 1319.27,
+      "text": "the recluse Gotama affirms the theory of inaction,"
+    },
+    {
+      "start": 1319.27,
+      "end": 1324.37,
+      "text": "he teaches the doctrine of inaction, and in that he trains his disciples."
+    },
+    {
+      "start": 1324.37,
+      "end": 1327.57,
+      "text": "There is one way, Sihar, in which one might say,"
+    },
+    {
+      "start": 1327.57,
+      "end": 1329.67,
+      "text": "if he would speak rightly of me,"
+    },
+    {
+      "start": 1329.67,
+      "end": 1333.07,
+      "text": "the recluse Gotama affirms the theory of action,"
+    },
+    {
+      "start": 1333.07,
+      "end": 1338.35,
+      "text": "He teaches the doctrine of action, and in that he trains his disciples."
+    },
+    {
+      "start": 1338.35,
+      "end": 1345.15,
+      "text": "In one way, one might rightly say, the recluse Gotama is an annihilationist."
+    },
+    {
+      "start": 1345.15,
+      "end": 1351.71,
+      "text": "He teaches the doctrine of annihilation, and in that he trains his disciples."
+    },
+    {
+      "start": 1351.71,
+      "end": 1356.11,
+      "text": "Or he feels abhorrence. He teaches the doctrine of abhorrence."
+    },
+    {
+      "start": 1356.11,
+      "end": 1360.19,
+      "text": "He is an abolitionist. He teaches the doctrine of abolition."
+    },
+    {
+      "start": 1360.19,
+      "end": 1365.47,
+      "text": "He is given to modification. He teaches the doctrine of modification."
+    },
+    {
+      "start": 1365.47,
+      "end": 1370.75,
+      "text": "He is against rebirth. He teaches the doctrine of preventing rebirth."
+    },
+    {
+      "start": 1370.75,
+      "end": 1375.07,
+      "text": "He has found consolation. He teaches the doctrine of consolation,"
+    },
+    {
+      "start": 1375.07,
+      "end": 1380.83,
+      "text": "and in that he trains his disciples. And what Siha is the way in which speaking"
+    },
+    {
+      "start": 1380.83,
+      "end": 1384.43,
+      "text": "rightly of me, one would say, the recluse Gotama"
+    },
+    {
+      "start": 1384.43,
+      "end": 1389.79,
+      "text": "affirms the theory of inaction. I declare inaction as to misconduct in"
+    },
+    {
+      "start": 1389.79,
+      "end": 1394.83,
+      "text": "deed, word, and thought. I proclaim inaction as to all evil and sinful"
+    },
+    {
+      "start": 1394.83,
+      "end": 1398.43,
+      "text": "conditions. This is the way Siha, in which speaking"
+    },
+    {
+      "start": 1398.43,
+      "end": 1401.87,
+      "text": "rightly of me, one would say, the recluse Gotama"
+    },
+    {
+      "start": 1401.87,
+      "end": 1406.35,
+      "text": "affirms the theory of inaction. He teaches the doctrine of inaction,"
+    },
+    {
+      "start": 1406.35,
+      "end": 1412.11,
+      "text": "and in that way he trains his disciples. In what way would one say, the recluse"
+    },
+    {
+      "start": 1412.11,
+      "end": 1416.43,
+      "text": "Gotama affirms the theory of inaction. I declare inaction as to good"
+    },
+    {
+      "start": 1416.43,
+      "end": 1420.91,
+      "text": "conduct in deed, word, and thought. I proclaim inaction as to all righteous"
+    },
+    {
+      "start": 1420.91,
+      "end": 1425.79,
+      "text": "conditions. This is the way. In what way would one say, the recluse"
+    },
+    {
+      "start": 1425.79,
+      "end": 1431.15,
+      "text": "Gotama is an annihilationist. I declare the annihilation of lust, hatred,"
+    },
+    {
+      "start": 1431.15,
+      "end": 1436.03,
+      "text": "and delusion. I proclaim the annihilation of all evil and sinful"
+    },
+    {
+      "start": 1436.03,
+      "end": 1440.67,
+      "text": "conditions. This is the way. In what way would one say, the recluse"
+    },
+    {
+      "start": 1440.67,
+      "end": 1446.35,
+      "text": "Gotama feels abhorrence. I abhor misconduct in deed, word, and thought."
+    },
+    {
+      "start": 1446.35,
+      "end": 1451.87,
+      "text": "I abhor entertaining all evil and sinful conditions. This is the way."
+    },
+    {
+      "start": 1451.87,
+      "end": 1456.35,
+      "text": "In what way would one say, the recluse Gotama is an abolitionist."
+    },
+    {
+      "start": 1456.35,
+      "end": 1460.35,
+      "text": "I preach the doctrine of abolishing lust, hatred, and delusion."
+    },
+    {
+      "start": 1460.35,
+      "end": 1465.07,
+      "text": "I teach the Dharma of abolishing all evil and sinful conditions."
+    },
+    {
+      "start": 1465.07,
+      "end": 1469.79,
+      "text": "This is the way. In what way would one say, the recluse Gotama is given to"
+    },
+    {
+      "start": 1469.79,
+      "end": 1474.59,
+      "text": "modification. I declare all evil and sinful conditions"
+    },
+    {
+      "start": 1474.59,
+      "end": 1478.99,
+      "text": "should be modified. Yes, this conduct in deed, word, and thought."
+    },
+    {
+      "start": 1478.99,
+      "end": 1483.87,
+      "text": "Moreover, whosoever has abandoned, rooted out, made like palm stumps,"
+    },
+    {
+      "start": 1483.87,
+      "end": 1487.71,
+      "text": "cause not to be so conditioned, that they arise not again,"
+    },
+    {
+      "start": 1487.71,
+      "end": 1492.43,
+      "text": "evil and sinful conditions. Here I say is given to modification,"
+    },
+    {
+      "start": 1492.43,
+      "end": 1496.11,
+      "text": "that the targata has so done. This is the way."
+    },
+    {
+      "start": 1496.11,
+      "end": 1500.43,
+      "text": "In what way would one say, the recluse Gotama is against rebirth."
+    },
+    {
+      "start": 1500.43,
+      "end": 1504.75,
+      "text": "Whosoever has abandoned, cut off at the root, descend into the room,"
+    },
+    {
+      "start": 1504.75,
+      "end": 1508.99,
+      "text": "renew becoming and rebirth. Here I say is against rebirth,"
+    },
+    {
+      "start": 1508.99,
+      "end": 1513.71,
+      "text": "that the targata has so done. This is the way. And what Siha is the"
+    },
+    {
+      "start": 1513.71,
+      "end": 1517.39,
+      "text": "rightly of me? One would say, the recluse Gotama has found"
+    },
+    {
+      "start": 1517.39,
+      "end": 1522.03,
+      "text": "consolation. He teaches Dharma for consolation, and with that he trains his"
+    },
+    {
+      "start": 1522.03,
+      "end": 1525.79,
+      "text": "disciples. I, Siha, have found consolation"
+    },
+    {
+      "start": 1525.79,
+      "end": 1530.91,
+      "text": "by the supreme consolation. I teach Dharma for consolation, and in that"
+    },
+    {
+      "start": 1530.91,
+      "end": 1536.19,
+      "text": "I train my disciples. This is the way Siha, in which speaking rightly of me,"
+    },
+    {
+      "start": 1536.19,
+      "end": 1540.19,
+      "text": "one would say, the recluse Gotama has found consolation."
+    },
+    {
+      "start": 1540.19,
+      "end": 1545.23,
+      "text": "He teaches Dharma for consolation, and in that he trains his disciples."
+    },
+    {
+      "start": 1545.23,
+      "end": 1549.07,
+      "text": "And when he had finished speaking, Siha the general said,"
+    },
+    {
+      "start": 1549.07,
+      "end": 1554.67,
+      "text": "wonderful, wonderful Lord, etc. Lord, let the exalted one accept me as a lay"
+    },
+    {
+      "start": 1554.67,
+      "end": 1559.95,
+      "text": "disciple, as one who has found refuge from this day to life's end."
+    },
+    {
+      "start": 1559.95,
+      "end": 1564.75,
+      "text": "And the Buddha said, make a thorough examination of the matter, Siha."
+    },
+    {
+      "start": 1564.75,
+      "end": 1569.71,
+      "text": "Investigation is profitable to well-known men like yourself."
+    },
+    {
+      "start": 1569.71,
+      "end": 1574.99,
+      "text": "And he said, Lord, I am even better pleased, better gratified by this remark"
+    },
+    {
+      "start": 1574.99,
+      "end": 1579.55,
+      "text": "of the exalted one. Had I been won over as a disciple by some"
+    },
+    {
+      "start": 1579.55,
+      "end": 1582.59,
+      "text": "other sect, they would have paraded through the whole of"
+    },
+    {
+      "start": 1582.59,
+      "end": 1588.67,
+      "text": "Vaisali with banners shouting, Siha the general has joined our discipleship."
+    },
+    {
+      "start": 1588.67,
+      "end": 1594.59,
+      "text": "But the exalted one merely advises me thus. Examine the matter, Siha, for"
+    },
+    {
+      "start": 1594.59,
+      "end": 1598.91,
+      "text": "investigation is profitable to well-known men like yourself."
+    },
+    {
+      "start": 1598.91,
+      "end": 1603.15,
+      "text": "For a second time, Lord, I go to the exalted one for refuge,"
+    },
+    {
+      "start": 1603.15,
+      "end": 1609.55,
+      "text": "to the Dharma, and to the Sangha of monks. Let the exalted one accept"
+    },
+    {
+      "start": 1609.55,
+      "end": 1613.87,
+      "text": "me as a lay disciple, as one who has found refuge from this day"
+    },
+    {
+      "start": 1613.87,
+      "end": 1619.47,
+      "text": "to life's end. And the Buddha said, your family, Siha,"
+    },
+    {
+      "start": 1619.47,
+      "end": 1623.63,
+      "text": "for many a day has been a well-spring to the negantas,"
+    },
+    {
+      "start": 1623.63,
+      "end": 1628.51,
+      "text": "therefore deem it right to give arms to those who approach you."
+    },
+    {
+      "start": 1628.51,
+      "end": 1634.03,
+      "text": "And Siha said, Lord, I am still better pleased, better gratified by this last"
+    },
+    {
+      "start": 1634.03,
+      "end": 1637.63,
+      "text": "remark. Lord, I have heard it said, the recourse"
+    },
+    {
+      "start": 1637.63,
+      "end": 1642.67,
+      "text": "Bhautama asserts thus, not unto others, but unto me alone"
+    },
+    {
+      "start": 1642.67,
+      "end": 1646.83,
+      "text": "should arms be given, not unto the disciples of others,"
+    },
+    {
+      "start": 1646.83,
+      "end": 1652.51,
+      "text": "but unto mine alone should arms be given. For arms given unto me alone are very"
+    },
+    {
+      "start": 1652.51,
+      "end": 1656.35,
+      "text": "fruitful, and not so are those given unto others."
+    },
+    {
+      "start": 1656.35,
+      "end": 1660.03,
+      "text": "Arms given unto my disciples alone are very fruitful,"
+    },
+    {
+      "start": 1660.03,
+      "end": 1664.03,
+      "text": "and not so are those given unto the disciples of others."
+    },
+    {
+      "start": 1664.03,
+      "end": 1669.55,
+      "text": "But now the Exalted One incites me to give arms among the Nikantas."
+    },
+    {
+      "start": 1669.55,
+      "end": 1672.67,
+      "text": "We shall know what to do when the time arrives."
+    },
+    {
+      "start": 1672.67,
+      "end": 1676.83,
+      "text": "For a third time, Lord, I go to the Exalted One for refuge,"
+    },
+    {
+      "start": 1676.83,
+      "end": 1680.03,
+      "text": "to the Dhamma, and to the Sangha of monks."
+    },
+    {
+      "start": 1680.03,
+      "end": 1686.03,
+      "text": "Let the Exalted One accept me as a lay disciple from this day to life's end."
+    },
+    {
+      "start": 1686.03,
+      "end": 1689.15,
+      "text": "I'll just stop here for a moment."
+    },
+    {
+      "start": 1689.15,
+      "end": 1699.39,
+      "text": "You notice here that Sihar, being a general, was a VIP, a very important person in Vaisali."
+    },
+    {
+      "start": 1699.39,
+      "end": 1706.43,
+      "text": "Yet the Buddha asked him to think over carefully when he wanted to become a disciple."
+    },
+    {
+      "start": 1706.43,
+      "end": 1710.99,
+      "text": "Then the Buddha advised him to continue giving arms to the Nikantas,"
+    },
+    {
+      "start": 1710.99,
+      "end": 1714.59,
+      "text": "so we can see the compassion and the wisdom of the Buddha."
+    },
+    {
+      "start": 1714.59,
+      "end": 1718.59,
+      "text": "Anyone who is practicing correctly must have the basic"
+    },
+    {
+      "start": 1718.59,
+      "end": 1726.59,
+      "text": "humane qualities of goodwill, sympathy, or compassion, humility, etc."
+    },
+    {
+      "start": 1726.59,
+      "end": 1731.07,
+      "text": "But if his anger increases, the ego increases,"
+    },
+    {
+      "start": 1731.07,
+      "end": 1734.59,
+      "text": "and he does not possess basic humane qualities,"
+    },
+    {
+      "start": 1734.59,
+      "end": 1741.92,
+      "text": "he must be on the wrong path."
+    },
+    {
+      "start": 1741.92,
+      "end": 1744.16,
+      "text": "And then the Sutta continues."
+    },
+    {
+      "start": 1744.16,
+      "end": 1749.2,
+      "text": "Then the Exalted One preached a graduated discourse to Sihar, the general."
+    },
+    {
+      "start": 1749.2,
+      "end": 1755.36,
+      "text": "That is to say, on arms giving the precepts, and so on, and on heaven."
+    },
+    {
+      "start": 1755.36,
+      "end": 1759.76,
+      "text": "He set forth the peril, the folly, and the depravity of lusts,"
+    },
+    {
+      "start": 1759.76,
+      "end": 1762.4,
+      "text": "and the blessedness of renunciation."
+    },
+    {
+      "start": 1762.4,
+      "end": 1766.0,
+      "text": "And when the Exalted One knew that the heart of Sihar, the general,"
+    },
+    {
+      "start": 1766.0,
+      "end": 1770.88,
+      "text": "was clear, malleable, free from hindrance, uplifted, and lucid,"
+    },
+    {
+      "start": 1770.88,
+      "end": 1775.6,
+      "text": "then he revealed the teaching of Dhamma, which Buddhas alone have won."
+    },
+    {
+      "start": 1775.6,
+      "end": 1780.88,
+      "text": "That is to say, dukkha, it's rising, it's ending,"
+    },
+    {
+      "start": 1780.88,
+      "end": 1784.32,
+      "text": "and the way to the cessation of dukkha."
+    },
+    {
+      "start": 1784.32,
+      "end": 1790.08,
+      "text": "Just as a clean cloth, free of all stain, will take dye perfectly."
+    },
+    {
+      "start": 1790.08,
+      "end": 1793.36,
+      "text": "Even so, in Sihar, the general, seated there,"
+    },
+    {
+      "start": 1793.36,
+      "end": 1796.88,
+      "text": "there arose the spotless, stainless vision of Dhamma,"
+    },
+    {
+      "start": 1796.88,
+      "end": 1800.72,
+      "text": "that whatsoever be conditioned by coming to be,"
+    },
+    {
+      "start": 1800.72,
+      "end": 1803.04,
+      "text": "all that is subject to ending."
+    },
+    {
+      "start": 1803.04,
+      "end": 1804.88,
+      "text": "I'll stop here for a moment."
+    },
+    {
+      "start": 1804.88,
+      "end": 1806.96,
+      "text": "Here you see, it's mentioned in this Uttara,"
+    },
+    {
+      "start": 1806.96,
+      "end": 1812.88,
+      "text": "that the Buddha preached a graduated discourse to the Sihar."
+    },
+    {
+      "start": 1812.88,
+      "end": 1818.96,
+      "text": "And these nine steps, the first one is dhana, then sila, then heaven,"
+    },
+    {
+      "start": 1818.96,
+      "end": 1824.72,
+      "text": "then the peril, folly, and the depravity of sensual desire,"
+    },
+    {
+      "start": 1824.72,
+      "end": 1827.36,
+      "text": "then renunciation."
+    },
+    {
+      "start": 1827.36,
+      "end": 1831.92,
+      "text": "These are the five steps, after which the four noble truths."
+    },
+    {
+      "start": 1832.0,
+      "end": 1838.32,
+      "text": "And this particular graduate discourse,"
+    },
+    {
+      "start": 1838.32,
+      "end": 1843.84,
+      "text": "is not found as such, per se, in the suttas."
+    },
+    {
+      "start": 1843.84,
+      "end": 1846.8,
+      "text": "It's not given."
+    },
+    {
+      "start": 1846.8,
+      "end": 1850.96,
+      "text": "But if you look through the suttas, in various parts of the suttas,"
+    },
+    {
+      "start": 1850.96,
+      "end": 1855.76,
+      "text": "you can find a description of some of these things."
+    },
+    {
+      "start": 1855.76,
+      "end": 1862.56,
+      "text": "And you also notice that when the Buddha had given this"
+    },
+    {
+      "start": 1862.56,
+      "end": 1865.68,
+      "text": "graduate discourse to Sihar, the general,"
+    },
+    {
+      "start": 1865.68,
+      "end": 1870.16,
+      "text": "then it is said that the spotless, stainless vision of Dhamma arose."
+    },
+    {
+      "start": 1870.16,
+      "end": 1877.76,
+      "text": "That means the Sihar, the general, attain stream entry, attain path."
+    },
+    {
+      "start": 1877.76,
+      "end": 1883.2,
+      "text": "The first path became an Arya."
+    },
+    {
+      "start": 1883.2,
+      "end": 1886.8,
+      "text": "And you can see in the suttas and in the Vinaya,"
+    },
+    {
+      "start": 1886.8,
+      "end": 1893.36,
+      "text": "that almost all of the people who attain the first path,"
+    },
+    {
+      "start": 1893.36,
+      "end": 1897.68,
+      "text": "they do so by hearing the Dhamma understanding."
+    },
+    {
+      "start": 1897.68,
+      "end": 1903.84,
+      "text": "And then the Buddha said that they attain stream entry."
+    },
+    {
+      "start": 1903.84,
+      "end": 1908.0,
+      "text": "Then the sutta continues, then Sihar, perceiving Dhamma,"
+    },
+    {
+      "start": 1908.0,
+      "end": 1912.32,
+      "text": "in possession of Dhamma, discovering Dhamma, penetrating Dhamma,"
+    },
+    {
+      "start": 1912.32,
+      "end": 1916.24,
+      "text": "without overcome, and uncertainty surpassed,"
+    },
+    {
+      "start": 1916.24,
+      "end": 1921.6,
+      "text": "possessed without another aid of perfect confidence in the word of the teacher,"
+    },
+    {
+      "start": 1921.6,
+      "end": 1926.96,
+      "text": "said to the exalted one, Lord, let the exalted one with the Sangha of monks"
+    },
+    {
+      "start": 1926.96,
+      "end": 1935.04,
+      "text": "accept a meal from me tomorrow, and the exalted one accepted by silence."
+    },
+    {
+      "start": 1936.72,
+      "end": 1940.48,
+      "text": "There was the normal way. Let's stop here to comment. There was the normal way."
+    },
+    {
+      "start": 1940.96,
+      "end": 1946.32,
+      "text": "During the Buddha's time, if the monks and the Buddha, these monks were invited to a meal,"
+    },
+    {
+      "start": 1946.32,
+      "end": 1949.92,
+      "text": "and they kept quiet, and then they accepted it."
+    },
+    {
+      "start": 1949.92,
+      "end": 1956.96,
+      "text": "I forgot to mention also that in this sutta, in the previous one,"
+    },
+    {
+      "start": 1956.96,
+      "end": 1960.8,
+      "text": "that when they take refuge in the Buddha, Dhamma, and Sangha,"
+    },
+    {
+      "start": 1960.8,
+      "end": 1966.0,
+      "text": "it's mentioned that they take refuge with the Bhikkhu Sangha."
+    },
+    {
+      "start": 1966.72,
+      "end": 1971.52,
+      "text": "Usually when they take refuge, as mentioned here, they take refuge in the Bhikkhu Sangha."
+    },
+    {
+      "start": 1974.0,
+      "end": 1979.44,
+      "text": "Then the sutta continues, then Sihar, seeing that the exalted one had accepted,"
+    },
+    {
+      "start": 1979.44,
+      "end": 1984.32,
+      "text": "got up from his seat, so he took the exalted one and departed by the ride."
+    },
+    {
+      "start": 1984.32,
+      "end": 1988.88,
+      "text": "And Sihar called the man and said, go, good man, and find some fresh meat."
+    },
+    {
+      "start": 1989.6,
+      "end": 1995.28,
+      "text": "And when that night was over, having had plenty of hard and soft food prepared in his house,"
+    },
+    {
+      "start": 1995.28,
+      "end": 1998.56,
+      "text": "he sent word to the exalted one that it was time to come."
+    },
+    {
+      "start": 1999.12,
+      "end": 2002.88,
+      "text": "Lord, the time has come. The meal is ready in Sihar's house."
+    },
+    {
+      "start": 2003.52,
+      "end": 2008.56,
+      "text": "So the exalted one, robbing himself early in the morning, taking bowl and cloak,"
+    },
+    {
+      "start": 2008.56,
+      "end": 2013.28,
+      "text": "went to Sihar's house with the Sangha of monks and sat down on their appointed seat."
+    },
+    {
+      "start": 2014.0,
+      "end": 2021.2,
+      "text": "Then many Nigantas went about Vaisali, through the highways and byways, from crossroad to crossroad,"
+    },
+    {
+      "start": 2021.2,
+      "end": 2028.08,
+      "text": "waving their arms and crying. Today, a huge beast has been slain by Sihar, the general,"
+    },
+    {
+      "start": 2028.08,
+      "end": 2034.64,
+      "text": "and a meal has been prepared for the recluse Gotama. And the recluse Gotama is going to eat the meat,"
+    },
+    {
+      "start": 2035.2,
+      "end": 2039.36,
+      "text": "knowing that it was meant for him, that the deed was done on his account."
+    },
+    {
+      "start": 2040.72,
+      "end": 2045.6,
+      "text": "Then a man went and whispered in Sihar's ear, saying, I say, Sir,"
+    },
+    {
+      "start": 2045.6,
+      "end": 2051.52,
+      "text": "are you aware that a great many Nigantas go about the streets and crossroads of Vaisali,"
+    },
+    {
+      "start": 2051.52,
+      "end": 2058.32,
+      "text": "waving their arms, crying in such a manner? And Sihar said, enough, Sir."
+    },
+    {
+      "start": 2058.96,
+      "end": 2063.36,
+      "text": "For a long time, these worthy have longed to disparage the Buddha,"
+    },
+    {
+      "start": 2063.36,
+      "end": 2068.0,
+      "text": "have longed to disparage the Dhamma, have longed to disparage the Sangha."
+    },
+    {
+      "start": 2068.0,
+      "end": 2074.0,
+      "text": "But they do no harm to the exalted one by the wicked, vain, lying, and truthful slanders."
+    },
+    {
+      "start": 2074.72,
+      "end": 2080.72,
+      "text": "Not for the sake of sustaining life would we intentionally deprive any being of life."
+    },
+    {
+      "start": 2081.68,
+      "end": 2088.4,
+      "text": "Then Sihar, the general, with his own hands, served and satisfied the Sangha of monks with"
+    },
+    {
+      "start": 2088.4,
+      "end": 2094.16,
+      "text": "the Buddha at their head with plenty of food, both hard and soft. And when the exalted one"
+    },
+    {
+      "start": 2094.16,
+      "end": 2100.32,
+      "text": "had finished eating and had withdrawn his hand from the bowl, Sihar sat down at one side."
+    },
+    {
+      "start": 2100.32,
+      "end": 2105.12,
+      "text": "So seated, the exalted one instructed Sihar with Dhamma discourse,"
+    },
+    {
+      "start": 2105.12,
+      "end": 2110.88,
+      "text": "stimulated him, roused him, and gladdened him. Then the exalted one arose from his seat and"
+    },
+    {
+      "start": 2110.88,
+      "end": 2118.88,
+      "text": "departed at the end of the sutta. This is one of the important suttas to show that the Buddha"
+    },
+    {
+      "start": 2118.88,
+      "end": 2127.76,
+      "text": "and his disciples did eat meat. And because the Buddha and his disciples ate meat, as compared"
+    },
+    {
+      "start": 2127.76,
+      "end": 2134.96,
+      "text": "to some of the external sattics who were vegetarians, they used this to disparage the Buddha."
+    },
+    {
+      "start": 2134.96,
+      "end": 2142.32,
+      "text": "You can see from here, they were very angry that one of their chief disciples had crossed over"
+    },
+    {
+      "start": 2143.12,
+      "end": 2152.24,
+      "text": "to the Buddha's camp. So when they found that Sihar had ordered meat to feed the Buddha,"
+    },
+    {
+      "start": 2152.72,
+      "end": 2159.36,
+      "text": "they went around broadcasting that the Buddha was going to eat meat that was purposely killed for"
+    },
+    {
+      "start": 2159.36,
+      "end": 2167.52,
+      "text": "him. And that is why you find later, when we come to the Majima Nikaya Suttas, there was a"
+    },
+    {
+      "start": 2167.52,
+      "end": 2174.0,
+      "text": "physician, a king's physician by the name of Jivaka. In one of the Majima Nikaya Suttas,"
+    },
+    {
+      "start": 2174.0,
+      "end": 2180.08,
+      "text": "he came to ask the Buddha. He also heard things like this, that the Buddha ate meat that was"
+    },
+    {
+      "start": 2180.08,
+      "end": 2185.36,
+      "text": "purposely killed for him. So he asked the Buddha whether it's true. And the Buddha said no, it's"
+    },
+    {
+      "start": 2185.36,
+      "end": 2192.08,
+      "text": "not true. The Buddha said that the Buddha and his monks only ate meat with three conditions."
+    },
+    {
+      "start": 2192.08,
+      "end": 2200.96,
+      "text": "The first one was they did not ask somebody to kill. In other words, the meat was not purposely"
+    },
+    {
+      "start": 2200.96,
+      "end": 2207.44,
+      "text": "killed for the Buddha and his disciples. Because if they buy it from the market, it's all right."
+    },
+    {
+      "start": 2208.08,
+      "end": 2212.72,
+      "text": "And the second condition, they don't see the killing. The third condition, they don't hear the"
+    },
+    {
+      "start": 2212.72,
+      "end": 2224.22,
+      "text": "animal cry as it was being killed. You notice here, the general said, not for the sake of sustaining"
+    },
+    {
+      "start": 2224.22,
+      "end": 2232.38,
+      "text": "life, but we intentionally deprive any being of life. So in other words, the meat that they"
+    },
+    {
+      "start": 2232.78,
+      "end": 2242.06,
+      "text": "cooked was bought from the marketplace that was already slaughtered. The reason for this is that"
+    },
+    {
+      "start": 2242.62,
+      "end": 2254.62,
+      "text": "there is, it is almost impossible to cause, not to cause indirectly, indirect killing of"
+    },
+    {
+      "start": 2255.58,
+      "end": 2263.42,
+      "text": "animals. Just by existing, we unintentionally cause the killing of other living beings' lives."
+    },
+    {
+      "start": 2263.42,
+      "end": 2270.38,
+      "text": "For example, even a person is a vegetarian. Still, for the farmer to grow the vegetables and the"
+    },
+    {
+      "start": 2270.38,
+      "end": 2278.86,
+      "text": "fruits, a lot of orders have to be cleared in the process. Many animals are killed. And when the"
+    },
+    {
+      "start": 2278.86,
+      "end": 2285.74,
+      "text": "farmer protects his crops, he's placed insecticides and he teals the ground and all that. A lot of"
+    },
+    {
+      "start": 2285.74,
+      "end": 2294.54,
+      "text": "worms are killed, a lot of caterpillars, a lot of snails have to be purposely killed, insects, etc."
+    },
+    {
+      "start": 2294.54,
+      "end": 2301.5,
+      "text": "to protect the vegetables and all that. And then, like we want to live in houses, just by the fact"
+    },
+    {
+      "start": 2301.5,
+      "end": 2307.18,
+      "text": "that we want to live in houses, many areas, large areas of land have to be cleared to build housing"
+    },
+    {
+      "start": 2307.18,
+      "end": 2314.06,
+      "text": "estates. That way, we indirectly cause the killing of animals. And then, because we want to use"
+    },
+    {
+      "start": 2314.06,
+      "end": 2324.86,
+      "text": "household items also, a lot of land has to be cleared and animals killed. And because we want"
+    },
+    {
+      "start": 2324.86,
+      "end": 2330.06,
+      "text": "to use electricity, the government has to make dams and to dam up the rivers. And when the rivers"
+    },
+    {
+      "start": 2330.06,
+      "end": 2336.46,
+      "text": "are dammed up and the water level rises, a lot of animals are killed in the process. Also,"
+    },
+    {
+      "start": 2336.46,
+      "end": 2345.02,
+      "text": "we know, for example, in Malaysia, every day, the government employs people to go and shoot"
+    },
+    {
+      "start": 2345.02,
+      "end": 2355.9,
+      "text": "stray dogs. Why? To protect us. So, if you allow stray dogs to multiply, then the result is that"
+    },
+    {
+      "start": 2356.62,
+      "end": 2362.06,
+      "text": "there will be a lot of disease and it will affect humans. So, in the same way, if animals were not"
+    },
+    {
+      "start": 2363.02,
+      "end": 2370.86,
+      "text": "slaughtered, you allow them to be freed, then they multiply so fast that somehow they have to be"
+    },
+    {
+      "start": 2370.86,
+      "end": 2377.42,
+      "text": "killed. We know, like in Australia, every day, thousands and thousands of kangaroos and rabbits"
+    },
+    {
+      "start": 2377.42,
+      "end": 2384.14,
+      "text": "are killed because they eat the crops. So, if animals are allowed to multiply, they will eat all the"
+    },
+    {
+      "start": 2384.14,
+      "end": 2389.1,
+      "text": "crops and the farmers will also eat them. If everybody became vegetarians, the whole world"
+    },
+    {
+      "start": 2389.18,
+      "end": 2397.18,
+      "text": "became vegetarians too. Animals would still be killed. The fact that we drive cars is contributing"
+    },
+    {
+      "start": 2397.18,
+      "end": 2403.82,
+      "text": "to the killing of animals, countless animals every day. The fact that you drive a car and"
+    },
+    {
+      "start": 2403.82,
+      "end": 2410.62,
+      "text": "encouraging the car industry to make more cars and when more cars are made, then more"
+    },
+    {
+      "start": 2411.58,
+      "end": 2419.18,
+      "text": "animals are killed. So, indirectly, you're also responsible for it and not only animals, human"
+    },
+    {
+      "start": 2419.18,
+      "end": 2428.46,
+      "text": "beings are also killed by cars. In fact, 2000 human beings are killed by cars every day on the road"
+    },
+    {
+      "start": 2428.46,
+      "end": 2436.38,
+      "text": "in this world. So, the fact that we drive cars or we sit in cars, we are indirectly"
+    },
+    {
+      "start": 2436.46,
+      "end": 2449.66,
+      "text": "causing the killing of human beings and animals on the road because we encourage the production"
+    },
+    {
+      "start": 2449.66,
+      "end": 2458.06,
+      "text": "of more cars every day. So, because of that, you can see that killing is something that,"
+    },
+    {
+      "start": 2459.34,
+      "end": 2464.38,
+      "text": "indirect killing is something that cannot be avoided just because we want to survive."
+    },
+    {
+      "start": 2464.94,
+      "end": 2471.74,
+      "text": "But what is important is that the direct karma of killing should not be on our hands."
+    },
+    {
+      "start": 2472.94,
+      "end": 2478.46,
+      "text": "And the Buddha said, for that, there must be these three conditions. If you want to eat meat,"
+    },
+    {
+      "start": 2478.46,
+      "end": 2483.82,
+      "text": "we don't kill, we don't ask somebody to kill, we don't see the killing and we don't hear the"
+    },
+    {
+      "start": 2483.82,
+      "end": 2492.78,
+      "text": "animal cry as it was being killed. And then our hands are in a way free of this killing."
+    }
+  ]
+}

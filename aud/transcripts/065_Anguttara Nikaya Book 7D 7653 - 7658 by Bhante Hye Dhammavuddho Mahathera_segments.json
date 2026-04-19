@@ -1,0 +1,2650 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1991.111125,
+  "segments": [
+    {
+      "start": 0.91,
+      "end": 5.41,
+      "text": "The next Suta is 7.6.53."
+    },
+    {
+      "start": 5.41,
+      "end": 9.41,
+      "text": "Once, when the Exalted One dwelt near Rajagaha"
+    },
+    {
+      "start": 9.41,
+      "end": 13.91,
+      "text": "on Mount Voucher Peak, two devas of surpassing loveliness"
+    },
+    {
+      "start": 13.91,
+      "end": 18.41,
+      "text": "lighting up almost the whole peak approached the Exalted One,"
+    },
+    {
+      "start": 18.41,
+      "end": 21.91,
+      "text": "at the passing of the night, saluted Him and stood at one side."
+    },
+    {
+      "start": 21.91,
+      "end": 24.41,
+      "text": "And standing there, one deva said,"
+    },
+    {
+      "start": 24.41,
+      "end": 27.91,
+      "text": "Lord, these nuns are freed, and the other said,"
+    },
+    {
+      "start": 27.91,
+      "end": 33.91,
+      "text": "Lord, these nuns are wholly freed and without attached remainder."
+    },
+    {
+      "start": 33.91,
+      "end": 36.91,
+      "text": "Thus spoke those devas and the master approved,"
+    },
+    {
+      "start": 36.91,
+      "end": 39.91,
+      "text": "and seeing that they saluted the Exalted One"
+    },
+    {
+      "start": 39.91,
+      "end": 43.91,
+      "text": "and keeping Him on their right, vanished from there."
+    },
+    {
+      "start": 43.91,
+      "end": 46.91,
+      "text": "I'll just stop here for a moment to commend."
+    },
+    {
+      "start": 46.91,
+      "end": 50.41,
+      "text": "You'll notice, even though the Buddha had psychic power,"
+    },
+    {
+      "start": 50.41,
+      "end": 53.41,
+      "text": "quite often the devas have only deems."
+    },
+    {
+      "start": 53.41,
+      "end": 55.91,
+      "text": "They would come and inform the Buddha about certain things"
+    },
+    {
+      "start": 55.91,
+      "end": 58.41,
+      "text": "that were happening around, and that is because,"
+    },
+    {
+      "start": 58.41,
+      "end": 61.41,
+      "text": "even though the Buddha has psychic power,"
+    },
+    {
+      "start": 61.41,
+      "end": 65.91,
+      "text": "he did not make any effort to know what was going around him,"
+    },
+    {
+      "start": 65.91,
+      "end": 71.41,
+      "text": "because usually he'd abide in meditation, he abide in Jhana,"
+    },
+    {
+      "start": 71.41,
+      "end": 74.91,
+      "text": "and he is being a person who is liberated,"
+    },
+    {
+      "start": 74.91,
+      "end": 77.41,
+      "text": "he doesn't worry about the world,"
+    },
+    {
+      "start": 77.41,
+      "end": 81.41,
+      "text": "but sometimes he does worry about his disciples."
+    },
+    {
+      "start": 81.41,
+      "end": 84.91,
+      "text": "Then he'll go and give advice to his disciples sometimes."
+    },
+    {
+      "start": 84.91,
+      "end": 86.91,
+      "text": "Then the Sutta continues."
+    },
+    {
+      "start": 86.91,
+      "end": 91.41,
+      "text": "At dawn, the Exalted One told the monks all that had taken place."
+    },
+    {
+      "start": 91.41,
+      "end": 93.91,
+      "text": "Now at that time, the Venerable Mahamobelana"
+    },
+    {
+      "start": 93.91,
+      "end": 96.41,
+      "text": "sat near the Exalted One, and he thought,"
+    },
+    {
+      "start": 96.41,
+      "end": 100.41,
+      "text": "what devas know the partly attached as partly attached,"
+    },
+    {
+      "start": 100.41,
+      "end": 103.41,
+      "text": "the wholly detached as wholly detached."
+    },
+    {
+      "start": 103.41,
+      "end": 107.41,
+      "text": "About then, a monk named Tissa had recently died,"
+    },
+    {
+      "start": 107.41,
+      "end": 110.41,
+      "text": "and had arisen in one of the Brahma worlds,"
+    },
+    {
+      "start": 110.41,
+      "end": 115.41,
+      "text": "and there they knew him as Brahmatissa, the mighty, the very powerful."
+    },
+    {
+      "start": 115.41,
+      "end": 118.41,
+      "text": "And the Venerable Mahamobelana, as a strong man,"
+    },
+    {
+      "start": 118.41,
+      "end": 122.41,
+      "text": "might stretch forth his bent arm, or bend his outstretched arm,"
+    },
+    {
+      "start": 122.41,
+      "end": 126.91,
+      "text": "vanished from Mount Baalchopee, and appeared in that Brahma world."
+    },
+    {
+      "start": 126.91,
+      "end": 130.91,
+      "text": "And Brahmatissa saw the Venerable One from afar coming along,"
+    },
+    {
+      "start": 130.91,
+      "end": 133.91,
+      "text": "and on seeing him said, come worthy Mogulana,"
+    },
+    {
+      "start": 133.91,
+      "end": 135.91,
+      "text": "welcome worthy Mogulana."
+    },
+    {
+      "start": 135.91,
+      "end": 138.91,
+      "text": "It's been long indeed since you made this round,"
+    },
+    {
+      "start": 138.91,
+      "end": 142.41,
+      "text": "that is to say, came here, be seated worthy sir,"
+    },
+    {
+      "start": 142.41,
+      "end": 144.91,
+      "text": "here on this seat made ready."
+    },
+    {
+      "start": 144.91,
+      "end": 148.91,
+      "text": "And the Venerable Mahamobelana sat down on the seat made ready,"
+    },
+    {
+      "start": 148.91,
+      "end": 151.91,
+      "text": "and Brahmatissa, after paying homage to him,"
+    },
+    {
+      "start": 151.91,
+      "end": 154.41,
+      "text": "also sat down at one side."
+    },
+    {
+      "start": 154.41,
+      "end": 157.41,
+      "text": "And the Venerable Mahamobelana said to Brahmatissa,"
+    },
+    {
+      "start": 157.41,
+      "end": 161.41,
+      "text": "thus seated, to what devas, Tissa, is there this knowledge,"
+    },
+    {
+      "start": 161.41,
+      "end": 164.41,
+      "text": "as to being partly unattached, he is there,"
+    },
+    {
+      "start": 164.41,
+      "end": 167.41,
+      "text": "as to being wholly unattached, he is there."
+    },
+    {
+      "start": 167.41,
+      "end": 169.91,
+      "text": "And the Brahmatissa said,"
+    },
+    {
+      "start": 169.91,
+      "end": 173.91,
+      "text": "the Brahmadeva hosts worthy Mogulana have this knowledge."
+    },
+    {
+      "start": 173.91,
+      "end": 176.91,
+      "text": "What have they all this knowledge?"
+    },
+    {
+      "start": 176.91,
+      "end": 181.91,
+      "text": "No worthy sir, those devas who are satisfied with Brahma life,"
+    },
+    {
+      "start": 181.91,
+      "end": 185.91,
+      "text": "Brahma beauty, Brahma happiness, Brahma power,"
+    },
+    {
+      "start": 185.91,
+      "end": 189.91,
+      "text": "and no, not the escape from it, to the beyond, as there really is,"
+    },
+    {
+      "start": 189.91,
+      "end": 193.91,
+      "text": "they have not this knowledge, as to being partly unattached, he is there,"
+    },
+    {
+      "start": 193.91,
+      "end": 196.91,
+      "text": "as to being wholly unattached, he is there."
+    },
+    {
+      "start": 196.91,
+      "end": 200.91,
+      "text": "But those devas of the Brahma hosts who are not so satisfied,"
+    },
+    {
+      "start": 200.91,
+      "end": 204.41,
+      "text": "and no, they escape to the beyond, they have this knowledge."
+    },
+    {
+      "start": 204.41,
+      "end": 210.41,
+      "text": "Consider worthy Mogulana, the man who is freed both ways,"
+    },
+    {
+      "start": 210.41,
+      "end": 215.41,
+      "text": "of him those devas know thus, this reverend sir is freed both ways,"
+    },
+    {
+      "start": 215.41,
+      "end": 219.91,
+      "text": "and so long as his body lasts, devas and men shall see him,"
+    },
+    {
+      "start": 219.91,
+      "end": 223.41,
+      "text": "but on the breaking up of the body, they shall not see him,"
+    },
+    {
+      "start": 223.41,
+      "end": 227.91,
+      "text": "and thus it is worthy sir, that these devas have the knowledge,"
+    },
+    {
+      "start": 227.91,
+      "end": 231.91,
+      "text": "as to being unattached, he is there."
+    },
+    {
+      "start": 231.91,
+      "end": 235.91,
+      "text": "I'll just stop here to commend."
+    },
+    {
+      "start": 235.91,
+      "end": 239.91,
+      "text": "So you see this Mahamogulana, the Arahana,"
+    },
+    {
+      "start": 239.91,
+      "end": 242.91,
+      "text": "went to consult the Brahmatissa."
+    },
+    {
+      "start": 242.91,
+      "end": 247.41,
+      "text": "It might be that this deva was formerly a disciple of the"
+    },
+    {
+      "start": 247.41,
+      "end": 251.91,
+      "text": "Venerable Mahamogulana, that is why the Venerable Mahamogulana"
+    },
+    {
+      "start": 251.91,
+      "end": 255.91,
+      "text": "seems to be very badly with him, went to consult him,"
+    },
+    {
+      "start": 255.91,
+      "end": 261.91,
+      "text": "and the Brahmatissa paid respect to the Venerable Mahamogulana."
+    },
+    {
+      "start": 261.91,
+      "end": 269.91,
+      "text": "And in the previous Sutta, Angutani Kaya 6.4.34,"
+    },
+    {
+      "start": 269.91,
+      "end": 275.91,
+      "text": "we also read about how Venerable Mahamogulana consulted this same Brahmatissa,"
+    },
+    {
+      "start": 276.41,
+      "end": 280.41,
+      "text": "about how many devas have entered the stream."
+    },
+    {
+      "start": 280.41,
+      "end": 287.41,
+      "text": "Now here the Brahmatissa is talking about the first type of Arya,"
+    },
+    {
+      "start": 287.41,
+      "end": 292.41,
+      "text": "the both ways liberated."
+    },
+    {
+      "start": 292.41,
+      "end": 296.41,
+      "text": "This feed both ways, or both ways liberated,"
+    },
+    {
+      "start": 296.41,
+      "end": 304.41,
+      "text": "refers to the Arahana, who is liberated by mind and liberated by wisdom,"
+    },
+    {
+      "start": 304.41,
+      "end": 308.41,
+      "text": "who is also called and Arahana liberated by mind."
+    },
+    {
+      "start": 308.41,
+      "end": 311.41,
+      "text": "Then he continues,"
+    },
+    {
+      "start": 311.41,
+      "end": 314.91,
+      "text": "again consider him who is liberated by wisdom,"
+    },
+    {
+      "start": 314.91,
+      "end": 316.91,
+      "text": "they know of him the same."
+    },
+    {
+      "start": 316.91,
+      "end": 320.91,
+      "text": "Consider the man who is a body witness, Kaya Sakhi,"
+    },
+    {
+      "start": 320.91,
+      "end": 325.41,
+      "text": "of him they know, this reverence is a body witness,"
+    },
+    {
+      "start": 325.41,
+      "end": 329.91,
+      "text": "perhaps by practicing things proper as to sleeping and sitting,"
+    },
+    {
+      "start": 329.91,
+      "end": 333.91,
+      "text": "having fellowship with good friends, controlling the faculties,"
+    },
+    {
+      "start": 333.91,
+      "end": 338.91,
+      "text": "he may enter and abide in that consummation beyond all of the holy life,"
+    },
+    {
+      "start": 338.91,
+      "end": 341.91,
+      "text": "realising it here and now by his own knowledge,"
+    },
+    {
+      "start": 341.91,
+      "end": 346.41,
+      "text": "for the sake of which clansmen rightly go forth from the home to the homeless life."
+    },
+    {
+      "start": 346.41,
+      "end": 349.91,
+      "text": "And thus it is worthy, sir, that these devas have the knowledge,"
+    },
+    {
+      "start": 349.91,
+      "end": 352.91,
+      "text": "as of being partly unattached, he is that."
+    },
+    {
+      "start": 352.91,
+      "end": 359.91,
+      "text": "Consider him who is a view-winner or view-attainer, Nithipato,"
+    },
+    {
+      "start": 359.91,
+      "end": 363.91,
+      "text": "and then the faith released, Sada Vimutto,"
+    },
+    {
+      "start": 363.91,
+      "end": 366.91,
+      "text": "and then the Dhamma follower, Dhamma Nussarin,"
+    },
+    {
+      "start": 366.91,
+      "end": 369.91,
+      "text": "of each they know, this reverence is such a one,"
+    },
+    {
+      "start": 369.91,
+      "end": 372.91,
+      "text": "and perhaps by practicing things proper,"
+    },
+    {
+      "start": 372.91,
+      "end": 377.91,
+      "text": "they may enter and abide in the consummation beyond all of the holy life,"
+    },
+    {
+      "start": 377.91,
+      "end": 382.91,
+      "text": "and thus these devas know, as to being partly unattached, he is that."
+    },
+    {
+      "start": 382.91,
+      "end": 385.91,
+      "text": "I'll stop here again to commend."
+    },
+    {
+      "start": 385.91,
+      "end": 391.91,
+      "text": "The first two, the free both ways, or liberated both ways,"
+    },
+    {
+      "start": 391.91,
+      "end": 396.91,
+      "text": "and liberated by mine refers to the arahand,"
+    },
+    {
+      "start": 396.91,
+      "end": 402.91,
+      "text": "and they are wholly unattached, but the others mentioned here,"
+    },
+    {
+      "start": 402.91,
+      "end": 408.91,
+      "text": "they are Arya who have not completed their work,"
+    },
+    {
+      "start": 408.91,
+      "end": 413.91,
+      "text": "and because of that they are partly unattached,"
+    },
+    {
+      "start": 413.91,
+      "end": 418.91,
+      "text": "not wholly unattached."
+    },
+    {
+      "start": 418.91,
+      "end": 423.91,
+      "text": "According to the Angutra Nikaya 3.3.21,"
+    },
+    {
+      "start": 423.91,
+      "end": 428.91,
+      "text": "the body-witness, then the view-attainer,"
+    },
+    {
+      "start": 428.91,
+      "end": 435.91,
+      "text": "and the faith-released, either Sakadagamin, Anagamin,"
+    },
+    {
+      "start": 435.91,
+      "end": 442.91,
+      "text": "or 4th path Arya, Arhataya Patipano,"
+    },
+    {
+      "start": 442.91,
+      "end": 450.91,
+      "text": "the 2nd fruition, 3rd fruition, or the 4th path Arya."
+    },
+    {
+      "start": 450.91,
+      "end": 452.91,
+      "text": "And the Sutta continues,"
+    },
+    {
+      "start": 452.91,
+      "end": 457.91,
+      "text": "and the Venerable Mahamogalana, delighted, pleased by Brahmatisa's words,"
+    },
+    {
+      "start": 457.91,
+      "end": 460.91,
+      "text": "as a strong man might bend his arm to and fro,"
+    },
+    {
+      "start": 460.91,
+      "end": 464.91,
+      "text": "vanish from the Brahma world, and appeared on Mount Vulture peak,"
+    },
+    {
+      "start": 464.91,
+      "end": 468.91,
+      "text": "and he approached the exalted one, saluted him, and sat down at one side,"
+    },
+    {
+      "start": 468.91,
+      "end": 471.91,
+      "text": "and seated thus the Venerable Mahamogalana,"
+    },
+    {
+      "start": 471.91,
+      "end": 476.91,
+      "text": "related to the exalted one, all that talk that he had with Brahmatisa,"
+    },
+    {
+      "start": 476.91,
+      "end": 478.91,
+      "text": "and the Buddha said,"
+    },
+    {
+      "start": 478.91,
+      "end": 482.91,
+      "text": "but Brahmatisa did not teach you the 7th person, Mughalana,"
+    },
+    {
+      "start": 482.91,
+      "end": 487.91,
+      "text": "the dweller in the signless, and the Venerable Mughalana said,"
+    },
+    {
+      "start": 487.91,
+      "end": 491.91,
+      "text": "now is the time, O blessed one, now is the time, O welfareer,"
+    },
+    {
+      "start": 491.91,
+      "end": 495.91,
+      "text": "were the exalted one to teach concerning the dweller in the signless,"
+    },
+    {
+      "start": 495.91,
+      "end": 498.91,
+      "text": "the monks would hear and remember,"
+    },
+    {
+      "start": 498.91,
+      "end": 502.91,
+      "text": "therefore Mughalana, listen, pay heed, I will speak."
+    },
+    {
+      "start": 502.91,
+      "end": 505.91,
+      "text": "His Lord rejoined the Venerable Mahamogalana,"
+    },
+    {
+      "start": 505.91,
+      "end": 507.91,
+      "text": "and the exalted one said,"
+    },
+    {
+      "start": 507.91,
+      "end": 511.91,
+      "text": "consider Mughalana, the monk who, by inattention to all signs,"
+    },
+    {
+      "start": 511.91,
+      "end": 515.91,
+      "text": "enters and abides in signless mental concentration,"
+    },
+    {
+      "start": 515.91,
+      "end": 517.91,
+      "text": "of him those devas know,"
+    },
+    {
+      "start": 517.91,
+      "end": 521.91,
+      "text": "this reverence abides in signless mental concentration,"
+    },
+    {
+      "start": 521.91,
+      "end": 525.91,
+      "text": "perhaps by practicing things proper as to sleeping and sitting,"
+    },
+    {
+      "start": 525.91,
+      "end": 529.91,
+      "text": "having fellowship with good friends and control of the faculties,"
+    },
+    {
+      "start": 529.91,
+      "end": 534.91,
+      "text": "he may enter and abide in that consummation beyond all of the holy life,"
+    },
+    {
+      "start": 534.91,
+      "end": 537.91,
+      "text": "realising it here, now, by his own knowledge,"
+    },
+    {
+      "start": 537.91,
+      "end": 542.91,
+      "text": "for the sake of which clansmen rightly go forth from the home to the homeless life,"
+    },
+    {
+      "start": 542.91,
+      "end": 546.91,
+      "text": "and thus it is Mughalana that these devas have the knowledge,"
+    },
+    {
+      "start": 546.91,
+      "end": 551.91,
+      "text": "as to being partly unattached, he is that, as the end of the sutta."
+    },
+    {
+      "start": 554.91,
+      "end": 560.91,
+      "text": "Here, the Brahmatisar mentioned about the six types of Arya,"
+    },
+    {
+      "start": 560.91,
+      "end": 565.91,
+      "text": "he left out, the last one not mentioned is the Sada Nusarin,"
+    },
+    {
+      "start": 565.91,
+      "end": 569.91,
+      "text": "the faith follower, he did not mention,"
+    },
+    {
+      "start": 569.91,
+      "end": 576.91,
+      "text": "but the Dhamma Nusarin, the Dhamma follower,"
+    },
+    {
+      "start": 576.91,
+      "end": 579.91,
+      "text": "and the Sada Nusarin, the faith follower,"
+    },
+    {
+      "start": 579.91,
+      "end": 581.91,
+      "text": "are first path attainers,"
+    },
+    {
+      "start": 581.91,
+      "end": 584.91,
+      "text": "according to the Sawhitna Nikaya, 25.1,"
+    },
+    {
+      "start": 584.91,
+      "end": 590.91,
+      "text": "and then the Buddha talked in the end about the one who abides"
+    },
+    {
+      "start": 590.91,
+      "end": 592.91,
+      "text": "in signless mental concentration,"
+    },
+    {
+      "start": 592.91,
+      "end": 597.91,
+      "text": "signless mental concentration is that concentration of mind,"
+    },
+    {
+      "start": 597.91,
+      "end": 600.91,
+      "text": "which is not attached to any sign,"
+    },
+    {
+      "start": 600.91,
+      "end": 607.86,
+      "text": "which does not have any sign, any object in the mind."
+    },
+    {
+      "start": 607.86,
+      "end": 614.86,
+      "text": "Now, the next sutta is 7.6.54."
+    },
+    {
+      "start": 614.86,
+      "end": 618.86,
+      "text": "Once, while the exalted one dwelt near Vaisali,"
+    },
+    {
+      "start": 618.86,
+      "end": 620.86,
+      "text": "at the Gable Hall in Mahavana,"
+    },
+    {
+      "start": 620.86,
+      "end": 624.86,
+      "text": "General Sihar visited him, saluted and sat down at one side,"
+    },
+    {
+      "start": 624.86,
+      "end": 626.86,
+      "text": "so seated he said to the exalted one,"
+    },
+    {
+      "start": 626.86,
+      "end": 631.86,
+      "text": "is it possible, Lord, to show the visible result of giving?"
+    },
+    {
+      "start": 631.86,
+      "end": 635.86,
+      "text": "Well, Sihar, just on that I will question you in return,"
+    },
+    {
+      "start": 635.86,
+      "end": 638.86,
+      "text": "explain the matter as it seems good to you."
+    },
+    {
+      "start": 638.86,
+      "end": 641.86,
+      "text": "What do you think, Sihar, there might be two men,"
+    },
+    {
+      "start": 641.86,
+      "end": 645.86,
+      "text": "one unbelieving, mean, Maisali, cross grain,"
+    },
+    {
+      "start": 645.86,
+      "end": 648.86,
+      "text": "the other a believer, a master giver,"
+    },
+    {
+      "start": 648.86,
+      "end": 650.86,
+      "text": "delighting in constant giving."
+    },
+    {
+      "start": 650.86,
+      "end": 652.86,
+      "text": "What do you think, Sihar,"
+    },
+    {
+      "start": 652.86,
+      "end": 656.86,
+      "text": "on whom would compassionate arahants first have compassion?"
+    },
+    {
+      "start": 656.86,
+      "end": 660.86,
+      "text": "The unbelieving, mean, Maisali, cross grain man,"
+    },
+    {
+      "start": 660.86,
+      "end": 662.86,
+      "text": "or the believer, the master giver,"
+    },
+    {
+      "start": 662.86,
+      "end": 665.86,
+      "text": "who delights in constant arms giving?"
+    },
+    {
+      "start": 665.86,
+      "end": 668.86,
+      "text": "And he said, the unbeliever, Lord,"
+    },
+    {
+      "start": 668.86,
+      "end": 671.86,
+      "text": "why should they first have compassion on him?"
+    },
+    {
+      "start": 671.86,
+      "end": 675.86,
+      "text": "But the believer, on him surely they would first have compassion."
+    },
+    {
+      "start": 675.86,
+      "end": 677.86,
+      "text": "Then what do you think, Sihar,"
+    },
+    {
+      "start": 677.86,
+      "end": 681.86,
+      "text": "which of the two would visiting arahants first visit?"
+    },
+    {
+      "start": 681.86,
+      "end": 683.86,
+      "text": "The believer surely, Lord."
+    },
+    {
+      "start": 683.86,
+      "end": 687.86,
+      "text": "From whom would receiving arahants first receive arms?"
+    },
+    {
+      "start": 687.86,
+      "end": 689.86,
+      "text": "From the believer surely, Lord."
+    },
+    {
+      "start": 689.86,
+      "end": 693.86,
+      "text": "To whom would teaching arahants first teach dhamma?"
+    },
+    {
+      "start": 693.86,
+      "end": 695.86,
+      "text": "To the believer surely, Lord."
+    },
+    {
+      "start": 695.86,
+      "end": 698.86,
+      "text": "Or of whom would a fair report be brought,"
+    },
+    {
+      "start": 698.86,
+      "end": 700.86,
+      "text": "be noise abroad?"
+    },
+    {
+      "start": 700.86,
+      "end": 704.86,
+      "text": "That means a good report, be circulated."
+    },
+    {
+      "start": 704.86,
+      "end": 706.86,
+      "text": "Of the believer surely, Lord."
+    },
+    {
+      "start": 706.86,
+      "end": 708.86,
+      "text": "Who would approach any gathering,"
+    },
+    {
+      "start": 708.86,
+      "end": 711.86,
+      "text": "nobles, brahmin, householders, recluses,"
+    },
+    {
+      "start": 711.86,
+      "end": 715.86,
+      "text": "with confidence, untroubled and unashamed?"
+    },
+    {
+      "start": 715.86,
+      "end": 719.86,
+      "text": "And then, Sihar said, the believer surely, Lord."
+    },
+    {
+      "start": 719.86,
+      "end": 720.86,
+      "text": "And what do you think, Sihar,"
+    },
+    {
+      "start": 720.86,
+      "end": 723.86,
+      "text": "who on the breaking up of the body after death"
+    },
+    {
+      "start": 723.86,
+      "end": 726.86,
+      "text": "would arise in the happy heaven world?"
+    },
+    {
+      "start": 726.86,
+      "end": 729.86,
+      "text": "The unbelieving, mean, Maisali, cross grain man,"
+    },
+    {
+      "start": 729.86,
+      "end": 731.86,
+      "text": "or the believer, the master giver,"
+    },
+    {
+      "start": 731.86,
+      "end": 734.86,
+      "text": "who delights in constant arms giving?"
+    },
+    {
+      "start": 734.86,
+      "end": 736.86,
+      "text": "The unbeliever, Lord,"
+    },
+    {
+      "start": 736.86,
+      "end": 739.86,
+      "text": "why shall he on the breaking up of the body"
+    },
+    {
+      "start": 739.86,
+      "end": 742.86,
+      "text": "after death arise in the happy heaven world?"
+    },
+    {
+      "start": 742.86,
+      "end": 744.86,
+      "text": "But the believer after death may arise"
+    },
+    {
+      "start": 744.86,
+      "end": 746.86,
+      "text": "in the happy heaven world."
+    },
+    {
+      "start": 746.86,
+      "end": 749.86,
+      "text": "Lord, these six visible results of giving"
+    },
+    {
+      "start": 749.86,
+      "end": 752.86,
+      "text": "declared by the exalted one."
+    },
+    {
+      "start": 752.86,
+      "end": 755.86,
+      "text": "I go not to the exalted one by faith for that."
+    },
+    {
+      "start": 755.86,
+      "end": 757.86,
+      "text": "I just know them."
+    },
+    {
+      "start": 757.86,
+      "end": 760.86,
+      "text": "I, Lord, am a giver, a master giver."
+    },
+    {
+      "start": 760.86,
+      "end": 762.86,
+      "text": "And on me, compassionate arahants,"
+    },
+    {
+      "start": 762.86,
+      "end": 764.86,
+      "text": "first have compassion."
+    },
+    {
+      "start": 764.86,
+      "end": 766.86,
+      "text": "Me, they first visit."
+    },
+    {
+      "start": 766.86,
+      "end": 768.86,
+      "text": "From me, they first receive."
+    },
+    {
+      "start": 768.86,
+      "end": 770.86,
+      "text": "Me, they first teach dhamma."
+    },
+    {
+      "start": 770.86,
+      "end": 773.86,
+      "text": "Of me, a fair report is noise abroad."
+    },
+    {
+      "start": 773.86,
+      "end": 776.86,
+      "text": "General Sihar is a giver, a worker,"
+    },
+    {
+      "start": 776.86,
+      "end": 778.86,
+      "text": "the Sangha servant."
+    },
+    {
+      "start": 778.86,
+      "end": 780.86,
+      "text": "It is said,"
+    },
+    {
+      "start": 780.86,
+      "end": 782.86,
+      "text": "any gathering I approach,"
+    },
+    {
+      "start": 782.86,
+      "end": 784.86,
+      "text": "nobles, Brahmins, householders, recluses,"
+    },
+    {
+      "start": 784.86,
+      "end": 787.86,
+      "text": "I approach with confidence, untroubled."
+    },
+    {
+      "start": 787.86,
+      "end": 790.86,
+      "text": "Lord, these six visible results of giving"
+    },
+    {
+      "start": 790.86,
+      "end": 792.86,
+      "text": "declared by the exalted one."
+    },
+    {
+      "start": 792.86,
+      "end": 794.86,
+      "text": "I go not to the exalted one by faith for that."
+    },
+    {
+      "start": 794.86,
+      "end": 796.86,
+      "text": "I just know them."
+    },
+    {
+      "start": 796.86,
+      "end": 798.86,
+      "text": "But when the exalted one said,"
+    },
+    {
+      "start": 798.86,
+      "end": 800.86,
+      "text": "the giver Sihar, the master giver,"
+    },
+    {
+      "start": 800.86,
+      "end": 803.86,
+      "text": "on the breaking up of the body after death"
+    },
+    {
+      "start": 803.86,
+      "end": 805.86,
+      "text": "arises in the happy heaven world,"
+    },
+    {
+      "start": 805.86,
+      "end": 807.86,
+      "text": "then I know not."
+    },
+    {
+      "start": 807.86,
+      "end": 810.86,
+      "text": "And there I go to the exalted one by faith."
+    },
+    {
+      "start": 810.86,
+      "end": 812.86,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 812.86,
+      "end": 814.86,
+      "text": "does it is Sihar, does it is?"
+    },
+    {
+      "start": 814.86,
+      "end": 816.86,
+      "text": "The giver Sihar, the master giver,"
+    },
+    {
+      "start": 816.86,
+      "end": 819.86,
+      "text": "on the breaking up of the body after death"
+    },
+    {
+      "start": 819.86,
+      "end": 821.86,
+      "text": "arises in the happy heaven world."
+    },
+    {
+      "start": 821.86,
+      "end": 823.86,
+      "text": "That's the end of the Sutta."
+    },
+    {
+      "start": 823.86,
+      "end": 827.86,
+      "text": "So in this Sutta, the Buddha has described"
+    },
+    {
+      "start": 827.86,
+      "end": 831.86,
+      "text": "the visible results of giving."
+    },
+    {
+      "start": 831.86,
+      "end": 834.86,
+      "text": "And General Sihar said that"
+    },
+    {
+      "start": 834.86,
+      "end": 838.86,
+      "text": "the first six results he can see"
+    },
+    {
+      "start": 838.86,
+      "end": 841.86,
+      "text": "to be true because it is applicable to him"
+    },
+    {
+      "start": 841.86,
+      "end": 843.86,
+      "text": "because he's a great giver,"
+    },
+    {
+      "start": 843.86,
+      "end": 847.86,
+      "text": "a great person who makes a lot of offerings"
+    },
+    {
+      "start": 847.86,
+      "end": 849.86,
+      "text": "to the monks."
+    },
+    {
+      "start": 850.86,
+      "end": 853.86,
+      "text": "But the last one he said that he could not see"
+    },
+    {
+      "start": 853.86,
+      "end": 858.86,
+      "text": "and that a giver by arms giving"
+    },
+    {
+      "start": 858.86,
+      "end": 861.86,
+      "text": "would take rebirth in the heaven world."
+    },
+    {
+      "start": 861.86,
+      "end": 864.86,
+      "text": "So he said he just has to believe the Buddha"
+    },
+    {
+      "start": 864.86,
+      "end": 867.86,
+      "text": "for that this General Sihar used to be"
+    },
+    {
+      "start": 867.86,
+      "end": 871.86,
+      "text": "one of the followers of the external psychosatics."
+    },
+    {
+      "start": 871.86,
+      "end": 874.86,
+      "text": "But later he went to see the Buddha"
+    },
+    {
+      "start": 874.86,
+      "end": 877.86,
+      "text": "and was converted by the Buddha."
+    },
+    {
+      "start": 877.86,
+      "end": 881.86,
+      "text": "And in one of the suttas later will come across"
+    },
+    {
+      "start": 881.86,
+      "end": 884.86,
+      "text": "he invited the Buddha to his house for food"
+    },
+    {
+      "start": 884.86,
+      "end": 886.86,
+      "text": "and he served the Buddha with meat."
+    },
+    {
+      "start": 886.86,
+      "end": 889.86,
+      "text": "And the external psychosatics were jealous"
+    },
+    {
+      "start": 889.86,
+      "end": 892.86,
+      "text": "that they had lost such a famous disciple,"
+    },
+    {
+      "start": 892.86,
+      "end": 895.86,
+      "text": "such a powerful disciple."
+    },
+    {
+      "start": 895.86,
+      "end": 897.86,
+      "text": "And they spread around the world"
+    },
+    {
+      "start": 897.86,
+      "end": 900.86,
+      "text": "that the Buddha was eating meat"
+    },
+    {
+      "start": 900.86,
+      "end": 903.86,
+      "text": "that was purposely slaughtered for the Buddha."
+    },
+    {
+      "start": 903.86,
+      "end": 908.86,
+      "text": "And the Buddha, when the Buddha heard that"
+    },
+    {
+      "start": 908.86,
+      "end": 911.86,
+      "text": "then the Buddha informed the people"
+    },
+    {
+      "start": 911.86,
+      "end": 913.86,
+      "text": "that they only eat meat,"
+    },
+    {
+      "start": 913.86,
+      "end": 914.86,
+      "text": "the Buddha is disciples,"
+    },
+    {
+      "start": 914.86,
+      "end": 916.86,
+      "text": "only eat meat with three conditions."
+    },
+    {
+      "start": 916.86,
+      "end": 919.86,
+      "text": "That they did not slaughter the animal"
+    },
+    {
+      "start": 919.86,
+      "end": 921.86,
+      "text": "or ask somebody to slaughter."
+    },
+    {
+      "start": 921.86,
+      "end": 923.86,
+      "text": "Second, they don't see the killing."
+    },
+    {
+      "start": 923.86,
+      "end": 925.86,
+      "text": "Thirdly, they don't hear the animal cry"
+    },
+    {
+      "start": 925.86,
+      "end": 927.86,
+      "text": "as it was being slaughtered."
+    },
+    {
+      "start": 927.86,
+      "end": 930.86,
+      "text": "And this shows that the Buddha"
+    },
+    {
+      "start": 930.86,
+      "end": 933.86,
+      "text": "and his disciples did eat meat."
+    },
+    {
+      "start": 933.86,
+      "end": 938.86,
+      "text": "Only that it had these three conditions."
+    },
+    {
+      "start": 938.86,
+      "end": 947.81,
+      "text": "Now they come to Sutta 7.6.56."
+    },
+    {
+      "start": 947.81,
+      "end": 950.81,
+      "text": "Once when the exalted one"
+    },
+    {
+      "start": 950.81,
+      "end": 954.81,
+      "text": "was staying in the bamboo grove near Kimbila,"
+    },
+    {
+      "start": 954.81,
+      "end": 957.81,
+      "text": "the venerable Kimbila approached him,"
+    },
+    {
+      "start": 957.81,
+      "end": 959.81,
+      "text": "saluted and sat down at one side."
+    },
+    {
+      "start": 959.81,
+      "end": 961.81,
+      "text": "So seated he said,"
+    },
+    {
+      "start": 961.81,
+      "end": 965.81,
+      "text": "Lord, what is the cause, the reason why"
+    },
+    {
+      "start": 965.81,
+      "end": 969.81,
+      "text": "when the Tathagata has become completely cool,"
+    },
+    {
+      "start": 969.81,
+      "end": 973.81,
+      "text": "saddhamma or true dhamma will not last?"
+    },
+    {
+      "start": 973.81,
+      "end": 974.81,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 974.81,
+      "end": 976.81,
+      "text": "suppose Kimbila,"
+    },
+    {
+      "start": 976.81,
+      "end": 980.81,
+      "text": "when the Tathagata has become completely cool,"
+    },
+    {
+      "start": 980.81,
+      "end": 984.81,
+      "text": "the monks, nuns, laymen and laywomen"
+    },
+    {
+      "start": 984.81,
+      "end": 988.81,
+      "text": "live without reverence, without heed for the teacher,"
+    },
+    {
+      "start": 988.81,
+      "end": 992.81,
+      "text": "live without reverence, without heed for dhamma,"
+    },
+    {
+      "start": 992.81,
+      "end": 998.81,
+      "text": "live without reverence, without heed for the sangha,"
+    },
+    {
+      "start": 998.81,
+      "end": 1002.81,
+      "text": "live without reverence, without heed for the training,"
+    },
+    {
+      "start": 1002.81,
+      "end": 1005.81,
+      "text": "without reverence, without heed for concentration,"
+    },
+    {
+      "start": 1005.81,
+      "end": 1010.81,
+      "text": "live without reverence, without heed for earnestness,"
+    },
+    {
+      "start": 1010.81,
+      "end": 1014.81,
+      "text": "live without reverence, without heed for goodwill,"
+    },
+    {
+      "start": 1014.81,
+      "end": 1016.81,
+      "text": "verily Kimbila, this is the cause,"
+    },
+    {
+      "start": 1016.81,
+      "end": 1021.81,
+      "text": "the reason why when the Tathāgātā has become completely cool,"
+    },
+    {
+      "start": 1021.81,
+      "end": 1032.5,
+      "text": "saddhamma or true dhamma will not last as the end of the sutta."
+    },
+    {
+      "start": 1032.5,
+      "end": 1042.5,
+      "text": "This is one of those suttas where the courses for the disappearance of the true dhamma,"
+    },
+    {
+      "start": 1042.5,
+      "end": 1046.5,
+      "text": "that means the discourses of the Buddha are given."
+    },
+    {
+      "start": 1046.5,
+      "end": 1052.5,
+      "text": "And here we find that it's because people have no respect for the Buddha."
+    },
+    {
+      "start": 1052.5,
+      "end": 1057.5,
+      "text": "Instead of following the Buddha, they prefer to follow some or other."
+    },
+    {
+      "start": 1057.5,
+      "end": 1061.5,
+      "text": "And then they have no reverence for the dhamma,"
+    },
+    {
+      "start": 1061.5,
+      "end": 1064.5,
+      "text": "that means the discourses of the Buddha."
+    },
+    {
+      "start": 1064.5,
+      "end": 1073.5,
+      "text": "Because in the Angutra Gikaya 4.180 the Buddha said that dhamma refers to the suttas, the discourses."
+    },
+    {
+      "start": 1073.5,
+      "end": 1078.5,
+      "text": "And then the Sangha is the Bikku Sangha here."
+    },
+    {
+      "start": 1078.5,
+      "end": 1085.5,
+      "text": "It's not referring to the Arya Sangha because you don't know who is an Arya, who is not an Arya,"
+    },
+    {
+      "start": 1085.5,
+      "end": 1088.5,
+      "text": "but you know who is a monk, who is not a monk."
+    },
+    {
+      "start": 1088.5,
+      "end": 1099.5,
+      "text": "So here means without reverence for the Sangha of monks and possibly because the monks do not follow the precepts."
+    },
+    {
+      "start": 1099.5,
+      "end": 1104.5,
+      "text": "People lose faith, lose respect for the monks and slowly."
+    },
+    {
+      "start": 1104.5,
+      "end": 1108.5,
+      "text": "That also causes the downfall of the true dhamma."
+    },
+    {
+      "start": 1108.5,
+      "end": 1115.5,
+      "text": "The training means keeping the precepts generally."
+    },
+    {
+      "start": 1115.5,
+      "end": 1120.5,
+      "text": "And then for concentration, no reverence for concentration."
+    },
+    {
+      "start": 1120.5,
+      "end": 1128.5,
+      "text": "This we can see nowadays when people say that samadhi, which the Buddha refers to as the janas,"
+    },
+    {
+      "start": 1128.5,
+      "end": 1133.5,
+      "text": "or one pointedness of mind in the suttas, they say it's not necessary."
+    },
+    {
+      "start": 1133.5,
+      "end": 1147.5,
+      "text": "And then without reverence for good will, good will or metha is necessary if Buddhists are to be united and in harmony."
+    },
+    {
+      "start": 1147.5,
+      "end": 1154.7,
+      "text": "Then the next sutta is 7.6.57."
+    },
+    {
+      "start": 1154.7,
+      "end": 1157.7,
+      "text": "Monks holding fast to seven things."
+    },
+    {
+      "start": 1157.7,
+      "end": 1166.7,
+      "text": "A monk may destroy the asavas and enter and abide in the asava-free emancipation by mind."
+    },
+    {
+      "start": 1166.7,
+      "end": 1167.7,
+      "text": "What seven?"
+    },
+    {
+      "start": 1167.7,
+      "end": 1176.7,
+      "text": "Here in monks, a monk is full of faith, virtuous, learned, lives secluded, has sustained energy, is mindful, is wise."
+    },
+    {
+      "start": 1176.7,
+      "end": 1180.7,
+      "text": "Purely monks holding fast to these seven things."
+    },
+    {
+      "start": 1180.7,
+      "end": 1188.7,
+      "text": "A monk may destroy the asavas and enter and abide in the asava-free emancipation by mind."
+    },
+    {
+      "start": 1188.7,
+      "end": 1194.7,
+      "text": "At the end of the sutta, here are mentioned certain qualities, certain states,"
+    },
+    {
+      "start": 1194.7,
+      "end": 1201.7,
+      "text": "which are very important for a monk to attain destruction of the asavas."
+    },
+    {
+      "start": 1201.7,
+      "end": 1208.7,
+      "text": "The first one is having faith sada in the buddhadama and sangha."
+    },
+    {
+      "start": 1208.7,
+      "end": 1214.7,
+      "text": "The second one is virtuous, that means he has moral conduct, keeps the precepts."
+    },
+    {
+      "start": 1214.7,
+      "end": 1222.7,
+      "text": "Third one, he's learned, that means he's knowledgeable on the suttas and the vinaya."
+    },
+    {
+      "start": 1222.7,
+      "end": 1225.7,
+      "text": "The fourth one, he lives secluded."
+    },
+    {
+      "start": 1225.7,
+      "end": 1234.7,
+      "text": "Seclusion is very important for a monk who wants to strive to end suffering,"
+    },
+    {
+      "start": 1234.7,
+      "end": 1241.7,
+      "text": "and then after that he has sustained energy or energetic effort,"
+    },
+    {
+      "start": 1241.7,
+      "end": 1251.5,
+      "text": "and then he's mindful, practices sattva, and finally he is wise, he has wisdom."
+    },
+    {
+      "start": 1251.5,
+      "end": 1255.5,
+      "text": "The next sutta is 7.6.58."
+    },
+    {
+      "start": 1255.5,
+      "end": 1264.5,
+      "text": "Once, while the exalted one dwelt among the bagis on Crocodile Hill in the Deer Park at Besakala Grove,"
+    },
+    {
+      "start": 1264.5,
+      "end": 1272.5,
+      "text": "the venerable Mahamogalana sat nodding in the village of Kala Vaalamutta among the Magadis,"
+    },
+    {
+      "start": 1272.5,
+      "end": 1280.5,
+      "text": "and the exalted one with the deva eye, surpassing man's in clearness, saw him seated there nodding,"
+    },
+    {
+      "start": 1280.5,
+      "end": 1287.5,
+      "text": "and as a strong man might bend his arm to and fro, the exalted one vanished from the Deer Park"
+    },
+    {
+      "start": 1287.5,
+      "end": 1295.5,
+      "text": "and appeared before the venerable Mahamogalana, and the exalted one sat down on the appointed seat,"
+    },
+    {
+      "start": 1295.5,
+      "end": 1299.5,
+      "text": "and when he was seated, he said to the venerable Mahamogalana,"
+    },
+    {
+      "start": 1299.5,
+      "end": 1303.5,
+      "text": "you were nodding Mogalana, you were dozing Mogalana."
+    },
+    {
+      "start": 1303.5,
+      "end": 1309.5,
+      "text": "Yes Lord, replied, venerable Mahamogalana, I'll just stop here for a while."
+    },
+    {
+      "start": 1309.5,
+      "end": 1317.5,
+      "text": "This is one of very interesting and important suttas, and this is a time when venerable Mahamogalana"
+    },
+    {
+      "start": 1317.5,
+      "end": 1324.5,
+      "text": "had just become a disciple of the Buddha not long, and he had not yet become an arahan,"
+    },
+    {
+      "start": 1324.5,
+      "end": 1333.5,
+      "text": "so he was practising very hard, and according to some other later books for seven days"
+    },
+    {
+      "start": 1333.5,
+      "end": 1339.5,
+      "text": "after the venerable Mahamogalana became a disciple of the Buddha, he did not sleep,"
+    },
+    {
+      "start": 1339.5,
+      "end": 1345.5,
+      "text": "he was practising so hard that he tried not to sleep at night,"
+    },
+    {
+      "start": 1345.5,
+      "end": 1356.5,
+      "text": "and after seven days he attained arahanhood, so this sutta doesn't mention how many days"
+    },
+    {
+      "start": 1356.5,
+      "end": 1362.5,
+      "text": "that was after the venerable Mahamogalana had joined the Buddha, and then the Buddha said,"
+    },
+    {
+      "start": 1362.5,
+      "end": 1370.5,
+      "text": "accordingly Mogalana, if while you abide thoughtful, the thought comes, drowsiness has descended,"
+    },
+    {
+      "start": 1370.5,
+      "end": 1379.5,
+      "text": "take no heed of it, make no ado of that thought, and maybe as you abide so, that drowsiness will pass."
+    },
+    {
+      "start": 1379.5,
+      "end": 1386.5,
+      "text": "If abiding so, it pass not, then you should ponder in your heart on dhamma as heard, as mastered,"
+    },
+    {
+      "start": 1386.5,
+      "end": 1394.5,
+      "text": "exploit with your mind, review it, and maybe as you abide so, that drowsiness will pass."
+    },
+    {
+      "start": 1394.5,
+      "end": 1400.5,
+      "text": "If it pass not, then you should repeat dhamma in detail, as heard, as mastered,"
+    },
+    {
+      "start": 1400.5,
+      "end": 1403.5,
+      "text": "and maybe that drowsiness will pass."
+    },
+    {
+      "start": 1403.5,
+      "end": 1409.5,
+      "text": "If it pass not, then you should pull both earlobes and need the limbs with the hand,"
+    },
+    {
+      "start": 1409.5,
+      "end": 1412.5,
+      "text": "and maybe that drowsiness will pass."
+    },
+    {
+      "start": 1412.5,
+      "end": 1418.5,
+      "text": "If it pass not, then you should arise from sitting, cleanse the eyes with water,"
+    },
+    {
+      "start": 1418.5,
+      "end": 1423.5,
+      "text": "survey the horizon, and gaze up at the starry constellations,"
+    },
+    {
+      "start": 1423.5,
+      "end": 1426.5,
+      "text": "and maybe that drowsiness will pass."
+    },
+    {
+      "start": 1426.5,
+      "end": 1433.5,
+      "text": "If it pass not, then you should apply your mind to the thought of light, fix your mind on the thought of day,"
+    },
+    {
+      "start": 1433.5,
+      "end": 1438.5,
+      "text": "as by day, so by night, as by night, so by day."
+    },
+    {
+      "start": 1438.5,
+      "end": 1445.5,
+      "text": "Thus with mind unhindered, unhampered, you should make your thought become radiant,"
+    },
+    {
+      "start": 1445.5,
+      "end": 1448.5,
+      "text": "and maybe that drowsiness will pass."
+    },
+    {
+      "start": 1448.5,
+      "end": 1455.5,
+      "text": "If it pass not, then with the senses withdrawn, the mind not outward gone,"
+    },
+    {
+      "start": 1455.5,
+      "end": 1462.5,
+      "text": "you should fix your thought on the meditation walk, conscious of it to and fro,"
+    },
+    {
+      "start": 1462.5,
+      "end": 1465.5,
+      "text": "and maybe that drowsiness will pass."
+    },
+    {
+      "start": 1465.5,
+      "end": 1472.5,
+      "text": "If abiding so, that drowsiness pass not, then you should lie down on your right side,"
+    },
+    {
+      "start": 1472.5,
+      "end": 1479.5,
+      "text": "foot covering foot, mindful, aware, with mindset on the thought of arising,"
+    },
+    {
+      "start": 1479.5,
+      "end": 1483.5,
+      "text": "and on awakening Mogalana, get up quickly, thinking,"
+    },
+    {
+      "start": 1483.5,
+      "end": 1489.5,
+      "text": "I'll not live yoke to the pleasures of lying, reclining, and drowsiness."
+    },
+    {
+      "start": 1489.5,
+      "end": 1493.5,
+      "text": "Verily, let your training be thus Mogalana."
+    },
+    {
+      "start": 1493.5,
+      "end": 1496.5,
+      "text": "Moreover Mogalana, let your training be thus,"
+    },
+    {
+      "start": 1496.5,
+      "end": 1500.5,
+      "text": "not lifted up with pride, will I visit families."
+    },
+    {
+      "start": 1500.5,
+      "end": 1503.5,
+      "text": "Verily Mogalana, let your training be thus,"
+    },
+    {
+      "start": 1503.5,
+      "end": 1507.5,
+      "text": "for in families Mogalana, there are many things to be done,"
+    },
+    {
+      "start": 1507.5,
+      "end": 1511.5,
+      "text": "whereby the men may not notice the monks coming,"
+    },
+    {
+      "start": 1511.5,
+      "end": 1515.5,
+      "text": "and if the monk visit lifted up with pride, he'll think,"
+    },
+    {
+      "start": 1515.5,
+      "end": 1519.5,
+      "text": "who now I wonder has embroiled me with this family,"
+    },
+    {
+      "start": 1519.5,
+      "end": 1523.5,
+      "text": "these men have now no liking for me,"
+    },
+    {
+      "start": 1523.5,
+      "end": 1527.5,
+      "text": "and so from getting nothing, he becomes troubled,"
+    },
+    {
+      "start": 1527.5,
+      "end": 1532.5,
+      "text": "he becomes worked up, being worked up, he becomes uncontrolled."
+    },
+    {
+      "start": 1532.5,
+      "end": 1536.5,
+      "text": "When uncontrolled, the mind is far from concentration."
+    },
+    {
+      "start": 1536.5,
+      "end": 1539.5,
+      "text": "Moreover Mogalana, let your training be thus,"
+    },
+    {
+      "start": 1539.5,
+      "end": 1542.5,
+      "text": "I'll talk no provoking talk."
+    },
+    {
+      "start": 1542.5,
+      "end": 1545.5,
+      "text": "Verily Mogalana, let your training be thus,"
+    },
+    {
+      "start": 1545.5,
+      "end": 1548.5,
+      "text": "where there is provoking thought Mogalana,"
+    },
+    {
+      "start": 1548.5,
+      "end": 1550.5,
+      "text": "much talk may be expected,"
+    },
+    {
+      "start": 1550.5,
+      "end": 1553.5,
+      "text": "and there is much talk, one becomes worked up,"
+    },
+    {
+      "start": 1553.5,
+      "end": 1556.5,
+      "text": "being worked up, one becomes uncontrolled."
+    },
+    {
+      "start": 1556.5,
+      "end": 1560.5,
+      "text": "When uncontrolled, the mind is far from concentration."
+    },
+    {
+      "start": 1560.5,
+      "end": 1564.5,
+      "text": "Mogalana, I praise not fellowship just with all,"
+    },
+    {
+      "start": 1564.5,
+      "end": 1567.5,
+      "text": "nor do I not praise such fellowship."
+    },
+    {
+      "start": 1567.5,
+      "end": 1571.5,
+      "text": "Indeed Mogalana, I praise not fellowship with house dwellers,"
+    },
+    {
+      "start": 1571.5,
+      "end": 1574.5,
+      "text": "with wanderers, with dwellings that have,"
+    },
+    {
+      "start": 1574.5,
+      "end": 1578.5,
+      "text": "but dwellings that have few sounds, little noise,"
+    },
+    {
+      "start": 1578.5,
+      "end": 1580.5,
+      "text": "are free from folk's breath,"
+    },
+    {
+      "start": 1580.5,
+      "end": 1584.5,
+      "text": "where one may live apart from man in befitting solitude,"
+    },
+    {
+      "start": 1584.5,
+      "end": 1587.5,
+      "text": "it's such that I praise."
+    },
+    {
+      "start": 1587.5,
+      "end": 1589.5,
+      "text": "Now when he had thus spoken,"
+    },
+    {
+      "start": 1589.5,
+      "end": 1593.5,
+      "text": "the Verily Mogalana said this to the exalted one,"
+    },
+    {
+      "start": 1593.5,
+      "end": 1598.5,
+      "text": "Briefly Lord, how becomes a monk freed by cravings destruction,"
+    },
+    {
+      "start": 1598.5,
+      "end": 1602.5,
+      "text": "reaching the perpetual peace from effort,"
+    },
+    {
+      "start": 1602.5,
+      "end": 1606.5,
+      "text": "the perpetual holy state, the perpetual finality,"
+    },
+    {
+      "start": 1606.5,
+      "end": 1610.5,
+      "text": "and becomes foremost among devas and men."
+    },
+    {
+      "start": 1610.5,
+      "end": 1612.5,
+      "text": "And the Buddha said,"
+    },
+    {
+      "start": 1612.5,
+      "end": 1615.5,
+      "text": "Here in Mogalana, a monk has learned this,"
+    },
+    {
+      "start": 1615.5,
+      "end": 1619.5,
+      "text": "it befits not to be engrossed in the things of this world."
+    },
+    {
+      "start": 1619.5,
+      "end": 1623.5,
+      "text": "If Mogalana, a monk has learned this,"
+    },
+    {
+      "start": 1623.5,
+      "end": 1627.5,
+      "text": "it befits not to be engrossed in the things of this world."
+    },
+    {
+      "start": 1627.5,
+      "end": 1631.5,
+      "text": "He recognizes each condition, or each state, dhamma,"
+    },
+    {
+      "start": 1631.5,
+      "end": 1633.5,
+      "text": "recognizing each condition,"
+    },
+    {
+      "start": 1633.5,
+      "end": 1636.5,
+      "text": "he understands each condition,"
+    },
+    {
+      "start": 1636.5,
+      "end": 1638.5,
+      "text": "understanding each condition,"
+    },
+    {
+      "start": 1638.5,
+      "end": 1643.5,
+      "text": "whatever feeling he feels, pleasant, painful, or neither,"
+    },
+    {
+      "start": 1643.5,
+      "end": 1646.5,
+      "text": "he abides seeing the impermanence of those feelings,"
+    },
+    {
+      "start": 1646.5,
+      "end": 1650.5,
+      "text": "viewing them dispassionately, looking for their end,"
+    },
+    {
+      "start": 1650.5,
+      "end": 1654.5,
+      "text": "regarding them as something to be renounced."
+    },
+    {
+      "start": 1654.5,
+      "end": 1656.5,
+      "text": "Living in such contemplation,"
+    },
+    {
+      "start": 1656.5,
+      "end": 1659.5,
+      "text": "he cleaves not to anything in the world,"
+    },
+    {
+      "start": 1659.5,
+      "end": 1662.5,
+      "text": "not cleaving to anything, he craves not,"
+    },
+    {
+      "start": 1662.5,
+      "end": 1664.5,
+      "text": "not craving for anything,"
+    },
+    {
+      "start": 1664.5,
+      "end": 1667.5,
+      "text": "he becomes just completely cool in himself,"
+    },
+    {
+      "start": 1667.5,
+      "end": 1670.5,
+      "text": "and he knows birth is destroyed,"
+    },
+    {
+      "start": 1670.5,
+      "end": 1673.5,
+      "text": "lived is the holy life, done is what had to be done,"
+    },
+    {
+      "start": 1673.5,
+      "end": 1676.5,
+      "text": "there is no more of this to come."
+    },
+    {
+      "start": 1676.5,
+      "end": 1679.5,
+      "text": "Barely Mogalana, in this manner briefly,"
+    },
+    {
+      "start": 1679.5,
+      "end": 1682.5,
+      "text": "a monk becomes freed by cravings destruction,"
+    },
+    {
+      "start": 1682.5,
+      "end": 1684.5,
+      "text": "reaching the perpetual end,"
+    },
+    {
+      "start": 1684.5,
+      "end": 1686.5,
+      "text": "the perpetual peace from effort,"
+    },
+    {
+      "start": 1686.5,
+      "end": 1688.5,
+      "text": "the perpetual holy state,"
+    },
+    {
+      "start": 1688.5,
+      "end": 1690.5,
+      "text": "the perpetual finality,"
+    },
+    {
+      "start": 1690.5,
+      "end": 1693.5,
+      "text": "and becomes foremost among devas and men,"
+    },
+    {
+      "start": 1693.5,
+      "end": 1696.5,
+      "text": "at the end of the sutta."
+    },
+    {
+      "start": 1696.5,
+      "end": 1699.5,
+      "text": "It's quite an interesting and important sutta."
+    },
+    {
+      "start": 1699.5,
+      "end": 1706.5,
+      "text": "Here, the Buddha found the Venerable Mahamogala dosing,"
+    },
+    {
+      "start": 1706.5,
+      "end": 1709.5,
+      "text": "so he gave some very practical advice,"
+    },
+    {
+      "start": 1709.5,
+      "end": 1711.5,
+      "text": "he told the Venerable Mahamogala,"
+    },
+    {
+      "start": 1711.5,
+      "end": 1714.5,
+      "text": "he said, now, if dousiness comes,"
+    },
+    {
+      "start": 1714.5,
+      "end": 1718.5,
+      "text": "firstly take no heed of it,"
+    },
+    {
+      "start": 1718.5,
+      "end": 1721.5,
+      "text": "just try to ignore that dousiness,"
+    },
+    {
+      "start": 1721.5,
+      "end": 1724.5,
+      "text": "but if you can't ignore that dousiness,"
+    },
+    {
+      "start": 1724.5,
+      "end": 1726.5,
+      "text": "then think about dhamma,"
+    },
+    {
+      "start": 1726.5,
+      "end": 1729.5,
+      "text": "review dhamma that you have heard,"
+    },
+    {
+      "start": 1729.5,
+      "end": 1731.5,
+      "text": "maybe the dousiness will pass,"
+    },
+    {
+      "start": 1731.5,
+      "end": 1733.5,
+      "text": "but if it doesn't,"
+    },
+    {
+      "start": 1733.5,
+      "end": 1737.5,
+      "text": "then you should repeat dhamma in detail."
+    },
+    {
+      "start": 1737.5,
+      "end": 1739.5,
+      "text": "You remember in the Buddha's days,"
+    },
+    {
+      "start": 1739.5,
+      "end": 1741.5,
+      "text": "there were no books,"
+    },
+    {
+      "start": 1741.5,
+      "end": 1744.5,
+      "text": "so they had to repeat dhamma"
+    },
+    {
+      "start": 1744.5,
+      "end": 1746.5,
+      "text": "after they had learned sutta,"
+    },
+    {
+      "start": 1746.5,
+      "end": 1748.5,
+      "text": "so repeat it."
+    },
+    {
+      "start": 1748.5,
+      "end": 1750.5,
+      "text": "So here the Buddha is saying,"
+    },
+    {
+      "start": 1750.5,
+      "end": 1752.5,
+      "text": "the third thing to do is to repeat dhamma,"
+    },
+    {
+      "start": 1752.5,
+      "end": 1755.5,
+      "text": "and then if by repeating the dhamma,"
+    },
+    {
+      "start": 1755.5,
+      "end": 1758.5,
+      "text": "the dousiness still doesn't go away,"
+    },
+    {
+      "start": 1758.5,
+      "end": 1760.5,
+      "text": "then the Buddha said,"
+    },
+    {
+      "start": 1760.5,
+      "end": 1762.5,
+      "text": "pull both ears,"
+    },
+    {
+      "start": 1762.5,
+      "end": 1765.5,
+      "text": "and rub the limbs with the hands,"
+    },
+    {
+      "start": 1765.5,
+      "end": 1768.5,
+      "text": "massage the limbs with the hands,"
+    },
+    {
+      "start": 1768.5,
+      "end": 1771.5,
+      "text": "maybe to get the blood flowing,"
+    },
+    {
+      "start": 1771.5,
+      "end": 1775.5,
+      "text": "and maybe dousiness will go away,"
+    },
+    {
+      "start": 1775.5,
+      "end": 1777.5,
+      "text": "but if it does not,"
+    },
+    {
+      "start": 1777.5,
+      "end": 1779.5,
+      "text": "then clean the eyes with water,"
+    },
+    {
+      "start": 1779.5,
+      "end": 1781.5,
+      "text": "and look up into the sky,"
+    },
+    {
+      "start": 1781.5,
+      "end": 1783.5,
+      "text": "look at the stars, etc.,"
+    },
+    {
+      "start": 1783.5,
+      "end": 1785.5,
+      "text": "maybe the dousiness will pass,"
+    },
+    {
+      "start": 1785.5,
+      "end": 1787.5,
+      "text": "but if it does not again,"
+    },
+    {
+      "start": 1787.5,
+      "end": 1789.5,
+      "text": "then think of light,"
+    },
+    {
+      "start": 1789.5,
+      "end": 1792.5,
+      "text": "make the mind think of light,"
+    },
+    {
+      "start": 1792.5,
+      "end": 1795.5,
+      "text": "so that when the mind is bright,"
+    },
+    {
+      "start": 1795.5,
+      "end": 1799.5,
+      "text": "it doesn't become sleepy,"
+    },
+    {
+      "start": 1799.5,
+      "end": 1801.5,
+      "text": "but if that doesn't work,"
+    },
+    {
+      "start": 1801.5,
+      "end": 1803.5,
+      "text": "then the Buddha said,"
+    },
+    {
+      "start": 1803.5,
+      "end": 1806.5,
+      "text": "take a walk, take a meditation walk,"
+    },
+    {
+      "start": 1806.5,
+      "end": 1809.5,
+      "text": "be mindful and take a meditation walk,"
+    },
+    {
+      "start": 1809.5,
+      "end": 1811.5,
+      "text": "and if even by walking,"
+    },
+    {
+      "start": 1811.5,
+      "end": 1813.5,
+      "text": "the dousiness doesn't go away,"
+    },
+    {
+      "start": 1813.5,
+      "end": 1816.5,
+      "text": "then finally the Buddha said,"
+    },
+    {
+      "start": 1816.5,
+      "end": 1818.5,
+      "text": "lie on the right side,"
+    },
+    {
+      "start": 1818.5,
+      "end": 1820.5,
+      "text": "take a rest,"
+    },
+    {
+      "start": 1820.5,
+      "end": 1822.5,
+      "text": "but get up quickly,"
+    },
+    {
+      "start": 1822.5,
+      "end": 1825.5,
+      "text": "as soon as one wakes up,"
+    },
+    {
+      "start": 1825.5,
+      "end": 1828.5,
+      "text": "then get up quickly,"
+    },
+    {
+      "start": 1828.5,
+      "end": 1830.5,
+      "text": "don't lie on the bed,"
+    },
+    {
+      "start": 1830.5,
+      "end": 1832.5,
+      "text": "most people tend to lie on the bed,"
+    },
+    {
+      "start": 1832.5,
+      "end": 1837.5,
+      "text": "and enjoy the pleasure of lying down,"
+    },
+    {
+      "start": 1837.5,
+      "end": 1839.5,
+      "text": "but the Buddha said, don't enjoy it,"
+    },
+    {
+      "start": 1839.5,
+      "end": 1841.5,
+      "text": "so these are the practical steps"
+    },
+    {
+      "start": 1841.5,
+      "end": 1843.5,
+      "text": "the Buddha gave,"
+    },
+    {
+      "start": 1843.5,
+      "end": 1852.14,
+      "text": "then after that the Buddha gave him"
+    },
+    {
+      "start": 1852.14,
+      "end": 1855.14,
+      "text": "another three types of advice,"
+    },
+    {
+      "start": 1855.14,
+      "end": 1857.14,
+      "text": "the first one, not to have pride"
+    },
+    {
+      "start": 1857.14,
+      "end": 1859.14,
+      "text": "when he visits families,"
+    },
+    {
+      "start": 1859.14,
+      "end": 1861.14,
+      "text": "because the Buddha said,"
+    },
+    {
+      "start": 1861.14,
+      "end": 1863.14,
+      "text": "sometimes when a person,"
+    },
+    {
+      "start": 1863.14,
+      "end": 1865.14,
+      "text": "when a monk goes to visit families"
+    },
+    {
+      "start": 1865.14,
+      "end": 1867.14,
+      "text": "on arms around,"
+    },
+    {
+      "start": 1867.14,
+      "end": 1869.14,
+      "text": "sometimes they might not notice him,"
+    },
+    {
+      "start": 1869.14,
+      "end": 1871.14,
+      "text": "they have many things to do,"
+    },
+    {
+      "start": 1871.14,
+      "end": 1873.14,
+      "text": "they might not notice him,"
+    },
+    {
+      "start": 1873.14,
+      "end": 1875.14,
+      "text": "and might not come out to bring him food,"
+    },
+    {
+      "start": 1875.14,
+      "end": 1877.14,
+      "text": "and he waits outside the door,"
+    },
+    {
+      "start": 1877.14,
+      "end": 1879.14,
+      "text": "doesn't get any food,"
+    },
+    {
+      "start": 1879.14,
+      "end": 1881.14,
+      "text": "if he has pride, he might think,"
+    },
+    {
+      "start": 1881.14,
+      "end": 1884.14,
+      "text": "these people are purposely not giving him food,"
+    },
+    {
+      "start": 1884.14,
+      "end": 1886.14,
+      "text": "and then he becomes worked up,"
+    },
+    {
+      "start": 1886.14,
+      "end": 1888.14,
+      "text": "so the Buddha said, not to have any pride,"
+    },
+    {
+      "start": 1888.14,
+      "end": 1890.14,
+      "text": "the second one, the Buddha said,"
+    },
+    {
+      "start": 1890.14,
+      "end": 1893.14,
+      "text": "not to talk, any provoking talk,"
+    },
+    {
+      "start": 1894.14,
+      "end": 1897.14,
+      "text": "then there will be a lot of talk,"
+    },
+    {
+      "start": 1897.14,
+      "end": 1899.14,
+      "text": "and then not too much talk,"
+    },
+    {
+      "start": 1899.14,
+      "end": 1902.14,
+      "text": "one becomes unmindful,"
+    },
+    {
+      "start": 1902.14,
+      "end": 1905.14,
+      "text": "and the mind doesn't become concentrated,"
+    },
+    {
+      "start": 1905.14,
+      "end": 1908.14,
+      "text": "and thirdly the advice the Buddha gave"
+    },
+    {
+      "start": 1908.14,
+      "end": 1911.14,
+      "text": "was to live apart in seclusion,"
+    },
+    {
+      "start": 1911.14,
+      "end": 1914.14,
+      "text": "but this generally,"
+    },
+    {
+      "start": 1914.14,
+      "end": 1917.14,
+      "text": "not all monks can do that,"
+    },
+    {
+      "start": 1917.14,
+      "end": 1921.14,
+      "text": "live apart, live in seclusion,"
+    },
+    {
+      "start": 1921.14,
+      "end": 1924.14,
+      "text": "because you need a lot of discipline,"
+    },
+    {
+      "start": 1924.14,
+      "end": 1927.14,
+      "text": "a monk doesn't have enough training and discipline,"
+    },
+    {
+      "start": 1927.14,
+      "end": 1930.14,
+      "text": "then instead of practicing more,"
+    },
+    {
+      "start": 1930.14,
+      "end": 1933.14,
+      "text": "he might tend to sleep more,"
+    },
+    {
+      "start": 1933.14,
+      "end": 1936.14,
+      "text": "then the Buddha,"
+    },
+    {
+      "start": 1936.14,
+      "end": 1938.14,
+      "text": "then the Venerable Mahamogala"
+    },
+    {
+      "start": 1938.14,
+      "end": 1942.14,
+      "text": "asked the Buddha for advice"
+    },
+    {
+      "start": 1942.14,
+      "end": 1946.14,
+      "text": "on how to attain the final goal,"
+    },
+    {
+      "start": 1946.14,
+      "end": 1948.14,
+      "text": "and the Buddha said,"
+    },
+    {
+      "start": 1948.14,
+      "end": 1954.14,
+      "text": "to remember that one should not be engrossed,"
+    },
+    {
+      "start": 1954.14,
+      "end": 1958.14,
+      "text": "should not be engrossed with the things of the world,"
+    },
+    {
+      "start": 1958.14,
+      "end": 1962.14,
+      "text": "and then if one is not engrossed"
+    },
+    {
+      "start": 1962.14,
+      "end": 1964.14,
+      "text": "in the things of the world,"
+    },
+    {
+      "start": 1964.14,
+      "end": 1969.14,
+      "text": "then one abides seeing the impermanence of feelings,"
+    },
+    {
+      "start": 1969.14,
+      "end": 1972.14,
+      "text": "viewing them dispassionately,"
+    },
+    {
+      "start": 1972.14,
+      "end": 1976.14,
+      "text": "and then one cleaves not to anything in the world,"
+    },
+    {
+      "start": 1976.14,
+      "end": 1980.14,
+      "text": "and from that one does not crave for anything in the world,"
+    },
+    {
+      "start": 1980.14,
+      "end": 1986.14,
+      "text": "and one lets go, renounces everything in the world,"
+    },
+    {
+      "start": 1986.14,
+      "end": 1990.14,
+      "text": "and slowly one becomes completely cool."
+    }
+  ]
+}

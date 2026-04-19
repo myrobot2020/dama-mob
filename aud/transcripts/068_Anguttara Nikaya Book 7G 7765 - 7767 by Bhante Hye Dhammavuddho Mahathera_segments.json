@@ -1,0 +1,1810 @@
+{
+  "source": "faster-whisper",
+  "model": "small",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": "en",
+  "duration": 1652.610625,
+  "segments": [
+    {
+      "start": 0.91,
+      "end": 10.91,
+      "text": "Now come to the next Sutta, 7.65. It is also an important Sutta, the Buddha said,"
+    },
+    {
+      "start": 10.91,
+      "end": 19.91,
+      "text": "the monks, what time the celestial coral tree, the Kovillara Parichataka of the devas of the 30,"
+    },
+    {
+      "start": 19.91,
+      "end": 26.91,
+      "text": "is withered in leaf, those devas greatly rejoice. The celestial coral tree is withered in leaf."
+    },
+    {
+      "start": 26.91,
+      "end": 36.14,
+      "text": "Before long now there will be leaf fall, and then it continues,"
+    },
+    {
+      "start": 36.14,
+      "end": 41.14,
+      "text": "what time the leaves are falling, they greatly rejoice, falling are now the leaves,"
+    },
+    {
+      "start": 41.14,
+      "end": 48.14,
+      "text": "shortly now will burgeon every bud, what time the buds appear, they greatly rejoice,"
+    },
+    {
+      "start": 48.14,
+      "end": 53.14,
+      "text": "now the buds appear, soon the shoots will set, what time the shoots are set,"
+    },
+    {
+      "start": 53.14,
+      "end": 58.14,
+      "text": "they greatly rejoice, now the shoots are set, soon will the blossoms form,"
+    },
+    {
+      "start": 58.14,
+      "end": 63.14,
+      "text": "what time the blossoms form, they greatly rejoice, now the blossoms form,"
+    },
+    {
+      "start": 63.14,
+      "end": 67.14,
+      "text": "soon like the red lotus will the flowers be shaped,"
+    },
+    {
+      "start": 67.14,
+      "end": 72.14,
+      "text": "what time the flowers are shaped like the red lotus, they greatly rejoice,"
+    },
+    {
+      "start": 72.14,
+      "end": 79.14,
+      "text": "shaped like the red lotus are the flowers, soon the flowers will be in full bloom,"
+    },
+    {
+      "start": 79.14,
+      "end": 86.14,
+      "text": "what time the Kovillara Parichataka tree of the devas of the 30, is in full bloom,"
+    },
+    {
+      "start": 86.14,
+      "end": 91.14,
+      "text": "those devas sport for four divine months at the foot of the celestial tree,"
+    },
+    {
+      "start": 91.14,
+      "end": 95.14,
+      "text": "delving and indulging the five pleasures of the senses."
+    },
+    {
+      "start": 95.14,
+      "end": 102.14,
+      "text": "When the celestial tree is in full bloom, its effulgence pervades full fifty leaves,"
+    },
+    {
+      "start": 102.14,
+      "end": 106.14,
+      "text": "the perfume is blown before the wind a hundred leaves,"
+    },
+    {
+      "start": 106.14,
+      "end": 111.14,
+      "text": "this is the power of the Kovillara Parichataka tree."
+    },
+    {
+      "start": 111.14,
+      "end": 117.14,
+      "text": "I just stop here to commend, this is the Tava Timsa heaven, the heaven of the 33,"
+    },
+    {
+      "start": 117.14,
+      "end": 123.14,
+      "text": "there is a special tree there called the Kovillara Parichataka tree,"
+    },
+    {
+      "start": 123.14,
+      "end": 131.14,
+      "text": "the celestial coral tree, and once in a heavenly year, a celestial year,"
+    },
+    {
+      "start": 131.14,
+      "end": 135.14,
+      "text": "this tree would blossom and bring forth flowers,"
+    },
+    {
+      "start": 135.14,
+      "end": 139.14,
+      "text": "and then for four months when the flowers are in bloom,"
+    },
+    {
+      "start": 139.14,
+      "end": 148.14,
+      "text": "these devas will enjoy themselves fully under this tree,"
+    },
+    {
+      "start": 148.14,
+      "end": 151.14,
+      "text": "indulging in all the sensual pleasures,"
+    },
+    {
+      "start": 151.14,
+      "end": 156.14,
+      "text": "and it is because of this tree that the Asuras,"
+    },
+    {
+      "start": 156.14,
+      "end": 162.14,
+      "text": "the Asuras were formerly also in this 33, the heaven of the 33, this Tava Timsa heaven,"
+    },
+    {
+      "start": 162.14,
+      "end": 171.14,
+      "text": "but because the Asuras like to drink liquor and become drunk and fight,"
+    },
+    {
+      "start": 171.14,
+      "end": 179.14,
+      "text": "so one day when they were drunk, Sakadevaraja and his devas took these drunkard Asuras"
+    },
+    {
+      "start": 179.14,
+      "end": 183.14,
+      "text": "and threw them down from that heaven into the ocean,"
+    },
+    {
+      "start": 183.14,
+      "end": 190.14,
+      "text": "and so once a year when this celestial coral tree is in full bloom,"
+    },
+    {
+      "start": 190.14,
+      "end": 194.14,
+      "text": "they remember that they used to enjoy themselves under this tree,"
+    },
+    {
+      "start": 194.14,
+      "end": 198.14,
+      "text": "and because they were angry that they haven't been thrown out of the heaven,"
+    },
+    {
+      "start": 198.14,
+      "end": 205.14,
+      "text": "once a year they will go up to the Tava Timsa heaven and fight with Sakadevaraja,"
+    },
+    {
+      "start": 205.14,
+      "end": 211.14,
+      "text": "and this story about the devas fighting is found in Buddhism,"
+    },
+    {
+      "start": 211.14,
+      "end": 218.14,
+      "text": "it is also found in the Christian religion where they say Michael the Angel fought with Satan,"
+    },
+    {
+      "start": 218.14,
+      "end": 222.14,
+      "text": "and it is also found in the Hindu religion these devas fighting,"
+    },
+    {
+      "start": 222.14,
+      "end": 226.14,
+      "text": "suppose their origin is here, then the Buddha said,"
+    },
+    {
+      "start": 226.14,
+      "end": 235.14,
+      "text": "in just the same way amongst what time the Aryan disciple minds himself to go forth from the home into the homeless life,"
+    },
+    {
+      "start": 235.14,
+      "end": 242.14,
+      "text": "the Aryan disciple is withered in leaf like the celestial coral tree of the devas of the 30,"
+    },
+    {
+      "start": 242.14,
+      "end": 248.14,
+      "text": "what time the Aryan disciple has his hair and beard shaved off and donned the yellow robe"
+    },
+    {
+      "start": 248.14,
+      "end": 255.14,
+      "text": "and gone forth from home into the homeless life is his fall of leaf like the celestial coral tree,"
+    },
+    {
+      "start": 255.14,
+      "end": 261.14,
+      "text": "what time aloof from sense desires he enters and abides in the first jhana,"
+    },
+    {
+      "start": 261.14,
+      "end": 264.14,
+      "text": "his buds appear like the celestial coral tree,"
+    },
+    {
+      "start": 264.14,
+      "end": 270.14,
+      "text": "what time stilling applied and sustained thought he enters and abides in the second jhana,"
+    },
+    {
+      "start": 270.14,
+      "end": 274.14,
+      "text": "his shoes set like the celestial coral tree,"
+    },
+    {
+      "start": 274.14,
+      "end": 280.14,
+      "text": "what time with the fading away of delight he enters and abides in the third jhana,"
+    },
+    {
+      "start": 280.14,
+      "end": 284.14,
+      "text": "his blossoms form like the celestial coral tree,"
+    },
+    {
+      "start": 284.14,
+      "end": 290.14,
+      "text": "what time with the abandoning of bodily pleasure he enters and abides in the fourth jhana,"
+    },
+    {
+      "start": 290.14,
+      "end": 295.14,
+      "text": "his flowers are of the red lotus shape like the celestial coral tree,"
+    },
+    {
+      "start": 295.14,
+      "end": 302.14,
+      "text": "what time the Aryan disciple by destroying the asavas enters and abides in full realization,"
+    },
+    {
+      "start": 302.14,
+      "end": 308.14,
+      "text": "his flowers are in full bloom like the celestial coral tree of the devas of the 30,"
+    },
+    {
+      "start": 308.14,
+      "end": 311.14,
+      "text": "then the earth devas utter a shout,"
+    },
+    {
+      "start": 311.14,
+      "end": 314.14,
+      "text": "this reverend sir calls so and so,"
+    },
+    {
+      "start": 314.14,
+      "end": 320.14,
+      "text": "living the life of faith of such a reverend one gone forth from such a village or market town"
+    },
+    {
+      "start": 320.14,
+      "end": 325.14,
+      "text": "has destroyed the asavas and dwells in full realization."
+    },
+    {
+      "start": 325.14,
+      "end": 331.14,
+      "text": "Hearing the shout of the earth devas, the company of the four royal devas shout,"
+    },
+    {
+      "start": 331.14,
+      "end": 338.14,
+      "text": "and similarly the devas of the 30, the Yama devas, the Tosita heva devas,"
+    },
+    {
+      "start": 338.14,
+      "end": 340.14,
+      "text": "the devas who delight in creating,"
+    },
+    {
+      "start": 340.14,
+      "end": 343.14,
+      "text": "the devas who have power over other's creations,"
+    },
+    {
+      "start": 343.14,
+      "end": 347.14,
+      "text": "and the devas of Brahma's retinue roll back in the cry,"
+    },
+    {
+      "start": 347.14,
+      "end": 352.14,
+      "text": "this reverend sir living the life of faith gone forth from such a village"
+    },
+    {
+      "start": 352.14,
+      "end": 355.14,
+      "text": "or from such a market town into the homeless life"
+    },
+    {
+      "start": 355.14,
+      "end": 361.14,
+      "text": "has by the destruction of the asavas entered and there abides in that state of emancipation"
+    },
+    {
+      "start": 361.14,
+      "end": 364.14,
+      "text": "by mind and wisdom which is free of the asavas,"
+    },
+    {
+      "start": 364.14,
+      "end": 370.14,
+      "text": "having come to know and realize this state fully for himself even in this present life."
+    },
+    {
+      "start": 370.14,
+      "end": 376.14,
+      "text": "Thus in an instant, thus in a moment, the sound soars up to the Brahma's heavens."
+    },
+    {
+      "start": 376.14,
+      "end": 381.14,
+      "text": "This is the progressive power of a monk who has destroyed the asavas."
+    },
+    {
+      "start": 381.14,
+      "end": 386.14,
+      "text": "So you see here is a very interesting simile,"
+    },
+    {
+      "start": 386.14,
+      "end": 395.14,
+      "text": "where the Buddha gave comparison of a monk who cultivates the holy life"
+    },
+    {
+      "start": 395.14,
+      "end": 404.14,
+      "text": "and attains the arahanhood and it is clear from here that to attain arahanhood,"
+    },
+    {
+      "start": 404.14,
+      "end": 408.14,
+      "text": "what is very important are the attainment of the janas,"
+    },
+    {
+      "start": 408.14,
+      "end": 412.14,
+      "text": "just like the flower blooming step by step."
+    },
+    {
+      "start": 412.14,
+      "end": 416.14,
+      "text": "So having gone forth, he attains the first jana,"
+    },
+    {
+      "start": 416.14,
+      "end": 419.14,
+      "text": "then the second jana and the third and the fourth"
+    },
+    {
+      "start": 419.14,
+      "end": 423.14,
+      "text": "and after attaining the fourth jana, he destroys the asavas."
+    },
+    {
+      "start": 423.14,
+      "end": 431.14,
+      "text": "So you see here the attainment of janas can be seen to be very important"
+    },
+    {
+      "start": 432.14,
+      "end": 438.14,
+      "text": "and the final attainment of destruction of the asavas"
+    },
+    {
+      "start": 438.14,
+      "end": 447.14,
+      "text": "or the final attainment of liberation is like the blossoming of the celestial coral tree flower."
+    },
+    {
+      "start": 447.14,
+      "end": 452.14,
+      "text": "In this case, it is the blossoming of the flower of wisdom"
+    },
+    {
+      "start": 452.14,
+      "end": 457.14,
+      "text": "and the flower of wisdom just like the heavenly flower goes through the steps"
+    },
+    {
+      "start": 457.14,
+      "end": 465.14,
+      "text": "of renouncing the home life to be homeless, renunciate"
+    },
+    {
+      "start": 465.14,
+      "end": 472.14,
+      "text": "and then attains the janas one by one until the full destruction of the asavas."
+    },
+    {
+      "start": 472.14,
+      "end": 483.14,
+      "text": "So from here we also can see the importance the Buddha puts on the janas."
+    },
+    {
+      "start": 483.14,
+      "end": 489.14,
+      "text": "You note very carefully, this is very unlike the commentaries"
+    },
+    {
+      "start": 489.14,
+      "end": 496.14,
+      "text": "where the commentaries talk about the janas, attainment of the janas for full enlightenment."
+    },
+    {
+      "start": 496.14,
+      "end": 501.14,
+      "text": "Here the Buddha is talking about attainment of the janas, which is quite different."
+    },
+    {
+      "start": 501.14,
+      "end": 507.14,
+      "text": "Nowhere in the suttas do you find the Buddha talks about attainment of janas"
+    },
+    {
+      "start": 507.14,
+      "end": 511.14,
+      "text": "but the Buddha always is talking about the attainment of the janas"
+    },
+    {
+      "start": 511.14,
+      "end": 516.14,
+      "text": "as definite requirements to enlightenment."
+    },
+    {
+      "start": 516.14,
+      "end": 522.02,
+      "text": "The next Buddha is 7.7.66."
+    },
+    {
+      "start": 522.02,
+      "end": 525.02,
+      "text": "Now there arose in the mind of the venerable Sariputta"
+    },
+    {
+      "start": 525.02,
+      "end": 528.02,
+      "text": "as he sat alone in seclusion, this reflection."
+    },
+    {
+      "start": 528.02,
+      "end": 535.02,
+      "text": "If a monk would abandon unwholesome ways, if he would make wholesomeness become,"
+    },
+    {
+      "start": 535.02,
+      "end": 540.02,
+      "text": "whom should he respect, whom should he revere and on whom should he rely?"
+    },
+    {
+      "start": 540.02,
+      "end": 543.02,
+      "text": "Then thought the venerable one."
+    },
+    {
+      "start": 543.02,
+      "end": 546.02,
+      "text": "Let a monk respect, revere and rely on the teacher"
+    },
+    {
+      "start": 546.02,
+      "end": 551.02,
+      "text": "if he would abandon unwholesome ways and make wholesomeness become."
+    },
+    {
+      "start": 551.02,
+      "end": 557.02,
+      "text": "Let him respect, revere and rely on dhamma, on the sangha,"
+    },
+    {
+      "start": 557.02,
+      "end": 560.02,
+      "text": "on the training, on concentration and earnestness."
+    },
+    {
+      "start": 560.02,
+      "end": 563.02,
+      "text": "Let him respect, revere and rely on good will"
+    },
+    {
+      "start": 563.02,
+      "end": 568.02,
+      "text": "if he would abandon unwholesome ways and make wholesomeness become."
+    },
+    {
+      "start": 568.02,
+      "end": 572.02,
+      "text": "Then thought he, these things in me have been cleared and purified."
+    },
+    {
+      "start": 572.02,
+      "end": 576.02,
+      "text": "What if I were to go and tell them to the exalted one?"
+    },
+    {
+      "start": 576.02,
+      "end": 580.02,
+      "text": "They will become both purified within me and better reckoned so."
+    },
+    {
+      "start": 580.02,
+      "end": 586.02,
+      "text": "For just as a man might come upon a gold ring of pure and sterling quality and thing."
+    },
+    {
+      "start": 586.02,
+      "end": 589.02,
+      "text": "This ring of mine is of pure and sterling gold"
+    },
+    {
+      "start": 589.02,
+      "end": 592.02,
+      "text": "but what if I were to go and show it to the goldsmiths?"
+    },
+    {
+      "start": 592.02,
+      "end": 597.02,
+      "text": "My ring of gold passed by them will be both purified and better reckoned so."
+    },
+    {
+      "start": 597.02,
+      "end": 601.02,
+      "text": "Even so, when I have gone and told the exalted one,"
+    },
+    {
+      "start": 601.02,
+      "end": 607.02,
+      "text": "these things in me will be both purified and better reckoned so."
+    },
+    {
+      "start": 607.02,
+      "end": 609.02,
+      "text": "I'll just stop here for a moment."
+    },
+    {
+      "start": 609.02,
+      "end": 614.02,
+      "text": "Here the venerable Sariputta is talking about seven things"
+    },
+    {
+      "start": 614.02,
+      "end": 619.02,
+      "text": "that a monk should respect and rely on"
+    },
+    {
+      "start": 619.02,
+      "end": 626.02,
+      "text": "if he wants to abandon unwholesome states and develop wholesome states."
+    },
+    {
+      "start": 626.02,
+      "end": 630.02,
+      "text": "The first one is the teacher, that means the Buddha."
+    },
+    {
+      "start": 630.02,
+      "end": 632.02,
+      "text": "The second is the dhamma."
+    },
+    {
+      "start": 632.02,
+      "end": 634.02,
+      "text": "The third is the sangha."
+    },
+    {
+      "start": 634.02,
+      "end": 642.02,
+      "text": "And the sangha generally means the sangha of the bhikkhu sangha."
+    },
+    {
+      "start": 642.02,
+      "end": 645.02,
+      "text": "Sometimes it's also mentioned the Aryan sangha"
+    },
+    {
+      "start": 645.02,
+      "end": 650.02,
+      "text": "but then it's very difficult to know who are the Aryan."
+    },
+    {
+      "start": 650.02,
+      "end": 653.02,
+      "text": "So generally it means the bhikkhu sangha."
+    },
+    {
+      "start": 653.02,
+      "end": 658.02,
+      "text": "And you can also say it means the Aryan bhikkhu sangha also."
+    },
+    {
+      "start": 658.02,
+      "end": 661.02,
+      "text": "And then the fourth one is training."
+    },
+    {
+      "start": 661.02,
+      "end": 665.02,
+      "text": "This training, the last time I spoke on the sutras,"
+    },
+    {
+      "start": 665.02,
+      "end": 668.02,
+      "text": "I mentioned the training as being generally the precepts."
+    },
+    {
+      "start": 668.02,
+      "end": 671.02,
+      "text": "Actually I made a mistake there."
+    },
+    {
+      "start": 671.02,
+      "end": 675.02,
+      "text": "There's more to the precepts than just training."
+    },
+    {
+      "start": 675.02,
+      "end": 682.02,
+      "text": "The training generally means the whole of the training"
+    },
+    {
+      "start": 682.02,
+      "end": 685.02,
+      "text": "in the holy life, in the spiritual path."
+    },
+    {
+      "start": 685.02,
+      "end": 688.02,
+      "text": "That means the various things to cultivate."
+    },
+    {
+      "start": 688.02,
+      "end": 693.02,
+      "text": "For example, in Charana, there are a list of things to cultivate."
+    },
+    {
+      "start": 693.02,
+      "end": 697.02,
+      "text": "For example, sila, moral conduct."
+    },
+    {
+      "start": 697.02,
+      "end": 699.02,
+      "text": "And then there's contentment."
+    },
+    {
+      "start": 699.02,
+      "end": 705.02,
+      "text": "And then there is guarding the sixth sense doors."
+    },
+    {
+      "start": 705.02,
+      "end": 708.02,
+      "text": "And there's moderation in eating."
+    },
+    {
+      "start": 708.02,
+      "end": 711.02,
+      "text": "There is devotion to wakefulness."
+    },
+    {
+      "start": 711.02,
+      "end": 715.02,
+      "text": "And then there is cultivating the seventh saddhamma,"
+    },
+    {
+      "start": 715.02,
+      "end": 719.02,
+      "text": "the seven excellent things that we just spoke about just now."
+    },
+    {
+      "start": 719.02,
+      "end": 725.02,
+      "text": "And then sati sampajanya, mindfulness and awareness."
+    },
+    {
+      "start": 725.02,
+      "end": 734.02,
+      "text": "And abandonment of the hindrances, seclusion,"
+    },
+    {
+      "start": 734.02,
+      "end": 737.02,
+      "text": "attainment of the four jhanas."
+    },
+    {
+      "start": 737.02,
+      "end": 740.02,
+      "text": "These are part of the training."
+    },
+    {
+      "start": 740.02,
+      "end": 745.02,
+      "text": "And the training also means to submit oneself to a teacher"
+    },
+    {
+      "start": 745.02,
+      "end": 750.02,
+      "text": "because when one submits oneself to a teacher,"
+    },
+    {
+      "start": 750.02,
+      "end": 754.02,
+      "text": "the teacher guides a person along the holy path."
+    },
+    {
+      "start": 754.02,
+      "end": 762.02,
+      "text": "Some people think that coming into the holy path is just meditation."
+    },
+    {
+      "start": 762.02,
+      "end": 766.02,
+      "text": "It's not really because the aim of the holy life"
+    },
+    {
+      "start": 766.02,
+      "end": 770.02,
+      "text": "is to let go, let go of our attachments,"
+    },
+    {
+      "start": 770.02,
+      "end": 773.02,
+      "text": "let go of our likes and dislikes."
+    },
+    {
+      "start": 773.02,
+      "end": 776.02,
+      "text": "Finally, to let go of our ego."
+    },
+    {
+      "start": 776.02,
+      "end": 782.02,
+      "text": "And when the person comes into the holy life, he does not know."
+    },
+    {
+      "start": 782.02,
+      "end": 785.02,
+      "text": "All these things are important sometimes."
+    },
+    {
+      "start": 785.02,
+      "end": 789.02,
+      "text": "Like in the forest monasteries in the Thailand,"
+    },
+    {
+      "start": 789.02,
+      "end": 794.02,
+      "text": "you are taught to, when you go on arms round with the teacher,"
+    },
+    {
+      "start": 794.02,
+      "end": 797.02,
+      "text": "and when you come back and the teacher's bowl is full,"
+    },
+    {
+      "start": 797.02,
+      "end": 800.02,
+      "text": "you have to carry the teacher's bowl in addition to your bowl."
+    },
+    {
+      "start": 800.02,
+      "end": 803.02,
+      "text": "And sometimes some monks not only carry two bowls,"
+    },
+    {
+      "start": 803.02,
+      "end": 805.02,
+      "text": "they even carry three bowls."
+    },
+    {
+      "start": 805.02,
+      "end": 810.02,
+      "text": "And they make it a point to even beg the teacher to give them the bowl"
+    },
+    {
+      "start": 810.02,
+      "end": 814.02,
+      "text": "because they want to submit to their ego, to let go of their ego."
+    },
+    {
+      "start": 814.02,
+      "end": 817.02,
+      "text": "And then they carry the teacher's bowl,"
+    },
+    {
+      "start": 817.02,
+      "end": 819.02,
+      "text": "and they come back, and then when they come back,"
+    },
+    {
+      "start": 819.02,
+      "end": 822.02,
+      "text": "they get water ready and they wash the teacher's feet."
+    },
+    {
+      "start": 822.02,
+      "end": 825.02,
+      "text": "And many monks go and wash the teacher's feet."
+    },
+    {
+      "start": 825.02,
+      "end": 827.02,
+      "text": "All this is humbling oneself."
+    },
+    {
+      "start": 827.02,
+      "end": 830.02,
+      "text": "This is all part of the training in the holy life."
+    },
+    {
+      "start": 830.02,
+      "end": 832.02,
+      "text": "It is not like some people think,"
+    },
+    {
+      "start": 832.02,
+      "end": 835.02,
+      "text": "just come wear the robes and meditate all the time."
+    },
+    {
+      "start": 835.02,
+      "end": 838.02,
+      "text": "Just by meditating all the time,"
+    },
+    {
+      "start": 838.02,
+      "end": 841.02,
+      "text": "you cannot let go of a lot of attachments."
+    },
+    {
+      "start": 841.02,
+      "end": 845.02,
+      "text": "So all these things count as part of the training."
+    },
+    {
+      "start": 845.02,
+      "end": 849.02,
+      "text": "And letting go of our likes and dislikes, whatever the teacher says."
+    },
+    {
+      "start": 849.02,
+      "end": 852.02,
+      "text": "We think that he has more experience than us,"
+    },
+    {
+      "start": 852.02,
+      "end": 856.02,
+      "text": "and then we submit ourselves instead of thinking"
+    },
+    {
+      "start": 856.02,
+      "end": 858.02,
+      "text": "to do what we like to do."
+    },
+    {
+      "start": 858.02,
+      "end": 860.02,
+      "text": "We do what the teacher likes us to do."
+    },
+    {
+      "start": 860.02,
+      "end": 863.02,
+      "text": "These are all part of the training."
+    },
+    {
+      "start": 863.02,
+      "end": 866.02,
+      "text": "So now the sutra continues."
+    },
+    {
+      "start": 866.02,
+      "end": 869.02,
+      "text": "Then indeed the verbal Sariputta in the evening"
+    },
+    {
+      "start": 869.02,
+      "end": 873.02,
+      "text": "arose from seclusion and approached the exalted one."
+    },
+    {
+      "start": 873.02,
+      "end": 875.02,
+      "text": "And having come, he saluted the exalted one"
+    },
+    {
+      "start": 875.02,
+      "end": 878.02,
+      "text": "and sat down at one side and said,"
+    },
+    {
+      "start": 878.02,
+      "end": 881.02,
+      "text": "Lord, as I said alone in seclusion,"
+    },
+    {
+      "start": 881.02,
+      "end": 883.02,
+      "text": "this reflection arose in my mind."
+    },
+    {
+      "start": 883.02,
+      "end": 885.02,
+      "text": "Whom should among respect?"
+    },
+    {
+      "start": 885.02,
+      "end": 886.02,
+      "text": "Whom should he revere?"
+    },
+    {
+      "start": 886.02,
+      "end": 888.02,
+      "text": "And on whom should he rely"
+    },
+    {
+      "start": 888.02,
+      "end": 891.02,
+      "text": "if he would abandon unwholesome ways"
+    },
+    {
+      "start": 891.02,
+      "end": 893.02,
+      "text": "and make wholesomeness become?"
+    },
+    {
+      "start": 893.02,
+      "end": 895.02,
+      "text": "And I thought, he should respect and revere"
+    },
+    {
+      "start": 895.02,
+      "end": 898.02,
+      "text": "and rely on the teacher, dhamma, the sangha,"
+    },
+    {
+      "start": 898.02,
+      "end": 900.02,
+      "text": "the training, concentration,"
+    },
+    {
+      "start": 900.02,
+      "end": 902.02,
+      "text": "earnestness and goodwill."
+    },
+    {
+      "start": 902.02,
+      "end": 905.02,
+      "text": "These things are cleared and purified within me."
+    },
+    {
+      "start": 905.02,
+      "end": 908.02,
+      "text": "Even if I were to speak about them to the exalted one,"
+    },
+    {
+      "start": 908.02,
+      "end": 911.02,
+      "text": "they would be both purified and better reckoned so."
+    },
+    {
+      "start": 911.02,
+      "end": 915.02,
+      "text": "Just as if a man were to find a gold ring, etc.,"
+    },
+    {
+      "start": 915.02,
+      "end": 917.02,
+      "text": "and take it to the goldsmith,"
+    },
+    {
+      "start": 917.02,
+      "end": 920.02,
+      "text": "it would be both purified and better reckoned so"
+    },
+    {
+      "start": 920.02,
+      "end": 922.02,
+      "text": "after being passed by them."
+    },
+    {
+      "start": 922.02,
+      "end": 925.02,
+      "text": "Even so, these conditions in me, etc., etc.,"
+    },
+    {
+      "start": 925.02,
+      "end": 928.02,
+      "text": "after I have spoken of them to the exalted one"
+    },
+    {
+      "start": 928.02,
+      "end": 929.02,
+      "text": "and the Buddha said,"
+    },
+    {
+      "start": 929.02,
+      "end": 931.02,
+      "text": "well done, well done, Sariputta."
+    },
+    {
+      "start": 931.02,
+      "end": 934.02,
+      "text": "Amongst your respect, revere and rely on the teacher,"
+    },
+    {
+      "start": 934.02,
+      "end": 936.02,
+      "text": "dhamma, the sangha, the training,"
+    },
+    {
+      "start": 936.02,
+      "end": 939.02,
+      "text": "concentration, earnestness and goodwill"
+    },
+    {
+      "start": 939.02,
+      "end": 942.02,
+      "text": "if he would abandon unwholesome ways"
+    },
+    {
+      "start": 942.02,
+      "end": 944.02,
+      "text": "and make wholesomeness become."
+    },
+    {
+      "start": 944.02,
+      "end": 946.02,
+      "text": "When he had thus spoken,"
+    },
+    {
+      "start": 946.02,
+      "end": 948.02,
+      "text": "the venerable Sariputta said,"
+    },
+    {
+      "start": 948.02,
+      "end": 951.02,
+      "text": "Lord, in its fullness, I know the meaning"
+    },
+    {
+      "start": 951.02,
+      "end": 954.02,
+      "text": "of what the exalted one has said in brief."
+    },
+    {
+      "start": 954.02,
+      "end": 957.02,
+      "text": "That among should lack veneration for the teacher"
+    },
+    {
+      "start": 957.02,
+      "end": 959.02,
+      "text": "but should venerate dhamma."
+    },
+    {
+      "start": 959.02,
+      "end": 961.02,
+      "text": "Such a thing is not possible."
+    },
+    {
+      "start": 961.02,
+      "end": 964.02,
+      "text": "He who lacks veneration for the teacher"
+    },
+    {
+      "start": 964.02,
+      "end": 967.02,
+      "text": "lacks veneration also for dhamma."
+    },
+    {
+      "start": 967.02,
+      "end": 971.02,
+      "text": "That among lacking veneration for the teacher"
+    },
+    {
+      "start": 971.02,
+      "end": 976.02,
+      "text": "and dhamma should venerate sangha is not possible."
+    },
+    {
+      "start": 976.02,
+      "end": 981.02,
+      "text": "Similarly, that among lacking veneration"
+    },
+    {
+      "start": 981.02,
+      "end": 984.02,
+      "text": "for the teacher dhamma and sangha"
+    },
+    {
+      "start": 984.02,
+      "end": 987.02,
+      "text": "should venerate the training is not possible."
+    },
+    {
+      "start": 987.02,
+      "end": 989.02,
+      "text": "That among lacking veneration"
+    },
+    {
+      "start": 989.02,
+      "end": 991.02,
+      "text": "for the teacher dhamma, sangha,"
+    },
+    {
+      "start": 991.02,
+      "end": 994.02,
+      "text": "the training should venerate concentration"
+    },
+    {
+      "start": 994.02,
+      "end": 996.02,
+      "text": "is not possible."
+    },
+    {
+      "start": 996.02,
+      "end": 999.02,
+      "text": "That among lacking veneration for the teacher"
+    },
+    {
+      "start": 999.02,
+      "end": 1002.02,
+      "text": "and dhamma, sangha, training, concentration"
+    },
+    {
+      "start": 1002.02,
+      "end": 1006.02,
+      "text": "should venerate earnestness is not possible."
+    },
+    {
+      "start": 1006.02,
+      "end": 1011.4,
+      "text": "That among lacking veneration for the teacher dhamma, sangha,"
+    },
+    {
+      "start": 1011.4,
+      "end": 1014.4,
+      "text": "training, concentration and earnestness"
+    },
+    {
+      "start": 1014.4,
+      "end": 1016.4,
+      "text": "but should venerate goodwill,"
+    },
+    {
+      "start": 1016.4,
+      "end": 1018.4,
+      "text": "such a thing is not possible."
+    },
+    {
+      "start": 1018.4,
+      "end": 1028.0,
+      "text": "He who lacks veneration for the teacher dhamma, the sangha, training, concentration, and earnestness, lacks veneration also for good will."
+    },
+    {
+      "start": 1028.0,
+      "end": 1037.4,
+      "text": "So also, Lord, in the opposite cases, that a monk should venerate the teacher, but should not venerate dhamma, such a thing is not possible, et cetera, et cetera."
+    },
+    {
+      "start": 1037.4,
+      "end": 1042.6,
+      "text": "Thus, Lord, in His fullness, I understand, they exalted one speech, and the Buddha said,"
+    },
+    {
+      "start": 1042.6,
+      "end": 1049.6,
+      "text": "well done, well done, Sariputta. Well, have you grasped the meaning of what I have said in brief, even in its fullness?"
+    },
+    {
+      "start": 1049.6,
+      "end": 1059.6,
+      "text": "And the exalted one confirmed word for word, all that the venerable Sariputta had said, adding, thus is the meaning of my speech to be regarded."
+    },
+    {
+      "start": 1059.6,
+      "end": 1074.6,
+      "text": "So in this Sutta, these things, seven things are important for a monk, if he wants to abandon unwholesome states and develop wholesome states."
+    },
+    {
+      "start": 1074.6,
+      "end": 1085.6,
+      "text": "The interesting part here is that the Buddha said, if a monk does not venerate the teacher, it's not possible that he would venerate the dhamma."
+    },
+    {
+      "start": 1085.6,
+      "end": 1092.6,
+      "text": "If he does not venerate the teacher and the dhamma, it's not possible that he will venerate the sangha."
+    },
+    {
+      "start": 1092.6,
+      "end": 1098.6,
+      "text": "And if he does not venerate the Buddha, dhamma, and sangha, he will also not venerate the training."
+    },
+    {
+      "start": 1098.6,
+      "end": 1105.6,
+      "text": "And if he does not venerate all these four things, he will also not venerate concentration."
+    },
+    {
+      "start": 1105.6,
+      "end": 1120.6,
+      "text": "And here the concentration again is stressed, and in the Buddha's discourses, we always find concentration is always given as a precondition for wisdom."
+    },
+    {
+      "start": 1120.6,
+      "end": 1126.6,
+      "text": "That is why concentration is always stressed in the discourses of the Buddha."
+    },
+    {
+      "start": 1126.6,
+      "end": 1136.33,
+      "text": "The next Sutta is 7.7.67. This is another important Sutta."
+    },
+    {
+      "start": 1136.33,
+      "end": 1147.33,
+      "text": "The Buddha said, monks, although a wish such as this may arise in the heart of a monk as he lives without applying himself to making become,"
+    },
+    {
+      "start": 1147.33,
+      "end": 1155.33,
+      "text": "or that my heart might be freed of the asavas and be without attachment, yet his heart is not so free."
+    },
+    {
+      "start": 1155.33,
+      "end": 1160.33,
+      "text": "And what is the reason? Let it be said, it is lack of making become."
+    },
+    {
+      "start": 1160.33,
+      "end": 1166.33,
+      "text": "Making want become. The four intense states of mindfulness, satipatana."
+    },
+    {
+      "start": 1166.33,
+      "end": 1176.33,
+      "text": "The four right efforts, samappadana. The four basis of success, or sometimes the four basis is translated as the four basis of psychic power, idipada."
+    },
+    {
+      "start": 1176.33,
+      "end": 1183.33,
+      "text": "The five faculties, indria. The five powers, bala. The seven factors of enlightenment, bojanga."
+    },
+    {
+      "start": 1183.33,
+      "end": 1188.33,
+      "text": "And the Aryan Eightfold Path, Arya Atangika Maga."
+    },
+    {
+      "start": 1188.33,
+      "end": 1198.33,
+      "text": "I just stop here to commend. This making become actually is the Pali word is bhavana, making become or development."
+    },
+    {
+      "start": 1198.33,
+      "end": 1212.33,
+      "text": "And here the Buddha is saying that if a person does not make become or develop these 37 things, he cannot attain destruction of the asavas."
+    },
+    {
+      "start": 1212.33,
+      "end": 1220.33,
+      "text": "These 37 things are called the 37 Bodhi Pakya Dhammas, generally translated as the requisites of enlightenment."
+    },
+    {
+      "start": 1221.33,
+      "end": 1233.33,
+      "text": "And here it is quite clear all 37 Bodhi Pakya Dhammas are necessary for the destruction of the asavas."
+    },
+    {
+      "start": 1233.33,
+      "end": 1240.33,
+      "text": "It is not just the four satipatana. Four satipatana is just four things are out of the 37."
+    },
+    {
+      "start": 1240.33,
+      "end": 1248.33,
+      "text": "Then you need the four right efforts, the four basis of success, the idipadas, the five faculties, the five powers,"
+    },
+    {
+      "start": 1248.33,
+      "end": 1252.33,
+      "text": "the seven factors of enlightenment and the Aryan Eightfold Path."
+    },
+    {
+      "start": 1252.33,
+      "end": 1261.33,
+      "text": "Now there is a Sutta in the Majima Nikaya 114.9 where it is stated that when the Aryan Eightfold Path is fully developed,"
+    },
+    {
+      "start": 1261.33,
+      "end": 1266.33,
+      "text": "all the 37 Bodhi Pakya Dhammas are fully developed at the same time."
+    },
+    {
+      "start": 1266.33,
+      "end": 1273.33,
+      "text": "And Samatha and the Pasana, tranquilization and contemplation are led to work together."
+    },
+    {
+      "start": 1273.33,
+      "end": 1283.33,
+      "text": "So you see when the path to enlightenment taught by the Buddha is basically the Aryan Eightfold Path."
+    },
+    {
+      "start": 1283.33,
+      "end": 1292.33,
+      "text": "But when you cultivate, develop fully the Aryan Eightfold Path, all the 37 Bodhi Pakya Dhammas are automatically cultivated."
+    },
+    {
+      "start": 1292.33,
+      "end": 1294.33,
+      "text": "Now the Buddha continues."
+    },
+    {
+      "start": 1294.33,
+      "end": 1305.83,
+      "text": "It is just as if a hand sitting on an or ten or a dozen eggs."
+    },
+    {
+      "start": 1305.83,
+      "end": 1316.13,
+      "text": "And if the eggs were not fully set upon, not fully warmed, not fully made to become,"
+    },
+    {
+      "start": 1316.13,
+      "end": 1320.13,
+      "text": "and although such a wish as this might come to that hand,"
+    },
+    {
+      "start": 1320.13,
+      "end": 1326.13,
+      "text": "or that my chicks might break the egg shells with the spiked claws of their feet,"
+    },
+    {
+      "start": 1326.13,
+      "end": 1330.13,
+      "text": "or with their beaks and bills and hatch out safely."
+    },
+    {
+      "start": 1330.13,
+      "end": 1337.13,
+      "text": "Yet it is not possible for those chicks to break the shells with their claws and beaks and to hatch out safely."
+    },
+    {
+      "start": 1337.13,
+      "end": 1338.13,
+      "text": "And what is the reason?"
+    },
+    {
+      "start": 1338.13,
+      "end": 1347.13,
+      "text": "It is because monks, those hen's eggs have not been fully set on, not fully warmed, not fully made to become, in just the same way in monks."
+    },
+    {
+      "start": 1347.13,
+      "end": 1351.13,
+      "text": "Although a wish such as this might arise in the heart of a monk,"
+    },
+    {
+      "start": 1351.13,
+      "end": 1355.13,
+      "text": "as he lives without applying himself to make him become,"
+    },
+    {
+      "start": 1355.13,
+      "end": 1359.13,
+      "text": "or that my heart might be freed of the asabhas and be without attachment,"
+    },
+    {
+      "start": 1359.13,
+      "end": 1361.13,
+      "text": "yet his heart is not so freed."
+    },
+    {
+      "start": 1361.13,
+      "end": 1362.13,
+      "text": "And what is the reason?"
+    },
+    {
+      "start": 1362.13,
+      "end": 1365.13,
+      "text": "Let it be said, it is lack of making become."
+    },
+    {
+      "start": 1365.13,
+      "end": 1367.13,
+      "text": "Making what become?"
+    },
+    {
+      "start": 1367.13,
+      "end": 1371.13,
+      "text": "The four intense states of mindfulness, the four right efforts,"
+    },
+    {
+      "start": 1371.13,
+      "end": 1374.13,
+      "text": "the four basis of success, etc., etc."
+    },
+    {
+      "start": 1375.13,
+      "end": 1379.13,
+      "text": "Monks, although such a wish as this might not arise in the heart of a monk,"
+    },
+    {
+      "start": 1379.13,
+      "end": 1382.13,
+      "text": "as he lives applying himself to making become,"
+    },
+    {
+      "start": 1382.13,
+      "end": 1386.13,
+      "text": "yet his heart is freed from the asabhas and attachment."
+    },
+    {
+      "start": 1386.13,
+      "end": 1387.13,
+      "text": "And why?"
+    },
+    {
+      "start": 1387.13,
+      "end": 1390.13,
+      "text": "Let it be said, it is due to making become."
+    },
+    {
+      "start": 1390.13,
+      "end": 1391.13,
+      "text": "Making what become?"
+    },
+    {
+      "start": 1391.13,
+      "end": 1393.13,
+      "text": "The four intense states of mindfulness,"
+    },
+    {
+      "start": 1393.13,
+      "end": 1400.13,
+      "text": "the four right efforts, the four basis of psychic power, the five faculties, etc., etc."
+    },
+    {
+      "start": 1401.13,
+      "end": 1406.13,
+      "text": "Monks, it is just as if eight or ten or a dozen hen's eggs"
+    },
+    {
+      "start": 1406.13,
+      "end": 1410.13,
+      "text": "were fully set upon, fully warmed, and fully made to become."
+    },
+    {
+      "start": 1410.13,
+      "end": 1414.13,
+      "text": "Although any such wish might not come to the hen,"
+    },
+    {
+      "start": 1414.13,
+      "end": 1416.13,
+      "text": "yet those chicks would hatch out safely."
+    },
+    {
+      "start": 1416.13,
+      "end": 1417.13,
+      "text": "And why?"
+    },
+    {
+      "start": 1417.13,
+      "end": 1422.13,
+      "text": "Because the eggs were fully made, were fully warmed,"
+    },
+    {
+      "start": 1422.13,
+      "end": 1425.13,
+      "text": "fully set upon, fully made to become."
+    },
+    {
+      "start": 1425.13,
+      "end": 1429.13,
+      "text": "In just the same way, monks, although a monk might not express such a wish,"
+    },
+    {
+      "start": 1429.13,
+      "end": 1433.13,
+      "text": "his heart would be freed from the asabhas and from attachment"
+    },
+    {
+      "start": 1433.13,
+      "end": 1435.13,
+      "text": "because of his making become."
+    },
+    {
+      "start": 1435.13,
+      "end": 1438.13,
+      "text": "The four intense states of mindfulness, the four right efforts,"
+    },
+    {
+      "start": 1438.13,
+      "end": 1441.13,
+      "text": "the four basis of success, etc., etc."
+    },
+    {
+      "start": 1441.13,
+      "end": 1445.13,
+      "text": "Monks, just as a carpenter or a carpenter's apprentice,"
+    },
+    {
+      "start": 1445.13,
+      "end": 1450.13,
+      "text": "inspecting the handle of his eggs, sees thereon the marks of his fingers and thumb,"
+    },
+    {
+      "start": 1450.13,
+      "end": 1453.13,
+      "text": "but knows not how much of the eggs handled,"
+    },
+    {
+      "start": 1453.13,
+      "end": 1458.13,
+      "text": "was worn away that day, nor the previous day, nor at any time."
+    },
+    {
+      "start": 1458.13,
+      "end": 1463.13,
+      "text": "Yet knows just when the wearing away has reached the end of wearing away."
+    },
+    {
+      "start": 1463.13,
+      "end": 1467.13,
+      "text": "Even so, monks, a monk intent upon making become,"
+    },
+    {
+      "start": 1467.13,
+      "end": 1471.13,
+      "text": "knows not to one extent the asabhas were worn away that day,"
+    },
+    {
+      "start": 1471.13,
+      "end": 1474.13,
+      "text": "nor the previous day, nor at any time."
+    },
+    {
+      "start": 1474.13,
+      "end": 1478.13,
+      "text": "Yet knows just when the wearing away has reached the end of wearing away."
+    },
+    {
+      "start": 1478.13,
+      "end": 1483.13,
+      "text": "Monks, just as in an ocean-going ship rigged with mast and stays,"
+    },
+    {
+      "start": 1483.13,
+      "end": 1487.13,
+      "text": "after it has sailed the seas for six months and is beached on the shore"
+    },
+    {
+      "start": 1487.13,
+      "end": 1491.13,
+      "text": "for the winter, the stays affected by wind and heat"
+    },
+    {
+      "start": 1491.13,
+      "end": 1495.13,
+      "text": "rain upon the rainy season, easily weakened and wrought away."
+    },
+    {
+      "start": 1495.13,
+      "end": 1499.13,
+      "text": "Even so, monks, in a monk abiding intent upon making become,"
+    },
+    {
+      "start": 1499.13,
+      "end": 1503.13,
+      "text": "the factors easily weakened and wrought away."
+    },
+    {
+      "start": 1503.13,
+      "end": 1505.13,
+      "text": "That's the end of the sutta."
+    },
+    {
+      "start": 1505.13,
+      "end": 1509.13,
+      "text": "This is a very good and important sutta where it says that"
+    },
+    {
+      "start": 1509.13,
+      "end": 1515.13,
+      "text": "if a monk cultivates the 37 Bodhipakya Dhammas,"
+    },
+    {
+      "start": 1515.13,
+      "end": 1518.13,
+      "text": "then even if he does not wish to become enlightened,"
+    },
+    {
+      "start": 1518.13,
+      "end": 1520.13,
+      "text": "he will automatically become enlightened."
+    },
+    {
+      "start": 1520.13,
+      "end": 1524.13,
+      "text": "But if he does not cultivate the 37 Bodhipakya Dhammas,"
+    },
+    {
+      "start": 1524.13,
+      "end": 1526.13,
+      "text": "even if he made a wish to become enlightened,"
+    },
+    {
+      "start": 1526.13,
+      "end": 1528.13,
+      "text": "he cannot become enlightened."
+    },
+    {
+      "start": 1528.13,
+      "end": 1533.13,
+      "text": "And the last part is the interesting parable of the Carpenters' Ads."
+    },
+    {
+      "start": 1533.13,
+      "end": 1539.13,
+      "text": "You know, the Carpenters' Ads is for planing the wood."
+    },
+    {
+      "start": 1539.13,
+      "end": 1543.13,
+      "text": "And in our present days, the Ads,"
+    },
+    {
+      "start": 1543.13,
+      "end": 1546.13,
+      "text": "you have to hold it with two hands to plan the wood."
+    },
+    {
+      "start": 1546.13,
+      "end": 1549.13,
+      "text": "But during the Buddha's time, they probably held it with one hand"
+    },
+    {
+      "start": 1549.13,
+      "end": 1550.13,
+      "text": "and planed the wood."
+    },
+    {
+      "start": 1550.13,
+      "end": 1554.13,
+      "text": "And because of the Carpenters using the Ads day after day,"
+    },
+    {
+      "start": 1554.13,
+      "end": 1558.13,
+      "text": "the finger marks are impressed on the wood"
+    },
+    {
+      "start": 1558.13,
+      "end": 1561.13,
+      "text": "that the marks can be seen on the wood."
+    },
+    {
+      "start": 1561.13,
+      "end": 1565.13,
+      "text": "But the Buddha says that the Carpenters does not know"
+    },
+    {
+      "start": 1565.13,
+      "end": 1569.13,
+      "text": "how much of the wood was worn away at any time today,"
+    },
+    {
+      "start": 1569.13,
+      "end": 1571.13,
+      "text": "yesterday or any time."
+    },
+    {
+      "start": 1571.13,
+      "end": 1575.13,
+      "text": "So in the same way, when we practice the holy life,"
+    },
+    {
+      "start": 1575.13,
+      "end": 1579.13,
+      "text": "we do not know how much of the defilements have been worn away."
+    },
+    {
+      "start": 1579.13,
+      "end": 1584.13,
+      "text": "This probably implies that a monk cannot be sure"
+    },
+    {
+      "start": 1584.13,
+      "end": 1588.13,
+      "text": "whether he has attained much stage of Arya-hood."
+    },
+    {
+      "start": 1588.13,
+      "end": 1592.13,
+      "text": "But at the end, when he has completed all his work"
+    },
+    {
+      "start": 1592.13,
+      "end": 1595.13,
+      "text": "and he becomes an Arahant, then he knows just in the same way"
+    },
+    {
+      "start": 1595.13,
+      "end": 1599.13,
+      "text": "the Buddha says that the marks on the Ads,"
+    },
+    {
+      "start": 1599.13,
+      "end": 1602.13,
+      "text": "he does not know how much has been worn away."
+    },
+    {
+      "start": 1602.13,
+      "end": 1607.13,
+      "text": "But finally, when the finger gains are impressed on the wood,"
+    },
+    {
+      "start": 1607.13,
+      "end": 1611.13,
+      "text": "then he knows that the wood has been worn away."
+    },
+    {
+      "start": 1611.13,
+      "end": 1614.13,
+      "text": "So this is very important similarly,"
+    },
+    {
+      "start": 1614.13,
+      "end": 1618.13,
+      "text": "which tells us that the holy life,"
+    },
+    {
+      "start": 1618.13,
+      "end": 1622.13,
+      "text": "only when you have completed the work,"
+    },
+    {
+      "start": 1622.13,
+      "end": 1625.13,
+      "text": "then we know that the work is completed."
+    },
+    {
+      "start": 1625.13,
+      "end": 1629.13,
+      "text": "So some people, they think they go for a short retreat"
+    },
+    {
+      "start": 1629.13,
+      "end": 1634.13,
+      "text": "and they want to destroy so much of the Asavas,"
+    },
+    {
+      "start": 1634.13,
+      "end": 1636.13,
+      "text": "so much of the fetters,"
+    },
+    {
+      "start": 1636.13,
+      "end": 1642.13,
+      "text": "but it's not for sure that you know, according to this parable,"
+    },
+    {
+      "start": 1642.13,
+      "end": 1646.13,
+      "text": "it's only when you are Arahant, then you know."
+    },
+    {
+      "start": 1646.13,
+      "end": 1649.13,
+      "text": "So I'll stop here."
+    }
+  ]
+}
