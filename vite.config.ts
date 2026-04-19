@@ -1,13 +1,11 @@
-// @lovable.dev/vite-tanstack-config already includes the following — do NOT add them manually
-// or the app will break with duplicate plugins:
-//   - tanstackStart, viteReact, tailwindcss, tsConfigPaths, cloudflare (build-only),
-//     componentTagger (dev-only), VITE_* env injection, @ path alias, React/TanStack dedupe,
-//     error logger plugins, and sandbox detection (port/host/strictPort).
-// You can pass additional config via defineConfig({ vite: { ... } }) if needed.
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { defineConfig } from "@lovable.dev/vite-tanstack-config";
+import tailwindcss from "@tailwindcss/vite";
+import { tanstackStart } from "@tanstack/react-start/plugin/vite";
+import viteReact from "@vitejs/plugin-react";
+import { defineConfig, loadEnv, mergeConfig } from "vite";
+import tsConfigPaths from "vite-tsconfig-paths";
 import { nitro } from "nitro/vite";
 import { damaCorpusFsPlugin } from "./vite-plugin-dama-corpus-fs";
 
@@ -56,37 +54,92 @@ const damaProxy = {
   "/dama-aud": {
     target: "http://127.0.0.1:8000",
     changeOrigin: true,
-    rewrite: (path: string) => path.replace(/^\/dama-aud/, "/aud"),
+    rewrite: (pathStr: string) => pathStr.replace(/^\/dama-aud/, "/aud"),
   },
 } as const;
 
-export default defineConfig({
-  cloudflare: ciGcp ? false : undefined,
-  vite: {
-    plugins: [
-      ...(ciGcp
-        ? [
-            nitro({
-              preset: "node-server",
-              serverDir: path.resolve(__dirname, "server"),
-            }),
-          ]
-        : []),
-      ...(damaFs ? [damaFs] : []),
-    ],
+export default defineConfig(async (env) => {
+  const { command, mode } = env;
+
+  const envDefine: Record<string, string> = {};
+  const loadedEnv = loadEnv(mode, process.cwd(), "VITE_");
+  for (const [key, value] of Object.entries(loadedEnv)) {
+    envDefine[`import.meta.env.${key}`] = JSON.stringify(value);
+  }
+
+  const plugins = [
+    tailwindcss(),
+    tsConfigPaths({ projects: ["./tsconfig.json"] }),
+    ...(command === "build" && !ciGcp
+      ? await (async () => {
+          try {
+            const { cloudflare } = await import("@cloudflare/vite-plugin");
+            return [
+              cloudflare({
+                viteEnvironment: { name: "ssr" },
+              }),
+            ];
+          } catch {
+            return [];
+          }
+        })()
+      : []),
+    tanstackStart({ srcDirectory: "src" }),
+    viteReact(),
+    ...(ciGcp
+      ? [
+          nitro({
+            preset: "node-server",
+            serverDir: path.resolve(__dirname, "server"),
+          }),
+        ]
+      : []),
+    ...(damaFs ? [damaFs] : []),
+  ];
+
+  const base = mergeConfig(
+    {
+      define: envDefine,
+      resolve: {
+        alias: {
+          "@": path.join(process.cwd(), "src"),
+        },
+        dedupe: [
+          "react",
+          "react-dom",
+          "react/jsx-runtime",
+          "react/jsx-dev-runtime",
+          "@tanstack/react-query",
+          "@tanstack/query-core",
+        ],
+      },
+      plugins,
+      server: {
+        host: "::",
+        port: 8080,
+        fs: {
+          allow: fsAllowDirs,
+        },
+        proxy: { ...damaProxy },
+      },
+      preview: {
+        fs: {
+          allow: fsAllowDirs,
+        },
+        proxy: { ...damaProxy },
+      },
+    },
+    {},
+  );
+
+  return mergeConfig(base, {
     server: {
-      fs: {
-        // App source, corpus JSON root, and `aud/` when outside corpus.
-        allow: fsAllowDirs,
+      watch: {
+        awaitWriteFinish: {
+          stabilityThreshold: 1000,
+          pollInterval: 100,
+        },
       },
-      proxy: { ...damaProxy },
     },
-    // Same as dev: LAN `vite preview --host` must proxy /api or corpus calls 404 / hang.
-    preview: {
-      fs: {
-        allow: fsAllowDirs,
-      },
-      proxy: { ...damaProxy },
-    },
-  },
+  });
 });
