@@ -30,8 +30,8 @@ export type DamaQueryResponse = {
   timings_ms?: Record<string, unknown> | null;
 };
 
-/** Four main collections in the Pāli canon (UI); dama5 may only ship AN until more JSON exists. */
-export type NikayaId = "AN" | "SN" | "DN" | "MN";
+/** Main Nikāya collections in the canon (UI); dama5 may only ship AN until more JSON exists. */
+export type NikayaId = "AN" | "SN" | "DN" | "MN" | "KN";
 
 export type ItemSummary = {
   suttaid: string;
@@ -47,6 +47,7 @@ export const NIKAYA_OPTIONS: { value: NikayaId; label: string; title: string }[]
   { value: "SN", label: "Saṁyutta", title: "Saṁyutta Nikāya" },
   { value: "DN", label: "Dīgha", title: "Dīgha Nikāya" },
   { value: "MN", label: "Majjhima", title: "Majjhima Nikāya" },
+  { value: "KN", label: "Khuddaka", title: "Khuddaka Nikāya" },
 ];
 
 /** Aṅguttara nipātas 1–11 (Book of Ones … Book of Elevens). */
@@ -81,6 +82,9 @@ export type ItemDetail = {
   aud_file?: string;
   aud_start_s?: number;
   aud_end_s?: number;
+  /** Optional link to teacher recording on YouTube (from corpus JSON). */
+  youtube_url?: string;
+  youtube_video_id?: string;
   chain?: {
     items?: string[];
     count?: number;
@@ -99,6 +103,15 @@ export function anBookFromSuttaId(suttaid: string | undefined | null): number | 
   const n = parseInt(head, 10);
   if (!Number.isFinite(n) || n < 1 || n > 11) return null;
   return n;
+}
+
+/** First book segment for SN/DN/MN/KN dotted ids (`SN 2.5` → 2). */
+export function otherNikayaBookFromSuttaId(suttaid: string | undefined | null): number | null {
+  const t = (suttaid ?? "").trim();
+  const m = /^(SN|DN|MN|KN)\s+(\d+)\./i.exec(t);
+  if (!m) return null;
+  const n = parseInt(m[2], 10);
+  return Number.isFinite(n) ? n : null;
 }
 
 /** Matches repo folders an1…an11 (Aṅguttara nipātas). Value "all" or "1"…"11". */
@@ -120,9 +133,23 @@ export function filterItemsByNipata(items: ItemSummary[], nipata: string): ItemS
   return items.filter((it) => anBookFromSuttaId(it.suttaid) === want);
 }
 
+/** Like nipāta filtering for AN; for SN/DN/MN/KN filters by leading book segment (`SN 1.x` → book 1). */
+export function filterItemsByNikayaBook(
+  items: ItemSummary[],
+  nik: NikayaId,
+  book: string,
+): ItemSummary[] {
+  const inNik = filterItemsByNikaya(items, nik);
+  if (book === "all") return inNik;
+  if (nik === "AN") return filterItemsByNipata(inNik, book);
+  const want = parseInt(book, 10);
+  if (!Number.isFinite(want)) return inNik;
+  return inNik.filter((it) => otherNikayaBookFromSuttaId(it.suttaid) === want);
+}
+
 function _normNikaya(s: string | undefined): NikayaId | null {
   const u = (s || "").trim().toUpperCase();
-  if (u === "AN" || u === "SN" || u === "DN" || u === "MN") return u;
+  if (u === "AN" || u === "SN" || u === "DN" || u === "MN" || u === "KN") return u;
   return null;
 }
 
@@ -134,6 +161,7 @@ export function inferNikayaFromSuttaId(suttaid: string): NikayaId {
   if (/^\s*SN[\s.]/i.test(raw) || /^\s*SN$/i.test(raw)) return "SN";
   if (/^\s*DN[\s.]/i.test(raw) || /^DN\d/i.test(up)) return "DN";
   if (/^\s*MN[\s.]/i.test(raw) || /^MN\d/i.test(up)) return "MN";
+  if (/^\s*KN\b/i.test(raw)) return "KN";
   if (anBookFromSuttaId(raw) != null) return "AN";
   return "AN";
 }
@@ -191,6 +219,8 @@ export function canonIndexSubtitle(suttaid: string): string {
   const nk = inferNikayaFromSuttaId(suttaid);
   if (nk !== "AN") {
     const nt = NIKAYA_OPTIONS.find((o) => o.value === nk)?.title ?? nk;
+    const ob = otherNikayaBookFromSuttaId(suttaid);
+    if (ob != null && ref) return `${nt} · Book ${ob} · ${ref}`;
     return ref ? `${nt} · ${ref}` : nt;
   }
   const b = anBookFromSuttaId(suttaid);

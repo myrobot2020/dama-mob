@@ -92,10 +92,12 @@ gcloud builds triggers create github \
 
 
 
+## Teacher MP3s (GCS)
+
+See **`deploy/GCS_AUD.md`**: bucket **`gs://damalight-dama-aud`**, public URLs under **`VITE_DAMA_AUD_PUBLIC_BASE`**, synced from local **`aud/`**.
+
 ## After push to `main`
 
-
-
-Pushes to **`main`** on **`myrobot2020/dama-mob`** run **`cloudbuild.yaml`**: install → **`CI_GCP=1` build** → Docker → Artifact Registry → **`gcloud run deploy`** service **`dama-mob`** in **`us-central1`**.
+Pushes to **`main`** on **`myrobot2020/dama-mob`** run **`cloudbuild.yaml`**: install → **`CI_GCP=1` build** (with **`VITE_DAMA_AUD_PUBLIC_BASE`** for GCS audio URLs) → Docker → Artifact Registry → **`gcloud run deploy`** service **`dama-mob`** in **`asia-south1`**.
 
 

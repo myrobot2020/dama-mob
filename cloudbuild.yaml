@@ -14,6 +14,9 @@ substitutions:
   _REGION: asia-south1
   _SERVICE_NAME: dama-mob
   _AR_REPO: dama-mob
+  # Public HTTPS base for teacher MP3s (GCS): https://storage.googleapis.com/BUCKET_NAME
+  # Create bucket + upload: see deploy/GCS_AUD.md. Leave empty to use /dama-aud/ from the image.
+  _VITE_DAMA_AUD_PUBLIC_BASE: "https://storage.googleapis.com/damalight-dama-aud"
 
 steps:
   # npm ci was failing: lockfile peer trees differ from npm's strict ci check (nitro/unstorage peers).
@@ -29,6 +32,7 @@ steps:
     dir: .
     env:
       - CI_GCP=1
+      - VITE_DAMA_AUD_PUBLIC_BASE=${_VITE_DAMA_AUD_PUBLIC_BASE}
     args: ["npm", "run", "build"]
 
   - id: docker-build
