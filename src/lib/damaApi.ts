@@ -184,6 +184,16 @@ export function getDamaApiBase(): string {
 }
 
 /**
+ * Public HTTPS base for teacher MP3s (e.g. GCS): `https://storage.googleapis.com/BUCKET`.
+ * Objects use the same names as `aud_file` in corpus JSON. Build-time: `VITE_DAMA_AUD_PUBLIC_BASE`.
+ */
+export function getDamaAudPublicBase(): string {
+  const raw = import.meta.env.VITE_DAMA_AUD_PUBLIC_BASE as string | undefined;
+  if (raw && raw.trim()) return raw.replace(/\/$/, "");
+  return "";
+}
+
+/**
  * Teacher MP3 from this app only: put the file under `public/aud/<filename>` (same name as in JSON).
  * No dama5 required. Vite serves `public/` at the site root.
  */
@@ -202,12 +212,13 @@ export function getDamaAudUrl(filename: string): string {
 }
 
 /**
- * Audio file from dama5 `GET /aud/<file>`. When `VITE_DAMA_API_URL` is unset, dev uses Vite
- * `/dama-aud/*` → dama5 `/aud/*` (see vite.config).
+ * Teacher MP3: GCS/public base → dama5 `/aud/` → `/dama-aud/` (see vite.config + Nitro middleware).
  */
 export function getCorpusAudSrc(filename: string): string {
   const name = (filename || "").trim();
   if (!name) return "";
+  const publicBase = getDamaAudPublicBase();
+  if (publicBase) return `${publicBase}/${encodeURIComponent(name)}`;
   const base = getDamaApiBase();
   if (base) return `${base}/aud/${encodeURIComponent(name)}`;
   return `/dama-aud/${encodeURIComponent(name)}`;
