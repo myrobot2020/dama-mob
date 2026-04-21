@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
 import { BottomNav } from "@/components/BottomNav";
 import { CanonQuote } from "@/components/CanonQuote";
-import { sutta } from "@/data/an1116";
+import { sutta } from "@/data/an1116.ts";
 import { REFLECTION_QUERY_STORAGE_KEY } from "@/lib/damaApi";
 import { Bookmark, Check } from "lucide-react";
 

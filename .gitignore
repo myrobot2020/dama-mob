@@ -32,7 +32,7 @@ dist-ssr
 *.sw?
 
 # Excluded from version control per project preference
-kn/
-data/
-scripts2/data/
+/kn/
+/data/
+/scripts2/data/
 .venv/
