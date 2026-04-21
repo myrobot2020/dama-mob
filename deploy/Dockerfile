@@ -6,9 +6,8 @@ ENV NODE_ENV=production
 ENV PORT=8080
 ENV HOST=0.0.0.0
 COPY .output/ ./
-# Sutta JSON for `GET /__dama_corpus__/…` (matches local `data/validated-json/` layout → /srv/corpus/anN/suttas/…).
-COPY ["data/validated-json", "corpus"]
-RUN mkdir -p aud
+# Removed local data bundling as we now fetch from GCS.
+RUN mkdir -p aud corpus
 ENV CORPUS_ROOT=/srv/corpus
 ENV AUD_ROOT=/srv/aud
 EXPOSE 8080

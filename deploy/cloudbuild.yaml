@@ -18,6 +18,7 @@ substitutions:
   # Create bucket + upload: see deploy/GCS_AUD.md. Leave empty to use /dama-aud/ from the image.
   _VITE_DAMA_AUD_PUBLIC_BASE: "https://storage.googleapis.com/damalight-dama-aud"
   _VITE_DAMA_CORPUS_GCS_BASE: "https://storage.googleapis.com/damalight-dama-json"
+  _SHORT_SHA: "manual"
 
 steps:
   # npm ci was failing: lockfile peer trees differ from npm's strict ci check (nitro/unstorage peers).
@@ -50,7 +51,7 @@ steps:
       - -f
       - deploy/Dockerfile
       - -t
-      - ${_REGION}-docker.pkg.dev/$PROJECT_ID/${_AR_REPO}/${_SERVICE_NAME}:$SHORT_SHA
+      - ${_REGION}-docker.pkg.dev/$PROJECT_ID/${_AR_REPO}/${_SERVICE_NAME}:${_SHORT_SHA}
       - -t
       - ${_REGION}-docker.pkg.dev/$PROJECT_ID/${_AR_REPO}/${_SERVICE_NAME}:latest
       - .
@@ -70,7 +71,7 @@ steps:
       - run
       - deploy
       - ${_SERVICE_NAME}
-      - --image=${_REGION}-docker.pkg.dev/$PROJECT_ID/${_AR_REPO}/${_SERVICE_NAME}:$SHORT_SHA
+      - --image=${_REGION}-docker.pkg.dev/$PROJECT_ID/${_AR_REPO}/${_SERVICE_NAME}:${_SHORT_SHA}
       - --region=${_REGION}
       - --platform=managed
       - --allow-unauthenticated
