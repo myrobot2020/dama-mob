@@ -1,5 +1,6 @@
 import { Link, useLocation } from "@tanstack/react-router";
 import { Home, BookOpen, Trees, NotebookPen, User } from "lucide-react";
+import { NextSuttaStrip } from "@/components/NextSuttaStrip";
 
 const tabs = [
   { to: "/", label: "Home", icon: Home },
@@ -13,6 +14,7 @@ export function BottomNav() {
   const { pathname } = useLocation();
   return (
     <nav className="fixed bottom-0 inset-x-0 z-50 px-3 pb-3 pt-2">
+      <NextSuttaStrip />
       <div className="glass rounded-2xl flex items-center justify-around px-2 py-2">
         {tabs.map(({ to, label, icon: Icon }) => {
           const active =

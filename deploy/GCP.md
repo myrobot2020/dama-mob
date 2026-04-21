@@ -2,7 +2,7 @@
 
 
 
-Repo files: root `Dockerfile`, `cloudbuild.yaml`. Builds use **`CI_GCP=1`** so Vite skips Cloudflare and emits Nitro **node-server** output under `.output/` (not committed).
+Repo files: `deploy/Dockerfile`, `deploy/cloudbuild.yaml`. Builds use **`CI_GCP=1`** so Vite skips Cloudflare and emits Nitro **node-server** output under `.output/` (not committed).
 
 
 
@@ -16,7 +16,7 @@ Project: **`damalight`**. GitHub connection **`dama-github`** stays in **`us-cen
 
 - APIs enabled for Cloud Build, Run, Artifact Registry, Secret Manager.
 
-- Cloud Build P4SA granted Secret Manager access; default Cloud Build SA granted **Run Admin**, **Artifact Registry Writer**, **Service Account User** so `cloudbuild.yaml` can push images and deploy Cloud Run.
+- Cloud Build P4SA granted Secret Manager access; default Cloud Build SA granted **Run Admin**, **Artifact Registry Writer**, **Service Account User** so `deploy/cloudbuild.yaml` can push images and deploy Cloud Run.
 
 
 
@@ -80,7 +80,7 @@ gcloud builds triggers create github \
 
   --branch-pattern="^main$" \
 
-  --build-config="cloudbuild.yaml" \
+  --build-config="deploy/cloudbuild.yaml" \
 
   --region=us-central1 \
 
@@ -98,6 +98,6 @@ See **`deploy/GCS_AUD.md`**: bucket **`gs://damalight-dama-aud`**, public URLs u
 
 ## After push to `main`
 
-Pushes to **`main`** on **`myrobot2020/dama-mob`** run **`cloudbuild.yaml`**: install → **`CI_GCP=1` build** (with **`VITE_DAMA_AUD_PUBLIC_BASE`** for GCS audio URLs) → Docker → Artifact Registry → **`gcloud run deploy`** service **`dama-mob`** in **`asia-south1`**.
+Pushes to **`main`** on **`myrobot2020/dama-mob`** run **`deploy/cloudbuild.yaml`**: install → **`CI_GCP=1` build** (with **`VITE_DAMA_AUD_PUBLIC_BASE`** for GCS audio URLs) → Docker → Artifact Registry → **`gcloud run deploy`** service **`dama-mob`** in **`asia-south1`**.
 
 

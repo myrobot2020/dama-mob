@@ -40,7 +40,7 @@ if ($LASTEXITCODE -ne 0) {
     --name=$triggerName `
     --repository=$repoResource `
     --branch-pattern="^main$" `
-    --build-config="cloudbuild.yaml" `
+    --build-config="deploy/cloudbuild.yaml" `
     --region=us-central1 `
     --service-account=$cbSa `
     --quiet

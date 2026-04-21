@@ -5,11 +5,13 @@ import {
   anBookFromSuttaId,
   AN_BOOK_TITLES,
   filterItemsByNikaya,
+  filterItemsByNikayaBook,
   filterItemsByNipata,
   getItems,
   inferNikayaFromSuttaId,
   ItemSummary,
   NIKAYA_OPTIONS,
+  otherNikayaBookFromSuttaId,
   type NikayaId,
 } from "@/lib/damaApi";
 
@@ -64,6 +66,9 @@ export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string })
     if (nk === "AN") {
       const b = anBookFromSuttaId(currentSuttaId);
       if (b != null) setBook(String(b));
+    } else {
+      const ob = otherNikayaBookFromSuttaId(currentSuttaId);
+      if (ob != null) setBook(String(ob));
     }
   }, [currentSuttaId]);
 
@@ -72,12 +77,30 @@ export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string })
     [rawItems, nikaya],
   );
 
+  const uniqueOtherBooks = useMemo(() => {
+    if (nikaya === "AN") return [];
+    return Array.from(
+      new Set(
+        nikayaItems
+          .map((it) => otherNikayaBookFromSuttaId(it.suttaid))
+          .filter((x): x is number => x != null),
+      ),
+    ).sort((a, b) => a - b);
+  }, [nikaya, nikayaItems]);
+
+  const otherBookSelectValue = useMemo(() => {
+    if (nikaya === "AN" || uniqueOtherBooks.length === 0) return book;
+    const cur = parseInt(book, 10);
+    if (uniqueOtherBooks.includes(cur)) return String(cur);
+    return String(uniqueOtherBooks[0]);
+  }, [nikaya, book, uniqueOtherBooks]);
+
   const suttasInBook = useMemo(() => {
-    if (nikaya !== "AN") {
-      return sortSuttaIds(nikayaItems);
+    if (nikaya === "AN") {
+      return sortSuttaIds(filterItemsByNipata(nikayaItems, book));
     }
-    return sortSuttaIds(filterItemsByNipata(nikayaItems, book));
-  }, [nikaya, nikayaItems, book]);
+    return sortSuttaIds(filterItemsByNikayaBook(rawItems, nikaya, book));
+  }, [nikaya, nikayaItems, rawItems, book]);
 
   const suttaSelectValue = useMemo(() => {
     if (load === "loading" || load === "error") {
@@ -98,32 +121,57 @@ export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string })
   const onNikayaChange = (nk: NikayaId) => {
     setNikaya(nk);
     if (load !== "ok") return;
-    const inNik = filterItemsByNikaya(rawItems, nk);
     if (nk === "AN") {
-      const sorted = sortSuttaIds(filterItemsByNipata(inNik, book));
-      const first = sorted[0]?.suttaid;
+      const inNik = filterItemsByNikaya(rawItems, nk);
+      let sorted = sortSuttaIds(filterItemsByNipata(inNik, book));
+      let first = sorted[0]?.suttaid;
+      if (!first) {
+        sorted = sortSuttaIds(inNik);
+        first = sorted[0]?.suttaid;
+        const b = first ? anBookFromSuttaId(first) : null;
+        if (b != null) setBook(String(b));
+      }
       if (first) navigate({ to: "/sutta/$suttaId", params: { suttaId: first } });
       return;
     }
-    const sorted = sortSuttaIds(inNik);
+    const books = Array.from(
+      new Set(
+        filterItemsByNikaya(rawItems, nk)
+          .map((it) => otherNikayaBookFromSuttaId(it.suttaid))
+          .filter((x): x is number => x != null),
+      ),
+    ).sort((a, b) => a - b);
+    const fb = String(books[0] ?? "1");
+    setBook(fb);
+    const sorted = sortSuttaIds(filterItemsByNikayaBook(rawItems, nk, fb));
     const first = sorted[0]?.suttaid;
     if (first) navigate({ to: "/sutta/$suttaId", params: { suttaId: first } });
   };
 
   const onBookChange = (b: string) => {
     setBook(b);
-    if (load !== "ok" || nikaya !== "AN") return;
-    const sorted = sortSuttaIds(filterItemsByNipata(filterItemsByNikaya(rawItems, "AN"), b));
+    if (load !== "ok") return;
+    const inNik = filterItemsByNikaya(rawItems, nikaya);
+    let sorted: ItemSummary[];
+    if (nikaya === "AN") {
+      sorted = sortSuttaIds(filterItemsByNipata(inNik, b));
+    } else {
+      sorted = sortSuttaIds(filterItemsByNikayaBook(rawItems, nikaya, b));
+    }
     const first = sorted[0]?.suttaid;
     if (first) navigate({ to: "/sutta/$suttaId", params: { suttaId: first } });
   };
 
-  const bookDisabled = load === "loading" || nikaya !== "AN";
+  const bookDisabled = load !== "ok" || nikayaItems.length === 0;
   const bookNum = parseInt(book, 10);
   const bookTitle =
-    Number.isFinite(bookNum) && bookNum >= 1 && bookNum <= 11
-      ? `${AN_BOOK_TITLES[bookNum]} · an${book}`
-      : undefined;
+    nikaya === "AN"
+      ? Number.isFinite(bookNum) && bookNum >= 1 && bookNum <= 11
+        ? `${AN_BOOK_TITLES[bookNum]} · an${book}`
+        : undefined
+      : Number.isFinite(bookNum)
+        ? `Book ${book}`
+        : undefined;
 
   return (
     <div
@@ -135,7 +183,7 @@ export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string })
         value={nikaya}
         onChange={(e) => onNikayaChange(e.target.value as NikayaId)}
         disabled={load === "loading"}
-        className="max-w-[6.75rem] rounded-lg bg-background/50 border border-border/60 px-1.5 py-1 text-[9px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
+        className="max-w-[7.5rem] rounded-lg bg-background/50 border border-border/60 px-1.5 py-1 text-[9px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
         aria-label="Nikāya"
         title={NIKAYA_OPTIONS.find((o) => o.value === nikaya)?.title}
       >
@@ -166,13 +214,20 @@ export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string })
         </select>
       ) : (
         <select
-          value="_pending"
-          disabled
-          className="max-w-[9.5rem] rounded-lg bg-background/40 border border-border/40 px-1.5 py-1 text-[9px] label-mono normal-case text-muted-foreground/80 opacity-80 cursor-not-allowed"
+          value={otherBookSelectValue}
+          onChange={(e) => onBookChange(e.target.value)}
+          disabled={bookDisabled || uniqueOtherBooks.length === 0}
+          className="max-w-[9.5rem] rounded-lg bg-background/50 border border-border/60 px-1.5 py-1 text-[9px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
           aria-label="Book"
-          title="Subdivisions for this nikāya will appear when those texts are indexed in dama5."
+          title={bookTitle}
         >
-          <option value="_pending">— (corpus pending)</option>
+          {uniqueOtherBooks.length === 0 ? (
+            <option value="">—</option>
+          ) : (
+            uniqueOtherBooks.map((n) => (
+              <option key={n} value={String(n)}>{`Book ${n}`}</option>
+            ))
+          )}
         </select>
       )}
 

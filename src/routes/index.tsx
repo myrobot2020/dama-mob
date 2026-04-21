@@ -11,7 +11,7 @@ export const Route = createFileRoute("/")({
 
 function HomeScreen() {
   return (
-    <div className="min-h-screen pb-28 flex flex-col">
+    <div className="min-h-screen pb-40 flex flex-col">
       <ScreenHeader title="Home" showBack={false} />
       <div className="flex-1 min-h-[50vh]" />
       <BottomNav />

@@ -63,7 +63,7 @@ function AnswerScreen() {
   };
 
   return (
-    <div className="min-h-screen pb-28">
+    <div className="min-h-screen pb-40">
       <ScreenHeader title="AI Answer" showBookmark />
       <div className="px-5">
         <div className="label-mono text-primary">Grounded Response</div>

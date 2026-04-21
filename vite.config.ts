@@ -7,18 +7,21 @@ import viteReact from "@vitejs/plugin-react";
 import { defineConfig, loadEnv, mergeConfig } from "vite";
 import tsConfigPaths from "vite-tsconfig-paths";
 import { nitro } from "nitro/vite";
-import { damaCorpusFsPlugin } from "./vite-plugin-dama-corpus-fs";
+import { damaCorpusFsPlugin } from "./config/vite/vite-plugin-dama-corpus-fs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const projectRoot = path.resolve(__dirname);
 /** When set (e.g. Cloud Build), skip Cloudflare adapter and emit a Node server via Nitro for Cloud Run. */
 const ciGcp = process.env.CI_GCP === "1";
-const validJsonDir = path.join(projectRoot, "valid json");
-/** Corpus JSON root: env override, else `valid json/` when present (an*, sn, dn, mn, kn), else repo root. */
+const validatedJsonDir = path.join(projectRoot, "data", "validated-json");
+const legacyValidJsonDir = path.join(projectRoot, "valid json");
+/** Corpus JSON root: env override, else `data/validated-json/` (or legacy `valid json/`) when present, else repo root. */
 const corpusRoot = process.env.VITE_DAMA5_ROOT
   ? path.resolve(process.env.VITE_DAMA5_ROOT)
-  : fs.existsSync(validJsonDir) && fs.statSync(validJsonDir).isDirectory()
-    ? validJsonDir
+  : fs.existsSync(validatedJsonDir) && fs.statSync(validatedJsonDir).isDirectory()
+    ? validatedJsonDir
+    : fs.existsSync(legacyValidJsonDir) && fs.statSync(legacyValidJsonDir).isDirectory()
+      ? legacyValidJsonDir
     : projectRoot;
 /**
  * Teacher MP3 directory for `/dama-aud/*`. Override with `VITE_DAMA_AUD_ROOT`.

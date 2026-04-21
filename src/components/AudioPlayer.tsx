@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { Pause, Play, Square, Volume2 } from "lucide-react";
+import { recordAudioListenProgress } from "@/lib/audioListenProgress";
 
 function fmt(s: number) {
   const m = Math.floor(s / 60);
@@ -12,12 +13,15 @@ export function AudioPlayer({
   label,
   start,
   end,
+  suttaId,
 }: {
   /** Full URL to MP3 (e.g. /aud/file.mp3 via Vite proxy). */
   src: string;
   label: string;
   start: number;
   end: number;
+  /** When set, max listen position within the clip is saved for the Tree page (≥75%). */
+  suttaId?: string;
 }) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [playing, setPlaying] = useState(false);
@@ -33,13 +37,18 @@ export function AudioPlayer({
     const el = audioRef.current;
     if (!el) return;
     setAudioTime(el.currentTime);
+    const sid = suttaId?.trim();
+    if (sid && clipLen > 0) {
+      const segNow = Math.min(clipLen, Math.max(0, Math.min(el.currentTime, end) - start));
+      recordAudioListenProgress(sid, segNow / clipLen);
+    }
     if (el.currentTime >= end - 0.05) {
       el.pause();
       el.currentTime = start;
       setAudioTime(start);
       setPlaying(false);
     }
-  }, [end, start]);
+  }, [clipLen, end, start, suttaId]);
 
   useEffect(() => {
     const el = audioRef.current;
@@ -168,5 +177,35 @@ export function AudioPlayer({
         />
       </div>
     </div>
+  );
+}
+
+/** Native `<audio controls>` with the same listen-progress tracking as {@link AudioPlayer}. */
+export function TrackedNativeAudio({
+  src,
+  suttaId,
+  className,
+}: {
+  src: string;
+  suttaId: string;
+  className?: string;
+}) {
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  useEffect(() => {
+    const el = audioRef.current;
+    const sid = suttaId.trim();
+    if (!el || !sid) return;
+    const onTime = () => {
+      const d = el.duration;
+      if (!Number.isFinite(d) || d <= 0) return;
+      recordAudioListenProgress(sid, el.currentTime / d);
+    };
+    el.addEventListener("timeupdate", onTime);
+    return () => el.removeEventListener("timeupdate", onTime);
+  }, [suttaId, src]);
+
+  return (
+    <audio ref={audioRef} controls className={className ?? "w-full"} src={src} preload="metadata" />
   );
 }

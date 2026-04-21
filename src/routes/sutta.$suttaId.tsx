@@ -4,7 +4,7 @@ import { ScreenHeader } from "@/components/ScreenHeader";
 import { CorpusHeaderNav } from "@/components/CorpusHeaderNav";
 import { BottomNav } from "@/components/BottomNav";
 import { CanonQuote } from "@/components/CanonQuote";
-import { AudioPlayer } from "@/components/AudioPlayer";
+import { AudioPlayer, TrackedNativeAudio } from "@/components/AudioPlayer";
 import mettaInfographic from "@/assets/an1116-metta-infographic.png";
 import {
   canonIndexSubtitle,
@@ -91,7 +91,7 @@ function SuttaByIdScreen() {
   };
 
   return (
-    <div className="min-h-screen pb-28">
+    <div className="min-h-screen pb-40">
       <ScreenHeader showBookmark center={<CorpusHeaderNav currentSuttaId={id} />} />
       <div className="px-5">
         <header className="mt-2">
@@ -181,14 +181,20 @@ function SuttaByIdScreen() {
               if (end > start) {
                 return (
                   <div className="mt-6">
-                    <AudioPlayer src={src} label="Teacher audio" start={start} end={end} />
+                    <AudioPlayer
+                      src={src}
+                      label="Teacher audio"
+                      start={start}
+                      end={end}
+                      suttaId={id}
+                    />
                   </div>
                 );
               }
               return (
                 <div className="mt-6 glass rounded-2xl p-4">
                   <div className="label-mono text-muted-foreground text-xs mb-2">Teacher audio</div>
-                  <audio controls className="w-full" src={src} preload="metadata" />
+                  <TrackedNativeAudio src={src} suttaId={id} />
                 </div>
               );
             })()}

@@ -30,7 +30,7 @@ function ReflectScreen() {
   };
 
   return (
-    <div className="min-h-screen pb-28">
+    <div className="min-h-screen pb-40">
       <ScreenHeader title="Reflection" showBack={false} />
       <div className="px-5">
         <div className="rounded-3xl overflow-hidden aspect-[16/10] relative glass">

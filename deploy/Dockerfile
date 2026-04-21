@@ -1,5 +1,15 @@
-FROM nginx:1.27-alpine
-COPY nginx.conf /etc/nginx/conf.d/default.conf
-COPY html/ /usr/share/nginx/html/
+# Production image for Google Cloud Run (Nitro node-server output from CI_GCP=1 build).
+# Build context must include `.output/` (run `CI_GCP=1 npm run build` first).
+FROM node:22-alpine
+WORKDIR /srv
+ENV NODE_ENV=production
+ENV PORT=8080
+ENV HOST=0.0.0.0
+COPY .output/ ./
+# Sutta JSON for `GET /__dama_corpus__/…` (matches local `data/validated-json/` layout → /srv/corpus/anN/suttas/…).
+COPY ["data/validated-json", "corpus"]
+RUN mkdir -p aud
+ENV CORPUS_ROOT=/srv/corpus
+ENV AUD_ROOT=/srv/aud
 EXPOSE 8080
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["node", "server/index.mjs"]

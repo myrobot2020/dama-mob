@@ -3,7 +3,16 @@ import { useEffect, useMemo, useState } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
 import { CorpusHeaderNav } from "@/components/CorpusHeaderNav";
 import { BottomNav } from "@/components/BottomNav";
-import { AN_NIPATA_OPTIONS, filterItemsByNipata, getItems, ItemSummary } from "@/lib/damaApi";
+import {
+  AN_NIPATA_OPTIONS,
+  filterItemsByNikaya,
+  filterItemsByNikayaBook,
+  getItems,
+  ItemSummary,
+  NIKAYA_OPTIONS,
+  otherNikayaBookFromSuttaId,
+  type NikayaId,
+} from "@/lib/damaApi";
 
 function useDebouncedValue<T>(value: T, delayMs: number): T {
   const [v, setV] = useState(value);
@@ -24,14 +33,41 @@ export const Route = createFileRoute("/browse")({
 function BrowseScreen() {
   const [q, setQ] = useState("");
   const dq = useDebouncedValue(q, 250);
-  const [nipata, setNipata] = useState<string>("all");
+  const [nikayaFilter, setNikayaFilter] = useState<NikayaId | "all">("all");
+  const [bookFilter, setBookFilter] = useState<string>("all");
   const [items, setItems] = useState<ItemSummary[]>([]);
   const [status, setStatus] = useState<"loading" | "error" | "ok">("loading");
   const [errorMsg, setErrorMsg] = useState("");
 
   const query = useMemo(() => dq.trim(), [dq]);
 
-  const filteredItems = useMemo(() => filterItemsByNipata(items, nipata), [items, nipata]);
+  useEffect(() => {
+    setBookFilter("all");
+  }, [nikayaFilter]);
+
+  const filteredItems = useMemo(() => {
+    if (nikayaFilter === "all") return items;
+    return filterItemsByNikayaBook(items, nikayaFilter, bookFilter);
+  }, [items, nikayaFilter, bookFilter]);
+
+  const bookOptions = useMemo(() => {
+    if (nikayaFilter === "all") {
+      return [{ value: "all", label: "All collections" }];
+    }
+    if (nikayaFilter === "AN") return AN_NIPATA_OPTIONS;
+    const sub = filterItemsByNikaya(items, nikayaFilter);
+    const nums = Array.from(
+      new Set(
+        sub
+          .map((it) => otherNikayaBookFromSuttaId(it.suttaid))
+          .filter((x): x is number => x != null),
+      ),
+    ).sort((a, b) => a - b);
+    return [
+      { value: "all", label: "All books" },
+      ...nums.map((n) => ({ value: String(n), label: `Book ${n}` })),
+    ];
+  }, [nikayaFilter, items]);
 
   useEffect(() => {
     const ac = new AbortController();
@@ -52,7 +88,7 @@ function BrowseScreen() {
   }, [query]);
 
   return (
-    <div className="min-h-screen pb-28">
+    <div className="min-h-screen pb-40">
       <ScreenHeader showBack={false} center={<CorpusHeaderNav />} />
       <div className="px-5">
         <div className="mt-2">
@@ -66,13 +102,30 @@ function BrowseScreen() {
         </div>
 
         <label className="mt-3 block">
-          <div className="label-mono text-muted-foreground">Collection (an1–an11)</div>
+          <div className="label-mono text-muted-foreground">Nikāya</div>
           <select
-            value={nipata}
-            onChange={(e) => setNipata(e.target.value)}
+            value={nikayaFilter}
+            onChange={(e) => setNikayaFilter(e.target.value as NikayaId | "all")}
             className="mt-2 w-full glass rounded-2xl px-4 py-3 text-[15px] bg-transparent focus:outline-none focus:ring-1 focus:ring-primary"
           >
-            {AN_NIPATA_OPTIONS.map((o) => (
+            <option value="all">All nikāyas</option>
+            {NIKAYA_OPTIONS.map((o) => (
+              <option key={o.value} value={o.value}>
+                {o.title}
+              </option>
+            ))}
+          </select>
+        </label>
+
+        <label className="mt-3 block">
+          <div className="label-mono text-muted-foreground">Book / division</div>
+          <select
+            value={bookFilter}
+            onChange={(e) => setBookFilter(e.target.value)}
+            disabled={nikayaFilter === "all"}
+            className="mt-2 w-full glass rounded-2xl px-4 py-3 text-[15px] bg-transparent focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-50"
+          >
+            {bookOptions.map((o) => (
               <option key={o.value} value={o.value}>
                 {o.label}
               </option>
@@ -97,7 +150,7 @@ function BrowseScreen() {
           <div className="label-mono text-muted-foreground mb-2">
             {status === "loading"
               ? "Loading…"
-              : `${filteredItems.length} shown${nipata !== "all" ? ` (${items.length} from search)` : ""}`}
+              : `${filteredItems.length} shown${nikayaFilter !== "all" || bookFilter !== "all" ? ` (${items.length} from search)` : ""}`}
           </div>
           <div className="space-y-2">
             {filteredItems.slice(0, 200).map((it) => (

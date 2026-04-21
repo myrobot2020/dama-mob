@@ -4,4 +4,4 @@ repositoryEventConfig:
   repository: projects/damalight/locations/us-central1/connections/dama-github/repositories/dama-mob
   push:
     branch: ^main$
-filename: cloudbuild.yaml
+filename: deploy/cloudbuild.yaml

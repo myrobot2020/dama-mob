@@ -13,6 +13,7 @@ import { Route as TreeRouteImport } from './routes/tree'
 import { Route as SuttaRouteImport } from './routes/sutta'
 import { Route as ReflectRouteImport } from './routes/reflect'
 import { Route as ProfileRouteImport } from './routes/profile'
+import { Route as LoginRouteImport } from './routes/login'
 import { Route as ComicRouteImport } from './routes/comic'
 import { Route as BrowseRouteImport } from './routes/browse'
 import { Route as IndexRouteImport } from './routes/index'
@@ -38,6 +39,11 @@ const ReflectRoute = ReflectRouteImport.update({
 const ProfileRoute = ProfileRouteImport.update({
   id: '/profile',
   path: '/profile',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LoginRoute = LoginRouteImport.update({
+  id: '/login',
+  path: '/login',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ComicRoute = ComicRouteImport.update({
@@ -75,6 +81,7 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/browse': typeof BrowseRoute
   '/comic': typeof ComicRoute
+  '/login': typeof LoginRoute
   '/profile': typeof ProfileRoute
   '/reflect': typeof ReflectRouteWithChildren
   '/sutta': typeof SuttaRouteWithChildren
@@ -87,6 +94,7 @@ export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/browse': typeof BrowseRoute
   '/comic': typeof ComicRoute
+  '/login': typeof LoginRoute
   '/profile': typeof ProfileRoute
   '/reflect': typeof ReflectRouteWithChildren
   '/sutta': typeof SuttaRouteWithChildren
@@ -100,6 +108,7 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/browse': typeof BrowseRoute
   '/comic': typeof ComicRoute
+  '/login': typeof LoginRoute
   '/profile': typeof ProfileRoute
   '/reflect': typeof ReflectRouteWithChildren
   '/sutta': typeof SuttaRouteWithChildren
@@ -114,6 +123,7 @@ export interface FileRouteTypes {
     | '/'
     | '/browse'
     | '/comic'
+    | '/login'
     | '/profile'
     | '/reflect'
     | '/sutta'
@@ -126,6 +136,7 @@ export interface FileRouteTypes {
     | '/'
     | '/browse'
     | '/comic'
+    | '/login'
     | '/profile'
     | '/reflect'
     | '/sutta'
@@ -138,6 +149,7 @@ export interface FileRouteTypes {
     | '/'
     | '/browse'
     | '/comic'
+    | '/login'
     | '/profile'
     | '/reflect'
     | '/sutta'
@@ -151,6 +163,7 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   BrowseRoute: typeof BrowseRoute
   ComicRoute: typeof ComicRoute
+  LoginRoute: typeof LoginRoute
   ProfileRoute: typeof ProfileRoute
   ReflectRoute: typeof ReflectRouteWithChildren
   SuttaRoute: typeof SuttaRouteWithChildren
@@ -185,6 +198,13 @@ declare module '@tanstack/react-router' {
       path: '/profile'
       fullPath: '/profile'
       preLoaderRoute: typeof ProfileRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/login': {
+      id: '/login'
+      path: '/login'
+      fullPath: '/login'
+      preLoaderRoute: typeof LoginRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/comic': {
@@ -259,6 +279,7 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   BrowseRoute: BrowseRoute,
   ComicRoute: ComicRoute,
+  LoginRoute: LoginRoute,
   ProfileRoute: ProfileRoute,
   ReflectRoute: ReflectRouteWithChildren,
   SuttaRoute: SuttaRouteWithChildren,

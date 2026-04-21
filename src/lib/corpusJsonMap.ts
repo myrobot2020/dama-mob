@@ -12,6 +12,7 @@ function inferNikayaFromSuttaId(suttaid: string): NikayaId {
   if (/^\s*SN[\s.]/i.test(raw) || /^\s*SN$/i.test(raw)) return "SN";
   if (/^\s*DN[\s.]/i.test(raw) || /^DN\d/i.test(up)) return "DN";
   if (/^\s*MN[\s.]/i.test(raw) || /^MN\d/i.test(up)) return "MN";
+  if (/^\s*KN\b/i.test(raw)) return "KN";
   return "AN";
 }
 
@@ -37,8 +38,11 @@ function coerceValid(raw: unknown): boolean {
 function normalizeSuttaIdDisplay(raw: string): string {
   const s = String(raw || "").trim();
   if (!s) return "";
-  if (/^AN\s+/i.test(s)) {
-    return "AN " + s.replace(/^AN\s+/i, "").trim();
+  const prefixed = /^(AN|SN|DN|MN|KN)\s+/i.exec(s);
+  if (prefixed) {
+    const p = prefixed[1].toUpperCase();
+    const rest = s.slice(prefixed[0].length).trim();
+    return `${p} ${rest}`;
   }
   if (/^\d/.test(s)) return `AN ${s}`;
   return s;
@@ -51,7 +55,12 @@ export function rawJsonToItemDetail(obj: Record<string, unknown>): ItemDetail {
   const comm = String(obj.commentary ?? obj.commentry ?? "").trim();
   let commentary_id = String(obj.commentary_id ?? "").trim();
   if (!commentary_id && suttaid) {
-    commentary_id = `cAN ${stripAnPrefix(suttaid)}`;
+    const sid = suttaid.trim();
+    if (/^SN\s+/i.test(sid) || /^DN\s+/i.test(sid) || /^MN\s+/i.test(sid) || /^KN\s+/i.test(sid)) {
+      commentary_id = `c${sid}`;
+    } else {
+      commentary_id = `cAN ${stripAnPrefix(suttaid)}`;
+    }
   }
   const valid = Object.prototype.hasOwnProperty.call(obj, "valid") ? coerceValid(obj.valid) : false;
 
@@ -68,6 +77,8 @@ export function rawJsonToItemDetail(obj: Record<string, unknown>): ItemDetail {
     aud_file: String(obj.aud_file ?? "").trim() || undefined,
     aud_start_s: typeof obj.aud_start_s === "number" ? obj.aud_start_s : Number(obj.aud_start_s) || 0,
     aud_end_s: typeof obj.aud_end_s === "number" ? obj.aud_end_s : Number(obj.aud_end_s) || 0,
+    youtube_url: String(obj.youtube_url ?? "").trim() || undefined,
+    youtube_video_id: String(obj.youtube_video_id ?? "").trim() || undefined,
     chain: (obj.chain && typeof obj.chain === "object" ? obj.chain : null) as ItemDetail["chain"],
     valid,
   };
