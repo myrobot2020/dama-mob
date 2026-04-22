@@ -87,7 +87,8 @@ function SuttaByIdScreen() {
     const f = (it.aud_file || "").trim();
     if (!f) return null;
     /** Same path as other suttas: `/dama-aud/*` → `aud/` (dev/preview/Nitro). Avoid `/aud/*` from `public/` — not served on Cloud Run. */
-    return getCorpusAudSrc(f);
+    const src = getCorpusAudSrc(f);
+    return src.trim() ? src : null;
   };
 
   return (
@@ -174,10 +175,21 @@ function SuttaByIdScreen() {
             )}
 
             {(() => {
+              const rawFile = (item.aud_file || "").trim();
               const src = audioSrcForItem(item);
               const start = item.aud_start_s ?? 0;
               const end = item.aud_end_s ?? 0;
-              if (!src) return null;
+              if (!src) {
+                if (!rawFile) return null;
+                return (
+                  <div className="mt-6 glass rounded-2xl p-4">
+                    <div className="label-mono text-muted-foreground text-xs mb-2">Teacher audio</div>
+                    <div className="text-sm text-muted-foreground">
+                      Audio not available for this sutta yet.
+                    </div>
+                  </div>
+                );
+              }
               if (end > start) {
                 return (
                   <div className="mt-6">

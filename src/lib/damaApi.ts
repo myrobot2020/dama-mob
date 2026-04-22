@@ -1,7 +1,6 @@
 /**
- * Corpus: by default the app loads sutta JSON from the sibling `dama5` repo via Vite (`/__dama_corpus__/…`).
- * Set `VITE_DAMA_API_URL` to use FastAPI `/api` instead (e.g. static deploy or remote dama5).
- * Set `VITE_DAMA_CORPUS_MODE=api` to force `/api` while developing.
+ * Corpus: by default the app loads sutta JSON from GCS.
+ * Set `VITE_DAMA_API_URL` to use FastAPI `/api` instead.
  */
 
 import {
@@ -30,7 +29,7 @@ export type DamaQueryResponse = {
   timings_ms?: Record<string, unknown> | null;
 };
 
-/** Main Nikāya collections in the canon (UI); dama5 may only ship AN until more JSON exists. */
+/** Main Nikāya collections in the canon (UI). */
 export type NikayaId = "AN" | "SN" | "DN" | "MN" | "KN";
 
 export type ItemSummary = {
@@ -68,7 +67,7 @@ export const AN_BOOK_TITLES: Record<number, string> = {
 export type ItemDetail = {
   suttaid: string;
   title?: string;
-  /** dama5 corpus flag; false means not published (API should 404, this is a client safety net). */
+  /** Corpus flag; false means not published (API should 404, this is a client safety net). */
   valid?: boolean;
   /** English short name from corpus JSON (e.g. "Shopkeeper"); preferred for headings. */
   sutta_name_en?: string;
@@ -212,13 +211,18 @@ export function getDamaAudUrl(filename: string): string {
 }
 
 /**
- * Teacher MP3: GCS/public base → dama5 `/aud/` → `/dama-aud/` (see vite.config + Nitro middleware).
+ * Teacher MP3: GCS/public base → `/dama-aud/` (see vite.config + Nitro middleware).
  */
 export function getCorpusAudSrc(filename: string): string {
   const name = (filename || "").trim();
   if (!name) return "";
   const publicBase = getDamaAudPublicBase();
-  if (publicBase) return `${publicBase}/${encodeURIComponent(name)}`;
+  // Production GCS audio bucket is expected to contain MP3s only; `.webm` usually means
+  // the pipeline did not resolve a publishable audio artifact.
+  if (publicBase) {
+    if (/\.webm$/i.test(name)) return "";
+    return `${publicBase}/${encodeURIComponent(name)}`;
+  }
   const base = getDamaApiBase();
   if (base) return `${base}/aud/${encodeURIComponent(name)}`;
   return `/dama-aud/${encodeURIComponent(name)}`;
