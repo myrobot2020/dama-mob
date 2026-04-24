@@ -14,6 +14,7 @@ Usage:
   python scripts2/01_download.py --manifest-only
   python scripts2/01_download.py
   python scripts2/01_download.py --mp3   # needs ffmpeg
+  python scripts2/01_download.py --items 1-58
 """
 
 from __future__ import annotations
@@ -88,6 +89,11 @@ def main() -> int:
         action="store_true",
         help="Extract MP3 with ffmpeg (-x --audio-format mp3). Requires ffmpeg.",
     )
+    ap.add_argument(
+        "--items",
+        default="",
+        help="Optional yt-dlp --playlist-items selector (e.g. 1-58 or 1,2,5).",
+    )
     args = ap.parse_args()
 
     sn_root = EXAMPLES_ROOT / "sn"
@@ -112,7 +118,8 @@ def main() -> int:
         "yt-dlp",
         "--continue",
         "-f",
-        "ba/b",
+        # Prefer m4a/MP4 container when available (plays reliably in browsers) without requiring ffmpeg.
+        "bestaudio[ext=m4a]/bestaudio[ext=mp4]/bestaudio/best",
         "-o",
         str(audio_dir / "sn_%(playlist_index)03d_%(id)s.%(ext)s"),
         playlist_url_s,
@@ -128,6 +135,10 @@ def main() -> int:
             str(audio_dir / "sn_%(playlist_index)03d_%(id)s.%(ext)s"),
             playlist_url_s,
         ]
+    if args.items.strip():
+        # Insert after `--continue` so it applies to both mp3/non-mp3 variants.
+        cmd.insert(2, "--playlist-items")
+        cmd.insert(3, args.items.strip())
     sub = subprocess.run(cmd, cwd=str(REPO))
     return sub.returncode
 

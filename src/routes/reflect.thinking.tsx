@@ -5,6 +5,24 @@ import { BottomNav } from "@/components/BottomNav";
 import heroImg from "@/assets/reflection-hero.jpg";
 import { postDamaQuery, REFLECTION_QUERY_STORAGE_KEY } from "@/lib/damaApi";
 
+async function postLocalLlmReflection(
+  reflection: string,
+  bot: string,
+): Promise<{ answer: string; model?: string; provider?: string }> {
+  const resp = await fetch("/__llm/reflection", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ reflection, bot }),
+  });
+
+  if (!resp.ok) {
+    const text = await resp.text().catch(() => "");
+    throw new Error(text || `BuddhaBot request failed (${resp.status})`);
+  }
+
+  return (await resp.json()) as { answer: string; model?: string; provider?: string };
+}
+
 export const Route = createFileRoute("/reflect/thinking")({
   component: ThinkingScreen,
 });
@@ -15,6 +33,21 @@ function ThinkingScreen() {
   const [status, setStatus] = useState<"loading" | "error">("loading");
   const [errorMsg, setErrorMsg] = useState("");
 
+  const normalizeMode = (raw: string): "dama" | "simulation" | "buddha" | "psychologist" | "social" | "feminine" => {
+    const v = (raw || "").trim().toLowerCase();
+    if (v === "buddhabot") return "buddha";
+    if (
+      v === "simulation" ||
+      v === "buddha" ||
+      v === "psychologist" ||
+      v === "social" ||
+      v === "feminine"
+    ) {
+      return v;
+    }
+    return "dama";
+  };
+
   useEffect(() => {
     const q = localStorage.getItem("dama:reflection") || "";
     setQuestion(q);
@@ -23,25 +56,58 @@ function ThinkingScreen() {
       return;
     }
 
+    const mode = normalizeMode(localStorage.getItem("dama:reflectionMode") || "dama");
     const ac = new AbortController();
+    let timedOut = false;
+    const timeout = window.setTimeout(() => {
+      timedOut = true;
+      setErrorMsg("AI request timed out. You can continue with offline text.");
+      setStatus("error");
+      localStorage.setItem(
+        REFLECTION_QUERY_STORAGE_KEY,
+        JSON.stringify({ ok: false, error: "AI request timed out." }),
+      );
+    }, 60_000);
     (async () => {
       try {
+        if (mode !== "dama") {
+          const data = await postLocalLlmReflection(q, mode);
+          if (timedOut) return;
+          localStorage.setItem(
+            REFLECTION_QUERY_STORAGE_KEY,
+            JSON.stringify({
+              ok: true,
+              answer: data.answer,
+              used_llm: true,
+              chunks: [],
+              mode,
+            }),
+          );
+          window.clearTimeout(timeout);
+          navigate({ to: "/reflect/answer", replace: true });
+          return;
+        }
+
         const data = await postDamaQuery(q, ac.signal);
-        localStorage.setItem(
-          REFLECTION_QUERY_STORAGE_KEY,
-          JSON.stringify({
-            ok: true,
-            answer: data.answer,
-            used_llm: data.used_llm,
+        if (timedOut) return;
+          localStorage.setItem(
+            REFLECTION_QUERY_STORAGE_KEY,
+            JSON.stringify({
+              ok: true,
+              answer: data.answer,
+              used_llm: data.used_llm,
             chunks: (data.chunks || []).slice(0, 5).map((c) => ({
               suttaid: c.suttaid,
               text: (c.text || "").slice(0, 400),
             })),
-          }),
-        );
+              mode: "dama5",
+            }),
+          );
+        window.clearTimeout(timeout);
         navigate({ to: "/reflect/answer", replace: true });
       } catch (e) {
         if (ac.signal.aborted) return;
+        if (timedOut) return;
         const msg = e instanceof Error ? e.message : String(e);
         setErrorMsg(msg);
         setStatus("error");
@@ -52,11 +118,14 @@ function ThinkingScreen() {
       }
     })();
 
-    return () => ac.abort();
+    return () => {
+      window.clearTimeout(timeout);
+      ac.abort();
+    };
   }, [navigate]);
 
   return (
-    <div className="min-h-screen pb-40">
+    <div className="min-h-screen dama-screen">
       <ScreenHeader title="Reflection" />
       <div className="px-5">
         <div className="rounded-3xl overflow-hidden aspect-[16/10] relative glass">

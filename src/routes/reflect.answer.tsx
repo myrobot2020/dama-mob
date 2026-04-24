@@ -8,7 +8,13 @@ import { REFLECTION_QUERY_STORAGE_KEY } from "@/lib/damaApi";
 import { Bookmark, Check } from "lucide-react";
 
 type StoredQuery =
-  | { ok: true; answer: string; used_llm: boolean; chunks: { suttaid?: string; text: string }[] }
+  | {
+      ok: true;
+      answer: string;
+      used_llm: boolean;
+      chunks: { suttaid?: string; text: string }[];
+      mode?: "dama5" | "buddhabot" | "simulation" | "buddha" | "psychologist" | "social" | "feminine";
+    }
   | { ok: false; error: string };
 
 function readStoredQuery(): StoredQuery | null {
@@ -36,6 +42,19 @@ function AnswerScreen() {
   const [saved, setSaved] = useState(false);
   const [explanation, setExplanation] = useState("");
   const [fromApi, setFromApi] = useState(false);
+  const [mode, setMode] = useState<
+    "dama5" | "buddhabot" | "simulation" | "buddha" | "psychologist" | "social" | "feminine" | "offline"
+  >("offline");
+
+  const modeLabel = (m: typeof mode) => {
+    if (m === "dama5") return "dama5";
+    if (m === "buddhabot" || m === "buddha") return "Buddha Bot";
+    if (m === "psychologist") return "Psychologist Bot";
+    if (m === "social") return "Social Cohesion Bot";
+    if (m === "simulation") return "Simulation Theory Bot";
+    if (m === "feminine") return "Feminine Bot";
+    return "offline";
+  };
 
   useEffect(() => {
     setQuestion(localStorage.getItem("dama:reflection") || "");
@@ -43,9 +62,11 @@ function AnswerScreen() {
     if (q && q.ok && q.answer.trim()) {
       setExplanation(q.answer.trim());
       setFromApi(true);
+      setMode((q.mode as any) || "dama5");
     } else {
       setExplanation(OFFLINE_EXPLANATION.replace(/\s+/g, " ").trim());
       setFromApi(false);
+      setMode("offline");
     }
   }, []);
 
@@ -63,7 +84,7 @@ function AnswerScreen() {
   };
 
   return (
-    <div className="min-h-screen pb-40">
+    <div className="min-h-screen dama-screen">
       <ScreenHeader title="AI Answer" showBookmark />
       <div className="px-5">
         <div className="label-mono text-primary">Grounded Response</div>
@@ -78,7 +99,7 @@ function AnswerScreen() {
 
         <section className="mt-6">
           <div className="label-mono text-muted-foreground mb-2">
-            Explanation{fromApi ? " (dama5)" : " (offline)"}
+            Explanation ({modeLabel(mode)})
           </div>
           <p className="text-[15px] leading-relaxed text-foreground/85 whitespace-pre-wrap">
             {explanation}

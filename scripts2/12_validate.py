@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Set `valid` on each nikaya/*/*.json."""
+"""Set `valid` on each nikaya/*/*.json.
+
+`valid: true` is used as a "ready for prime time" signal for the app/index.
+In practice this requires a publishable audio artifact name (mp3/m4a) and
+consistent audio bounds.
+"""
 
 from __future__ import annotations
 
@@ -26,15 +31,16 @@ def _extract_chain_mod():
 
 def main() -> int:
     mod = _extract_chain_mod()
-    an_record_valid = mod.an_record_valid
+    is_record_valid = mod.is_record_valid
     atomic_write_json = mod.atomic_write_json
     root = Path(__file__).resolve().parents[1]
     val_root = root / "data" / "validated-json"
+    audio_ext_ok = re.compile(r"\.(mp3|m4a|wav)$", re.IGNORECASE)
 
-    # Find all JSON files in any nikaya/book subfolder
+    # Find all JSON files in any nikaya subfolder recursively
     paths = sorted(
         p
-        for p in val_root.glob("*/*/*.json")
+        for p in val_root.rglob("*.json")
         if p.is_file() and p.name != "_index.json" and not p.name.startswith("_")
     )
 
@@ -42,8 +48,9 @@ def main() -> int:
     stats = defaultdict(lambda: {"true": 0, "false": 0}) # nikaya -> stats
 
     for path in paths:
-        # path is data/validated-json/{nikaya}/{book}/{sutta}.json
-        nikaya = path.parent.parent.name
+        # path is data/validated-json/{nikaya}/...
+        rel = path.relative_to(val_root)
+        nikaya = rel.parts[0]
         try:
             obj = json.loads(path.read_text(encoding="utf-8"))
         except Exception as exc:
@@ -52,7 +59,20 @@ def main() -> int:
         if not isinstance(obj, dict):
             continue
 
-        v = an_record_valid(obj)
+        v = is_record_valid(obj)
+        if v:
+            aud_file = str(obj.get("aud_file") or "").strip()
+            if not audio_ext_ok.search(aud_file):
+                v = False
+            else:
+                try:
+                    start = float(obj.get("aud_start_s"))
+                    end = float(obj.get("aud_end_s"))
+                except Exception:
+                    v = False
+                else:
+                    if not (end > start):
+                        v = False
         stats[nikaya]["true" if v else "false"] += 1
 
         if obj.get("valid") is v:

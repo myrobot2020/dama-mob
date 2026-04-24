@@ -5,12 +5,15 @@ import { ChevronLeft, Bookmark } from "lucide-react";
 export function ScreenHeader({
   title,
   center,
+  right,
   showBack = true,
   showBookmark = false,
 }: {
   title?: string;
   /** Replaces centered title when set (e.g. corpus nav). */
   center?: ReactNode;
+  /** Optional override for the right-side header control. */
+  right?: ReactNode;
   showBack?: boolean;
   showBookmark?: boolean;
 }) {
@@ -36,11 +39,10 @@ export function ScreenHeader({
           <h2 className="label-mono text-muted-foreground text-center truncate max-w-full">{title}</h2>
         ) : null}
       </div>
-      {showBookmark ? (
-        <Link
-          to="/reflect"
-          className="size-9 rounded-full glass flex items-center justify-center shrink-0"
-        >
+      {right != null ? (
+        <div className="size-9 shrink-0 flex items-center justify-center">{right}</div>
+      ) : showBookmark ? (
+        <Link to="/reflect" className="size-9 rounded-full glass flex items-center justify-center shrink-0">
           <Bookmark size={16} />
         </Link>
       ) : (

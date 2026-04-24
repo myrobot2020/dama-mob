@@ -1,6 +1,9 @@
-import { Outlet, Link, createRootRoute, HeadContent, Scripts } from "@tanstack/react-router";
+import { Outlet, Link, createRootRoute, HeadContent, Scripts, useRouterState } from "@tanstack/react-router";
 
 import appCss from "../styles.css?url";
+import { ClientBootstrap } from "@/components/ClientBootstrap";
+import { ClientSync } from "@/components/ClientSync";
+import { ClientTelemetry } from "@/components/ClientTelemetry";
 
 function NotFoundComponent() {
   return (
@@ -69,5 +72,30 @@ function RootShell({ children }: { children: React.ReactNode }) {
 }
 
 function RootComponent() {
-  return <Outlet />;
+  const isMobilePreview = useRouterState({
+    select: (s) => {
+      const sp = new URLSearchParams(s.location.search);
+      const v = (sp.get("mobile") ?? "").trim().toLowerCase();
+      return v === "1" || v === "true" || v === "yes";
+    },
+  });
+
+  const app = (
+    <>
+      <ClientBootstrap />
+      <ClientSync />
+      <ClientTelemetry />
+      <Outlet />
+    </>
+  );
+
+  if (!isMobilePreview) return app;
+
+  return (
+    <div className="min-h-screen bg-background">
+      <div className="mx-auto w-full max-w-[430px] min-h-screen border-x border-border/60">
+        {app}
+      </div>
+    </div>
+  );
 }

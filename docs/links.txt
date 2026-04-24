@@ -1,7 +1,12 @@
-playlist transcipts:https://www.youtube.com/playlist?list=PLD8I9vPmsYXxR_Qt36EbquMkYTOZbXWpM
+playlist transcripts: https://www.youtube.com/playlist?list=PLD8I9vPmsYXxR_Qt36EbquMkYTOZbXWpM
 
-github:https://github.com/myrobot2020/Dama
+github: https://github.com/myrobot2020/dama-mob
 
-https://console.cloud.google.com/welcome?project=dama-492316
+gcp console: https://console.cloud.google.com/welcome?project=damalight
 
 translation: https://suttacentral.net/api/docs/
+
+gcs json base: https://storage.googleapis.com/damalight-dama-json
+gcs global index: https://storage.googleapis.com/damalight-dama-json/nikaya/index.json
+gcs sn example: https://storage.googleapis.com/damalight-dama-json/nikaya/sn/sn1/suttas/1.2.json
+gcs audio base: https://storage.googleapis.com/damalight-dama-aud

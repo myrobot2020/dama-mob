@@ -27,7 +27,7 @@ def main():
             print(f"Error reading {blob.name}: {e}")
             continue
 
-        suttaid = obj.get("suttaid", "")
+        suttaid = obj.get("suttaid") or obj.get("sutta_id", "")
         if not suttaid:
             continue
 

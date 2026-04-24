@@ -60,7 +60,7 @@ export function NextSuttaStrip() {
 
   if (load === "loading" || load === "idle") {
     return (
-      <div className="rounded-2xl bg-white/5 ring-1 ring-white/10 px-3 py-2.5 mb-1.5">
+      <div className="rounded-2xl bg-background ring-1 ring-white/10 px-3 py-2.5 mb-1.5">
         <div className="h-4 w-3/5 rounded bg-white/10 animate-pulse" />
       </div>
     );
@@ -68,7 +68,7 @@ export function NextSuttaStrip() {
 
   if (load === "error") {
     return (
-      <div className="rounded-2xl bg-white/5 ring-1 ring-white/10 px-3 py-2 mb-1.5 text-[11px] text-muted-foreground">
+      <div className="rounded-2xl bg-background ring-1 ring-white/10 px-3 py-2 mb-1.5 text-[11px] text-muted-foreground">
         Next sutta unavailable (offline?)
       </div>
     );
@@ -79,7 +79,7 @@ export function NextSuttaStrip() {
       <Link
         to="/sutta/$suttaId"
         params={{ suttaId: nextItem.suttaid }}
-        className="flex items-center gap-2 rounded-2xl bg-white/5 ring-1 ring-primary/20 px-3 py-2.5 mb-1.5 hover:bg-primary/10 transition-colors"
+        className="flex items-center gap-2 rounded-2xl bg-background ring-1 ring-primary/25 px-3 py-2.5 mb-1.5 hover:bg-primary/10 transition-colors"
       >
         <ChevronRight size={20} className="shrink-0 text-primary" aria-hidden />
         <div className="min-w-0 flex-1 text-left">
@@ -93,7 +93,7 @@ export function NextSuttaStrip() {
 
   if (routeSuttaId && !nextItem) {
     return (
-      <div className="rounded-2xl bg-white/5 ring-1 ring-white/10 px-3 py-2 mb-1.5 flex items-center gap-2">
+      <div className="rounded-2xl bg-background ring-1 ring-white/10 px-3 py-2 mb-1.5 flex items-center gap-2">
         <ChevronRight size={20} className="shrink-0 text-muted-foreground opacity-50" aria-hidden />
         <div className="min-w-0 text-left">
           <div className="text-xs text-muted-foreground">Last sutta in this book</div>
@@ -110,7 +110,7 @@ export function NextSuttaStrip() {
       <Link
         to="/sutta/$suttaId"
         params={{ suttaId: firstItem.suttaid }}
-        className="flex items-center gap-2 rounded-2xl bg-white/5 ring-1 ring-primary/20 px-3 py-2.5 mb-1.5 hover:bg-primary/10 transition-colors"
+        className="flex items-center gap-2 rounded-2xl bg-background ring-1 ring-primary/25 px-3 py-2.5 mb-1.5 hover:bg-primary/10 transition-colors"
       >
         <ChevronRight size={20} className="shrink-0 text-primary" aria-hidden />
         <div className="min-w-0 flex-1 text-left">
@@ -125,7 +125,7 @@ export function NextSuttaStrip() {
   return (
     <Link
       to="/browse"
-      className="flex items-center gap-2 rounded-2xl bg-white/5 ring-1 ring-white/10 px-3 py-2.5 mb-1.5 hover:bg-primary/10 transition-colors"
+      className="flex items-center gap-2 rounded-2xl bg-background ring-1 ring-white/10 px-3 py-2.5 mb-1.5 hover:bg-primary/10 transition-colors"
     >
       <ChevronRight size={20} className="shrink-0 text-primary" aria-hidden />
       <span className="text-sm font-medium">Browse suttas</span>

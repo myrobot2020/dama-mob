@@ -1,11 +1,11 @@
 import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
-import { BottomNav } from "@/components/BottomNav";
 import { ScreenHeader } from "@/components/ScreenHeader";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import { useAuthSession } from "@/hooks/use-auth-session";
 import { isSupabaseConfigured, supabase } from "@/lib/supabase";
 
 export const Route = createFileRoute("/login")({
@@ -14,12 +14,19 @@ export const Route = createFileRoute("/login")({
 
 function LoginScreen() {
   const navigate = useNavigate();
+  const { session, loading } = useAuthSession();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [mode, setMode] = useState<"signin" | "signup">("signin");
   const [error, setError] = useState<string | null>(null);
   const [info, setInfo] = useState<string | null>(null);
   const [pending, setPending] = useState(false);
+
+  useEffect(() => {
+    if (!loading && session) {
+      navigate({ to: "/profile" });
+    }
+  }, [loading, navigate, session]);
 
   async function onSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -54,7 +61,7 @@ function LoginScreen() {
           );
           return;
         }
-        navigate({ to: "/profile" });
+        navigate({ to: "/onboarding" });
       }
     } catch (err: unknown) {
       setError(err instanceof Error ? err.message : "Something went wrong");
@@ -64,7 +71,7 @@ function LoginScreen() {
   }
 
   return (
-    <div className="min-h-screen pb-40">
+    <div className="min-h-screen pb-10">
       <ScreenHeader title="Sign in" showBack />
       <div className="mx-auto max-w-sm px-5 pt-2">
         {!isSupabaseConfigured ? (
@@ -151,15 +158,17 @@ function LoginScreen() {
               </Button>
             </form>
 
-            <p className="mt-6 text-center text-sm text-muted-foreground">
+            <div className="mt-6 flex items-center justify-between text-sm text-muted-foreground">
+              <Link to="/reset-password" className="text-primary underline-offset-4 hover:underline">
+                Forgot password?
+              </Link>
               <Link to="/profile" className="text-primary underline-offset-4 hover:underline">
                 Back to profile
               </Link>
-            </p>
+            </div>
           </>
         )}
       </div>
-      <BottomNav />
     </div>
   );
 }

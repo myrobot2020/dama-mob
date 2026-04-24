@@ -1,21 +1,60 @@
 import { Link, useLocation } from "@tanstack/react-router";
-import { Home, BookOpen, Trees, NotebookPen, User } from "lucide-react";
+import { Home, BookOpen, Trees, User } from "lucide-react";
 import { NextSuttaStrip } from "@/components/NextSuttaStrip";
+import { useEffect, useRef } from "react";
 
 const tabs = [
   { to: "/", label: "Home", icon: Home },
   { to: "/sutta", label: "Sutta", icon: BookOpen },
   { to: "/tree", label: "Tree", icon: Trees },
-  { to: "/reflect", label: "Journal", icon: NotebookPen },
   { to: "/profile", label: "Profile", icon: User },
 ] as const;
 
 export function BottomNav() {
   const { pathname } = useLocation();
+  const showNextStrip =
+    pathname === "/browse" || pathname === "/tree" || pathname === "/sutta" || pathname.startsWith("/sutta/");
+  const navRef = useRef<HTMLElement | null>(null);
+
+  useEffect(() => {
+    const el = navRef.current;
+    if (!el || typeof document === "undefined") return;
+
+    const root = document.documentElement;
+    const setPad = () => {
+      const r = el.getBoundingClientRect();
+      // small buffer for shadows/glow and iOS rounding
+      const px = Math.ceil(r.height + 8);
+      root.style.setProperty("--dama-bottom-pad", `${px}px`);
+    };
+
+    setPad();
+
+    let ro: ResizeObserver | null = null;
+    if (typeof ResizeObserver !== "undefined") {
+      ro = new ResizeObserver(() => setPad());
+      ro.observe(el);
+    }
+
+    window.addEventListener("resize", setPad);
+    return () => {
+      window.removeEventListener("resize", setPad);
+      ro?.disconnect();
+      // Only clear if we're still the same mounted nav.
+      root.style.setProperty("--dama-bottom-pad", "0px");
+    };
+  }, [showNextStrip, pathname]);
+
   return (
-    <nav className="fixed bottom-0 inset-x-0 z-50 px-3 pb-3 pt-2">
-      <NextSuttaStrip />
-      <div className="glass rounded-2xl flex items-center justify-around px-2 py-2">
+    <nav
+      ref={(n) => {
+        navRef.current = n;
+      }}
+      className="fixed bottom-0 inset-x-0 z-50 px-3 pt-2 bg-background border-t border-border/60"
+      style={{ paddingBottom: "calc(0.75rem + env(safe-area-inset-bottom, 0px))" }}
+    >
+      {showNextStrip ? <NextSuttaStrip /> : null}
+      <div className="rounded-2xl bg-background ring-1 ring-white/10 flex items-center justify-around px-2 py-2">
         {tabs.map(({ to, label, icon: Icon }) => {
           const active =
             to === "/"

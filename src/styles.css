@@ -37,6 +37,7 @@
 
 :root {
   --radius: 1rem;
+  --dama-bottom-pad: 0px;
   --background: oklch(0.13 0.04 295);
   --foreground: oklch(0.97 0.01 320);
   --card: oklch(0.18 0.05 295);
@@ -115,6 +116,7 @@
       radial-gradient(ellipse 60% 40% at 100% 100%, oklch(0.55 0.25 295 / 0.15), transparent 60%);
     background-attachment: fixed;
     min-height: 100vh;
+    padding-bottom: calc(var(--dama-bottom-pad, 0px) + env(safe-area-inset-bottom, 0px));
   }
 }
 
@@ -143,6 +145,10 @@
   font-size: 0.7rem;
   letter-spacing: 0.15em;
   text-transform: uppercase;
+}
+
+@utility dama-screen {
+  padding-bottom: calc(var(--dama-bottom-pad, 0px) + env(safe-area-inset-bottom, 0px) + 1rem);
 }
 
 @keyframes pulse-glow {

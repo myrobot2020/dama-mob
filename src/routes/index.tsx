@@ -1,20 +1,22 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { ScreenHeader } from "@/components/ScreenHeader";
+
 import { BottomNav } from "@/components/BottomNav";
+import { ScreenHeader } from "@/components/ScreenHeader";
 
 export const Route = createFileRoute("/")({
   head: () => ({
-    meta: [{ title: "DAMA" }, { name: "description", content: "Dhamma app" }],
+    meta: [{ title: "DAMA" }, { name: "description", content: "DAMA" }],
   }),
   component: HomeScreen,
 });
 
 function HomeScreen() {
   return (
-    <div className="min-h-screen pb-40 flex flex-col">
-      <ScreenHeader title="Home" showBack={false} />
-      <div className="flex-1 min-h-[50vh]" />
+    <div className="min-h-screen dama-screen flex flex-col">
+      <ScreenHeader title="DAMA" showBack={false} />
+      <main className="flex-1" />
       <BottomNav />
     </div>
   );
 }
+

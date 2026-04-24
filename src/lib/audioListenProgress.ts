@@ -72,6 +72,14 @@ export function readAudioListenProgress(): AudioListenProgressMap {
   return cachedSnapshot;
 }
 
+export function resetAudioListenProgress(): void {
+  if (typeof window === "undefined") return;
+  localStorage.setItem(AUDIO_LISTEN_STORAGE_KEY, JSON.stringify({}));
+  cachedFingerprint = storageFingerprint();
+  cachedSnapshot = {};
+  notifyAudioListenProgress();
+}
+
 /**
  * Updates the stored max fraction for this sutta (seeking backward does not erase progress).
  */
@@ -89,6 +97,33 @@ export function recordAudioListenProgress(suttaId: string, fraction: number): vo
   localStorage.setItem(AUDIO_LISTEN_STORAGE_KEY, JSON.stringify(map));
   cachedFingerprint = storageFingerprint();
   cachedSnapshot = map;
+  notifyAudioListenProgress();
+}
+
+/**
+ * Best-effort merge for syncing: keep the max fraction per sutta.
+ */
+export function mergeAudioListenProgress(incoming: AudioListenProgressMap): void {
+  if (typeof window === "undefined") return;
+  const prev = readAudioListenProgress();
+  let changed = false;
+  const next: AudioListenProgressMap = { ...prev };
+  for (const [id, frac] of Object.entries(incoming)) {
+    const sid = id.trim();
+    if (!sid) continue;
+    const f = typeof frac === "number" ? frac : Number(frac);
+    if (!Number.isFinite(f)) continue;
+    const clamped = Math.min(1, Math.max(0, f));
+    const merged = Math.max(next[sid] ?? 0, clamped);
+    if ((next[sid] ?? 0) !== merged) {
+      next[sid] = merged;
+      changed = true;
+    }
+  }
+  if (!changed) return;
+  localStorage.setItem(AUDIO_LISTEN_STORAGE_KEY, JSON.stringify(next));
+  cachedFingerprint = storageFingerprint();
+  cachedSnapshot = next;
   notifyAudioListenProgress();
 }
 

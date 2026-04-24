@@ -33,7 +33,7 @@ export const Route = createFileRoute("/browse")({
 function BrowseScreen() {
   const [q, setQ] = useState("");
   const dq = useDebouncedValue(q, 250);
-  const [nikayaFilter, setNikayaFilter] = useState<NikayaId | "all">("all");
+  const [nikayaFilter, setNikayaFilter] = useState<NikayaId | "all">("AN");
   const [bookFilter, setBookFilter] = useState<string>("all");
   const [items, setItems] = useState<ItemSummary[]>([]);
   const [status, setStatus] = useState<"loading" | "error" | "ok">("loading");
@@ -88,7 +88,7 @@ function BrowseScreen() {
   }, [query]);
 
   return (
-    <div className="min-h-screen pb-40">
+    <div className="min-h-screen dama-screen">
       <ScreenHeader showBack={false} center={<CorpusHeaderNav />} />
       <div className="px-5">
         <div className="mt-2">
@@ -140,8 +140,7 @@ function BrowseScreen() {
               {errorMsg || "Unknown error"}
             </p>
             <p className="mt-2 text-xs text-muted-foreground">
-              Make sure <span className="text-foreground/85">dama5</span> is running (dev proxy
-              expects port 8000).
+              Make sure GCS index is updated.
             </p>
           </div>
         )}

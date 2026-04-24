@@ -56,12 +56,22 @@ def run_py(script: Path, *args: str) -> int:
     return int(result) if isinstance(result, int) else 0
 
 
-def run_download(sn_only: bool = False) -> int:
+def run_download(*, sn_only: bool = False, sn_audio_items: str = "", sn_audio_mp3: bool = False) -> int:
     code = run_py(SCRIPTS_ROOT / "01_download.py", "--manifest-only")
     if code != 0:
         return code
     if sn_only:
         return 0
+    # Optional: download SN audio locally when requested (can be large).
+    if sn_audio_items.strip() or sn_audio_mp3:
+        extra: list[str] = []
+        if sn_audio_mp3:
+            extra.append("--mp3")
+        if sn_audio_items.strip():
+            extra += ["--items", sn_audio_items.strip()]
+        code = run_py(SCRIPTS_ROOT / "01_download.py", *extra)
+        if code != 0:
+            return code
     return run_py(SCRIPTS_ROOT / "02_download_samples.py", "--limit", "2")
 
 
@@ -238,11 +248,58 @@ def parse_run_all_args() -> argparse.Namespace:
     ap = argparse.ArgumentParser(description="Run full scripts2 pipeline")
     ap.add_argument("--from-stage", default="download", choices=ORDER)
     ap.add_argument("--to-stage", default="tally", choices=ORDER)
+    ap.add_argument(
+        "--sn-audio-items",
+        default="",
+        help="Optional: download SN audio via yt-dlp for these playlist items (e.g. 1-58).",
+    )
+    ap.add_argument(
+        "--sn-audio-mp3",
+        action="store_true",
+        help="Optional: transcode SN audio to mp3 during download (requires ffmpeg).",
+    )
     return ap.parse_args()
 
 
 def main() -> int:
     args = parse_run_all_args()
+    # Thread SN audio download options through only to the download stage; other stages ignore them.
+    # (Keeps defaults fast and avoids accidental full-playlist downloads.)
+    if args.from_stage == "download":
+        # Use run_all, but we need to pass args into the download stage.
+        start = ORDER.index(args.from_stage)
+        end = ORDER.index(args.to_stage)
+        if end < start:
+            print(f"[scripts2] invalid stage range: {args.from_stage} -> {args.to_stage}")
+            return 2
+        for stage in ORDER[start : end + 1]:
+            print(f"[scripts2] running {stage}.py")
+            if stage == "download":
+                code = run_download(
+                    sn_audio_items=args.sn_audio_items,
+                    sn_audio_mp3=args.sn_audio_mp3,
+                )
+            elif stage == "identification":
+                code = run_identification()
+            elif stage == "segmentation":
+                code = run_segmentation()
+            elif stage == "linking":
+                code = run_linking()
+            elif stage == "names":
+                code = run_names()
+            elif stage == "keys":
+                code = run_keys()
+            elif stage == "cleaning":
+                code = run_cleaning()
+            elif stage == "validation":
+                code = run_validation()
+            else:
+                code = run_tally()
+            if code != 0:
+                print(f"[scripts2] stopped at {stage}.py (exit={code})")
+                return code
+        print("[scripts2] done")
+        return 0
     return run_all(from_stage=args.from_stage, to_stage=args.to_stage)
 
 

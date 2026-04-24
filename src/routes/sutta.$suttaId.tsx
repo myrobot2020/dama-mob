@@ -15,7 +15,8 @@ import {
   ItemDetail,
   stripTranscriptNoise,
 } from "@/lib/damaApi";
-import { ExternalLink, Hexagon } from "lucide-react";
+import { trackUxEvent } from "@/lib/uxLog";
+import { Hexagon, Trees } from "lucide-react";
 
 function normalizeParam(raw: string | undefined): string {
   if (raw == null || raw === "") return "";
@@ -59,6 +60,11 @@ function SuttaByIdScreen() {
   const showMettaInfographic = useMemo(() => isAn1116Sutta(id), [id]);
 
   useEffect(() => {
+    if (!id.trim()) return;
+    trackUxEvent("sutta_open", { suttaId: id });
+  }, [id]);
+
+  useEffect(() => {
     if (!id.trim()) {
       setStatus("error");
       setErrorMsg("Missing sutta id in URL.");
@@ -92,8 +98,21 @@ function SuttaByIdScreen() {
   };
 
   return (
-    <div className="min-h-screen pb-40">
-      <ScreenHeader showBookmark center={<CorpusHeaderNav currentSuttaId={id} />} />
+    <div className="min-h-screen dama-screen">
+      <ScreenHeader
+        center={<CorpusHeaderNav currentSuttaId={id} />}
+        right={
+          <Link
+            to="/tree"
+            search={{ focus: id }}
+            className="size-9 rounded-full glass flex items-center justify-center shrink-0"
+            aria-label="Open Tree"
+            title="Open Tree"
+          >
+            <Trees size={16} />
+          </Link>
+        }
+      />
       <div className="px-5">
         <header className="mt-2">
           <div className="flex items-center gap-2 mb-2">
@@ -159,21 +178,6 @@ function SuttaByIdScreen() {
               <CanonQuote text={stripTranscriptNoise(item.sutta)} />
             </section>
 
-            {!!item.youtube_url?.trim() && (
-              <section className="mt-6">
-                <div className="label-mono text-muted-foreground mb-2">Video</div>
-                <a
-                  href={item.youtube_url.trim()}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="glass rounded-2xl px-4 py-3 inline-flex items-center gap-2 text-primary font-medium hover:bg-primary/10 transition-colors ring-1 ring-primary/25"
-                >
-                  <ExternalLink size={18} className="shrink-0 opacity-90" aria-hidden />
-                  Watch on YouTube
-                </a>
-              </section>
-            )}
-
             {(() => {
               const rawFile = (item.aud_file || "").trim();
               const src = audioSrcForItem(item);
@@ -210,29 +214,6 @@ function SuttaByIdScreen() {
                 </div>
               );
             })()}
-
-            {!!item.chain?.items?.length && (
-              <section className="mt-6">
-                <div className="label-mono text-muted-foreground mb-2">Key chain</div>
-                <div className="glass rounded-2xl p-4">
-                  <div className="flex flex-wrap gap-2">
-                    {item.chain.items.map((t) => (
-                      <span
-                        key={t}
-                        className="px-3 py-1 rounded-full bg-primary/10 ring-1 ring-primary/25 text-sm text-primary"
-                      >
-                        {stripTranscriptNoise(t)}
-                      </span>
-                    ))}
-                  </div>
-                  {!!item.chain.category && (
-                    <div className="mt-3 label-mono text-muted-foreground">
-                      Category: {item.chain.category}
-                    </div>
-                  )}
-                </div>
-              </section>
-            )}
           </>
         )}
       </div>

@@ -355,16 +355,34 @@ def anguttara_chain_matches_book(obj: dict[str, Any], book_num: int | None) -> b
     return True
 
 
-def an_record_valid(obj: dict[str, Any]) -> bool:
-    """Fully populated AN per-file record: text, audio times, English title, chain length = book number."""
+def is_record_valid(obj: dict[str, Any]) -> bool:
+    """
+    General validation for any Nikaya (AN, SN, MN, DN, etc.).
+    Requires: sutta text, commentary, audio file + times, and English title.
+    For Anguttara Nikaya, also enforces that the chain length matches the book number.
+    """
     ok, _ = eligible_record(obj, require_audio_times=True)
     if not ok:
         return False
     if not has_nonempty_string(obj, "sutta_name_en"):
         return False
+
     sid = str(obj.get("sutta_id") or "").strip()
-    book_num = parse_anguttara_book_num(sid)
-    return anguttara_chain_matches_book(obj, book_num)
+    if sid.lower().startswith("an"):
+        # For AN, we strictly require the chain to match the book number
+        book_num = parse_anguttara_book_num(sid)
+        return anguttara_chain_matches_book(obj, book_num)
+
+    # For other nikayas (SN, etc.), we currently accept any non-empty chain if present,
+    # or even no chain if it's otherwise valid (depending on app needs).
+    # But usually 'valid: true' in the index means it's "ready for prime time".
+    # For now, let's say if it has the required fields from eligible_record and a name, it's valid.
+    return True
+
+
+def an_record_valid(obj: dict[str, Any]) -> bool:
+    """Deprecated: use is_record_valid instead."""
+    return is_record_valid(obj)
 
 
 def anguttara_book_prompt_line(book_num: int | None) -> str:

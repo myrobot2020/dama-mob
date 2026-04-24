@@ -12,10 +12,19 @@ const anonKey =
 export const isSupabaseConfigured = Boolean(url && anonKey);
 
 /**
- * Browser Supabase client. Null until env vars are set — see `.env.example`.
+ * Browser Supabase client. Null on the server and until env vars are set — see `.env.example`.
  */
 export const supabase: SupabaseClient | null =
-  url && anonKey ? createClient(url, anonKey) : null;
+  typeof window !== "undefined" && url && anonKey
+    ? createClient(url, anonKey, {
+        auth: {
+          flowType: "pkce",
+          autoRefreshToken: true,
+          persistSession: true,
+          detectSessionInUrl: true,
+        },
+      })
+    : null;
 
 /**
  * Returns the client or throws with a clear message (for routes/hooks that require auth).

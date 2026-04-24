@@ -1,6 +1,6 @@
 /**
- * Read Aṅguttara sutta JSON from the sibling dama5 repo via /__dama_corpus__/ (see vite-plugin-dama-corpus-fs.ts).
- * No FastAPI needed for sutta list, reader, or MP3 in dev/preview when dama5 is present.
+ * Read Aṅguttara sutta JSON from GCS via /__dama_corpus__/ (see vite-plugin-dama-corpus-fs.ts).
+ * No FastAPI needed for sutta list, reader, or MP3 in dev/preview.
  */
 
 import type { ItemDetail, ItemSummary } from "./damaApi";
@@ -13,7 +13,7 @@ export function useRemoteDamaApi(): boolean {
 }
 
 /**
- * Default: **local JSON + audio** from `../dama5` via Vite. Use `VITE_DAMA_CORPUS_MODE=api` to force FastAPI `/api` instead.
+ * Default: **local JSON + audio**. Use `VITE_DAMA_CORPUS_MODE=api` to force FastAPI `/api` instead.
  */
 export function useDirectCorpusFs(): boolean {
   if (useRemoteDamaApi()) return false;

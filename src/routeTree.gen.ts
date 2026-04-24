@@ -9,18 +9,29 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as UpdatePasswordRouteImport } from './routes/update-password'
 import { Route as TreeRouteImport } from './routes/tree'
 import { Route as SuttaRouteImport } from './routes/sutta'
+import { Route as ResetPasswordRouteImport } from './routes/reset-password'
 import { Route as ReflectRouteImport } from './routes/reflect'
 import { Route as ProfileRouteImport } from './routes/profile'
+import { Route as OnboardingRouteImport } from './routes/onboarding'
 import { Route as LoginRouteImport } from './routes/login'
 import { Route as ComicRouteImport } from './routes/comic'
 import { Route as BrowseRouteImport } from './routes/browse'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as ReflectIndexRouteImport } from './routes/reflect.index'
 import { Route as SuttaSuttaIdRouteImport } from './routes/sutta.$suttaId'
 import { Route as ReflectThinkingRouteImport } from './routes/reflect.thinking'
 import { Route as ReflectAnswerRouteImport } from './routes/reflect.answer'
+import { Route as QuizSuttaIdRouteImport } from './routes/quiz.$suttaId'
+import { Route as AuthCallbackRouteImport } from './routes/auth.callback'
 
+const UpdatePasswordRoute = UpdatePasswordRouteImport.update({
+  id: '/update-password',
+  path: '/update-password',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const TreeRoute = TreeRouteImport.update({
   id: '/tree',
   path: '/tree',
@@ -31,6 +42,11 @@ const SuttaRoute = SuttaRouteImport.update({
   path: '/sutta',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ResetPasswordRoute = ResetPasswordRouteImport.update({
+  id: '/reset-password',
+  path: '/reset-password',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ReflectRoute = ReflectRouteImport.update({
   id: '/reflect',
   path: '/reflect',
@@ -39,6 +55,11 @@ const ReflectRoute = ReflectRouteImport.update({
 const ProfileRoute = ProfileRouteImport.update({
   id: '/profile',
   path: '/profile',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const OnboardingRoute = OnboardingRouteImport.update({
+  id: '/onboarding',
+  path: '/onboarding',
   getParentRoute: () => rootRouteImport,
 } as any)
 const LoginRoute = LoginRouteImport.update({
@@ -61,6 +82,11 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ReflectIndexRoute = ReflectIndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => ReflectRoute,
+} as any)
 const SuttaSuttaIdRoute = SuttaSuttaIdRouteImport.update({
   id: '/$suttaId',
   path: '/$suttaId',
@@ -76,32 +102,53 @@ const ReflectAnswerRoute = ReflectAnswerRouteImport.update({
   path: '/answer',
   getParentRoute: () => ReflectRoute,
 } as any)
+const QuizSuttaIdRoute = QuizSuttaIdRouteImport.update({
+  id: '/quiz/$suttaId',
+  path: '/quiz/$suttaId',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AuthCallbackRoute = AuthCallbackRouteImport.update({
+  id: '/auth/callback',
+  path: '/auth/callback',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/browse': typeof BrowseRoute
   '/comic': typeof ComicRoute
   '/login': typeof LoginRoute
+  '/onboarding': typeof OnboardingRoute
   '/profile': typeof ProfileRoute
   '/reflect': typeof ReflectRouteWithChildren
+  '/reset-password': typeof ResetPasswordRoute
   '/sutta': typeof SuttaRouteWithChildren
   '/tree': typeof TreeRoute
+  '/update-password': typeof UpdatePasswordRoute
+  '/auth/callback': typeof AuthCallbackRoute
+  '/quiz/$suttaId': typeof QuizSuttaIdRoute
   '/reflect/answer': typeof ReflectAnswerRoute
   '/reflect/thinking': typeof ReflectThinkingRoute
   '/sutta/$suttaId': typeof SuttaSuttaIdRoute
+  '/reflect/': typeof ReflectIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/browse': typeof BrowseRoute
   '/comic': typeof ComicRoute
   '/login': typeof LoginRoute
+  '/onboarding': typeof OnboardingRoute
   '/profile': typeof ProfileRoute
-  '/reflect': typeof ReflectRouteWithChildren
+  '/reset-password': typeof ResetPasswordRoute
   '/sutta': typeof SuttaRouteWithChildren
   '/tree': typeof TreeRoute
+  '/update-password': typeof UpdatePasswordRoute
+  '/auth/callback': typeof AuthCallbackRoute
+  '/quiz/$suttaId': typeof QuizSuttaIdRoute
   '/reflect/answer': typeof ReflectAnswerRoute
   '/reflect/thinking': typeof ReflectThinkingRoute
   '/sutta/$suttaId': typeof SuttaSuttaIdRoute
+  '/reflect': typeof ReflectIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -109,13 +156,19 @@ export interface FileRoutesById {
   '/browse': typeof BrowseRoute
   '/comic': typeof ComicRoute
   '/login': typeof LoginRoute
+  '/onboarding': typeof OnboardingRoute
   '/profile': typeof ProfileRoute
   '/reflect': typeof ReflectRouteWithChildren
+  '/reset-password': typeof ResetPasswordRoute
   '/sutta': typeof SuttaRouteWithChildren
   '/tree': typeof TreeRoute
+  '/update-password': typeof UpdatePasswordRoute
+  '/auth/callback': typeof AuthCallbackRoute
+  '/quiz/$suttaId': typeof QuizSuttaIdRoute
   '/reflect/answer': typeof ReflectAnswerRoute
   '/reflect/thinking': typeof ReflectThinkingRoute
   '/sutta/$suttaId': typeof SuttaSuttaIdRoute
+  '/reflect/': typeof ReflectIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
@@ -124,39 +177,56 @@ export interface FileRouteTypes {
     | '/browse'
     | '/comic'
     | '/login'
+    | '/onboarding'
     | '/profile'
     | '/reflect'
+    | '/reset-password'
     | '/sutta'
     | '/tree'
+    | '/update-password'
+    | '/auth/callback'
+    | '/quiz/$suttaId'
     | '/reflect/answer'
     | '/reflect/thinking'
     | '/sutta/$suttaId'
+    | '/reflect/'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
     | '/browse'
     | '/comic'
     | '/login'
+    | '/onboarding'
     | '/profile'
-    | '/reflect'
+    | '/reset-password'
     | '/sutta'
     | '/tree'
+    | '/update-password'
+    | '/auth/callback'
+    | '/quiz/$suttaId'
     | '/reflect/answer'
     | '/reflect/thinking'
     | '/sutta/$suttaId'
+    | '/reflect'
   id:
     | '__root__'
     | '/'
     | '/browse'
     | '/comic'
     | '/login'
+    | '/onboarding'
     | '/profile'
     | '/reflect'
+    | '/reset-password'
     | '/sutta'
     | '/tree'
+    | '/update-password'
+    | '/auth/callback'
+    | '/quiz/$suttaId'
     | '/reflect/answer'
     | '/reflect/thinking'
     | '/sutta/$suttaId'
+    | '/reflect/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -164,14 +234,26 @@ export interface RootRouteChildren {
   BrowseRoute: typeof BrowseRoute
   ComicRoute: typeof ComicRoute
   LoginRoute: typeof LoginRoute
+  OnboardingRoute: typeof OnboardingRoute
   ProfileRoute: typeof ProfileRoute
   ReflectRoute: typeof ReflectRouteWithChildren
+  ResetPasswordRoute: typeof ResetPasswordRoute
   SuttaRoute: typeof SuttaRouteWithChildren
   TreeRoute: typeof TreeRoute
+  UpdatePasswordRoute: typeof UpdatePasswordRoute
+  AuthCallbackRoute: typeof AuthCallbackRoute
+  QuizSuttaIdRoute: typeof QuizSuttaIdRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/update-password': {
+      id: '/update-password'
+      path: '/update-password'
+      fullPath: '/update-password'
+      preLoaderRoute: typeof UpdatePasswordRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/tree': {
       id: '/tree'
       path: '/tree'
@@ -186,6 +268,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof SuttaRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/reset-password': {
+      id: '/reset-password'
+      path: '/reset-password'
+      fullPath: '/reset-password'
+      preLoaderRoute: typeof ResetPasswordRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/reflect': {
       id: '/reflect'
       path: '/reflect'
@@ -198,6 +287,13 @@ declare module '@tanstack/react-router' {
       path: '/profile'
       fullPath: '/profile'
       preLoaderRoute: typeof ProfileRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/onboarding': {
+      id: '/onboarding'
+      path: '/onboarding'
+      fullPath: '/onboarding'
+      preLoaderRoute: typeof OnboardingRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/login': {
@@ -228,6 +324,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/reflect/': {
+      id: '/reflect/'
+      path: '/'
+      fullPath: '/reflect/'
+      preLoaderRoute: typeof ReflectIndexRouteImport
+      parentRoute: typeof ReflectRoute
+    }
     '/sutta/$suttaId': {
       id: '/sutta/$suttaId'
       path: '/$suttaId'
@@ -249,17 +352,33 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ReflectAnswerRouteImport
       parentRoute: typeof ReflectRoute
     }
+    '/quiz/$suttaId': {
+      id: '/quiz/$suttaId'
+      path: '/quiz/$suttaId'
+      fullPath: '/quiz/$suttaId'
+      preLoaderRoute: typeof QuizSuttaIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/auth/callback': {
+      id: '/auth/callback'
+      path: '/auth/callback'
+      fullPath: '/auth/callback'
+      preLoaderRoute: typeof AuthCallbackRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 interface ReflectRouteChildren {
   ReflectAnswerRoute: typeof ReflectAnswerRoute
   ReflectThinkingRoute: typeof ReflectThinkingRoute
+  ReflectIndexRoute: typeof ReflectIndexRoute
 }
 
 const ReflectRouteChildren: ReflectRouteChildren = {
   ReflectAnswerRoute: ReflectAnswerRoute,
   ReflectThinkingRoute: ReflectThinkingRoute,
+  ReflectIndexRoute: ReflectIndexRoute,
 }
 
 const ReflectRouteWithChildren =
@@ -280,10 +399,15 @@ const rootRouteChildren: RootRouteChildren = {
   BrowseRoute: BrowseRoute,
   ComicRoute: ComicRoute,
   LoginRoute: LoginRoute,
+  OnboardingRoute: OnboardingRoute,
   ProfileRoute: ProfileRoute,
   ReflectRoute: ReflectRouteWithChildren,
+  ResetPasswordRoute: ResetPasswordRoute,
   SuttaRoute: SuttaRouteWithChildren,
   TreeRoute: TreeRoute,
+  UpdatePasswordRoute: UpdatePasswordRoute,
+  AuthCallbackRoute: AuthCallbackRoute,
+  QuizSuttaIdRoute: QuizSuttaIdRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

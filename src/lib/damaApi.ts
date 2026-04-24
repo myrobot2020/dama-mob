@@ -219,8 +219,8 @@ export function getCorpusAudSrc(filename: string): string {
   const publicBase = getDamaAudPublicBase();
   // Production GCS audio bucket is expected to contain MP3s only; `.webm` usually means
   // the pipeline did not resolve a publishable audio artifact.
+  if (/\.webm$/i.test(name) || /\.weba$/i.test(name)) return "";
   if (publicBase) {
-    if (/\.webm$/i.test(name)) return "";
     return `${publicBase}/${encodeURIComponent(name)}`;
   }
   const base = getDamaApiBase();

@@ -17,7 +17,7 @@ export const Route = createFileRoute("/comic")({
 function ComicScreen() {
   const [idx] = useState(0);
   return (
-    <div className="min-h-screen pb-40">
+    <div className="min-h-screen dama-screen">
       <ScreenHeader title={`Comic ${idx + 1}/11`} showBookmark />
       <div className="px-5">
         <h1 className="text-2xl font-semibold tracking-tight">Visual Exploration</h1>

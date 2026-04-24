@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Pause, Play, Square, Volume2 } from "lucide-react";
 import { recordAudioListenProgress } from "@/lib/audioListenProgress";
 
@@ -6,6 +6,46 @@ function fmt(s: number) {
   const m = Math.floor(s / 60);
   const r = Math.floor(s % 60);
   return `${m}:${r.toString().padStart(2, "0")}`;
+}
+
+function extFromSrc(src: string): string {
+  const t = (src || "").split("?")[0]?.split("#")[0] ?? "";
+  const dot = t.lastIndexOf(".");
+  if (dot < 0) return "";
+  return t.slice(dot + 1).trim().toLowerCase();
+}
+
+function canBrowserPlayAudioExt(ext: string): boolean | null {
+  if (!ext) return null;
+  if (typeof document === "undefined") return null;
+  const el = document.createElement("audio");
+  if (ext === "mp3" || ext === "mpeg") {
+    const v = el.canPlayType("audio/mpeg");
+    return v === "probably" || v === "maybe";
+  }
+  if (ext === "m4a" || ext === "mp4" || ext === "aac") {
+    const v = el.canPlayType("audio/mp4");
+    return v === "probably" || v === "maybe";
+  }
+  if (ext === "opus") {
+    const v = el.canPlayType("audio/opus");
+    return v === "probably" || v === "maybe";
+  }
+  if (ext === "webm" || ext === "weba") {
+    // Common for YouTube/Opus-derived artifacts; not supported in Safari/iOS.
+    const v = el.canPlayType("audio/webm");
+    return v === "probably" || v === "maybe";
+  }
+  return null;
+}
+
+function mediaErrorMessage(code: number | undefined): string {
+  // https://developer.mozilla.org/en-US/docs/Web/API/MediaError/code
+  if (code === 1) return "Playback aborted.";
+  if (code === 2) return "Network error while loading audio.";
+  if (code === 3) return "Audio decode error (unsupported or corrupted file).";
+  if (code === 4) return "Audio source not supported or missing.";
+  return "Could not play audio.";
 }
 
 export function AudioPlayer({
@@ -29,6 +69,9 @@ export function AudioPlayer({
   /** Mirrors `HTMLMediaElement.currentTime` while loaded. */
   const [audioTime, setAudioTime] = useState(0);
   const [volume, setVolume] = useState(1);
+  const [formatSupported, setFormatSupported] = useState<boolean | null>(null);
+
+  const srcExt = useMemo(() => extFromSrc(src), [src]);
 
   const clipLen = Math.max(0, end - start);
   const seg = Math.min(clipLen, Math.max(0, Math.min(audioTime, end) - start));
@@ -61,15 +104,39 @@ export function AudioPlayer({
     if (!el) return;
     const onPlay = () => setPlaying(true);
     const onPause = () => setPlaying(false);
+    const onError = () => {
+      const code = el.error?.code;
+      const msg = mediaErrorMessage(code);
+      setLoadError(msg);
+      setPlaying(false);
+    };
     el.addEventListener("timeupdate", tick);
     el.addEventListener("play", onPlay);
     el.addEventListener("pause", onPause);
+    el.addEventListener("error", onError);
     return () => {
       el.removeEventListener("timeupdate", tick);
       el.removeEventListener("play", onPlay);
       el.removeEventListener("pause", onPause);
+      el.removeEventListener("error", onError);
     };
   }, [tick]);
+
+  useEffect(() => {
+    // Avoid SSR/hydration mismatch: compute support after mount.
+    setLoadError(null);
+    setPlaying(false);
+    setAudioTime(0);
+    const v = canBrowserPlayAudioExt(srcExt);
+    setFormatSupported(v);
+  }, [src, srcExt]);
+
+  const formatBlockedReason =
+    formatSupported === false && (srcExt === "webm" || srcExt === "weba")
+      ? "This browser can't play WebM audio. Use the YouTube link, or try Chrome/Firefox."
+      : formatSupported === false
+        ? "This browser can't play this audio format."
+        : null;
 
   const stop = () => {
     const el = audioRef.current;
@@ -82,18 +149,23 @@ export function AudioPlayer({
 
   const toggle = async () => {
     const el = audioRef.current;
-    if (!el || !src) return;
+    if (!el || !src || formatSupported === false) return;
     setLoadError(null);
     if (playing) {
       el.pause();
       return;
     }
     try {
-      el.currentTime = start;
+      try {
+        el.currentTime = start;
+      } catch {
+        // Some browsers will throw if metadata isn't ready or the source is not seekable yet.
+      }
       setAudioTime(start);
       await el.play();
     } catch {
-      setLoadError("Could not play audio.");
+      const msg = mediaErrorMessage(el.error?.code);
+      setLoadError(msg);
       setPlaying(false);
     }
   };
@@ -114,7 +186,7 @@ export function AudioPlayer({
         <button
           type="button"
           onClick={() => void toggle()}
-          disabled={!src || clipLen <= 0}
+          disabled={!src || clipLen <= 0 || formatSupported === false}
           className="size-12 shrink-0 rounded-full bg-primary text-primary-foreground flex items-center justify-center animate-pulse-glow disabled:opacity-40"
           aria-label={playing ? "Pause" : "Play"}
         >
@@ -131,8 +203,10 @@ export function AudioPlayer({
         </button>
         <div className="flex-1 min-w-0">
           <div className="text-sm font-medium truncate">{label}</div>
-          {loadError && (
-            <p className="mt-1 text-xs text-muted-foreground">{loadError}</p>
+          {(formatBlockedReason || loadError) && (
+            <p className="mt-1 text-xs text-muted-foreground">
+              {formatBlockedReason || loadError}
+            </p>
           )}
         </div>
       </div>

@@ -8,6 +8,7 @@ import { defineConfig, loadEnv, mergeConfig } from "vite";
 import tsConfigPaths from "vite-tsconfig-paths";
 import { nitro } from "nitro/vite";
 import { damaCorpusFsPlugin } from "./config/vite/vite-plugin-dama-corpus-fs";
+import { openaiReflectionDevMiddleware } from "./config/vite/vite-plugin-openai-reflection";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const projectRoot = path.resolve(__dirname);
@@ -34,7 +35,15 @@ function resolveAudRoot(): string {
   if (fs.existsSync(underCorpus) && fs.statSync(underCorpus).isDirectory()) {
     return underCorpus;
   }
-  return path.join(projectRoot, "aud");
+  const projectAud = path.join(projectRoot, "aud");
+  if (fs.existsSync(projectAud) && fs.statSync(projectAud).isDirectory()) {
+    return projectAud;
+  }
+  const rawAnAudio = path.join(projectRoot, "data", "raw", "an", "audio");
+  if (fs.existsSync(rawAnAudio) && fs.statSync(rawAnAudio).isDirectory()) {
+    return rawAnAudio;
+  }
+  return projectAud;
 }
 const audRoot = resolveAudRoot();
 const damaFs =
@@ -89,6 +98,7 @@ export default defineConfig(async (env) => {
       : []),
     tanstackStart({ srcDirectory: "src" }),
     viteReact(),
+    openaiReflectionDevMiddleware(),
     ...(ciGcp
       ? [
           nitro({
@@ -118,7 +128,7 @@ export default defineConfig(async (env) => {
       },
       plugins,
       server: {
-        host: "::",
+        host: "0.0.0.0",
         port: 8080,
         fs: {
           allow: fsAllowDirs,

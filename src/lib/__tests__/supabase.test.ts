@@ -34,7 +34,14 @@ describe("lib/supabase", () => {
     expect(mod.isSupabaseConfigured).toBe(true);
     expect(mod.supabase).not.toBeNull();
     expect(createClient).toHaveBeenCalledTimes(1);
-    expect(createClient).toHaveBeenCalledWith("https://example.supabase.co", "test-anon");
+    expect(createClient).toHaveBeenCalledWith("https://example.supabase.co", "test-anon", {
+      auth: {
+        flowType: "pkce",
+        autoRefreshToken: true,
+        persistSession: true,
+        detectSessionInUrl: true,
+      },
+    });
   });
 
   it("accepts publishable key when anon key is absent", async () => {
@@ -43,6 +50,13 @@ describe("lib/supabase", () => {
     vi.stubEnv("VITE_SUPABASE_PUBLISHABLE_KEY", "pub-key");
     const mod = await import("../supabase");
     expect(mod.isSupabaseConfigured).toBe(true);
-    expect(createClient).toHaveBeenCalledWith("https://example.supabase.co", "pub-key");
+    expect(createClient).toHaveBeenCalledWith("https://example.supabase.co", "pub-key", {
+      auth: {
+        flowType: "pkce",
+        autoRefreshToken: true,
+        persistSession: true,
+        detectSessionInUrl: true,
+      },
+    });
   });
 });
