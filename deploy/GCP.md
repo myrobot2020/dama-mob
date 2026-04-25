@@ -96,8 +96,25 @@ gcloud builds triggers create github \
 
 See **`deploy/GCS_AUD.md`**: bucket **`gs://damalight-dama-aud`**, public URLs under **`VITE_DAMA_AUD_PUBLIC_BASE`**, synced from local **`aud/`**.
 
+## Runtime + build-time config
+
+Cloud Build injects browser-public Vite values during `npm run build`:
+
+- `VITE_DAMA_AUD_PUBLIC_BASE`
+- `VITE_DAMA_CORPUS_GCS_BASE`
+- `VITE_SUPABASE_URL`
+- `VITE_SUPABASE_ANON_KEY`
+
+The OpenAI key is not committed or passed as a build arg. It lives in Secret Manager as
+`dama-openai-api-key` and is mounted on Cloud Run as `OPENAI_API_KEY`; `OPENAI_REFLECTION_MODEL`
+is a normal runtime env var.
+
+Run `deploy/complete-github-trigger.ps1` after changing trigger setup. It repairs the trigger path
+to `deploy/cloudbuild.yaml` and syncs Supabase substitutions from environment variables or
+`.env.local`.
+
 ## After push to `main`
 
-Pushes to **`main`** on **`myrobot2020/dama-mob`** run **`deploy/cloudbuild.yaml`**: install → **`CI_GCP=1` build** (with **`VITE_DAMA_AUD_PUBLIC_BASE`** for GCS audio URLs) → Docker → Artifact Registry → **`gcloud run deploy`** service **`dama-mob`** in **`asia-south1`**.
+Pushes to **`main`** on **`myrobot2020/dama-mob`** run **`deploy/cloudbuild.yaml`**: install → tests → **`CI_GCP=1` build** with GCS + Supabase public config → Docker → Artifact Registry → **`gcloud run deploy`** service **`dama-mob`** in **`asia-south1`** with the OpenAI runtime secret.
 
 

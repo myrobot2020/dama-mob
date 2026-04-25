@@ -18,6 +18,12 @@ substitutions:
   # Create bucket + upload: see deploy/GCS_AUD.md. Leave empty to use /dama-aud/ from the image.
   _VITE_DAMA_AUD_PUBLIC_BASE: "https://storage.googleapis.com/damalight-dama-aud"
   _VITE_DAMA_CORPUS_GCS_BASE: "https://storage.googleapis.com/damalight-dama-json"
+  # Public browser config. The GitHub trigger overrides these with production values.
+  _VITE_SUPABASE_URL: ""
+  _VITE_SUPABASE_ANON_KEY: ""
+  # Server-only key is mounted from Secret Manager at runtime.
+  _OPENAI_SECRET: "dama-openai-api-key"
+  _OPENAI_REFLECTION_MODEL: "gpt-4o-mini"
   _SHORT_SHA: "manual"
 
 steps:
@@ -42,6 +48,8 @@ steps:
       - CI_GCP=1
       - VITE_DAMA_AUD_PUBLIC_BASE=${_VITE_DAMA_AUD_PUBLIC_BASE}
       - VITE_DAMA_CORPUS_GCS_BASE=${_VITE_DAMA_CORPUS_GCS_BASE}
+      - VITE_SUPABASE_URL=${_VITE_SUPABASE_URL}
+      - VITE_SUPABASE_ANON_KEY=${_VITE_SUPABASE_ANON_KEY}
     args: ["npm", "run", "build"]
 
   - id: docker-build
@@ -75,6 +83,9 @@ steps:
       - --region=${_REGION}
       - --platform=managed
       - --allow-unauthenticated
+      - --remove-env-vars=VITE_DAMA_CORPUS_GCS_BASE,VITE_DAMA_AUD_PUBLIC_BASE,VITE_SUPABASE_URL,VITE_SUPABASE_ANON_KEY
+      - --update-env-vars=OPENAI_REFLECTION_MODEL=${_OPENAI_REFLECTION_MODEL}
+      - --update-secrets=OPENAI_API_KEY=${_OPENAI_SECRET}:latest
       - --quiet
 
 options:
