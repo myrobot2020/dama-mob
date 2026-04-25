@@ -165,6 +165,7 @@ def main() -> int:
         client = storage.Client()
         bucket = client.bucket("damalight-dama-json")
         blob = bucket.blob("nikaya/index.json")
+        blob.cache_control = "no-cache, max-age=0"
         blob.upload_from_string(
             json.dumps(index_data, ensure_ascii=False, indent=2),
             content_type="application/json",

@@ -117,7 +117,7 @@ export async function fetchItemsFromCorpusFs(
   if ((!data || !data.items?.length) && gcsBase) {
     try {
       const gcsUrl = `${gcsBase.replace(/\/$/, "")}/nikaya/index.json`;
-      const r = await fetch(gcsUrl, { signal, credentials: "omit" });
+      const r = await fetch(gcsUrl, { signal, credentials: "omit", cache: "no-store" });
       if (r.ok) {
         data = (await r.json()) as IndexPayload;
       }
