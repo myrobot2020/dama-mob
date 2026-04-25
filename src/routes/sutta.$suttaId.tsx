@@ -3,6 +3,7 @@ import { useEffect, useMemo, useState } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
 import { CorpusHeaderNav } from "@/components/CorpusHeaderNav";
 import { BottomNav } from "@/components/BottomNav";
+import { SuttaInterpretLink } from "@/components/SuttaInterpretLink";
 import { CanonQuote } from "@/components/CanonQuote";
 import { AudioPlayer, TrackedNativeAudio } from "@/components/AudioPlayer";
 import mettaInfographic from "@/assets/an1116-metta-infographic.png";
@@ -216,13 +217,7 @@ function SuttaByIdScreen() {
             })()}
 
             <div className="mt-8 mb-4">
-              <Link
-                to="/quiz/$suttaId"
-                params={{ suttaId: id }}
-                className="block w-full text-center py-4 rounded-2xl bg-primary text-primary-foreground font-semibold shadow-lg shadow-primary/20 hover:bg-primary/90 transition-all active:scale-[0.98]"
-              >
-                Try interpreting
-              </Link>
+              <SuttaInterpretLink suttaId={id} />
             </div>
           </>
         )}
