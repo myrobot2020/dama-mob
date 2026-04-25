@@ -1,8 +1,15 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { useEffect, useMemo, useSyncExternalStore } from "react";
+import { useEffect, useMemo, useState, useSyncExternalStore } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
+import { BottomNav } from "@/components/BottomNav";
 import treeImg from "@/assets/dhamma-tree.jpg";
-import { ensureLeaf, hydrateLeaf, readLeaves, subscribeLeaves, upsertHydratedLeaf } from "@/lib/leaves";
+import {
+  AN_BOOK_TITLES,
+  getItems,
+  type ItemSummary,
+} from "@/lib/damaApi";
+import { ensureLeaf, readLeaves, subscribeLeaves, upsertHydratedLeaf } from "@/lib/leaves";
+import { buildTreeLeaves, getSuttasForTreeBook, resolveTreeBook } from "@/lib/treeLeaves";
 
 export const Route = createFileRoute("/tree")({
   head: () => ({
@@ -19,6 +26,29 @@ function TreeScreen() {
   const focus = (search?.focus || "").trim();
 
   const leaves = useSyncExternalStore(subscribeLeaves, readLeaves, () => ({}));
+  const [items, setItems] = useState<ItemSummary[]>([]);
+  const [loadState, setLoadState] = useState<"loading" | "error" | "ok">("loading");
+
+  useEffect(() => {
+    let cancelled = false;
+    const ac = new AbortController();
+    setLoadState("loading");
+    getItems({ book: "all" }, ac.signal)
+      .then((data) => {
+        if (cancelled) return;
+        setItems(Array.isArray(data.items) ? data.items : []);
+        setLoadState("ok");
+      })
+      .catch(() => {
+        if (cancelled) return;
+        setItems([]);
+        setLoadState("error");
+      });
+    return () => {
+      cancelled = true;
+      ac.abort();
+    };
+  }, []);
 
   useEffect(() => {
     if (!focus) return;
@@ -39,11 +69,23 @@ function TreeScreen() {
     return () => window.clearInterval(t);
   }, []);
 
+  const treeBook = useMemo(() => resolveTreeBook(focus), [focus]);
+
+  const suttasInBook = useMemo(() => {
+    return getSuttasForTreeBook(items, treeBook);
+  }, [items, treeBook]);
+
   const ordered = useMemo(() => {
-    const ids = Object.keys(leaves);
-    ids.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
-    return ids.map((id) => hydrateLeaf(leaves[id]!, Date.now()));
-  }, [leaves]);
+    return buildTreeLeaves(suttasInBook, leaves, Date.now(), loadState === "ok");
+  }, [leaves, loadState, suttasInBook]);
+
+  const bookLabel = useMemo(() => {
+    if (treeBook.nikaya === "AN") {
+      const n = parseInt(treeBook.book, 10);
+      return `${AN_BOOK_TITLES[n] ?? `Book ${treeBook.book}`} · ${ordered.length} leaves`;
+    }
+    return `Book ${treeBook.book} · ${ordered.length} leaves`;
+  }, [ordered.length, treeBook.book, treeBook.nikaya]);
 
   const badge = (state: string) => {
     switch (state) {
@@ -70,10 +112,17 @@ function TreeScreen() {
         </div>
 
         <div className="mt-6">
-          <div className="label-mono text-primary">Leaves</div>
-          {ordered.length === 0 ? (
+          <div className="flex items-end justify-between gap-3">
+            <div className="label-mono text-primary">Leaves</div>
+            <div className="text-[11px] text-muted-foreground label-mono normal-case">{bookLabel}</div>
+          </div>
+          {loadState === "loading" ? (
+            <p className="mt-2 text-sm text-muted-foreground">Loading leaves…</p>
+          ) : loadState === "error" && ordered.length === 0 ? (
+            <p className="mt-2 text-sm text-muted-foreground">Could not load the corpus index.</p>
+          ) : ordered.length === 0 ? (
             <p className="mt-2 text-sm text-muted-foreground">
-              Open a sutta and tap the Tree icon to start a leaf.
+              No suttas found for this book.
             </p>
           ) : (
             <div className="mt-3 space-y-2">
@@ -110,6 +159,7 @@ function TreeScreen() {
           )}
         </div>
       </div>
+      <BottomNav />
     </div>
   );
 }
