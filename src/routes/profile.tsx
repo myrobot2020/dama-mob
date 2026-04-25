@@ -309,7 +309,7 @@ function ProfileScreen() {
         </div>
         ) : null}
       </div>
-      {user ? <BottomNav /> : null}
+      <BottomNav />
     </div>
   );
 }

@@ -214,6 +214,16 @@ function SuttaByIdScreen() {
                 </div>
               );
             })()}
+
+            <div className="mt-8 mb-4">
+              <Link
+                to="/quiz/$suttaId"
+                params={{ suttaId: id }}
+                className="block w-full text-center py-4 rounded-2xl bg-primary text-primary-foreground font-semibold shadow-lg shadow-primary/20 hover:bg-primary/90 transition-all active:scale-[0.98]"
+              >
+                Try interpreting
+              </Link>
+            </div>
           </>
         )}
       </div>

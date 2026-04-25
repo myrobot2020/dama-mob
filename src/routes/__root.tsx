@@ -1,4 +1,5 @@
 import { Outlet, Link, createRootRoute, HeadContent, Scripts, useRouterState } from "@tanstack/react-router";
+import { useEffect } from "react";
 
 import appCss from "../styles.css?url";
 import { ClientBootstrap } from "@/components/ClientBootstrap";
@@ -79,6 +80,22 @@ function RootComponent() {
       return v === "1" || v === "true" || v === "yes";
     },
   });
+
+  // Some mobile emulators do not translate mouse wheels into touch scrolling.
+  useEffect(() => {
+    const coarsePointer = window.matchMedia?.("(pointer: coarse)").matches ?? false;
+    if (!coarsePointer) return;
+
+    const handleWheel = (e: WheelEvent) => {
+      window.scrollBy({
+        top: e.deltaY,
+        behavior: "auto",
+      });
+    };
+
+    window.addEventListener("wheel", handleWheel, { passive: true });
+    return () => window.removeEventListener("wheel", handleWheel);
+  }, []);
 
   const app = (
     <>
