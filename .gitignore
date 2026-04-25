@@ -36,3 +36,9 @@ dist-ssr
 /data/
 /scripts2/data/
 .venv/
+
+# Local review/debug artifacts
+/shadow_telemetry/
+/temp_export/
+/temp_ux_log.json
+/tmp/
