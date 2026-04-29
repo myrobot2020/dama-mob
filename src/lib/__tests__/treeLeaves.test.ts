@@ -1,7 +1,13 @@
 import { describe, expect, it } from "vitest";
 import type { ItemSummary } from "../damaApi";
 import type { LeavesStore } from "../leaves";
-import { buildTreeLeaves, getSuttasForTreeBook, resolveTreeBook } from "../treeLeaves";
+import {
+  buildTreeLeaves,
+  countTreeItemsByCollection,
+  getSuttasForTreeBook,
+  getTreeBooksForNikaya,
+  resolveTreeBook,
+} from "../treeLeaves";
 
 const items = (ids: string[]): ItemSummary[] => ids.map((suttaid) => ({ suttaid }));
 
@@ -25,6 +31,38 @@ describe("treeLeaves", () => {
     expect(leaves).toHaveLength(2);
     expect(leaves.map((leaf) => leaf.suttaId)).toEqual(["1.2", "1.10"]);
     expect(leaves.every((leaf) => leaf.state === "grey")).toBe(true);
+  });
+
+  it("lists available books for each nikaya from the corpus index", () => {
+    const corpus = items(["1.2", "11.16", "SN 1.1", "SN 2.1", "DN 1.1", "MN 10.1"]);
+
+    expect(getTreeBooksForNikaya(corpus, "ALL")).toEqual(["all"]);
+    expect(getTreeBooksForNikaya(corpus, "AN")).toEqual(["all", "1", "11"]);
+    expect(getTreeBooksForNikaya(corpus, "SN")).toEqual(["all", "1", "2"]);
+    expect(getTreeBooksForNikaya(corpus, "DN")).toEqual(["all", "1"]);
+    expect(getTreeBooksForNikaya(corpus, "MN")).toEqual(["all", "10"]);
+  });
+
+  it("supports all-books views", () => {
+    const corpus = items(["1.2", "11.16", "SN 1.1", "SN 2.1"]);
+
+    expect(
+      getSuttasForTreeBook(corpus, { nikaya: "AN", book: "all" }).map((it) => it.suttaid),
+    ).toEqual(["1.2", "11.16"]);
+    expect(
+      getSuttasForTreeBook(corpus, { nikaya: "ALL", book: "all" }).map((it) => it.suttaid),
+    ).toEqual(["1.2", "11.16", "SN 1.1", "SN 2.1"]);
+  });
+
+  it("counts indexed items by collection", () => {
+    expect(countTreeItemsByCollection(items(["1.2", "SN 1.1", "SN 2.1", "DN 1.1"]))).toMatchObject({
+      ALL: 4,
+      AN: 1,
+      SN: 2,
+      DN: 1,
+      MN: 0,
+      KN: 0,
+    });
   });
 
   it("layers saved leaf progress onto corpus-generated leaves", () => {

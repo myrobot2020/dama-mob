@@ -151,6 +151,23 @@ export function markSuttaRead(suttaId: string, nowMs: number = Date.now()): void
   writeReadingProgress({ ...prev, [id]: nextItem });
 }
 
+export function markSuttasRead(suttaIds: string[], nowMs: number = Date.now()): void {
+  if (typeof window === "undefined") return;
+  const ids = Array.from(new Set(suttaIds.map((id) => id.trim()).filter(Boolean)));
+  if (ids.length === 0) return;
+  const prev = readReadingProgress();
+  const next: ReadingProgressMap = { ...prev };
+  for (const id of ids) {
+    const prevItem = prev[id] ?? {};
+    next[id] = {
+      openedAtMs: prevItem.openedAtMs,
+      openCount: prevItem.openCount,
+      readAtMs: nowMs,
+    };
+  }
+  writeReadingProgress(next);
+}
+
 export function clearSuttaRead(suttaId: string): void {
   if (typeof window === "undefined") return;
   const id = suttaId.trim();
@@ -159,6 +176,21 @@ export function clearSuttaRead(suttaId: string): void {
   const prevItem = prev[id];
   if (!prevItem) return;
   writeReadingProgress({ ...prev, [id]: { ...prevItem, readAtMs: undefined } });
+}
+
+export function clearSuttasRead(suttaIds: string[]): void {
+  if (typeof window === "undefined") return;
+  const ids = Array.from(new Set(suttaIds.map((id) => id.trim()).filter(Boolean)));
+  if (ids.length === 0) return;
+  const prev = readReadingProgress();
+  const next: ReadingProgressMap = { ...prev };
+  for (const id of ids) {
+    const prevItem = prev[id];
+    if (prevItem) {
+      next[id] = { ...prevItem, readAtMs: undefined };
+    }
+  }
+  writeReadingProgress(next);
 }
 
 export function getReadSuttaIds(map: ReadingProgressMap): string[] {
