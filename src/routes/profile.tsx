@@ -12,12 +12,15 @@ import { useProfile } from "@/hooks/use-profile";
 import { isLikelyUniqueViolation, updateProfile, validateUsername } from "@/lib/profile";
 import { supabase } from "@/lib/supabase";
 import { clearUxLog, readUxLog, subscribeUxLog, trackUxEvent } from "@/lib/uxLog";
+import { readSettings, subscribeSettings, updateSettings } from "@/lib/settings";
 
 export const Route = createFileRoute("/profile")({
   component: ProfileScreen,
 });
 
 const UX_TOOLS_STORAGE_KEY = "dama:uxToolsEnabled";
+const DEFAULT_SETTINGS = { language: "en" as const };
+const EMPTY_UX_LOG: ReturnType<typeof readUxLog> = [];
 
 function ProfileScreen() {
   const search = Route.useSearch() as { devtools?: string };
@@ -31,7 +34,9 @@ function ProfileScreen() {
   const [editError, setEditError] = useState<string | null>(null);
   const [uxToolsEnabled, setUxToolsEnabled] = useState(false);
 
-  const uxLog = useSyncExternalStore(subscribeUxLog, readUxLog, () => []);
+  const settings = useSyncExternalStore(subscribeSettings, readSettings, () => DEFAULT_SETTINGS);
+
+  const uxLog = useSyncExternalStore(subscribeUxLog, readUxLog, () => EMPTY_UX_LOG);
   const recentUx = useMemo(() => {
     const arr = Array.isArray(uxLog) ? uxLog : [];
     return arr.slice(Math.max(0, arr.length - 25)).reverse();
@@ -153,8 +158,31 @@ function ProfileScreen() {
           </p>
         ) : null}
 
-        {supabaseReady && user && profileAvailable && !usernameLocked ? (
-          <div className="mt-6 text-left">
+        <div className="mt-6 text-left space-y-6">
+          <div className="glass rounded-2xl p-4">
+            <div className="label-mono text-muted-foreground">Preferences</div>
+            <div className="mt-4 space-y-2">
+              <Label htmlFor="app-language">App Language</Label>
+              <select
+                id="app-language"
+                value={settings.language}
+                onChange={(e) => {
+                  const val = e.target.value as "en" | "ja";
+                  updateSettings({ language: val });
+                  trackUxEvent("settings_language_change", { language: val });
+                }}
+                className="w-full rounded-2xl bg-background/30 border border-border/60 px-4 py-3 text-sm font-medium text-foreground/90 focus:outline-none focus:ring-1 focus:ring-primary"
+              >
+                <option value="en">English</option>
+                <option value="ja">日本語 (Japanese)</option>
+              </select>
+              <p className="text-xs text-muted-foreground">
+                Sets the default language for suttas when a translation is available.
+              </p>
+            </div>
+          </div>
+
+          {supabaseReady && user && profileAvailable && !usernameLocked ? (
             <div className="glass rounded-2xl p-4">
               <div className="label-mono text-muted-foreground">Account</div>
               <form
@@ -213,8 +241,8 @@ function ProfileScreen() {
                 ) : null}
               </form>
             </div>
-          </div>
-        ) : null}
+          ) : null}
+        </div>
 
         {showDevTools && uxToolsEnabled ? (
           <div className="mt-4 text-left">

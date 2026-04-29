@@ -64,6 +64,9 @@ export const AN_BOOK_TITLES: Record<number, string> = {
   11: "Book of Elevens",
 };
 
+export const DEFAULT_AN_BOOK = "1";
+export const DEFAULT_SUTTA_ID = "AN 1.18.13";
+
 export type ItemDetail = {
   suttaid: string;
   title?: string;

@@ -3,7 +3,7 @@ import { useEffect, useMemo, useState, useSyncExternalStore } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
 import { RelevantSuttaStrip } from "@/components/RelevantSuttaStrip";
 import { AudioPlayer } from "@/components/AudioPlayer";
-import { an148Quiz } from "@/data/an148Quiz";
+import { getSuttaQuiz } from "@/data/suttaQuizzes";
 import { getCorpusAudSrc, getItem } from "@/lib/damaApi";
 import {
   answerLeaf,
@@ -27,19 +27,18 @@ function normalizeParam(raw: string | undefined): string {
 export const Route = createFileRoute("/quiz/$suttaId")({
   component: QuizScreen,
   head: () => ({
-    meta: [
-      { title: "Quiz — DAMA" },
-      { name: "description", content: "Reflection MCQ." },
-    ],
+    meta: [{ title: "Quiz — DAMA" }, { name: "description", content: "Reflection MCQ." }],
   }),
 });
+
+const EMPTY_LEAVES = {};
 
 function QuizScreen() {
   const { suttaId } = Route.useParams();
   const id = useMemo(() => normalizeParam(suttaId), [suttaId]);
   const navigate = useNavigate();
 
-  const leaves = useSyncExternalStore(subscribeLeaves, readLeaves, () => ({}));
+  const leaves = useSyncExternalStore(subscribeLeaves, readLeaves, () => EMPTY_LEAVES);
   const leaf = useMemo(() => {
     if (!id) return null;
     const base = leaves[id] ?? null;
@@ -53,17 +52,18 @@ function QuizScreen() {
   }, [id]);
 
   const quiz = useMemo(() => {
-    if (id === "1.48" || id === "AN 1.48") return an148Quiz;
-    return null;
+    return getSuttaQuiz(id);
   }, [id]);
 
   const [picked, setPicked] = useState<string>("");
-  const [itemAudio, setItemAudio] = useState<{ src: string; start: number; end: number } | null>(null);
+  const [itemAudio, setItemAudio] = useState<{ src: string; start: number; end: number } | null>(
+    null,
+  );
 
-  const audioEnabled = leaf?.state === "yellow";
+  const hasTeacherClip = Boolean(quiz?.teacherClip);
 
   const loadAudio = async () => {
-    if (!audioEnabled || itemAudio || !id) return;
+    if (!hasTeacherClip || itemAudio || !id) return;
     try {
       const it = await getItem(id);
       const src = it.aud_file ? getCorpusAudSrc(it.aud_file) : "";
@@ -74,6 +74,12 @@ function QuizScreen() {
       // ignore
     }
   };
+
+  useEffect(() => {
+    if (!hasTeacherClip) return;
+    void loadAudio();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [hasTeacherClip, id]);
 
   if (!id.trim()) {
     return (
@@ -108,7 +114,9 @@ function QuizScreen() {
         <div className="px-5 pt-6">
           <div className="glass rounded-2xl p-4">
             <div className="label-mono text-muted-foreground">Quiz not found</div>
-            <p className="mt-2 text-sm text-muted-foreground">This sutta doesn’t have an MCQ yet.</p>
+            <p className="mt-2 text-sm text-muted-foreground">
+              This sutta doesn’t have an MCQ yet.
+            </p>
           </div>
         </div>
       </div>
@@ -135,21 +143,14 @@ function QuizScreen() {
         <div className="label-mono text-primary">{id}</div>
         <h1 className="mt-2 text-[18px] leading-snug font-semibold tracking-tight">{quiz.quote}</h1>
 
-        {leaf.state === "yellow" ? (
+        {quiz.teacherClip ? (
           <div className="mt-4 glass rounded-2xl p-4">
             <div className="label-mono text-muted-foreground">Teacher</div>
             <p className="mt-2 text-sm text-muted-foreground">
-              Pick the teacher-aligned interpretation to fix this leaf as gold.
+              Listen to the teacher micro-clip, then pick the closest interpretation.
             </p>
-            <button
-              type="button"
-              className="mt-3 rounded-xl glass px-4 py-2 text-sm font-medium"
-              onClick={() => void loadAudio()}
-            >
-              Load audio
-            </button>
             {quiz.teacherClip && itemAudio ? (
-              <div className="mt-4">
+              <div className="mt-4 space-y-3">
                 <AudioPlayer
                   src={itemAudio.src}
                   label={quiz.teacherClip.label}
@@ -157,8 +158,40 @@ function QuizScreen() {
                   end={quiz.teacherClip.endS}
                   suttaId={id}
                 />
+                {quiz.japaneseAudio ? (
+                  <div className="glass rounded-2xl p-4">
+                    <div className="text-sm font-medium">{quiz.japaneseAudio.label}</div>
+                    <audio
+                      controls
+                      preload="metadata"
+                      src={quiz.japaneseAudio.src}
+                      className="mt-3 w-full"
+                    />
+                  </div>
+                ) : null}
               </div>
-            ) : null}
+            ) : (
+              <div className="mt-3 space-y-3">
+                <button
+                  type="button"
+                  className="rounded-xl glass px-4 py-2 text-sm font-medium"
+                  onClick={() => void loadAudio()}
+                >
+                  Load audio
+                </button>
+                {quiz.japaneseAudio ? (
+                  <div className="glass rounded-2xl p-4">
+                    <div className="text-sm font-medium">{quiz.japaneseAudio.label}</div>
+                    <audio
+                      controls
+                      preload="metadata"
+                      src={quiz.japaneseAudio.src}
+                      className="mt-3 w-full"
+                    />
+                  </div>
+                ) : null}
+              </div>
+            )}
           </div>
         ) : null}
 
@@ -195,7 +228,7 @@ function QuizScreen() {
         </button>
       </div>
 
-      <RelevantSuttaStrip suttaId={id} audioEnabled={audioEnabled} />
+      <RelevantSuttaStrip suttaId={id} audioEnabled={hasTeacherClip} />
     </div>
   );
 }

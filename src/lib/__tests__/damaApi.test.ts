@@ -12,6 +12,8 @@ describe("damaApi pure helpers", () => {
 
   it("extracts AN and other nikaya book numbers", async () => {
     const mod = await import("../damaApi");
+    expect(mod.DEFAULT_AN_BOOK).toBe("1");
+    expect(mod.DEFAULT_SUTTA_ID).toBe("AN 1.18.13");
     expect(mod.anBookFromSuttaId("AN 11.16")).toBe(11);
     expect(mod.anBookFromSuttaId("12.1")).toBeNull();
     expect(mod.otherNikayaBookFromSuttaId("SN 2.5")).toBe(2);

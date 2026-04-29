@@ -4,6 +4,7 @@ import { RefreshCw } from "lucide-react";
 import {
   anBookFromSuttaId,
   AN_BOOK_TITLES,
+  DEFAULT_AN_BOOK,
   filterItemsByNikaya,
   filterItemsByNikayaBook,
   filterItemsByNipata,
@@ -28,7 +29,7 @@ function sortSuttaIds(items: ItemSummary[]) {
 export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string }) {
   const navigate = useNavigate();
   const [nikaya, setNikaya] = useState<NikayaId>("AN");
-  const [book, setBook] = useState<string>("11");
+  const [book, setBook] = useState<string>(DEFAULT_AN_BOOK);
   const [rawItems, setRawItems] = useState<ItemSummary[]>([]);
   const [load, setLoad] = useState<LoadState>("loading");
   const [retryKey, setRetryKey] = useState(0);
