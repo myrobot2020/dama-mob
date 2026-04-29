@@ -2,7 +2,6 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { useEffect, useMemo, useState } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
 import { CorpusHeaderNav } from "@/components/CorpusHeaderNav";
-import { BottomNav } from "@/components/BottomNav";
 import {
   AN_NIPATA_OPTIONS,
   filterItemsByNikaya,
@@ -175,7 +174,6 @@ function BrowseScreen() {
           </div>
         </div>
       </div>
-      <BottomNav />
     </div>
   );
 }

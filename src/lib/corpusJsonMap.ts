@@ -48,6 +48,38 @@ function normalizeSuttaIdDisplay(raw: string): string {
   return s;
 }
 
+function quizFromRaw(raw: unknown): ItemDetail["quiz"] | undefined {
+  if (!raw || typeof raw !== "object") return undefined;
+  const obj = raw as Record<string, unknown>;
+  const optionsRaw = obj.options;
+  if (!Array.isArray(optionsRaw)) return undefined;
+  const options = optionsRaw
+    .map((option) => {
+      if (!option || typeof option !== "object") return null;
+      const it = option as Record<string, unknown>;
+      const id = String(it.id ?? "").trim();
+      const title = String(it.title ?? "").trim();
+      const body = String(it.body ?? "").trim();
+      if (!id || !title || !body) return null;
+      return { id, title, body };
+    })
+    .filter((option): option is { id: string; title: string; body: string } => option != null);
+
+  const suttaId = String(obj.suttaId ?? obj.sutta_id ?? obj.suttaid ?? "").trim();
+  const quote = String(obj.quote ?? "").trim();
+  const goldOptionId = String(obj.goldOptionId ?? obj.gold_option_id ?? "").trim();
+  if (!suttaId || !quote || options.length !== 4 || !goldOptionId) return undefined;
+  if (!options.some((option) => option.id === goldOptionId)) return undefined;
+
+  return {
+    suttaId,
+    quote,
+    options,
+    goldOptionId,
+    teacherSummary: String(obj.teacherSummary ?? obj.teacher_summary ?? "").trim() || undefined,
+  };
+}
+
 export function rawJsonToItemDetail(obj: Record<string, unknown>): ItemDetail {
   const sidRaw = String(obj.sutta_id ?? obj.suttaid ?? "").trim();
   const suttaid = normalizeSuttaIdDisplay(sidRaw);
@@ -80,6 +112,7 @@ export function rawJsonToItemDetail(obj: Record<string, unknown>): ItemDetail {
     youtube_url: String(obj.youtube_url ?? "").trim() || undefined,
     youtube_video_id: String(obj.youtube_video_id ?? "").trim() || undefined,
     chain: (obj.chain && typeof obj.chain === "object" ? obj.chain : null) as ItemDetail["chain"],
+    quiz: quizFromRaw(obj.quiz),
     valid,
   };
 }

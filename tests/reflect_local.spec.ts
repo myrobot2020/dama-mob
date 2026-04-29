@@ -20,6 +20,12 @@ test("BuddhaBot reflection flow returns an answer", async ({ page }) => {
 
   // Wait for hydration/assets so controls are interactive in headless runs.
   await page.goto(`${BASE}/reflect`, { waitUntil: "networkidle" });
+  await page.evaluate(() => {
+    localStorage.setItem(
+      "dama:readingProgress",
+      JSON.stringify({ "11.16": { readAtMs: Date.now() } }),
+    );
+  });
 
   const textarea = page.locator("textarea").first();
   await textarea.fill("Today I felt scattered and impatient. I want to be kinder.");

@@ -2,8 +2,6 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
 import { CorpusHeaderNav } from "@/components/CorpusHeaderNav";
-import { BookOfOnesInterpretations } from "@/components/BookOfOnesInterpretations";
-import { BottomNav } from "@/components/BottomNav";
 import { NextSuttaStrip } from "@/components/NextSuttaStrip";
 import { SuttaInterpretLink } from "@/components/SuttaInterpretLink";
 import { CanonQuote } from "@/components/CanonQuote";
@@ -19,7 +17,7 @@ import {
 } from "@/lib/readingProgress";
 import { trackUxEvent } from "@/lib/uxLog";
 import { readSettings, subscribeSettings } from "@/lib/settings";
-import { Check, Hexagon, Languages, Trees } from "lucide-react";
+import { Check, Hexagon, Languages } from "lucide-react";
 
 import {
   canonIndexSubtitle,
@@ -136,7 +134,7 @@ function SuttaByIdScreen() {
   };
 
   return (
-    <div className="min-h-screen dama-screen">
+    <div className="min-h-screen dama-screen pb-[calc(5rem+env(safe-area-inset-bottom,0px))]">
       <ScreenHeader
         center={<CorpusHeaderNav currentSuttaId={id} />}
         right={
@@ -151,15 +149,6 @@ function SuttaByIdScreen() {
                 {lang === "en" ? "日本語" : "EN"}
               </button>
             )}
-            <Link
-              to="/tree"
-              search={{ focus: id }}
-              className="size-9 rounded-full glass flex items-center justify-center shrink-0"
-              aria-label="Open Tree"
-              title="Open Tree"
-            >
-              <Trees size={16} />
-            </Link>
           </div>
         }
       />
@@ -298,12 +287,16 @@ function SuttaByIdScreen() {
 
             <div className="mt-8 mb-4">
               <SuttaInterpretLink suttaId={id} />
-              <BookOfOnesInterpretations currentSuttaId={id} />
             </div>
           </>
         )}
       </div>
-      <BottomNav topSlot={<NextSuttaStrip />} />
+      <div
+        className="fixed bottom-0 inset-x-0 z-50 px-3 pt-2 bg-background border-t border-border/60"
+        style={{ paddingBottom: "calc(0.75rem + env(safe-area-inset-bottom, 0px))" }}
+      >
+        <NextSuttaStrip />
+      </div>
     </div>
   );
 }

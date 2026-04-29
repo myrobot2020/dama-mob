@@ -18,5 +18,16 @@ describe("suttaQuizzes", () => {
     expect(getSuttaQuiz("AN 1.19")?.goldOptionId).toBe("rare-receptivity");
     expect(getSuttaQuiz("1.19")?.goldOptionId).toBe("rare-receptivity");
     expect(getSuttaQuiz("AN 1.48")?.goldOptionId).toBe("trainability");
+    expect(getSuttaQuiz("AN 11.6")?.goldOptionId).toBe("respect-noble-ones");
+  });
+
+  it("shows teacher summaries for the Book of Ones quizzes instead of teacher clips", () => {
+    const bookOfOnes = suttaQuizzes.filter((quiz) => quiz.suttaId.startsWith("AN 1."));
+
+    expect(bookOfOnes).toHaveLength(5);
+    for (const quiz of bookOfOnes) {
+      expect(quiz.teacherClip).toBeUndefined();
+      expect(quiz.teacherSummary?.length).toBeGreaterThan(80);
+    }
   });
 });

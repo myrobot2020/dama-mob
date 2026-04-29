@@ -28,6 +28,8 @@ export const an1Quizzes: SuttaQuiz[] = [
       },
     ],
     goldOptionId: "existence-burden",
+    teacherSummary:
+      "The teacher is pointing to the burden of conditioned existence itself. Even a tiny interval of becoming carries dukkha, so the image is not merely about disgust; it is about seeing why the path aims beyond continued existence.",
   },
   {
     suttaId: "AN 1.19",
@@ -56,6 +58,8 @@ export const an1Quizzes: SuttaQuiz[] = [
       },
     ],
     goldOptionId: "rare-receptivity",
+    teacherSummary:
+      "Few people welcome the Dhamma-Vinaya because it asks them to face the truth of existence, and that truth can be painful to hear. Most prefer what they like to believe, so even when a Buddha teaches, few listen deeply and fewer still practise.",
   },
   {
     suttaId: "AN 1.19.2",
@@ -84,6 +88,8 @@ export const an1Quizzes: SuttaQuiz[] = [
       },
     ],
     goldOptionId: "urgency",
+    teacherSummary:
+      "Most beings do not return to fortunate destinations after death. Humans and devas often fall into the woeful planes, and beings in those planes usually remain there. That makes heedless ordinary life dangerous and gives practice real urgency.",
   },
   {
     suttaId: "AN 1.20.1",
@@ -112,6 +118,8 @@ export const an1Quizzes: SuttaQuiz[] = [
       },
     ],
     goldOptionId: "practice-supports",
+    teacherSummary:
+      "These are real gains because they support the holy life: seclusion, alms, simple robes, teaching Dhamma, Vinaya, knowledge, good conduct, contentment, pleasant speech, and health. They simplify life, wear down ego, and help the Dhamma continue.",
   },
   {
     suttaId: "AN 1.20.2",
@@ -140,5 +148,7 @@ export const an1Quizzes: SuttaQuiz[] = [
       },
     ],
     goldOptionId: "small-collectedness",
+    teacherSummary:
+      "The Buddha praises even a finger-snap of genuine first jhana. A new jhana may last only briefly, but with cultivation it becomes steadier. The point is that collectedness is valuable even in a small, real moment.",
   },
 ];

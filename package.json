@@ -23,6 +23,8 @@
     "pipe2:cleaning": "python -m uv run python scripts2/pipeline.py --from-stage cleaning --to-stage cleaning",
     "pipe2:validation": "python -m uv run python scripts2/pipeline.py --from-stage validation --to-stage validation",
     "pipe2:tally": "python -m uv run python scripts2/pipeline.py --from-stage tally --to-stage tally",
+    "translate:ja": "python scripts2/16_translate_ja.py",
+    "translate:ja:check": "python scripts2/16_translate_ja.py --check",
     "verify": "npm run build && npm run pipe2:tally",
     "ci": "npm run test && npm run test:e2e && npm run build",
     "lint": "eslint .",

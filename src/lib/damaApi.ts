@@ -93,6 +93,15 @@ export type ItemDetail = {
     is_ordered?: boolean;
     category?: string;
   } | null;
+  quiz?: {
+    suttaId: string;
+    quote: string;
+    options: { id: string; title: string; body: string }[];
+    goldOptionId: string;
+    teacherSummary?: string;
+    teacherClip?: { startS: number; endS: number; label: string };
+    japaneseAudio?: { label: string; src: string; text: string };
+  };
 };
 
 /** First segment of dotted id: "7.4.38" -> 7, "11.16" -> 11; strips leading "AN ". */

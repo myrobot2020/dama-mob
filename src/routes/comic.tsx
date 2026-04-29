@@ -2,7 +2,6 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 import { sutta } from "@/data/an1116";
 import { ScreenHeader } from "@/components/ScreenHeader";
-import { BottomNav } from "@/components/BottomNav";
 
 export const Route = createFileRoute("/comic")({
   head: () => ({
@@ -43,7 +42,6 @@ function ComicScreen() {
           ))}
         </div>
       </div>
-      <BottomNav />
     </div>
   );
 }

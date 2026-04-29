@@ -25,6 +25,18 @@ describe("corpusJsonMap", () => {
       aud_start_s: "3",
       aud_end_s: "8",
       chain: { count: 2 },
+      quiz: {
+        suttaId: "AN 1.48",
+        quote: "Mind changes quickly.",
+        options: [
+          { id: "a", title: "A", body: "A body" },
+          { id: "b", title: "B", body: "B body" },
+          { id: "c", title: "C", body: "C body" },
+          { id: "d", title: "D", body: "D body" },
+        ],
+        goldOptionId: "a",
+        teacherSummary: "Teacher explanation.",
+      },
     });
 
     expect(detail).toMatchObject({
@@ -38,7 +50,14 @@ describe("corpusJsonMap", () => {
       aud_start_s: 3,
       aud_end_s: 8,
       chain: { count: 2 },
+      quiz: {
+        suttaId: "AN 1.48",
+        quote: "Mind changes quickly.",
+        goldOptionId: "a",
+        teacherSummary: "Teacher explanation.",
+      },
     });
+    expect(detail.quiz?.options).toHaveLength(4);
   });
 
   it("maps non-AN commentary ids and valid false values", () => {

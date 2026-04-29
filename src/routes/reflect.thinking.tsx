@@ -1,18 +1,21 @@
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
-import { BottomNav } from "@/components/BottomNav";
 import heroImg from "@/assets/reflection-hero.jpg";
 import { postDamaQuery, REFLECTION_QUERY_STORAGE_KEY } from "@/lib/damaApi";
+import { loadReadSuttaContexts, type ReadSuttaContext } from "@/lib/readSuttaContext";
+import { getReadSuttaIds, readReadingProgress } from "@/lib/readingProgress";
 
 async function postLocalLlmReflection(
   reflection: string,
   bot: string,
+  readSuttaIds: string[],
+  readSuttas: ReadSuttaContext[],
 ): Promise<{ answer: string; model?: string; provider?: string }> {
   const resp = await fetch("/__llm/reflection", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ reflection, bot }),
+    body: JSON.stringify({ reflection, bot, readSuttaIds, readSuttas }),
   });
 
   if (!resp.ok) {
@@ -33,7 +36,9 @@ function ThinkingScreen() {
   const [status, setStatus] = useState<"loading" | "error">("loading");
   const [errorMsg, setErrorMsg] = useState("");
 
-  const normalizeMode = (raw: string): "dama" | "simulation" | "buddha" | "psychologist" | "social" | "feminine" => {
+  const normalizeMode = (
+    raw: string,
+  ): "dama" | "simulation" | "buddha" | "psychologist" | "social" | "feminine" => {
     const v = (raw || "").trim().toLowerCase();
     if (v === "buddhabot") return "buddha";
     if (
@@ -71,7 +76,15 @@ function ThinkingScreen() {
     (async () => {
       try {
         if (mode !== "dama") {
-          const data = await postLocalLlmReflection(q, mode);
+          const readSuttaIds = getReadSuttaIds(readReadingProgress());
+          if (readSuttaIds.length === 0) {
+            throw new Error("Mark at least one sutta as read before asking the bot.");
+          }
+          const readSuttas = await loadReadSuttaContexts(readSuttaIds, q, ac.signal);
+          if (readSuttas.length === 0) {
+            throw new Error("Could not load the suttas marked as read.");
+          }
+          const data = await postLocalLlmReflection(q, mode, readSuttaIds, readSuttas);
           if (timedOut) return;
           localStorage.setItem(
             REFLECTION_QUERY_STORAGE_KEY,
@@ -79,7 +92,10 @@ function ThinkingScreen() {
               ok: true,
               answer: data.answer,
               used_llm: true,
-              chunks: [],
+              chunks: readSuttas.map((s) => ({
+                suttaid: s.suttaid,
+                text: s.text.slice(0, 400),
+              })),
               mode,
             }),
           );
@@ -90,19 +106,19 @@ function ThinkingScreen() {
 
         const data = await postDamaQuery(q, ac.signal);
         if (timedOut) return;
-          localStorage.setItem(
-            REFLECTION_QUERY_STORAGE_KEY,
-            JSON.stringify({
-              ok: true,
-              answer: data.answer,
-              used_llm: data.used_llm,
+        localStorage.setItem(
+          REFLECTION_QUERY_STORAGE_KEY,
+          JSON.stringify({
+            ok: true,
+            answer: data.answer,
+            used_llm: data.used_llm,
             chunks: (data.chunks || []).slice(0, 5).map((c) => ({
               suttaid: c.suttaid,
               text: (c.text || "").slice(0, 400),
             })),
-              mode: "dama5",
-            }),
-          );
+            mode: "dama5",
+          }),
+        );
         window.clearTimeout(timeout);
         navigate({ to: "/reflect/answer", replace: true });
       } catch (e) {
@@ -154,7 +170,7 @@ function ThinkingScreen() {
           </div>
           <p className="mt-8 text-center text-sm text-muted-foreground max-w-xs">
             {status === "error"
-              ? "Could not reach the Dhamma server. Check that dama5 is running (port 8000) and try again."
+              ? "Could not prepare an AI answer. Check the detail below and try again."
               : "Analyzing your reflection with Dhamma wisdom..."}
           </p>
           {status === "error" && errorMsg && (
@@ -173,7 +189,6 @@ function ThinkingScreen() {
           )}
         </div>
       </div>
-      <BottomNav />
     </div>
   );
 }

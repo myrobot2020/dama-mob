@@ -41,7 +41,8 @@ function getOutputText(r: OpenAIResponsesResult): string {
 }
 
 const inputSchema = z.object({
-  reflection: z.string().trim().min(1).max(10_000),
+  prompt: z.string(),
+  systemPrompt: z.string(),
 });
 
 export const postOpenAiReflection = createServerFn({ method: "POST" })
@@ -54,25 +55,11 @@ export const postOpenAiReflection = createServerFn({ method: "POST" })
 
     const model = (process.env.OPENAI_REFLECTION_MODEL ?? "").trim() || "gpt-4o-mini";
 
-    const system = [
-      "You are BuddhaBot inside a Dhamma reflection app.",
-      "Goal: help the user reflect with calm, practical steps and kindness.",
-      "Constraints:",
-      "- Keep it grounded in Aṅguttara Nikāya (AN) themes; avoid citing other Nikāyas.",
-      "- Do not claim to quote texts; focus on practice-oriented guidance.",
-      "- Ask 1 gentle follow-up question at the end.",
-      "Format:",
-      "- Short title",
-      "- 4–7 bullet insights",
-      "- 3-step practice for tonight",
-      "- One follow-up question",
-    ].join("\n");
-
     const body: OpenAIResponsesCreate = {
       model,
       input: [
-        { role: "system", content: [{ type: "input_text", text: system }] },
-        { role: "user", content: [{ type: "input_text", text: data.reflection.trim() }] },
+        { role: "system", content: [{ type: "input_text", text: data.systemPrompt }] },
+        { role: "user", content: [{ type: "input_text", text: data.prompt }] },
       ],
       max_output_tokens: 700,
     };

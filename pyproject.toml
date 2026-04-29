@@ -8,3 +8,10 @@ dependencies = [
   "yt-dlp",
   "google-cloud-storage",
 ]
+
+[project.optional-dependencies]
+translate-ja = [
+  "sentencepiece",
+  "torch",
+  "transformers",
+]

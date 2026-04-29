@@ -2,7 +2,6 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react";
 import { User } from "lucide-react";
 
-import { BottomNav } from "@/components/BottomNav";
 import { ScreenHeader } from "@/components/ScreenHeader";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -337,7 +336,6 @@ function ProfileScreen() {
         </div>
         ) : null}
       </div>
-      <BottomNav />
     </div>
   );
 }

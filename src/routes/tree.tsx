@@ -1,7 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
-import { BottomNav } from "@/components/BottomNav";
 import { AN_BOOK_TITLES, getItems, NIKAYA_OPTIONS, type ItemSummary } from "@/lib/damaApi";
 import { ensureLeaf, readLeaves, subscribeLeaves, upsertHydratedLeaf } from "@/lib/leaves";
 import {
@@ -269,7 +268,6 @@ function TreeScreen() {
           )}
         </div>
       </div>
-      <BottomNav />
     </div>
   );
 }

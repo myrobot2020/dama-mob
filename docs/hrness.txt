@@ -1,0 +1,31 @@
+#	Layer	% Done	Not Done
+1	Input / Command Layer	0%	Define accepted inputs: commands, prompts, API requests, UI triggers
+2	Intent Parser	0%	Convert raw input into structured intent
+3	Planner / Task Decomposer	0%	Break intent into ordered executable steps
+4	Orchestrator / Control Loop	0%	Manage execution flow and state transitions
+5	Tool Layer	0%	Define external capabilities: shell, files, APIs, DB, browser, DAMA tools
+6	Tool Router	0%	Map task steps to the correct capability
+7	Execution Engine	0%	Run steps with retries, parallelism, and timeouts
+8	State Manager / Short-term Memory	0%	Track current task state and intermediate outputs
+9	Long-term Memory	0%	Add vector, structured, and episodic memory
+10	Retrieval Layer	0%	Fetch, rank, and filter relevant context
+11	Model Layer	0%	Configure LLMs, embedding models, rerankers
+12	Prompt Builder / Context Assembler	0%	Merge instructions, memory, and retrieved data
+13	Output Parser	0%	Convert model/tool output into structured data
+14	Validation Layer	0%	Add schema, rule, and domain validation
+15	Guardrails	0%	Define allowed tools, forbidden actions, boundaries
+16	Feedback / Evaluation Loop	0%	Judge quality and decide retry/replan/escalate
+17	Error Handler	0%	Catch failures and choose retry/fallback/abort
+18	Logging & Tracing	0%	Record inputs, decisions, tool calls, outputs
+19	Monitoring & Metrics	0%	Track latency, success rate, cost, accuracy
+20	Configuration Layer	0%	Define model choice, thresholds, retry limits
+21	Security Layer	0%	Add auth, permissions, secrets handling
+22	Trigger System	0%	Support user, scheduled, and event-driven starts
+23	Ingestion / Indexing Pipeline	0%	Acquire, clean, structure, embed, and index data
+24	Knowledge Base	0%	Store documents, transcripts, codebase data
+25	Versioning Layer	0%	Track prompts, models, datasets
+26	Simulation / Testing Layer	0%	Add scenarios, stress tests, regression tests
+27	Human-in-the-loop Interface	0%	Add approval, corrections, overrides
+28	Output Layer	0%	Format final outputs as text, JSON, or UI render
+29	UI / API Layer	0%	Expose system through UI and API
+30	Agent Framework	0%	Wrap layers into reusable agents

@@ -35,6 +35,50 @@ export function getNextSuttaInBook(items: ItemSummary[], currentSuttaId: string)
   return list[idx + 1] ?? null;
 }
 
+export function getPreviousSuttaInBook(
+  items: ItemSummary[],
+  currentSuttaId: string,
+): ItemSummary | null {
+  const list = getSuttasInSameBook(items, currentSuttaId);
+  const idx = list.findIndex((x) => x.suttaid === currentSuttaId);
+  if (idx <= 0) return null;
+  return list[idx - 1] ?? null;
+}
+
+export function getSuttasInSameNikaya(items: ItemSummary[], currentSuttaId: string): ItemSummary[] {
+  return sortSuttaIds(filterItemsByNikaya(items, inferNikayaFromSuttaId(currentSuttaId)));
+}
+
+export function getNextSuttaInNikaya(
+  items: ItemSummary[],
+  currentSuttaId: string,
+): ItemSummary | null {
+  const list = getSuttasInSameNikaya(items, currentSuttaId);
+  const idx = list.findIndex((x) => x.suttaid === currentSuttaId);
+  if (idx < 0) return null;
+  return list[idx + 1] ?? null;
+}
+
+export function getPreviousSuttaInNikaya(
+  items: ItemSummary[],
+  currentSuttaId: string,
+): ItemSummary | null {
+  const list = getSuttasInSameNikaya(items, currentSuttaId);
+  const idx = list.findIndex((x) => x.suttaid === currentSuttaId);
+  if (idx <= 0) return null;
+  return list[idx - 1] ?? null;
+}
+
+export function getSuttaPositionInBook(
+  items: ItemSummary[],
+  suttaId: string,
+): { position: number; total: number } | null {
+  const list = getSuttasInSameBook(items, suttaId);
+  const idx = list.findIndex((x) => x.suttaid === suttaId);
+  if (idx < 0) return null;
+  return { position: idx + 1, total: list.length };
+}
+
 export function getFirstSuttaGlobally(items: ItemSummary[]): ItemSummary | null {
   const sorted = sortSuttaIds(items);
   return sorted[0] ?? null;

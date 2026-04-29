@@ -88,11 +88,20 @@ type GeminiGenerateContentResponse = {
 };
 
 function getGeminiText(r: GeminiGenerateContentResponse): string {
-  const t = r?.candidates?.[0]?.content?.parts?.map((p) => p.text ?? "").join("").trim();
+  const t = r?.candidates?.[0]?.content?.parts
+    ?.map((p) => p.text ?? "")
+    .join("")
+    .trim();
   return t || "";
 }
 
 type ReflectionBot = "simulation" | "buddha" | "psychologist" | "social" | "feminine";
+
+type ReadSuttaContext = {
+  suttaid?: unknown;
+  title?: unknown;
+  text?: unknown;
+};
 
 function normalizeBot(raw: unknown): ReflectionBot {
   const v = typeof raw === "string" ? raw.trim().toLowerCase() : "";
@@ -109,12 +118,64 @@ function normalizeBot(raw: unknown): ReflectionBot {
   return "buddha";
 }
 
-function systemPromptForBot(bot: ReflectionBot): string {
+function normalizeReadSuttaIds(raw: unknown): string[] {
+  if (!Array.isArray(raw)) return [];
+  return Array.from(
+    new Set(raw.map((id) => (typeof id === "string" ? id.trim() : "")).filter(Boolean)),
+  ).slice(0, 200);
+}
+
+function normalizeReadSuttas(
+  raw: unknown,
+): Array<{ suttaid: string; title?: string; text: string }> {
+  if (!Array.isArray(raw)) return [];
+  return raw
+    .map((item: ReadSuttaContext) => ({
+      suttaid: typeof item?.suttaid === "string" ? item.suttaid.trim() : "",
+      title: typeof item?.title === "string" ? item.title.trim() : undefined,
+      text: typeof item?.text === "string" ? item.text.trim() : "",
+    }))
+    .filter((item) => item.suttaid && item.text)
+    .slice(0, 8)
+    .map((item) => ({ ...item, text: item.text.slice(0, 2_000) }));
+}
+
+function readSuttaGroundingPrompt(
+  readSuttaIds: string[],
+  readSuttas: Array<{ suttaid: string; title?: string; text: string }>,
+): string {
+  const allowed = readSuttaIds.length ? readSuttaIds.join(", ") : "(none)";
+  const excerpts = readSuttas
+    .map((s, idx) =>
+      [`Excerpt ${idx + 1}`, `Sutta: ${s.suttaid}${s.title ? ` - ${s.title}` : ""}`, s.text].join(
+        "\n",
+      ),
+    )
+    .join("\n\n---\n\n");
+
+  return [
+    "Read-sutta boundary:",
+    `- The user has marked only these suttas as read: ${allowed}.`,
+    "- Answer only from the marked-read suttas and excerpts supplied below.",
+    "- Do not use outside scripture, general Buddhist knowledge, or unstated claims.",
+    "- If the supplied marked-read suttas do not support an answer, say that the marked-read suttas do not contain enough basis yet, then suggest reading/marking more suttas.",
+    "- Mention the relevant sutta id(s) you used.",
+    "",
+    "Marked-read excerpts:",
+    excerpts,
+  ].join("\n");
+}
+
+function systemPromptForBot(
+  bot: ReflectionBot,
+  readSuttaIds: string[],
+  readSuttas: Array<{ suttaid: string; title?: string; text: string }>,
+): string {
   const shared = [
     "You are an in-app reflection assistant.",
     "Goal: help the user reduce suffering and increase clarity and kindness.",
     "Rules:",
-    "- Do not claim to quote any scripture or book.",
+    "- Do not claim to quote any scripture or book unless exact words are present in the supplied excerpts.",
     "- Be gentle, practical, and concise.",
     "- Never shame the user; encourage non-harm toward self and others.",
     "- End with 1 thoughtful follow-up question.",
@@ -124,13 +185,15 @@ function systemPromptForBot(bot: ReflectionBot): string {
     "- 3-step practice for tonight",
     "- One follow-up question",
   ].join("\n");
+  const grounding = readSuttaGroundingPrompt(readSuttaIds, readSuttas);
 
   switch (bot) {
     case "buddha":
       return [
         "Persona: Buddha Bot.",
-        "Grounding: early Buddhist teachings (Nikāyas): intention, craving, impermanence, non-harm, mindfulness.",
-        "Avoid modern jargon and dogma. Invite introspection.",
+        "Grounding: the user's marked-read suttas only.",
+        "Avoid modern jargon and dogma. Invite introspection without adding unsupported doctrine.",
+        grounding,
         shared,
       ].join("\n\n");
     case "psychologist":
@@ -140,14 +203,16 @@ function systemPromptForBot(bot: ReflectionBot): string {
         "Constraints:",
         "- Do not diagnose or claim to be a licensed professional.",
         "- If the user seems at risk of self-harm, urge them to seek immediate local help.",
-        "Focus on emotions, thoughts, behaviors, and values; offer one small experiment for tonight.",
+        "Focus on emotions, thoughts, behaviors, and values only where the supplied marked-read suttas support the reflection.",
+        grounding,
         shared,
       ].join("\n\n");
     case "social":
       return [
         "Persona: Social Cohesion Bot.",
-        "Focus: empathy, repairing trust, good speech, and actions that reduce conflict.",
-        "Avoid politics. Encourage generosity, patience, and clear communication.",
+        "Focus: empathy, repairing trust, good speech, and actions that reduce conflict, only within the supplied marked-read suttas.",
+        "Avoid politics.",
+        grounding,
         shared,
       ].join("\n\n");
     case "simulation":
@@ -156,7 +221,8 @@ function systemPromptForBot(bot: ReflectionBot): string {
         "Style: curious and imaginative, but grounded.",
         "Constraints:",
         "- Treat 'simulation' as a metaphor/hypothesis, not a proven fact.",
-        "- Always bring the user back to what is felt here-and-now: intention, attention, suffering, kindness.",
+        "- Always bring the user back to what is supported by the supplied marked-read suttas.",
+        grounding,
         shared,
       ].join("\n\n");
     case "feminine":
@@ -165,7 +231,8 @@ function systemPromptForBot(bot: ReflectionBot): string {
         "Style: tender, nurturing, steady.",
         "Constraints:",
         "- Avoid stereotypes, flirting, or sexual content.",
-        "- Offer compassion and boundaries; encourage self-respect and non-harm.",
+        "- Offer compassion and boundaries only from the supplied marked-read sutta basis.",
+        grounding,
         shared,
       ].join("\n\n");
   }
@@ -274,12 +341,24 @@ export function openaiReflectionDevMiddleware(): Plugin {
           const isAuto = url === "/__llm/reflection";
           if (!isOpenAi && !isGemini && !isAuto) return next();
 
-          const json = (await readJsonBody(req)) as { reflection?: unknown };
+          const json = (await readJsonBody(req)) as {
+            reflection?: unknown;
+            readSuttaIds?: unknown;
+            readSuttas?: unknown;
+          };
           const reflection = typeof json.reflection === "string" ? json.reflection.trim() : "";
           const bot = normalizeBot((json as any)?.bot);
+          const readSuttaIds = normalizeReadSuttaIds(json.readSuttaIds);
+          const readSuttas = normalizeReadSuttas(json.readSuttas);
           if (!reflection) return sendJson(res, 400, { error: "Missing reflection." });
-          if (reflection.length > 10_000) return sendJson(res, 400, { error: "Reflection too long." });
-          const system = systemPromptForBot(bot);
+          if (reflection.length > 10_000)
+            return sendJson(res, 400, { error: "Reflection too long." });
+          if (readSuttaIds.length === 0 || readSuttas.length === 0) {
+            return sendJson(res, 400, {
+              error: "Mark at least one sutta as read before asking the bot.",
+            });
+          }
+          const system = systemPromptForBot(bot, readSuttaIds, readSuttas);
 
           if (isOpenAi) {
             const out = await callOpenAI(reflection, system);

@@ -1,155 +1,175 @@
-import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
-import { useEffect, useMemo, useState } from "react";
-
-import { ScreenHeader } from "@/components/ScreenHeader";
+import { createFileRoute, useNavigate } from "@tanstack/react-router";
+import { useEffect, useState } from "react";
+import { Hexagon, ArrowRight, CheckCircle2, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
-import { useAuthSession } from "@/hooks/use-auth-session";
-import { useProfile } from "@/hooks/use-profile";
-import { createProfile, isLikelyUniqueViolation, validateUsername } from "@/lib/profile";
-import { trackUxEvent } from "@/lib/uxLog";
 
 export const Route = createFileRoute("/onboarding")({
-  component: OnboardingScreen,
+  component: OnboardingFlow,
   head: () => ({
-    meta: [{ title: "Choose a username — DAMA" }],
+    meta: [{ title: "Welcome to DAMA" }],
   }),
 });
 
-function OnboardingScreen() {
+function OnboardingFlow() {
+  const [step, setStep] = useState(0);
   const navigate = useNavigate();
-  const { session, loading, supabaseReady } = useAuthSession();
-  const userId = session?.user?.id ?? null;
-  const { profile, loading: profileLoading } = useProfile(userId);
 
-  const suggested = useMemo(() => {
-    const email = (session?.user?.email ?? "").trim().toLowerCase();
-    const local = email.includes("@") ? email.split("@")[0] : email;
-    const cleaned = local.replace(/[^a-z0-9_]/g, "_").replace(/_+/g, "_").slice(0, 20);
-    const base = cleaned.replace(/^_+/, "");
-    return base.length >= 1 ? base : "";
-  }, [session?.user?.email]);
-
-  const [username, setUsername] = useState("");
-  const [pending, setPending] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-
-  const errorHelp = useMemo(() => {
-    if (!error) return null;
-    const msg = error.toLowerCase();
-    if (
-      (msg.includes("relation") && msg.includes("profiles") && msg.includes("does not exist")) ||
-      (msg.includes("schema cache") && msg.includes("profiles")) ||
-      msg.includes("pgrst205")
-    ) {
-      return 'Supabase table "profiles" is missing (or API schema cache is stale). Run docs/supabase-schema.sql in Supabase SQL editor, then reload the API schema (Project Settings → API → Reload schema) and refresh this page.';
-    }
-    if (msg.includes("permission denied") || msg.includes("rls") || msg.includes("row level security")) {
-      return "RLS blocked the insert. Make sure you ran the schema SQL (includes policies) and you are signed in.";
-    }
-    return null;
-  }, [error]);
-
+  // Step 0: Splash Screen Timer (2.5 seconds)
   useEffect(() => {
-    if (!profileLoading && profile) navigate({ to: "/profile" });
-  }, [navigate, profile, profileLoading]);
-
-  async function onSubmit(e: React.FormEvent) {
-    e.preventDefault();
-    setError(null);
-    if (!supabaseReady || !session?.user?.id) return;
-
-    const v = validateUsername(username);
-    if (!v.ok) {
-      setError(v.error);
-      return;
+    if (step === 0) {
+      const timer = setTimeout(() => setStep(1), 2500);
+      return () => clearTimeout(timer);
     }
+  }, [step]);
 
-    setPending(true);
-    try {
-      await createProfile({ userId: session.user.id, username: v.value, displayName: v.value });
-      trackUxEvent("profile_create", { username: v.value });
-      navigate({ to: "/profile" });
-    } catch (e: unknown) {
-      if (isLikelyUniqueViolation(e)) {
-        setError("That username is taken. Try another.");
-      } else {
-        setError(e instanceof Error ? e.message : "Could not create profile.");
-      }
-    } finally {
-      setPending(false);
-    }
+  const finish = () => {
+    localStorage.setItem("dama:onboardingComplete", "true");
+    // Redirect to the first simple teaching (AN 1.48)
+    navigate({ to: "/sutta/$suttaId", params: { suttaId: "1.48" } });
+  };
+
+  const next = () => setStep((s) => s + 1);
+
+  // --- 1. Splash Screen ---
+  if (step === 0) {
+    return (
+      <div className="min-h-screen bg-background flex flex-col items-center justify-center">
+        <div className="relative">
+          <Hexagon size={64} className="text-primary fill-primary/20 animate-pulse" />
+        </div>
+        <h1 className="mt-6 text-4xl font-bold tracking-widest text-primary font-mono">DAMA</h1>
+      </div>
+    );
   }
 
   return (
-    <div className="min-h-screen pb-10">
-      <ScreenHeader title="Choose a username" showBack={false} />
-      <div className="mx-auto max-w-sm px-5 pt-2">
-        {!supabaseReady ? (
-          <p className="text-sm text-muted-foreground">
-            Supabase isn’t configured yet.
-          </p>
-        ) : loading ? (
-          <p className="text-sm text-muted-foreground">Loading session…</p>
-        ) : !session ? (
-          <div className="space-y-3 text-sm text-muted-foreground">
-            <p>Sign in to create your profile.</p>
-            <p>
-              <Link to="/login" className="text-primary underline-offset-4 hover:underline">
-                Go to sign in
-              </Link>
-            </p>
-          </div>
-        ) : (
-          <>
-            <p className="text-sm text-muted-foreground">
-              This is your public handle (used for progress syncing and later community features).
-            </p>
-            <form onSubmit={onSubmit} className="mt-6 space-y-4">
-              <div className="space-y-2">
-                <Label htmlFor="onb-username">Username</Label>
-                <Input
-                  id="onb-username"
-                  name="username"
-                  autoComplete="username"
-                  value={username}
-                  onChange={(e) => setUsername(e.target.value)}
-                  disabled={pending}
-                />
-                <p className="text-xs text-muted-foreground">
-                  Anything you want. Up to 256 characters.
+    <div className="min-h-screen dama-screen flex flex-col">
+      <div className="flex-1 px-6 pt-12 pb-10 flex flex-col">
+        {/* Progress Indicator */}
+        <div className="flex gap-1.5 mb-10">
+          {[1, 2, 3, 4, 5].map((i) => (
+            <div
+              key={i}
+              className={`h-1 rounded-full transition-all duration-500 ${
+                i <= step ? "flex-1 bg-primary shadow-[0_0_8px_var(--glow)]" : "w-2 bg-white/10"
+              }`}
+            />
+          ))}
+        </div>
+
+        <div className="flex-1 flex flex-col justify-center">
+          {/* --- 2. Welcome + Intention --- */}
+          {step === 1 && (
+            <>
+              <div className="label-mono text-primary mb-4">AN 1.31–40</div>
+              <h2 className="text-2xl font-semibold leading-tight tracking-tight">
+                “The mind is difficult to restrain, swift, and wanders at will. The trained mind
+                brings happiness.”
+              </h2>
+              <div className="mt-12 space-y-3">
+                <p className="text-sm text-muted-foreground mb-4">
+                  What is your mind seeking right now?
                 </p>
-                {suggested ? (
-                  <div className="flex items-center justify-between gap-3">
-                    <div className="text-xs text-muted-foreground truncate">
-                      Suggestion: <span className="text-foreground/90">{suggested}</span>
-                    </div>
-                    <button
-                      type="button"
-                      disabled={pending}
-                      className="text-xs text-primary hover:underline underline-offset-4 shrink-0 disabled:opacity-50"
-                      onClick={() => setUsername(suggested)}
-                    >
-                      Use
-                    </button>
-                  </div>
-                ) : null}
+                {["Peace", "Understanding", "Clarity", "Relief from restlessness"].map((opt) => (
+                  <button
+                    key={opt}
+                    onClick={next}
+                    className="w-full text-left p-4 rounded-2xl glass border border-white/5 hover:border-primary/30 transition-colors flex items-center justify-between group"
+                  >
+                    <span className="text-sm font-medium">{opt}</span>
+                    <ChevronRight
+                      size={16}
+                      className="text-muted-foreground group-hover:text-primary"
+                    />
+                  </button>
+                ))}
               </div>
-              {error ? (
-                <div role="alert" className="space-y-1">
-                  <p className="text-sm text-destructive">{error}</p>
-                  {errorHelp ? (
-                    <p className="text-xs text-muted-foreground">{errorHelp}</p>
-                  ) : null}
+            </>
+          )}
+
+          {/* --- 3. Awareness --- */}
+          {step === 2 && (
+            <>
+              <div className="label-mono text-primary mb-4">AN 3.86</div>
+              <h2 className="text-2xl font-semibold leading-tight tracking-tight">
+                “Whatever a person frequently thinks and ponders upon, that becomes the inclination
+                of their mind.”
+              </h2>
+              <p className="mt-6 text-muted-foreground leading-relaxed italic">
+                Your daily reflections shape who you become.
+              </p>
+              <div className="mt-auto pt-10">
+                <Button onClick={next} size="lg" className="w-full rounded-2xl gap-2">
+                  Continue <ArrowRight size={18} />
+                </Button>
+              </div>
+            </>
+          )}
+
+          {/* --- 4. Core Mechanic --- */}
+          {step === 3 && (
+            <>
+              <div className="label-mono text-primary mb-4">AN 4.41</div>
+              <h2 className="text-2xl font-semibold leading-tight tracking-tight">
+                “One should know one’s own mind. One should know how it arises, how it ceases, and
+                how to train it.”
+              </h2>
+              <div className="mt-8 glass rounded-2xl p-5 border border-white/5">
+                <div className="text-sm leading-relaxed">
+                  <strong>The Method:</strong> Listen to a short teaching, reflect on it, and deepen
+                  your understanding day by day.
                 </div>
-              ) : null}
-              <Button type="submit" className="w-full" disabled={pending}>
-                {pending ? "Saving…" : "Continue"}
-              </Button>
-            </form>
-          </>
-        )}
+              </div>
+              <div className="mt-auto pt-10">
+                <Button onClick={next} size="lg" className="w-full rounded-2xl gap-2">
+                  I'm ready to observe <CheckCircle2 size={18} />
+                </Button>
+              </div>
+            </>
+          )}
+
+          {/* --- 5. Gradual Progress --- */}
+          {step === 4 && (
+            <>
+              <div className="label-mono text-primary mb-4">AN 3.99</div>
+              <h2 className="text-2xl font-semibold leading-tight tracking-tight">
+                “Little by little, one by one, moment by moment, the wise person removes impurities
+                from the mind, just as a goldsmith purifies gold.”
+              </h2>
+              <p className="mt-6 text-muted-foreground leading-relaxed">
+                Training is a journey. Consistency matters more than speed.
+              </p>
+              <div className="mt-auto pt-10">
+                <Button onClick={next} size="lg" className="w-full rounded-2xl gap-2">
+                  Understood <ArrowRight size={18} />
+                </Button>
+              </div>
+            </>
+          )}
+
+          {/* --- 6. Call to Action --- */}
+          {step === 5 && (
+            <>
+              <div className="label-mono text-primary mb-4">AN 5.24</div>
+              <h2 className="text-2xl font-semibold leading-tight tracking-tight text-center">
+                “The one who has heard the Dhamma, reflects on it, and lives in accordance with it —
+                such a person makes progress.”
+              </h2>
+              <div className="mt-12 flex flex-col items-center">
+                <Button
+                  onClick={finish}
+                  size="lg"
+                  className="w-full rounded-2xl py-8 text-lg font-bold"
+                >
+                  Begin the First Teaching
+                </Button>
+                <p className="mt-4 text-xs text-muted-foreground label-mono uppercase tracking-widest">
+                  START: AN 1.48
+                </p>
+              </div>
+            </>
+          )}
+        </div>
       </div>
     </div>
   );

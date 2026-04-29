@@ -33,8 +33,11 @@ const context = await browser.newContext({
 const page = await context.newPage();
 await page.goto(url, { waitUntil: "domcontentloaded" });
 
-console.log(`Opened ${url} in Chrome emulation (${deviceName}). Close the browser to exit.`);
+console.log(`Opened ${url} in Chrome emulation (${deviceName}). Close the browser window to exit.`);
 
-await page.waitForEvent("close").catch(() => {});
-await browser.close().catch(() => {});
+// Wait for the browser process to exit or be disconnected
+await new Promise((resolve) => {
+  browser.on("disconnected", resolve);
+});
+
 

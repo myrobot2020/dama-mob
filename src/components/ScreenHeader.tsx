@@ -1,34 +1,40 @@
-import { Link, useRouter } from "@tanstack/react-router";
+import { Link } from "@tanstack/react-router";
 import type { ReactNode } from "react";
-import { ChevronLeft, Bookmark } from "lucide-react";
+import { Bookmark, Home } from "lucide-react";
 
 export function ScreenHeader({
   title,
   center,
+  left,
   right,
-  showBack = true,
+  showHome = true,
   showBookmark = false,
 }: {
   title?: string;
   /** Replaces centered title when set (e.g. corpus nav). */
   center?: ReactNode;
+  /** Optional override for the left-side header control. */
+  left?: ReactNode;
   /** Optional override for the right-side header control. */
   right?: ReactNode;
+  showHome?: boolean;
+  /** Deprecated: headers use Home now; kept so older routes don't break. */
   showBack?: boolean;
   showBookmark?: boolean;
 }) {
-  const router = useRouter();
   return (
     <header className="sticky top-0 z-40 grid grid-cols-[auto_1fr_auto] items-center gap-2 px-3 py-2 backdrop-blur-xl bg-background/60 min-h-[52px]">
-      {showBack ? (
-        <button
-          type="button"
-          onClick={() => router.history.back()}
+      {left != null ? (
+        <div className="size-9 shrink-0 flex items-center justify-center">{left}</div>
+      ) : showHome ? (
+        <Link
+          to="/"
           className="size-9 rounded-full glass flex items-center justify-center shrink-0"
-          aria-label="Back"
+          aria-label="Home"
+          title="Home"
         >
-          <ChevronLeft size={18} />
-        </button>
+          <Home size={16} />
+        </Link>
       ) : (
         <div className="size-9 shrink-0" aria-hidden />
       )}
