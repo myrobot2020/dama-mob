@@ -6,8 +6,8 @@ let pathname = "/";
 
 vi.mock("@tanstack/react-router", () => ({
   useLocation: () => ({ pathname }),
-  Link: ({ to, children, className }: { to: string; children: React.ReactNode; className?: string }) => (
-    <a href={to} className={className}>
+  Link: ({ to, children, className, ...props }: { to: string; children: React.ReactNode; className?: string; [key: string]: any }) => (
+    <a href={to} className={className} {...props}>
       {children}
     </a>
   ),
@@ -23,21 +23,28 @@ describe("BottomNav", () => {
     cleanup();
   });
 
-  it("renders the four primary tabs without the next-sutta strip", () => {
+  it("renders the Home icon as the primary control", () => {
     render(<BottomNav />);
 
-    expect(screen.getByText("Home")).toBeInTheDocument();
-    expect(screen.getByText("Sutta")).toBeInTheDocument();
-    expect(screen.getByText("Tree")).toBeInTheDocument();
-    expect(screen.getByText("Profile")).toBeInTheDocument();
-    expect(screen.queryByText(/next/i)).not.toBeInTheDocument();
+    const homeLink = screen.getByRole("link", { name: /home/i });
+    expect(homeLink).toBeInTheDocument();
+    expect(homeLink).toHaveAttribute("href", "/");
   });
 
-  it("marks sutta detail routes as the Sutta tab", () => {
-    pathname = "/sutta/1.48";
-    render(<BottomNav />);
+  it("highlights the Home icon when on the home page", () => {
+    pathname = "/";
+    const { container } = render(<BottomNav />);
 
-    expect(screen.getByText("Sutta")).toHaveClass("text-primary");
-    expect(screen.getByText("Home")).toHaveClass("text-muted-foreground");
+    // The icon is inside the link
+    const icon = container.querySelector(".lucide-house");
+    expect(icon).toHaveClass("text-primary");
+  });
+
+  it("dims the Home icon when not on the home page", () => {
+    pathname = "/sutta/1.48";
+    const { container } = render(<BottomNav />);
+
+    const icon = container.querySelector(".lucide-house");
+    expect(icon).toHaveClass("text-muted-foreground");
   });
 });

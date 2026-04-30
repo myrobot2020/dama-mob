@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react";
-import { User } from "lucide-react";
+import { isDevMode, setDevMode } from "@/lib/devMode";
+import { Cpu, User } from "lucide-react";
 
 import { ScreenHeader } from "@/components/ScreenHeader";
 import { Button } from "@/components/ui/button";
@@ -32,6 +33,7 @@ function ProfileScreen() {
   const [editPending, setEditPending] = useState(false);
   const [editError, setEditError] = useState<string | null>(null);
   const [uxToolsEnabled, setUxToolsEnabled] = useState(false);
+  const [devModeEnabled, setDevModeEnabled] = useState(false);
 
   const settings = useSyncExternalStore(subscribeSettings, readSettings, () => DEFAULT_SETTINGS);
 
@@ -60,7 +62,15 @@ function ProfileScreen() {
     if (typeof window === "undefined") return;
     const v = localStorage.getItem(UX_TOOLS_STORAGE_KEY);
     setUxToolsEnabled(v === "1");
+    setDevModeEnabled(isDevMode());
   }, []);
+
+  const toggleDevMode = () => {
+    const next = !devModeEnabled;
+    setDevModeEnabled(next);
+    setDevMode(next);
+    trackUxEvent(next ? "dev_mode_enable" : "dev_mode_disable");
+  };
 
   const toggleUxTools = () => {
     const next = !uxToolsEnabled;
@@ -241,6 +251,25 @@ function ProfileScreen() {
               </form>
             </div>
           ) : null}
+
+          <div className="glass rounded-2xl p-4">
+            <div className="label-mono text-muted-foreground">Engineering</div>
+            <div className="mt-4 flex items-center justify-between">
+              <div>
+                <div className="text-sm font-medium">Dev Mode</div>
+                <div className="text-xs text-muted-foreground">Surfaces technical traces and admin tools</div>
+              </div>
+              <Button
+                size="sm"
+                variant={devModeEnabled ? "default" : "outline"}
+                onClick={toggleDevMode}
+                className="gap-2"
+              >
+                <Cpu size={14} />
+                {devModeEnabled ? "ON" : "OFF"}
+              </Button>
+            </div>
+          </div>
         </div>
 
         {showDevTools && uxToolsEnabled ? (

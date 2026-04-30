@@ -2,29 +2,10 @@ import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
 import heroImg from "@/assets/reflection-hero.jpg";
-import { postDamaQuery, REFLECTION_QUERY_STORAGE_KEY } from "@/lib/damaApi";
-import { loadReadSuttaContexts, type ReadSuttaContext } from "@/lib/readSuttaContext";
-import { getReadSuttaIds, readReadingProgress } from "@/lib/readingProgress";
-
-async function postLocalLlmReflection(
-  reflection: string,
-  bot: string,
-  readSuttaIds: string[],
-  readSuttas: ReadSuttaContext[],
-): Promise<{ answer: string; model?: string; provider?: string }> {
-  const resp = await fetch("/__llm/reflection", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ reflection, bot, readSuttaIds, readSuttas }),
-  });
-
-  if (!resp.ok) {
-    const text = await resp.text().catch(() => "");
-    throw new Error(text || `BuddhaBot request failed (${resp.status})`);
-  }
-
-  return (await resp.json()) as { answer: string; model?: string; provider?: string };
-}
+import { REFLECTION_QUERY_STORAGE_KEY } from "@/lib/damaApi";
+import { runHarness, type HarnessInput, HarnessError } from "@/lib/aiHarness";
+import { isUserAdmin } from "@/lib/devMode";
+import * as tools from "@/lib/harnessTools";
 
 export const Route = createFileRoute("/reflect/thinking")({
   component: ThinkingScreen,
@@ -35,6 +16,7 @@ function ThinkingScreen() {
   const [question, setQuestion] = useState("");
   const [status, setStatus] = useState<"loading" | "error">("loading");
   const [errorMsg, setErrorMsg] = useState("");
+  const [errorCode, setErrorCode] = useState<string | null>(null);
 
   const normalizeMode = (
     raw: string,
@@ -55,81 +37,52 @@ function ThinkingScreen() {
 
   useEffect(() => {
     const q = localStorage.getItem("dama:reflection") || "";
+    const mode = normalizeMode(localStorage.getItem("dama:reflectionMode") || "dama");
     setQuestion(q);
+
     if (!q.trim()) {
       navigate({ to: "/reflect", replace: true });
       return;
     }
 
-    const mode = normalizeMode(localStorage.getItem("dama:reflectionMode") || "dama");
     const ac = new AbortController();
-    let timedOut = false;
     const timeout = window.setTimeout(() => {
-      timedOut = true;
       setErrorMsg("AI request timed out. You can continue with offline text.");
+      setErrorCode("TIMEOUT");
       setStatus("error");
       localStorage.setItem(
         REFLECTION_QUERY_STORAGE_KEY,
         JSON.stringify({ ok: false, error: "AI request timed out." }),
       );
     }, 60_000);
+
+    const input: HarnessInput = {
+      channel: "ui",
+      text: q,
+      metadata: { mode },
+      isAdmin: isUserAdmin(),
+    };
+
     (async () => {
       try {
-        if (mode !== "dama") {
-          const readSuttaIds = getReadSuttaIds(readReadingProgress());
-          if (readSuttaIds.length === 0) {
-            throw new Error("Mark at least one sutta as read before asking the bot.");
-          }
-          const readSuttas = await loadReadSuttaContexts(readSuttaIds, q, ac.signal);
-          if (readSuttas.length === 0) {
-            throw new Error("Could not load the suttas marked as read.");
-          }
-          const data = await postLocalLlmReflection(q, mode, readSuttaIds, readSuttas);
-          if (timedOut) return;
-          localStorage.setItem(
-            REFLECTION_QUERY_STORAGE_KEY,
-            JSON.stringify({
-              ok: true,
-              answer: data.answer,
-              used_llm: true,
-              chunks: readSuttas.map((s) => ({
-                suttaid: s.suttaid,
-                text: s.text.slice(0, 400),
-              })),
-              mode,
-            }),
-          );
-          window.clearTimeout(timeout);
-          navigate({ to: "/reflect/answer", replace: true });
-          return;
+        const result = await runHarness(input, tools);
+
+        if (!result.ok) {
+          throw result.error;
         }
 
-        const data = await postDamaQuery(q, ac.signal);
-        if (timedOut) return;
-        localStorage.setItem(
-          REFLECTION_QUERY_STORAGE_KEY,
-          JSON.stringify({
-            ok: true,
-            answer: data.answer,
-            used_llm: data.used_llm,
-            chunks: (data.chunks || []).slice(0, 5).map((c) => ({
-              suttaid: c.suttaid,
-              text: (c.text || "").slice(0, 400),
-            })),
-            mode: "dama5",
-          }),
-        );
         window.clearTimeout(timeout);
         navigate({ to: "/reflect/answer", replace: true });
       } catch (e) {
         if (ac.signal.aborted) return;
-        if (timedOut) return;
         const msg = e instanceof Error ? e.message : String(e);
+        const code = e instanceof HarnessError ? e.code : "UNKNOWN_ERROR";
         setErrorMsg(msg);
+        setErrorCode(code);
         setStatus("error");
         localStorage.setItem(
           REFLECTION_QUERY_STORAGE_KEY,
-          JSON.stringify({ ok: false, error: msg }),
+          JSON.stringify({ ok: false, error: msg, code }),
         );
       }
     })();
@@ -174,18 +127,30 @@ function ThinkingScreen() {
               : "Analyzing your reflection with Dhamma wisdom..."}
           </p>
           {status === "error" && errorMsg && (
-            <p className="mt-3 text-center text-xs text-destructive/90 max-w-sm break-words">
-              {errorMsg}
-            </p>
+            <div className="mt-4 w-full">
+              <div className="label-mono text-[10px] text-destructive mb-1 text-center">ERROR_CODE: {errorCode}</div>
+              <p className="text-center text-xs text-destructive/90 max-w-sm mx-auto break-words px-4">
+                {errorMsg}
+              </p>
+            </div>
           )}
           {status === "error" && (
-            <button
-              type="button"
-              onClick={() => navigate({ to: "/reflect/answer", replace: true })}
-              className="mt-6 rounded-2xl bg-primary text-primary-foreground font-medium px-6 py-3"
-            >
-              Continue with offline text
-            </button>
+            <div className="mt-6 flex flex-col gap-3 w-full max-w-xs">
+              <button
+                type="button"
+                onClick={() => navigate({ to: "/reflect/answer", replace: true })}
+                className="rounded-2xl bg-primary text-primary-foreground font-medium px-6 py-3 w-full"
+              >
+                Continue with offline text
+              </button>
+              <button
+                type="button"
+                onClick={() => window.location.reload()}
+                className="rounded-2xl glass font-medium px-6 py-3 w-full"
+              >
+                Try again
+              </button>
+            </div>
           )}
         </div>
       </div>

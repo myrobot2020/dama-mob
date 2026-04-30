@@ -15,7 +15,7 @@ const homeOptions = [
     to: "/book-transition",
     search: { to: "AN 1.18.13" },
     label: "Book of Ones",
-    detail: "Begin at the cover",
+    detail: "Suttas",
     icon: BookOpen,
   },
   {

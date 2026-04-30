@@ -16,7 +16,7 @@ describe("aiHarness", () => {
 
     expect(parseHarnessIntent({ channel: "ui", text: "Reflect on goodwill", readSuttaIds: ["AN 11.16"] })).toMatchObject({
       kind: "reflection",
-      confidence: 0.84,
+      confidence: 0.9,
     });
     expect(parseHarnessIntent({ channel: "ui", text: "quiz me on AN 1.1" }).kind).toBe("quiz");
     expect(parseHarnessIntent({ channel: "ui", text: "sync my progress to cloud" }).kind).toBe("profile_sync");
@@ -33,9 +33,8 @@ describe("aiHarness", () => {
     ).toContain("Input text must be 10,000 characters or fewer.");
 
     const reflectionIntent = parseHarnessIntent({ channel: "ui", text: "reflection please" });
-    expect(applyHarnessGuardrails({ channel: "ui", text: "reflection please" }, reflectionIntent)).toContain(
-      "Reflection answers need at least one marked-read sutta for grounding.",
-    );
+    // Guardrail for missing read suttas removed from applyHarnessGuardrails to be handled by tool layer
+    expect(applyHarnessGuardrails({ channel: "ui", text: "reflection please" }, reflectionIntent)).toEqual([]);
     expect(
       applyHarnessGuardrails(
         { channel: "api", text: "delete all production data" },
@@ -54,11 +53,13 @@ describe("aiHarness", () => {
       "load-read-suttas",
       "retrieve-grounding",
       "call-model",
+      "verify-logic",
       "format-output",
+      "record-trace",
     ]);
 
     const sync = parseHarnessIntent({ channel: "ui", text: "sync progress" });
-    expect(planHarnessSteps(sync).map((step) => step.tool)).toEqual(["syncProgress"]);
+    expect(planHarnessSteps(sync).map((step) => step.id)).toEqual(["sync-progress", "record-trace"]);
   });
 
   it("runs tools, traces steps, and returns final output", async () => {
@@ -76,15 +77,17 @@ describe("aiHarness", () => {
         loadReadSuttas: makeTool("load"),
         retrieveCorpus: makeTool("retrieve"),
         callReflectionModel: makeTool("model"),
+        verifyConclusion: makeTool("verify"),
         formatReflection: makeTool("format"),
+        recordTrace: makeTool("trace"),
       },
     );
 
     expect(result.ok).toBe(true);
-    if (!result.ok) throw new Error(result.error);
-    expect(calls).toEqual(["load", "retrieve", "model", "format"]);
-    expect(result.output).toBe("format:ok");
-    expect(result.state.trace.filter((event) => event.status === "succeeded")).toHaveLength(4);
+    if (!result.ok) throw new Error(result.error.message);
+    expect(calls).toEqual(["load", "retrieve", "model", "verify", "format", "trace"]);
+    expect(result.output).toBe("trace:ok");
+    expect(result.state.trace.filter((event) => event.status === "succeeded")).toHaveLength(6);
   });
 
   it("retries failing tools and reports missing required tools", async () => {
@@ -99,16 +102,18 @@ describe("aiHarness", () => {
         loadReadSuttas: () => "load:ok",
         retrieveCorpus: () => "retrieve:ok",
         callReflectionModel: flaky,
+        verifyConclusion: () => ({ pass: true, score: 1.0 }),
         formatReflection: () => "format:ok",
+        recordTrace: () => "trace:ok",
       },
     );
     expect(retried.ok).toBe(true);
     expect(flaky).toHaveBeenCalledTimes(2);
 
-    const missing = await runHarness({ channel: "cli", text: "run pipeline tally" }, {});
+    const missing = await runHarness({ channel: "cli", text: "run pipeline tally", isAdmin: true }, {});
     expect(missing.ok).toBe(false);
     if (missing.ok) throw new Error("Expected missing tool failure.");
-    expect(missing.error).toBe("Missing tool: runPipelineCheck.");
+    expect(missing.error.message).toBe("Missing tool: runPipelineCheck.");
   });
 
   it("documents all 37 inferred harness components", () => {

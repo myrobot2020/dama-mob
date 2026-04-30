@@ -4,7 +4,10 @@ import { ScreenHeader } from "@/components/ScreenHeader";
 import { CanonQuote } from "@/components/CanonQuote";
 import { sutta } from "@/data/an1116.ts";
 import { REFLECTION_QUERY_STORAGE_KEY } from "@/lib/damaApi";
-import { Bookmark, Check } from "lucide-react";
+import { Bookmark, Check, ChevronDown, ChevronUp, Cpu, History } from "lucide-react";
+import { type HarnessTraceEvent } from "@/lib/aiHarness";
+import { recordHarnessFeedback } from "@/lib/harnessTools";
+import { isDevMode } from "@/lib/devMode";
 
 type StoredQuery =
   | {
@@ -13,6 +16,12 @@ type StoredQuery =
       used_llm: boolean;
       chunks: { suttaid?: string; text: string }[];
       mode?: "dama5" | "buddhabot" | "simulation" | "buddha" | "psychologist" | "social" | "feminine";
+      harnessState?: {
+        runId: string;
+        intent: any;
+        trace: HarnessTraceEvent[];
+        durationMs: number;
+      };
     }
   | { ok: false; error: string };
 
@@ -41,6 +50,9 @@ function AnswerScreen() {
   const [saved, setSaved] = useState(false);
   const [explanation, setExplanation] = useState("");
   const [fromApi, setFromApi] = useState(false);
+  const [showTrace, setShowTrace] = useState(false);
+  const isDev = isDevMode();
+  const [harnessState, setHarnessState] = useState<any>(null);
   const [mode, setMode] = useState<
     "dama5" | "buddhabot" | "simulation" | "buddha" | "psychologist" | "social" | "feminine" | "offline"
   >("offline");
@@ -62,6 +74,7 @@ function AnswerScreen() {
       setExplanation(q.answer.trim());
       setFromApi(true);
       setMode((q.mode as any) || "dama5");
+      if (q.harnessState) setHarnessState(q.harnessState);
     } else {
       setExplanation(OFFLINE_EXPLANATION.replace(/\s+/g, " ").trim());
       setFromApi(false);
@@ -80,10 +93,19 @@ function AnswerScreen() {
     const prev = JSON.parse(localStorage.getItem("dama:journal") || "[]");
     localStorage.setItem("dama:journal", JSON.stringify([entry, ...prev]));
     setSaved(true);
+
+    // Point 17: Implicit RLHF Signal
+    if (harnessState?.runId) {
+      void recordHarnessFeedback(harnessState.runId, {
+        score: 1,
+        method: "implicit",
+        detail: "User saved reflection to journal"
+      });
+    }
   };
 
   return (
-    <div className="min-h-screen dama-screen">
+    <div className="min-h-screen dama-screen pb-12">
       <ScreenHeader title="AI Answer" showBookmark />
       <div className="px-5">
         <div className="label-mono text-primary">Grounded Response</div>
@@ -104,6 +126,78 @@ function AnswerScreen() {
             {explanation}
           </p>
         </section>
+
+        {harnessState && isDev && (
+          <section className="mt-6">
+            <button
+              onClick={() => setShowTrace(!showTrace)}
+              className="w-full flex items-center justify-between p-4 glass rounded-2xl border border-white/5 hover:bg-primary/5 transition-colors"
+            >
+              <div className="flex items-center gap-2">
+                <Cpu size={16} className="text-primary" />
+                <span className="text-xs font-semibold label-mono uppercase tracking-wider">
+                  Harness Trace (Point 30)
+                </span>
+              </div>
+              {showTrace ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+            </button>
+
+            {showTrace && (
+              <div className="mt-2 glass rounded-2xl p-4 border border-primary/20 bg-primary/5 overflow-hidden">
+                <div className="flex items-center justify-between mb-4 border-b border-white/10 pb-2">
+                  <div className="text-[10px] label-mono text-muted-foreground">
+                    RUN_ID: <span className="text-primary">{harnessState.runId}</span>
+                  </div>
+                  <div className="text-[10px] label-mono text-muted-foreground">
+                    TOTAL: <span className="text-primary">{harnessState.durationMs}ms</span>
+                  </div>
+                </div>
+
+                <div className="space-y-4">
+                  {harnessState.trace.map((event: any, i: number) => (
+                    <div key={i} className="relative pl-4 border-l-2 border-white/10">
+                      <div className="absolute -left-[5px] top-1 size-2 rounded-full bg-primary shadow-[0_0_8px_var(--glow)]" />
+                      <div className="flex items-center justify-between">
+                        <span className="text-[11px] font-bold label-mono text-foreground/90">
+                          {event.stepId}
+                        </span>
+                        <span
+                          className={`text-[9px] label-mono px-1.5 py-0.5 rounded ${
+                            event.status === "succeeded"
+                              ? "bg-green-500/20 text-green-400"
+                              : "bg-red-500/20 text-red-400"
+                          }`}
+                        >
+                          {event.status}
+                        </span>
+                      </div>
+                      <div className="mt-1 flex items-center gap-2">
+                        <span className="text-[10px] text-muted-foreground/70">
+                          {new Date(event.at).toLocaleTimeString()}
+                        </span>
+                        {event.durationMs && (
+                          <span className="text-[10px] text-primary/60">{event.durationMs}ms</span>
+                        )}
+                      </div>
+                      {event.detail && (
+                        <p className="mt-1 text-[10px] text-muted-foreground italic leading-relaxed">
+                          {event.detail}
+                        </p>
+                      )}
+                    </div>
+                  ))}
+                </div>
+
+                <div className="mt-4 pt-2 border-t border-white/10 flex items-center gap-2">
+                  <History size={12} className="text-muted-foreground" />
+                  <span className="text-[10px] label-mono text-muted-foreground">
+                    Intent: {harnessState.intent.kind} ({(harnessState.intent.confidence * 100).toFixed(0)}%)
+                  </span>
+                </div>
+              </div>
+            )}
+          </section>
+        )}
 
         <section className="mt-6">
           <CanonQuote text={sutta.canon} source={sutta.id} />

@@ -100,18 +100,9 @@ function ReflectScreen() {
 
         <button
           type="button"
-          onClick={() => submit("dama")}
-          disabled={!text.trim()}
-          className="mt-4 flex w-full items-center justify-center gap-2 rounded-2xl bg-primary py-4 font-medium text-primary-foreground animate-pulse-glow disabled:animate-none disabled:opacity-40"
-        >
-          <Sparkles size={16} /> Get DAMA Answer
-        </button>
-
-        <button
-          type="button"
           onClick={() => submit(bot)}
           disabled={!text.trim()}
-          className="mt-3 flex w-full items-center justify-center gap-2 rounded-2xl py-4 font-medium glass disabled:opacity-40"
+          className="mt-4 flex w-full items-center justify-center gap-2 rounded-2xl bg-primary py-4 font-medium text-primary-foreground animate-pulse-glow disabled:animate-none disabled:opacity-40"
         >
           <Sparkles size={16} /> {askBotLabel}
         </button>
