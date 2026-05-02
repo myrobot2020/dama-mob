@@ -28,13 +28,14 @@ vi.mock("@tanstack/react-router", () => ({
 }));
 
 describe("BookOfOnesInterpretations", () => {
-  it("renders the current sutta visual interpretation card with its quiz link", () => {
+  it("renders the current sutta visual interpretation card with its practice link", () => {
     linkProps.latest = [];
     render(<BookOfOnesInterpretations currentSuttaId="AN 1.18.13" />);
 
     expect(screen.getByRole("heading", { name: "Book of Ones interpretations" })).toBeInTheDocument();
     expect(screen.getAllByRole("img")).toHaveLength(1);
-    expect(screen.getAllByRole("link", { name: "Try interpreting" })).toHaveLength(1);
+    expect(screen.getAllByRole("link", { name: "Practice" })).toHaveLength(1);
+    expect(linkProps.latest.map((x) => x.to)).toEqual(["/practice/$suttaId"]);
     expect(linkProps.latest.map((x) => x.params?.suttaId)).toEqual(["AN 1.18.13"]);
   });
 

@@ -1,5 +1,3 @@
-import { Hexagon } from "lucide-react";
-
 export function CanonQuote({
   text,
   source,
@@ -9,13 +7,8 @@ export function CanonQuote({
   source?: string;
 }) {
   return (
-    <div className="relative rounded-2xl glass p-5 pl-6">
-      <div className="absolute left-0 top-4 bottom-4 w-[3px] rounded-full bg-primary glow-soft" />
-      <div className="flex items-center gap-2 mb-3">
-        <Hexagon size={12} className="text-primary fill-primary" style={{ filter: "drop-shadow(0 0 6px var(--glow))" }} />
-        <span className="label-mono text-primary">Canon · Verified</span>
-      </div>
-      <p className="text-[15px] leading-relaxed text-foreground/90 italic">
+    <div className="border-y paper-rule px-5 py-6">
+      <p className="text-reading text-[1.28rem] leading-[1.55] text-foreground">
         "{text}"
       </p>
       {source?.trim() ? (

@@ -35,9 +35,18 @@ function bookLabel(id: string): string {
   return "Next book";
 }
 
-export function NextSuttaStrip() {
+export function NextSuttaStrip({
+  currentSuttaId,
+  to = "/sutta/$suttaId",
+}: {
+  currentSuttaId?: string;
+  to?: "/sutta/$suttaId" | "/practice/$suttaId";
+} = {}) {
   const { pathname } = useLocation();
-  const routeSuttaId = useMemo(() => parseSuttaRouteId(pathname), [pathname]);
+  const routeSuttaId = useMemo(
+    () => currentSuttaId || parseSuttaRouteId(pathname),
+    [currentSuttaId, pathname],
+  );
 
   const [items, setItems] = useState<ItemSummary[]>([]);
   const [load, setLoad] = useState<"idle" | "loading" | "ok" | "error">("idle");
@@ -109,30 +118,18 @@ export function NextSuttaStrip() {
             {cardLabel}
           </div>
           <div className="text-sm font-medium text-foreground truncate">{title}</div>
-          {!crossesBook ? (
-            <div className="label-mono text-[11px] text-primary/90 truncate">
-              {position ? `${position.position}/${position.total}` : item.suttaid}
-            </div>
-          ) : null}
+          <div className="label-mono text-[11px] text-primary/90 truncate">
+            {position ? `${position.position}/${position.total}` : item.suttaid}
+          </div>
         </div>
       </>
     );
-    if (crossesBook) {
-      return (
-        <Link
-          to="/book-transition"
-          search={{ from: routeSuttaId, to: item.suttaid }}
-          className="flex min-w-0 flex-1 items-center gap-2 rounded-2xl bg-background ring-1 ring-primary/25 px-3 py-2.5 hover:bg-primary/10 transition-colors"
-        >
-          {card}
-        </Link>
-      );
-    }
+
     return (
       <Link
-        to="/sutta/$suttaId"
+        to={to}
         params={{ suttaId: item.suttaid }}
-        className="flex min-w-0 flex-1 items-center gap-2 rounded-2xl bg-background ring-1 ring-primary/25 px-3 py-2.5 hover:bg-primary/10 transition-colors"
+        className="flex min-w-0 flex-1 items-center gap-2 bg-background border-l paper-rule px-3 py-2.5 hover:text-primary transition-colors"
       >
         {card}
       </Link>
@@ -141,7 +138,7 @@ export function NextSuttaStrip() {
 
   if (load === "loading" || load === "idle") {
     return (
-      <div className="rounded-2xl bg-background ring-1 ring-white/10 px-3 py-2.5 mb-1.5">
+      <div className="border-y paper-rule bg-background px-3 py-2.5 mb-1.5">
         <div className="h-4 w-3/5 rounded bg-white/10 animate-pulse" />
       </div>
     );
@@ -149,7 +146,7 @@ export function NextSuttaStrip() {
 
   if (load === "error") {
     return (
-      <div className="rounded-2xl bg-background ring-1 ring-white/10 px-3 py-2 mb-1.5 text-[11px] text-muted-foreground">
+      <div className="border-y paper-rule bg-background px-3 py-2 mb-1.5 text-[11px] text-muted-foreground">
         Next sutta unavailable (offline?)
       </div>
     );
@@ -168,9 +165,9 @@ export function NextSuttaStrip() {
   if (firstItem) {
     return (
       <Link
-        to="/sutta/$suttaId"
+        to={to}
         params={{ suttaId: firstItem.suttaid }}
-        className="flex items-center gap-2 rounded-2xl bg-background ring-1 ring-primary/25 px-3 py-2.5 mb-1.5 hover:bg-primary/10 transition-colors"
+        className="flex items-center gap-2 border-y paper-rule bg-background px-3 py-2.5 mb-1.5 hover:text-primary transition-colors"
       >
         <ChevronRight size={20} className="shrink-0 text-primary" aria-hidden />
         <div className="min-w-0 flex-1 text-left">
@@ -185,7 +182,7 @@ export function NextSuttaStrip() {
   return (
     <Link
       to="/browse"
-      className="flex items-center gap-2 rounded-2xl bg-background ring-1 ring-white/10 px-3 py-2.5 mb-1.5 hover:bg-primary/10 transition-colors"
+      className="flex items-center gap-2 border-y paper-rule bg-background px-3 py-2.5 mb-1.5 hover:text-primary transition-colors"
     >
       <ChevronRight size={20} className="shrink-0 text-primary" aria-hidden />
       <span className="text-sm font-medium">Browse suttas</span>

@@ -151,4 +151,34 @@ export const an1Quizzes: SuttaQuiz[] = [
     teacherSummary:
       "The Buddha praises even a finger-snap of genuine first jhana. A new jhana may last only briefly, but with cultivation it becomes steadier. The point is that collectedness is valuable even in a small, real moment.",
   },
+  {
+    suttaId: "AN 1.21.47",
+    quote:
+      "Those who do not partake of mindfulness of the body do not partake of the deathless; those who partake of mindfulness of the body partake of the deathless.",
+    options: [
+      {
+        id: "body-as-door",
+        title: "The body as doorway",
+        body: "Mindfulness of the body is a direct doorway into the deathless path.",
+      },
+      {
+        id: "body-worship",
+        title: "Body worship",
+        body: "The teaching says the physical body itself should be treated as ultimate.",
+      },
+      {
+        id: "ignore-mind",
+        title: "Ignore the mind",
+        body: "Only posture matters; intention and awareness do not matter.",
+      },
+      {
+        id: "future-only",
+        title: "A future promise",
+        body: "The practice has no present effect and only matters after death.",
+      },
+    ],
+    goldOptionId: "body-as-door",
+    teacherSummary:
+      "Mindfulness of the body grounds attention in immediate experience. When the body is known clearly, craving has less room to fabricate a self, so this practice becomes a doorway toward the deathless.",
+  },
 ];

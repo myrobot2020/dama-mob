@@ -3,7 +3,7 @@ import { test, expect, devices } from '@playwright/test';
 test.use({ ...devices['Pixel 5'] }); // Test as mobile
 
 test('Automated Audit: Verify Cloud Data and UI', async ({ page }) => {
-  const PROD_URL = 'https://dama-mob-394934218986.asia-south1.run.app';
+  const BASE = process.env.PW_BASE_URL || process.env.PW_PROD_URL || 'http://localhost:8080';
   const GCS_AUD_BASE = 'https://storage.googleapis.com/damalight-dama-aud';
 
   // Log browser console
@@ -13,7 +13,7 @@ test('Automated Audit: Verify Cloud Data and UI', async ({ page }) => {
   // Increase timeout for cold starts
   page.setDefaultTimeout(60000);
 
-  await page.goto(`${PROD_URL}/browse`, { waitUntil: 'networkidle' });
+  await page.goto(`${BASE}/browse`, { waitUntil: 'networkidle' });
 
   // 1. Check Nikaya Select
   const nikayaSelect = page.locator('select').first();
@@ -28,16 +28,15 @@ test('Automated Audit: Verify Cloud Data and UI', async ({ page }) => {
 
   await expect(nikayaSelect).not.toBeDisabled();
 
-  // 2. Load SN and check Text
-  await nikayaSelect.selectOption('SN');
+  // 2. Load an available corpus item and check text.
+  await nikayaSelect.selectOption('AN');
 
-  // Wait for the SN 1.1 link to appear (it's loaded via index.json)
-  const sn11Link = page.locator('a', { hasText: 'SN 1.1' }).first();
-  await expect(sn11Link).toBeVisible();
-  await sn11Link.click();
+  const firstSuttaLink = page.locator('a[href^="/sutta/"]').first();
+  await expect(firstSuttaLink).toBeVisible();
+  await firstSuttaLink.click();
 
   // Verify sutta page content
-  await expect(page).toHaveURL(/sutta\/SN%201.1/);
+  await expect(page).toHaveURL(/\/sutta\//);
 
   // The sutta text is inside a <p> in CanonQuote
   const text = page.locator('p', { hasText: /"/ }).first();
@@ -77,6 +76,5 @@ test('Automated Audit: Verify Cloud Data and UI', async ({ page }) => {
   // 4. Navigation Check - Next Sutta
   // Since we don't have a "Next" button in the provided SuttaByIdScreen (it's in BottomNav or elsewhere?)
   // Let's check BottomNav
-  const bottomNav = page.locator('nav');
-  await expect(bottomNav).toBeVisible();
+  await expect(page.getByText(/Next sutta|Prev sutta/i).first()).toBeVisible();
 });

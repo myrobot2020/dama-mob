@@ -1,7 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react";
 import { isDevMode, setDevMode } from "@/lib/devMode";
-import { Cpu, User } from "lucide-react";
+import { SlidersHorizontal } from "lucide-react";
 
 import { ScreenHeader } from "@/components/ScreenHeader";
 import { Button } from "@/components/ui/button";
@@ -19,7 +19,7 @@ export const Route = createFileRoute("/profile")({
 });
 
 const UX_TOOLS_STORAGE_KEY = "dama:uxToolsEnabled";
-const DEFAULT_SETTINGS = { language: "en" as const };
+const DEFAULT_SETTINGS = { language: "en" as const, theme: "paper" as const };
 const EMPTY_UX_LOG: ReturnType<typeof readUxLog> = [];
 
 function ProfileScreen() {
@@ -102,11 +102,19 @@ function ProfileScreen() {
   const showDevTools = Boolean(user) && search?.devtools === "1";
 
   return (
-    <div className={`min-h-screen ${user ? "dama-screen" : "pb-10"}`}>
+    <div className={`min-h-screen ${user ? "dama-screen" : "pb-10 bg-background"}`}>
       <ScreenHeader title="Profile" showBack={false} />
-      <div className="px-5 text-center">
-        <div className="mx-auto size-24 rounded-full glass flex items-center justify-center animate-pulse-glow">
-          <User size={36} className="text-primary" />
+      <div className="px-7 pb-10 text-center">
+        <div className="mt-3 h-28 overflow-hidden border-y paper-rule">
+          <img
+            src="/panels/buddha-mountain.png"
+            alt=""
+            className="h-full w-full object-cover ink-panel opacity-90"
+          />
+        </div>
+
+        <div className="mx-auto mt-8 flex size-16 items-center justify-center rounded-full border paper-rule bg-background text-reading text-2xl text-foreground/80">
+          {(profile?.username ?? user?.email ?? "Guest").trim().charAt(0).toUpperCase() || "G"}
         </div>
 
         {loading ? (
@@ -120,7 +128,7 @@ function ProfileScreen() {
           </div>
         ) : user ? (
           <>
-            <h1 className="mt-4 text-2xl font-semibold tracking-tight">
+            <h1 className="mt-4 text-reading text-2xl tracking-tight">
               <span className="block truncate max-w-full">
                 {profile?.username ?? user.email ?? "Signed in"}
               </span>
@@ -138,6 +146,7 @@ function ProfileScreen() {
                 type="button"
                 variant="outline"
                 onClick={() => supabase?.auth.signOut()}
+                className="rounded-full border-foreground/80 bg-transparent px-6"
               >
                 Sign out
               </Button>
@@ -145,12 +154,12 @@ function ProfileScreen() {
           </>
         ) : (
           <>
-            <h1 className="mt-4 text-2xl font-semibold tracking-tight">Guest</h1>
+            <h1 className="mt-4 text-reading text-2xl tracking-tight">Guest</h1>
             <p className="mt-2 text-sm text-muted-foreground">
-              Sign in to sync profile data when you add it.
+              Sign in to sync your reading across devices.
             </p>
             <div className="mt-8 flex justify-center">
-              <Button type="button" asChild>
+              <Button type="button" asChild className="rounded-full border border-foreground/80 bg-transparent px-6 text-foreground shadow-none hover:bg-foreground hover:text-background">
                 <Link to="/login">Sign in or create account</Link>
               </Button>
             </div>
@@ -167,11 +176,49 @@ function ProfileScreen() {
           </p>
         ) : null}
 
-        <div className="mt-6 text-left space-y-6">
-          <div className="glass rounded-2xl p-4">
+        <div className="mt-10 space-y-8 text-left">
+          <section>
+            <div className="label-mono text-muted-foreground">Theme</div>
+            <div className="mt-4 grid grid-cols-2 gap-2 border-t paper-rule pt-3">
+              <button
+                type="button"
+                aria-pressed={settings.theme === "paper"}
+                onClick={() => {
+                  updateSettings({ theme: "paper" });
+                  trackUxEvent("settings_theme_change", { theme: "paper" });
+                }}
+                className={`rounded-full border px-5 py-3 text-sm transition-colors ${
+                  settings.theme === "paper"
+                    ? "border-foreground bg-foreground text-background"
+                    : "paper-rule bg-transparent text-muted-foreground"
+                }`}
+              >
+                Paper
+              </button>
+              <button
+                type="button"
+                aria-pressed={settings.theme === "charcoal"}
+                onClick={() => {
+                  updateSettings({ theme: "charcoal" });
+                  trackUxEvent("settings_theme_change", { theme: "charcoal" });
+                }}
+                className={`rounded-full border px-5 py-3 text-sm transition-colors ${
+                  settings.theme === "charcoal"
+                    ? "border-foreground bg-foreground text-background"
+                    : "paper-rule bg-transparent text-muted-foreground"
+                }`}
+              >
+                Charcoal
+              </button>
+            </div>
+          </section>
+
+          <section>
             <div className="label-mono text-muted-foreground">Preferences</div>
-            <div className="mt-4 space-y-2">
-              <Label htmlFor="app-language">App Language</Label>
+            <div className="mt-4 space-y-2 border-t paper-rule pt-4">
+              <Label htmlFor="app-language" className="text-reading text-lg font-normal">
+                App language
+              </Label>
               <select
                 id="app-language"
                 value={settings.language}
@@ -180,7 +227,7 @@ function ProfileScreen() {
                   updateSettings({ language: val });
                   trackUxEvent("settings_language_change", { language: val });
                 }}
-                className="w-full rounded-2xl bg-background/30 border border-border/60 px-4 py-3 text-sm font-medium text-foreground/90 focus:outline-none focus:ring-1 focus:ring-primary"
+                className="w-full rounded-full border paper-rule bg-transparent px-4 py-3 text-sm font-medium text-foreground/90 focus:outline-none focus:ring-1 focus:ring-primary"
               >
                 <option value="en">English</option>
                 <option value="ja">日本語 (Japanese)</option>
@@ -189,13 +236,13 @@ function ProfileScreen() {
                 Sets the default language for suttas when a translation is available.
               </p>
             </div>
-          </div>
+          </section>
 
           {supabaseReady && user && profileAvailable && !usernameLocked ? (
-            <div className="glass rounded-2xl p-4">
+            <section>
               <div className="label-mono text-muted-foreground">Account</div>
               <form
-                className="mt-4 space-y-4"
+                className="mt-4 space-y-4 border-t paper-rule pt-4"
                 onSubmit={(e) => {
                   e.preventDefault();
                   if (usernameLocked) return;
@@ -244,37 +291,37 @@ function ProfileScreen() {
                   </p>
                 ) : null}
                 {canSaveUsername ? (
-                  <Button type="submit" className="w-full" disabled={editPending}>
+                  <Button type="submit" className="w-full rounded-full" disabled={editPending}>
                     {editPending ? "Saving…" : "Save username"}
                   </Button>
                 ) : null}
               </form>
-            </div>
+            </section>
           ) : null}
 
-          <div className="glass rounded-2xl p-4">
+          <section>
             <div className="label-mono text-muted-foreground">Engineering</div>
-            <div className="mt-4 flex items-center justify-between">
+            <div className="mt-4 flex items-center justify-between border-t paper-rule pt-4">
               <div>
-                <div className="text-sm font-medium">Dev Mode</div>
-                <div className="text-xs text-muted-foreground">Surfaces technical traces and admin tools</div>
+                <div className="text-reading text-lg">Dev mode</div>
+                <div className="text-xs text-muted-foreground">Surfaces traces and admin tools.</div>
               </div>
               <Button
                 size="sm"
                 variant={devModeEnabled ? "default" : "outline"}
                 onClick={toggleDevMode}
-                className="gap-2"
+                className="gap-2 rounded-full bg-transparent text-foreground shadow-none"
               >
-                <Cpu size={14} />
+                <SlidersHorizontal size={14} />
                 {devModeEnabled ? "ON" : "OFF"}
               </Button>
             </div>
-          </div>
+          </section>
         </div>
 
         {showDevTools && uxToolsEnabled ? (
           <div className="mt-4 text-left">
-          <div className="glass rounded-2xl p-4">
+          <div className="border-y paper-rule py-4">
             <div className="label-mono text-muted-foreground">UX notes (for you)</div>
             <p className="mt-1 text-xs text-muted-foreground">
               Use this while you work on images: write what felt confusing/slow/pleasant. Saved locally.
@@ -284,7 +331,7 @@ function ProfileScreen() {
               onChange={(e) => setNote(e.target.value)}
               placeholder="Example: The sutta header feels cramped on mobile; need more spacing above buttons…"
               rows={4}
-              className="mt-3 w-full glass rounded-2xl p-3 text-[14px] leading-relaxed bg-transparent resize-none focus:outline-none focus:ring-1 focus:ring-primary placeholder:text-muted-foreground/60"
+              className="mt-3 w-full resize-none border-y paper-rule bg-transparent p-3 text-[14px] leading-relaxed placeholder:text-muted-foreground/60 focus:outline-none focus:ring-1 focus:ring-primary"
             />
             <div className="mt-3 flex gap-2">
               <Button
@@ -313,7 +360,7 @@ function ProfileScreen() {
             </div>
           </div>
 
-          <div className="mt-3 glass rounded-2xl p-4">
+          <div className="mt-3 border-y paper-rule py-4">
             <div className="flex items-center justify-between gap-3">
               <div>
                 <div className="label-mono text-muted-foreground">UX log</div>

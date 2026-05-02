@@ -1,7 +1,6 @@
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
-import heroImg from "@/assets/reflection-hero.jpg";
 import { REFLECTION_QUERY_STORAGE_KEY } from "@/lib/damaApi";
 import { runHarness, type HarnessInput, HarnessError } from "@/lib/aiHarness";
 import { isUserAdmin } from "@/lib/devMode";
@@ -95,36 +94,28 @@ function ThinkingScreen() {
 
   return (
     <div className="min-h-screen dama-screen">
-      <ScreenHeader title="Reflection" />
-      <div className="px-5">
-        <div className="rounded-3xl overflow-hidden aspect-[16/10] relative glass">
-          <img
-            src={heroImg}
-            alt=""
-            className="absolute inset-0 w-full h-full object-cover opacity-70"
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent" />
-        </div>
+      <ScreenHeader title="Reflect" />
+      <div className="px-7 pt-24">
+        <div className="h-20 border-y paper-rule" />
 
         {question && (
-          <div className="mt-5 glass rounded-2xl p-4">
+          <div className="mt-5 border-y paper-rule py-4">
             <div className="label-mono text-muted-foreground">You asked</div>
-            <p className="mt-2 text-sm italic text-foreground/80 line-clamp-3">"{question}"</p>
+            <p className="mt-2 text-reading text-lg leading-relaxed text-muted-foreground line-clamp-3">
+              "{question}"
+            </p>
           </div>
         )}
 
         <div className="mt-10 flex flex-col items-center">
-          <div className="relative size-44 flex items-center justify-center">
-            <div className="absolute inset-0 rounded-full bg-primary/30 blur-2xl animate-pulse-glow" />
-            <div className="absolute inset-4 rounded-full bg-gradient-to-br from-primary to-accent animate-pulse-glow" />
-            <div className="absolute inset-8 rounded-full bg-background/50 backdrop-blur-md flex items-center justify-center">
-              <div className="size-3 rounded-full bg-primary glow-soft animate-pulse" />
-            </div>
+          <div className="relative flex size-28 items-center justify-center rounded-full border paper-rule">
+            <div className="absolute inset-4 rounded-full border border-primary/40 animate-ping" />
+            <div className="size-3 rounded-full bg-primary" />
           </div>
-          <p className="mt-8 text-center text-sm text-muted-foreground max-w-xs">
+          <p className="mt-8 max-w-xs text-center text-sm text-muted-foreground">
             {status === "error"
               ? "Could not prepare an AI answer. Check the detail below and try again."
-              : "Analyzing your reflection with Dhamma wisdom..."}
+              : "Preparing a response..."}
           </p>
           {status === "error" && errorMsg && (
             <div className="mt-4 w-full">
@@ -139,14 +130,14 @@ function ThinkingScreen() {
               <button
                 type="button"
                 onClick={() => navigate({ to: "/reflect/answer", replace: true })}
-                className="rounded-2xl bg-primary text-primary-foreground font-medium px-6 py-3 w-full"
+                className="rounded-full border border-foreground bg-transparent font-medium text-foreground px-6 py-3 w-full"
               >
                 Continue with offline text
               </button>
               <button
                 type="button"
                 onClick={() => window.location.reload()}
-                className="rounded-2xl glass font-medium px-6 py-3 w-full"
+                className="rounded-full border paper-rule font-medium px-6 py-3 w-full"
               >
                 Try again
               </button>

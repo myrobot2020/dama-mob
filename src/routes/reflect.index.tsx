@@ -1,8 +1,7 @@
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useState } from "react";
 import { ScreenHeader } from "@/components/ScreenHeader";
-import heroImg from "@/assets/reflection-hero.jpg";
-import { Sparkles } from "lucide-react";
+import { ArrowUp } from "lucide-react";
 
 type ReflectionBot = "simulation" | "buddha" | "psychologist" | "social" | "feminine";
 
@@ -52,34 +51,37 @@ function ReflectScreen() {
 
   return (
     <div className="min-h-screen dama-screen">
-      <ScreenHeader title="Reflection" showBack={false} />
-      <div className="px-5">
-        <div className="relative aspect-[16/10] overflow-hidden rounded-3xl glass">
-          <img
-            src={heroImg}
-            alt=""
-            className="absolute inset-0 h-full w-full object-cover"
+      <ScreenHeader title="Reflect" showBack={false} />
+      <div className="px-7 pt-24">
+        <div className="border-y paper-rule py-8">
+          <div className="label-mono text-foreground/70">A question, a quiet thought</div>
+          <textarea
+            value={text}
+            onChange={(e) => setText(e.target.value)}
+            placeholder="What does the Buddha mean by ‘a finger snap’?"
+            rows={5}
+            className="mt-4 w-full resize-none bg-transparent text-reading text-[1.25rem] leading-relaxed placeholder:text-muted-foreground/55 focus:outline-none"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent" />
         </div>
 
-        <div className="mt-5">
-          <div className="label-mono text-primary">End of Day Question</div>
-          <h1 className="mt-1 text-2xl font-semibold leading-snug tracking-tight">
-            Which part of your mind today was least touched by goodwill, and what was it holding
-            onto?
-          </h1>
-          <p className="mt-2 text-sm text-muted-foreground">
-            Take a slow breath. Write what arises without editing it into something prettier.
-          </p>
+        <div className="mt-5 flex items-center justify-between gap-4 border-b paper-rule pb-4">
+          <div className="text-xs text-muted-foreground">{text.length} chars</div>
+          <button
+            type="button"
+            onClick={() => submit(bot)}
+            disabled={!text.trim()}
+            className="inline-flex items-center gap-2 rounded-full border paper-rule px-5 py-3 text-sm text-muted-foreground transition-colors enabled:border-foreground enabled:text-foreground disabled:opacity-50"
+          >
+            Send <ArrowUp size={15} />
+          </button>
         </div>
 
-        <label className="mt-4 block glass rounded-2xl p-4">
-          <span className="label-mono text-muted-foreground">Choose an AI voice</span>
+        <label className="mt-8 block">
+          <span className="label-mono text-muted-foreground">Voice</span>
           <select
             value={bot}
             onChange={(e) => setBot(e.target.value as ReflectionBot)}
-            className="mt-3 w-full rounded-2xl border border-border/60 bg-background/30 px-4 py-3 text-sm font-medium text-foreground/90 focus:outline-none focus:ring-1 focus:ring-primary"
+            className="mt-3 w-full rounded-full border paper-rule bg-transparent px-4 py-3 text-sm font-medium text-foreground/90 focus:outline-none focus:ring-1 focus:ring-primary"
             aria-label="AI voice"
           >
             <option value="buddha">{botLabel("buddha")}</option>
@@ -89,23 +91,7 @@ function ReflectScreen() {
             <option value="feminine">{botLabel("feminine")}</option>
           </select>
         </label>
-
-        <textarea
-          value={text}
-          onChange={(e) => setText(e.target.value)}
-          placeholder="Begin writing..."
-          rows={6}
-          className="mt-4 w-full resize-none rounded-2xl bg-transparent p-4 text-[15px] leading-relaxed glass placeholder:text-muted-foreground/60 focus:outline-none focus:ring-1 focus:ring-primary"
-        />
-
-        <button
-          type="button"
-          onClick={() => submit(bot)}
-          disabled={!text.trim()}
-          className="mt-4 flex w-full items-center justify-center gap-2 rounded-2xl bg-primary py-4 font-medium text-primary-foreground animate-pulse-glow disabled:animate-none disabled:opacity-40"
-        >
-          <Sparkles size={16} /> {askBotLabel}
-        </button>
+        <div className="sr-only">{askBotLabel}</div>
       </div>
     </div>
   );

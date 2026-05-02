@@ -10,6 +10,8 @@ describe("suttaQuizzes", () => {
         "AN 1.19.2",
         "AN 1.20.1",
         "AN 1.20.2",
+        "AN 1.21.47",
+        "1.48",
       ]),
     );
   });
@@ -24,7 +26,7 @@ describe("suttaQuizzes", () => {
   it("shows teacher summaries for the Book of Ones quizzes instead of teacher clips", () => {
     const bookOfOnes = suttaQuizzes.filter((quiz) => quiz.suttaId.startsWith("AN 1."));
 
-    expect(bookOfOnes).toHaveLength(5);
+    expect(bookOfOnes).toHaveLength(6);
     for (const quiz of bookOfOnes) {
       expect(quiz.teacherClip).toBeUndefined();
       expect(quiz.teacherSummary?.length).toBeGreaterThan(80);

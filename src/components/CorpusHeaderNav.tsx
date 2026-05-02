@@ -184,7 +184,7 @@ export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string })
         value={nikaya}
         onChange={(e) => onNikayaChange(e.target.value as NikayaId)}
         disabled={load === "loading"}
-        className="max-w-[7.5rem] rounded-lg bg-background/50 border border-border/60 px-1.5 py-1 text-[9px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
+        className="max-w-[7.5rem] rounded-full bg-background/60 border paper-rule px-2.5 py-1 text-[9px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
         aria-label="Nikāya"
         title={NIKAYA_OPTIONS.find((o) => o.value === nikaya)?.title}
       >
@@ -200,7 +200,7 @@ export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string })
           value={book}
           onChange={(e) => onBookChange(e.target.value)}
           disabled={bookDisabled}
-          className="max-w-[9.5rem] rounded-lg bg-background/50 border border-border/60 px-1.5 py-1 text-[9px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
+          className="max-w-[9.5rem] rounded-full bg-background/60 border paper-rule px-2.5 py-1 text-[9px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
           aria-label="Aṅguttara book"
           title={bookTitle}
         >
@@ -218,7 +218,7 @@ export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string })
           value={otherBookSelectValue}
           onChange={(e) => onBookChange(e.target.value)}
           disabled={bookDisabled || uniqueOtherBooks.length === 0}
-          className="max-w-[9.5rem] rounded-lg bg-background/50 border border-border/60 px-1.5 py-1 text-[9px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
+          className="max-w-[9.5rem] rounded-full bg-background/60 border paper-rule px-2.5 py-1 text-[9px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
           aria-label="Book"
           title={bookTitle}
         >
@@ -237,7 +237,7 @@ export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string })
           value={suttaSelectValue}
           onChange={(e) => onSuttaChange(e.target.value)}
           disabled={load !== "ok" || suttasInBook.length === 0}
-          className="min-w-0 flex-1 rounded-lg bg-background/50 border border-border/60 px-1.5 py-1 text-[10px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
+          className="min-w-0 flex-1 rounded-full bg-background/60 border paper-rule px-2.5 py-1 text-[10px] label-mono normal-case text-muted-foreground focus:outline-none focus:ring-1 focus:ring-primary disabled:opacity-60"
           aria-label="Sutta"
           title={
             load === "error"
@@ -280,7 +280,7 @@ export function CorpusHeaderNav({ currentSuttaId }: { currentSuttaId?: string })
           <button
             type="button"
             onClick={() => refetch()}
-            className="shrink-0 size-7 rounded-lg glass flex items-center justify-center text-muted-foreground hover:text-foreground focus:outline-none focus:ring-1 focus:ring-primary"
+            className="shrink-0 size-7 rounded-full border paper-rule bg-background/60 flex items-center justify-center text-muted-foreground hover:text-foreground focus:outline-none focus:ring-1 focus:ring-primary"
             aria-label={load === "loading" ? "Cancel and retry" : "Retry loading corpus"}
             title="Retry"
           >

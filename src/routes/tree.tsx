@@ -143,10 +143,10 @@ function TreeScreen() {
   return (
     <div className="min-h-screen dama-screen">
       <ScreenHeader title="Tree" showBack={false} />
-      <div className="px-5 pt-6 pb-[var(--dama-bottom-pad,0px)]">
+      <div className="px-7 pt-20 pb-[var(--dama-bottom-pad,0px)]">
         <div>
           <div className="flex items-end justify-between gap-3">
-            <div className="label-mono text-primary">Leaves</div>
+            <div className="label-mono text-foreground/70">Leaves</div>
             <div className="text-[11px] text-muted-foreground label-mono normal-case">
               {bookLabel}
             </div>
@@ -161,12 +161,12 @@ function TreeScreen() {
                   type="button"
                   onClick={() => setSelectedNikaya(option.value)}
                   disabled={count === 0}
-                  className={`shrink-0 rounded-xl px-3 py-2 text-xs font-medium ring-1 transition-colors ${
+                  className={`shrink-0 rounded-full px-4 py-2 text-sm border transition-colors ${
                     active
-                      ? "bg-primary text-primary-foreground ring-primary"
+                      ? "bg-transparent text-foreground border-foreground"
                       : count === 0
-                        ? "bg-background/15 text-muted-foreground/35 ring-white/5"
-                        : "bg-background/35 text-muted-foreground ring-white/10"
+                        ? "bg-transparent text-muted-foreground/35 border-border/35"
+                        : "bg-transparent text-muted-foreground paper-rule"
                   }`}
                   title={`${count} indexed suttas`}
                 >
@@ -185,10 +185,10 @@ function TreeScreen() {
                     key={book}
                     type="button"
                     onClick={() => setSelectedBook(book)}
-                    className={`shrink-0 rounded-xl px-3 py-2 text-xs font-medium ring-1 transition-colors ${
+                    className={`shrink-0 size-9 rounded-full text-sm border transition-colors ${
                       active
-                        ? "bg-primary text-primary-foreground ring-primary"
-                        : "bg-background/35 text-muted-foreground ring-white/10"
+                        ? "bg-transparent text-primary border-primary"
+                        : "bg-transparent text-muted-foreground paper-rule"
                     }`}
                   >
                     {book === "all" ? "All" : book}
@@ -216,10 +216,10 @@ function TreeScreen() {
                     if (allRead) clearSuttasRead(ids);
                     else markSuttasRead(ids);
                   }}
-                  className={`shrink-0 rounded-xl px-3 py-2 text-xs font-medium ring-1 transition-colors ${
+                  className={`shrink-0 rounded-full px-4 py-2 text-xs font-medium border transition-colors ${
                     allRead
-                      ? "bg-green-400/12 text-green-400 ring-green-400/35 hover:bg-green-400/20"
-                      : "bg-primary text-primary-foreground ring-primary shadow-lg shadow-primary/20 active:scale-95"
+                      ? "bg-transparent text-accent border-accent hover:bg-accent/5"
+                      : "bg-transparent text-accent border-accent active:scale-95"
                   }`}
                 >
                   {allRead ? (
@@ -227,11 +227,11 @@ function TreeScreen() {
                       <Check size={13} /> Clear Book
                     </span>
                   ) : (
-                    "Mark Book Read"
+                    "Mark book read"
                   )}
                 </button>
               </div>
-              <div className="mt-3 grid grid-cols-[repeat(auto-fill,minmax(3rem,1fr))] gap-2">
+              <div className="mt-5 grid grid-cols-[repeat(auto-fill,minmax(4.7rem,1fr))] gap-3">
                 {ordered.map((leaf) => {
                   const isRead = readIds.has(leaf.suttaId);
                   return (
@@ -242,10 +242,10 @@ function TreeScreen() {
                           if (isRead) clearSuttaRead(leaf.suttaId);
                           else markSuttaRead(leaf.suttaId);
                         }}
-                        className={`w-full aspect-square rounded-xl flex items-center justify-center ring-1 transition-all active:scale-90 ${
+                        className={`w-full aspect-square rounded-[1.35rem] flex items-center justify-center border transition-all active:scale-95 ${
                           isRead
-                            ? "bg-green-400/12 text-green-400 ring-green-400/35 hover:bg-green-400/22"
-                            : "bg-background/30 text-white/25 ring-white/10 hover:text-white/45 hover:ring-white/20"
+                            ? "bg-transparent text-accent border-accent hover:bg-accent/5"
+                            : "bg-transparent text-foreground/70 paper-rule hover:border-foreground"
                         }`}
                         title={isRead ? "Click to mark unread" : "Click to mark read"}
                       >
@@ -255,7 +255,7 @@ function TreeScreen() {
                       <Link
                         to="/sutta/$suttaId"
                         params={{ suttaId: leaf.suttaId }}
-                        className="absolute -top-1 -right-1 size-5 rounded-full bg-background border border-white/10 flex items-center justify-center text-muted-foreground hover:text-primary transition-colors shadow-lg"
+                        className="absolute -top-1 -right-1 size-5 rounded-full bg-background border paper-rule flex items-center justify-center text-muted-foreground hover:text-primary transition-colors"
                         title={`Go to ${leaf.suttaId}`}
                       >
                         <ExternalLink size={10} />

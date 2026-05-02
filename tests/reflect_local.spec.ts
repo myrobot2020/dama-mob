@@ -4,12 +4,14 @@ test.use({ ...devices["Pixel 5"] });
 
 const BASE = process.env.PW_BASE_URL || "http://localhost:8080";
 
-test("Reflection page shows in-app BuddhaBot button", async ({ page }) => {
+test("Reflection page shows the current paper prompt controls", async ({ page }) => {
   // Wait for hydration/assets so controls are interactive in headless runs.
   await page.goto(`${BASE}/reflect`, { waitUntil: "networkidle" });
 
-  await expect(page.getByRole("button", { name: "Get DAMA Answer" })).toBeVisible();
-  await expect(page.getByRole("button", { name: "Ask BuddhaBot (in-app)" })).toBeVisible();
+  await expect(page.getByText("A QUESTION, A QUIET THOUGHT")).toBeVisible();
+  await expect(page.locator("textarea").first()).toBeVisible();
+  await expect(page.getByRole("button", { name: /Send/i })).toBeDisabled();
+  await expect(page.getByLabel("AI voice")).toBeVisible();
 });
 
 test("BuddhaBot reflection flow returns an answer", async ({ page }) => {
@@ -31,12 +33,11 @@ test("BuddhaBot reflection flow returns an answer", async ({ page }) => {
   await textarea.fill("Today I felt scattered and impatient. I want to be kinder.");
   await expect(textarea).toHaveValue(/kinder/);
 
-  const askBtn = page.getByRole("button", { name: "Ask BuddhaBot (in-app)" });
+  const askBtn = page.getByRole("button", { name: /Send/i });
   await expect(askBtn).toBeEnabled({ timeout: 15_000 });
   await askBtn.click();
 
-  await expect(page).toHaveURL(/\/reflect\/thinking/);
-  await expect(page.getByText(/Analyzing your reflection/i)).toBeVisible({ timeout: 15_000 });
+  await expect(page).toHaveURL(/\/reflect\/(thinking|answer)/);
   const stored = await page.evaluate(() => ({
     reflection: localStorage.getItem("dama:reflection"),
     mode: localStorage.getItem("dama:reflectionMode"),

@@ -200,6 +200,13 @@ export function getReadSuttaIds(map: ReadingProgressMap): string[] {
     .sort((a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: "base" }));
 }
 
+export function getLastOpenedSuttaId(map: ReadingProgressMap): string | null {
+  const entries = Object.entries(map).filter(([, it]) => Boolean(it.openedAtMs));
+  if (entries.length === 0) return null;
+  entries.sort((a, b) => (b[1].openedAtMs || 0) - (a[1].openedAtMs || 0));
+  return entries[0][0];
+}
+
 export function countReadByNikaya(ids: string[]): Record<NikayaId, number> {
   const counts: Record<NikayaId, number> = { AN: 0, SN: 0, DN: 0, MN: 0, KN: 0 };
   for (const id of ids) {

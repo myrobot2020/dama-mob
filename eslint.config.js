@@ -5,11 +5,32 @@ import reactHooks from "eslint-plugin-react-hooks";
 import reactRefresh from "eslint-plugin-react-refresh";
 import tseslint from "typescript-eslint";
 
+const lintedFiles = [
+  "src/**/*.{ts,tsx}",
+  "tests/**/*.ts",
+  "playwright.config.ts",
+  "vite.config.ts",
+  "vitest.config.ts",
+];
+
 export default tseslint.config(
-  { ignores: ["dist", ".output", ".vinxi"] },
+  {
+    ignores: [
+      "dist",
+      ".output",
+      ".tanstack",
+      ".venv",
+      ".vinxi",
+      ".wrangler",
+      ".pytest_cache",
+      "coverage",
+      "node_modules",
+      "test-results",
+    ],
+  },
   {
     extends: [js.configs.recommended, ...tseslint.configs.recommended],
-    files: ["**/*.{ts,tsx}"],
+    files: lintedFiles,
     languageOptions: {
       ecmaVersion: 2020,
       globals: globals.browser,
@@ -24,5 +45,5 @@ export default tseslint.config(
       "@typescript-eslint/no-unused-vars": "off",
     },
   },
-  eslintPluginPrettier,
+  { ...eslintPluginPrettier, files: lintedFiles },
 );

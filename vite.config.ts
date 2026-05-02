@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import tailwindcss from "@tailwindcss/vite";
 import { tanstackStart } from "@tanstack/react-start/plugin/vite";
@@ -56,6 +57,233 @@ if (!fsAllowDirs.some((p) => path.resolve(p) === path.resolve(audRoot))) {
   fsAllowDirs.push(audRoot);
 }
 
+function pipelineWorkApiPlugin() {
+  const workRoot = path.join(projectRoot, "data", "work");
+
+  const handleWorkApiRequest = (req, res) => {
+    try {
+      const url = new URL(req.url || "", "http://localhost");
+      const rawPath = url.searchParams.get("p") || "";
+      const normalizedPath = rawPath.replace(/\\/g, "/");
+      const filePath = path.resolve(workRoot, normalizedPath);
+
+      if (!filePath.startsWith(workRoot + path.sep)) {
+        res.statusCode = 400;
+        res.setHeader("Content-Type", "application/json");
+        res.end(JSON.stringify({ error: "Invalid proof path", p: rawPath }));
+        return;
+      }
+
+      if (req.method === "PUT") {
+        let body = "";
+        req.setEncoding("utf8");
+        req.on("data", (chunk) => {
+          body += chunk;
+        });
+        req.on("end", () => {
+          try {
+            JSON.parse(body);
+            fs.mkdirSync(path.dirname(filePath), { recursive: true });
+            fs.writeFileSync(filePath, `${body.trim()}\n`, "utf8");
+            res.statusCode = 200;
+            res.setHeader("Content-Type", "application/json");
+            res.end(JSON.stringify({ ok: true, p: normalizedPath }));
+          } catch (error) {
+            res.statusCode = 400;
+            res.setHeader("Content-Type", "application/json");
+            res.end(JSON.stringify({ error: error instanceof Error ? error.message : String(error) }));
+          }
+        });
+        return;
+      }
+
+      if (!fs.existsSync(filePath) || !fs.statSync(filePath).isFile()) {
+        res.statusCode = 404;
+        res.setHeader("Content-Type", "application/json");
+        res.end(JSON.stringify({ error: "Proof file not found", p: rawPath }));
+        return;
+      }
+
+      res.statusCode = 200;
+      res.setHeader("Content-Type", "application/json; charset=utf-8");
+      res.end(fs.readFileSync(filePath, "utf8"));
+    } catch (error) {
+      res.statusCode = 500;
+      res.setHeader("Content-Type", "application/json");
+      res.end(JSON.stringify({ error: error instanceof Error ? error.message : String(error) }));
+    }
+  };
+
+  return {
+    name: "dama-pipeline-work-api",
+    configureServer(server) {
+      server.middlewares.use("/work-api", handleWorkApiRequest);
+    },
+    configurePreviewServer(server) {
+      server.middlewares.use("/work-api", handleWorkApiRequest);
+    },
+  };
+}
+
+function pipelineStatusApiPlugin() {
+  const handleStatusRequest = (_req, res) => {
+    try {
+      const uvCommand = process.platform === "win32" ? "uv.exe" : "uv";
+      const result = spawnSync(
+        uvCommand,
+        ["run", "python", "-m", "scripts2.streaming.status", "snapshot"],
+        { cwd: projectRoot, encoding: "utf8", timeout: 5000 },
+      );
+      if (result.error) throw result.error;
+      if (result.status !== 0) throw new Error(result.stderr || result.stdout || "status snapshot failed");
+      res.statusCode = 200;
+      res.setHeader("Content-Type", "application/json; charset=utf-8");
+      res.end(result.stdout);
+    } catch (error) {
+      res.statusCode = 500;
+      res.setHeader("Content-Type", "application/json");
+      res.end(JSON.stringify({ error: error instanceof Error ? error.message : String(error) }));
+    }
+  };
+
+  return {
+    name: "dama-pipeline-status-api",
+    configureServer(server) {
+      server.middlewares.use("/pipeline-status-api", handleStatusRequest);
+    },
+    configurePreviewServer(server) {
+      server.middlewares.use("/pipeline-status-api", handleStatusRequest);
+    },
+  };
+}
+
+function imageSelectorApiPlugin() {
+  const panelsRoot = path.join(projectRoot, "public", "panels");
+  const selectionsRoot = path.join(projectRoot, "data", "work", "streaming", "image_selections");
+
+  const safeSelectionId = (suttaId: string) => suttaId.trim().replace(/\s+/g, "_").replace(/[^\w.-]/g, "_");
+  const candidateTitle = (fileName: string) =>
+    fileName
+      .replace(/\.[^.]+$/, "")
+      .split(/[-_]+/)
+      .filter(Boolean)
+      .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+      .join(" ");
+
+  const readJsonFile = (filePath: string) => {
+    if (!fs.existsSync(filePath) || !fs.statSync(filePath).isFile()) return null;
+    return JSON.parse(fs.readFileSync(filePath, "utf8"));
+  };
+
+  const readSelections = () => {
+    if (!fs.existsSync(selectionsRoot)) return {};
+    const selections: Record<string, unknown> = {};
+    for (const file of fs.readdirSync(selectionsRoot)) {
+      if (!file.endsWith(".json")) continue;
+      const selection = readJsonFile(path.join(selectionsRoot, file));
+      if (selection?.sutta_id) selections[selection.sutta_id] = selection;
+    }
+    return selections;
+  };
+
+  const handleImageSelectorRequest = (req, res) => {
+    try {
+      if (req.method === "GET") {
+        const candidates = fs.existsSync(panelsRoot)
+          ? fs
+              .readdirSync(panelsRoot)
+              .filter((file) => /\.(png|jpe?g|webp)$/i.test(file))
+              .sort()
+              .map((file) => ({
+                panelId: file.replace(/\.[^.]+$/, ""),
+                imageUrl: `/panels/${file}`,
+                localPath: `public/panels/${file}`,
+                title: candidateTitle(file),
+              }))
+          : [];
+
+        res.statusCode = 200;
+        res.setHeader("Content-Type", "application/json; charset=utf-8");
+        res.end(JSON.stringify({ candidates, selections: readSelections() }));
+        return;
+      }
+
+      if (req.method === "PUT") {
+        let body = "";
+        req.setEncoding("utf8");
+        req.on("data", (chunk) => {
+          body += chunk;
+        });
+        req.on("end", () => {
+          try {
+            const payload = JSON.parse(body);
+            const suttaId = String(payload.sutta_id || "").trim();
+            const panelId = String(payload.panel_id || "").trim();
+            const imageUrl = String(payload.image_url || "").trim();
+            if (!suttaId || !panelId || !imageUrl) {
+              throw new Error("sutta_id, panel_id, and image_url are required");
+            }
+
+            fs.mkdirSync(selectionsRoot, { recursive: true });
+            const selection = {
+              sutta_id: suttaId,
+              panel_id: panelId,
+              image_url: imageUrl,
+              status: "selected",
+              selection_word: String(payload.selection_word || ""),
+              selection_reason: String(payload.selection_reason || ""),
+              exact_sutta_text: String(payload.exact_sutta_text || ""),
+              selected_by: "pipeline-ui",
+              created_at: new Date().toISOString(),
+            };
+            fs.writeFileSync(
+              path.join(selectionsRoot, `${safeSelectionId(suttaId)}.json`),
+              `${JSON.stringify(selection, null, 2)}\n`,
+              "utf8",
+            );
+
+            const approval = spawnSync(
+              process.platform === "win32" ? "python.exe" : "python",
+              ["-m", "scripts2.streaming.approve_image_selection", "--sutta-id", suttaId],
+              { cwd: projectRoot, encoding: "utf8" },
+            );
+            if (approval.status !== 0) {
+              throw new Error((approval.stderr || approval.stdout || "image selection approval failed").trim());
+            }
+
+            res.statusCode = 200;
+            res.setHeader("Content-Type", "application/json");
+            res.end(JSON.stringify({ ok: true, selection }));
+          } catch (error) {
+            res.statusCode = 400;
+            res.setHeader("Content-Type", "application/json");
+            res.end(JSON.stringify({ error: error instanceof Error ? error.message : String(error) }));
+          }
+        });
+        return;
+      }
+
+      res.statusCode = 405;
+      res.setHeader("Content-Type", "application/json");
+      res.end(JSON.stringify({ error: "Method not allowed" }));
+    } catch (error) {
+      res.statusCode = 500;
+      res.setHeader("Content-Type", "application/json");
+      res.end(JSON.stringify({ error: error instanceof Error ? error.message : String(error) }));
+    }
+  };
+
+  return {
+    name: "dama-image-selector-api",
+    configureServer(server) {
+      server.middlewares.use("/image-selector-api", handleImageSelectorRequest);
+    },
+    configurePreviewServer(server) {
+      server.middlewares.use("/image-selector-api", handleImageSelectorRequest);
+    },
+  };
+}
+
 // Proxy /api to a local FastAPI backend (optional). Start it on port 8000 when using chat/reflect.
 const damaProxy = {
   "/api": {
@@ -98,6 +326,9 @@ export default defineConfig(async (env) => {
       : []),
     tanstackStart({ srcDirectory: "src" }),
     viteReact(),
+    pipelineStatusApiPlugin(),
+    pipelineWorkApiPlugin(),
+    imageSelectorApiPlugin(),
     openaiReflectionDevMiddleware(),
     ...(ciGcp
       ? [

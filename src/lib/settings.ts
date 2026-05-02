@@ -5,13 +5,16 @@
 export const SETTINGS_STORAGE_KEY = "dama:settings";
 
 export type AppLanguage = "en" | "ja";
+export type AppTheme = "paper" | "charcoal";
 
 export type AppSettings = {
   language: AppLanguage;
+  theme: AppTheme;
 };
 
 export const DEFAULT_SETTINGS: AppSettings = {
   language: "en",
+  theme: "paper",
 };
 
 const listeners = new Set<() => void>();
@@ -26,7 +29,8 @@ function parseStored(raw: string): AppSettings {
     if (!v || typeof v !== "object") return DEFAULT_SETTINGS;
     const it = v as Record<string, unknown>;
     const language = it.language === "ja" ? "ja" : "en";
-    return { language };
+    const theme = it.theme === "charcoal" ? "charcoal" : "paper";
+    return { language, theme };
   } catch {
     return DEFAULT_SETTINGS;
   }

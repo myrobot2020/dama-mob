@@ -26,10 +26,10 @@ vi.mock("@tanstack/react-router", () => ({
 }));
 
 describe("SuttaInterpretLink", () => {
-  it("links the current sutta to its quiz route", () => {
+  it("links the current sutta to its practice route", () => {
     render(<SuttaInterpretLink suttaId="1.48" />);
 
-    expect(screen.getByRole("link", { name: "Try interpreting" })).toBeInTheDocument();
-    expect(linkProps.latest).toEqual({ to: "/quiz/$suttaId", params: { suttaId: "1.48" } });
+    expect(screen.getByRole("link", { name: "Practice" })).toBeInTheDocument();
+    expect(linkProps.latest).toEqual({ to: "/practice/$suttaId", params: { suttaId: "1.48" } });
   });
 });

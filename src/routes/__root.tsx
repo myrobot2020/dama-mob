@@ -5,6 +5,7 @@ import appCss from "../styles.css?url";
 import { ClientBootstrap } from "@/components/ClientBootstrap";
 import { ClientSync } from "@/components/ClientSync";
 import { ClientTelemetry } from "@/components/ClientTelemetry";
+import { ThemeSync } from "@/components/ThemeSync";
 
 function NotFoundComponent() {
   return (
@@ -100,6 +101,7 @@ function RootComponent() {
   const app = (
     <>
       <ClientBootstrap />
+      <ThemeSync />
       <ClientSync />
       <ClientTelemetry />
       <Outlet />

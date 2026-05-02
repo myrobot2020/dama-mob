@@ -43,7 +43,7 @@ npm run verify
 The pipeline manages data validation and syncing to GCS for the Nikāya corpus (**AN, SN, DN, MN, KN**).
 
 - **GCS Buckets:** 
-  - JSON: `gs://damalight-dama-json` (CORS: `*`)
+      - JSON: `gs://damalight-dama-json` (CORS: `*`)
   - Audio: `gs://damalight-dama-aud`
 - **Validation**: `scripts2/12_validate.py` (promotes suttas to `valid: true`).
 - **Sync**: `scripts2/sync_gcs.py` (uploads `data/validated-json` to `gs://damalight-dama-json/nikaya/`).

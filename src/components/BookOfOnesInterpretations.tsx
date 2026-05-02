@@ -59,11 +59,11 @@ export function BookOfOnesInterpretations({ currentSuttaId }: { currentSuttaId: 
               <h3 className="mt-1 text-sm font-semibold leading-snug">{item.title}</h3>
               <p className="mt-1 text-xs leading-relaxed text-muted-foreground">{item.subtitle}</p>
               <Link
-                to="/quiz/$suttaId"
+                to="/practice/$suttaId"
                 params={{ suttaId: item.suttaId }}
                 className="mt-3 block w-full rounded-xl bg-primary px-3 py-2.5 text-center text-xs font-semibold text-primary-foreground shadow-lg shadow-primary/15 transition-all hover:bg-primary/90 active:scale-[0.98]"
               >
-                Try interpreting
+                Practice
               </Link>
             </div>
           </article>

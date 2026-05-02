@@ -106,15 +106,14 @@ function AnswerScreen() {
 
   return (
     <div className="min-h-screen dama-screen pb-12">
-      <ScreenHeader title="AI Answer" showBookmark />
-      <div className="px-5">
-        <div className="label-mono text-primary">Grounded Response</div>
-        <h1 className="mt-1 text-2xl font-semibold tracking-tight">A reflection from the canon</h1>
+      <ScreenHeader title="Reflect" showBookmark />
+      <div className="px-7 pt-24">
+        <div className="label-mono text-foreground/70">Response</div>
 
         {question && (
-          <div className="mt-4 glass rounded-2xl p-4">
+          <div className="mt-4 border-y paper-rule py-4">
             <div className="label-mono text-muted-foreground">Your question</div>
-            <p className="mt-1.5 text-sm italic text-foreground/80">"{question}"</p>
+            <p className="mt-2 text-reading text-lg leading-relaxed text-muted-foreground">"{question}"</p>
           </div>
         )}
 
@@ -122,7 +121,7 @@ function AnswerScreen() {
           <div className="label-mono text-muted-foreground mb-2">
             Explanation ({modeLabel(mode)})
           </div>
-          <p className="text-[15px] leading-relaxed text-foreground/85 whitespace-pre-wrap">
+          <p className="text-reading text-xl leading-relaxed text-foreground whitespace-pre-wrap">
             {explanation}
           </p>
         </section>
@@ -131,7 +130,7 @@ function AnswerScreen() {
           <section className="mt-6">
             <button
               onClick={() => setShowTrace(!showTrace)}
-              className="w-full flex items-center justify-between p-4 glass rounded-2xl border border-white/5 hover:bg-primary/5 transition-colors"
+              className="w-full flex items-center justify-between border-y paper-rule py-4 hover:bg-primary/5 transition-colors"
             >
               <div className="flex items-center gap-2">
                 <Cpu size={16} className="text-primary" />
@@ -143,8 +142,8 @@ function AnswerScreen() {
             </button>
 
             {showTrace && (
-              <div className="mt-2 glass rounded-2xl p-4 border border-primary/20 bg-primary/5 overflow-hidden">
-                <div className="flex items-center justify-between mb-4 border-b border-white/10 pb-2">
+              <div className="mt-2 border-y paper-rule bg-primary/5 p-4 overflow-hidden">
+                <div className="flex items-center justify-between mb-4 border-b paper-rule pb-2">
                   <div className="text-[10px] label-mono text-muted-foreground">
                     RUN_ID: <span className="text-primary">{harnessState.runId}</span>
                   </div>
@@ -155,7 +154,7 @@ function AnswerScreen() {
 
                 <div className="space-y-4">
                   {harnessState.trace.map((event: any, i: number) => (
-                    <div key={i} className="relative pl-4 border-l-2 border-white/10">
+                    <div key={i} className="relative pl-4 border-l-2 paper-rule">
                       <div className="absolute -left-[5px] top-1 size-2 rounded-full bg-primary shadow-[0_0_8px_var(--glow)]" />
                       <div className="flex items-center justify-between">
                         <span className="text-[11px] font-bold label-mono text-foreground/90">
@@ -188,7 +187,7 @@ function AnswerScreen() {
                   ))}
                 </div>
 
-                <div className="mt-4 pt-2 border-t border-white/10 flex items-center gap-2">
+                <div className="mt-4 pt-2 border-t paper-rule flex items-center gap-2">
                   <History size={12} className="text-muted-foreground" />
                   <span className="text-[10px] label-mono text-muted-foreground">
                     Intent: {harnessState.intent.kind} ({(harnessState.intent.confidence * 100).toFixed(0)}%)
@@ -205,8 +204,8 @@ function AnswerScreen() {
 
         <button
           onClick={save}
-          className={`mt-6 w-full rounded-2xl font-medium py-4 flex items-center justify-center gap-2 ${
-            saved ? "glass text-primary" : "bg-primary text-primary-foreground animate-pulse-glow"
+          className={`mt-6 w-full rounded-full border py-4 font-medium flex items-center justify-center gap-2 ${
+            saved ? "paper-rule text-primary" : "border-foreground bg-transparent text-foreground"
           }`}
         >
           {saved ? (

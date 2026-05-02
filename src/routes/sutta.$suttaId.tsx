@@ -17,9 +17,10 @@ import {
 } from "@/lib/readingProgress";
 import { trackUxEvent } from "@/lib/uxLog";
 import { readSettings, subscribeSettings } from "@/lib/settings";
-import { Check, Hexagon, Languages } from "lucide-react";
+import { Bookmark, Check, Hexagon, Languages } from "lucide-react";
 
 import {
+  anBookFromSuttaId,
   canonIndexSubtitle,
   getCorpusAudSrc,
   getItem,
@@ -63,6 +64,62 @@ export const Route = createFileRoute("/sutta/$suttaId")({
 
 const DEFAULT_SETTINGS = { language: "en" as const };
 const EMPTY_READING_PROGRESS = {};
+const BOOK_ONE_PANELS = [
+  "/panels/buddha-square-01.png",
+  "/panels/buddha-scene-01.png",
+  "/panels/buddha-scene-02.png",
+  "/panels/buddha-tall-01.png",
+] as const;
+
+function suttaHash(suttaId: string): number {
+  let h = 0;
+  for (let i = 0; i < suttaId.length; i += 1) {
+    h = (h * 31 + suttaId.charCodeAt(i)) >>> 0;
+  }
+  return h;
+}
+
+function getBookOnePanel(suttaId: string): { src: string; variant: number } | null {
+  if (anBookFromSuttaId(suttaId) !== 1) return null;
+  const h = suttaHash(suttaId);
+  const lastSegment = suttaId
+    .replace(/^AN\s+/i, "")
+    .split(".")
+    .map((part) => parseInt(part, 10))
+    .filter(Number.isFinite)
+    .at(-1);
+  return {
+    src: BOOK_ONE_PANELS[h % BOOK_ONE_PANELS.length],
+    variant: (lastSegment ?? h) % 4,
+  };
+}
+
+function SuttaPanelImage({
+  src,
+  variant,
+  className = "",
+}: {
+  src: string;
+  variant: number;
+  className?: string;
+}) {
+  const styles = [
+    "h-40 border-y paper-rule",
+    "mx-5 h-44 rounded-[1.35rem] border paper-rule",
+    "ml-auto h-56 w-[72%] rounded-[1.35rem] border paper-rule",
+    "mx-auto h-60 w-[76%] rounded-[1.35rem] border paper-rule",
+  ];
+  return (
+    <div className={`${styles[variant]} overflow-hidden bg-background ${className}`}>
+      <img
+        src={src}
+        alt=""
+        className="h-full w-full object-cover object-center ink-panel"
+        loading="lazy"
+      />
+    </div>
+  );
+}
 
 function SuttaByIdScreen() {
   const { suttaId } = Route.useParams();
@@ -88,6 +145,7 @@ function SuttaByIdScreen() {
   const isRead = Boolean(id && readingProgress[id]?.readAtMs);
 
   const showMettaInfographic = useMemo(() => isAn1116Sutta(id), [id]);
+  const samplePanel = useMemo(() => getBookOnePanel(id), [id]);
 
   const jaData = useMemo(() => {
     if (id === "1.48" || id === "AN 1.48") return an148Quiz.japaneseAudio;
@@ -142,23 +200,36 @@ function SuttaByIdScreen() {
             {jaData && (
               <button
                 onClick={() => setLang((l) => (l === "en" ? "ja" : "en"))}
-                className="h-9 px-3 rounded-full glass border border-primary/20 text-[10px] font-bold text-primary transition-all active:scale-95 flex items-center gap-1.5"
+                className="h-9 px-3 rounded-full border paper-rule bg-background/60 text-[10px] font-bold text-primary transition-all active:scale-95 flex items-center gap-1.5"
                 title={lang === "en" ? "Switch to Japanese" : "Switch to English"}
               >
                 <Languages size={14} />
                 {lang === "en" ? "日本語" : "EN"}
               </button>
             )}
+            <button
+              type="button"
+              onClick={() => {
+                if (isRead) clearSuttaRead(id);
+                else markSuttaRead(id);
+              }}
+              className={`size-9 rounded-full border paper-rule bg-background/60 flex items-center justify-center transition-colors ${
+                isRead ? "text-accent border-accent/70" : "text-foreground/80"
+              }`}
+              aria-label={isRead ? "Mark sutta unread" : "Mark sutta read"}
+              title={isRead ? "Marked as read" : "Mark as read"}
+            >
+              {isRead ? <Check size={16} /> : <Bookmark size={16} />}
+            </button>
           </div>
         }
       />
-      <div className="px-5">
-        <header className="mt-2">
+      <div className="px-7">
+        <header className="mt-4">
           <div className="flex items-center gap-2 mb-2">
             <Hexagon
-              size={12}
+              size={8}
               className="text-primary fill-primary shrink-0"
-              style={{ filter: "drop-shadow(0 0 6px var(--glow))" }}
             />
             <span className="font-mono text-primary text-[11px] leading-tight normal-case tracking-wide">
               {canonIndexSubtitle(id)}
@@ -197,25 +268,27 @@ function SuttaByIdScreen() {
 
         {status === "ok" && item && (
           <>
-            <h1 className="text-[22px] leading-snug font-semibold tracking-tight mt-1">
+            {samplePanel && samplePanel.variant === 0 ? (
+              <SuttaPanelImage
+                src={samplePanel.src}
+                variant={samplePanel.variant}
+                className="mb-6"
+              />
+            ) : null}
+
+            <h1 className="text-reading text-[2.2rem] leading-tight mt-3">
               {itemDisplayHeading(item)}
             </h1>
 
-            <button
-              type="button"
-              onClick={() => {
-                if (isRead) clearSuttaRead(id);
-                else markSuttaRead(id);
-              }}
-              className={`mt-4 w-full rounded-2xl font-medium py-3 flex items-center justify-center gap-2 ring-1 transition-colors ${
-                isRead
-                  ? "bg-green-400/12 text-green-400 ring-green-400/35"
-                  : "glass ring-white/10 hover:ring-primary/25"
-              }`}
-            >
-              {isRead ? <Check size={16} /> : null}
-              {isRead ? "Marked as Read" : "Mark as Read"}
-            </button>
+            {samplePanel && samplePanel.variant !== 0 ? (
+              <SuttaPanelImage
+                src={samplePanel.src}
+                variant={samplePanel.variant}
+                className="my-6"
+              />
+            ) : (
+              <div className="my-6 h-20 border-y paper-rule" aria-hidden />
+            )}
 
             {showMettaInfographic && (
               <div className="mt-5 rounded-2xl overflow-hidden ring-1 ring-primary/20 bg-background/40">
@@ -228,7 +301,7 @@ function SuttaByIdScreen() {
               </div>
             )}
 
-            <section className="mt-6">
+            <section className="mt-7">
               <div className="label-mono text-muted-foreground mb-2">
                 {lang === "ja" ? "経 (Sutta)" : "Sutta"}
               </div>
@@ -237,9 +310,9 @@ function SuttaByIdScreen() {
               />
             </section>
 
-            <div className="mt-6">
+            <div className="mt-7">
               {lang === "ja" ? (
-                <div className="glass rounded-2xl p-4">
+                <div className="border-y paper-rule py-4">
                   <div className="label-mono text-primary text-xs mb-2">日本語オーディオ</div>
                   <audio controls src={jaData!.src} className="w-full" />
                 </div>
@@ -252,7 +325,7 @@ function SuttaByIdScreen() {
                   if (!src) {
                     if (!rawFile) return null;
                     return (
-                      <div className="glass rounded-2xl p-4">
+                      <div className="border-y paper-rule py-4">
                         <div className="label-mono text-muted-foreground text-xs mb-2">
                           Teacher audio
                         </div>
@@ -274,7 +347,7 @@ function SuttaByIdScreen() {
                     );
                   }
                   return (
-                    <div className="glass rounded-2xl p-4">
+                    <div className="border-y paper-rule py-4">
                       <div className="label-mono text-muted-foreground text-xs mb-2">
                         Teacher audio
                       </div>
@@ -292,7 +365,7 @@ function SuttaByIdScreen() {
         )}
       </div>
       <div
-        className="fixed bottom-0 inset-x-0 z-50 px-3 pt-2 bg-background border-t border-border/60"
+        className="fixed bottom-0 inset-x-0 z-50 px-7 pt-2 bg-background border-t paper-rule"
         style={{ paddingBottom: "calc(0.75rem + env(safe-area-inset-bottom, 0px))" }}
       >
         <NextSuttaStrip />

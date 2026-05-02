@@ -179,7 +179,7 @@ export function AudioPlayer({
   };
 
   return (
-    <div className="glass rounded-2xl p-4 flex flex-col gap-3">
+    <div className="border-y paper-rule py-4 flex flex-col gap-3">
       <audio ref={audioRef} src={src || undefined} preload="metadata" />
 
       <div className="flex items-center gap-3">
@@ -187,7 +187,7 @@ export function AudioPlayer({
           type="button"
           onClick={() => void toggle()}
           disabled={!src || clipLen <= 0 || formatSupported === false}
-          className="size-12 shrink-0 rounded-full bg-primary text-primary-foreground flex items-center justify-center animate-pulse-glow disabled:opacity-40"
+          className="size-12 shrink-0 rounded-full border border-foreground bg-transparent text-foreground flex items-center justify-center disabled:opacity-40"
           aria-label={playing ? "Pause" : "Play"}
         >
           {playing ? <Pause size={20} /> : <Play size={20} className="ml-0.5" />}
@@ -196,13 +196,13 @@ export function AudioPlayer({
           type="button"
           onClick={stop}
           disabled={!src || clipLen <= 0}
-          className="size-10 shrink-0 rounded-full glass flex items-center justify-center text-muted-foreground hover:text-foreground disabled:opacity-40"
+          className="size-10 shrink-0 rounded-full border paper-rule flex items-center justify-center text-muted-foreground hover:text-foreground disabled:opacity-40"
           aria-label="Stop"
         >
           <Square size={16} fill="currentColor" />
         </button>
         <div className="flex-1 min-w-0">
-          <div className="text-sm font-medium truncate">{label}</div>
+          <div className="text-xs text-muted-foreground truncate">{label}</div>
           {(formatBlockedReason || loadError) && (
             <p className="mt-1 text-xs text-muted-foreground">
               {formatBlockedReason || loadError}
@@ -225,7 +225,7 @@ export function AudioPlayer({
           value={Number.isFinite(seg) ? seg : 0}
           disabled={!src || clipLen <= 0}
           onChange={(e) => seek(Number(e.target.value))}
-          className="w-full h-2 rounded-full appearance-none bg-white/10 accent-primary cursor-pointer disabled:opacity-40 [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:size-3.5 [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-primary [&::-webkit-slider-thumb]:shadow [&::-moz-range-thumb]:size-3.5 [&::-moz-range-thumb]:rounded-full [&::-moz-range-thumb]:border-0 [&::-moz-range-thumb]:bg-primary"
+          className="w-full h-px appearance-none bg-border accent-primary cursor-pointer disabled:opacity-40 [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:size-3.5 [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-foreground [&::-moz-range-thumb]:size-3.5 [&::-moz-range-thumb]:rounded-full [&::-moz-range-thumb]:border-0 [&::-moz-range-thumb]:bg-foreground"
         />
         <div className="flex justify-between label-mono normal-case text-muted-foreground text-[11px]">
           <span>{fmt(seg)}</span>
@@ -247,7 +247,7 @@ export function AudioPlayer({
           step={0.02}
           value={volume}
           onChange={(e) => setVolume(Number(e.target.value))}
-          className="flex-1 min-w-0 h-2 rounded-full appearance-none bg-white/10 accent-primary cursor-pointer [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:size-3 [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-primary [&::-moz-range-thumb]:size-3 [&::-moz-range-thumb]:rounded-full [&::-moz-range-thumb]:border-0 [&::-moz-range-thumb]:bg-primary"
+          className="flex-1 min-w-0 h-px appearance-none bg-border accent-primary cursor-pointer [&::-webkit-slider-thumb]:appearance-none [&::-webkit-slider-thumb]:size-3 [&::-webkit-slider-thumb]:rounded-full [&::-webkit-slider-thumb]:bg-foreground [&::-moz-range-thumb]:size-3 [&::-moz-range-thumb]:rounded-full [&::-moz-range-thumb]:border-0 [&::-moz-range-thumb]:bg-foreground"
         />
       </div>
     </div>
