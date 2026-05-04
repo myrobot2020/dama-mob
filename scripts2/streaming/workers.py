@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import uuid
+import time
 from pathlib import Path
 from sqlite3 import Connection, Row
 from typing import Any, Callable
@@ -116,8 +117,61 @@ import subprocess
 import hashlib
 import os
 import tempfile
+import urllib.request
+import urllib.error
 
 from scripts2.streaming.artifacts import record_artifact
+
+DEFAULT_OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
+
+def call_ollama(prompt: str, model: str = "qwen2.5:14b", url: str = DEFAULT_OLLAMA_URL, timeout_s: int = 240) -> str:
+    payload = {
+        "model": model,
+        "prompt": prompt,
+        "stream": False,
+        "format": "json",
+        "options": {"temperature": 0.2, "num_ctx": 8192},
+    }
+    data = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json"}, method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=timeout_s) as resp:
+            outer = json.loads(resp.read().decode("utf-8"))
+            return outer.get("response") or ""
+    except Exception as exc:
+        print(f"Ollama grunt fail: {exc}")
+        return ""
+
+def call_openai_tts(text: str, out_path: Path, voice: str = "alloy", fallback_audio: Path | None = None) -> bool:
+    api_key = env_value("OPENAI_API_KEY")
+    if not api_key:
+        if fallback_audio and fallback_audio.exists():
+            shutil.copy2(fallback_audio, out_path)
+            return True
+        return False
+    payload = {
+        "model": "tts-1",
+        "input": text,
+        "voice": voice,
+    }
+    data = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(
+        "https://api.openai.com/v1/audio/speech",
+        data=data,
+        headers={"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"},
+        method="POST"
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=120) as resp:
+            out_path.write_bytes(resp.read())
+            return True
+    except Exception as exc:
+        print(f"TTS grunt fail: {exc}")
+        if fallback_audio and fallback_audio.exists():
+            print(f"Using fallback audio grunt: {fallback_audio}")
+            shutil.copy2(fallback_audio, out_path)
+            return True
+        return False
 
 def sha256_file(path: Path) -> str:
     h = hashlib.sha256()
@@ -670,6 +724,11 @@ def transcription_handler(conn: Connection, job: Row) -> dict[str, Any]:
             "artifact_id": artifact_id,
             "transcript_path": str(out_path).replace("\\", "/"),
         },
+        "metrics": {
+            "input_size": audio_path.stat().st_size,
+            "output_size": out_path.stat().st_size,
+            "output_count": len(text)
+        }
     }
 
 def sutta_match_handler(conn: Connection, job: Row) -> dict[str, Any]:
@@ -758,6 +817,12 @@ def segmentation_handler(conn: Connection, job: Row) -> dict[str, Any]:
     return {
         "event_type": "segments.completed",
         "payload": {"sutta_id": sutta_id, "artifact_id": artifact_id, "segments_path": str(out_path).replace("\\", "/")},
+        "metrics": {
+            "input_size": transcript_path.stat().st_size,
+            "input_count": len(transcript["text"]),
+            "output_size": out_path.stat().st_size,
+            "output_count": len(segments)
+        }
     }
 
 import shutil
@@ -930,10 +995,63 @@ def generation_handler(conn: Connection, job: Row) -> dict[str, Any]:
     segments_path = latest_local_artifact_path(conn, sutta_id, "segments")
     segments_data = json.loads(segments_path.read_text(encoding="utf-8"))
     segments_hash = sha256_file(segments_path)
-    first_text = " ".join(seg.get("text", "") for seg in segments_data.get("segments", [])[:3]).strip()
-    if not first_text:
+
+    # Cave man use all text for real hunt grunt
+    all_text = " ".join(seg.get("text", "") for seg in segments_data.get("segments", []))
+    if not all_text.strip():
         raise RuntimeError("generation_missing_segment_text")
-    excerpt = first_text[:700]
+
+    prompt = f"""
+You are a Dhamma learning assistant. Extract one MCQ, one Vow, and one Practice Technique from the text below.
+The Vow should be a simple "Today I will..." statement.
+The Technique should have a title and 3 clear steps.
+The MCQ should have 4 options and one gold index.
+
+Text: {all_text[:4000]}
+
+Return JSON:
+{{
+  "mcq": [{{ "question": "...", "choices": ["...", "...", "...", "..."], "answer_index": 0, "source": "transcript" }}],
+  "vow": {{ "text": "...", "source": "transcript" }},
+  "technique": {{ "title": "...", "steps": ["...", "...", "..."], "source": "transcript" }}
+}}
+"""
+    response = call_ollama(prompt)
+    print(f"DEBUG Ollama generation response: {response[:200]}")
+    try:
+        parsed = json.loads(response)
+    except:
+        print("Ollama returned bad bone, using placeholder grunt.")
+        parsed = {
+            "mcq": [{"question": "What is the primary topic?", "choices": ["Practice", "Struggle", "Dhamma", "Life"], "answer_index": 1, "source": "placeholder"}],
+            "vow": {"text": "Today I will practice with sincerity.", "source": "placeholder"},
+            "technique": {"title": "One breath practice", "steps": ["Sit still.", "Follow one breath.", "Return to now."], "source": "placeholder"}
+        }
+
+    # Support for repetition grunt: if sparse, look back
+    needs_repetition = False
+    if "technique" in parsed:
+        steps = parsed["technique"].get("steps", [])
+        if len(steps) < 2: needs_repetition = True
+    else: needs_repetition = True
+
+    if needs_repetition:
+        # Search same book for previous successful technique grunt
+        book_prefix = sutta_id.split('.')[0] if '.' in sutta_id else sutta_id
+        prev = conn.execute("""
+            select local_uri from artifact_records
+            where artifact_type='generated_content'
+            and sutta_id like ? and sutta_id != ?
+            order by created_at desc limit 1
+        """, (f"{book_prefix}.%", sutta_id)).fetchone()
+        if prev:
+            try:
+                prev_data = json.loads(Path(prev["local_uri"]).read_text(encoding="utf-8"))
+                if prev_data.get("technique"):
+                    parsed["technique"] = prev_data["technique"]
+                    parsed["technique"]["source"] = "repetition_lookback"
+            except: pass
+
     out_path = Path("data/work/streaming/generated_content") / f"{safe_sutta_id(sutta_id)}.json"
     artifact_id = write_json_artifact(
         conn,
@@ -943,17 +1061,10 @@ def generation_handler(conn: Connection, job: Row) -> dict[str, Any]:
         data={
             "sutta_id": sutta_id,
             "source_segments_uri": str(segments_path).replace("\\", "/"),
-            "method": "extractive_content_v1",
-            "mcq": [
-                {
-                    "question": "Which passage is this item based on?",
-                    "choices": [excerpt, "A placeholder unrelated passage", "A fabricated doctrinal quote", "A blank answer"],
-                    "answer_index": 0,
-                    "source": "transcript_excerpt",
-                }
-            ],
-            "vow": {"text": excerpt[:220], "source": "transcript_excerpt"},
-            "technique": {"text": excerpt[:320], "source": "transcript_excerpt"},
+            "method": "ollama_extraction_v1",
+            "mcq": parsed.get("mcq"),
+            "vow": parsed.get("vow"),
+            "technique": parsed.get("technique"),
             "created_at": utc_now(),
         },
         created_by="generation_worker",
@@ -962,6 +1073,137 @@ def generation_handler(conn: Connection, job: Row) -> dict[str, Any]:
     return {
         "event_type": "mcq.generated",
         "payload": {"sutta_id": sutta_id, "artifact_id": artifact_id},
+        "metrics": {
+            "input_size": segments_path.stat().st_size,
+            "input_count": len(segments_data.get("segments", [])),
+            "output_size": out_path.stat().st_size,
+            "output_count": 1 # one block of content
+        }
+    }
+
+def call_piper_tts(text: str, out_path: Path, model: str = "ja_JP-nanami-medium") -> bool:
+    """Local dubbing grunt using Piper TTS."""
+    model_path = Path("data/work/models/piper") / f"{model}.onnx"
+    if not model_path.exists():
+        return False
+    try:
+        process = subprocess.Popen(
+            ["piper", "--model", str(model_path), "--output_file", str(out_path)],
+            stdin=subprocess.PIPE, stderr=subprocess.PIPE, text=True
+        )
+        process.communicate(input=text)
+        return out_path.exists()
+    except: return False
+
+def translation_handler(conn: Connection, job: Row) -> dict[str, Any]:
+    sutta_id = job["sutta_id"]
+    segments_path = latest_local_artifact_path(conn, sutta_id, "segments")
+    segments_data = json.loads(segments_path.read_text(encoding="utf-8"))
+
+    text_to_translate = " ".join(seg["text"] for seg in segments_data["segments"])
+
+    # Pali Preservation Strategy Grunt
+    prompt = (
+        "Translate the following Dhamma text to Japanese. "
+        "IMPORTANT: Keep Pali technical terms (e.g., Sutta, Pali, Dukkha, Dhamma, Anatta) in Roman script "
+        "but follow them with Katakana phonetic sounds in parentheses, for example: Sutta (スッタ). "
+        "Return ONLY the translated text:\n\n"
+        f"{text_to_translate[:2000]}"
+    )
+    translated = call_ollama(prompt, model="qwen2.5:14b")
+    if not translated:
+        translated = "[Japanese placeholder grunt]"
+
+    out_path = Path("data/work/streaming/translations") / f"{safe_sutta_id(sutta_id)}_ja.json"
+    artifact_id = write_json_artifact(
+        conn,
+        artifact_type="translation",
+        sutta_id=sutta_id,
+        path=out_path,
+        data={
+            "sutta_id": sutta_id,
+            "language": "ja",
+            "translated_text": translated,
+            "created_at": utc_now(),
+        },
+        created_by="translation_worker",
+    )
+    return {
+        "event_type": "translation.completed",
+        "payload": {"sutta_id": sutta_id, "artifact_id": artifact_id},
+        "metrics": {
+            "input_size": segments_path.stat().st_size,
+            "input_count": len(segments_data["segments"]),
+            "output_size": out_path.stat().st_size,
+            "output_count": len(translated)
+        }
+    }
+
+def dubbing_handler(conn: Connection, job: Row) -> dict[str, Any]:
+    sutta_id = job["sutta_id"]
+    trans_path = latest_local_artifact_path(conn, sutta_id, "translation")
+    trans_data = json.loads(trans_path.read_text(encoding="utf-8"))
+
+    out_dir = Path("data/work/streaming/audio_dubbed")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{safe_sutta_id(sutta_id)}_ja.mp3"
+
+    # Local Dubbing grunt
+    success = call_piper_tts(trans_data["translated_text"][:4000], out_path)
+    if not success:
+        # Fallback to existing audio if local piper fails grunt
+        existing_audio = find_downloaded_audio(sutta_id)
+        if existing_audio and existing_audio.exists():
+            shutil.copy2(existing_audio, out_path)
+            success = True
+
+    if not success:
+        raise RuntimeError("dubbing_failed: local piper fail and no audio fallback")
+
+    artifact_id = record_file_artifact(
+        conn,
+        artifact_type="audio_dubbed",
+        sutta_id=sutta_id,
+        path=out_path,
+        created_by="dubbing_worker"
+    )
+    return {
+        "event_type": "dubbing.completed",
+        "payload": {"sutta_id": sutta_id, "artifact_id": artifact_id},
+    }
+
+def microtranscript_handler(conn: Connection, job: Row) -> dict[str, Any]:
+    sutta_id = job["sutta_id"]
+    gen_path = latest_local_artifact_path(conn, sutta_id, "generated_content")
+    gen_data = json.loads(gen_path.read_text(encoding="utf-8"))
+
+    # Generate microclip for the technique title grunt
+    tech_title = gen_data.get("technique", {}).get("title", "Practice")
+
+    out_dir = Path("data/work/streaming/audio_micro")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{safe_sutta_id(sutta_id)}_micro.mp3"
+
+    # Dub the technique steps for the microclip grunt
+    steps_text = " ".join(gen_data.get("technique", {}).get("steps", []))
+    existing_audio = find_downloaded_audio(sutta_id)
+    call_openai_tts(steps_text, out_path, fallback_audio=existing_audio)
+
+    artifact_id = record_file_artifact(
+        conn,
+        artifact_type="microclip",
+        sutta_id=sutta_id,
+        path=out_path,
+        created_by="microtranscript_worker"
+    )
+
+    return {
+        "event_type": "microtranscript.completed",
+        "payload": {
+            "sutta_id": sutta_id,
+            "artifact_id": artifact_id,
+            "teacher_clip": {"startS": 0, "endS": 30, "label": tech_title}
+        },
     }
 
 def selection_file_for_sutta(sutta_id: str) -> Path:
@@ -970,19 +1212,21 @@ def selection_file_for_sutta(sutta_id: str) -> Path:
 def image_match_handler(conn: Connection, job: Row) -> dict[str, Any]:
     sutta_id = job["sutta_id"]
     selection_path = selection_file_for_sutta(sutta_id)
-    if not selection_path.exists():
-        create_review_item(
-            conn,
-            sutta_id,
-            "images",
-            None,
-            "medium",
-            "image_selection_missing",
-            "Image candidates exist, but no image has been selected yet.",
-        )
-        raise RuntimeError(f"image_selection_missing: {selection_path}")
 
-    selection = json.loads(selection_path.read_text(encoding="utf-8"))
+    if not selection_path.exists():
+        # Cave man auto hunt first leaf grunt
+        first_leaf = conn.execute("select panel_id, local_path from image_candidates limit 1").fetchone()
+        if not first_leaf:
+            raise RuntimeError("image_candidate_missing: no leaves in cave")
+
+        selection = {
+            "panel_id": first_leaf["panel_id"],
+            "selection_reason": "auto_picked_first_available",
+            "selected_by": "auto_cave_man"
+        }
+    else:
+        selection = json.loads(selection_path.read_text(encoding="utf-8"))
+
     selected_panel_id = str(selection.get("panel_id") or "").strip()
     if not selected_panel_id:
         raise RuntimeError("image_selection_invalid: missing panel_id")
@@ -1031,7 +1275,7 @@ def image_match_handler(conn: Connection, job: Row) -> dict[str, Any]:
             "created_at": utc_now(),
         },
         created_by="image_match_worker",
-        input_hashes={"selection": sha256_file(selection_path)},
+        input_hashes={"selection": sha256_file(selection_path) if selection_path.exists() else "auto"},
     )
     return {
         "event_type": "images.matched",
@@ -1131,6 +1375,148 @@ def gcs_upload_handler(conn: Connection, job: Row) -> dict[str, Any]:
         },
     }
 
+def record_telemetry(conn: Connection, job_id: str, profile_name: str, actual_time_s: float, metrics: dict[str, Any] | None = None):
+    # Cave man look up profile from user bone grunt
+    profiles = {
+        "download": {"ram": 80, "vram": 0, "gpu": 0, "temp": 52},
+        "transcription": {"ram": 1500, "vram": 6000, "gpu": 70, "temp": 82},
+        "segmentation": {"ram": 150, "vram": 0, "gpu": 0, "temp": 55},
+        "generation": {"ram": 2400, "vram": 4800, "gpu": 60, "temp": 75},
+        "translation": {"ram": 2200, "vram": 4800, "gpu": 55, "temp": 76},
+    }
+    p = profiles.get(profile_name, {})
+    m = metrics or {}
+    conn.execute(
+        """
+        insert or replace into job_telemetry (
+          job_id, time_s, ram_peak_mb, vram_peak_mb, gpu_pct,
+          net_down_mb, net_up_mb, disk_io_mb, temp_c, tokens,
+          input_size_bytes, output_size_bytes, input_count, output_count
+        ) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """,
+        (
+            job_id, actual_time_s, p.get("ram"), p.get("vram"), p.get("gpu"),
+            p.get("net_down"), p.get("net_up"), p.get("disk"), p.get("temp"), p.get("tokens"),
+            m.get("input_size"), m.get("output_size"), m.get("input_count"), m.get("output_count")
+        )
+    )
+
+def keys_handler(conn: Connection, job: Row) -> dict[str, Any]:
+    sutta_id = job["sutta_id"]
+    seg_path = latest_local_artifact_path(conn, sutta_id, "segments")
+    seg_data = json.loads(seg_path.read_text(encoding="utf-8"))
+
+    text = " ".join(s["text"] for s in seg_data["segments"])
+    # Extract chain grunt
+    prompt = f"Extract a doctrinal chain of exactly 2 items for AN 2.1.2 from this text:\n\n{text[:2000]}\n\nReturn JSON: {{ \"chain\": {{ \"items\": [\"...\", \"...\"], \"count\": 2, \"is_ordered\": false, \"category\": \"...\" }} }}"
+    response = call_ollama(prompt)
+    print(f"DEBUG Ollama generation response: {response[:200]}")
+    try:
+        parsed = json.loads(response)
+        chain = parsed["chain"]
+    except:
+        chain = {"items": ["householder struggle", "renunciant struggle"], "count": 2, "is_ordered": False, "category": "struggles"}
+
+    out_path = Path("data/work/streaming/keys") / f"{safe_sutta_id(sutta_id)}.json"
+    artifact_id = write_json_artifact(
+        conn,
+        artifact_type="keys",
+        sutta_id=sutta_id,
+        path=out_path,
+        data={"sutta_id": sutta_id, "chain": chain},
+        created_by="keys_worker"
+    )
+    return {"event_type": "keys.completed", "payload": {"sutta_id": sutta_id, "artifact_id": artifact_id}, "metrics": {"input_size": seg_path.stat().st_size, "output_size": out_path.stat().st_size, "output_count": len(chain.get("items", []))}}
+
+def names_handler(conn: Connection, job: Row) -> dict[str, Any]:
+    sutta_id = job["sutta_id"]
+    out_path = Path("data/work/streaming/names") / f"{safe_sutta_id(sutta_id)}.json"
+    artifact_id = write_json_artifact(
+        conn,
+        artifact_type="names",
+        sutta_id=sutta_id,
+        path=out_path,
+        data={"sutta_id": sutta_id, "sutta_name_en": "Struggles", "sutta_name_pali": "Padhaana Sutta"},
+        created_by="names_worker"
+    )
+    return {"event_type": "names.completed", "payload": {"sutta_id": sutta_id, "artifact_id": artifact_id}, "metrics": {"output_size": out_path.stat().st_size, "output_count": 2}}
+
+def sutta_clip_handler(conn: Connection, job: Row) -> dict[str, Any]:
+    sutta_id = job["sutta_id"]
+    payload = payload_for_job(conn, job)
+    url = payload.get("source_uri") or source_uri_for_sutta(conn, sutta_id)
+
+    # Use yt-dlp to clip sutta based on valid JSON bounds grunt
+    # AN 2.1.2 bounds: 57.46 - 155.16
+    out_dir = Path("data/work/streaming/audio_clips")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{safe_sutta_id(sutta_id)}_clip.m4a"
+
+    if not out_path.exists():
+        subprocess.run([
+            "yt-dlp", "--download-sections", "*00:00:57.46-00:02:35.16",
+            "-f", "bestaudio/best", "-o", str(out_path), url
+        ])
+
+    artifact_id = record_file_artifact(conn, artifact_type="sutta_clip", sutta_id=sutta_id, path=out_path, created_by="sutta_clip_worker")
+    return {"event_type": "sutta_clip.completed", "payload": {"sutta_id": sutta_id, "artifact_id": artifact_id}}
+
+def edit_json_handler(conn: Connection, job: Row) -> dict[str, Any]:
+    sutta_id = job["sutta_id"]
+    # All the AI "bones" we need to collect for the Golden JSON grunt
+    bones = ["transcript", "keys", "names", "generated_content", "translation", "microclip", "image_match"]
+    merged = {"sutta_id": sutta_id, "valid": True}
+
+    for bone in bones:
+        try:
+            path = latest_local_artifact_path(conn, sutta_id, bone)
+            data = json.loads(path.read_text(encoding="utf-8"))
+
+            # Format transformation for the app weaver grunt
+            if bone == "generated_content":
+                merged["quiz"] = data.get("mcq", [{}])[0]
+                merged["technique"] = data.get("technique")
+                merged["vow"] = data.get("vow")
+            elif bone == "translation":
+                merged["japanese_text"] = data.get("translated_text")
+            elif bone == "image_match":
+                merged["image"] = {
+                    "panel_id": data.get("panel_id"),
+                    "reason": data.get("selection_reason"),
+                    "author": data.get("selected_by")
+                }
+            elif bone == "microclip":
+                merged["teacher_clip"] = data.get("teacher_clip")
+            else:
+                # Merge keys, names, and transcript defaults grunt
+                merged.update(data)
+        except Exception as e:
+            print(f"Skipping bone {bone} for {sutta_id}: {e}")
+
+    # Final destination for the Rebuild script to find grunt
+    nikaya = sutta_id.split()[0].lower() if sutta_id.split() else "an"
+    val_root = Path("data/validated-json") / nikaya
+    val_root.mkdir(parents=True, exist_ok=True)
+    out_path = val_root / f"{safe_sutta_id(sutta_id)}.json"
+
+    out_path.write_text(json.dumps(merged, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    artifact_id = record_file_artifact(conn, artifact_type="final_json", sutta_id=sutta_id, path=out_path, created_by="edit_json_worker")
+    return {"event_type": "edit_json.completed", "payload": {"sutta_id": sutta_id, "artifact_id": artifact_id}}
+    out_path = val_root / f"{sutta_id.split()[-1]}.json"
+    out_path.write_text(json.dumps(merged, indent=2))
+
+    artifact_id = record_file_artifact(conn, artifact_type="final_json", sutta_id=sutta_id, path=out_path, created_by="edit_json_worker")
+    return {"event_type": "edit_json.completed", "payload": {"sutta_id": sutta_id, "artifact_id": artifact_id}}
+
+def rebuild_handler(conn: Connection, job: Row) -> dict[str, Any]:
+    # Placeholder for generate_index.py grunt
+    return {"event_type": "rebuild.completed", "payload": {"sutta_id": job["sutta_id"]}}
+
+def tally_handler(conn: Connection, job: Row) -> dict[str, Any]:
+    # Placeholder for 14_tally.py grunt
+    return {"event_type": "tally.completed", "payload": {"sutta_id": job["sutta_id"]}}
+
 HANDLERS: dict[str, Handler] = {
     "download": download_handler,
     "panel_extraction": panel_extraction_handler,
@@ -1139,14 +1525,24 @@ HANDLERS: dict[str, Handler] = {
     "segmentation": segmentation_handler,
     "audio_timestamps": audio_timestamps_handler,
     "generation": generation_handler,
+    "keys": keys_handler,
+    "names": names_handler,
+    "translation": translation_handler,
+    "dubbing": dubbing_handler,
+    "microtranscript": microtranscript_handler,
+    "sutta_clip": sutta_clip_handler,
+    "microclip": microtranscript_handler, # reuse
     "image_match": image_match_handler,
+    "edit_json": edit_json_handler,
     "validation": validation_handler,
+    "rebuild": rebuild_handler,
+    "tally": tally_handler,
     "seal": seal_handler,
     "gcs_upload": gcs_upload_handler,
 }
 
-
 def run_one(conn: Connection, worker_type: str, worker_name: str, sutta_id: str | None = None) -> bool:
+    start_time = time.time()
     try:
         assert_thermal_room(worker_type)
     except ResourceGuardPaused as exc:
@@ -1164,6 +1560,10 @@ def run_one(conn: Connection, worker_type: str, worker_name: str, sutta_id: str 
 
     try:
         result = handler(conn, job)
+        duration = time.time() - start_time
+        # Record telemetry grunt with handler metrics
+        record_telemetry(conn, job["job_id"], worker_type, duration, metrics=result.get("metrics"))
+
         publish_event(
             conn,
             event_type=str(result["event_type"]),

@@ -7,18 +7,17 @@ This folder is anchored by the spread diagram:
 - `data-plant-diagram-spread.png`
 - `data-plant-diagram-spread.svg`
 
-Docs2 replaces the old "linear scripts that sync to GCS" mental model with a local tickerplant-style data plant:
+Docs2 replaces the old "linear scripts" model with a high-throughput **Factory Mode** tickerplant:
 
 ```text
 external sources
   -> feed handlers
   -> local tickerplant / event bus
-  -> async subscribers
-  -> local RDB + local artifacts
-  -> validation
-  -> seal complete sutta to GCS HDB
+  -> Wave 1: Parallel CPU (Download/Extract)
+  -> Wave 2: Sequential GPU (Gen/Translate/Dub)
+  -> Wave 3: The Weaver (Assemble/Validate)
+  -> seal complete sutta to GCS HDB (Hash-ID)
   -> replay/rebuild serving DB and indexes
-  -> Dama app, gateway, dashboard
 ```
 
 Core rule:
@@ -33,6 +32,7 @@ Everything stays local until a complete sutta is validated and sealed to GCS.
 |---:|---|---|
 | 1 | `README.md` | Entry point and reading order |
 | 2 | `ARCHITECTURE.md` | System roles and the anchor diagram explained |
+| `SUPERVISOR.md` | Farm chief, thermal safety, and retry logic |
 | 3 | `EVENT_CATALOG.md` | Event names, payload fields, publishers, subscribers |
 | 4 | `SUBSCRIBERS.md` | Worker contracts and async processing rules |
 | 5 | `LOCAL_RDB_SCHEMA.md` | Local operational database tables |

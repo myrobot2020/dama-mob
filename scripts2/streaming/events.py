@@ -13,16 +13,25 @@ ROUTES: dict[str, tuple[str, ...]] = {
     "audio.download.completed": ("transcription",),
     "transcript.completed": ("sutta_match",),
     "sutta_match.completed": ("segmentation",),
-    "segments.completed": ("audio_timestamps", "generation"),
+    "segments.completed": ("audio_timestamps", "generation", "translation", "keys", "names", "sutta_clip"),
+    "translation.completed": ("dubbing",),
+    "dubbing.completed": ("microtranscript", "validation"),
+    "microtranscript.completed": ("validation",),
+    "keys.completed": ("edit_json",),
+    "names.completed": ("edit_json",),
+    "generation.completed": ("edit_json",),
+    "edit_json.completed": ("validation",),
     "audio_timestamps.completed": ("validation",),
     "mcq.generated": ("validation",),
     "vocab.generated": ("validation",),
     "technique.generated": ("validation",),
     "image_selection.approved": ("image_match",),
-    "images.matched": ("validation",),
+    "images.matched": ("edit_json", "validation"),
     "sutta.ready_to_seal": ("seal",),
     "sutta.sealed": ("gcs_upload",),
-    "sutta.uploaded": (),
+    "sutta.uploaded": ("rebuild",),
+    "rebuild.completed": ("tally",),
+    "tally.completed": (),
 }
 
 SOURCE_COMPLETED_EVENTS = {"source.sutta.discovered", "sutta.queued"}
@@ -39,6 +48,14 @@ EVENT_STAGE_STATUS: dict[str, tuple[str, str]] = {
     "mcq.generated": ("generation", "completed"),
     "vocab.generated": ("vocab", "completed"),
     "technique.generated": ("technique", "completed"),
+    "translation.completed": ("translation", "completed"),
+    "dubbing.completed": ("audio", "dubbed"),
+    "microtranscript.completed": ("transcript", "micro_completed"),
+    "keys.completed": ("keys", "completed"),
+    "names.completed": ("names", "completed"),
+    "edit_json.completed": ("source", "edited"),
+    "rebuild.completed": ("index", "completed"),
+    "tally.completed": ("validation", "tallied"),
     "image_selection.approved": ("images", "selection_approved"),
     "images.matched": ("images", "completed"),
     "sutta.ready_to_seal": ("validation", "completed"),
@@ -55,6 +72,15 @@ WORKER_STAGE: dict[str, str] = {
     "audio_timestamps": "audio_timestamps",
     "generation": "generation",
     "image_match": "images",
+    "translation": "translation",
+    "dubbing": "audio",
+    "microtranscript": "transcript",
+    "keys": "keys",
+    "names": "names",
+    "sutta_clip": "audio",
+    "edit_json": "source",
+    "rebuild": "index",
+    "tally": "validation",
     "validation": "validation",
     "seal": "seal",
     "gcs_upload": "upload",
@@ -88,8 +114,14 @@ def correlation_for(payload: dict[str, Any], sutta_id: str | None) -> str:
 
 def default_idempotency_key(event_type: str, payload: dict[str, Any]) -> str:
     sutta_id = sutta_from_payload(payload)
+    content_hash = payload.get("content_hash") or payload.get("sha256")
+    model_ver = payload.get("model_version") or "v1"
+
     if sutta_id:
+        if content_hash:
+            return f"{event_type}:{sutta_id}:{content_hash}:{model_ver}"
         return f"{event_type}:{sutta_id}"
+
     source_id = payload.get("source_id")
     if isinstance(source_id, str) and source_id.strip():
         return f"{event_type}:{source_id.strip()}"

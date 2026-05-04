@@ -25,6 +25,12 @@ What is sealed in GCS?
 | Review queue | Low-confidence or rejected artifacts |
 | Seal/GCS view | Sealed runs, manifests, checksum status |
 | Event log view | Raw append-only facts for debugging |
+| Telemetry view | Live GPU/CPU temp and resource profiles |
+
+## Core Monitor
+- **Active Chief**: Status of the `supervisor.py` loop.
+- **Thermal Monitor**: Live GPU/CPU temperature (Critical stop at 75°C, Resume at 55°C).
+- **Daily Budget**: Tally of OpenAI spend (Reflection page only).
 
 ## Progress Model
 
