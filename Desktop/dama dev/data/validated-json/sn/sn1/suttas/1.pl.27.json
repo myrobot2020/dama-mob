@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.27",
+  "sutta_name_en": "22 Khandha Part 5",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 22 Khandha Part 5. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "22"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_027_mhs8lkwYejs.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 3878.0,
+  "valid": false,
+  "youtube_video_id": "mhs8lkwYejs",
+  "youtube_url": "https://www.youtube.com/watch?v=mhs8lkwYejs"
+}

@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.2",
+  "sutta_name_en": "01 Devata Part 2",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 01 Devata Part 2. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "01"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_002_G9KEzovtvfE.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 4149.0,
+  "valid": false,
+  "youtube_video_id": "G9KEzovtvfE",
+  "youtube_url": "https://www.youtube.com/watch?v=G9KEzovtvfE"
+}

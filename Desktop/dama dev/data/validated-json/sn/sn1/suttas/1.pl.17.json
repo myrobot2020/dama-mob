@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.17",
+  "sutta_name_en": "12 Nidana Part 6, 13 Abhisamaya,14 Dhatu Part 1",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 12 Nidana Part 6, 13 Abhisamaya,14 Dhatu Part 1. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "12"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_017_O1zHCl6RpNw.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 4472.0,
+  "valid": false,
+  "youtube_video_id": "O1zHCl6RpNw",
+  "youtube_url": "https://www.youtube.com/watch?v=O1zHCl6RpNw"
+}

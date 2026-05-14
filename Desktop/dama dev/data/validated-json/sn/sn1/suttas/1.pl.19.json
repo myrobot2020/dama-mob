@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.19",
+  "sutta_name_en": "16 Kassapa Part 2",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 16 Kassapa Part 2. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "16"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_019_6WD8nw3eEKc.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 4467.0,
+  "valid": false,
+  "youtube_video_id": "6WD8nw3eEKc",
+  "youtube_url": "https://www.youtube.com/watch?v=6WD8nw3eEKc"
+}

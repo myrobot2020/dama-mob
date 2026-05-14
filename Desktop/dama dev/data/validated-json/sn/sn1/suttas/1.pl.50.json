@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.50",
+  "sutta_name_en": "51 Iddhipada Part 2, 52 Anuruddha, 53 Jhana, 54 Anapana Part 1by Bhante Hye",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 51 Iddhipada Part 2, 52 Anuruddha, 53 Jhana, 54 Anapana Part 1by Bhante Hye. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "51"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_050_eHy-5qLI7_c.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 3734.0,
+  "valid": false,
+  "youtube_video_id": "eHy-5qLI7_c",
+  "youtube_url": "https://www.youtube.com/watch?v=eHy-5qLI7_c"
+}

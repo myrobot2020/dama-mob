@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.35",
+  "sutta_name_en": "35 Salayatana Part 7, 36 Vedana Part 1",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 35 Salayatana Part 7, 36 Vedana Part 1. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "35"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_035_zRIHDTl2tzY.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 4802.0,
+  "valid": false,
+  "youtube_video_id": "zRIHDTl2tzY",
+  "youtube_url": "https://www.youtube.com/watch?v=zRIHDTl2tzY"
+}

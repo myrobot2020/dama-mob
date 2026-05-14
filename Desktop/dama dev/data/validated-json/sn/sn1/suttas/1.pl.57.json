@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.57",
+  "sutta_name_en": "Q&A",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) Q&A. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "q&a"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_057_QIlXwHMdaWA.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 1837.0,
+  "valid": false,
+  "youtube_video_id": "QIlXwHMdaWA",
+  "youtube_url": "https://www.youtube.com/watch?v=QIlXwHMdaWA"
+}

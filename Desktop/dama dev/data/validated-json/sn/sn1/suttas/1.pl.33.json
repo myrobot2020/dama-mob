@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.33",
+  "sutta_name_en": "35 Salayatana Part 5",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 35 Salayatana Part 5. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "35"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_033_XF8G5jnKhRE.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 3812.0,
+  "valid": false,
+  "youtube_video_id": "XF8G5jnKhRE",
+  "youtube_url": "https://www.youtube.com/watch?v=XF8G5jnKhRE"
+}

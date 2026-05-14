@@ -1,0 +1,35 @@
+# Node
+node_modules/
+dist/
+.tanstack/
+.vinxi/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.uv/
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Data (ephemeral/local work)
+data/work/
+data/raw/
+tmp/
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+repogrok-output.xml

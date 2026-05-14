@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.4",
+  "sutta_name_en": "02 Devaputta, 03 Kosala",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 02 Devaputta, 03 Kosala. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "02"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_004_lDL2rEkcU5k.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 3462.0,
+  "valid": false,
+  "youtube_video_id": "lDL2rEkcU5k",
+  "youtube_url": "https://www.youtube.com/watch?v=lDL2rEkcU5k"
+}

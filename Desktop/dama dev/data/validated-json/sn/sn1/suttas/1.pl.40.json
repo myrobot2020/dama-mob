@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.40",
+  "sutta_name_en": "42 Gamani Part 2, 43 Asankhata Part 1",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 42 Gamani Part 2, 43 Asankhata Part 1. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "42"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_040_ZcvQDKW-InE.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 4327.0,
+  "valid": false,
+  "youtube_video_id": "ZcvQDKW-InE",
+  "youtube_url": "https://www.youtube.com/watch?v=ZcvQDKW-InE"
+}

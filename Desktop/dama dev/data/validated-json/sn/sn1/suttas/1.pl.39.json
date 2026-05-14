@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.39",
+  "sutta_name_en": "41 Citta Part 2, 42 Gamani Part 1by Bhante Hye Dhammavuddho Mahathera",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 41 Citta Part 2, 42 Gamani Part 1by Bhante Hye Dhammavuddho Mahathera. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "41"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_039_qpDwyOk5aLA.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 4346.0,
+  "valid": false,
+  "youtube_video_id": "qpDwyOk5aLA",
+  "youtube_url": "https://www.youtube.com/watch?v=qpDwyOk5aLA"
+}

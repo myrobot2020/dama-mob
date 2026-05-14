@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.54",
+  "sutta_name_en": "55 Sotapatti Part 3, 56 Sacca",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 55 Sotapatti Part 3, 56 Sacca. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "55"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_054_RO98Q5QlI6Q.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 5018.0,
+  "valid": false,
+  "youtube_video_id": "RO98Q5QlI6Q",
+  "youtube_url": "https://www.youtube.com/watch?v=RO98Q5QlI6Q"
+}

@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.56",
+  "sutta_name_en": "Cp23 Radha Cp24 Ditthi Cp25 Okkanti",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) Cp23 Radha Cp24 Ditthi Cp25 Okkanti. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "cp23"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_056_bhN3tKCCzpQ.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 1386.0,
+  "valid": false,
+  "youtube_video_id": "bhN3tKCCzpQ",
+  "youtube_url": "https://www.youtube.com/watch?v=bhN3tKCCzpQ"
+}

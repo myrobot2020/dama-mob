@@ -1,0 +1,105 @@
+@import "tailwindcss";
+
+/* Fonts: serif (headings) + sans (UI) + mono (tape, hash-ids) */
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap");
+
+@theme {
+  --font-serif: "Cormorant Garamond", ui-serif, Georgia, serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", monospace;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Plant-specific semantic tokens */
+  --color-wave-cpu: var(--wave-cpu);
+  --color-wave-gpu: var(--wave-gpu);
+  --color-wave-weaver: var(--wave-weaver);
+  --color-wave-seal: var(--wave-seal);
+  --color-tape-row: var(--tape-row);
+  --color-tape-row-alt: var(--tape-row-alt);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  --radius: 0.5rem;
+  /* Cream paper, warm ink */
+  --background: oklch(0.973 0.012 85);
+  --foreground: oklch(0.22 0.02 60);
+  --card: oklch(0.985 0.01 85);
+  --card-foreground: oklch(0.22 0.02 60);
+  --popover: oklch(0.985 0.01 85);
+  --popover-foreground: oklch(0.22 0.02 60);
+  --primary: oklch(0.62 0.13 70); /* saffron / gold */
+  --primary-foreground: oklch(0.985 0.01 85);
+  --secondary: oklch(0.92 0.015 80);
+  --secondary-foreground: oklch(0.25 0.02 60);
+  --muted: oklch(0.93 0.012 80);
+  --muted-foreground: oklch(0.48 0.025 65);
+  --accent: oklch(0.62 0.13 70);
+  --accent-foreground: oklch(0.985 0.01 85);
+  --destructive: oklch(0.55 0.2 28);
+  --destructive-foreground: oklch(0.985 0.01 85);
+  --border: oklch(0.86 0.018 75);
+  --input: oklch(0.88 0.015 75);
+  --ring: oklch(0.62 0.13 70);
+
+  /* Plant tokens */
+  --wave-cpu: oklch(0.55 0.09 150); /* sage */
+  --wave-gpu: oklch(0.65 0.16 45); /* saffron */
+  --wave-weaver: oklch(0.6 0.13 80); /* gold */
+  --wave-seal: oklch(0.35 0.04 60); /* deep ink */
+  --tape-row: oklch(0.973 0.012 85);
+  --tape-row-alt: oklch(0.95 0.013 82);
+}
+
+.dark {
+  /* Deep ink, warm bone */
+  --background: oklch(0.18 0.012 60);
+  --foreground: oklch(0.93 0.015 85);
+  --card: oklch(0.22 0.014 60);
+  --card-foreground: oklch(0.93 0.015 85);
+  --popover: oklch(0.22 0.014 60);
+  --popover-foreground: oklch(0.93 0.015 85);
+  --primary: oklch(0.72 0.15 70);
+  --primary-foreground: oklch(0.18 0.012 60);
+  --secondary: oklch(0.27 0.014 60);
+  --secondary-foreground: oklch(0.93 0.015 85);
+  --muted: oklch(0.25 0.013 60);
+  --muted-foreground: oklch(0.68 0.02 75);
+  --accent: oklch(0.72 0.15 70);
+  --accent-foreground: oklch(0.18 0.012 60);
+  --destructive: oklch(0.65 0.2 28);
+  --destructive-foreground: oklch(0.18 0.012 60);
+  --border: oklch(1 0 0 / 9%);
+  --input: oklch(1 0 0 / 12%);
+  --ring: oklch(0.72 0.15 70);
+
+  --wave-cpu: oklch(0.7 0.12 150);
+  --wave-gpu: oklch(0.75 0.16 50);
+  --wave-weaver: oklch(0.78 0.14 80);
+  --wave-seal: oklch(0.85 0.02 75);
+  --tape-row: oklch(0.2 0.012 60);
+  --tape-row-alt: oklch(0.235 0.013 60);
+}

@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.47",
+  "sutta_name_en": "47 Satipatthana Part 3, 48 Indriya Part 1",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 47 Satipatthana Part 3, 48 Indriya Part 1. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "47"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_047_EcST2cz0x7M.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 4692.0,
+  "valid": false,
+  "youtube_video_id": "EcST2cz0x7M",
+  "youtube_url": "https://www.youtube.com/watch?v=EcST2cz0x7M"
+}

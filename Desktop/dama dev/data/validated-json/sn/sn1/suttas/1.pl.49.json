@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.49",
+  "sutta_name_en": "51 Iddhipada Part 1",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 51 Iddhipada Part 1. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "51"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_049_cMcHowU0MIA.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 3447.0,
+  "valid": false,
+  "youtube_video_id": "cMcHowU0MIA",
+  "youtube_url": "https://www.youtube.com/watch?v=cMcHowU0MIA"
+}

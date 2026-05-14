@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.6",
+  "sutta_name_en": "04 Mara",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 04 Mara. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "04"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_006_1jp6LGAwg3c.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 3974.0,
+  "valid": false,
+  "youtube_video_id": "1jp6LGAwg3c",
+  "youtube_url": "https://www.youtube.com/watch?v=1jp6LGAwg3c"
+}

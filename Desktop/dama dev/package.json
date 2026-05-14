@@ -1,0 +1,53 @@
+{
+  "name": "dama-dev",
+  "private": true,
+  "description": "Data pipeline and development dashboard for Dama",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview",
+    "pipe2": "python -m uv run python scripts/pipeline/pipeline.py",
+    "pipe2:download": "python -m uv run python scripts/pipeline/pipeline.py --from-stage download --to-stage download",
+    "pipe2:identification": "python -m uv run python scripts/pipeline/pipeline.py --from-stage identification --to-stage identification",
+    "pipe2:segmentation": "python -m uv run python scripts/pipeline/pipeline.py --from-stage segmentation --to-stage segmentation",
+    "pipe2:linking": "python -m uv run python scripts/pipeline/pipeline.py --from-stage linking --to-stage linking",
+    "pipe2:keys": "python -m uv run python scripts/pipeline/pipeline.py --from-stage keys --to-stage keys",
+    "pipe2:names": "python -m uv run python scripts/pipeline/pipeline.py --from-stage names --to-stage names",
+    "pipe2:cleaning": "python -m uv run python scripts/pipeline/pipeline.py --from-stage cleaning --to-stage cleaning",
+    "pipe2:validation": "python -m uv run python scripts/pipeline/pipeline.py --from-stage validation --to-stage validation",
+    "pipe2:tally": "python -m uv run python scripts/pipeline/pipeline.py --from-stage tally --to-stage tally",
+    "translate:ja": "python scripts/pipeline/16_translate_ja.py",
+    "translate:ja:check": "python scripts/pipeline/16_translate_ja.py --check",
+    "sync:gcs": "python scripts/pipeline/18_sync_gcs.py",
+    "index:gen": "python scripts/pipeline/17_generate_index.py",
+    "quiz:gen": "python scripts/pipeline/19_generate_quiz.py",
+    "tag:commentary": "python scripts/pipeline/21_tag_commentary.py",
+    "verify": "npm run pipe2:tally"
+  },
+  "dependencies": {
+    "@radix-ui/react-progress": "^1.1.8",
+    "@tanstack/react-router": "^1.95.1",
+    "@tanstack/react-start": "^1.95.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.469.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^3.8.1",
+    "tailwind-merge": "^3.6.0",
+    "vinxi": "^0.5.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "nitro": "^3.0.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.2",
+    "vite": "^7.0.0",
+    "vite-tsconfig-paths": "^5.1.4"
+  }
+}

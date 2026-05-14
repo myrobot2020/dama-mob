@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.18",
+  "sutta_name_en": "14 Dhatu Part 2,15 Anamatagga,16 Kassapa Part 1",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 14 Dhatu Part 2,15 Anamatagga,16 Kassapa Part 1. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "14"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_018_Cl09UGHJIck.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 3441.0,
+  "valid": false,
+  "youtube_video_id": "Cl09UGHJIck",
+  "youtube_url": "https://www.youtube.com/watch?v=Cl09UGHJIck"
+}

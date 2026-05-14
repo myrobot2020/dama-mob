@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.15",
+  "sutta_name_en": "12 Nidana Part 4",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 12 Nidana Part 4. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "12"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_015_86kgliLYsrg.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 4969.0,
+  "valid": false,
+  "youtube_video_id": "86kgliLYsrg",
+  "youtube_url": "https://www.youtube.com/watch?v=86kgliLYsrg"
+}

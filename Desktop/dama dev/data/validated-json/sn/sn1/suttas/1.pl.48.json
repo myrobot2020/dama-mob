@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.48",
+  "sutta_name_en": "48 Indriya Part 2, 49 Sammappadhana, 50 Bala",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 48 Indriya Part 2, 49 Sammappadhana, 50 Bala. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "48"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_048_QfLh7SIZwOQ.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 4495.0,
+  "valid": false,
+  "youtube_video_id": "QfLh7SIZwOQ",
+  "youtube_url": "https://www.youtube.com/watch?v=QfLh7SIZwOQ"
+}

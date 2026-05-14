@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.45",
+  "sutta_name_en": "47 Satipatthana Part 1",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 47 Satipatthana Part 1. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "47"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_045_yL1Ayx-yYxQ.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 3736.0,
+  "valid": false,
+  "youtube_video_id": "yL1Ayx-yYxQ",
+  "youtube_url": "https://www.youtube.com/watch?v=yL1Ayx-yYxQ"
+}

@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.28",
+  "sutta_name_en": "26 Uppada,27 Kilesa,28 Sariputta,29 Naga,30 Supanna,31Gandhabba,32Valahaka,33Vacchag",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 26 Uppada,27 Kilesa,28 Sariputta,29 Naga,30 Supanna,31Gandhabba,32Valahaka,33Vacchag. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "26"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_028_1mHaGE5ZYoc.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 4152.0,
+  "valid": false,
+  "youtube_video_id": "1mHaGE5ZYoc",
+  "youtube_url": "https://www.youtube.com/watch?v=1mHaGE5ZYoc"
+}

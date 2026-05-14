@@ -1,0 +1,21 @@
+{
+  "sutta_id": "SN 1.pl.10",
+  "sutta_name_en": "09 Vana Part 2, 10 Yakkha, 11 Sakka",
+  "sutta_name_pali": "",
+  "sutta": "(Caption track missing or short.) 09 Vana Part 2, 10 Yakkha, 11 Sakka. Open the YouTube subtitles or re-run with working yt-dlp captions.",
+  "commentary": "",
+  "chain": {
+    "items": [
+      "09"
+    ],
+    "count": 1,
+    "is_ordered": true,
+    "category": "single factor"
+  },
+  "aud_file": "sn_010_QGDzr0Bv-Jw.webm",
+  "aud_start_s": 0.0,
+  "aud_end_s": 3994.0,
+  "valid": false,
+  "youtube_video_id": "QGDzr0Bv-Jw",
+  "youtube_url": "https://www.youtube.com/watch?v=QGDzr0Bv-Jw"
+}
