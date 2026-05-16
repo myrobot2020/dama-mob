@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Build outputs
+dist/
+build/
+android/app/build/
+android/.gradle/
+ios/build/
+.expo/
+
+# Environment / Secrets
+.env
+.env.local
+.env.*.local
+docs/keys.txt
+*.keystore
+!debug.keystore
+
+# Large Data (Audio should be on GCS)
+public/audio/
+*.mp3
+*.wav
+
+# Machine Learning Models
+*.pb
+*.onnx
+
+# System files
+.DS_Store
+Thumbs.db
+build_log.txt
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
