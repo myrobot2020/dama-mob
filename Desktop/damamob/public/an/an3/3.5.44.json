@@ -1,0 +1,21 @@
+{
+  "sutta_id": "3.5.44",
+  "sutta_name_en": "Success",
+  "sutta_name_pali": "Pavatti Sutta",
+  "sutta": "the buddha said in three respects monks at all is profitable what three when he who teaches dharma and he who listens and both alike are able to penetrate both the spirit and the letter thereof ah that's the end of the suta ",
+  "commentary": "so here the buddha is saying a talk that means a dhamma talk would be very profitable if the teacher the one who speaks the dhamma understands the dhamma and the one who listens is also able to understand and both are able to penetrate this the spirit and the letter of the dhamma and that would be very very good next",
+  "chain": {
+    "items": [
+      "the teacher",
+      "he who listens",
+      "both alike"
+    ],
+    "count": 3,
+    "is_ordered": true,
+    "category": "Dhamma Talk"
+  },
+  "aud_file": "012_Anguttara Nikaya Book 3D 3544 - 3658 by Bhante Hye Dhammavuddho Mahathera.mp3",
+  "aud_start_s": 0.43,
+  "aud_end_s": 178.34,
+  "valid": true
+}
